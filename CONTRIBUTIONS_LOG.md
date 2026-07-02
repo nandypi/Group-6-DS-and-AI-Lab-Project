@@ -7,10 +7,10 @@ This document tracks the individual contributions of each team member throughout
 | Team Member | Contribution |
 |-------------|--------------|
 | **Shubhashish Biswas** | Contributed to the problem definition, explored existing solutions, conducted the literature review, provided domain knowledge during discussions, and reviewed the final deliverables. |
-| **Gurram Sai Sri Ram Hruthik** | Prepared the Milestone 1 presentation (PPT), explored existing solutions, and contributed to the literature review. |
+| **Gurram Sai Sri Ram Hruthik** | Prepared the Milestone 1 presentation (PPT), explored existing solutions, proofread final document and contributed to the literature review. |
 | **NandanReddy Parnapalli** | Created the project repository, configured the GitHub repository for Milestone 1, added collaborators, managed repository access, and completed the required project forms. |
 | **Shubham Gattani** | Participated in problem definition discussions, explored existing solutions and analyzed their advantages and limitations, and proofread the project documentation and presentation. |
-| **Akbar Ali** | Prepared the Milestone 1 presentation (PPT), explored existing solutions, and contributed to the literature review. |
+| **Akbar Ali** | Participated in problem definition discussions, prepared the Milestone 1 document and assited with presentation (PPT), explored existing solutions, and contributed to the literature review. |
 
 ---
 
