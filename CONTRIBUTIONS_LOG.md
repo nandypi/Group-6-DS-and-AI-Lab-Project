@@ -2,6 +2,25 @@
 
 This document tracks the individual contributions of each team member throughout the project milestones.
 
+## Team Consent
+
+We, the undersigned team members, confirm that:
+
+- We have actively contributed to the completion of the project milestones.
+- We have reviewed the submitted work and verified its contents.
+- We consent to the submission of the project milestones for evaluation.
+- The contributions listed in this document accurately reflect our individual work.
+
+| Name | Roll No. | Signature |
+|------|----------|-----------|
+| Shubhashish Biswas | *21f1001460* | *S.B* |
+| Gurram Sai Sri Ram Hruthik | *22f3001648* | *G.H* |
+| Shubham Gattani | *21f3002082* | *S.G* |
+| Akbar Ali | *23f1002997* | *A.A* |
+| NandanReddy Parnapalli | *22f3002857* | *N.P* |
+
+---
+
 ## Milestone 1 – Problem Definition & Literature Review
 
 | Team Member | Contribution |
