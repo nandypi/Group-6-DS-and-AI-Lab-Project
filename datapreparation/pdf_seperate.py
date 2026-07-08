@@ -1,3 +1,16 @@
+"""
+Reason this file exists:
+Split the raw NSE announcement metadata into keep, reject, and review buckets
+using hand-written announcement category and keyword rules.
+
+Code flow:
+1. Read data/announcements_metadata-last-year.json.
+2. Create data/processed if it does not already exist.
+3. Classify every filing into keep, reject, or review.
+4. Print the bucket counts.
+5. Write keep.json, reject.json, and review.json under data/processed.
+"""
+
 import json
 import os
 
