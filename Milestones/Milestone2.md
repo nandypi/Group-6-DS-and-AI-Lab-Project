@@ -89,7 +89,8 @@ This is a RAG knowledge corpus, not a labeled training set, so a conventional tr
 * **Leakage check:** tracked at the **document level** (by `source_url`/filename) — a document used to seed an evaluation question is not also claimed as an "unseen" document in later generalization checks. Chunk-level splitting is avoided since chunks from the same document are highly correlated.
 * **Temporal holdout:** once multi-year data is available (§4), the most recent reporting period will be held out from corpus construction to test recency-sensitive queries without those filings having tuned retrieval.
 * Chunking Strategy:
-* (a) For quarterly reports, structure-aware chunking will be used to benefit the most from its uniform and structured format as pu
+	- Our chunking strategy will be **knowledge-object based, not blind fixed-size chunking**. First, each accepted NSE PDF will be split into logical sections wherever possible, such as press release, financial highlights, board meeting outcome, auditor report, transcript Q&A, buyback terms, or CSR update. Each section will be sent to an LLM for structured knowledge extraction, producing summaries, key facts, financial metrics, entities, important text spans, and page references. For short documents like 3–5 page press releases, we may store one clean event-style chunk after removing cover letters, safe-harbor text, signatures, and contact details. For large documents like financial-result PDFs, annual reports, transcripts, or Form 20-F filings, we will chunk section-wise and keep only investor-relevant extracted knowledge rather than embedding the full raw PDF. Financial numbers will also be stored separately as structured JSON so exact metrics are not lost inside summaries. Each final chunk will carry metadata such as document name, source URL, announcement date, category, page range, and importance, enabling focused retrieval and citation.
+
 
 ---
 
