@@ -56,7 +56,7 @@ Pilot company: **Infosys Limited (NSE: INFY)**. Target window: **1 July 2025 –
 | Shareholders meeting | 8 |
 | Others (13 categories) | 25 |
 
-Attachment size range: 124 KB – ~41 MB (avg ~1.96 MB per PDF).
+Attachment size range: 124 KB – ~41 MB (avg ~1.96 MB per PDF). \
 Total size ~405 MB (All Markdown Files)
 
 ---
