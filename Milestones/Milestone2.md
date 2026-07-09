@@ -36,8 +36,7 @@ Pilot company: **Infosys Limited (NSE: INFY)**. Target window: **1 July 2025 –
 
 | Source | Raw units collected | Converted / usable Markdown |
 | --- | --- | --- |
-| NSE announcements (metadata) | 240 records (1-yr sample, `data/announcements_metadata-last-year.json`) | — |
-| NSE announcement PDFs → Markdown | 492 PDFs converted (`data/nse_files/final/`) | 180 selected into RAG corpus (108 auto-kept + 72 LLM-accepted, see §7) |
+| NSE announcement PDFs → Markdown | 492 PDFs converted (`data/nse_files/final/`) | 180 selected into RAG corpus (108 auto-kept + 72 LLM-accepted) |
 | Infosys IR site (earnings calls, fact sheets, press releases, press conferences — FY26 Q1–Q4) | 16 PDFs | 16 (`data/infosys_earning_calls_press_conf_fact_sheets_results/`) |
 | Yahoo Finance news articles | 6 PDFs | 6 (`data/yfinance/mds/`) |
 | Trendlyne broker reports | 5 PDFs | 5 (`data/trendlyne/mds/`) |
