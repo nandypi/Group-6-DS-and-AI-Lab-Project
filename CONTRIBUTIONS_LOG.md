@@ -35,7 +35,13 @@ We, the undersigned team members, confirm that:
 
 ## Milestone 2
 
-*To be updated.*
+| Team Member | Contribution |
+|-------------|--------------|
+| **Shubham Gattani** |  |
+| **Gurram Sai Sri Ram Hruthik** |  |
+| **Shubhashish Biswas** |  |
+| **NandanReddy Parnapalli** |  |
+| **Akbar Ali** |  |
 
 ---
 
