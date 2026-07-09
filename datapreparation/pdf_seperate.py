@@ -49,6 +49,8 @@ GROUP_C = {
     "Trading Window"
 }
 
+
+# Filters for Group B. If we are not able to decide based on "desc", then we will look for these keywords in the "attchmntText" field.
 GOOD = [
     "earnings call transcript",
     "transcript",
