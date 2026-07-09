@@ -40,7 +40,7 @@ We, the undersigned team members, confirm that:
 | **Shubham Gattani** | Analyzed NSE finlings and yfinace articles, using tiered filters and LLM prompts to automate categorization and slash manual review time. Preprocessed and logically organized markdown files to streamline our data ingestion pipeline. |
 | **Gurram Sai Sri Ram Hruthik** | Converted NSE filings, earnings call, and fact sheet PDFs to Markdown using the open-source Docling tool, and completed the Milestone 2 project report. |
 | **Shubhashish Biswas** |  |
-| **NandanReddy Parnapalli** | Developed filtering logic for NSE documents based on description key words, including data extraction and Markdown conversion for Trendlyne and Yahoo Finance sources. Explored the Trendlyne platform to collect brokerage research reports. |
+| **NandanReddy Parnapalli** | Developed filtering logic for NSE documents based on description key words, including data extraction and Markdown conversion for Trendlyne and Yahoo Finance sources. |
 | **Akbar Ali** | Explored news aggregation platforms such as Zerodha Pulse and data sources like GDELT to evaluate options for collecting financial news. Contributed to the preparation of the Milestone 2 presentation. |
 
 ---
