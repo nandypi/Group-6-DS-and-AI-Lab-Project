@@ -39,7 +39,8 @@ We, the undersigned team members, confirm that:
 |-------------|--------------|
 | **Shubham Gattani** | Analyzed Infosys NSE filings and created metadata-based filtering rules that automated ~40% of document screening. Developed an LLM prompt to classify ambiguous documents into ACCEPT/REJECT categories. Extracted Yahoo Finance articles using the `yfinance` library and performed markdown file categorization, renaming, and preprocessing to support data collection and ingestion.|
 | **Gurram Sai Sri Ram Hruthik** | Converted NSE filings, earnings call, and fact sheet PDFs to Markdown using the open-source Docling tool, and completed the Milestone 2 project report. |
-| **Shubhashish Biswas** |  |
+| **Shubhashish Biswas** | 
+ Included data from Infosys IR, included scripts for data collection from Yt finance, reviewed data veracity and helped with chunking strategy formulation, reviewed readme and ppt |
 | **NandanReddy Parnapalli** | Developed filtering logic for NSE documents based on description key words, including data extraction and Markdown conversion for Trendlyne and Yahoo Finance sources. |
 | **Akbar Ali** | Explored news aggregation platforms such as Zerodha Pulse and data sources like GDELT to evaluate options for collecting financial news. Contributed to the preparation of the Milestone 2 presentation. |
 
