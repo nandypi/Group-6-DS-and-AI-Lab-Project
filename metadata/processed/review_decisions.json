@@ -1,0 +1,1037 @@
+[
+  {
+    "file_name": "Infosys_01122025170232_SEfiling_Reg30_01122025.md",
+    "decision": "ACCEPT",
+    "document_families": "litigation_or_regulatory",
+    "rejection_reason": "",
+    "confidence_score": "0.90",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The company statement gives tax, GST, penalty, or regulatory facts with potential research value."
+  },
+  {
+    "file_name": "Infosys_02012026090317_letter_January022026.md",
+    "decision": "ACCEPT",
+    "document_families": "litigation_or_regulatory",
+    "rejection_reason": "",
+    "confidence_score": "0.90",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The company statement gives tax, GST, penalty, or regulatory facts with potential research value."
+  },
+  {
+    "file_name": "Infosys_02082025102207_Grant_of_RSUs_01082025.md",
+    "decision": "REJECT",
+    "document_families": "",
+    "rejection_reason": "esop_or_allotment_only",
+    "confidence_score": "0.95",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The document only reports routine RSU or stock incentive grant details."
+  },
+  {
+    "file_name": "Infosys_02092025112840_PR_02092025_signed.md",
+    "decision": "ACCEPT",
+    "document_families": "press_release|partnership_or_agreement|esg_or_brsr",
+    "rejection_reason": "",
+    "confidence_score": "0.82",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The press release contains company, brand, client, CSR, product, or market-positioning information with factual value."
+  },
+  {
+    "file_name": "Infosys_03072025110400_PR_03072025.md",
+    "decision": "ACCEPT",
+    "document_families": "press_release|esg_or_brsr",
+    "rejection_reason": "",
+    "confidence_score": "0.82",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The press release contains company, brand, client, CSR, product, or market-positioning information with factual value."
+  },
+  {
+    "file_name": "Infosys_03072025110400_PR_03072025_7efd8981.md",
+    "decision": "REJECT",
+    "document_families": "",
+    "rejection_reason": "duplicate_or_no_new_knowledge",
+    "confidence_score": "0.98",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "Duplicate markdown content already reviewed, so it adds no new knowledge."
+  },
+  {
+    "file_name": "Infosys_03102025154040_PR_03102025.md",
+    "decision": "ACCEPT",
+    "document_families": "press_release|partnership_or_agreement",
+    "rejection_reason": "",
+    "confidence_score": "0.82",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The press release contains company, brand, client, CSR, product, or market-positioning information with factual value."
+  },
+  {
+    "file_name": "Infosys_03102025154040_PR_03102025_03d55c9f.md",
+    "decision": "REJECT",
+    "document_families": "",
+    "rejection_reason": "duplicate_or_no_new_knowledge",
+    "confidence_score": "0.98",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "Duplicate markdown content already reviewed, so it adds no new knowledge."
+  },
+  {
+    "file_name": "Infosys_03122025152626_PR_03122025.md",
+    "decision": "ACCEPT",
+    "document_families": "press_release|other_useful",
+    "rejection_reason": "",
+    "confidence_score": "0.82",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The press release contains company, brand, client, CSR, product, or market-positioning information with factual value."
+  },
+  {
+    "file_name": "Infosys_03122025152626_PR_03122025_4e676e7e.md",
+    "decision": "REJECT",
+    "document_families": "",
+    "rejection_reason": "duplicate_or_no_new_knowledge",
+    "confidence_score": "0.98",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "Duplicate markdown content already reviewed, so it adds no new knowledge."
+  },
+  {
+    "file_name": "Infosys_05082025214028_SEfiling_Reg30disclosure_05082025.md",
+    "decision": "ACCEPT",
+    "document_families": "litigation_or_regulatory",
+    "rejection_reason": "",
+    "confidence_score": "0.95",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The document discusses the McCamish cyber incident or related regulatory/legal updates."
+  },
+  {
+    "file_name": "Infosys_05122025224450_SEfiling_Reg30_05122025.md",
+    "decision": "ACCEPT",
+    "document_families": "other_useful",
+    "rejection_reason": "",
+    "confidence_score": "0.84",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The filing records a subsidiary incorporation, merger, or shareholding transfer relevant to corporate structure."
+  },
+  {
+    "file_name": "Infosys_06122025165814_SEfiling_Reg30_06122025.md",
+    "decision": "ACCEPT",
+    "document_families": "litigation_or_regulatory",
+    "rejection_reason": "",
+    "confidence_score": "0.90",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The company statement gives tax, GST, penalty, or regulatory facts with potential research value."
+  },
+  {
+    "file_name": "Infosys_07012026160637_PR_07012026_3.md",
+    "decision": "REJECT",
+    "document_families": "",
+    "rejection_reason": "investor_meeting_schedule_only",
+    "confidence_score": "0.92",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The document only announces the results date and earnings call logistics."
+  },
+  {
+    "file_name": "Infosys_07012026160637_PR_07012026_3_dd2e4ee3.md",
+    "decision": "REJECT",
+    "document_families": "",
+    "rejection_reason": "duplicate_or_no_new_knowledge",
+    "confidence_score": "0.98",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "Duplicate markdown content already reviewed, so it adds no new knowledge."
+  },
+  {
+    "file_name": "Infosys_07102025163020_SEfiling_Reg30_07102025.md",
+    "decision": "ACCEPT",
+    "document_families": "litigation_or_regulatory",
+    "rejection_reason": "",
+    "confidence_score": "0.90",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The company statement gives tax, GST, penalty, or regulatory facts with potential research value."
+  },
+  {
+    "file_name": "Infosys_08082025160923_PR_08082025.md",
+    "decision": "ACCEPT",
+    "document_families": "press_release|partnership_or_agreement",
+    "rejection_reason": "",
+    "confidence_score": "0.82",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The press release contains company, brand, client, CSR, product, or market-positioning information with factual value."
+  },
+  {
+    "file_name": "Infosys_08082025160923_PR_08082025_00db837e.md",
+    "decision": "REJECT",
+    "document_families": "",
+    "rejection_reason": "duplicate_or_no_new_knowledge",
+    "confidence_score": "0.98",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "Duplicate markdown content already reviewed, so it adds no new knowledge."
+  },
+  {
+    "file_name": "Infosys_08122025110831_PR_08122025.md",
+    "decision": "ACCEPT",
+    "document_families": "press_release|partnership_or_agreement|esg_or_brsr",
+    "rejection_reason": "",
+    "confidence_score": "0.82",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The press release contains company, brand, client, CSR, product, or market-positioning information with factual value."
+  },
+  {
+    "file_name": "Infosys_08122025110831_PR_08122025_c50e5dd4.md",
+    "decision": "REJECT",
+    "document_families": "",
+    "rejection_reason": "duplicate_or_no_new_knowledge",
+    "confidence_score": "0.98",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "Duplicate markdown content already reviewed, so it adds no new knowledge."
+  },
+  {
+    "file_name": "Infosys_09092025102824_PR_09092025.md",
+    "decision": "ACCEPT",
+    "document_families": "press_release|partnership_or_agreement",
+    "rejection_reason": "",
+    "confidence_score": "0.82",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The press release contains company, brand, client, CSR, product, or market-positioning information with factual value."
+  },
+  {
+    "file_name": "Infosys_09092025102824_PR_09092025_abcb9106.md",
+    "decision": "REJECT",
+    "document_families": "",
+    "rejection_reason": "duplicate_or_no_new_knowledge",
+    "confidence_score": "0.98",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "Duplicate markdown content already reviewed, so it adds no new knowledge."
+  },
+  {
+    "file_name": "Infosys_09102025102009_SE_filing_Reg_30_09102025.md",
+    "decision": "ACCEPT",
+    "document_families": "litigation_or_regulatory",
+    "rejection_reason": "",
+    "confidence_score": "0.90",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The company statement gives tax, GST, penalty, or regulatory facts with potential research value."
+  },
+  {
+    "file_name": "Infosys_09102025153446_PR_09102025.md",
+    "decision": "REJECT",
+    "document_families": "",
+    "rejection_reason": "investor_meeting_schedule_only",
+    "confidence_score": "0.92",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The document only announces the results date and earnings call logistics."
+  },
+  {
+    "file_name": "Infosys_09102025153446_PR_09102025_7092ba1b.md",
+    "decision": "REJECT",
+    "document_families": "",
+    "rejection_reason": "duplicate_or_no_new_knowledge",
+    "confidence_score": "0.98",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "Duplicate markdown content already reviewed, so it adds no new knowledge."
+  },
+  {
+    "file_name": "Infosys_09122025220401_SEfiling_Reg30_09122025.md",
+    "decision": "ACCEPT",
+    "document_families": "other_useful",
+    "rejection_reason": "",
+    "confidence_score": "0.84",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The filing records a subsidiary incorporation, merger, or shareholding transfer relevant to corporate structure."
+  },
+  {
+    "file_name": "Infosys_10012026223344_PR_10012026.md",
+    "decision": "ACCEPT",
+    "document_families": "press_release|partnership_or_agreement|esg_or_brsr",
+    "rejection_reason": "",
+    "confidence_score": "0.82",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The press release contains company, brand, client, CSR, product, or market-positioning information with factual value."
+  },
+  {
+    "file_name": "Infosys_10012026223344_PR_10012026_6f19f3a2.md",
+    "decision": "REJECT",
+    "document_families": "",
+    "rejection_reason": "duplicate_or_no_new_knowledge",
+    "confidence_score": "0.98",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "Duplicate markdown content already reviewed, so it adds no new knowledge."
+  },
+  {
+    "file_name": "Infosys_10032026130708_PR_10032026.md",
+    "decision": "ACCEPT",
+    "document_families": "press_release|partnership_or_agreement",
+    "rejection_reason": "",
+    "confidence_score": "0.82",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The press release contains company, brand, client, CSR, product, or market-positioning information with factual value."
+  },
+  {
+    "file_name": "Infosys_10032026130708_PR_10032026_ed1cece7.md",
+    "decision": "REJECT",
+    "document_families": "",
+    "rejection_reason": "duplicate_or_no_new_knowledge",
+    "confidence_score": "0.98",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "Duplicate markdown content already reviewed, so it adds no new knowledge."
+  },
+  {
+    "file_name": "Infosys_10102025153819_PR_10102025.md",
+    "decision": "ACCEPT",
+    "document_families": "press_release|partnership_or_agreement",
+    "rejection_reason": "",
+    "confidence_score": "0.82",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The press release contains company, brand, client, CSR, product, or market-positioning information with factual value."
+  },
+  {
+    "file_name": "Infosys_10102025153819_PR_10102025_7e0746af.md",
+    "decision": "REJECT",
+    "document_families": "",
+    "rejection_reason": "duplicate_or_no_new_knowledge",
+    "confidence_score": "0.98",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "Duplicate markdown content already reviewed, so it adds no new knowledge."
+  },
+  {
+    "file_name": "Infosys_11052026204044_NOC_Disclosure_May112026_signed.md",
+    "decision": "ACCEPT",
+    "document_families": "board_meeting_outcome|other_useful",
+    "rejection_reason": "",
+    "confidence_score": "0.90",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The filing contains governance facts on board appointments, promoter reclassification, or related board outcomes."
+  },
+  {
+    "file_name": "Infosys_11072025182751_SEfiling_Reg30disclosure_11072025.md",
+    "decision": "ACCEPT",
+    "document_families": "litigation_or_regulatory",
+    "rejection_reason": "",
+    "confidence_score": "0.95",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The document discusses the McCamish cyber incident or related regulatory/legal updates."
+  },
+  {
+    "file_name": "Infosys_11082025152913_PR_11082025.md",
+    "decision": "ACCEPT",
+    "document_families": "press_release|partnership_or_agreement",
+    "rejection_reason": "",
+    "confidence_score": "0.82",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The press release contains company, brand, client, CSR, product, or market-positioning information with factual value."
+  },
+  {
+    "file_name": "Infosys_11082025152913_PR_11082025_741077cc.md",
+    "decision": "REJECT",
+    "document_families": "",
+    "rejection_reason": "duplicate_or_no_new_knowledge",
+    "confidence_score": "0.98",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "Duplicate markdown content already reviewed, so it adds no new knowledge."
+  },
+  {
+    "file_name": "Infosys_11112025110410_PR_11112025.md",
+    "decision": "ACCEPT",
+    "document_families": "press_release|other_useful",
+    "rejection_reason": "",
+    "confidence_score": "0.82",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The press release contains company, brand, client, CSR, product, or market-positioning information with factual value."
+  },
+  {
+    "file_name": "Infosys_11112025110410_PR_11112025_c2bffdb4.md",
+    "decision": "REJECT",
+    "document_families": "",
+    "rejection_reason": "duplicate_or_no_new_knowledge",
+    "confidence_score": "0.98",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "Duplicate markdown content already reviewed, so it adds no new knowledge."
+  },
+  {
+    "file_name": "Infosys_12032026114226_PR_12032026.md",
+    "decision": "ACCEPT",
+    "document_families": "press_release|partnership_or_agreement",
+    "rejection_reason": "",
+    "confidence_score": "0.82",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The press release contains company, brand, client, CSR, product, or market-positioning information with factual value."
+  },
+  {
+    "file_name": "Infosys_12032026114226_PR_12032026_83ce8c6d.md",
+    "decision": "REJECT",
+    "document_families": "",
+    "rejection_reason": "duplicate_or_no_new_knowledge",
+    "confidence_score": "0.98",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "Duplicate markdown content already reviewed, so it adds no new knowledge."
+  },
+  {
+    "file_name": "Infosys_12112025112042_PR_12112025.md",
+    "decision": "ACCEPT",
+    "document_families": "press_release|partnership_or_agreement|esg_or_brsr",
+    "rejection_reason": "",
+    "confidence_score": "0.82",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The press release contains company, brand, client, CSR, product, or market-positioning information with factual value."
+  },
+  {
+    "file_name": "Infosys_12112025112042_PR_12112025_c4594421.md",
+    "decision": "REJECT",
+    "document_families": "",
+    "rejection_reason": "duplicate_or_no_new_knowledge",
+    "confidence_score": "0.98",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "Duplicate markdown content already reviewed, so it adds no new knowledge."
+  },
+  {
+    "file_name": "Infosys_12122025210523_SE_Filing_Extinguishment_11122025.md",
+    "decision": "ACCEPT",
+    "document_families": "dividend_or_buyback",
+    "rejection_reason": "",
+    "confidence_score": "0.96",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The document contains substantive buyback, offer, extinguishment, or SEC relief information."
+  },
+  {
+    "file_name": "Infosys_13022026225816_SE_Filing_Reg30_13022026.md",
+    "decision": "ACCEPT",
+    "document_families": "litigation_or_regulatory",
+    "rejection_reason": "",
+    "confidence_score": "0.90",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The company statement gives tax, GST, penalty, or regulatory facts with potential research value."
+  },
+  {
+    "file_name": "Infosys_13032026145859_PR_13032026.md",
+    "decision": "ACCEPT",
+    "document_families": "press_release|partnership_or_agreement",
+    "rejection_reason": "",
+    "confidence_score": "0.82",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The press release contains company, brand, client, CSR, product, or market-positioning information with factual value."
+  },
+  {
+    "file_name": "Infosys_13032026145859_PR_13032026_ad319f72.md",
+    "decision": "REJECT",
+    "document_families": "",
+    "rejection_reason": "duplicate_or_no_new_knowledge",
+    "confidence_score": "0.98",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "Duplicate markdown content already reviewed, so it adds no new knowledge."
+  },
+  {
+    "file_name": "Infosys_13082025223713_SEfiling_Reg30disclosure_13082025.md",
+    "decision": "ACCEPT",
+    "document_families": "litigation_or_regulatory",
+    "rejection_reason": "",
+    "confidence_score": "0.90",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The company statement gives tax, GST, penalty, or regulatory facts with potential research value."
+  },
+  {
+    "file_name": "Infosys_14012026205614_SEfiling_AuditorsreportwithUDIN.md",
+    "decision": "ACCEPT",
+    "document_families": "quarterly_results",
+    "rejection_reason": "",
+    "confidence_score": "0.91",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The filing contains financial results and auditor report content useful for quarterly performance analysis."
+  },
+  {
+    "file_name": "Infosys_14102025142305_PR_14102025.md",
+    "decision": "ACCEPT",
+    "document_families": "press_release|other_useful",
+    "rejection_reason": "",
+    "confidence_score": "0.82",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The press release contains company, brand, client, CSR, product, or market-positioning information with factual value."
+  },
+  {
+    "file_name": "Infosys_14102025142305_PR_14102025_4db53592.md",
+    "decision": "REJECT",
+    "document_families": "",
+    "rejection_reason": "duplicate_or_no_new_knowledge",
+    "confidence_score": "0.98",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "Duplicate markdown content already reviewed, so it adds no new knowledge."
+  },
+  {
+    "file_name": "Infosys_14112025111307_SEfilingReg30disclosure_14112025.md",
+    "decision": "ACCEPT",
+    "document_families": "other_useful",
+    "rejection_reason": "",
+    "confidence_score": "0.84",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The filing records a subsidiary incorporation, merger, or shareholding transfer relevant to corporate structure."
+  },
+  {
+    "file_name": "Infosys_15012026125035_Reg30disclosure_15012026.md",
+    "decision": "ACCEPT",
+    "document_families": "other_useful",
+    "rejection_reason": "",
+    "confidence_score": "0.84",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The filing records a subsidiary incorporation, merger, or shareholding transfer relevant to corporate structure."
+  },
+  {
+    "file_name": "Infosys_15042026160716_PR_15042026.md",
+    "decision": "ACCEPT",
+    "document_families": "press_release|partnership_or_agreement",
+    "rejection_reason": "",
+    "confidence_score": "0.82",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The press release contains company, brand, client, CSR, product, or market-positioning information with factual value."
+  },
+  {
+    "file_name": "Infosys_15042026160716_PR_15042026_81047787.md",
+    "decision": "REJECT",
+    "document_families": "",
+    "rejection_reason": "duplicate_or_no_new_knowledge",
+    "confidence_score": "0.98",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "Duplicate markdown content already reviewed, so it adds no new knowledge."
+  },
+  {
+    "file_name": "Infosys_15072025105756_PR_15072025.md",
+    "decision": "ACCEPT",
+    "document_families": "press_release|partnership_or_agreement|esg_or_brsr",
+    "rejection_reason": "",
+    "confidence_score": "0.82",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The press release contains company, brand, client, CSR, product, or market-positioning information with factual value."
+  },
+  {
+    "file_name": "Infosys_15072025105756_PR_15072025_e816ea09.md",
+    "decision": "REJECT",
+    "document_families": "",
+    "rejection_reason": "duplicate_or_no_new_knowledge",
+    "confidence_score": "0.98",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "Duplicate markdown content already reviewed, so it adds no new knowledge."
+  },
+  {
+    "file_name": "Infosys_15072025210218_PR_15072025_2.md",
+    "decision": "REJECT",
+    "document_families": "",
+    "rejection_reason": "investor_meeting_schedule_only",
+    "confidence_score": "0.92",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The document only announces the results date and earnings call logistics."
+  },
+  {
+    "file_name": "Infosys_15072025210218_PR_15072025_2_504881f8.md",
+    "decision": "REJECT",
+    "document_families": "",
+    "rejection_reason": "duplicate_or_no_new_knowledge",
+    "confidence_score": "0.98",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "Duplicate markdown content already reviewed, so it adds no new knowledge."
+  },
+  {
+    "file_name": "Infosys_16042026151915_PR_16042026.md",
+    "decision": "REJECT",
+    "document_families": "",
+    "rejection_reason": "investor_meeting_schedule_only",
+    "confidence_score": "0.92",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The document only announces the results date and earnings call logistics."
+  },
+  {
+    "file_name": "Infosys_16042026151915_PR_16042026_d508f6ad.md",
+    "decision": "REJECT",
+    "document_families": "",
+    "rejection_reason": "duplicate_or_no_new_knowledge",
+    "confidence_score": "0.98",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "Duplicate markdown content already reviewed, so it adds no new knowledge."
+  },
+  {
+    "file_name": "Infosys_16072025092948_PR_16072025.md",
+    "decision": "ACCEPT",
+    "document_families": "press_release|partnership_or_agreement",
+    "rejection_reason": "",
+    "confidence_score": "0.82",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The press release contains company, brand, client, CSR, product, or market-positioning information with factual value."
+  },
+  {
+    "file_name": "Infosys_16072025092948_PR_16072025_a107484f.md",
+    "decision": "REJECT",
+    "document_families": "",
+    "rejection_reason": "duplicate_or_no_new_knowledge",
+    "confidence_score": "0.98",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "Duplicate markdown content already reviewed, so it adds no new knowledge."
+  },
+  {
+    "file_name": "Infosys_16072025152918_PR_16072025_2.md",
+    "decision": "ACCEPT",
+    "document_families": "press_release|partnership_or_agreement",
+    "rejection_reason": "",
+    "confidence_score": "0.82",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The press release contains company, brand, client, CSR, product, or market-positioning information with factual value."
+  },
+  {
+    "file_name": "Infosys_16072025152918_PR_16072025_2_283649db.md",
+    "decision": "REJECT",
+    "document_families": "",
+    "rejection_reason": "duplicate_or_no_new_knowledge",
+    "confidence_score": "0.98",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "Duplicate markdown content already reviewed, so it adds no new knowledge."
+  },
+  {
+    "file_name": "Infosys_16102025215621_SEfiling_AuditorsreportwithUDIN_Q2FY26.md",
+    "decision": "ACCEPT",
+    "document_families": "quarterly_results",
+    "rejection_reason": "",
+    "confidence_score": "0.91",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The filing contains financial results and auditor report content useful for quarterly performance analysis."
+  },
+  {
+    "file_name": "Infosys_17072025221306_SEfiling_Reg30_17072025.md",
+    "decision": "ACCEPT",
+    "document_families": "other_useful",
+    "rejection_reason": "",
+    "confidence_score": "0.84",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The filing records a subsidiary incorporation, merger, or shareholding transfer relevant to corporate structure."
+  },
+  {
+    "file_name": "Infosys_17122025163654_letter_17122025.md",
+    "decision": "ACCEPT",
+    "document_families": "litigation_or_regulatory",
+    "rejection_reason": "",
+    "confidence_score": "0.90",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The company statement gives tax, GST, penalty, or regulatory facts with potential research value."
+  },
+  {
+    "file_name": "Infosys_17122025163654_letter_17122025_2ba25ac6.md",
+    "decision": "REJECT",
+    "document_families": "",
+    "rejection_reason": "duplicate_or_no_new_knowledge",
+    "confidence_score": "0.98",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "Duplicate markdown content already reviewed, so it adds no new knowledge."
+  },
+  {
+    "file_name": "Infosys_18032026182417_PR_18032026.md",
+    "decision": "ACCEPT",
+    "document_families": "press_release|other_useful",
+    "rejection_reason": "",
+    "confidence_score": "0.82",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The press release contains company, brand, client, CSR, product, or market-positioning information with factual value."
+  },
+  {
+    "file_name": "Infosys_18032026182417_PR_18032026_f40aaf32.md",
+    "decision": "REJECT",
+    "document_families": "",
+    "rejection_reason": "duplicate_or_no_new_knowledge",
+    "confidence_score": "0.98",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "Duplicate markdown content already reviewed, so it adds no new knowledge."
+  },
+  {
+    "file_name": "Infosys_19032026223214_SEfiling_Reg30disclosure_19032026.md",
+    "decision": "ACCEPT",
+    "document_families": "other_useful",
+    "rejection_reason": "",
+    "confidence_score": "0.84",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The filing records a subsidiary incorporation, merger, or shareholding transfer relevant to corporate structure."
+  },
+  {
+    "file_name": "Infosys_20012026132058_PR_20012026.md",
+    "decision": "ACCEPT",
+    "document_families": "press_release|partnership_or_agreement",
+    "rejection_reason": "",
+    "confidence_score": "0.82",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The press release contains company, brand, client, CSR, product, or market-positioning information with factual value."
+  },
+  {
+    "file_name": "Infosys_20012026132058_PR_20012026_c73eb816.md",
+    "decision": "REJECT",
+    "document_families": "",
+    "rejection_reason": "duplicate_or_no_new_knowledge",
+    "confidence_score": "0.98",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "Duplicate markdown content already reviewed, so it adds no new knowledge."
+  },
+  {
+    "file_name": "Infosys_20082025093726_PR_20082025.md",
+    "decision": "ACCEPT",
+    "document_families": "press_release|partnership_or_agreement",
+    "rejection_reason": "",
+    "confidence_score": "0.82",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The press release contains company, brand, client, CSR, product, or market-positioning information with factual value."
+  },
+  {
+    "file_name": "Infosys_20082025093726_PR_20082025_b03b0cc1.md",
+    "decision": "REJECT",
+    "document_families": "",
+    "rejection_reason": "duplicate_or_no_new_knowledge",
+    "confidence_score": "0.98",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "Duplicate markdown content already reviewed, so it adds no new knowledge."
+  },
+  {
+    "file_name": "Infosys_21072025094039_PR_21072025.md",
+    "decision": "ACCEPT",
+    "document_families": "press_release|partnership_or_agreement",
+    "rejection_reason": "",
+    "confidence_score": "0.82",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The press release contains company, brand, client, CSR, product, or market-positioning information with factual value."
+  },
+  {
+    "file_name": "Infosys_21072025094039_PR_21072025_2a3ef89d.md",
+    "decision": "REJECT",
+    "document_families": "",
+    "rejection_reason": "duplicate_or_no_new_knowledge",
+    "confidence_score": "0.98",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "Duplicate markdown content already reviewed, so it adds no new knowledge."
+  },
+  {
+    "file_name": "Infosys_21112025185749_PR_21112025.md",
+    "decision": "ACCEPT",
+    "document_families": "press_release|esg_or_brsr",
+    "rejection_reason": "",
+    "confidence_score": "0.82",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The press release contains company, brand, client, CSR, product, or market-positioning information with factual value."
+  },
+  {
+    "file_name": "Infosys_21112025185749_PR_21112025_3ac43995.md",
+    "decision": "REJECT",
+    "document_families": "",
+    "rejection_reason": "duplicate_or_no_new_knowledge",
+    "confidence_score": "0.98",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "Duplicate markdown content already reviewed, so it adds no new knowledge."
+  },
+  {
+    "file_name": "Infosys_22072025173236_PR_22072025.md",
+    "decision": "ACCEPT",
+    "document_families": "press_release|partnership_or_agreement",
+    "rejection_reason": "",
+    "confidence_score": "0.82",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The press release contains company, brand, client, CSR, product, or market-positioning information with factual value."
+  },
+  {
+    "file_name": "Infosys_22072025173236_PR_22072025_7e5f902f.md",
+    "decision": "REJECT",
+    "document_families": "",
+    "rejection_reason": "duplicate_or_no_new_knowledge",
+    "confidence_score": "0.98",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "Duplicate markdown content already reviewed, so it adds no new knowledge."
+  },
+  {
+    "file_name": "Infosys_22102025144043_SE_Draft_LOA_22102025.md",
+    "decision": "ACCEPT",
+    "document_families": "dividend_or_buyback",
+    "rejection_reason": "",
+    "confidence_score": "0.96",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The document contains substantive buyback, offer, extinguishment, or SEC relief information."
+  },
+  {
+    "file_name": "Infosys_23072025210020_SEfiling_AuditorsreportwithUDIN.md",
+    "decision": "ACCEPT",
+    "document_families": "quarterly_results",
+    "rejection_reason": "",
+    "confidence_score": "0.91",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The filing contains financial results and auditor report content useful for quarterly performance analysis."
+  },
+  {
+    "file_name": "Infosys_23102025173100_PR_23102025.md",
+    "decision": "ACCEPT",
+    "document_families": "press_release|partnership_or_agreement|esg_or_brsr",
+    "rejection_reason": "",
+    "confidence_score": "0.82",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The press release contains company, brand, client, CSR, product, or market-positioning information with factual value."
+  },
+  {
+    "file_name": "Infosys_23102025173100_PR_23102025_d3d799ed.md",
+    "decision": "REJECT",
+    "document_families": "",
+    "rejection_reason": "duplicate_or_no_new_knowledge",
+    "confidence_score": "0.98",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "Duplicate markdown content already reviewed, so it adds no new knowledge."
+  },
+  {
+    "file_name": "Infosys_24022026183647_PR_Feb242026.md",
+    "decision": "ACCEPT",
+    "document_families": "press_release|partnership_or_agreement",
+    "rejection_reason": "",
+    "confidence_score": "0.82",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The press release contains company, brand, client, CSR, product, or market-positioning information with factual value."
+  },
+  {
+    "file_name": "Infosys_24022026183647_PR_Feb242026_8ca48ddb.md",
+    "decision": "REJECT",
+    "document_families": "",
+    "rejection_reason": "duplicate_or_no_new_knowledge",
+    "confidence_score": "0.98",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "Duplicate markdown content already reviewed, so it adds no new knowledge."
+  },
+  {
+    "file_name": "Infosys_24042026162323_UDINFinancials_April242026.md",
+    "decision": "ACCEPT",
+    "document_families": "quarterly_results",
+    "rejection_reason": "",
+    "confidence_score": "0.91",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The filing contains financial results and auditor report content useful for quarterly performance analysis."
+  },
+  {
+    "file_name": "Infosys_24042026180714_SE_Postal_ballot_Notice_24042026.md",
+    "decision": "ACCEPT",
+    "document_families": "annual_report|esg_or_brsr|shareholder_meeting_substantive",
+    "rejection_reason": "",
+    "confidence_score": "0.99",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The document is an integrated annual report with BRSR, business, financial, governance, and AGM content."
+  },
+  {
+    "file_name": "Infosys_25032026105841_PR_25032026.md",
+    "decision": "ACCEPT",
+    "document_families": "press_release|partnership_or_agreement",
+    "rejection_reason": "",
+    "confidence_score": "0.82",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The press release contains company, brand, client, CSR, product, or market-positioning information with factual value."
+  },
+  {
+    "file_name": "Infosys_25032026105841_PR_25032026_17bf199e.md",
+    "decision": "REJECT",
+    "document_families": "",
+    "rejection_reason": "duplicate_or_no_new_knowledge",
+    "confidence_score": "0.98",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "Duplicate markdown content already reviewed, so it adds no new knowledge."
+  },
+  {
+    "file_name": "Infosys_25062026152354_PR_25062026.md",
+    "decision": "ACCEPT",
+    "document_families": "press_release|partnership_or_agreement",
+    "rejection_reason": "",
+    "confidence_score": "0.82",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The press release contains company, brand, client, CSR, product, or market-positioning information with factual value."
+  },
+  {
+    "file_name": "Infosys_25062026152354_PR_25062026_29431194.md",
+    "decision": "REJECT",
+    "document_families": "",
+    "rejection_reason": "duplicate_or_no_new_knowledge",
+    "confidence_score": "0.98",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "Duplicate markdown content already reviewed, so it adds no new knowledge."
+  },
+  {
+    "file_name": "Infosys_25092025150336_InfosysLimited_Reg30disclosure_2509.md",
+    "decision": "ACCEPT",
+    "document_families": "other_useful",
+    "rejection_reason": "",
+    "confidence_score": "0.84",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The filing records a subsidiary incorporation, merger, or shareholding transfer relevant to corporate structure."
+  },
+  {
+    "file_name": "Infosys_26092025155016_SE_Filing_Postal_Ballot_Notice_26092025.md",
+    "decision": "ACCEPT",
+    "document_families": "dividend_or_buyback",
+    "rejection_reason": "",
+    "confidence_score": "0.96",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The document contains substantive buyback, offer, extinguishment, or SEC relief information."
+  },
+  {
+    "file_name": "Infosys_28072025152533_PR_28072025.md",
+    "decision": "ACCEPT",
+    "document_families": "press_release|partnership_or_agreement",
+    "rejection_reason": "",
+    "confidence_score": "0.82",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The press release contains company, brand, client, CSR, product, or market-positioning information with factual value."
+  },
+  {
+    "file_name": "Infosys_28072025152533_PR_28072025_2a67b612.md",
+    "decision": "REJECT",
+    "document_families": "",
+    "rejection_reason": "duplicate_or_no_new_knowledge",
+    "confidence_score": "0.98",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "Duplicate markdown content already reviewed, so it adds no new knowledge."
+  },
+  {
+    "file_name": "Infosys_28082025152436_PR_28082025.md",
+    "decision": "ACCEPT",
+    "document_families": "press_release|partnership_or_agreement",
+    "rejection_reason": "",
+    "confidence_score": "0.82",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The press release contains company, brand, client, CSR, product, or market-positioning information with factual value."
+  },
+  {
+    "file_name": "Infosys_28082025152436_PR_28082025_080488c2.md",
+    "decision": "REJECT",
+    "document_families": "",
+    "rejection_reason": "duplicate_or_no_new_knowledge",
+    "confidence_score": "0.98",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "Duplicate markdown content already reviewed, so it adds no new knowledge."
+  },
+  {
+    "file_name": "Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26.md",
+    "decision": "ACCEPT",
+    "document_families": "annual_report|esg_or_brsr|shareholder_meeting_substantive",
+    "rejection_reason": "",
+    "confidence_score": "0.99",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The document is an integrated annual report with BRSR, business, financial, governance, and AGM content."
+  },
+  {
+    "file_name": "Infosys_29072025172822_SEfiling_Reg30_29072025.md",
+    "decision": "ACCEPT",
+    "document_families": "other_useful",
+    "rejection_reason": "",
+    "confidence_score": "0.84",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The filing records a subsidiary incorporation, merger, or shareholding transfer relevant to corporate structure."
+  },
+  {
+    "file_name": "Infosys_30012026193927_SEfiling_Reg_30_30012026.md",
+    "decision": "ACCEPT",
+    "document_families": "other_useful",
+    "rejection_reason": "",
+    "confidence_score": "0.84",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The filing records a subsidiary incorporation, merger, or shareholding transfer relevant to corporate structure."
+  },
+  {
+    "file_name": "Infosys_30072025174628_SEfiling_Reg_30disclosure_30072025.md",
+    "decision": "ACCEPT",
+    "document_families": "litigation_or_regulatory",
+    "rejection_reason": "",
+    "confidence_score": "0.90",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The company statement gives tax, GST, penalty, or regulatory facts with potential research value."
+  },
+  {
+    "file_name": "Infosys_30122025151805_letter_December302025.md",
+    "decision": "ACCEPT",
+    "document_families": "litigation_or_regulatory",
+    "rejection_reason": "",
+    "confidence_score": "0.90",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The company statement gives tax, GST, penalty, or regulatory facts with potential research value."
+  },
+  {
+    "file_name": "Infosys_31032026205830_SEfiling_Reg30_disclosure_31032026.md",
+    "decision": "ACCEPT",
+    "document_families": "litigation_or_regulatory",
+    "rejection_reason": "",
+    "confidence_score": "0.90",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The company statement gives tax, GST, penalty, or regulatory facts with potential research value."
+  },
+  {
+    "file_name": "INFY_01052026115302_2_SubmissionofApplication_April302026_2.md",
+    "decision": "ACCEPT",
+    "document_families": "board_meeting_outcome|other_useful",
+    "rejection_reason": "",
+    "confidence_score": "0.90",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The filing contains governance facts on board appointments, promoter reclassification, or related board outcomes."
+  },
+  {
+    "file_name": "INFY_12092025074008_Diamond_SEC_letter.md",
+    "decision": "ACCEPT",
+    "document_families": "dividend_or_buyback",
+    "rejection_reason": "",
+    "confidence_score": "0.96",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The document contains substantive buyback, offer, extinguishment, or SEC relief information."
+  },
+  {
+    "file_name": "INFY_12092025074008_Diamond_SEC_letter_95285e1c.md",
+    "decision": "REJECT",
+    "document_families": "",
+    "rejection_reason": "duplicate_or_no_new_knowledge",
+    "confidence_score": "0.98",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "Duplicate markdown content already reviewed, so it adds no new knowledge."
+  },
+  {
+    "file_name": "INFY_20122025090957_SE_ADR_Price_20122025.md",
+    "decision": "ACCEPT",
+    "document_families": "litigation_or_regulatory|other_useful",
+    "rejection_reason": "",
+    "confidence_score": "0.78",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The clarification addresses market volatility and a company statement, which may be useful context."
+  },
+  {
+    "file_name": "INFY_20122025091628_SE_McCamish_Systems_20122025.md",
+    "decision": "ACCEPT",
+    "document_families": "litigation_or_regulatory",
+    "rejection_reason": "",
+    "confidence_score": "0.95",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The document discusses the McCamish cyber incident or related regulatory/legal updates."
+  },
+  {
+    "file_name": "INFY_23122025222726_SE_McCamish_Systems_23122025.md",
+    "decision": "ACCEPT",
+    "document_families": "litigation_or_regulatory",
+    "rejection_reason": "",
+    "confidence_score": "0.95",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The document discusses the McCamish cyber incident or related regulatory/legal updates."
+  },
+  {
+    "file_name": "INFY_30042026200702_Outcome_Final.md",
+    "decision": "ACCEPT",
+    "document_families": "board_meeting_outcome|other_useful",
+    "rejection_reason": "",
+    "confidence_score": "0.90",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The filing contains governance facts on board appointments, promoter reclassification, or related board outcomes."
+  },
+  {
+    "file_name": "INFY_30042026200702_Outcome_Final_80f4d5de.md",
+    "decision": "REJECT",
+    "document_families": "",
+    "rejection_reason": "duplicate_or_no_new_knowledge",
+    "confidence_score": "0.98",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "Duplicate markdown content already reviewed, so it adds no new knowledge."
+  },
+  {
+    "file_name": "INFY_30052026200807_SE_Integrated_Annual_Report_2025-26.md",
+    "decision": "ACCEPT",
+    "document_families": "annual_report|esg_or_brsr|shareholder_meeting_substantive",
+    "rejection_reason": "",
+    "confidence_score": "0.99",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The document is an integrated annual report with BRSR, business, financial, governance, and AGM content."
+  },
+  {
+    "file_name": "INFY_31012026225349_SEfiling_Reg30_31012026.md",
+    "decision": "ACCEPT",
+    "document_families": "litigation_or_regulatory",
+    "rejection_reason": "",
+    "confidence_score": "0.90",
+    "evidence_used": "first 250 lines + headings + last 100 lines + keyword search",
+    "short_reason": "The company statement gives tax, GST, penalty, or regulatory facts with potential research value."
+  }
+]

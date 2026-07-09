@@ -1,0 +1,704 @@
+[
+  {
+    "ticker": "INFY.NS",
+    "title": null,
+    "publisher": null,
+    "published_at": "2026-07-09T12:00:00+00:00",
+    "url": "https://finance.yahoo.com/technology/articles/nandan-nilekani-leaves-gp-role-120000672.html",
+    "summary": null,
+    "decision": "NEEDS_LLM_REVIEW",
+    "reason": "No obvious noise, but no strong signal from title/summary.",
+    "matched_noise": [],
+    "matched_signal": [],
+    "raw": {
+      "id": "5764e12e-d087-3d4b-951a-10b90d623dc0",
+      "content": {
+        "id": "5764e12e-d087-3d4b-951a-10b90d623dc0",
+        "contentType": "STORY",
+        "title": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
+        "description": "",
+        "summary": "Nilekani remains Fundamentum's anchor investor as the firm expands its leadership team and targets AI and fintech startups in India.",
+        "pubDate": "2026-07-09T12:00:00Z",
+        "displayTime": "2026-07-09T12:00:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/techcrunch_finance_785/26be74a29c80efc6b8a06b8546044fc5",
+          "originalWidth": 1995,
+          "originalHeight": 1330,
+          "caption": "WASHINGTON, DC - APRIL 12: Infosys co-founder Nandan Nilekani speaks at the Semafor World Economic Summit on April 12, 2023 in Washington, DC. The event features interviews with business and government leaders discussing the global economy and financial markets. (Photo by Drew Angerer/Getty Images)",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/sPc63xuqtKUr17JfpLxuIg--~B/aD0xMzMwO3c9MTk5NTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/techcrunch_finance_785/26be74a29c80efc6b8a06b8546044fc5",
+              "width": 1995,
+              "height": 1330,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/QbY1XiBsJFEuctt5Gn1Raw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/techcrunch_finance_785/26be74a29c80efc6b8a06b8546044fc5",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "TechCrunch",
+          "url": "https://techcrunch.com/",
+          "sourceId": "techcrunch_finance_785"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/nandan-nilekani-leaves-gp-role-120000672.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/nandan-nilekani-leaves-gp-role-120000672.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    }
+  },
+  {
+    "ticker": "INFY.NS",
+    "title": null,
+    "publisher": null,
+    "published_at": "2026-07-08T15:51:30+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/infosys-limited-infy-partners-sentara-155130172.html",
+    "summary": null,
+    "decision": "NEEDS_LLM_REVIEW",
+    "reason": "No obvious noise, but no strong signal from title/summary.",
+    "matched_noise": [],
+    "matched_signal": [],
+    "raw": {
+      "id": "0d0fb4ce-4c98-3dfb-9e05-d47ad5ea7494",
+      "content": {
+        "id": "0d0fb4ce-4c98-3dfb-9e05-d47ad5ea7494",
+        "contentType": "STORY",
+        "title": "Infosys Limited (INFY) Partners with Sentara To Enable AI Integration and Use in Hospitals",
+        "description": "",
+        "summary": "Infosys Limited (NYSE:INFY) is one of the best beaten-down technology stocks to buy now. On June 24, Infosys Ltd (NYSE: INFY) entered into a strategic collaboration with Sentara to build a foundation for AI development across hospital operations, IT, and clinical support. The ultimate goal is to enhance efficiency, support clinicians, and improve the experiences […]",
+        "pubDate": "2026-07-08T15:51:30Z",
+        "displayTime": "2026-07-08T15:51:30Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/2e45cb0e3596563dc669bdcb9e4ab21a",
+          "originalWidth": 768,
+          "originalHeight": 512,
+          "caption": "Infosys Limited (INFY) Partners with Sentara To Enable AI Integration and Use in Hospitals",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/slHCDAM53.qHL.kOCf_nxg--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/2e45cb0e3596563dc669bdcb9e4ab21a",
+              "width": 768,
+              "height": 512,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/QpNHjhqRfEN1pc795k4ggg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/2e45cb0e3596563dc669bdcb9e4ab21a",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Insider Monkey",
+          "url": "http://www.insidermonkey.com",
+          "sourceId": "insidermonkey.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/infosys-limited-infy-partners-sentara-155130172.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/infosys-limited-infy-partners-sentara-155130172.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    }
+  },
+  {
+    "ticker": "INFY.NS",
+    "title": null,
+    "publisher": null,
+    "published_at": "2026-07-07T14:40:50+00:00",
+    "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144050720.html",
+    "summary": null,
+    "decision": "NEEDS_LLM_REVIEW",
+    "reason": "No obvious noise, but no strong signal from title/summary.",
+    "matched_noise": [],
+    "matched_signal": [],
+    "raw": {
+      "id": "5273da7f-4cfa-30fc-a19a-718a49024390",
+      "content": {
+        "id": "5273da7f-4cfa-30fc-a19a-718a49024390",
+        "contentType": "STORY",
+        "title": "Asian Equities Traded in the US as American Depositary Receipts Drop Sharply in Tuesday Trading",
+        "description": "",
+        "summary": "Asian equities traded in the US as American depositary receipts were tracking sharply lower Tuesday,",
+        "pubDate": "2026-07-07T14:40:50Z",
+        "displayTime": "2026-07-07T14:40:50Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "MT Newswires",
+          "url": "https://www.mtnewswires.com/",
+          "sourceId": "mt_newswires_premium_news_706"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144050720.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144050720.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": true,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    }
+  },
+  {
+    "ticker": "INFY.NS",
+    "title": null,
+    "publisher": null,
+    "published_at": "2026-07-06T09:45:37+00:00",
+    "url": "https://finance.yahoo.com/technology/articles/indian-firms-face-muted-q1-094537453.html",
+    "summary": null,
+    "decision": "NEEDS_LLM_REVIEW",
+    "reason": "No obvious noise, but no strong signal from title/summary.",
+    "matched_noise": [],
+    "matched_signal": [],
+    "raw": {
+      "id": "39fb2833-9369-3cae-b6d1-d44798ac4a8d",
+      "content": {
+        "id": "39fb2833-9369-3cae-b6d1-d44798ac4a8d",
+        "contentType": "STORY",
+        "title": "Indian IT firms face muted Q1 as AI shift, weak demand weigh",
+        "description": "",
+        "summary": "India's top information technology companies are expected to report another subdued quarter, as AI-driven pricing pressure, weak client spending, and ‌global geopolitical turmoil continue to weigh on growth, nine brokerages said.  The April-to-June quarter is usually ‌a strong one for India's $315 billion IT sector, helped by higher billing days and new project starts, but analysts expect a ​slow start to the fiscal year that would push back hopes of a recovery.  India's largest IT services company, Tata Consultancy Services, kicks off earnings on Thursday with peers Infosys, HCLTech and Wipro reporting later this month.",
+        "pubDate": "2026-07-06T09:45:37Z",
+        "displayTime": "2026-07-06T09:45:37Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/reuters-finance.com/af79043cf8969cf11c89613feb083ef8",
+          "originalWidth": 800,
+          "originalHeight": 512,
+          "caption": "FILE PHOTO: A man walks past a logo of Tata Consultancy Services (TCS) before a press conference announcing the company's quarterly results in Mumbai",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/q0icKDI1pMfVV88RGBFFLw--~B/aD01MTI7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/af79043cf8969cf11c89613feb083ef8",
+              "width": 800,
+              "height": 512,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/D85up7tqXHrCq3MCVoTJdg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/af79043cf8969cf11c89613feb083ef8",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Reuters",
+          "url": "http://www.reuters.com/",
+          "sourceId": "reuters-finance.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/indian-firms-face-muted-q1-094537453.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/indian-firms-face-muted-q1-094537453.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    }
+  },
+  {
+    "ticker": "INFY.NS",
+    "title": null,
+    "publisher": null,
+    "published_at": "2026-07-04T13:35:27+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/madison-square-garden-entertainment-corp-133527129.html",
+    "summary": null,
+    "decision": "NEEDS_LLM_REVIEW",
+    "reason": "No obvious noise, but no strong signal from title/summary.",
+    "matched_noise": [],
+    "matched_signal": [],
+    "raw": {
+      "id": "961140b0-e87c-3c58-a541-f756e462db69",
+      "content": {
+        "id": "961140b0-e87c-3c58-a541-f756e462db69",
+        "contentType": "STORY",
+        "title": "Madison Square Garden Entertainment Corp. (MSGE) To Remain Fully Operational Amid New York Penn Station Redevelopment",
+        "description": "",
+        "summary": "Madison Square Garden Entertainment Corp. (NYSE:MSGE) is one of the top stocks to buy according to Ariel Investments. On June 9, Madison Square Garden Entertainment Corp. (NYSE:MSGE) entered into a non-binding agreement with Penn Transformation Partners for the development of the New York Penn Station. Under the terms of the agreement, Madison Square Garden will […]",
+        "pubDate": "2026-07-04T13:35:27Z",
+        "displayTime": "2026-07-04T13:35:27Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/18d8251af23e77bf5b030a252926daef",
+          "originalWidth": 768,
+          "originalHeight": 430,
+          "caption": "Madison Square Garden Entertainment Corp. (MSGE) To Remain Fully Operational Amid New York Penn Station Redevelopment",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/uobvRhNmqOMAv0OTXvBLqg--~B/aD00MzA7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/18d8251af23e77bf5b030a252926daef",
+              "width": 768,
+              "height": 430,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/wBg5O4.prfgtrVBAMh6ZUQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/18d8251af23e77bf5b030a252926daef",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Insider Monkey",
+          "url": "http://www.insidermonkey.com",
+          "sourceId": "insidermonkey.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/madison-square-garden-entertainment-corp-133527129.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/madison-square-garden-entertainment-corp-133527129.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    }
+  },
+  {
+    "ticker": "INFY.NS",
+    "title": null,
+    "publisher": null,
+    "published_at": "2026-07-03T13:17:51+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/infosys-nsei-infy-stock-sees-131751150.html",
+    "summary": null,
+    "decision": "NEEDS_LLM_REVIEW",
+    "reason": "No obvious noise, but no strong signal from title/summary.",
+    "matched_noise": [],
+    "matched_signal": [],
+    "raw": {
+      "id": "34c6cc8a-360c-3a9d-8ad3-a2c7daf4fb0e",
+      "content": {
+        "id": "34c6cc8a-360c-3a9d-8ad3-a2c7daf4fb0e",
+        "contentType": "STORY",
+        "title": "Infosys (NSEI:INFY) Stock Sees Modest Fair Value Cut As AI Hopes Meet Choppy Demand",
+        "description": "",
+        "summary": "Infosys sits at the center of a fresh reset in analyst expectations, with one key model trimming its fair value estimate from ₹1,460.95 to ₹1,395.13, a reduction of about 4.5%. That shift lines up with recent research that mixes optimism about Infosys exposure to AI with caution around growth execution, tech spending trends, and the timing of any benefits from new AI related work. As you read on, you will see how these changing price targets, research notes, and deal headlines can help you...",
+        "pubDate": "2026-07-03T13:17:51Z",
+        "displayTime": "2026-07-03T13:17:51Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/d2053148ef16c066918b52f43e6add07",
+          "originalWidth": 1194,
+          "originalHeight": 432,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/wbGrslE2gQlJp6xVzsP9bw--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/d2053148ef16c066918b52f43e6add07",
+              "width": 1194,
+              "height": 432,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/KDOel9DcaEzrZCLpV1x5TQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/d2053148ef16c066918b52f43e6add07",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Simply Wall St.",
+          "url": "https://simplywall.st/",
+          "sourceId": "simply_wall_st__316"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/infosys-nsei-infy-stock-sees-131751150.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/infosys-nsei-infy-stock-sees-131751150.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    }
+  },
+  {
+    "ticker": "INFY.NS",
+    "title": null,
+    "publisher": null,
+    "published_at": "2026-07-02T14:41:52+00:00",
+    "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144152150.html",
+    "summary": null,
+    "decision": "NEEDS_LLM_REVIEW",
+    "reason": "No obvious noise, but no strong signal from title/summary.",
+    "matched_noise": [],
+    "matched_signal": [],
+    "raw": {
+      "id": "1588f3cf-a462-3b6a-980e-670eb3c71716",
+      "content": {
+        "id": "1588f3cf-a462-3b6a-980e-670eb3c71716",
+        "contentType": "STORY",
+        "title": "Asian Equities Traded in the US as American Depositary Receipts Surge in Thursday Trading",
+        "description": "",
+        "summary": "Asian equities traded in the US as American depositary receipts were surging higher Thursday morning",
+        "pubDate": "2026-07-02T14:41:52Z",
+        "displayTime": "2026-07-02T14:41:52Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "MT Newswires",
+          "url": "https://www.mtnewswires.com/",
+          "sourceId": "mt_newswires_premium_news_706"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144152150.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144152150.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": true,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    }
+  },
+  {
+    "ticker": "INFY.NS",
+    "title": null,
+    "publisher": null,
+    "published_at": "2026-06-26T13:31:26+00:00",
+    "url": "https://finance.yahoo.com/news/cvs-upgraded-general-mills-downgraded-135035702.html",
+    "summary": null,
+    "decision": "NEEDS_LLM_REVIEW",
+    "reason": "No obvious noise, but no strong signal from title/summary.",
+    "matched_noise": [],
+    "matched_signal": [],
+    "raw": {
+      "id": "1d05cd45-d499-3e6b-a59b-ce5ae4676f0a",
+      "content": {
+        "id": "1d05cd45-d499-3e6b-a59b-ce5ae4676f0a",
+        "contentType": "STORY",
+        "title": "Robinhood initiation, Nike downgrade among today's top calls on Wall Street",
+        "description": "",
+        "summary": "Robinhood initiation, Nike downgrade among today's top calls on Wall Street",
+        "pubDate": "2026-06-26T13:31:26Z",
+        "displayTime": "2026-06-26T13:31:26Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/the_fly_169/5039a5ccc6ec98e1b92bc672330bfcec",
+          "originalWidth": 1200,
+          "originalHeight": 628,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/zUit8GQVW5kcaTZHEPMI9Q--~B/aD02Mjg7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/the_fly_169/5039a5ccc6ec98e1b92bc672330bfcec",
+              "width": 1200,
+              "height": 628,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/gS79B8voAjWV.54rV5PgVg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/the_fly_169/5039a5ccc6ec98e1b92bc672330bfcec",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "The Fly",
+          "url": "https://thefly.com/",
+          "sourceId": "the_fly_169"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/news/cvs-upgraded-general-mills-downgraded-135035702.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/news/cvs-upgraded-general-mills-downgraded-135035702.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    }
+  },
+  {
+    "ticker": "INFY.NS",
+    "title": null,
+    "publisher": null,
+    "published_at": "2026-06-24T23:26:52+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/former-infosys-chief-startup-wants-232652806.html",
+    "summary": null,
+    "decision": "NEEDS_LLM_REVIEW",
+    "reason": "No obvious noise, but no strong signal from title/summary.",
+    "matched_noise": [],
+    "matched_signal": [],
+    "raw": {
+      "id": "b95121f4-f35e-3b0a-9ae2-2bcbe89d675e",
+      "content": {
+        "id": "b95121f4-f35e-3b0a-9ae2-2bcbe89d675e",
+        "contentType": "STORY",
+        "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
+        "description": "",
+        "summary": "Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI.",
+        "pubDate": "2026-06-24T23:26:52Z",
+        "displayTime": "2026-06-24T23:26:52Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/techcrunch_finance_785/9d6ab69bf8e29d6042247ab3b6521a5f",
+          "originalWidth": 1920,
+          "originalHeight": 1280,
+          "caption": "Vishal Sikka",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Bte6cy3XwTByqJxQJfLbiQ--~B/aD0xMjgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/techcrunch_finance_785/9d6ab69bf8e29d6042247ab3b6521a5f",
+              "width": 1920,
+              "height": 1280,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/ui6IPrgQ7nFOBXy90f1mMg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/techcrunch_finance_785/9d6ab69bf8e29d6042247ab3b6521a5f",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "TechCrunch",
+          "url": "https://techcrunch.com/",
+          "sourceId": "techcrunch_finance_785"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/former-infosys-chief-startup-wants-232652806.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/former-infosys-chief-startup-wants-232652806.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    }
+  },
+  {
+    "ticker": "INFY.NS",
+    "title": null,
+    "publisher": null,
+    "published_at": "2026-06-24T15:24:40+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/infosys-infy-continues-win-major-152440602.html",
+    "summary": null,
+    "decision": "NEEDS_LLM_REVIEW",
+    "reason": "No obvious noise, but no strong signal from title/summary.",
+    "matched_noise": [],
+    "matched_signal": [],
+    "raw": {
+      "id": "12b5245b-74fc-3f92-9694-eebc90b41a0a",
+      "content": {
+        "id": "12b5245b-74fc-3f92-9694-eebc90b41a0a",
+        "contentType": "STORY",
+        "title": "Infosys (INFY) Continues To Win Major AI Contracts As Stock Trades Near 52-Week Lows",
+        "description": "",
+        "summary": "Infosys Limited (NYSE:INFY) is one of the 10 Best 52-Week Low Technology Stocks to Buy According to Analysts. On June 11, Infosys Limited (NYSE:INFY) announced a strategic collaboration with IHH Healthcare to run a multi-year, enterprise-wide ERP program. This collaboration will help IHH Healthcare standardize and streamline its business processes across its operations, beginning with […]",
+        "pubDate": "2026-06-24T15:24:40Z",
+        "displayTime": "2026-06-24T15:24:40Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/01155ab0384fe4945ffc6eb2433bc5d0",
+          "originalWidth": 1456,
+          "originalHeight": 816,
+          "caption": "Infosys Limited (NYSE:INFY) is one of the 10 Best 52-Week Low Technology Stocks to Buy According to Analysts.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/lEI4pDAzGGnoouNcIq14yw--~B/aD04MTY7dz0xNDU2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/01155ab0384fe4945ffc6eb2433bc5d0",
+              "width": 1456,
+              "height": 816,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/.WRTyycXijK4swQy8C4MDQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/01155ab0384fe4945ffc6eb2433bc5d0",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Insider Monkey",
+          "url": "http://www.insidermonkey.com",
+          "sourceId": "insidermonkey.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/infosys-infy-continues-win-major-152440602.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/infosys-infy-continues-win-major-152440602.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    }
+  }
+]
