@@ -1,0 +1,171 @@
+You are helping me build a RAG-based chatbot for Infosys stock/company research.
+
+  Context:
+  - I have already accepted/rejected many NSE PDFs using metadata.
+  - The current folder contains 77 markdown files under `temp\markdown-data\review\`.
+  - These files were converted from PDFs using Docling.
+  - Your task is to decide, for each markdown file, whether it should finally be ACCEPTED or REJECTED for the Infosys RAG knowledge base.
+  - This decision must be based on the actual markdown content, not only metadata or filename.
+
+  Important philosophy:
+  Reject a document ONLY if there is enough evidence that the entire document is useless for a factual Infosys research chatbot.
+  When in doubt, ACCEPT.
+  False rejection is worse than false acceptance.
+
+  The chatbot is meant to answer factual questions about Infosys, including:
+  - financial results
+  - annual/quarterly performance
+  - earnings call commentary
+  - investor presentations
+  - acquisitions
+  - partnerships
+  - major clients/deals
+  - leadership/board changes
+  - dividends/buybacks
+  - litigation/regulatory/tax matters
+  - ESG/BRSR/sustainability
+  - business strategy
+  - risk factors
+  - shareholder meetings, but only if there is substantive discussion/transcript/important resolutions
+  - company announcements with long-term factual value
+
+  Reject documents that are only:
+  - trading window closure
+  - loss of share certificates
+  - routine ESOP allotment/grant with no broader importance
+  - newspaper publication copies
+  - scrutinizer reports/voting results only
+  - purely procedural AGM/postal ballot notices with no useful business content
+  - duplicate administrative filings
+  - depository/compliance certificates
+  - investor meeting schedules without presentation/transcript/content
+  - clean auditor UDIN reports with no qualification/adverse remark/emphasis matter
+  - documents containing only boilerplate legal/procedural text
+
+  For each markdown file:
+  1. Read limited but representative content:
+     - filename
+     - first 150-250 lines
+     - all headings/subheadings if extractable
+     - table of contents if present
+     - last 50-100 lines
+     - search within the file for important keywords:
+       revenue, margin, profit, guidance, dividend, buyback, acquisition, collaboration, agreement, litigation, GST, tax, regulatory, board, director, CEO, CFO, transcript,
+  presentation, annual report, BRSR, ESG, risk, strategy, financial statements, auditor, qualification, emphasis, adverse, resignation, settlement, cyber, McCamish.
+  2. Do NOT read the entire file unless the limited review is inconclusive.
+  3. Decide:
+     - ACCEPT
+     - REJECT
+     - NEEDS_MANUAL_REVIEW
+  4. Use NEEDS_MANUAL_REVIEW only when the document cannot be safely classified from limited content.
+  5. For ACCEPT documents, also assign one or more document families:
+     - annual_report
+     - form_20f
+     - quarterly_results
+     - board_meeting_outcome
+     - earnings_call_transcript
+     - investor_presentation
+     - agm_transcript
+     - shareholder_meeting_substantive
+     - acquisition
+     - partnership_or_agreement
+     - litigation_or_regulatory
+     - dividend_or_buyback
+     - esg_or_brsr
+     - press_release
+     - other_useful
+  6. For REJECT documents, assign one rejection reason:
+     - administrative_only
+     - procedural_only
+     - investor_meeting_schedule_only
+     - voting_or_scrutinizer_report_only
+     - newspaper_publication_only
+     - esop_or_allotment_only
+     - trading_window_only
+     - loss_of_certificate_only
+     - auditor_clean_report_only
+     - duplicate_or_no_new_knowledge
+     - other_low_value
+
+  ## Output requirements (Incremental Processing)
+
+  Create two output files in the project root:
+
+  * `review_decisions.csv`
+  * `review_decisions.json`
+
+  The CSV should contain the following columns:
+
+  * file_name
+  * decision
+  * document_families
+  * rejection_reason
+  * confidence_score
+  * evidence_used
+  * short_reason
+
+  The JSON should contain equivalent information.
+
+  ### IMPORTANT: Process Incrementally
+
+  Do **NOT** first analyze all files and then generate the outputs.
+
+  Instead:
+
+  1. Pick one markdown file.
+  2. Analyze it.
+  3. Make a decision.
+  4. Immediately append the result to both:
+
+     * `review_decisions.csv`
+     * `review_decisions.json`
+  5. Then move to the next markdown file.
+
+  This ensures that progress is preserved even if execution is interrupted.
+
+  If the output files already exist:
+
+  * Load them first.
+  * Skip files that have already been processed.
+  * Continue only with the remaining markdown files.
+
+  The workflow should therefore be resumable.
+
+  ### Decision Values
+
+  Decision must be one of:
+
+  * ACCEPT
+  * REJECT
+  * NEEDS_MANUAL_REVIEW
+
+  For ACCEPT documents, populate one or more document families.
+
+  For REJECT documents, populate exactly one rejection reason.
+
+  ### Evidence
+
+  `evidence_used` should briefly describe what was inspected, for example:
+
+  * first 200 lines + headings
+  * TOC + keyword search
+  * first page + last page
+  * headings + first 150 lines
+
+  ### Short Reason
+
+  Keep `short_reason` concise (one sentence).
+
+  ### Final Summary
+
+  After every file has been processed, print:
+
+  * Total markdown files found
+  * Already processed
+  * Newly processed
+  * Accepted
+  * Rejected
+  * Needs manual review
+  * Top accepted document families
+  * Top rejection reasons
+  * Suggested improvements to the ingestion pipeline based on any recurring patterns observed.
