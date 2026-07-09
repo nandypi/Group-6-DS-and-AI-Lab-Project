@@ -26,7 +26,7 @@ Pilot company: **Infosys Limited (NSE: INFY)**. Target window: **1 July 2025 –
 | **NSE corporate announcements** | Programmatic — NSE announcements API scraped per symbol/date range | NSE / Infosys Limited (SEBI LODR disclosures) | JSON metadata + linked PDFs | Public regulatory disclosures; used for non-commercial research; source URL retained for attribution |
 | **Infosys IR website** (earnings calls, investor presentations, press conferences) | Manual — downloaded from Infosys investor relations site | Infosys Limited | PDF | Publicly published investor material; research use only |
 | **Yahoo Finance news** | Hybrid — `yfinance` script used to discover/shortlist relevant articles; full articles downloaded manually as PDF (many are paywalled) | Respective publishers, aggregated by Yahoo | PDF → Markdown | Public news aggregation; research/demo use, source URL retained |
-| **Trendlyne broker/stock reports** | Manual — downloaded from Trendlyne | Trendlyne / brokerage authors (e.g., ICICI Direct) | PDF → Markdown | Publicly available report snapshots; research use only |
+| **Trendlyne broker/stock reports** | Manual — downloaded from Trendlyne | Trendlyne / brokerage authors (e.g., ICICI Direct) | PDF → Markdown | Publicly available broker reports |
 
 ---
 
