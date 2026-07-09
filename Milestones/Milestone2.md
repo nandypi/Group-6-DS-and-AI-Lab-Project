@@ -80,7 +80,7 @@ The current corpus (single company, ~1 year, 207 curated documents across 4 sour
 
 ---
 
-# **5. Train / Validation / Test Strategy**
+# **5. Train / Validation / Test Strategy or RAG-specific Chunking Strategy**
 
 This is a RAG knowledge corpus, not a labeled training set, so a conventional train/val/test split does not apply in the usual sense. Instead:
 
@@ -88,6 +88,8 @@ This is a RAG knowledge corpus, not a labeled training set, so a conventional tr
 * **Evaluation query set (planned):** held-out question–answer pairs written against specific source documents, created only after the corpus is finalized.
 * **Leakage check:** tracked at the **document level** (by `source_url`/filename) — a document used to seed an evaluation question is not also claimed as an "unseen" document in later generalization checks. Chunk-level splitting is avoided since chunks from the same document are highly correlated.
 * **Temporal holdout:** once multi-year data is available (§4), the most recent reporting period will be held out from corpus construction to test recency-sensitive queries without those filings having tuned retrieval.
+* Chunking Strategy:
+* (a) For quarterly reports, structure-aware chunking will be used to benefit the most from its uniform and structured format as pu
 
 ---
 
@@ -105,9 +107,21 @@ No further task-specific alignment (e.g., joint labels) is needed since all sour
 
 # **7. Document Preparation for RAG**
 
-## 7.1 Pipeline
+## 7.1 Approach and Pipeline
 
 ```text
+APPROACH:
+We assessed the data for quality, relevance and sufficiency using the following:
+
+	(A) Relevance: We first categorized a small set of the collected documents as HIGH / MID / LOW on relevance, based our domain knowledge and semantic understanding. Based 	on that, we extracted meta-data, designed a relevance-index and used it for classifying the rest of the data. Once done, we ran it on the entire document repository and 	finally used only the documents scoring HIGH / MID on the relevance-index.
+	
+	(B) Quality: We evaluated 10+ news sources and found many of them filled with noise, irrelevant and even misleading content, despite coming from credible news channels 	(e.g. moneycontrol.com ). We kept such data sources out to ensure quality, and eventually used more credible sources like Yahoo Finance.  
+	
+	(C) Sufficiency: We collected sufficient volume of reports and updates from NSE, but could get only a few reports from brokerages. Therefore, we widened our consideration 	set of brokerage reports while limiting the NSE updates strictly within one year.
+	
+Beyond these steps, we aim to improve our data further after looking at the RAG output. To evaluate that, we have selected the RAGAS framework.
+
+PIPLELINE:
 NSE metadata (240 records, 1-yr sample)
    -> category + keyword filter (datapreparation/pdf_seperate.py)   -> keep 67 / reject 95 / review 78
 Full historical NSE PDFs
@@ -123,10 +137,15 @@ Trendlyne broker reports (manual download)                            -> ChatGPT
 
 The NSE keyword filter (`GOOD`/`BAD` word lists checked against `attchmntText`) is defined in `datapreparation/pdf_seperate.py`; documents in ambiguous categories (`Updates`, `General Updates`, `Shareholders meeting`, `Analysts/Institutional Investor Meet/Con. Call Updates`) that match neither list go to `review` for the LLM content pass.
 
-## 7.2 Chunking strategy (proposed, not yet implemented)
+## 7.2 Chunking strategy (planned and analysed)
 
-Section/heading-aware chunking on Markdown structure, with recursive token-bounded sub-chunking (~500–800 tokens, overlap) for long sections, and financial tables chunked separately. Every chunk retains source metadata (URL, doc type, date, page) for citation.
-
+The following decisions on chunking strategy have been taken:
+```text
+(A) Section/heading-aware chunking on Markdown structure, with recursive token-bounded sub-chunking (~500–800 tokens, overlap) for long sections, and financial tables chunked separately. Every chunk retains source metadata (URL, doc type, date, page) for citation.
+(B) For NSE reports of varying length and context with sufficient volume (200+), semantic chunking will be used.
+(C) For structured, uniform and tabulated number-heavy documemts like quarterly reports, structure-aware chunking will be used. 
+(D) For earning call and investor presentation (meeting / interview transcripts), semantic chunking will be used, possibly with context enrichment, if possible. 
+```
 ## 7.3 Vector database options (proposed, not yet implemented)
 
 Local, metadata-filterable stores (**FAISS** or **Chroma**) are the leading candidates given the current corpus size and the Streamlit demo scope from Milestone-1; a hosted option (Qdrant/Pinecone) is a fallback if the corpus scales to many companies. Final choice to be validated in Milestone-3.
