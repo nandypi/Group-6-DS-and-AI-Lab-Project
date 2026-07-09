@@ -84,7 +84,7 @@ The current corpus (single company, ~1 year, 207 curated documents across 4 sour
 
 This is a RAG knowledge corpus, not a labeled training set, so a conventional train/val/test split does not apply in the usual sense. Instead:
 
-* **Corpus set:** all accepted documents (§7) are embedded/indexed — the retrieval knowledge base.
+* **Corpus set:** all accepted documents are embedded/indexed — the retrieval knowledge base.
 * **Evaluation query set (planned):** held-out question–answer pairs written against specific source documents, created only after the corpus is finalized.
 * **Leakage check:** tracked at the **document level** (by `source_url`/filename) — a document used to seed an evaluation question is not also claimed as an "unseen" document in later generalization checks. Chunk-level splitting is avoided since chunks from the same document are highly correlated.
 * **Temporal holdout:** once multi-year data is available (§4), the most recent reporting period will be held out from corpus construction to test recency-sensitive queries without those filings having tuned retrieval.
