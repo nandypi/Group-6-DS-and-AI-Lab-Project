@@ -2,9 +2,9 @@
 
 ## Overview
 
-Retail and SME investors in Indian capital markets often receive the same public disclosures as institutional investors, but they usually lack the tools and research teams needed to interpret them quickly.
+Retail and SME investors in Indian capital markets often receive the same public disclosures as institutional investors, but they usually lack the tools and research teams needed to interpret them quickly and meaningfully, which leads to a competitive disadvantage for them.
 
-This project aims to process corporate announcements, exchange filings, PDF reports, and regulatory updates so that useful information can be filtered, summarized, and presented through a simplified dashboard.
+This project, titled "Public Update Analyser (PUA)" aims to help the target user (a retailer or small-ticket institutional investor / trader in the Indian capital markets) a to analyse the public updates (including  corporate announcements, exchange filings, brokerage reports, selected news and regulatory updates) so that useful information can be filtered, summarized, and presented through a simplified dashboard.
 
 The current data preparation work focuses on filtering stock exchange announcement metadata and preparing PDF file lists for downstream processing.
 
