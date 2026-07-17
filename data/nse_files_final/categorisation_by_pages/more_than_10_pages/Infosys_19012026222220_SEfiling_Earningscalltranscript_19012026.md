@@ -1,0 +1,1156 @@
+---
+document_id: "8047afc8e8dd5271ddc55b740765f7189d2b33223f3b1c380a251c4d6c95c84f"
+title: "Infosys Limited has informed the Exchange regarding 'Earnings Call Transcript'."
+document_date: "Unknown"
+category: "Updates"
+pages: 39
+priority: 2
+source_url: "https://nsearchives.nseindia.com/corporate/Infosys_19012026222220_SEfiling_Earningscalltranscript_19012026.pdf"
+source_filename: "Infosys_19012026222220_SEfiling_Earnings_8047afc8.pdf"
+downloaded_at: "2026-07-07T13:28:07.545052Z"
+processed_at: "2026-07-07T13:29:43.657520Z"
+docling_version: "latest"
+company: "Infosys"
+exchange: "NSE"
+language: "en"
+---
+
+
+## TO ALL STOCK EXCHANGES
+
+## BSE LIMITED NATIONAL STOCK EXCHANGE OF INDIA LIMITED NEW YORK STOCK EXCHANGE
+
+January 19, 2026
+
+Dear Sir/ Madam,
+
+Sub: Transcripts of the press conference and earnings call conducted after the Meeting of Board of directors on January 14, 2026
+
+Please find enclosed the transcripts of the press conference and earnings call conducted after the Board meeting held on January 14, 2026, for your information and records.
+
+This information will also be hosted on the Company's website, at https://www.infosys.com/investors/reports-filings/quarterly-results/2025-2026/q3.html
+
+The audio/video recordings of the press conference and earnings call are also made available on the Company's website, at https://www.infosys.com/investors/reports-filings/quarterly-results/20252026/q3.html
+
+This is for your information and records.
+
+Yours Sincerely, For Infosys Limited
+
+A.G.S. Manikantha Company Secretary Membership No: A21918
+
+<!-- image -->
+
+1
+
+## Infosys Limited Press Conference Call
+
+January 14, 2026
+
+## CORPORATE PARTICIPANTS:
+
+## Salil Parekh
+
+Chief Executive Officer and Managing Director
+
+## Jayesh Sanghrajka
+
+Chief Financial Officer
+
+## Rishi Basu
+
+Associate Vice President and Global Head - Corporate Communications
+
+## ANALYSTS
+
+## Ritu Singh
+
+CNBC TV18
+
+## Mansee Dave
+
+ET Now
+
+## Shristi Achar
+
+The Economic Times
+
+## Chandra R. Srikanth
+
+Moneycontrol
+
+## Haripriya Suresh
+
+Reuters
+
+## Avik Das
+
+Business Standard
+
+## Sanjana B.
+
+The Hindu BusinessLine
+
+## Jas Bardia
+
+Mint
+
+## Poulomi Chatterjee
+
+Financial Express
+
+## Uma Kannan
+
+Deccan Herald
+
+## Padmini Dhruvaraj
+
+The New Indian Express
+
+<!-- image -->
+
+<!-- image -->
+
+## Rishi Basu
+
+A very good evening, everyone, and wishing you all a very Happy New Year. Thank you for joining us today. My name is Rishi. And on behalf of Infosys, I would like to welcome all of you. As always, since this is the New Year, my rules do not really change, one question from each media house. We try our best.
+
+But with that, let me invite our Chief Executive Officer, Mr. Salil Parekh, for his opening remarks. Over to you, Salil.
+
+## Salil Parekh
+
+Thanks, Rishi. It is good to see that you are very consistent, and I am sure the media team is as well. Good afternoon, everyone, and thank you for being here. Warm wishes for the new year to all of you. We have had a strong performance in Q3. Our revenue grew 0.6% sequentially and 1.7% year-onyear in constant currency terms. Our large deals were at $4.8 bn, with 57% net new. This was across 26 deals.
+
+Our adjusted operating margin was 21.2%. We generated free cash flow of $915 mn. One of the most significant large deals we won was with the National Health Service in the U.K. This $1.6 bn deal  expands  our  work  in  the  healthcare  sector.  We  will  help  NHS  leverage  AI  to  streamline operations and improve patient care for U.K. citizens.
+
+We have deepened our Topaz AI capability with an agent services suite called Topaz Fabric. This suite  helps  our  clients  manage  and  implement  AI  agents  across  the  enterprise.  We  had  strong momentum in AI adoption across our client base. Today, we work with 90% of our largest 200 clients to unlock value with AI. We are currently working on 4,600 AI projects. Our teams have generated over 28 mn lines of code using AI. We have built over 500 agents. We are scaling our forward deployed engineer team.
+
+We  are  now  witnessing  six  AI-led  value  pools  emerging  that  could  unlock  a  large  incremental opportunity. We also see productivity-led benefits that compress some legacy areas. The six large AI-led value pools are:
+
+- -AI engineering services,
+- -Data for AI,
+- -Agents for operations,
+- -AI software development and legacy modernization,
+
+<!-- image -->
+
+- -AI deployed in physical devices and
+- -AI trust and risk services
+
+We believe we are uniquely positioned to capture market share across these value pools and emerge as the leading AI value creator for global enterprises. We will share a comprehensive view of our approach at an investor day later this quarter.
+
+With a strong performance in this quarter, we have revised our revenue growth guidance for the financial year. The new revenue growth guidance for this financial year is 3% to 3.5% growth in constant currency. Our operating margin guidance for the financial year remains the same at 20% to 22%.
+
+With that, let us open it up for questions.
+
+## Rishi Basu
+
+Thank you, Salil. We will now open the floor for questions. Joining Salil is Mr. Jayesh Sanghrajka, Chief Financial Officer, Infosys. The first question is from Ritu Singh from CNBC TV18.
+
+## Ritu Singh
+
+Hi. Thank you. Rishi, sorry, this is our only chance to speak with the management every quarter. So we will have to exceed that one question limit. With that, Salil and Jayesh, to begin with, I wanted to start with your headcount number. We have seen an increase of 13,246 over the last two quarters. And this is interesting because it is coming at a time when your peer, TCS, is cutting 30,000 jobs. How should we read into this? I mean, is this a real indicator of how you see the demand environment improving?
+
+And with that, I wanted to get to your guidance figure being raised to 3% to 3.5%. How much of that upgrade is because of large deals like NHS being factored in? How much of the Versent acquisition, which is yet to be completed as we understand, is baked into that number? And, last quarter, you were telling us, for instance, there are segments like Retail that remain the weakest link, so where are you seeing improvement that has led you to upgrade your guidance? That is one.
+
+Also, sequentially, we have seen a bit of a marginal dip in your margins that is to 20.8%. This is at a time when there are tailwinds emerging from the rupee depreciation. So if you could break down why that has been the case? And while you continue to tell us about how you are uniquely placed to exploit  that  AI  opportunity,  and  the  likes  of  HCLTech  and  TCS  have  been  giving  us  concrete numbers. Why does Infosys refrain from doing so? Thank you.
+
+<!-- image -->
+
+<!-- image -->
+
+## Salil Parekh
+
+So let me start. On margin, Jayesh might have some points.
+
+I think the first part, I missed a little bit, it was the headcount increase, right? Yes, so on the headcount increase, I think it demonstrates that we have confidence in where the market is and what we are seeing in terms of the demand. And that also feeds in, in a way to the second point you had in terms of how are we raising the growth guidance.
+
+So first, in terms of the growth guidance, we are just finishing the third quarter, so only one quarter is left. We have had a lot of large deals in the previous few quarters. Plus we had a very strong execution in this quarter.
+
+You asked a little bit about the industries. We have seen, for example, in Financial services, and we have seen in Energy, Utilities, Resources, Services, we see that the way the deals have come, the way we have become AI partner of choice with our largest clients, we see a good outlook even as we look into the next financial year. And that in part helped us to increase the guidance, which is only for this financial year, which is ending in March.
+
+## Jayesh Sanghrajka
+
+So first of all, very Happy New Year to all of you. Before I come to margin, I just wanted to also touch upon the headcount part. If you recollect last year, we had called out that we are going to hire 20,000 freshers this year. We have onboarded roughly around 18,000 freshers, and we are well on our way to finish our 20,000 number for this year, which, in a way, reflects in a headcount also because many of them are under training. And if you look at our utilization, including trainees, has come down. So, that is our investment into building capacity for future in a way. So that is on the headcount.
+
+If you look at margins, we have expanded our margin this quarter by 20 basis points versus the last quarter. We are now on a nine-month basis at 21% margin, which is midpoint of the guidance that we have given. The puts and takes of 20 basis point expansion this quarter is 40 basis points came from currency, 50 basis points came from the Project Maximus, mainly on account of value-based selling and the lean &amp; automation that we have done on multiple projects, offset by the furloughs and lower working days that we had. We also accrued a higher variable pay compared to last quarter, which was offset by some of the one-offs that we got. So that is the broad margin walk in a way.
+
+But if you look at the nine months period margin, which is 21%, we have invested in our sales and marketing, which has gone up by 50 basis points on a year-on-year basis. So that has been absorbed in the margin. The lower utilization of almost 1% has been absorbed in our margin. So this margin is
+
+## Infosys
+
+<!-- image -->
+
+<!-- image -->
+
+after absorbing all of that, where on one side, we are building capacity for future, on the other side, we are investing in sales and marketing, and we still had a stable margin plan.
+
+## Ritu Singh
+
+Do you have an outlook for next year now that you are completing this 20,000 for the year? You have had a lower attrition as well this quarter.
+
+## Jayesh Sanghrajka
+
+We will have an outlook once we give our guidance for next year in April.
+
+## Ritu Singh
+
+And also the wage hikes, what is planned for the year and what kind of impact that could have on the margins from here on?
+
+## Jayesh Sanghrajka
+
+So we just finished one cycle of our wage, which was in two parts in January and April. We have not yet decided on the next part yet. We will decide on that as we progress.
+
+## Salil Parekh
+
+On AI, I think one of the points I shared, and we have a lot of that sort of information was with our largest 200 clients, with over 90% of them, we are doing AI work. What we are doing in AI is unique AI services with clients. And also, we have reshaped all of our existing services, leveraging AI in. For example,  we  are  using  agents  in  several  of  our  service  lines  to  help  enhance  either  growth  or productivity. So that is what we are sharing in terms of what our impact is.
+
+## Rishi Basu
+
+Thank you, Ritu. The next question is from Mansee Dave from ET Now.
+
+## Mansee Dave
+
+Good  afternoon,  Salil  and  Jayesh.  This  is  Mansee  Dave  from  ET  Now,  ET  Now  Swadesh.  My question is on demand visibility, tech spending and AI adoption. Now looking at the constant currency growth scenarios and commentary around fewer billing days and deal timing, how are clients thinking about  calendar  year  2026  tech  spending,  especially  discretionary  versus  transformational-led programs? And at the same time, pace of enterprise AI adoption as well as tech spending outlook are amongst the key monitorables which we were looking towards. How does the scenario look like? And how are the pricing models evolving according to you?
+
+<!-- image -->
+
+<!-- image -->
+
+## Salil Parekh
+
+So I will start with that, maybe a little bit on the pricing, Jayesh might have some views.
+
+On the demand, we see good demand outlook, we have had strong large deals. Our large deals pipeline remains healthy. And we are seeing in the two industries that I mentioned, on Financial services, on Energy Resources, Utility, Services, a way that our work on AI is going and the way the deals have shaped up, we see a good outlook as we look even beyond this financial year into the next financial year.
+
+On Financial services, specifically, we see discretionary spend and good traction in what we are seeing across the market. Having said that, overall, we want to still see all of the other industries and segments start to show that. But these two are definitely something that we are seeing today.
+
+## Jayesh Sanghrajka
+
+And on the pricing, I think as the newer and newer technology evolve, every time there is a change like that, you see a new pricing model evolving as well. We are seeing multiple new pricing models evolving. Some of them are being led by us, whether it is outcome-based pricing or whether it is pricing, which is specific to agents, etc. So a little early in my mind in terms of calling out specifically what are the pricing models going to evolve on this. But everybody is testing new pricing models at this point in time.
+
+## Rishi Basu
+
+Thank you. The next question is from Shristi Achar from The Economic Times.
+
+## Shristi Achar
+
+Hi. Happy New Year to all of you. So a couple of quick questions on, one, I wanted to know on the sharp decline in operating margins that we are seeing. So I want to know if the impact is beyond the labor code charges that the company has taken.
+
+And I also wanted to know, there has also been a sequential decline in your revenue contribution from your top 5 and top 10 clients. So can you give us a sense of why that is happening? And what the next couple of quarters look like on that?
+
+<!-- image -->
+
+<!-- image -->
+
+On the third, sorry, this is the last one. So, I also wanted to know on the whole H-1B row that is going on. So, this morning also, we saw some claims of employees being deported on the same as well. So I wanted to just know what is going on around that.
+
+## Salil Parekh
+
+You want to start on the labor code?
+
+## Jayesh Sanghrajka
+
+Yes, so if you look at the margins, if you are looking at reported margins, yes, the reported margins were impacted because of labor code. But if you look at the adjusted margins, as we have called it out also, the adjusted margins have actually expanded. If you exclude the impact of labor codes, adjusted margins have expanded by 20 basis points sequentially. And on a full year basis, it has remained 21%, which is similar to our last year margin.
+
+And that, as I said earlier, that was after absorbing the investment that we have done in sales and marketing, which would have impacted margins by 50 basis points, after absorbing the impact of lower utilization, which is building capacity for future. So after absorbing both of that, we have been able to maintain margins. You had a second question?
+
+## Rishi Basu
+
+Client contribution.
+
+## Jayesh Sanghrajka
+
+Yes.  Client  contribution.  I  think  sequentially,  client  contribution  is  not  a  way  to  see  in  my  mind because there is a seasonality involved. Every Q3, you typically have furloughs, etc., which would have impacted certain specific clients and larger the clients, larger will be the impact of furloughs if there is one in that account. Typically, you will see that year-on-year, and we do not really see a significant change in the year-on-year client metrics.
+
+## Salil Parekh
+
+On your last question, I just want to read out, no Infosys employee has been apprehended by any U.S. authority. A few months ago, one of our employees was denied entry into the U.S. and was sent back to India.
+
+## Rishi Basu
+
+7
+
+<!-- image -->
+
+Thank you. The next question is from Chandra Srikanth from Moneycontrol.
+
+## Chandra Srikanth
+
+Hi, Salil. Just a follow-on to that, so this employee who was not allowed and sent back, are you contesting that in any form? Secondly, one of the big trends this quarter we have seen is a big acquisition from Coforge, where they acquired Encora for $2.35 bn; TCS has acquired Coastal Cloud for $700 mn. So, can we expect more action on the M&amp;A front? Are there assets that are attractive, if you can take us through your M&amp;A strategy? Thank you.
+
+## Salil Parekh
+
+On M&amp;A, as we have looked at over the last few quarters, we have done acquisitions on cyber, on consulting and energy services. And we will continue with that sort of an approach. We have a good pipeline of possible companies that we are looking at and discussions. We have strong support in terms of our balance sheet. So, we will continue with that. It is not something that is different in that sense  from  what  we  were  doing  in  the  past.  We  have  a  set  of  areas  we  are  also  looking  in geographies which are new we are looking at expanding in some service areas where we can go deeper. So that will continue on.
+
+## Chandra Srikanth
+
+On the ICE, any other details that you can share?
+
+## Salil Parekh
+
+That is what I have to share.
+
+## Chandra Srikanth
+
+Okay. Jayesh, sorry, just one thing on the labor code. So, according to your fact sheet, Infosys has incurred ` 1,289 crores on account of labor codes. So, has the full impact been absorbed? Or will it sort of be staggered? How will that work?
+
+## Jayesh Sanghrajka
+
+So, whatever is to be accrued till this quarter end has been accrued in the books. Labor code has impact across multiple aspects, whether it is gratuity, whether it is other aspects of wage, and that has been accrued. There will be an ongoing impact of roughly around 15 basis points. That will happen on an annual basis. That is a regular impact of the labor code as we go ahead.
+
+<!-- image -->
+
+<!-- image -->
+
+## Rishi Basu
+
+<!-- image -->
+
+Thanks, Chandra. The next question is from Haripriya Suresh from Reuters News.
+
+## Haripriya Suresh
+
+Good  evening.  A  few  questions.  One,  on  the  H-1B  front,  will  you  be  looking  at  making  new applications? Or is it primarily just hiring in the U.S. and the employees that you have already? In Retail, is there specific softness because of how America is right now? And when do you sort of see that recovery? And third is, Salil, your term for a CEO ends in March 2027. That is the five-year term. What is succession plan? Has that started? And what is that looking like? Thank you.
+
+## Salil Parekh
+
+On the first one, on H-1 and what the recruiting is. So, our approach is very clear. We have, as we have shared in the past, majority of our employees in the U.S. who are not requiring any visa, we are continuing with our deployments and our delivery using a mix of what we have work in the U.S. and work in India. So, no changes to that approach. At this stage, we are continuing with our process because there is an existing set. We will examine it as it comes up in the future.
+
+On Retail, what we are seeing is there are some places where we see positives, there are some places where we see different client situations, which are under some cost containment for that subvertical within that. So, we are waiting and we are pushing to make sure that the Retail pipeline, which is growing, becomes converted into what we drive into the Retail growth.
+
+On my own situation, no comment.
+
+## Haripriya Suresh
+
+Like overall as a company.
+
+## Salil Parekh
+
+Yes. No comment from my side.
+
+## Rishi Basu
+
+Thank you, Haripriya. The next question is from Avik Das from The Business Standard.
+
+## Avik Das
+
+<!-- image -->
+
+
+
+<!-- image -->
+
+Thank  you.  Quick  questions.  One,  a  little  bit  more  on  the  BFSI  commentary  because  what  we understand  that  Financial  services,  BFSI,  overall  has  been  improving  in  the  North  American geography. So which sectors or which sub-segments within that sector is actually growing, if you can just throw some more light, Salil?
+
+And North America seems to have de-grown in a constant currency basis. Any reason? Was it a client specific? Or was it any sector specific? Maybe Retail that pulled it down, if you can just throw some more light?
+
+And Jayesh, there seems to be that idea that new large deals will be smaller or maybe far and few to come by as more AI-led deals sort of take the center stage. Keeping that in consideration, how do you think the margins are going to play out across the industry and for you in specific in the long run? Thank you.
+
+## Salil Parekh
+
+So, I will start off on Financial services, we see a good traction across most of the subverticals we have within Financial services, we are seeing good traction with retail banks. We are seeing good traction with what are considered mid-market banks. We are seeing good traction on payments. We are seeing good traction in the mortgage area. So overall, pretty strong. Some are stronger, some are less strong. But overall, we see a good demand environment. There is good adoption of AI across the  spectrum  with  our  large  financial  services  clients.  We  recently  announced,  for  example,  a partnership with Cognition, which is very strong, and we are working with them jointly in some of the financial services companies.
+
+On North America, nothing very specific. It is a mix of different industries and different plays. The overall situation on Energy, Utilities, on Financial services remains strong, on some of our other verticals remains something that is coming back over time, but not yet.
+
+## Avik Das
+
+On the third on the margin?
+
+## Jayesh Sanghrajka
+
+Yes. On the large deals, if you look at the deals that we have signed, we have signed $4.8 bn this quarter if you look at it even on a nine-month basis, compared to the last year, our deals, large deal signings have gone up. So, while there is always a productivity ask that goes up because of AI, etc., there is also a lot of deals that are getting structured because of cost optimization, cost takeout, etc., from the client side. So, a lot is getting bundled when you look at it.
+
+<!-- image -->
+
+And on the margin side, large deals always have slightly lower margin than the company average. But as a portfolio, you always make up on a margin because the new work that comes up, comes up at a better margin, etc., so that is a trend that we have seen. We have not seen a change in the trend from that perspective.
+
+## Rishi Basu
+
+Thank you, Avik. The next question is from Sanjana from The Hindu BusinessLine.
+
+## Sanjana B.
+
+Hi. Good evening, gentlemen. So Manufacturing and Europe they have grown significantly for Infosys this quarter. Both of these were previously seeing some softness. So can you expand on what were some factors contributing to this growth? And also, I think the tech budgets for the calendar year 2026 are expected to be rolled out soon. Based on client conversations, what are you hearing? Is there any sign of uptick in discretionary spending?
+
+And also, the guidance was raised upwards despite seasonalities and uncertainties. Any reasons for this? And the last question, regarding the collaboration with Cognition, which is an AI startup, what were the gaps in your AI portfolio that you were looking to bridge with this particular collaboration? How is this contributing to your whole AI momentum?  Thank you.
+
+## Salil Parekh
+
+So starting on Manufacturing and Europe. Firstly, I think Europe has been in a good position for us for many quarters. And actually, even Manufacturing has had a strong activity across the board, we have seen good traction. There are pieces within the Manufacturing client base, which are benefiting massively from the AI growth. For example, we work with companies that provide power solutions.
+
+We  work  with  companies  that  provide  manufacturing  into  those  solutions  that  provide  engine capacity, that provide generating capacity. So there is a lot of those pieces which are doing well, those client industry components, which are doing well and where our team is really active on that. We have also got some good traction within Manufacturing on the engineering part of the work, engineering services part of the work.
+
+## Rishi Basu
+
+Guided tech budgets for 2026. Discretionary spend.
+
+## Salil Parekh
+
+<!-- image -->
+
+On the discretionary spend overall. So first, on Financial services, we are definitely seeing that what we shared earlier. We are seeing a good set of deals which have happened, and then we see that with the AI traction we have in that industry, the next financial year, we will have better outcomes than this financial year on that, and Financial services, is going well this year. Similarly, on Energy and Utilities, we are seeing a good set of deals that have come together across the whole industry vertical, and that is helping us with that momentum. So, those are the ones we are seeing. On the others, we are not seeing any deterioration, so which is one sign. And we see overall, the macro environment seems to be where people are expecting maybe some interest rate cuts. So we will see if that happens, especially in the U.S. And then some of the other expansions we are doing, for example, we have a program where we are working with some of our smaller sets of clients, and those are growing pretty well. So overall, we feel that as we look out into the next year, these are things that support our growth. Then on AI itself, we are seeing what I shared earlier in these six areas, where we see a potential good growth over the next several years, not just in the next year, and as we start to execute on that,
+
+that will help us.
+
+## Rishi Basu
+
+Cognition.
+
+## Salil Parekh
+
+On Cognition, so it is not so much a gap. So what the Cognition people are doing is they have built an agent which is working to do software development. And we are working with our clients as a partner with them, where we are building agent capacity, and we are enabling those agents to work in a client environment.
+
+So, the advantage is that we have a detailed understanding of how the client technology landscape is set up and we have a good understanding of what are the industry constraints or opportunities are.  And  that,  combined  with  the  software  agent  with  Cognition,  becomes  a  very  powerful combination in many clients. So, that is something that will expand quite nicely.
+
+## Rishi Basu
+
+Thank you. The next question is from Jas Bardia from The Mint.
+
+## Jas Bardia
+
+<!-- image -->
+
+<!-- image -->
+
+Good evening, sir. Just two-pronged questions. In what segments and for what clients will you all be using these AI software engineers? And how will this impact delivery? How will this impact billing? And more importantly, how will it impact future hiring? That is FY-'27 onwards, considering you are using a lot of these AI software engineers to work in client projects actively.
+
+## Salil Parekh
+
+So, what we see there first, where will it be used? My sense is as I have interacted with our clients and  with  some  of  these  partner  companies,  the  usage  is  going  to  be  across  essentially  every industry, every client over time. So, it is a function of what is the client landscape and what it is that they want to achieve.
+
+My sense is there are, for example, in those six that I described earlier, there are places where the economics have changed completely from a client perspective. If you take legacy modernization, here, if you use software agents, plus our expertise, plus our knowledge, the whole economics from a client perspective becomes much better, and that allows a lot of these projects, which were not happening before to start happening. So, it is not the case of something which was being done, which is now being done differently, that will also happen. But this is more a case of something which was not being done, which will now start  to  happen.  So  in  that  light,  we  will  continue  to  hire.  As  Jayesh  mentioned  earlier,  we  will announce as we do in April, our plan for next year, we are going to hire on campus. We know that. And this year till today, we have done 18,000. We will do 20,000 campus hires and we will continue in that sort of a range for next year because these are new areas of demand. And so it is incremental to what we are doing. And we will have our people working and these software agents, which makes
+
+the overall economics for the client much better.
+
+## Jas Bardia
+
+The billing?
+
+## Salil Parekh
+
+The value that we create will drive the billing. So, lot of these things will be based on the traditional ways,  as  Jayesh  was  saying  on  billing.  And  a  lot  over  time,  will  change  as  the  AI  market  itself develops. So today, there is not any immediate change. But over time, we will see that.
+
+## Rishi Basu
+
+Thank you, Jas. The next question is from Poulomi Chatterjee from The Financial Express.
+
+<!-- image -->
+
+## Poulomi Chatterjee
+
+<!-- image -->
+
+Good evening. So, I wanted to ask, recently, we have seen across Indian IT, there has been a slew of like AI-related acquisitions. So, what is your approach with regards to that? And also IT companies are now competitively hiring specialized AI talent among freshers who are getting paid significantly more. So, what does the talent pool look like? And what are you looking at when you are hiring these set of people?
+
+## Salil Parekh
+
+So, in terms of acquisitions, in the landscape, there are not so many AI services companies today that we see. What we do see are companies where we are partnering, which are really AI, whether they  build  agents  or  models  or  foundational  tools,  which  exists,  and  those  are  the  ones  we  are partnering with. We will look in an acquisition approach to AI as they start to appear as larger AI services  companies.  And  we  have  some  that  we  are  looking  at,  which  is  part  of  our  overall acquisition, meaning there are other things in the acquisition as well.
+
+In terms of the compensation, I think Infosys has always been a leader in making sure that we put new constructs in regard to our employees and the new people we recruit. What we have now done with  the  most  recent  approach  and  launch  is  put  together  an  approach  for  very  good  software engineers who will work in AI and who will have that level of expertise to be specialized engineers within our structure and with different and higher or much higher compensation levels.
+
+So, in the AI world, there will be different types of people working jointly with AI agents with different levels of training. And we want to make sure that we remain in the leading position in that recruitment environment. And with that, what we have launched for specialized engineers, that is the approach we have put in place.
+
+## Rishi Basu
+
+Thank you, Poulomi. The next question is from Uma Kannan from Deccan Herald.
+
+## Uma Kannan
+
+Good evening, gentlemen. So last year, you announced AI-first GCC model. So, I want to understand how  it  is  shaping  up?  And  a  follow-up  question  on  partnership.  This  month  alone,  you  have announced a couple of partnerships. Going forward, will there be more AI-native collaboration?
+
+<!-- image -->
+
+<!-- image -->
+
+And one more question. Some of your peers have made it mandatory to stay at the office for six hours. So, do you have any plans when it comes to office hours' requirement or will you continue the present hybrid flexible model? Thank you.
+
+## Salil Parekh
+
+So, on the GCC, we have, as you mentioned, launched the AI-specific approach. We have a lot of client activity in that. We have some clients we are already working on that. There are several others which are in the pipeline for large AI-specific capability building in GCC. So beyond regular GCC work that we are doing, and that is going pretty well at this stage.
+
+In terms of partnerships, we will have a number of different partnerships because there are several companies, smaller companies, but with great capability on AI on the foundation model, on coding, on agent development, on customer service. So, we will continue with that because those are the areas which our clients are most interested in, and we will continue. We are already working with those companies, but we will have these sort of strategic announcements as well. And the third one?
+
+## Rishi Basu
+
+Work from home.
+
+## Salil Parekh
+
+Work from home. No, we are not making any change to our approach. We will remain flexible in the way we are today and the way that our employees are interacting with the company and with our clients.
+
+## Rishi Basu
+
+Thank you, Uma. The next question is from Padmini Dhruvaraj from The New Indian Express.
+
+## Padmini Dhruvaraj
+
+Hi. Good evening. Sorry if these questions have been already asked. So one is, going forward, do you see labor code having an impact on profit margins? And do you see this having an impact on your appraisals going forward? And the U.S. government plans to cap the credit card limit, interest limit at 10%. So do you see this also having an impact?
+
+## Salil Parekh
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+So let  me start  with  the  second  one,  Labor  code,  Jayesh mentioned,  I  can  also mention on  the appraisal. On the U.S. credit card, what you mentioned, that is something that the U.S. banking system will look at and how they have to implement it. What we do with our clients, with the large banks is help them as they have to go through different regulatory changes. And if that requires our help and support, we will continue to do that. On the margin impact, Jayesh mentioned the number and on the appraisals, there will be no change in our appraisal approach.
+
+## Jayesh Sanghrajka
+
+Yes. So on the labor code, whatever is the impact till December end is already taken in our financial statement. That is a one-time impact because the regulation has changed, and there is an impact for the number of years that employees would have served for us, etc. So that impact has already been taken in the financial statements. There will also be an ongoing impact because of the wage code that has changed, and that will be taken as and when we go through that. That is approximately 15 basis points on an annual basis.
+
+## Rishi Basu
+
+Thank you, Padmini. Thank you. With that, we come to the end of this press conference. We thank our friends from media. Thank you, Salil, and thank you, Jayesh.
+
+Before we conclude, please note that the archived webcast of this press conference will be available on the Infosys website and on our YouTube channel later today. Thank you very much, and please join us for high tea outside.
+
+## Infosys Limited Q3 FY'26 Earnings Conference Call
+
+January 14, 2026
+
+## CORPORATE PARTICIPANTS:
+
+## Salil Parekh
+
+Chief Executive Officer and Managing Director
+
+## Jayesh Sanghrajka
+
+Chief Financial Officer
+
+## Sandeep Mahindroo
+
+Financial Controller and Head - Investor Relations
+
+## ANALYSTS
+
+## Ankur Rudra
+
+JPMorgan
+
+## Bryan Bergin
+
+TD Cowen
+
+## Ashwin Mehta
+
+Ambit Capital
+
+## Abhishek Pathak
+
+Motilal Oswal
+
+## Jonathan Lee
+
+Guggenheim Securities
+
+## Vibhor Singhal
+
+Nuvama Equities
+
+## Keith Bachman
+
+BMO Capital Markets
+
+## Gaurav Rateria
+
+Morgan Stanley
+
+## Sandeep Shah
+
+Equirus Securities
+
+## Jamie Friedman
+
+Susquehanna International Group
+
+## Dipesh Mehta
+
+Emkay Global
+
+1
+
+<!-- image -->
+
+<!-- image -->
+
+## Moderator
+
+Ladies and gentlemen, good day, and welcome to Infosys Limited Q3 FY'26 Earnings Conference Call. As a reminder, all participant lines will be in the listen-only mode, and there will be an opportunity for you to ask questions after the presentation concludes. Should you need assistance during this conference call, please signal an operator by pressing star, then zero on your touch-tone phone. Please note that this conference is being recorded.
+
+I  now  hand  the  conference  over  to  Mr.  Sandeep  Mahindroo.  Thank  you,  and  over  to  you,  Mr. Mahindroo.
+
+## Sandeep Mahindroo
+
+Hello everyone, and welcome to Infosys earnings call for Q3 FY'26. Let me start by wishing all of you a very Happy New Year. Joining us on this call is CEO and MD, Mr. Salil Parekh, CFO, Mr. Jayesh Sanghrajka,  along  with  other  members  of  the  leadership  team.  We  will  start  the  call  with  some remarks on the performance of the company, subsequent to which the call will be opened up for questions.
+
+Please note that anything we say that refers to our future outlook is a forward-looking statement that must  be  read  in  conjunction  with  the  risks  that  the  company  faces.  A  complete  statement  and explanation  of  these  risks  is  available  in  our  filings  with  the  SEC,  which  can  be  found  on www.sec.gov.
+
+I would now like to pass on the call to Salil.
+
+## Salil Parekh
+
+Thanks, Sandeep. Good evening and good morning to everyone on the call. Thank you for joining us. Warm wishes to you for the new year.
+
+We had a strong performance in Q3. Our revenues grew 0.6% sequentially and 1.7% year-on-year in constant currency terms. Our large deals were at $4.8 bn with 57% net new. This was across 26 deals. Our adjusted operating margin was 21.2%. We generated free cash flow of $915 mn.
+
+One of the most significant large deals we won was with the National Health Service in the U.K. This $1.6 bn deal expands our work in the Healthcare sector. We will help NHS leverage AI to streamline operations and improve patient care for U.K. citizens. We have deepened our Topaz AI capability with an agent services suite called Topaz Fabric. This suite helps our clients manage and implement AI agents across the enterprise.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+We  are  expanding  our  strategic  partnerships  with  AI  companies.  We  recently  announced  a partnership with Cognition. Here, we will combine Cognition's Devin software agent with Infosys' knowledge of the client landscape and industry expertise. We are already working with them across clients.
+
+Industry  analysts  recognize  Infosys  for  its  leadership  in  AI.  In  financial  year  2026,  we  were recognized as a leader across 12 ratings. We had strong momentum in AI adoption across our client base. Today, we work with 90% of our 200 largest clients to unlock value with AI. We are currently working on 4,600 AI projects. Our teams have generated over 28 mn lines of code using AI. We have built over 500 agents. We are scaling our forward deployed engineer team.
+
+Our clients are turning to us as trusted partners to drive value realization from AI investments. Some of  the  areas  they  focus  on  are  fragmented  data,  legacy  application  landscape  and  business workflows  that  are  not  conducive  for  AI.  We  bring  together  a  deep  understanding  of  clients' technology landscape, strong data engineering and process reimagination capabilities to help them capture value at scale from AI.
+
+We aspire to make AI work for clients delivering business outcomes for cost, revenue growth and innovation. We are witnessing six AI-led value pools emerging that could unlock a large incremental opportunity for us. We also see productivity-led benefits that compress some legacy areas.
+
+The six value pools of opportunity in AI services we see are,
+
+- -AI engineering services,
+- -Data for AI,
+- -Agents for operations,
+- -AI software development and legacy modernization,
+- -AI and physical devices and
+- -AI trust and risk services
+
+We believe we are uniquely positioned to capture market share across these value pools and emerge as the leading AI value creator for global enterprises. We will share a comprehensive view on our approach at an Investor Day later this quarter.
+
+In Financial services, we see good traction in large deals and discretionary projects. In Financial services  and  in  Energy,  Utilities,  Resources  and  Services  verticals,  we  expect  acceleration  in
+
+<!-- image -->
+
+
+
+<!-- image -->
+
+financial year 2027 over financial year 2026. This is based on good deal wins and AI preferred partner status with 15 of our largest 25 clients in each of these verticals.
+
+With the strong performance in this quarter, we have revised our revenue guidance for the financial year. The new revenue growth guidance for this financial year is 3% to 3.5% growth in constant currency. Our operating margin guidance for the financial year remains the same at 20% to 22%.
+
+With that, let me hand it over to Jayesh for his update.
+
+## Jayesh Sanghrajka
+
+Thank you, Salil. Good morning, good evening, everyone, and thank you for joining the call today. First of all, a very Happy New Year to all of you.
+
+Coming to the quarter, our Q3 performance demonstrates continued momentum we saw in the last two  quarters,  underscoring  resilience  of  our  business  model,  relevance  of  our  offerings  and  our disciplined execution.
+
+We had another quarter of growth, despite seasonal weakness and reduction in third party costs. The results for Q3 FY'26 include a charge associated with change in labor codes in India, which had an impact on operating profit, net profit, EPS and free cash flow for the quarter. Reference to the adjusted numbers exclude the impact from the same.
+
+Revenue for Q3 was $5.1 bn, up 0.6% sequentially and 1.7% year-on-year basis in constant currency terms. Operating margins including the impact of change in labor codes stands at 18.4%, adjusting for the same, it is at 21.2%.
+
+Key highlights of the quarter are as follows:
+
+1. We achieved strong revenue growth despite seasonality and lower third-party costs. Third-party as a percentage of revenue reduced by 0.3% sequentially and approximately 2.4% on a yearon-year basis.
+2. With three strong quarters of performance, our revenue growth in 9 months stood at 2.8%, which is at the higher end of our earlier guided range. This is despite the lower third party, which has reduced by approximately 1% compared to the same period last year and now stands at 7.3%.
+3. Momentum in Financial Services continues with 3.9% year-on-year growth in constant currency terms.
+4. Among geos, Europe continued to lead the growth by 7.2% year-on-year in constant currency terms.
+5. Volumes continue to remain soft for the quarter and the year.
+
+<!-- image -->
+
+<!-- image -->
+
+6. On a 9-month basis, RPP increased, reflecting continued momentum of value-based selling and productivity increases that we have achieved.
+7. Adjusted operating margins increased by 20 basis points sequentially to 21.2%.
+8. We continue our investments in sales and marketing, which has increased by double digits this year to date and impacting margins by approximately 50 basis points
+9. Utilization, excluding trainees was down by 1% sequentially at 84.1% and including trainees, was down by 2.2% to 80% as we continue to create capacity for future growth opportunities.
+10. Our  adjusted  margins  for  9  months  are  at  21%  at  midpoint  of  guidance  after  absorbing accelerated investment in sales and marketing as well as lower utilization.
+11. On-site mix further reduced by 10 basis points in Q3 and by 70 basis points in 9 months FY'26.
+12. Investment in talent continues. Net headcount increased by 5,000 to 337,000 employees. LTM attrition declined by 2% sequentially and 1.4% on a year-on-year basis, reflecting both market conditions and our focus on employee retention and upskilling.
+13. Large deal TCV was robust at $4.8 bn in Q3 with 57% net new. Total large deal TCV for 9 months stood at $11.7 bn, exceeding the total large deal TCV of full year FY'25. Net new deal TCV for 9 months was up by 40% as compared to the same period last year. Large deal pipeline continues to be healthy.
+14. Our razor-sharp focus aided by the deployment of AI agents on our order to receivable cycle has resulted in decline of 5 days in DSO, including net unbilled to 82 days sequentially.
+15. Driven by strong collections, free cash flow generation adjusted for labor codes remained robust at $965 mn, which is 113% of adjusted net profit. Adjusted free cash flow conversion for 9 months stood at 118%.
+16. Adjusted EPS in rupee terms for 9 months FY'26 grew at double digits at 11.5%.
+17. During the quarter, we successfully completed our largest ever buyback, returning INR18,000 crores to our shareholders, which will help EPS accretion. We also paid out interim dividend for FY'26 in line with our capital allocation policy.
+
+Adjusted  operating  margins  for  Q3  expanded  by  20  basis  points  to  21.2%  sequentially.  Major components of changes are as below:
+
+## Tailwinds of
+
+- -40 basis points from currency movement,
+- -40 basis points from Maximus comprising primarily of value-based selling, critical portfolios and lean &amp; automation,
+
+## offset by
+
+<!-- image -->
+
+-
+
+- 70 basis point impact from furloughs and lower working days.
+
+<!-- image -->
+
+The impact of higher variable pay was partly offset by one-off benefits during the quarter.
+
+Consolidated cash and investments were at $3.9 bn at the end of the quarter after returning $3 bn to the shareholders in the form of dividend and buyback.
+
+Yield on cash balance was at 6.19% and ROE stood at 32.8%.
+
+We signed 26 large deals during the quarter, including two mega deals. This includes 10 in Financial services, 4 in Retail, 3 each in Life Sciences and Manufacturing, 2 each in Communication, EURS and Hi-tech. Region-wise, we signed 16 deals in America, 9 in Europe and 1 in Rest of World.
+
+Coming to verticals.
+
+We see continued momentum in Financial services with approximately 5% growth in last 9 months, led by large deal wins and uptick in discretionary spends across sub-verticals like banking, payments, mortgages,  along  with  asset  and  wealth  management.  There  is  elevated  interest  in  AI-led transformation,  platform  modernization  and  vendor  consolidation.  We  are  seeing  a  shift  from compliance to business growth. Significant core transformation across all FS sub-vertical is creating strong long-term strategic pipeline, providing good IP platform partner opportunities. We are now a preferred  AI  partner  for  top  15  out  of  25  banking  clients.  Uptick  in  discretionary  spend  in aforementioned sub-verticals and deal wins in recent quarters positions us favorably for better growth in FY'27.
+
+Manufacturing vertical  is  also  impacted  by  tariff  uncertainties,  which  is  preventing  clients  from committing to long-term investments. Discretionary spend is under pressure and decision-making is slow. Industrial and Aero are doing well, but Auto sector remains challenged. Clients are prioritizing cost discipline, consolidation  and efficiency,  and we  are supporting them  through digital rationalizations and AI-led productivity initiatives. Overall pipeline remains healthy and focus on cost takeouts, infra consolidation and ERP modernization.
+
+EURS companies  are  increasingly  allocating  budgets  towards  AI  infrastructure,  data  readiness, cloud and software platforms. There is demand for setting up GCCs across sectors with most clients looking at SIs to complement their GCC strategy. We are a preferred AI partner for top 15 out of top 25 clients. We are seeing an increase in discretionary demand in Utilities and Energy, which should lead  to  growth  acceleration  in  FY'27.  Utility  sector  is  witnessing  increase  in  demand  driven  by massive investments in infra and AI data centers. While discretionary demand in energy sector is focused on decarbonization and low-carbon solutions, there is also focus on cost optimization and consolidation due to enterprise AI adoption.
+
+<!-- image -->
+
+<!-- image -->
+
+Retail and CPG clients continue to experience uncertainty due to the ongoing tariff negotiations and evolving geopolitical equations. Clients are prioritizing cost takeouts and AI-led productivity deals while discretionary spends remains soft apart from SAP, DNA, testing and AI augmented services. We continue to leverage Topaz and our AI Next platform to deliver measurable business value with robust guardrails around privacy, governance and augmenting customer and employee experiences.
+
+Communication sector continues to be impacted by geopolitical uncertainty. However, our deal wins in  prior  quarters  are  helping  us  driving  growth  acceleration  year-on-year  over  last  few  quarters. Telcos are prioritizing AI automation and transformation productivity increases, while traditionally IT remains  under  pressure.  Clients  are  increasingly  seeking  partnerships  with  SIs  for  scaling  and innovation within complex ecosystems. Focus is on outcome-based engagement models rather than traditional effort-based pricing model. Our stellar execution in a seasonally weak quarter is a clear reflection of our ability to navigate the uncertain environment effectively.
+
+Strong  year-to-date  performance  and  robust  deal  wins  have  enabled  us  to  revise  our  revenue guidance for FY'26 upward to 3% to 3.5%. This does not include any revenues from the joint venture with Telstra as we still await the regulatory approvals. Our operating margin guidance remains at 20% to 22%.
+
+With that, we can open up for the questions.
+
+## Moderator
+
+Thank you very much. We will now begin the question-and-answer session. The first question is from the line of Ankur Rudra from JP Morgan. Please go ahead.
+
+## Ankur Rudra
+
+Hi. Thank you, and Happy New Year to you too. Good to see a nice print here. Just first couple of questions on the revenue and the demand side. You know, the signs have been quite strong for the last couple of quarters. And momentum has been quite strong as well.
+
+I am just curious why the outlook, the implied outlook for fourth quarter cannot be stronger than it is. And secondly, I just want to confirm that your comment is for a growth acceleration in FY '27 for the overall business and not for a segment alone?
+
+And are you seeing any signs of short-cycle projects or discretionary spending expanding beyond financial services and energy also, especially when you think about FY '27? Thank you.
+
+## Salil Parekh
+
+<!-- image -->
+
+<!-- image -->
+
+So first, on what we are seeing in terms of the momentum and the deals, all of that has led to the increase in the guidance keeping in mind the overall picture. So  Jayesh mentioned a little bit about financial services, about energy, utilities, the overall deals.
+
+And then if you look at some of our other sectors, we are still seeing those sectors starting to come up, but not at that level. So, keeping all of that in mind, we have increased the guidance for what we see in Q4.
+
+On the numbers for next year - so, what we have shared today is in the two verticals, Energy, Utilities, Resources and Services, and in Financial services, we see that the growth on financial year '27 to '26 will be good. And that is because of the deals we have won large and other deals and the AI where we have partners with 15 of our large 25 clients.
+
+So those two things especially are giving us that view. We are not making a comment on the overall business. We are not saying anything on the overall at this stage.
+
+## Ankur Rudra
+
+Appreciate that. Thank you so much.
+
+## Jayesh Sanghrajka
+
+Ankur, if I can just add to what Salil was saying on guidance and your question on why Q4 guidance cannot be elevated more. You should also remember that there is a lower working day / calendar day impact in this quarter, which is usually seasonally there. So, that is also a headwind from the guidance perspective.
+
+## Ankur Rudra
+
+Appreciate it. Just a question for you, Jayesh, as well on the margin side. Margins appear to be down 20 basis points if I adjust the gains from the property sale this time. Could you highlight if you are seeing any kind of pricing pressure? And also, how do you see the puts and takes going forward? Also, given a lot more disclosure on the AI side, which is appreciated, I am curious if AI is a headwind or a tailwind on your margins when you do these 4,600 AI projects.
+
+## Jayesh Sanghrajka
+
+Yes. So you are right, there was a benefit that we got this quarter, and I did call that out that benefit was largely offset by the higher variable pay that we also provided in the financial statements this quarter. So that is the put and take of the margin.
+
+<!-- image -->
+
+<!-- image -->
+
+On the pricing, if you look at our consistent pricing commentary has been that our pricing is accretive. We have seen consistently our pricing going up on back of various factors, including AI, including Project Maximus. New gen pricing is part of the Project Maximus, which includes how do you price these new AI projects, etc.,. So, we do not really see an impact or a headwind coming because of the AI projects on pricing, especially.
+
+## Ankur Rudra
+
+Understood. Thank you and best of luck.
+
+## Moderator
+
+Thank you. Next question is from the line of Bryan from TD Cowen. Please go ahead.
+
+## Bryan Bergin
+
+Hi, good evening. Thank you. I wanted to ask on North America. So just your comment on your view going forward here, at least in the coming quarters, you see it just dipped down to a contraction of minus 1% on a year-on-year basis. Was that due to any particular industries? And just how do you see that progressing here as you go through March and beyond?
+
+## Jayesh Sanghrajka
+
+Yes so, this is what we had called out at the beginning of the year when we provided our original guidance that looking at the deals in the pipeline, looking at the projects that we have and the projects or large deals that were under execution.
+
+We expected this year, the third-party cost and therefore, the third-party revenue to be lower than the last year. It is across segments. Of course, the impact of it by segment could vary, but the impact is across segments.
+
+## Bryan Bergin
+
+Okay understood. And then just as it relates to the commentary on budgets going forward, can you just comment on the conversations you are having with enterprises now as it relates to their calendar '26 budgets. As you think about this right now versus this time last year, any key changes worth noting?
+
+## Salil Parekh
+
+9
+
+<!-- image -->
+
+I think what we see now is, first, the comment that we made earlier on Energy, Utilities vertical and Financial services. In Financial services, we also see discretionary work that is more prevalent. And then we see much more activity on AI. And in the AI area, what we are starting to identify as the six value pools areas where we can drive faster growth. We are seeing traction on that.
+
+And with some of the partnerships we have announced and some others that we are already working with companies on, we see good momentum. So, those are the two things that we are seeing. Some of the discretionary in FS, good momentum in those two Energy Utilities and Financial services. And then in AI, more activity, which is different from this time of last year.
+
+## Bryan Bergin
+
+Thank you.
+
+## Moderator
+
+Thank you. Next question is from the line of Ashwin Mehta from Ambit Capital. Please go ahead.
+
+## Ashwin Mehta
+
+Yes, hi. So just one question in terms of healthcare. It seems to have done pretty well this quarter, almost $44 mn of incremental revenues, which is nearly double of our overall incremental revenues. So, what is the driver of the healthcare growth? And secondly, was there any contribution from the NHS deal in this quarter?
+
+## Jayesh Sanghrajka
+
+Yes, Ashwin, healthcare did benefit from the contribution from the NHS deal that we signed.
+
+## Ashwin Mehta
+
+And we expect residual contribution as you get into the next quarter or this is kind of scaled up?
+
+## Jayesh Sanghrajka
+
+Ashwin, we do not provide deal by deal revenue estimates per se, right? But yes, healthcare did benefit from the NHS.
+
+## Ashwin Mehta
+
+Fair. And the second question is in terms of wage hikes. I missed the initial comments, but any decision in terms of the wage hikes? And are they expected in 4Q?
+
+<!-- image -->
+
+<!-- image -->
+
+## Jayesh Sanghrajka
+
+<!-- image -->
+
+So on the wage hike, whenever we decide that we have always considered multiple factors; when was the last wage hike was done, what are the market scenarios, the inflation, etc. If you look at this calendar, we have already rolled out wage hikes in two stages, effective - one part was effective January, the other one was effective April, like we always do. So, we have not decided the next cycle yet.
+
+## Ashwin Mehta
+
+Okay. Fair enough. Thanks a lot, and all the best.
+
+## Moderator
+
+Thank you. Next question is from the line of Abhishek Pathak from Motilal Oswal. Please go ahead.
+
+## Abhishek Pathak
+
+Hi, team, congrats on a good quarter. So, a couple of questions. Firstly, do you think this is the year when clients kind of move from the AI strategy being good to have to something of a necessity, right, which means that, is this a year when foundational AI work starts getting taken seriously across verticals? That is the first one.
+
+And secondly, on the Cognition deal, being a very interesting sort of partnership. Very curious to know how you are pricing this, how you are taking it to clients? I mean, is Devin kind of initially leading to a bit of cannibalization in revenues? And how are those contracts structured? And over the next 1 to 2 years, how do you expect a typical deal with, let us say, an agent like Devin and yourself sort of structured? So those are two questions.
+
+## Salil Parekh
+
+So, on the first one, what we are seeing is there is more and more interest in AI work across different industries.  So,  we  will  continue  to  see  that  going  through  the  year.  We  will  now  watch  and  see because every quarter so far and especially in Q3, we have seen that interest, our pipeline, the number of projects, our penetration of our large 200 clients with AI work, all of that is going up, and it is across those different verticals.
+
+There is much more activity there, which we called out in financial services, but we also see that in Telco, we see that in pharma, healthcare, we see that in Energy, Utilities. We see a little bit in Life sciences. So, it is not like only one sector. But yes, in FS, it is quite a bit more.
+
+<!-- image -->
+
+<!-- image -->
+
+On Cognition, the way that works is basically the Devin software agent and our work, we are doing joint work in clients already today. So, what tends to happen is there are certain sets of activity. For example, we see some things on legacy modernization where in the past, that was a large long commitment  for  clients.  With  this  combination  between  a  software  agent  and  Infosys  and  our knowledge of the client landscape and of the industry - things become much more addressable.
+
+And so those newer areas, those are the six value pools that I referenced earlier. This is one of them. Those are the new areas that start to come into play. And in this particular case with Devin, that is one example. There are others where that agent can be used in different places. And that is the type of growth we are seeing because that is new work that would ordinarily not have been done at all, but now can be attempted in a combination.
+
+## Abhishek Pathak
+
+Got it. Thanks, and all the best.
+
+## Moderator
+
+Thank you very much. Next question is from the line of Jonathan Lee from Guggenheim Securities. Please go ahead.
+
+## Jonathan Lee
+
+Great. Happy New Year and thanks for taking my questions. Can you speak to the level of visibility and certainty you have in your implied fiscal 4Q revenue growth relative to the visibility you have had in prior years around this time?
+
+## Jayesh Sanghrajka
+
+Hi, Jonathan, this is Jayesh here. I mean, whenever we have looked at the guidance, we do take into account multiple factors, the deals that we have signed, the deals that are ramping up and the usual factors affecting the quarter like calendar days, working days, etc. So, I think that is what has gone into guidance this time as well. What I can tell you is at the lower end we have baked in a higher amount of uncertainty. And at the higher end, we have baked in a better macro environment
+
+## Jonathan Lee
+
+That is good color. Thank you. And a follow-up, can you help us reconcile what you are seeing around subcontractor usage in the quarter versus the downtick in utilization you are seeing? Is there a skill gap that you might be facing and how should we think about that dynamic going forward?
+
+<!-- image -->
+
+## Jayesh Sanghrajka
+
+<!-- image -->
+
+Yes, so subcon historically, you are right, is always a factor of where the skill gaps are, where the skills that you need depending on the geography, depending on the tenure of the requirement, etc. And that is how the subcon uptick or downtick happens in the market in our scenario and that is what has happened this quarter as well. There are some of the large deals, there are some of the deals which would have started ramping up and we needed to dip into the subcontractors to fulfill those requirements, which is what is reflected in the uptick.
+
+## Jonathan Lee
+
+Appreciate that. Thank you.
+
+## Moderator
+
+Thank you very much. Next question is from the line of Vibhor Singhal from Nuvama. Please go ahead.
+
+## Vibhor Singhal
+
+Hi, thanks for taking my question and congrats on a solid performance. Salil, my question was on two key verticals, Manufacturing and the Hi-Tech division. So Manufacturing, just wanted to pick your brains on how are you seeing the traction in this vertical, given the kind of headwinds the Auto companies are seeing globally in terms of their EV rollouts and the competition. How are different parts of the Manufacturing vertical looking like at this point of time and do you expect the momentum to pick up in that?
+
+On the Hi-Tech vertical, just again I think we saw a sharp drop in this quarter, might have been due to seasonality of furloughs, but anything that you are looking at? This vertical has been around $370 mn, $380 mn kind of run rate for us for quite a while now. What are you looking at in this vertical in terms of next drivers of growth and are we seeing any momentum building up in this in the near future?
+
+## Salil Parekh
+
+On Manufacturing, as you mentioned, there is weakness in automotive and in some parts of industrial across Europe. We see some strength in some elements in Manufacturing and this is partially in U.S., partially in Europe, is supplying capability, which is coming for the build-out of the data centers and so on. So, there are some of those companies which are benefiting from that.
+
+<!-- image -->
+
+
+
+<!-- image -->
+
+But, the automotive side, as you mentioned, we see that continuing to be weak. We are focused on expanding our base there. So, we are looking at that and have successfully worked now with multiple automotive companies. We also see that going beyond automotive in the broader manufacturing, which is supplying capabilities to the boom in AI and data center activity, not the services, is what is going to help us in Manufacturing.
+
+On Hi-Tech, similarly, there is groups of companies which are strong, there are groups which need more attention and we have a portfolio of those companies. Overall, there is still cost pressure in HiTech and we will push. There is a lot of productivity activity that is going on there where clients are looking for productivity benefits.
+
+And they are also looking some of them for where they will get their growth into. Again, some of the companies which are supplying servers, etc., we are seeing those are doing pretty well with the AI boom. The others are looking for where are the growth elements that are going to come and we are supporting that work. And Hi-Tech also at this stage, we see some constraints in that industry.
+
+## Vibhor Singhal
+
+But just to further on that. Do you see this vertical maybe picking up for us, not in immediate term, but let us say, in the medium to long term, given that the widespread adoption of AI should be and some of these companies should be at the forefront of that. Do you think this vertical could be a good growth driver for us maybe sometime down the line?
+
+## Salil Parekh
+
+So,  I  think  in  the  medium  term  or  longer,  my  sense  is  Hi-Tech  is  a  good  industry.  We  are  very comfortable to be in it, as you pointed out. With different ways of AI impacting it across different value pools, they will also go through those changes.
+
+But we have to make sure that we are providing them the services that they are looking for and in a way that they have a lot of cost pressures today that becomes manageable in their cost structure. There is no timeline in my mind. But yes, in the medium term or beyond, Hi-Tech is a good industry for us.
+
+## Vibhor Singhal
+
+Got it.. Just one last question for Jayesh. Jayesh, as this quarter we took this exceptional item on the labor law impact. I would assume that the entire impact that we had to take has been taken. And from next quarter, there would not be any exceptional item anymore. And what would be the recurring impact of this new labor laws on our P&amp;L in terms of margins?
+
+<!-- image -->
+
+## Jayesh Sanghrajka
+
+<!-- image -->
+
+Yes. So, whatever is known at this point in time on back of the regulation that has changed is being taken this quarter. We do not expect, unless, of course, there are changes in the regulation, we do not expect any further impact going forward as one-off. The recurring impact of this would be 15 basis points on an ongoing basis approximately.
+
+## Vibhor Singhal
+
+Got it, got it. Great, that is it. Thank you so much for taking my question and wish you all the best.
+
+.
+
+## Moderator
+
+Thank you very much. Next question is from the line of Keith Bachman from BMO Capital. Please go ahead.
+
+## Keith Bachman
+
+Yes. Thank you very much. Could you speak on how you anticipate revenue per employee changing over the next couple of years and the spirit of the question is driven by trying to better understand how you see Infosys in the industry. One of the core value propositions has been managing people and growing in terms of managing agents instead of managing people?
+
+## Jayesh Sanghrajka
+
+Yes. So, Keith, it is similar to what we have seen in any other technology wave. If you are ahead of the curve, you will see an increase in your productivity because of the premium that you can keep with you. If you are behind the curve, then you probably will see a dip. The only measurement that would change here is the premium is measured now in terms of productivity. So, if you are delivering better productivity, you would be able to keep some of that with you, which will get reflected in better pricing.
+
+If you are behind the curve in delivering the productivity, you would see a dip in pricing. So that is how you will see in a traditional environment, the only change I would say is the pricing models per se are also changing and emerging. There are newer and newer pricing models emerging, how do you price agents, how do you price the underlying platform, etc. But early days to say at this point in time, how will that reflect in terms of linearity or non-linearity.
+
+## Keith Bachman
+
+<!-- image -->
+
+<!-- image -->
+
+Okay.  And  the  second  one  is  more  micro  -  there's  been  some  recent  press  reports  about  your relationship with Daimler in terms of maybe that moving away. Could you speak on anything you could  comment  on  Daimler  and/or  is  the  Q4  guidance  reflecting  any  attrition  in  contracts,  large contracts?
+
+Or should we be thinking about if we look over the horizon into FY'27, should we be considering any major attrition from any major contracts? And that's it for me. Thank you.
+
+## Jayesh Sanghrajka
+
+Yes. So Keith, our current contracts are valid till December end, till December '26. So, we don't really see any contracts within that expiring at this point in time. Beyond that, we don't really give a color on a client-specific or a project-specific details.
+
+## Keith Bachman
+
+Okay. All right. Thank you.
+
+## Operator
+
+Thank you. Next question is from the line of Gaurav Rateria from Morgan Stanley. Please go ahead.
+
+## Gaurav Rateria
+
+Yes, hi. My question is on the deal renewal cycle. Your comment did allude to significant productivity benefit on the legacy services. So anything that you could share from what you have seen on the renewals of your larger deals, specifically using some of the AI tools? What has been the learning there? Has there been some amount of leakage, which has been higher than usual?
+
+## Salil Parekh
+
+So, on the large deals, we are typically seeing, whether it's renewals or also deals which we are winning from other companies where we are beneficiaries of consolidation. Typically, across the
+
+Board, there is a large expectation from clients on AI productivity benefits.
+
+What we have done is we have modeled in what we are seeing today and built a path to that because these are typically three-five year deals. But we are also not in a position where sometimes the client expectations over five years are very different.
+
+So, we have what we are seeing and there we can view what that sort of a benefit is that we can provide because these are multiyear deals.
+
+<!-- image -->
+
+<!-- image -->
+
+In fact, we are winning large deals quite a lot. If you look at the numbers in the three quarters, we have done more than the full year of the previous year. And Q3 was already $4.8 bn. We've seen some net new deals, for example, NHS.
+
+So yes, there is that productivity. But yes, we are also benefiting from consolidation and winning things across the Board, where my sense is we are gaining on the market share side.
+
+## Gaurav Rateria
+
+Got it. My next question on your visibility for CY '26, fair to say that looks better than the last year because last  year,  you  entered  into  the  year  where  you  had  a  big  decline  in  the  fourth  quarter because of some specific issues. And this year, your guidance alludes to kind of a much better fourth quarter outlook.
+
+So your exit rate is much better than the last year. Does it mean that it gives you a little bit of a tailwind when you get into the FY'27 compared to last year when you got into FY'26? Thank you.
+
+## Salil Parekh
+
+I think the way you have described it, you have done the maths on that one because what we can see is, our guidance for the full year, we have the range, which gives us a good traction on Q4 with a lot of the good deals that have come and what we saw in Q3. Then, we are seeing the discretionary coming  back  in  Financial  services.  Then  we  are  seeing  Energy,  Utilities  and  Financial  services looking better in the next financial year than this financial year. And then we are seeing in AI services, the six value pools where we see a good growth opportunity. So all in all, that gives us a good, let us say, good view of next year.
+
+## Gaurav Rateria
+
+Thank you, Salil.
+
+## Moderator
+
+Thank you very much. Next question is from the line of Sandeep Shah from Equirus Securities. Please go ahead.
+
+## Sandeep Shah
+
+Yes. Thanks for the opportunity and congrats on a good set of numbers. Salil, first question, are you witnessing the average size of AI-led deals going up materially on a Y-o-Y basis across sectors?
+
+<!-- image -->
+
+<!-- image -->
+
+And just a follow-up, if answer to this is being yes, one can see clients are now in a state of mind where they do not fear in terms of modernization of legacy applications. And if that is true, can it lead to a better discretionary spend on that side of the services in CY '26 versus last year?
+
+## Salil Parekh
+
+On the AI part, so there are two things. One is there are, like, deals which are only AI. One is where AI is pervasive in every service we are offering. So, it is difficult, therefore, to say the size of the deal. But in general, the usage of AI is much more across all our services. And the actual, only AI, if you can call it like that, deals are also going better. So that is what is happening. I think on that modernization, if I understood, yes, we are seeing that across the Board because AI can open up that and make it a little bit more efficient for the client and therefore, they will have a better return on that. And then will the discretionary come after that? That one, we do not know, meaning it depends on the industry situation also for that. Like what we see right now is in Financial services, we are seeing it. But the other industries, we will see how they play out as each one we have given some color. That will be different for different
+
+industries is what we think.
+
+## Sandeep Shah
+
+Okay. And just a follow-up to this. Is there a traction in terms of number of deals below $50 mn has now started increasing and this could be a trend to continue rather than volatile trend earlier? And just two questions to Jayesh.
+
+Is it fair to assume third-party items as their cost line, as a percentage to revenue for this year, which we guided at the start of the year, may be stable here on or may further decline beyond FY'26. And Jayesh, this INR165 crores profit on property, plant and equipment, will it be a headwind in the fourth quarter?
+
+## Salil Parekh
+
+Let me start on the first piece. Typically, below that $50 mn, we are not sharing because only the large deals data we are sharing externally. The only comment we can share is, overall, our wins are looking good. And also, we are doing work with smaller accounts, which is not to comment on the overall $50 mn below deal, but on smaller accounts, there we are also seeing some good growth. And then Jayesh, on the other parts?
+
+## Jayesh Sanghrajka
+
+<!-- image -->
+
+<!-- image -->
+
+Yes. So, Sandeep, this is Jayesh here. If you look at the third-party deals this year, beginning of the year, we had said we expect the third-party cost to be lower than the previous year on back of the deals that we signed in last year that were getting ramped up, the deals that we saw in the pipeline. So that is a combination that we need to look out for when we guide for that. We do not have all the
+
+details at this point in time for the next year. We will get into next year, and we will let you know on that at that point in time. So that was one. You had a second question on the INR165 crores. I did not get the exact question on that, if you could repeat.
+
+## Sandeep Shah
+
+Yes. What I meant is these kind of a line item may not reoccur every quarter. So is it fair to assume 35, 36 bps, which has been a benefit in this quarter could be a headwind in next quarter?
+
+## Jayesh Sanghrajka
+
+Yes.  So  there  are  always  some  one-offs,  right,  that  you  get  some  headwinds,  some  tailwinds. Sometimes, it is in revenue line item, sometimes it is a cost line item for a company of this size. So that is always there. As I talked about in my margin walk also, this was largely or more than offset by the increase in variable pay as well.
+
+## Sandeep Shah
+
+Okay. Thanks and all the best.
+
+.
+
+## Moderator
+
+Thank  you  very  much.  Next  question  is  from  the  line  of  Jamie  Friedman  from  Susquehanna International. Please go ahead.
+
+## Jamie Friedman
+
+Hi.  Good  evening.  I  had  two  questions.  I  will  just  ask  them  upfront.  Salil,  it  is  great  to  see  the
+
+improvement in discretionary and financial services. I was wondering if you have any comment as to whether you are seeing that or anticipating that expand into other verticals. And you mentioned Energy and Resources.
+
+And  then  my  second  question  is,  in  terms  of  your  thinking  about  the  journey  between  AI  and agentification, it seems like your thinking has evolved more towards the agentification. I imagine you
+
+19
+
+<!-- image -->
+
+<!-- image -->
+
+will  address  this  at  the  Analyst  Day,  but  if  you  could  describe  how  you  are  thinking  about  the productization  of  your  AI  initiatives  relative  to  those  two  dimensions.  So  first,  AI  and  then agentification? Thank you very much.
+
+## Salil Parekh
+
+So, on the first, I think on Financial services, we are absolutely seeing that, which we shared. On Energy Utilities, because of the deals and the fact that we are in the top 15 of 25 clients doing AI work, we see clearly next financial year will be growth over this financial year. We are looking in other places as that discretionary will start to come back. And as it does, we will absolutely share that. We do feel that overall, from what we see on AI, what we see with possibilities on the economic growth, GDP growth and so on in the U.S. that those signs will give the clients the ability to spend on tech. But as we see it, we will share that for sure on the other industries. On AI, so first, agents are very much in a big play today. So, we are absolutely on the forefront of that. So, what we have built within Topaz is fabric, Topaz Fabric, as we call it, is a set of purposebuilt agents, which work with many different native AI companies interfaces and can support a lot of different functions within clients, horizontal and vertical. So that suite is going to be our agent suite. Then there are agents of the other companies, which we will integrate, implement, expand, make it work because we know the tech landscape of a client, and we know the industry depth. So there, we feel quite good that we are in a better position than many people to put that. In terms of productization, we have built four small language models. In our own product suite, in Finacle, we will be much more AI orientated. But we are not at today's stage planning to do largescale foundational model work. We are going to do small language model work. We will do other things. For example, there are a set of AI wrappers or orchestration modules that we can build, which will enable clients to switch between foundation models, switch between agents, do a selection of agents, so that is a different type of product platform, which is all in Topaz. So that is the way we are thinking about it today. We may, in the future, have something more, but
+
+that is like the current view.
+
+## Moderator
+
+Sir, the line for the participant dropped. We move to the next participant. Next question is from the line of Dipesh Mehta from Emkay Global. Please go ahead.
+
+20
+
+<!-- image -->
+
+## Dipesh Mehta
+
+<!-- image -->
+
+Yes. Thanks for the opportunity. Two questions. First about the six areas of AI services pool, which you referred to. Can you provide some sense about the potential growth opportunities? And where, let us say, Infosys is currently and how you expect it to evolve in maybe next three to five years?
+
+Maybe if you can share some participation metrics, where we are and how you expect it to evolve? Second question is on the CY '26 budget. If you can provide some early indication on how you expect it to shape up? Thank you.
+
+## Salil Parekh
+
+So on the first one, what we are thinking is in that six areas, today, we are starting to do work in many of those areas. But what we want to do is in our Investor Day, go into a little bit more depth. For example, we will share, like in several industries, what we are doing in some of the areas. We will  share like we have AI labs on campus, and we want to do a little walk through to show like actually  the  work  that  is  going  on.  And  we  will  also  share  like  the  scale  of  what  we  think  that opportunity is and the possible growth dynamics in that. So, that is our planning for that Investor Day. And the second one, what did you ask?
+
+## Dipesh Mehta
+
+CY '26 budget.
+
+## Salil Parekh
+
+So, that we will come to it in the April time frame, when we finish the year. We are now in the process of working on that. We will share that in that April call.
+
+## Dipesh Mehta
+
+Okay. Thanks.
+
+## Moderator
+
+Thank you very much. Ladies and gentlemen, we will take that as the last question. I will now hand the conference over to the management for closing comments.
+
+## Salil Parekh
+
+Okay. Thank you, everyone for joining and for such a detailed and insightful set of questions. I just want to leave a few comments. We have had a strong quarter, good large deals, increase in our guidance. Our nine-month margin sits at 21%. We have actually done that after absorbing a very strong increase in our sales cost of 50 basis points and with some lower utilization, which we are building capacity for the future. We also see a huge shift on AI, which we shared in some of the six areas plus some of the partnerships.
+
+<!-- image -->
+
+<!-- image -->
+
+We start to see discretionary coming back in Financial services. And in Energy, Utilities and Financial services, we start to see that next year looking better than this year. So overall, we feel good as we go into the fourth quarter with our increase in guidance. Thank you, everyone, and catch you at the next quarterly call.
+
+## Moderator
+
+Thank you very much. Thank you, members of the management. Ladies and gentlemen, on behalf of Infosys Limited, that concludes this conference. Thank you all for joining us, and you may now disconnect your lines. Thank you.
+
+22
+
+
