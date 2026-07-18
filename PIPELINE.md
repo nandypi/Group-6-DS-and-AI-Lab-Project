@@ -31,14 +31,14 @@ Converted the downloaded PDFs into markdown files using the `docling` library.
 Renamed converted markdown files using their original source PDF URLs so the
 markdown filenames remain traceable to the NSE source files.
 
-- Script used: `datapreparation/rename_markdown_from_source_url.py`
+- Script used: `datapreparation\data-preprocessing\rename_markdown_from_source_url.py`
 
 ### Deduplicate Markdown Files
 
 Deduplicated markdown files where duplicate files had only a hash-code suffix
 added to the original file name.
 
-- Script used: `datapreparation/file-dedup.py`
+- Script used: `datapreparation/data-preprocessing/file-dedup.py`
 
 ### Rule-Based Document Categorisation
 
@@ -48,7 +48,7 @@ Classified the 240 documents into three groups using hardcoded keyword rules:
 - `reject`: documents rejected by the rules
 - `review`: documents that did not clearly fall into either group
 
-- Script used: `datapreparation/pdf_seperate.py`
+- Script used: `datapreparation\data-preprocessing\pdf_seperate.py`
 
 ### GPT Review of Ambiguous Files
 
@@ -58,7 +58,7 @@ For the `review` group, we used Codex CLI with
 - Prompt used: `prompts/review-files-using-codex.txt`
 - Review decision file: `metadata/processed/review_decisions.json`
 - Script used to copy reviewed files:
-  `datapreparation/copy_review_decision_files.py`
+  `datapreparation/data-preprocessing/copy_review_decision_files.py`
 
 GPT-reviewed files were copied into:
 
@@ -84,7 +84,7 @@ Current file counts:
 The final NSE files of interest were further categorised using the top-level
 `pages` metadata key in each markdown file.
 
-- Script used: `datapreparation/copy_files_by_page_count.py`
+- Script used: `datapreparation/data-preprocessing/copy_files_by_page_count.py`
 
 Output folders:
 
