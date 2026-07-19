@@ -2,14 +2,14 @@
   "document_name": "Infosys_29072025172822_SEfiling_Reg30_29072025.md",
   "is_material": false,
   "title": "Infosys incorporates step-down wholly-owned subsidiary Infosys BPM Canada Inc.",
-  "detailed_summary": "Infosys Limited incorporated a step-down wholly-owned subsidiary, Infosys BPM Canada Inc., in Canada on July 28, 2025. The entity has share capital of CAD 10, no applicable turnover, and belongs to the Information Technology and Information Technology enabled Services industry. Its shareholding is held 100% by Infosys BPM UK Limited.",
+  "detailed_summary": "Infosys incorporated a step-down wholly-owned subsidiary, Infosys BPM Canada Inc., in Canada on July 28, 2025. The entity has share capital of CAD 10 and is in the Information Technology and Information Technology enabled Services industry. The document does not disclose revenue, consideration, approvals, or any stated financial or strategic impact.",
   "key_facts": [
     {
-      "fact": "Infosys BPM Canada Inc. was incorporated in Canada with share capital of CAD 10.",
+      "fact": "Infosys incorporated a step-down wholly-owned subsidiary named Infosys BPM Canada Inc. in Canada.",
       "section_heading": "Annexure - A"
     },
     {
-      "fact": "Infosys BPM Canada Inc. belongs to the Information Technology and Information Technology enabled Services industry.",
+      "fact": "Infosys BPM Canada Inc. has share capital of CAD 10 and turnover is not applicable.",
       "section_heading": "Annexure - A"
     },
     {
@@ -36,8 +36,8 @@
   "corporate_actions": [
     {
       "action_type": "subsidiary incorporation",
-      "description": "Infosys incorporated Infosys BPM Canada Inc. as a step-down wholly-owned subsidiary in Canada.",
-      "amount_or_ratio": "Share capital: CAD 10",
+      "description": "Infosys incorporated Infosys BPM Canada Inc. as a step-down wholly-owned subsidiary in Canada; 100% of the shareholding is held by Infosys BPM UK Limited.",
+      "amount_or_ratio": "CAD 10",
       "effective_date": "July 28, 2025",
       "section_heading": "Annexure - A"
     }
@@ -50,22 +50,29 @@
   "products_or_platforms": [],
   "important_text_spans": [
     {
-      "text": "the Company has incorporated a step-down wholly-owned subsidiary in the name and style of Infosys BPM Canada Inc.",
-      "section_heading": null,
-      "reason": "Supports the main event of subsidiary incorporation."
+      "text": "Name: Infosys BPM Canada Inc. Country of Incorporation: Canada Share capital: CAD 10 Turnover: Not applicable",
+      "section_heading": "Annexure - A",
+      "reason": "Identifies the new subsidiary, jurisdiction, and share capital."
     },
     {
       "text": "100% of the shareholding is held by Infosys BPM UK Limited, a step-down wholly-owned subsidiary of Infosys Limited.",
       "section_heading": "Annexure - A",
-      "reason": "Supports ownership and control structure."
+      "reason": "Supports the ownership structure of the incorporated entity."
     }
   ],
   "search_keywords": [
     "Infosys BPM Canada Inc.",
     "Infosys BPM UK Limited",
-    "step-down wholly-owned subsidiary",
     "Canada subsidiary",
-    "CAD 10"
+    "step-down wholly-owned subsidiary",
+    "CAD 10",
+    "Information Technology enabled Services"
   ],
-  "processing_notes": "Marked non-material because the document reports a routine subsidiary incorporation with nominal share capital and no stated financial or strategic impact."
+  "sample_questions": [
+    "What subsidiary did Infosys incorporate in Canada in July 2025?",
+    "What is the share capital of Infosys BPM Canada Inc.?",
+    "Who owns Infosys BPM Canada Inc.?",
+    "Did Infosys disclose any financial impact from incorporating Infosys BPM Canada Inc.?"
+  ],
+  "processing_notes": "Marked non-material because the document reports a routine subsidiary incorporation with CAD 10 share capital and no disclosed revenue, consideration, approvals, or financial impact."
 }

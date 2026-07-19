@@ -1,19 +1,19 @@
 {
   "document_name": "Infosys_06122025165814_SEfiling_Reg30_06122025.md",
   "is_material": false,
-  "title": "Infosys Receives Penalty Order From Joint Commissioner of CGST",
-  "detailed_summary": "Infosys received communication from the Joint Commissioner of CGST regarding a penalty of INR 23,08,904/- for alleged excess availment of ITC in GSTR-3B compared with ITC reflected in GSTR-2A for FY 2018-19. The company stated that there is no material impact on its financials, operations, or other activities.",
+  "title": "Infosys Receives CGST Penalty Order for FY 2018-19 ITC Matter",
+  "detailed_summary": "Infosys received a communication from the Joint Commissioner of CGST for collection of a penalty totaling INR 23,08,904/-. The matter relates to alleged excess availment of ITC in GSTR-3B compared with ITC reflected in GSTR-2A for FY 2018-19. Infosys stated there is no material impact on its financials, operations, or other activities.",
   "key_facts": [
     {
-      "fact": "The Joint Commissioner of CGST passed orders/action for collection of a total penalty of INR 23,08,904/-.",
+      "fact": "Infosys received communication for collection of a total penalty of INR 23,08,904/- from the Joint Commissioner of CGST.",
       "section_heading": null
     },
     {
-      "fact": "The matter relates to alleged excess availment of ITC in GSTR-3B in comparison to ITC reflecting in GSTR-2A for FY 2018-19.",
+      "fact": "The penalty relates to alleged excess availment of ITC in GSTR-3B in comparison to ITC reflecting in GSTR-2A for FY 2018-19.",
       "section_heading": null
     },
     {
-      "fact": "Infosys stated that there is no material impact on financials, operations or other activities of the Company.",
+      "fact": "Infosys stated that there is no material impact on the financials, operations or other activities of the Company.",
       "section_heading": null
     }
   ],
@@ -40,7 +40,7 @@
     {
       "matter_type": "penalty",
       "authority_or_counterparty": "Joint Commissioner of CGST",
-      "description": "Demand issued for alleged excess availment of ITC in GSTR-3B in comparison to ITC reflecting in GSTR-2A for FY 2018-19.",
+      "description": "Orders passed/action taken for alleged excess availment of ITC in GSTR-3B in comparison to ITC reflecting in GSTR-2A for FY 2018-19.",
       "amount": "INR 23,08,904/-",
       "status": "Orders passed/ action taken.",
       "section_heading": null
@@ -53,22 +53,26 @@
     {
       "text": "Total Penalty - INR 23,08,904/-",
       "section_heading": null,
-      "reason": "Supports the penalty amount disclosed by Infosys."
+      "reason": "Supports the penalty amount."
     },
     {
       "text": "None, there is no material impact on financials, operations or other activities of the Company.",
       "section_heading": null,
-      "reason": "Supports the company’s stated assessment of business and financial impact."
+      "reason": "Supports the stated business and financial impact."
     }
   ],
   "search_keywords": [
     "Joint Commissioner of CGST",
-    "penalty",
-    "INR 23,08,904/-",
+    "CGST penalty",
+    "INR 23,08,904",
     "ITC",
     "GSTR-3B",
     "GSTR-2A",
     "FY 2018-19"
   ],
-  "processing_notes": "Marked not material because the disclosed penalty amount is small relative to Infosys and the company explicitly stated there is no material impact."
+  "sample_questions": [
+    "What CGST penalty did Infosys disclose for FY 2018-19?",
+    "Did Infosys say the INR 23,08,904 CGST penalty has any material impact?"
+  ],
+  "processing_notes": ""
 }

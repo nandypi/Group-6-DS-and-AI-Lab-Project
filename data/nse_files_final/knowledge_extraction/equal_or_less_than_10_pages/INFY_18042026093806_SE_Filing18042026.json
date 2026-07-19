@@ -1,31 +1,31 @@
 {
   "document_name": "INFY_18042026093806_SE_Filing18042026.md",
   "is_material": true,
-  "title": "Infosys appoints Diane Enberg Jurgens and re-appoints Helene Auriol Potier as Independent Directors",
-  "detailed_summary": "Infosys approved governance changes involving two independent directors, subject to shareholder approval. Diane Enberg Jurgens was appointed as an Additional Director in the category of Non-Executive, Independent Director, effective April 22, 2026, for a three-year term through April 21, 2029. Helene Auriol Potier was re-appointed as an Independent Director for a second five-year term from May 26, 2026 to May 25, 2031. The company stated that both directors are not related to any board member and are not debarred from holding director office by SEBI or any other such authority.",
+  "title": "Infosys appoints Diane Enberg Jurgens and re-appoints Helene Auriol Potier as independent directors",
+  "detailed_summary": "Infosys approved changes to its Board of Directors, subject to shareholder approval. Diane Enberg Jurgens was appointed as an additional and independent director effective April 22, 2026 for a three-year term from April 22, 2026 to April 21, 2029. Helene Auriol Potier was re-appointed as an independent director for a second five-year term from May 26, 2026 to May 25, 2031. The document states that both directors are not related to any Infosys director, meet independent-director criteria under applicable laws, and are not debarred from holding director office by SEBI or any other such authority.",
   "key_facts": [
     {
-      "fact": "Diane Enberg Jurgens (DIN - 11585200) was appointed as an Additional Director in the category of Non-Executive, Independent Director, subject to approval of shareholders.",
-      "section_heading": "ANNEXURE  I"
+      "fact": "Diane Enberg Jurgens was appointed as an additional and independent director effective April 22, 2026 for a period of 3 (three) years, subject to shareholder approval.",
+      "section_heading": "1. Appointment of an independent director"
     },
     {
       "fact": "Diane Enberg Jurgens will serve as an Independent Director for the term of three years from April 22, 2026 to April 21, 2029, not liable to retire by rotation.",
       "section_heading": "ANNEXURE  I"
     },
     {
-      "fact": "Helene Auriol Potier (DIN - 10166891) was re-appointed as Independent Director of the Company for the second term of five years, subject to approval of shareholders.",
-      "section_heading": "ANNEXURE  II"
+      "fact": "Helene Auriol Potier was re-appointed as an independent director for the second term of 5 (five) years from May 26, 2026 to May 25, 2031, subject to shareholder approval.",
+      "section_heading": "2. Re-appointment of an independent director"
     },
     {
       "fact": "Helene Auriol Potier will serve as an Independent Director for the second term of five years from May 26, 2026 to May 25, 2031, not liable to retire by rotation.",
       "section_heading": "ANNEXURE  II"
     },
     {
-      "fact": "Infosys stated that Diane Enberg Jurgens and Helene Auriol Potier are not related to any of the Directors of the Company.",
+      "fact": "Diane Enberg Jurgens and Helene Auriol Potier have no relationship with any member of the board of directors.",
       "section_heading": null
     },
     {
-      "fact": "Infosys stated that declarations were obtained that Diane Enberg Jurgens and Helene Auriol Potier are not debarred from holding office of a Director by SEBI or any other such authority.",
+      "fact": "Declarations were obtained that Diane Enberg Jurgens and Helene Auriol Potier are not debarred from holding office of a Director by virtue of any order passed by the Securities and Exchange Board of India or any other such authority.",
       "section_heading": null
     }
   ],
@@ -71,24 +71,43 @@
   "products_or_platforms": [],
   "important_text_spans": [
     {
-      "text": "Appointment of Diane Enberg Jurgens (DIN - 11585200), as an additional & independent director effective April 22, 2026 for a period of 3 (three) years, subject to the approval of shareholders.",
+      "text": "Appointment of Diane Enberg Jurgens (DIN - 11585200), as an additional &amp; independent director effective April 22, 2026 for a period of 3 (three) years, subject to the approval of shareholders.",
       "section_heading": "1. Appointment of an independent director",
-      "reason": "Supports the appointment, role, effective date, term and shareholder approval condition for Diane Enberg Jurgens."
+      "reason": "Supports the appointment, role, effective date, term, and shareholder approval condition."
     },
     {
       "text": "Re-appointment of Helene Auriol Potier (DIN - 10166891), as an independent director for the second term of 5 (five) years from May 26, 2026 to May 25, 2031, subject to the approval of shareholders.",
       "section_heading": "2. Re-appointment of an independent director",
-      "reason": "Supports the re-appointment, role, term dates and shareholder approval condition for Helene Auriol Potier."
+      "reason": "Supports the re-appointment, role, second-term duration, dates, and shareholder approval condition."
+    },
+    {
+      "text": "As an Independent Director for the term of three years from April 22, 2026 to April 21, 2029, not liable to retire by rotation",
+      "section_heading": "ANNEXURE  I",
+      "reason": "Provides the exact term dates and rotation status for Diane Enberg Jurgens."
+    },
+    {
+      "text": "As an Independent Director for the second term of five years from May 26, 2026 to May 25, 2031, not liable to retire by rotation",
+      "section_heading": "ANNEXURE  II",
+      "reason": "Provides the exact term dates and rotation status for Helene Auriol Potier."
     }
   ],
   "search_keywords": [
     "Diane Enberg Jurgens",
     "Helene Auriol Potier",
-    "Independent Director",
+    "independent director",
     "Infosys Board",
     "Nomination and Remuneration Committee",
-    "DIN 11585200",
-    "DIN 10166891"
+    "Standard Chartered",
+    "The Walt Disney Company",
+    "BHP"
   ],
-  "processing_notes": "Generic company profile, safe harbor language, media contact, exchange filing wrapper, and third-party career background not essential to the governance change were excluded."
+  "sample_questions": [
+    "Who did Infosys appoint as an independent director effective April 22, 2026?",
+    "What is Diane Enberg Jurgens's term as an Infosys independent director?",
+    "Was Diane Enberg Jurgens's appointment to the Infosys Board subject to shareholder approval?",
+    "For what period was Helene Auriol Potier re-appointed as an Infosys independent director?",
+    "Are Diane Enberg Jurgens or Helene Auriol Potier related to any Infosys directors?",
+    "What governance declarations did Infosys make about the appointed and re-appointed independent directors?"
+  ],
+  "processing_notes": "The document contains generic company profile information and safe harbor risk language, which were excluded because they are boilerplate and not specific to the director changes."
 }

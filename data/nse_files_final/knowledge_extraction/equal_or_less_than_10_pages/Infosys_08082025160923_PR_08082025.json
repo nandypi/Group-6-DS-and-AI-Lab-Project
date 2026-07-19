@@ -1,19 +1,19 @@
 {
   "document_name": "Infosys_08082025160923_PR_08082025.md",
   "is_material": false,
-  "title": "Infosys Recognized in Whitelane Research IT Sourcing Study 2025 UK & Ireland",
-  "detailed_summary": "Infosys announced that Whitelane Research recognized it as the number one service provider in Cloud & Infrastructure Services across the UK & Ireland in the 2025 IT Sourcing Study. The recognition included an 80% client satisfaction score and an 'Exceptional Performer' ranking for the second consecutive year.",
+  "title": "Infosys Recognized by Whitelane Research for Cloud & Infrastructure Services in UK & Ireland",
+  "detailed_summary": "Infosys announced that Whitelane Research ranked it number one in Cloud & Infrastructure Services in the 2025 UK & Ireland IT Sourcing Study. The report also named Infosys an \"Exceptional Performer\" for the second consecutive year, citing an 80% client satisfaction score in the category and broader above-market satisfaction scores.",
   "key_facts": [
     {
       "fact": "Infosys was recognized as the number one service provider in Cloud & Infrastructure Services across the United Kingdom and Ireland in the Whitelane Research IT Sourcing Study 2025 UK & Ireland.",
-      "section_heading": "PRESS RELEASE"
+      "section_heading": "Infosys Recognized as Number One Service Provider in Cloud & Infrastructure Services in the Whitelane Research IT Sourcing Study 2025 UK & Ireland"
     },
     {
-      "fact": "Infosys achieved an 80% client satisfaction score in the Cloud & Infrastructure Services category.",
-      "section_heading": "Infosys' key differentiating factors highlighted in the report include:"
+      "fact": "The report ranked Infosys as an 'Exceptional Performer' for the second consecutive year.",
+      "section_heading": "Infosys Recognized as Number One Service Provider in Cloud & Infrastructure Services in the Whitelane Research IT Sourcing Study 2025 UK & Ireland"
     },
     {
-      "fact": "Infosys was ranked as an 'Exceptional Performer' for the second consecutive year in 2024 and 2025.",
+      "fact": "Infosys achieved an 80% client satisfaction score in Cloud & Infrastructure Services, and its overall satisfaction scores were 6% higher than the market average (74%) in cloud & infrastructure services and 7% above the general satisfaction ranking.",
       "section_heading": "Infosys' key differentiating factors highlighted in the report include:"
     }
   ],
@@ -42,23 +42,28 @@
   "products_or_platforms": [],
   "important_text_spans": [
     {
-      "text": "recognized as the number one service provider in Cloud & Infrastructure Services across the United Kingdom and Ireland (UK&I)",
-      "section_heading": "PRESS RELEASE",
-      "reason": "Supports the main recognition disclosed in the announcement."
+      "text": "Infosys achieved an 80% client satisfaction score for its expertise in data center maintenance, integration, and managed infrastructure services, and Infrastructure as a Service (IaaS) and Platform as a Service (PaaS) offerings.",
+      "section_heading": "Infosys' key differentiating factors highlighted in the report include:",
+      "reason": "Supports the ranking and client satisfaction claim in Cloud & Infrastructure Services."
     },
     {
-      "text": "Infosys achieved an 80% client satisfaction score",
+      "text": "Above-Market Satisfaction: Infosys' overall satisfaction scores are 6% higher than the market average (74%) in cloud & infrastructure services, and 7% above the general satisfaction ranking.",
       "section_heading": "Infosys' key differentiating factors highlighted in the report include:",
-      "reason": "Supports the key quantitative satisfaction metric in the recognition."
+      "reason": "Provides the key comparative satisfaction metrics reported in the study."
     }
   ],
   "search_keywords": [
     "Whitelane Research",
     "IT Sourcing Study 2025 UK & Ireland",
     "Cloud & Infrastructure Services",
-    "Exceptional Performer",
     "Infosys Cobalt",
+    "Exceptional Performer",
     "client satisfaction score"
   ],
-  "processing_notes": "Marked not material because the document primarily reports an award/recognition and does not disclose financial performance, guidance, a commercial deal, a product launch, governance change, or other material investor event."
+  "sample_questions": [
+    "What recognition did Infosys receive in the Whitelane Research IT Sourcing Study 2025 UK & Ireland?",
+    "What client satisfaction score did Infosys report for Cloud & Infrastructure Services in the Whitelane study?",
+    "Was the Whitelane Research recognition financially material for Infosys?"
+  ],
+  "processing_notes": "Classified as non-material because the document primarily reports an award/recognition rather than financial results, guidance, contracts, leadership changes, corporate actions, or other investment-critical developments."
 }

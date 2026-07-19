@@ -1,32 +1,32 @@
 {
   "document_name": "Infosys_16072025092948_PR_16072025.md",
   "is_material": true,
-  "title": "Infosys collaborates with Melbourne Archdiocese Catholic Schools for digital transformation using SAP platforms",
-  "detailed_summary": "Infosys announced a collaboration with Melbourne Archdiocese Catholic Schools to drive a network-wide digital transformation initiative in Australia. Infosys will deploy enterprise platforms including SAP S/4HANA Cloud, SAP SuccessFactors, identity and access management, and master data management to move MACS' core ERP systems to the cloud and streamline operations across about 300 schools. The engagement highlights Infosys' managed services capabilities in the education sector and supports cloud-based, AI-capable ERP modernization. No contract value, duration, or financial impact was disclosed.",
+  "title": "Infosys to Drive Digital Transformation for Melbourne Archdiocese Catholic Schools",
+  "detailed_summary": "Infosys announced a collaboration with Melbourne Archdiocese Catholic Schools to support a network-wide digital transformation initiative across about 300 schools. Infosys will deploy enterprise platforms including SAP S/4HANA Cloud, SAP SuccessFactors, identity and access management, and master data management to move MACS' core ERP systems to the cloud. The engagement is positioned as a managed services opportunity in the education sector, intended to improve operating efficiency, user experience, data management, scalability, collaboration, and future generative AI readiness. No deal value, duration, or financial impact was disclosed.",
   "key_facts": [
     {
       "fact": "Infosys announced a collaboration with Melbourne Archdiocese Catholic Schools to drive a digital transformation initiative.",
       "section_heading": "Infosys Collaborates with Melbourne Archdiocese Catholic Schools to drive Network-Wide Digital Transformation"
     },
     {
-      "fact": "Infosys will deploy SAP S/4HANA Cloud, SAP SuccessFactors, identity and access management, and master data management as part of the initiative.",
+      "fact": "Infosys will deploy enterprise platforms including SAP S/4HANA Cloud, SAP SuccessFactors, identity and access management, and master data management.",
       "section_heading": "Infosys Collaborates with Melbourne Archdiocese Catholic Schools to drive Network-Wide Digital Transformation"
     },
     {
-      "fact": "The integrations aim to move MACS' core ERP systems to the cloud and streamline operations across its network of about 300 schools.",
+      "fact": "The initiative aims to move MACS' core ERP systems to the cloud and streamline operations across its network of about 300 schools.",
       "section_heading": "Infosys Collaborates with Melbourne Archdiocese Catholic Schools to drive Network-Wide Digital Transformation"
     },
     {
-      "fact": "The program is intended to provide a unified digital workspace with personalized, role-based access and improved master data management for accurate, real-time access.",
+      "fact": "The program is intended to improve efficiency, user experience, scalability, collaboration, communication, and master data management.",
       "section_heading": "Infosys Collaborates with Melbourne Archdiocese Catholic Schools to drive Network-Wide Digital Transformation"
     },
     {
-      "fact": "The platform is described as scalable infrastructure to support future generative AI applications aligned with MACS' strategic vision.",
+      "fact": "The platform is expected to provide scalable infrastructure to support future generative AI applications aligned with MACS' strategic vision.",
       "section_heading": "Infosys Collaborates with Melbourne Archdiocese Catholic Schools to drive Network-Wide Digital Transformation"
     },
     {
-      "fact": "No deal value or contract duration was disclosed.",
-      "section_heading": null
+      "fact": "No contract value, duration, or financial impact was disclosed.",
+      "section_heading": "Infosys Collaborates with Melbourne Archdiocese Catholic Schools to drive Network-Wide Digital Transformation"
     }
   ],
   "financial_metrics": {
@@ -50,7 +50,7 @@
     {
       "deal_type": "client contract",
       "counterparty": "Melbourne Archdiocese Catholic Schools",
-      "description": "Infosys will drive a digital transformation initiative for MACS by deploying enterprise platforms including SAP S/4HANA Cloud, SAP SuccessFactors, identity and access management, and master data management to move core ERP systems to the cloud and streamline operations across about 300 schools.",
+      "description": "Infosys will support MACS' network-wide digital transformation by deploying SAP S/4HANA Cloud, SAP SuccessFactors, identity and access management, master data management, and managed digital services to move core ERP systems to the cloud across about 300 schools.",
       "value": null,
       "duration": null,
       "section_heading": "Infosys Collaborates with Melbourne Archdiocese Catholic Schools to drive Network-Wide Digital Transformation"
@@ -65,12 +65,12 @@
     {
       "text": "Infosys will deploy a suite of enterprise platforms, including SAP S/4HANA Cloud, SAP SuccessFactors, and other advanced solutions like identity and access management and master data management.",
       "section_heading": "Infosys Collaborates with Melbourne Archdiocese Catholic Schools to drive Network-Wide Digital Transformation",
-      "reason": "Supports the scope of Infosys' implementation work."
+      "reason": "Supports the scope of Infosys' technology deployment for MACS."
     },
     {
       "text": "These integrations aim to move MACS' core ERP systems to the cloud and streamline its operations across its network of about 300 schools, enhancing efficiency, user experience, and scalability for future innovations.",
       "section_heading": "Infosys Collaborates with Melbourne Archdiocese Catholic Schools to drive Network-Wide Digital Transformation",
-      "reason": "Supports the stated business impact and scale of the engagement."
+      "reason": "Supports the scale and stated operational impact of the engagement."
     },
     {
       "text": "This collaboration sets a new standard for large-scale, AI-driven ERP modernization in education.",
@@ -84,9 +84,17 @@
     "SAP S/4HANA Cloud",
     "SAP SuccessFactors",
     "ERP modernization",
-    "managed services",
     "education digital transformation",
+    "managed services",
     "generative AI applications"
   ],
-  "processing_notes": "Client scale figures for MACS were retained only where necessary to understand the deal scope; generic Infosys profile statistics and safe harbor language were excluded. No contract value, duration, or direct financial impact was stated."
+  "sample_questions": [
+    "What did Infosys announce with Melbourne Archdiocese Catholic Schools in July 2025?",
+    "What platforms will Infosys deploy for MACS' digital transformation?",
+    "Did Infosys disclose the value or duration of the MACS collaboration?",
+    "How large is the MACS transformation engagement described in the Infosys release?",
+    "What business impact does Infosys expect from the MACS ERP modernization project?",
+    "Why is the MACS deal strategically relevant for Infosys in Australia?"
+  ],
+  "processing_notes": "The document did not disclose deal value, duration, or expected financial contribution. Third-party workforce and student figures were not extracted into financial_metrics because they relate to MACS, not Infosys."
 }

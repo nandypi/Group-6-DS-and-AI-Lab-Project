@@ -1,16 +1,16 @@
 {
   "document_name": "Infosys_23102025173100_PR_23102025.md",
   "is_material": false,
-  "title": "Infosys Foundation USA Awards $250,000 Grant to NACCE Digital Workforce Innovation Program",
-  "detailed_summary": "Infosys Foundation USA awarded a $250,000 grant to NACCE for the Digital Workforce Innovation Program, in collaboration with MakerUSA. Six higher education institutions will receive support over 18 months to advance digital workforce readiness programs. The CSR initiative aims to reach over 3,000 students throughout two years.",
+  "title": "Infosys Foundation USA awards $250,000 grant to NACCE for Digital Workforce Innovation Program",
+  "detailed_summary": "Infosys Foundation USA awarded a $250,000 grant to NACCE for the Digital Workforce Innovation Program, in collaboration with MakerUSA. Six higher education institutions were selected to receive funding and support over the next 18 months. The program aims to reach over 3,000 students throughout two years and uses Infosys Springboard as a digital learning platform.",
   "key_facts": [
     {
       "fact": "Infosys Foundation USA awarded a $250,000 grant to NACCE to advance the Digital Workforce Innovation Program.",
       "section_heading": "Infosys Foundation USA Awards $250,000 Grant to NACCE to Advance Digital Workforce Innovation Program"
     },
     {
-      "fact": "The program selected six higher education institutions, including community colleges, four-year universities, and HBCUs.",
-      "section_heading": "Infosys Foundation USA Awards $250,000 Grant to NACCE to Advance Digital Workforce Innovation Program"
+      "fact": "Six higher education institutions were selected for the program: Coppin State University, Foothill College, GateWay Community College, Houston City College, Ivy Tech Community College, and North Iowa Area Community College.",
+      "section_heading": "The awardees are:"
     },
     {
       "fact": "The program aims to reach over 3,000 students throughout two years.",
@@ -40,7 +40,7 @@
   "risk_factors": [],
   "esg_or_csr_items": [
     {
-      "item": "Infosys Foundation USA awarded a grant to NACCE for a digital workforce readiness initiative involving NACCE and MakerUSA.",
+      "item": "Infosys Foundation USA, NACCE and MakerUSA collaborated on the Digital Workforce Innovation Program to build digital skills and inclusive industry pathways.",
       "amount": "$250,000",
       "section_heading": "Infosys Foundation USA Awards $250,000 Grant to NACCE to Advance Digital Workforce Innovation Program"
     }
@@ -50,23 +50,29 @@
     {
       "text": "Infosys Foundation USA Awards $250,000 Grant to NACCE to Advance Digital Workforce Innovation Program",
       "section_heading": "Infosys Foundation USA Awards $250,000 Grant to NACCE to Advance Digital Workforce Innovation Program",
-      "reason": "Supports the grant amount and main CSR event."
+      "reason": "Identifies the main CSR grant event and amount."
     },
     {
       "text": "This program, which aims to reach over 3,000 students throughout two years",
       "section_heading": "Infosys Foundation USA Awards $250,000 Grant to NACCE to Advance Digital Workforce Innovation Program",
-      "reason": "Supports the stated scale of the initiative."
+      "reason": "Supports the stated scale of the program."
     }
   ],
   "search_keywords": [
     "Infosys Foundation USA",
     "NACCE",
-    "Digital Workforce Innovation Program",
     "MakerUSA",
-    "$250,000 grant",
+    "Digital Workforce Innovation Program",
     "Infosys Springboard",
-    "SkillPointe",
-    "digital workforce readiness"
+    "$250,000 grant",
+    "digital skills",
+    "workforce readiness"
   ],
-  "processing_notes": "Marked non-material because the document describes a CSR/philanthropic education grant rather than Infosys financial performance, commercial operations, capital allocation, strategy, governance, or risk."
+  "sample_questions": [
+    "What grant did Infosys Foundation USA award to NACCE in October 2025?",
+    "Is the Infosys Foundation USA grant to NACCE financially material for Infosys Limited?",
+    "How many students does the Digital Workforce Innovation Program aim to reach?",
+    "Which institutions were selected for the Infosys Foundation USA and NACCE Digital Workforce Innovation Program?"
+  ],
+  "processing_notes": "Marked non-material because the document is primarily a CSR/philanthropy announcement by Infosys Foundation USA, not a commercial contract, financial result, corporate action, or material strategic disclosure for Infosys Limited."
 }

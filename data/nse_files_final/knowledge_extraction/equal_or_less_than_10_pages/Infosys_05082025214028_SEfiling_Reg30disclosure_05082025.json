@@ -2,10 +2,10 @@
   "document_name": "Infosys_05082025214028_SEfiling_Reg30disclosure_05082025.md",
   "is_material": true,
   "title": "Infosys McCamish Resolves Oregon Data Breach Matter Through Assurance of Voluntary Compliance",
-  "detailed_summary": "Infosys disclosed that Infosys McCamish Systems (' IMS '), a subsidiary of Infosys BPM limited, entered into an Assurance of Voluntary Compliance with the State of Oregon Attorney's General Office on August 5, 2025 regarding concerns tied to a 2023 data breach. The authority expressed concerns about potential violations of Oregon consumer protection laws, including alleged insufficient notice under the Oregon Consumer Information Protection Act. The matter was resolved without any admission or finding of violation, and IMS will pay $225,000 dollars to the Oregon Attorney General's Office.",
+  "detailed_summary": "Infosys disclosed that Infosys McCamish Systems, a subsidiary of Infosys BPM limited, entered into an Assurance of Voluntary Compliance with the State of Oregon Attorney General's Office on August 5, 2025. The matter relates to concerns that IMS may have violated the Oregon Consumer Information Protection Act and Oregon Unlawful Trade Practices Act in connection with a 2023 data breach, specifically around allegedly insufficient notice. The AVC resolves the matter without any admission or finding of violation by IMS. IMS will pay $225,000 dollars to the Oregon Attorney General's Office, due within thirty business days of execution of the AVC and receipt of payment instructions.",
   "key_facts": [
     {
-      "fact": "On August 5, 2025, Infosys McCamish Systems (' IMS '), a subsidiary of Infosys BPM limited, entered into an Assurance of Voluntary Compliance with the State of Oregon Attorney's General Office.",
+      "fact": "On August 5, 2025, Infosys McCamish Systems entered into an Assurance of Voluntary Compliance with the State of Oregon Attorney General's Office.",
       "section_heading": "Sub:  Update on McCamish Cyber Incident"
     },
     {
@@ -13,11 +13,11 @@
       "section_heading": "Sub:  Update on McCamish Cyber Incident"
     },
     {
-      "fact": "The Assurance of Voluntary Compliance resolves the matter without any further action and specifically acknowledges that this is not an admission or finding that IMS violated the listed Acts.",
+      "fact": "The Assurance of Voluntary Compliance resolves the matter without any further action and does not constitute an admission or finding that IMS violated the cited Acts.",
       "section_heading": "Sub:  Update on McCamish Cyber Incident"
     },
     {
-      "fact": "IMS will pay a sum of $225,000 dollars to the Oregon Attorney General's Office, with the full amount due within thirty business days of IMS' execution of the Assurance of Voluntary Compliance and its receipt of payment instructions.",
+      "fact": "IMS will pay $225,000 dollars to the Oregon Attorney General's Office as part of the Assurance of Voluntary Compliance.",
       "section_heading": "Sub:  Update on McCamish Cyber Incident"
     }
   ],
@@ -52,8 +52,8 @@
   ],
   "risk_factors": [
     {
-      "risk": "Regulatory concerns were raised regarding potential violations of Oregon consumer protection laws connected to a 2023 data breach.",
-      "potential_impact": "IMS will pay a sum of $225,000 dollars to the Oregon Attorney General's Office.",
+      "risk": "The matter related to concerns over potential violations of Oregon consumer protection and unlawful trade practices laws in connection with a 2023 data breach.",
+      "potential_impact": "IMS will pay $225,000 dollars to the Oregon Attorney General's Office.",
       "section_heading": "Sub:  Update on McCamish Cyber Incident"
     }
   ],
@@ -63,12 +63,17 @@
     {
       "text": "IMS has entered into an Assurance of Voluntary Compliance to resolve this matter without any further action.",
       "section_heading": "Sub:  Update on McCamish Cyber Incident",
-      "reason": "Supports the status and resolution of the regulatory matter."
+      "reason": "Supports the status of the regulatory matter."
+    },
+    {
+      "text": "The AVC specifically acknowledges that this is not an admission or finding that IMS violated the Acts as listed above",
+      "section_heading": "Sub:  Update on McCamish Cyber Incident",
+      "reason": "Clarifies that the resolution does not admit or establish a violation."
     },
     {
       "text": "IMS will pay a sum of $225,000 dollars to the Oregon Attorney General's Office",
       "section_heading": "Sub:  Update on McCamish Cyber Incident",
-      "reason": "Supports the disclosed monetary impact of the matter."
+      "reason": "Supports the disclosed financial impact of the matter."
     }
   ],
   "search_keywords": [
@@ -81,5 +86,12 @@
     "2023 data breach",
     "$225,000 dollars"
   ],
-  "processing_notes": "The table text appears duplicated and truncated in the financial impact row, but the payment amount and timing are still clear from the available text."
+  "sample_questions": [
+    "What did Infosys disclose about the McCamish cyber incident on August 5, 2025?",
+    "How much will Infosys McCamish Systems pay to the Oregon Attorney General's Office?",
+    "Did Infosys McCamish admit to violating Oregon consumer protection laws?",
+    "Which Oregon laws were involved in the Infosys McCamish Assurance of Voluntary Compliance?",
+    "What was the status of the Oregon Attorney General matter involving Infosys McCamish Systems?"
+  ],
+  "processing_notes": "The table appears to contain duplicated and truncated text in the financial impact row; only the clearly stated payment amount and timing were extracted."
 }

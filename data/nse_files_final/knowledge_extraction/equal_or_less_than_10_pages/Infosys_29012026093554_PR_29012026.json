@@ -1,19 +1,19 @@
 {
   "document_name": "Infosys_29012026093554_PR_29012026.md",
   "is_material": false,
-  "title": "Infosys Unveils AI-First Fan and Accessibility Experiences for Australian Open 2026",
-  "detailed_summary": "Infosys announced new AI-enabled experiences for Australian Open 2026 under its partnership with Tennis Australia, powered by Infosys Topaz. The announcement highlights MatchFeel for visually impaired fans, Rally as an interactive AI mascot, and Keys to the Match for fan insights. No financial terms, revenue impact, contract value, or material business update were disclosed.",
+  "title": "Infosys Unveils AI-Enabled Australian Open 2026 Fan and Accessibility Experiences",
+  "detailed_summary": "Infosys announced new AI-enabled experiences for Australian Open 2026 under its ongoing partnership with Tennis Australia. The release highlights Infosys Topaz-powered fan engagement and accessibility features, including MatchFeel, Rally, and Keys to the Match. No financial value, contract terms, revenue impact, or material operational update was disclosed.",
   "key_facts": [
     {
-      "fact": "Infosys unveiled its latest innovations for Australian Open 2026, powered by Infosys Topaz.",
+      "fact": "Infosys unveiled its latest innovations for Australian Open 2026, powered by Infosys Topaz™.",
       "section_heading": "Infosys and Tennis Australia Bring AI-First Experiences and Accessibility to Australian Open 2026"
     },
     {
-      "fact": "The announcement builds on an eight-year partnership with Tennis Australia.",
+      "fact": "The announcement builds on an eight-year partnership between Infosys and Tennis Australia.",
       "section_heading": "Infosys and Tennis Australia Bring AI-First Experiences and Accessibility to Australian Open 2026"
     },
     {
-      "fact": "New AO 2026 innovations include MatchFeel, Rally, and Keys to the Match.",
+      "fact": "MatchFeel will run as a pilot innovation for a select user group at AO 2026.",
       "section_heading": "New Innovations for AO 2026"
     }
   ],
@@ -43,30 +43,38 @@
     {
       "name": "Infosys Topaz™",
       "event_type": "expanded",
-      "description": "Infosys Topaz powered new Australian Open 2026 fan engagement and accessibility innovations, including MatchFeel, Rally, and Keys to the Match.",
+      "description": "Infosys announced AI-enabled Australian Open 2026 fan engagement and accessibility innovations powered by its generative and agentic AI suite, Infosys Topaz™.",
       "target_market_or_use_case": "Australian Open 2026 fan engagement, player and coach insights, and digital accessibility in tennis",
       "section_heading": "Infosys and Tennis Australia Bring AI-First Experiences and Accessibility to Australian Open 2026"
     }
   ],
   "important_text_spans": [
     {
-      "text": "today unveiled its latest innovations for Australian Open (AO) 2026, powered by its generative and agentic AI suite, Infosys Topaz™.",
+      "text": "Infosys (NSE, BSE, NYSE: INFY), a global leader in nextgeneration digital services and consulting, today unveiled its latest innovations for Australian Open (AO) 2026, powered by its generative and agentic AI suite, Infosys Topaz™.",
       "section_heading": "Infosys and Tennis Australia Bring AI-First Experiences and Accessibility to Australian Open 2026",
-      "reason": "Supports the main announcement and identifies Infosys Topaz as the technology suite used."
+      "reason": "Supports the main announcement and identifies Infosys Topaz as the enabling AI suite."
     },
     {
-      "text": "Building on an eight-year partnership with Tennis Australia",
+      "text": "Building on an eight-year partnership with Tennis Australia, these advancements aim to redefine fan engagement, empower players and coaches, and push the boundaries of digital accessibility in tennis.",
       "section_heading": "Infosys and Tennis Australia Bring AI-First Experiences and Accessibility to Australian Open 2026",
-      "reason": "Supports the existence and duration of the Tennis Australia relationship."
+      "reason": "Supports the partnership context and stated purpose of the innovations."
     }
   ],
   "search_keywords": [
-    "Tennis Australia",
     "Australian Open 2026",
+    "Tennis Australia",
     "Infosys Topaz",
     "MatchFeel",
     "Rally AI mascot",
-    "Keys to the Match"
+    "Keys to the Match",
+    "AI Commentary",
+    "AI Shot of the Day"
   ],
-  "processing_notes": "Marked non-material because the document is primarily a sponsorship-related technology showcase with no disclosed financial terms, contract value, revenue impact, guidance, or material operating update."
+  "sample_questions": [
+    "What did Infosys announce for Australian Open 2026?",
+    "Which Infosys AI platform powers the Australian Open 2026 experiences?",
+    "Did Infosys disclose any financial value or revenue impact from the Tennis Australia announcement?",
+    "What is MatchFeel in Infosys’s Australian Open 2026 announcement?"
+  ],
+  "processing_notes": "Marked non-material because the document is a technology and sponsorship-related press release with no disclosed financial value, contract terms, revenue impact, or material operating update. Generic company profile, safe harbor language, media contacts, and minor CSR or event details were excluded."
 }

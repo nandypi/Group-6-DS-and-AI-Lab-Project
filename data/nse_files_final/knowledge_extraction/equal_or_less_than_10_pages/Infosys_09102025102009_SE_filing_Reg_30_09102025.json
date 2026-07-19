@@ -1,19 +1,15 @@
 {
   "document_name": "Infosys_09102025102009_SE_filing_Reg_30_09102025.md",
   "is_material": true,
-  "title": "Infosys clarifies DGGI show cause notice over alleged ineligible GST ITC refunds",
-  "detailed_summary": "Infosys clarified media reports regarding a Directorate General of GST Intelligence show cause notice connected to GST refunds claimed by the Company. DGGI sought information in May 2025, issued a pre-show cause on 30 th  July 2025, and then issued a show cause notice on 12 th  August 2025 for Rs 414.88 Crores excluding interest and penalties. The notice alleges that services provided by Infosys's overseas branches are not export of services and that refunds claimed were erroneous. Infosys stated it assessed the merits, obtained external tax and legal advice, and filed a Writ Petition in the Hon'ble High Court of Karnataka on 19 th  September 2025 challenging the legitimacy of the notice. Infosys stated there is no tax demand as on date and no material impact from the article.",
+  "title": "Infosys Clarifies DGGI GST Refund Show Cause Notice of Rs 414.88 Crores",
+  "detailed_summary": "Infosys clarified media reports about a Directorate General of GST Intelligence show cause notice concerning alleged ineligible GST input tax credit refunds. DGGI sought information in May 2025, issued a pre-show cause on 30 th  July 2025, and then issued a show cause notice on 12 th  August 2025 for Rs 414.88 Crores excluding interest and penalties. The notice alleges that services provided by Infosys's overseas branches are not export of services and that refunds claimed were erroneous. Infosys assessed the merits, obtained external tax and legal advice, and filed a Writ Petition in the Hon'ble High Court of Karnataka on 19 th  September 2025 challenging the legitimacy of the notice. Infosys stated there is no tax demand as on date and no material impact from the media article.",
   "key_facts": [
     {
-      "fact": "Media reports published on 8 th  October 2025 concerned a show cause notice issued by Directorate General of GST Intelligence for Rs 415 crore to Infosys over alleged ineligible ITC refunds.",
+      "fact": "DGGI had in May 2025 sought information on the GST refunds claimed by Infosys.",
       "section_heading": "Sub: Company Statement"
     },
     {
-      "fact": "DGGI sought information in May 2025 on GST refunds claimed by the Company, and Infosys provided relevant information and held meetings with DGGI officials.",
-      "section_heading": "Sub: Company Statement"
-    },
-    {
-      "fact": "DGGI issued a pre-show cause on 30 th  July 2025, and Infosys sought additional information, relevant documents, and time to respond.",
+      "fact": "DGGI issued a pre-show cause on 30 th  July 2025, after which Infosys sought additional information, relevant documents, and time to file a response.",
       "section_heading": "Sub: Company Statement"
     },
     {
@@ -21,7 +17,7 @@
       "section_heading": "Sub: Company Statement"
     },
     {
-      "fact": "The show cause notice alleges that services provided by the company's overseas branches are not export of services and that the refund claimed by the Company is allegedly erroneous.",
+      "fact": "The show cause notice alleges that services provided by Infosys's overseas branches are not export of services and that the refund claimed by the Company is allegedly erroneous.",
       "section_heading": "Sub: Company Statement"
     },
     {
@@ -30,6 +26,10 @@
     },
     {
       "fact": "Infosys stated that there is no tax demand as on date against the Company regarding this matter.",
+      "section_heading": "Sub: Company Statement"
+    },
+    {
+      "fact": "Infosys stated that there is no material impact of the article on the Company.",
       "section_heading": "Sub: Company Statement"
     }
   ],
@@ -55,7 +55,7 @@
   "litigation_or_regulatory_matters": [
     {
       "matter_type": "tax dispute",
-      "authority_or_counterparty": "Directorate General of GST Intelligence",
+      "authority_or_counterparty": "Directorate General of GST Intelligence (DGGI)",
       "description": "DGGI issued a show cause notice alleging that services provided by Infosys's overseas branches are not export of services and that GST refunds claimed by the Company are allegedly erroneous.",
       "amount": "Rs 414.88 Crores excluding interest and penalties",
       "status": "The Company has on 19 th  September 2025, filed a Writ Petition in the Hon'ble High Court of Karnataka challenging the legitimacy of the show cause notice. There is no tax demand as on date against the Company regarding this matter.",
@@ -64,7 +64,7 @@
   ],
   "risk_factors": [
     {
-      "risk": "DGGI has challenged the GST refund treatment for services provided by Infosys's overseas branches, alleging they are not export of services.",
+      "risk": "DGGI has alleged that services provided by Infosys's overseas branches are not export of services and that related GST refunds were erroneous.",
       "potential_impact": "The show cause notice amount is Rs 414.88 Crores excluding interest and penalties.",
       "section_heading": "Sub: Company Statement"
     }
@@ -75,38 +75,46 @@
     {
       "text": "DGGI did not provide the additional time requested and instead issued a show cause notice on 12 th  August 2025 for Rs 414.88 Crores excluding interest and penalties.",
       "section_heading": "Sub: Company Statement",
-      "reason": "Supports the amount and timing of the regulatory tax notice."
+      "reason": "Supports the amount, authority action, and timing of the show cause notice."
     },
     {
       "text": "As per the show cause notice from DGGI, the services provided by the company's overseas branches are not export of services and hence the refund claimed by the Company is allegedly erroneous.",
       "section_heading": "Sub: Company Statement",
-      "reason": "Supports the nature of DGGI's allegation."
+      "reason": "Explains the core allegation in the GST refund matter."
     },
     {
       "text": "The Company has assessed the merits of the show cause notice and also sought advice from external tax consultants and legal counsels.",
       "section_heading": "Sub: Company Statement",
-      "reason": "Supports Infosys's stated response process."
+      "reason": "Supports Infosys's stated response process before litigation."
     },
     {
       "text": "Pursuant to the advice, the Company has on 19 th  September 2025, filed a Writ Petition in the Hon'ble High Court of Karnataka challenging the legitimacy of the show cause notice.",
       "section_heading": "Sub: Company Statement",
-      "reason": "Supports the current legal status of the dispute."
+      "reason": "Supports the current legal status and forum."
     },
     {
       "text": "There is no tax demand as on date against the Company regarding this matter.",
       "section_heading": "Sub: Company Statement",
-      "reason": "Supports Infosys's stated position that no tax demand currently exists."
+      "reason": "Supports the company's statement on current demand status."
     }
   ],
   "search_keywords": [
     "DGGI",
     "GST refunds",
-    "ITC refunds",
     "show cause notice",
     "Rs 414.88 Crores",
+    "ineligible ITC refunds",
     "overseas branches",
     "export of services",
     "High Court of Karnataka"
   ],
-  "processing_notes": "The media report amount is stated as Rs 415 crore, while the company-stated show cause notice amount is Rs 414.88 Crores excluding interest and penalties; both are preserved where relevant."
+  "sample_questions": [
+    "What was the DGGI show cause notice issued to Infosys about?",
+    "What amount is involved in the Infosys GST refund show cause notice?",
+    "What is DGGI alleging about Infosys's overseas branches and export of services?",
+    "What legal action did Infosys take against the DGGI show cause notice?",
+    "Did Infosys say there is any current tax demand in the DGGI GST matter?",
+    "What timeline did Infosys disclose for the DGGI GST refund matter?"
+  ],
+  "processing_notes": "No financial performance metrics were extracted because the only monetary amount relates to a tax dispute, not reported operating or financial results."
 }

@@ -1,8 +1,8 @@
 {
   "document_name": "Infosys_18032026182417_PR_18032026.md",
   "is_material": false,
-  "title": "Infosys Recognized Among 2026 World's Most Ethical Companies by Ethisphere",
-  "detailed_summary": "Infosys announced that Ethisphere recognized it as one of the 2026 World's Most Ethical Companies. The recognition was awarded for the sixth consecutive year and relates to Infosys's ethics, compliance, governance, ESG, DEI, and value-chain practices. The announcement is an award recognition and does not report financial performance, guidance, business operations, or a material corporate action.",
+  "title": "Infosys recognized among 2026 World's Most Ethical Companies by Ethisphere",
+  "detailed_summary": "Infosys announced that Ethisphere recognized it as one of the 2026 World's Most Ethical Companies. The company said this was its sixth consecutive year receiving the recognition and that it was among a select group of honorees in the Technology industry. The announcement is primarily an ethics and governance recognition, with no financial, operating, strategic, or capital allocation disclosure.",
   "key_facts": [
     {
       "fact": "Infosys was recognized as one of the 2026 World's Most Ethical Companies by Ethisphere.",
@@ -40,7 +40,7 @@
   "risk_factors": [],
   "esg_or_csr_items": [
     {
-      "item": "Infosys was recognized by Ethisphere among the 2026 World's Most Ethical Companies for its ethics, compliance, governance, ESG, DEI, and value-chain practices.",
+      "item": "Infosys was recognized by Ethisphere among the 2026 World's Most Ethical Companies for business integrity, ethics, compliance, and governance programs.",
       "amount": null,
       "section_heading": "PRESS RELEASE"
     }
@@ -50,12 +50,12 @@
     {
       "text": "Infosys has been recognized for the sixth consecutive year and is one of only a select group of honorees in  the  Technology  industry.",
       "section_heading": "PRESS RELEASE",
-      "reason": "Supports the repeated recognition and industry context."
+      "reason": "Supports the recurrence and industry context of the recognition."
     },
     {
-      "text": "In  2026,  138  honorees  were  recognized,  spanning  17  countries  and  40 industries.",
+      "text": "In 2026, 138 honorees were recognized, spanning 17 countries and 40 industries.",
       "section_heading": "PRESS RELEASE",
-      "reason": "Provides scale of the recognition program."
+      "reason": "Provides the scale of the Ethisphere recognition program for 2026."
     }
   ],
   "search_keywords": [
@@ -64,8 +64,12 @@
     "Ethics Quotient",
     "business integrity",
     "corporate governance",
-    "ethics and compliance",
-    "ESG practices"
+    "ethics and compliance"
   ],
-  "processing_notes": "Generic Infosys company profile details and safe harbor risk language were excluded because they are boilerplate and not part of the award event."
+  "sample_questions": [
+    "What recognition did Infosys receive from Ethisphere in 2026?",
+    "How many consecutive years has Infosys been recognized as one of the World's Most Ethical Companies?",
+    "Was Infosys's March 18, 2026 Ethisphere announcement material for investors?"
+  ],
+  "processing_notes": "Generic company profile details, safe harbor language, quotes, and stock-exchange filing wrapper information were excluded. The document is treated as non-material because it primarily concerns an award or recognition and does not disclose financial results, guidance, strategic transactions, leadership changes, or regulatory matters."
 }

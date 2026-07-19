@@ -2,7 +2,7 @@
   "document_name": "Infosys_21112025185749_PR_21112025.md",
   "is_material": false,
   "title": "Infosys Foundation Announces Aarohan Social Innovation Awards 2025 Winners",
-  "detailed_summary": "Infosys Foundation announced the winners of the fourth Aarohan Social Innovation Awards 2025, recognizing social innovations in education, healthcare, and environmental sustainability. Eight innovators received total prize money of INR 2 crore, including three category winners receiving INR 50 lakh each and five Jury's Special Award winners receiving INR 10 lakh each.",
+  "detailed_summary": "Infosys Foundation announced the winners of the fourth edition of the Aarohan Social Innovation Awards 2025. Eight innovators were awarded a total of INR 2 crore for social innovations in education, healthcare, and environmental sustainability, selected from over 2,000 entries. The announcement is primarily CSR-related and does not disclose material business, financial, strategic, or operating updates for Infosys Limited.",
   "key_facts": [
     {
       "fact": "Infosys Foundation announced the winners of the fourth edition of the Aarohan Social Innovation Awards.",
@@ -13,7 +13,7 @@
       "section_heading": "Infosys Foundation Announces the Winners of the Aarohan Social Innovation Awards 2025"
     },
     {
-      "fact": "The Awards selected winners from over 2,000 entries.",
+      "fact": "The winners were selected from over 2,000 entries.",
       "section_heading": "Infosys Foundation Announces the Winners of the Aarohan Social Innovation Awards 2025"
     }
   ],
@@ -40,7 +40,7 @@
   "risk_factors": [],
   "esg_or_csr_items": [
     {
-      "item": "Infosys Foundation awarded the Aarohan Social Innovation Awards 2025 to innovators working in education, healthcare, and environmental sustainability.",
+      "item": "Infosys Foundation awarded Aarohan Social Innovation Awards 2025 winners for social innovations in education, healthcare, and environmental sustainability.",
       "amount": "INR 2 crore",
       "section_heading": "Infosys Foundation Announces the Winners of the Aarohan Social Innovation Awards 2025"
     }
@@ -50,21 +50,27 @@
     {
       "text": "Eight innovators awarded a total of INR 2 crore for transformative innovations in education, healthcare, and environmental sustainability",
       "section_heading": "Infosys Foundation Announces the Winners of the Aarohan Social Innovation Awards 2025",
-      "reason": "Supports the scale and CSR nature of the award announcement."
+      "reason": "Supports the scale and CSR focus of the awards."
     },
     {
       "text": "Selected from over 2,000 entries",
       "section_heading": "Infosys Foundation Announces the Winners of the Aarohan Social Innovation Awards 2025",
-      "reason": "Supports the reported selection scale for the awards."
+      "reason": "Supports the selection scale of the awards."
     }
   ],
   "search_keywords": [
     "Infosys Foundation",
     "Aarohan Social Innovation Awards 2025",
     "INR 2 crore",
+    "CSR",
     "education",
     "healthcare",
     "environmental sustainability"
   ],
-  "processing_notes": "Marked non-material because the document concerns Infosys Foundation CSR awards and does not disclose investor-relevant operating, financial, strategic, governance, or capital-allocation information for Infosys Limited."
+  "sample_questions": [
+    "What did Infosys Foundation announce about the Aarohan Social Innovation Awards 2025?",
+    "How much prize money did Infosys Foundation award under the Aarohan Social Innovation Awards 2025?",
+    "Is the November 21, 2025 Infosys Foundation Aarohan awards announcement material for Infosys investors?"
+  ],
+  "processing_notes": "Excluded generic About Infosys boilerplate, safe harbor language, quotes, media contacts, and detailed awardee implementation descriptions because the document is primarily a non-material CSR announcement."
 }

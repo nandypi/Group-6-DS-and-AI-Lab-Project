@@ -2,7 +2,7 @@
   "document_name": "Infosys_25032026153613_PR_25032026_2.md",
   "is_material": false,
   "title": "Infosys Recognized as Leader in Forrester AI Technical Services Report",
-  "detailed_summary": "Infosys announced that it was recognized as a Leader in The Forrester Wave™: AI Technical Services, Q4 2025. The release highlights Infosys being ranked second highest in the strategy category and receiving 5/5 scores in selected criteria, but it does not disclose financial impact, new contracts, guidance, or a material business transaction.",
+  "detailed_summary": "Infosys announced that it was recognized as a Leader in The Forrester Wave™: AI Technical Services, Q4 2025. The release highlights Infosys being ranked second highest in the strategy category and cites strengths in frontier AI models, AI workload optimization, edge/IoT integration, AI lifecycle management, talent strategy, and global delivery strategy.",
   "key_facts": [
     {
       "fact": "Infosys was recognized as a Leader in the inaugural edition of The Forrester Wave™: AI Technical Services, Q4 2025.",
@@ -49,17 +49,21 @@
     {
       "text": "The company earned 5/5 scores in criteria such as Talent Strategy, Global Delivery Strategy, Frontier Model, and AI Workloads Optimized for Infrastructure.",
       "section_heading": "Infosys Recognized as a Leader in Inaugural AI Technical Services, Q4 2025 Analyst Report",
-      "reason": "Supports the specific performance areas highlighted in the analyst report."
+      "reason": "Supports the specific AI capability areas highlighted in the recognition."
     }
   ],
   "search_keywords": [
-    "Forrester Wave",
-    "AI Technical Services",
-    "Q4 2025",
+    "Forrester Wave AI Technical Services Q4 2025",
     "Infosys Topaz",
     "frontier AI models",
     "AI workload optimization",
+    "edge/IoT",
     "AI lifecycle management"
   ],
-  "processing_notes": "Classified as not material because the document is primarily an analyst recognition announcement and does not disclose financial impact, a new commercial deal, guidance, or a material corporate action."
+  "sample_questions": [
+    "What recognition did Infosys receive in The Forrester Wave AI Technical Services Q4 2025 report?",
+    "Which AI capabilities did Forrester highlight for Infosys?",
+    "How did Infosys rank in the strategy category of the Forrester AI Technical Services report?"
+  ],
+  "processing_notes": "Marked non-material because the document primarily announces an analyst recognition rather than a financial result, contract, product launch, corporate action, leadership change, or regulatory matter. Infosys Topaz was mentioned as supporting context, not as a distinct product launch or update."
 }

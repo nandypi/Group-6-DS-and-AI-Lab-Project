@@ -1,27 +1,31 @@
 {
   "document_name": "Infosys_11062026115315_PR_11062026.md",
   "is_material": true,
-  "title": "Infosys collaborates with IHH Healthcare on multi-country AI-powered ERP transformation",
-  "detailed_summary": "Infosys announced a strategic collaboration with IHH Healthcare for a multi-year, enterprise-wide ERP transformation program across IHH markets, starting with Hong Kong, Malaysia, and Singapore. The program will use Infosys Topaz to embed generative and agentic AI capabilities into IHH's core business workflows. Infosys will help consolidate IHH's legacy, siloed ERP landscape and integrate finance, procurement, supply chain, human capital management, and enterprise performance management, with stated aims including process standardization, operational streamlining, improved scalability, cost optimization, regulatory compliance, and real-time decision intelligence. No contract value was disclosed.",
+  "title": "Infosys Collaborates with IHH Healthcare on Multi-Country AI-Powered ERP Transformation",
+  "detailed_summary": "Infosys announced a strategic collaboration with IHH Healthcare on June 11, 2026 for a multi-year, enterprise-wide ERP transformation program. The engagement will use Infosys Topaz to support AI-powered transformation and will initially standardize and harmonize business processes across Hong Kong, Malaysia, and Singapore. Infosys will help consolidate IHH's legacy, siloed ERP landscape across finance, procurement, supply chain, human capital management, and enterprise performance management, with stated objectives including streamlined operations, greater agility and scalability, cost optimization, stronger regulatory compliance, real-time data visibility, and faster decision-making. No deal value was disclosed.",
   "key_facts": [
     {
       "fact": "Infosys announced a strategic collaboration with IHH Healthcare to drive a multi-year, enterprise-wide ERP transformation program.",
       "section_heading": "IHH Healthcare Collaborates with Infosys on a Multi-Country, AI-Powered ERP Transformation to Accelerate Growth"
     },
     {
-      "fact": "The collaboration will standardize and harmonize business processes across IHH markets starting with Hong Kong, Malaysia, and Singapore.",
+      "fact": "The ERP transformation program will start with Hong Kong, Malaysia, and Singapore.",
       "section_heading": "IHH Healthcare Collaborates with Infosys on a Multi-Country, AI-Powered ERP Transformation to Accelerate Growth"
     },
     {
-      "fact": "The program will use Infosys Topaz, described as an AI-first offering powered by generative and agentic AI technologies, to embed intelligence into IHH's core business workflows.",
+      "fact": "The collaboration is intended to standardize and harmonize business processes across IHH Healthcare's markets.",
       "section_heading": "IHH Healthcare Collaborates with Infosys on a Multi-Country, AI-Powered ERP Transformation to Accelerate Growth"
     },
     {
-      "fact": "Infosys will help consolidate IHH's legacy, siloed ERP landscape by integrating finance, procurement, supply chain, human capital management, and enterprise performance management.",
+      "fact": "Infosys Topaz will be used to embed generative and agentic AI technologies into IHH Healthcare's core business workflows.",
       "section_heading": "IHH Healthcare Collaborates with Infosys on a Multi-Country, AI-Powered ERP Transformation to Accelerate Growth"
     },
     {
-      "fact": "The stated business benefits include streamlined operations, enhanced agility and scalability, optimized costs, strengthened regulatory compliance, real-time data visibility, and decision intelligence.",
+      "fact": "Infosys will help consolidate IHH Healthcare's legacy, siloed ERP landscape by integrating finance, procurement, supply chain, human capital management, and enterprise performance management.",
+      "section_heading": "IHH Healthcare Collaborates with Infosys on a Multi-Country, AI-Powered ERP Transformation to Accelerate Growth"
+    },
+    {
+      "fact": "The stated expected benefits include streamlined operations, enhanced agility and scalability, optimized costs, strengthened regulatory compliance, enhanced real-time data visibility, and decision intelligence.",
       "section_heading": "IHH Healthcare Collaborates with Infosys on a Multi-Country, AI-Powered ERP Transformation to Accelerate Growth"
     }
   ],
@@ -44,9 +48,9 @@
   "corporate_actions": [],
   "partnerships_or_deals": [
     {
-      "deal_type": "strategic collaboration",
+      "deal_type": "client contract",
       "counterparty": "IHH Healthcare",
-      "description": "Infosys will work with IHH Healthcare on a multi-year, enterprise-wide ERP transformation program to standardize and harmonize business processes across IHH markets starting with Hong Kong, Malaysia, and Singapore.",
+      "description": "Infosys will collaborate with IHH Healthcare on a multi-year, enterprise-wide, AI-powered ERP transformation program to standardize and harmonize business processes across IHH's markets, starting with Hong Kong, Malaysia, and Singapore.",
       "value": null,
       "duration": "multi-year",
       "section_heading": "IHH Healthcare Collaborates with Infosys on a Multi-Country, AI-Powered ERP Transformation to Accelerate Growth"
@@ -59,19 +63,24 @@
   "products_or_platforms": [],
   "important_text_spans": [
     {
-      "text": "Infosys (NSE, BSE, NYSE: INFY), a global leader in AI-first business consulting and technology services, today announced a strategic collaboration with IHH Healthcare, one of the world's largest private healthcare providers, to drive a multi-year,  enterprise-wide  ERP  transformation  program.",
+      "text": "today announced a strategic collaboration with IHH Healthcare, one of the world's largest private healthcare providers, to drive a multi-year,  enterprise-wide  ERP  transformation  program.",
       "section_heading": "IHH Healthcare Collaborates with Infosys on a Multi-Country, AI-Powered ERP Transformation to Accelerate Growth",
-      "reason": "Supports the existence, counterparty, and multi-year nature of the collaboration."
+      "reason": "Supports the existence, counterparty, and duration of the main commercial engagement."
     },
     {
-      "text": "This  collaboration  will  enable  IHH  to standardize  and  harmonize  business  processes  across  all  its  markets  starting  with  Hong  Kong, Malaysia, and Singapore.",
+      "text": "starting  with  Hong  Kong, Malaysia, and Singapore.",
       "section_heading": "IHH Healthcare Collaborates with Infosys on a Multi-Country, AI-Powered ERP Transformation to Accelerate Growth",
-      "reason": "Identifies the initial geographic scope and process-standardization objective."
+      "reason": "Identifies the initial geographic scope of the ERP transformation."
     },
     {
-      "text": "The collaboration brings together Infosys' AI-first capabilities through Infosys Topaz, an AI-first offering powered by generative and agentic AI technologies, to embed intelligence into IHH's core business workflows.",
+      "text": "The collaboration brings together Infosys' AI-first capabilities through Infosys Topaz",
       "section_heading": "IHH Healthcare Collaborates with Infosys on a Multi-Country, AI-Powered ERP Transformation to Accelerate Growth",
-      "reason": "Shows the role of Infosys Topaz and AI capabilities in the deal."
+      "reason": "Shows the role of Infosys Topaz in the engagement."
+    },
+    {
+      "text": "Infosys will help consolidate IHH's legacy, siloed ERP landscape by integrating critical functions such as  finance,  procurement,  supply  chain,  human  capital  management,  and  enterprise  performance management.",
+      "section_heading": "IHH Healthcare Collaborates with Infosys on a Multi-Country, AI-Powered ERP Transformation to Accelerate Growth",
+      "reason": "Describes the operational scope of Infosys's work."
     }
   ],
   "search_keywords": [
@@ -80,7 +89,17 @@
     "ERP transformation",
     "AI-powered ERP",
     "Hong Kong Malaysia Singapore",
-    "healthcare enterprise transformation"
+    "healthcare technology services",
+    "generative AI",
+    "agentic AI"
   ],
-  "processing_notes": "No deal value or financial impact was disclosed. Infosys Topaz was treated as supporting context within the client collaboration rather than a separate product or platform event."
+  "sample_questions": [
+    "What did Infosys announce with IHH Healthcare on June 11, 2026?",
+    "Is the Infosys-IHH Healthcare ERP transformation a multi-year deal?",
+    "Which countries are included in the initial phase of Infosys's ERP transformation work for IHH Healthcare?",
+    "What role will Infosys Topaz play in the IHH Healthcare collaboration?",
+    "What business functions will Infosys integrate for IHH Healthcare under the ERP transformation?",
+    "Did Infosys disclose the value of the IHH Healthcare ERP transformation deal?"
+  ],
+  "processing_notes": "The document does not disclose deal value, revenue impact, margin impact, or other financial metrics. Infosys Topaz is mentioned as part of the client engagement, but there is no separate product launch or platform update."
 }

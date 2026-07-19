@@ -1,19 +1,23 @@
 {
   "document_name": "Infosys_11092025173002_PR_11092025.md",
   "is_material": true,
-  "title": "Infosys and HanesBrands Enter Ten-Year AI-Driven Digital Transformation Alliance",
-  "detailed_summary": "Infosys announced a ten-year strategic alliance with HanesBrands Inc., under which Infosys will serve as HanesBrands' strategic collaborator across its digital, business applications and data landscape. Infosys will deploy its proprietary Live Enterprise Automation Platform (LEAP), integrated within Infosys Topaz, to use generative AI and AIOps technologies for modernizing core operations, enhancing agility, simplifying HanesBrands' IT landscape and unlocking greater value from data. No deal value or financial impact was disclosed.",
+  "title": "Infosys Announces Ten-Year Strategic Alliance With HanesBrands",
+  "detailed_summary": "Infosys announced a ten-year strategic alliance with HanesBrands Inc. under which Infosys will serve as HanesBrands' strategic collaborator across its digital, business applications and data landscape. The engagement will use Infosys' proprietary Live Enterprise Automation Platform (LEAP), integrated within Infosys Topaz, to apply generative AI and AIOps technologies. The stated objectives are to help HanesBrands modernize core operations, enhance agility, simplify its IT landscape, unlock greater value from data, reduce operational complexity and accelerate digital transformation. No contract value or financial impact was disclosed.",
   "key_facts": [
     {
       "fact": "Infosys announced a strategic alliance with HanesBrands Inc. on September 11, 2025.",
       "section_heading": "Infosys and HanesBrands Inc. Collaborate to Unlock Hyper Productivity and AIDriven Efficiency"
     },
     {
-      "fact": "Under the ten-year engagement, Infosys will serve as HanesBrands' strategic collaborator in its digital, business applications and data landscape.",
+      "fact": "The engagement has a ten-year duration.",
       "section_heading": "Infosys and HanesBrands Inc. Collaborate to Unlock Hyper Productivity and AIDriven Efficiency"
     },
     {
-      "fact": "Infosys will deploy its proprietary Live Enterprise Automation Platform (LEAP), integrated within Infosys Topaz.",
+      "fact": "Infosys will serve as HanesBrands' strategic collaborator in its digital, business applications and data landscape.",
+      "section_heading": "Infosys and HanesBrands Inc. Collaborate to Unlock Hyper Productivity and AIDriven Efficiency"
+    },
+    {
+      "fact": "Infosys will deploy its proprietary Live Enterprise Automation Platform (LEAP), integrated within Infosys Topaz, for the collaboration.",
       "section_heading": "Infosys and HanesBrands Inc. Collaborate to Unlock Hyper Productivity and AIDriven Efficiency"
     },
     {
@@ -21,7 +25,7 @@
       "section_heading": "Infosys and HanesBrands Inc. Collaborate to Unlock Hyper Productivity and AIDriven Efficiency"
     },
     {
-      "fact": "The collaboration is intended to address HanesBrands' strategic priorities including technology optimization, resource efficiency and cultural alignment.",
+      "fact": "The document does not disclose a contract value or expected financial contribution from the alliance.",
       "section_heading": "Infosys and HanesBrands Inc. Collaborate to Unlock Hyper Productivity and AIDriven Efficiency"
     }
   ],
@@ -46,9 +50,9 @@
     {
       "deal_type": "strategic alliance",
       "counterparty": "HanesBrands Inc.",
-      "description": "Infosys will serve as HanesBrands' strategic collaborator in its digital, business applications and data landscape, using Infosys AI-first platforms to drive innovation, efficiency and agility across HanesBrands' IT landscape.",
+      "description": "Infosys will serve as HanesBrands' strategic collaborator in its digital, business applications and data landscape, using LEAP integrated within Infosys Topaz, generative AI and AIOps technologies to support IT modernization, agility, data value and operational efficiency.",
       "value": null,
-      "duration": "ten-year engagement",
+      "duration": "ten-year",
       "section_heading": "Infosys and HanesBrands Inc. Collaborate to Unlock Hyper Productivity and AIDriven Efficiency"
     }
   ],
@@ -56,48 +60,41 @@
   "litigation_or_regulatory_matters": [],
   "risk_factors": [],
   "esg_or_csr_items": [],
-  "products_or_platforms": [
-    {
-      "name": "Live Enterprise Automation Platform (LEAP)",
-      "event_type": "deployed",
-      "description": "Infosys will deploy LEAP, integrated within Infosys Topaz, as part of the HanesBrands collaboration.",
-      "target_market_or_use_case": "modernize core operations, enhance agility, simplify its IT landscape and unlock greater value from data",
-      "section_heading": "Infosys and HanesBrands Inc. Collaborate to Unlock Hyper Productivity and AIDriven Efficiency"
-    },
-    {
-      "name": "Infosys Topaz",
-      "event_type": "integrated",
-      "description": "LEAP will be integrated within Infosys Topaz, described as an AI-first suite of services, solutions, and platforms.",
-      "target_market_or_use_case": "generative AI and AIOps technologies",
-      "section_heading": "Infosys and HanesBrands Inc. Collaborate to Unlock Hyper Productivity and AIDriven Efficiency"
-    }
-  ],
+  "products_or_platforms": [],
   "important_text_spans": [
     {
       "text": "Under this ten-year engagement, Infosys will serve as HanesBrands' strategic collaborator in their digital, business applications and data landscape.",
       "section_heading": "Infosys and HanesBrands Inc. Collaborate to Unlock Hyper Productivity and AIDriven Efficiency",
-      "reason": "Supports the existence, duration and scope of the commercial alliance."
+      "reason": "Supports the duration, counterparty and scope of Infosys' strategic alliance."
     },
     {
       "text": "Infosys will deploy its proprietary platforms-Live Enterprise Automation Platform (LEAP), integrated within Infosys Topaz, an AI-first suite of services, solutions, and platforms.",
       "section_heading": "Infosys and HanesBrands Inc. Collaborate to Unlock Hyper Productivity and AIDriven Efficiency",
-      "reason": "Identifies the Infosys platforms involved in the engagement."
+      "reason": "Identifies the Infosys platforms used in the alliance."
     },
     {
       "text": "This initiative will harness generative AI and AIOps technologies to help HanesBrands modernize core operations, enhance agility, simplify its IT landscape and unlock greater value from data.",
       "section_heading": "Infosys and HanesBrands Inc. Collaborate to Unlock Hyper Productivity and AIDriven Efficiency",
-      "reason": "States the intended business impact of the alliance."
+      "reason": "Describes the intended business impact of the engagement."
     }
   ],
   "search_keywords": [
     "HanesBrands",
     "ten-year engagement",
+    "strategic alliance",
     "LEAP",
     "Infosys Topaz",
     "generative AI",
     "AIOps",
-    "digital transformation",
-    "AI-driven efficiency"
+    "digital transformation"
   ],
-  "processing_notes": "No contract value, revenue impact, margin impact, or financial guidance was disclosed."
+  "sample_questions": [
+    "What did Infosys announce with HanesBrands on September 11, 2025?",
+    "How long is the Infosys and HanesBrands strategic alliance?",
+    "What role will Infosys play in HanesBrands' digital transformation?",
+    "Which Infosys platforms are being used in the HanesBrands engagement?",
+    "Did Infosys disclose the financial value of the HanesBrands deal?",
+    "What business outcomes does Infosys expect to support for HanesBrands through this alliance?"
+  ],
+  "processing_notes": "Generic Infosys and HanesBrands company background, safe harbor language, exchange filing wrapper and media contact details were excluded. No deal value or financial impact was disclosed."
 }

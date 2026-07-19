@@ -2,7 +2,7 @@
   "document_name": "Infosys_20082025093726_PR_20082025.md",
   "is_material": true,
   "title": "Uniting Financial Services subscribes to Infosys Finacle Digital Banking SaaS Suite on AWS Cloud",
-  "detailed_summary": "Infosys Finacle, part of EdgeVerve Systems, a wholly-owned subsidiary of Infosys, announced a collaboration with Uniting Financial Services in Australia to implement the Finacle Digital Banking Suite as Software-as-a-Service on AWS cloud. The migration from UFS' incumbent platform to Finacle SaaS was completed in less than five months using the Finacle Australian Reference Bank Model. The implementation covers core banking, digital engagement, online banking, mobile banking, customer data, and alerts, and is intended to improve UFS' agility, compliance, operational efficiency, digital customer experience, product expansion, partner connectivity, scalability, and resilience.",
+  "detailed_summary": "Infosys Finacle, part of EdgeVerve Systems, a wholly-owned subsidiary of Infosys, announced a collaboration with Uniting Financial Services in Australia to implement the next-generation Finacle Digital Banking Suite as a SaaS offering on AWS cloud. UFS migrated from its incumbent platform to Finacle SaaS in less than five months, using the Finacle Australian Reference Bank Model. The deployment includes core banking, digital engagement, online banking, mobile banking, customer data, and alerts capabilities. Infosys stated the collaboration will help UFS enhance agility, compliance, operational efficiency, digital customer experience, product expansion, partner connectivity through open APIs, and cloud-native scalability and resilience.",
   "key_facts": [
     {
       "fact": "Infosys Finacle announced a collaboration with Uniting Financial Services in Australia to implement the next-gen Finacle Digital Banking Suite.",
@@ -21,11 +21,11 @@
       "section_heading": "PRESS RELEASE"
     },
     {
-      "fact": "Infosys stated the collaboration will help UFS enhance business agility, compliance, operational efficiency, digital customer experience, faster offering launches, and scalability.",
+      "fact": "Infosys stated the collaboration will help UFS enhance business agility, compliance, operational efficiency, digital customer experience, faster product launches, and scalability.",
       "section_heading": "PRESS RELEASE"
     },
     {
-      "fact": "The cloud-native banking environment leverages AWS services including Amazon RDS, Amazon EKS, and AWS WAF.",
+      "fact": "The Finacle SaaS environment uses AWS cloud infrastructure, including Amazon RDS, Amazon EKS, and AWS WAF.",
       "section_heading": "PRESS RELEASE"
     }
   ],
@@ -50,7 +50,7 @@
     {
       "deal_type": "client contract",
       "counterparty": "Uniting Financial Services",
-      "description": "Uniting Financial Services subscribed to Infosys Finacle's Digital Banking SaaS Suite on AWS cloud, migrating from its incumbent platform to Finacle SaaS in less than five months.",
+      "description": "Uniting Financial Services subscribed to Infosys Finacle's Digital Banking SaaS Suite on AWS Cloud to modernise its core banking and digital capabilities.",
       "value": null,
       "duration": null,
       "section_heading": "PRESS RELEASE"
@@ -60,22 +60,37 @@
   "litigation_or_regulatory_matters": [],
   "risk_factors": [],
   "esg_or_csr_items": [],
-  "products_or_platforms": [],
-  "important_text_spans": [
+  "products_or_platforms": [
     {
-      "text": "Infosys Finacle, part of EdgeVerve Systems, a wholly-owned subsidiary of Infosys (NSE, BSE, NYSE: INFY), today announced its collaboration with Uniting Financial Services (UFS), a charitable development fund in Australia, to implement the next-gen Finacle Digital Banking Suite.",
-      "section_heading": "PRESS RELEASE",
-      "reason": "Identifies the main commercial collaboration and offering."
+      "name": "Finacle Digital Banking Suite",
+      "event_type": "implemented",
+      "description": "Infosys Finacle implemented its Digital Banking Suite for Uniting Financial Services as a SaaS deployment on AWS cloud, covering core banking, digital engagement, online banking, mobile banking, customer data, and alerts.",
+      "target_market_or_use_case": "Digital banking transformation for financial institutions",
+      "section_heading": "PRESS RELEASE"
     },
+    {
+      "name": "Finacle Australian Reference Bank Model",
+      "event_type": "used in implementation",
+      "description": "The implementation used a Finacle solution with preconfigured products, processes, interfaces, and compliance rules to support rapid migration.",
+      "target_market_or_use_case": "Australian banking implementations",
+      "section_heading": "PRESS RELEASE"
+    }
+  ],
+  "important_text_spans": [
     {
       "text": "The move from UFS' incumbent platform to Finacle Software-as-a-Service (SaaS) on AWS cloud was completed in less than five months.",
       "section_heading": "PRESS RELEASE",
-      "reason": "Supports the implementation timeline and cloud SaaS migration claim."
+      "reason": "Supports the implementation timeline and SaaS cloud migration claim."
     },
     {
       "text": "The implemented Finacle Digital Banking Suite includes the Finacle Core Banking, Finacle Digital Engagement Hub, Finacle Online Banking, Finacle Mobile Banking, Finacle Customer Data Hub, and Finacle Alerts.",
       "section_heading": "PRESS RELEASE",
-      "reason": "Identifies the Infosys Finacle modules implemented for the client."
+      "reason": "Identifies the Infosys Finacle products deployed for UFS."
+    },
+    {
+      "text": "This collaboration will enable UFS to transform its operations, helping enhance business agility, compliance, and operational efficiency.",
+      "section_heading": "PRESS RELEASE",
+      "reason": "Supports the stated business impact of the collaboration."
     }
   ],
   "search_keywords": [
@@ -85,8 +100,16 @@
     "Finacle SaaS",
     "AWS cloud",
     "Australian Reference Bank Model",
-    "EdgeVerve Systems",
-    "core banking migration"
+    "core banking migration",
+    "EdgeVerve Systems"
   ],
-  "processing_notes": "No deal value, contract duration, or financial impact was disclosed. Generic Finacle company-description facts and safe harbor language were excluded."
+  "sample_questions": [
+    "What did Infosys Finacle announce with Uniting Financial Services in August 2025?",
+    "How quickly did UFS migrate to Infosys Finacle SaaS on AWS cloud?",
+    "Which Finacle products were implemented for Uniting Financial Services?",
+    "What business benefits did Infosys say the Finacle implementation would provide to UFS?",
+    "Did Infosys disclose the contract value or duration for the UFS Finacle deal?",
+    "What role did AWS cloud infrastructure play in the UFS Finacle deployment?"
+  ],
+  "processing_notes": "No deal value, contract duration, financial impact, or Infosys revenue contribution was disclosed. Generic Finacle background and safe harbor language were excluded."
 }

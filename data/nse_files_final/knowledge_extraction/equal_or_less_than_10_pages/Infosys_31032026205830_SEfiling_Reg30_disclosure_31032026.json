@@ -1,8 +1,8 @@
 {
   "document_name": "Infosys_31032026205830_SEfiling_Reg30_disclosure_31032026.md",
   "is_material": true,
-  "title": "Infosys expects cumulative income-tax refund of ₹1, 745 crore",
-  "detailed_summary": "Infosys Limited received assessment orders under Section 250 and Section 254 of the Income-tax Act, 1961 from the Income-tax Department, Government of India. The orders relate to Assessment Years 2018-19 and 2017-18, received on March 26, 2026, and March 27, 2026, respectively, and Assessment Years 2013-14, 2019-20, 2020-21 and 2021-22, received on March 31, 2026. Infosys expects a cumulative refund of ₹1, 745 crore, including interest, and is evaluating the impact on its financial statements for the quarter and year ended March 31, 2026.",
+  "title": "Infosys Receives Income-Tax Assessment Orders Expecting Cumulative Refund of ₹1, 745 crore",
+  "detailed_summary": "Infosys Limited received assessment orders under Section 250 and Section 254 of the Income-tax Act, 1961 from the Income-tax Department, Government of India. The orders relate to Assessment Years 2018-19 and 2017-18, received on March 26, 2026 and March 27, 2026, respectively, and Assessment Years 2013-14, 2019-20, 2020-21 and 2021-22, received on March 31, 2026. Infosys expects a cumulative refund of ₹1, 745 crore, including interest, and is evaluating the impact on its financial statements for the quarter and year ended March 31, 2026.",
   "key_facts": [
     {
       "fact": "Infosys Limited received assessment orders under Section 250 and Section 254 of the Income-tax Act, 1961 from the Income-tax Department, Government of India.",
@@ -13,7 +13,7 @@
       "section_heading": null
     },
     {
-      "fact": "The orders were received for Assessment Years 2013-14, 2019-20, 2020-21 and 2021-22 on March 31, 2026.",
+      "fact": "The orders for Assessment Years 2013-14, 2019-20, 2020-21 and 2021-22 were received on March 31, 2026.",
       "section_heading": null
     },
     {
@@ -21,7 +21,7 @@
       "section_heading": null
     },
     {
-      "fact": "Infosys is evaluating the impact of the orders on its financial statements for the quarter and year ended March 31, 2026.",
+      "fact": "Infosys is evaluating the impact of these orders on its financial statements for the quarter and year ended March 31, 2026.",
       "section_heading": null
     }
   ],
@@ -46,9 +46,9 @@
   "leadership_changes": [],
   "litigation_or_regulatory_matters": [
     {
-      "matter_type": "tax dispute",
+      "matter_type": "tax matter",
       "authority_or_counterparty": "Income-tax Department, Government of India",
-      "description": "Infosys received assessment orders under Section 250 and Section 254 of the Income-tax Act, 1961 for Assessment Years 2018-19, 2017-18, 2013-14, 2019-20, 2020-21 and 2021-22.",
+      "description": "Infosys received assessment orders under Section 250 and Section 254 of the Income-tax Act, 1961 for Assessment Years 2013-14, 2017-18, 2018-19, 2019-20, 2020-21 and 2021-22.",
       "amount": "₹1, 745 crore (including interest)",
       "status": "The Company is currently evaluating the impact of these orders on its financial statements for the quarter and year ended March 31, 2026.",
       "section_heading": null
@@ -56,7 +56,7 @@
   ],
   "risk_factors": [
     {
-      "risk": "Infosys has not yet finalized the impact of the assessment orders on its financial statements.",
+      "risk": "The financial statement impact of the assessment orders had not yet been finalized.",
       "potential_impact": "The Company is currently evaluating the impact of these orders on its financial statements for the quarter and year ended March 31, 2026.",
       "section_heading": null
     }
@@ -65,29 +65,30 @@
   "products_or_platforms": [],
   "important_text_spans": [
     {
-      "text": "Infosys Limited ('Company') has received assessment orders under Section 250 and Section 254 of the Income-tax Act, 1961 from the Income-tax Department, Government of India.",
-      "section_heading": null,
-      "reason": "Supports the nature of the tax-related regulatory matter and the authority involved."
-    },
-    {
       "text": "As per the said orders, the Company expects a cumulative refund of ₹1, 745 crore (including interest).",
       "section_heading": null,
-      "reason": "Supports the expected financial amount from the assessment orders."
+      "reason": "Supports the expected financial scale of the tax assessment orders."
     },
     {
       "text": "The Company is currently evaluating the impact of these orders on its financial statements for the quarter and year ended March 31, 2026.",
       "section_heading": null,
-      "reason": "Supports the disclosed uncertainty around financial statement impact."
+      "reason": "Supports the disclosed uncertainty about financial statement impact."
     }
   ],
   "search_keywords": [
     "Income-tax Department",
-    "Income-tax Act Section 250",
-    "Income-tax Act Section 254",
-    "assessment orders",
-    "tax refund",
-    "₹1, 745 crore",
+    "Section 250",
+    "Section 254",
+    "tax assessment orders",
+    "₹1, 745 crore refund",
     "Assessment Years 2013-14 2017-18 2018-19 2019-20 2020-21 2021-22"
+  ],
+  "sample_questions": [
+    "What income-tax assessment orders did Infosys receive in March 2026?",
+    "How much cumulative refund does Infosys expect from the tax assessment orders?",
+    "Which assessment years are covered by Infosys's March 2026 tax orders?",
+    "What impact did Infosys say the tax orders may have on its March 31, 2026 financial statements?",
+    "Which authority issued the income-tax assessment orders to Infosys?"
   ],
   "processing_notes": ""
 }

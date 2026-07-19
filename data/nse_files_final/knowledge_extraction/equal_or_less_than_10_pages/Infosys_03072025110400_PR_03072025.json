@@ -1,15 +1,15 @@
 {
   "document_name": "Infosys_03072025110400_PR_03072025.md",
   "is_material": false,
-  "title": "Infosys Foundation Commits over INR 48 Crore to Maternal and Child Healthcare in Rural Karnataka",
-  "detailed_summary": "Infosys Foundation announced a CSR collaboration with Prashanthi Balamandira Trust to support Sri Sathya Sai Sarla Memorial Hospital in rural Karnataka. The Foundation pledged over INR 48 crore to improve maternal and child healthcare infrastructure and operational support, with the initiative expected to benefit over 8,000 individuals annually through free care.",
+  "title": "Infosys Foundation commits over INR 48 Crore for maternal and child healthcare in rural Karnataka",
+  "detailed_summary": "Infosys Foundation announced a CSR collaboration with Prashanthi Balamandira Trust to support Sri Sathya Sai Sarla Memorial Hospital in rural Karnataka. The Foundation pledged a grant of over INR 48 crore to improve maternal and child healthcare infrastructure and facilities, with the initiative expected to benefit over 8,000 individuals annually through free medical care.",
   "key_facts": [
     {
-      "fact": "Infosys Foundation collaborated with Prashanthi Balamandira Trust to support Sri Sathya Sai Sarla Memorial Hospital in providing free medical care to underprivileged women, infants, and children in rural Karnataka.",
+      "fact": "Infosys Foundation announced its collaboration with Prashanthi Balamandira Trust to support Sri Sathya Sai Sarla Memorial Hospital in providing free medical care to underprivileged women, infants and children in rural Karnataka.",
       "section_heading": "PRESS RELEASE"
     },
     {
-      "fact": "Infosys Foundation pledged a grant of over INR 48 crore to augment healthcare infrastructure and facilities in maternal and childcare services, with a portion of the grant also covering operational costs.",
+      "fact": "Infosys Foundation pledged a grant of over INR 48 crore to augment healthcare infrastructure and facilities in maternal and childcare services.",
       "section_heading": "PRESS RELEASE"
     },
     {
@@ -40,7 +40,7 @@
   "risk_factors": [],
   "esg_or_csr_items": [
     {
-      "item": "Infosys Foundation pledged support to Prashanthi Balamandira Trust for free maternal and child healthcare at Sri Sathya Sai Sarla Memorial Hospital in rural Karnataka.",
+      "item": "Infosys Foundation committed a grant to support free maternal and child healthcare services at Sri Sathya Sai Sarla Memorial Hospital in rural Karnataka through a collaboration with Prashanthi Balamandira Trust.",
       "amount": "over INR 48 crore",
       "section_heading": "PRESS RELEASE"
     }
@@ -48,24 +48,29 @@
   "products_or_platforms": [],
   "important_text_spans": [
     {
-      "text": "Infosys Foundation has pledged a grant of over INR 48 crore to augment healthcare infrastructure and facilities in maternal and childcare services.",
+      "text": "Infosys Foundation, the philanthropic and CSR arm of Infosys, today announced its collaboration with Prashanthi Balamandira Trust",
       "section_heading": "PRESS RELEASE",
-      "reason": "Supports the CSR grant amount and purpose."
+      "reason": "Identifies the event as a CSR collaboration."
     },
     {
-      "text": "This initiative is expected to benefit over 8,000 deserving individuals annually",
+      "text": "the Infosys Foundation has pledged a grant of over INR 48 crore",
       "section_heading": "PRESS RELEASE",
-      "reason": "Supports the stated annual beneficiary scale."
+      "reason": "Supports the financial scale of the CSR commitment."
     }
   ],
   "search_keywords": [
     "Infosys Foundation",
     "Prashanthi Balamandira Trust",
     "Sri Sathya Sai Sarla Memorial Hospital",
+    "INR 48 crore",
     "maternal and child healthcare",
     "rural Karnataka",
-    "INR 48 crore",
     "CSR"
   ],
-  "processing_notes": "Classified as not material because the document concerns CSR/philanthropy rather than Infosys financial performance, operations, strategy, governance, or capital allocation."
+  "sample_questions": [
+    "What CSR healthcare initiative did Infosys Foundation announce in rural Karnataka in July 2025?",
+    "How much did Infosys Foundation commit to Prashanthi Balamandira Trust for maternal and child healthcare?",
+    "How many people is the Infosys Foundation healthcare initiative expected to benefit annually?"
+  ],
+  "processing_notes": "The document is treated as non-material because it concerns CSR/philanthropy rather than Infosys business operations, financial performance, strategy, governance, or capital allocation."
 }

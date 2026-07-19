@@ -1,8 +1,8 @@
 {
   "document_name": "Infosys_16122025201456_PR_16122025.md",
   "is_material": false,
-  "title": "Infosys and MIT Technology Review Insights publish report on psychological safety in AI adoption",
-  "detailed_summary": "Infosys and MIT Technology Review Insights released a global report, 'Creating Psychological Safety in the AI Era,' stating that 83 percent of business leaders believe psychological safety directly impacts enterprise AI initiative success. The report frames trust, transparency, leadership openness, and clear communication on AI use as important cultural factors for scaling AI adoption.",
+  "title": "Infosys and MIT Technology Review Insights publish report on psychological safety in AI initiatives",
+  "detailed_summary": "Infosys and MIT Technology Review Insights released a global report, 'Creating Psychological Safety in the AI Era,' stating that 83 percent of business leaders believe psychological safety directly impacts enterprise AI success. The report frames trust, transparent communication, and a 'safe to fail' culture as important factors for scaling AI initiatives, but it does not disclose financial impact, guidance, or a material commercial transaction.",
   "key_facts": [
     {
       "fact": "Infosys and MIT Technology Review Insights released a global report titled 'Creating Psychological Safety in the AI Era.'",
@@ -13,7 +13,7 @@
       "section_heading": "Infosys and MIT Technology Review Insights Report Reveals the Critical Role of Psychological Safety in Driving AI Initiatives - with 83% of Business Leaders Reporting a Measurable Impact"
     },
     {
-      "fact": "84 percent of respondents report direct links between psychological safety and tangible business outcomes.",
+      "fact": "60 percent of respondents say clarity on how AI will - and won't - impact jobs would improve psychological safety the most, while just over half (51 percent) highlight leadership modeling openness to questions, dissent and failure as equally important.",
       "section_heading": "Infosys and MIT Technology Review Insights Report Reveals the Critical Role of Psychological Safety in Driving AI Initiatives - with 83% of Business Leaders Reporting a Measurable Impact"
     }
   ],
@@ -44,12 +44,12 @@
     {
       "text": "83 percent of business leaders believe psychological safety directly impacts the success of enterprise AI initiatives.",
       "section_heading": "Infosys and MIT Technology Review Insights Report Reveals the Critical Role of Psychological Safety in Driving AI Initiatives - with 83% of Business Leaders Reporting a Measurable Impact",
-      "reason": "Supports the central finding of the report."
+      "reason": "Supports the main finding of the report."
     },
     {
-      "text": "84 percent report direct links between psychological safety and tangible business outcomes.",
+      "text": "Despite rapid advances in AI technology, the report finds that human factors are holding enterprises back.",
       "section_heading": "Infosys and MIT Technology Review Insights Report Reveals the Critical Role of Psychological Safety in Driving AI Initiatives - with 83% of Business Leaders Reporting a Measurable Impact",
-      "reason": "Supports the stated business relevance of psychological safety in AI initiatives."
+      "reason": "Supports the report's conclusion that AI adoption challenges are partly cultural rather than only technological."
     }
   ],
   "search_keywords": [
@@ -58,7 +58,13 @@
     "psychological safety",
     "enterprise AI initiatives",
     "Infosys Topaz",
-    "AI adoption"
+    "AI adoption",
+    "fear of failure"
   ],
-  "processing_notes": "Classified as non-material because the document is primarily a thought-leadership report announcement and does not disclose financial results, guidance, a material commercial deal, a product launch, or a corporate action."
+  "sample_questions": [
+    "What did Infosys and MIT Technology Review Insights report about psychological safety in AI initiatives?",
+    "What percentage of business leaders said psychological safety impacts enterprise AI success?",
+    "Did the Infosys and MIT Technology Review Insights report disclose any financial impact or guidance?"
+  ],
+  "processing_notes": "Marked non-material because the document is a thought-leadership press release about an AI adoption report and does not disclose financial results, guidance, a material deal, corporate action, governance change, or regulatory matter. Infosys Topaz was excluded from products_or_platforms because it was mentioned as context, not as a launch or material platform update."
 }

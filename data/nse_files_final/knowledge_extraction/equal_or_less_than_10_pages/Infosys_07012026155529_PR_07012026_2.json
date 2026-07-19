@@ -2,7 +2,7 @@
   "document_name": "Infosys_07012026155529_PR_07012026_2.md",
   "is_material": true,
   "title": "Infosys and Cognition Announce Strategic Collaboration to Scale Devin Across Global Enterprises",
-  "detailed_summary": "Infosys and Cognition announced a strategic collaboration to scale Devin, Cognition's AI software engineer, across Infosys' internal engineering ecosystem and client engagements worldwide. The collaboration combines Devin with Infosys Topaz Fabric to support agentic and autonomous software engineering, with stated goals including faster time-to-market, enhanced developer productivity, reduced modernization timelines, brownfield engineering automation, tech debt reduction, and production support. Infosys said it had used Devin for the past six months and saw significant improvement in engineering quality and efficiency. Infosys' Financial Services practice is leading the first wave of joint client engagements across banking, payments, capital markets, insurance, and wealth management.",
+  "detailed_summary": "Infosys and Cognition announced a strategic collaboration on January 07, 2026 to scale Devin, Cognition's AI software engineer, across global enterprises. The collaboration will deploy Devin across Infosys' internal engineering ecosystem and client engagements worldwide, integrating Cognition's agentic and autonomous engineering capabilities with Infosys Topaz Fabric. Infosys said it had used Devin for the past six months and seen significant improvement in engineering quality and efficiency. The initiative targets accelerated software development, improved developer productivity, faster time-to-market, reduced modernization timelines, brown field engineering automation, tech debt reduction, modernization, and production and maintenance problem resolution. Infosys' Financial Services practice is leading the first wave of joint client engagements across banking, payments, capital markets, insurance, and wealth management.",
   "key_facts": [
     {
       "fact": "Infosys and Cognition announced a strategic collaboration to scale Devin across global enterprises.",
@@ -13,19 +13,19 @@
       "section_heading": "PRESS RELEASE Infosys and Cognition Announce Strategic Collaboration to Accelerate the AI"
     },
     {
-      "fact": "Infosys will integrate Devin into its internal engineering teams, embed Devin within client delivery models, and enable deployment within customers' engineering environments.",
+      "fact": "Infosys Topaz Fabric is described as a purpose-built agentic services suite that unifies infrastructure, models, data, applications, and workflows into a composable, agent-ready ecosystem.",
       "section_heading": "PRESS RELEASE Infosys and Cognition Announce Strategic Collaboration to Accelerate the AI"
     },
     {
-      "fact": "Infosys said it had used Devin for the past six months and saw significant improvement across engineering quality and efficiency.",
+      "fact": "Infosys had used Devin for the past six months and reported significant improvement across engineering quality and efficiency.",
       "section_heading": "PRESS RELEASE Infosys and Cognition Announce Strategic Collaboration to Accelerate the AI"
     },
     {
-      "fact": "Infosys Topaz Fabric and Devin will automate brown field engineering, tech debt reduction and modernization, while creating virtual engineers to resolve complex production and maintenance challenges.",
+      "fact": "Infosys and Cognition are collaborating on shared engineering frameworks and enablement programs to scale adoption of Infosys Topaz Fabric and Devin across industries.",
       "section_heading": "PRESS RELEASE Infosys and Cognition Announce Strategic Collaboration to Accelerate the AI"
     },
     {
-      "fact": "Infosys and Cognition will jointly develop industry-specific solutions, AI-native modernization blueprints, and scalable engineering frameworks, supported by co-innovation labs and enablement programs.",
+      "fact": "Infosys Topaz Fabric and Devin are intended to automate brown field engineering, tech debt reduction and modernization, while creating virtual engineers to resolve complex production and maintenance challenges.",
       "section_heading": "PRESS RELEASE Infosys and Cognition Announce Strategic Collaboration to Accelerate the AI"
     },
     {
@@ -54,7 +54,7 @@
     {
       "deal_type": "strategic collaboration",
       "counterparty": "Cognition",
-      "description": "Infosys and Cognition announced a strategic collaboration to scale Devin across global enterprises by combining Devin with Infosys Topaz Fabric for agentic and autonomous engineering use cases.",
+      "description": "Infosys and Cognition announced a strategic collaboration to scale Devin across global enterprises, deploy Devin across Infosys' internal engineering ecosystem and client engagements worldwide, and combine Infosys Topaz Fabric with Cognition's agentic and autonomous engineering capabilities.",
       "value": null,
       "duration": null,
       "section_heading": "PRESS RELEASE Infosys and Cognition Announce Strategic Collaboration to Accelerate the AI"
@@ -68,8 +68,8 @@
     {
       "name": "Infosys Topaz Fabric",
       "event_type": "integrated",
-      "description": "Infosys Topaz Fabric will be integrated with Cognition's Devin to support accelerated software development, developer productivity, modernization, tech debt reduction, and production and maintenance use cases.",
-      "target_market_or_use_case": "Global enterprises and engineering teams across industries",
+      "description": "Infosys Topaz Fabric will be combined with Devin to support agentic and autonomous engineering capabilities, aiming to accelerate time-to-market, enhance developer productivity, and reduce modernization timelines.",
+      "target_market_or_use_case": "Global enterprise software engineering, modernization, brown field engineering, tech debt reduction, and production and maintenance challenges",
       "section_heading": "PRESS RELEASE Infosys and Cognition Announce Strategic Collaboration to Accelerate the AI"
     }
   ],
@@ -77,17 +77,17 @@
     {
       "text": "The collaboration will deploy Devin across Infosys' internal engineering ecosystem and client engagements worldwide.",
       "section_heading": "PRESS RELEASE Infosys and Cognition Announce Strategic Collaboration to Accelerate the AI",
-      "reason": "Supports the strategic scope of the collaboration."
+      "reason": "Supports the scope of the strategic collaboration and Infosys adoption."
     },
     {
-      "text": "After using Devin for the past six months and seeing significant improvement across both engineering quality and efficiency",
+      "text": "After using Devin for the past six months and seeing significant improvement across both engineering quality and efficiency, Infosys will integrate Devin into its internal engineering teams, embed Devin within client delivery models, and enable deployment within customers' engineering environments.",
       "section_heading": "PRESS RELEASE Infosys and Cognition Announce Strategic Collaboration to Accelerate the AI",
-      "reason": "Supports Infosys' stated internal experience with Devin before scaling deployment."
+      "reason": "Supports the stated prior usage, operational impact, and planned deployment model."
     },
     {
-      "text": "Infosys Topaz Fabric and Devin will automate brown field engineering, tech debt reduction and modernization",
+      "text": "Infosys Topaz Fabric and Devin will automate brown field engineering, tech debt reduction and modernization, while creating virtual engineers to resolve complex production and maintenance challenges.",
       "section_heading": "PRESS RELEASE Infosys and Cognition Announce Strategic Collaboration to Accelerate the AI",
-      "reason": "Supports the intended business and engineering use cases."
+      "reason": "Supports the intended business and technology use cases."
     }
   ],
   "search_keywords": [
@@ -96,9 +96,17 @@
     "Infosys Topaz Fabric",
     "agentic AI",
     "autonomous engineering",
-    "AI-native modernization",
-    "tech debt reduction",
-    "Financial Services practice"
+    "software modernization",
+    "Financial Services practice",
+    "tech debt reduction"
   ],
-  "processing_notes": "No deal value, duration, financial metrics, or quantified productivity impact was disclosed. Generic Infosys company-profile information and safe harbor risks were excluded."
+  "sample_questions": [
+    "What did Infosys announce with Cognition on January 07, 2026?",
+    "How will Infosys use Devin across its internal engineering and client delivery work?",
+    "What is Infosys Topaz Fabric's role in the Cognition collaboration?",
+    "What business benefits does Infosys expect from combining Topaz Fabric with Devin?",
+    "Which Infosys business practice is leading the first wave of joint client engagements with Cognition?",
+    "Did Infosys disclose any financial value or contract duration for the Cognition collaboration?"
+  ],
+  "processing_notes": "No financial value, duration, revenue impact, or quantified productivity metrics were disclosed. Generic company background and safe harbor risk language were excluded."
 }

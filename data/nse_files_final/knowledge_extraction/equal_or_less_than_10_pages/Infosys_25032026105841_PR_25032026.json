@@ -1,24 +1,24 @@
 {
   "document_name": "Infosys_25032026105841_PR_25032026.md",
   "is_material": true,
-  "title": "Infosys Finacle to modernize Producers Savings Bank’s core banking and loan origination systems",
-  "detailed_summary": "Infosys Finacle, part of EdgeVerve Systems, a wholly-owned subsidiary of Infosys, announced that Producers Savings Bank Corporation in the Philippines will upgrade to the latest version of the Finacle Core Banking Solution and implement the Finacle Origination Solution. The initiative is intended to modernize the bank’s technology landscape, strengthen its digital foundation, improve operational resilience, support digital loan management for SMEs and retail customers, and enable API-based integration with the fintech ecosystem. No contract value, duration, revenue impact, or implementation timeline was disclosed.",
+  "title": "Infosys Finacle to modernize Producers Savings Bank's core banking and lending technology in the Philippines",
+  "detailed_summary": "Infosys Finacle, part of EdgeVerve Systems, a wholly-owned subsidiary of Infosys, announced that Producers Savings Bank Corporation in the Philippines will upgrade to the latest version of the Finacle Core Banking Solution and implement the Finacle Origination Solution. The modernization is intended to strengthen the bank's digital foundation, improve operational resilience, scale lending for SMEs and retail customers, and enable integration with fintech ecosystems through a comprehensive API suite. No deal value, duration, or financial impact was disclosed.",
   "key_facts": [
     {
-      "fact": "Infosys Finacle and Producers Savings Bank Corporation announced that the bank will upgrade to the latest version of the Finacle Core Banking Solution.",
+      "fact": "Infosys Finacle and Producers Savings Bank Corporation announced that Producers Bank will upgrade to the latest version of the Finacle Core Banking Solution.",
       "section_heading": "Infosys Finacle to Power Digital Transformation for Producers Savings Bank Corporation in the Philippines"
     },
     {
-      "fact": "Producers Savings Bank Corporation will implement the Finacle Origination Solution to grow its lending business for small and medium enterprises and retail customers.",
+      "fact": "Producers Bank will implement the Finacle Origination Solution to grow its lending business for small and medium enterprises and retail customers.",
       "section_heading": "Infosys Finacle to Power Digital Transformation for Producers Savings Bank Corporation in the Philippines"
     },
     {
-      "fact": "The upgraded Finacle platform includes a comprehensive API suite intended to help the bank integrate with the fintech ecosystem and roll out new offerings for underbanked and unbanked communities.",
+      "fact": "The upgraded Finacle platform includes a comprehensive API suite intended to help Producers Bank integrate with the fintech ecosystem and roll out new offerings for underbanked and unbanked communities.",
       "section_heading": "Key Highlights"
     },
     {
-      "fact": "The document states that Infosys Finacle and Producers Bank have had a decade-long association.",
-      "section_heading": "Infosys Finacle to Power Digital Transformation for Producers Savings Bank Corporation in the Philippines"
+      "fact": "The press release describes Infosys Finacle and Producers Bank as having a decade-long association.",
+      "section_heading": "Key Highlights"
     }
   ],
   "financial_metrics": {
@@ -57,22 +57,22 @@
       "name": "Finacle Core Banking Solution",
       "event_type": "upgraded",
       "description": "Producers Savings Bank Corporation will upgrade to the latest version of the Finacle Core Banking Solution.",
-      "target_market_or_use_case": "core banking modernization",
+      "target_market_or_use_case": "Core banking modernization for Producers Savings Bank Corporation in the Philippines",
       "section_heading": "Infosys Finacle to Power Digital Transformation for Producers Savings Bank Corporation in the Philippines"
     },
     {
       "name": "Finacle Origination Solution",
       "event_type": "implemented",
-      "description": "Producers Savings Bank Corporation will implement the Finacle Origination Solution to support digital loan management and scale lending operations.",
-      "target_market_or_use_case": "lending for small and medium enterprises and retail customers",
-      "section_heading": "Infosys Finacle to Power Digital Transformation for Producers Savings Bank Corporation in the Philippines"
+      "description": "Producers Savings Bank Corporation will implement the Finacle Origination Solution to scale lending operations through a fully digital loan management platform.",
+      "target_market_or_use_case": "Lending for small and medium enterprises, teachers, and retail customers",
+      "section_heading": "Key Highlights"
     }
   ],
   "important_text_spans": [
     {
-      "text": "the bank will modernize its technology landscape by upgrading to the latest version of the Finacle Core Banking Solution.",
+      "text": "Producers Savings Bank Corporation, a leading bank in the Philippines, today announced that the bank will modernize its technology landscape by upgrading to the latest version of the Finacle Core Banking Solution.",
       "section_heading": "Infosys Finacle to Power Digital Transformation for Producers Savings Bank Corporation in the Philippines",
-      "reason": "Supports the core banking modernization disclosure."
+      "reason": "Supports the core banking modernization deal with Producers Bank."
     },
     {
       "text": "The bank will also implement the Finacle Origination Solution to rapidly grow its lending business for small and medium enterprises (SMEs) and retail customers.",
@@ -82,18 +82,25 @@
     {
       "text": "The upgraded Finacle platform comes with a comprehensive API suite which will help the bank integrate seamlessly with the fintech ecosystem",
       "section_heading": "Key Highlights",
-      "reason": "Supports the stated platform capability and digital ecosystem integration."
+      "reason": "Supports the stated strategic technology benefit of the upgrade."
     }
   ],
   "search_keywords": [
     "Infosys Finacle",
     "Producers Savings Bank Corporation",
+    "Producers Bank",
     "Finacle Core Banking Solution",
     "Finacle Origination Solution",
     "Philippines banking",
     "SME lending",
-    "digital banking transformation",
     "EdgeVerve Systems"
   ],
-  "processing_notes": "No contract value, duration, financial impact, or implementation timeline was disclosed."
+  "sample_questions": [
+    "What did Infosys Finacle announce with Producers Savings Bank Corporation in March 2026?",
+    "Which Infosys Finacle products will Producers Bank use for its digital transformation?",
+    "Was a deal value disclosed for the Infosys Finacle agreement with Producers Bank?",
+    "How is the Finacle Origination Solution expected to help Producers Bank's lending business?",
+    "What strategic benefits did Infosys say the upgraded Finacle platform would provide Producers Bank?"
+  ],
+  "processing_notes": "No deal value, duration, revenue impact, or financial metrics were disclosed. Generic company descriptions and safe harbor language were excluded."
 }

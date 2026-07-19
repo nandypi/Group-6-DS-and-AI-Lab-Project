@@ -1,27 +1,27 @@
 {
   "document_name": "Infosys_29102025152914_PR_29102025.md",
   "is_material": true,
-  "title": "Infosys Extends Strategic Collaboration with Metro Bank to Transform Finance Operations with Workday",
-  "detailed_summary": "Infosys announced a strategic collaboration with Metro Bank and Workday to modernize Metro Bank's finance operations. Infosys and Workday will support Metro Bank's transition from legacy systems to a unified, cloud-native platform by implementing Workday Financial Management, Workday Accounting Center, Workday Spend Management, and Workday Prism Analytics. The stated business impact includes streamlining business processes, centralizing financial data, automating key functions, enabling agile decision-making, supporting future growth, accelerating financial closing and reporting, and strengthening governance and risk management through enhanced controls and audit trails. No deal value, contract duration, or financial impact for Infosys was disclosed.",
+  "title": "Infosys Extends Strategic Collaboration with Metro Bank to Modernize Finance Operations Using Workday",
+  "detailed_summary": "Infosys announced a strategic collaboration with Metro Bank and Workday to modernize Metro Bank's finance operations. Infosys and Workday will help Metro Bank move from legacy systems to a unified, cloud-native platform using Workday Financial Management, Workday Accounting Center, Workday Spend Management, and Workday Prism Analytics. The document states the program is intended to streamline business processes, centralize financial data, automate key functions, improve decision-making, support future growth, accelerate financial closing and reporting, and strengthen governance and risk management through enhanced controls and audit trails. No contract value, duration, or revenue impact was disclosed.",
   "key_facts": [
     {
       "fact": "Infosys announced a strategic collaboration with Metro Bank and Workday to modernize Metro Bank's finance operations.",
       "section_heading": "PRESS RELEASE Infosys Extends Strategic Collaboration with Metro Bank to Transform"
     },
     {
-      "fact": "Infosys and Workday will support Metro Bank to transition from legacy systems to a unified, cloud-native platform by implementing a suite of Workday solutions.",
+      "fact": "Infosys and Workday will support Metro Bank in transitioning from legacy systems to a unified, cloud-native platform.",
       "section_heading": "PRESS RELEASE Infosys Extends Strategic Collaboration with Metro Bank to Transform"
     },
     {
-      "fact": "The Workday solutions identified in the release are Workday Financial Management, Workday Accounting Center, Workday Spend Management, and Workday Prism Analytics.",
+      "fact": "The Workday solutions being implemented include Workday Financial Management, Workday Accounting Center, Workday Spend Management, and Workday Prism Analytics.",
       "section_heading": "PRESS RELEASE Infosys Extends Strategic Collaboration with Metro Bank to Transform"
     },
     {
-      "fact": "The modernization is intended to streamline business processes, centralize financial data, automate key functions, allow agile decision-making, support future growth, and accelerate financial closing and reporting.",
+      "fact": "The transformation is intended to streamline business processes, centralize financial data, automate key functions, accelerate financial closing and reporting, and strengthen governance and risk management.",
       "section_heading": "PRESS RELEASE Infosys Extends Strategic Collaboration with Metro Bank to Transform"
     },
     {
-      "fact": "The release states that the modernization will help strengthen governance and risk management through enhanced controls and audit trails.",
+      "fact": "No contract value, duration, or expected financial contribution to Infosys was disclosed.",
       "section_heading": "PRESS RELEASE Infosys Extends Strategic Collaboration with Metro Bank to Transform"
     }
   ],
@@ -45,8 +45,8 @@
   "partnerships_or_deals": [
     {
       "deal_type": "strategic collaboration",
-      "counterparty": "Metro Bank",
-      "description": "Infosys extended its strategic collaboration with Metro Bank, working with Workday to modernize Metro Bank's finance operations and transition the bank from legacy systems to a unified, cloud-native platform using Workday solutions.",
+      "counterparty": "Metro Bank and Workday",
+      "description": "Infosys extended its strategic collaboration with Metro Bank and Workday to transform Metro Bank's finance operations by implementing Workday solutions and moving from legacy systems to a unified, cloud-native platform.",
       "value": null,
       "duration": null,
       "section_heading": "PRESS RELEASE Infosys Extends Strategic Collaboration with Metro Bank to Transform"
@@ -61,28 +61,35 @@
     {
       "text": "Infosys (NSE, BSE, NYSE: INFY), a global leader in next-generation digital services and consulting, today announced a strategic collaboration with Metro Bank an independent UK bank, and Workday (NASDAQ: WDAY), the AI platform for managing people, money, and agents, to modernize Metro Bank's finance operations.",
       "section_heading": "PRESS RELEASE Infosys Extends Strategic Collaboration with Metro Bank to Transform",
-      "reason": "Supports the main event, parties involved, and purpose of the collaboration."
+      "reason": "Supports the main event, counterparties, and business objective."
     },
     {
-      "text": "By implementing a suite of Workday solutions, including Workday Financial Management, Workday Accounting Center, Workday Spend Management, and Workday Prism Analytics Infosys will support Metro Bank to streamline business processes, centralize financial data, and automate key functions.",
+      "text": "Infosys and Workday will support Metro Bank to transition from legacy systems to a unified, cloud-native platform by implementing a suite of Workday solutions.",
       "section_heading": "PRESS RELEASE Infosys Extends Strategic Collaboration with Metro Bank to Transform",
-      "reason": "Identifies the implemented solutions and stated operational benefits."
+      "reason": "Identifies the transformation scope and cloud modernization component."
     },
     {
-      "text": "This modernization will allow for agile decision-making and support the bank's future growth, while accelerating financial closing and reporting.",
+      "text": "By  implementing  a  suite  of  Workday  solutions,  including  Workday  Financial  Management,  Workday Accounting Center, Workday Spend Management, and Workday Prism Analytics Infosys will support Metro Bank  to  streamline  business  processes,  centralize  financial  data,  and  automate  key  functions.",
       "section_heading": "PRESS RELEASE Infosys Extends Strategic Collaboration with Metro Bank to Transform",
-      "reason": "Supports the stated business impact of the transformation."
+      "reason": "Lists the specific Workday solutions and expected operational benefits."
     }
   ],
   "search_keywords": [
     "Metro Bank",
     "Workday",
-    "finance operations modernization",
     "Workday Financial Management",
     "Workday Accounting Center",
     "Workday Spend Management",
     "Workday Prism Analytics",
+    "finance operations modernization",
     "cloud-native platform"
   ],
-  "processing_notes": "No deal value, duration, or Infosys financial impact was disclosed. Generic company background and safe harbor language were excluded."
+  "sample_questions": [
+    "What did Infosys announce with Metro Bank and Workday on October 29, 2025?",
+    "Which Workday solutions will Infosys help implement for Metro Bank?",
+    "What business processes is Infosys expected to modernize for Metro Bank?",
+    "Did Infosys disclose the value or duration of the Metro Bank Workday collaboration?",
+    "How is the Metro Bank collaboration relevant to Infosys's banking and financial services business?"
+  ],
+  "processing_notes": "Generic Infosys and Workday company background, safe harbor language, signatory details, exchange submission wrapper, and media contact information were excluded. No contract value, duration, or Infosys financial impact was disclosed."
 }

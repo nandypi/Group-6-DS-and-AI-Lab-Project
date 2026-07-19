@@ -1,15 +1,15 @@
 {
   "document_name": "Infosys_02012026090317_letter_January022026.md",
   "is_material": false,
-  "title": "Infosys Receives Tax Penalty Demand of INR 40,72,525",
-  "detailed_summary": "Infosys disclosed receipt of communication for collection of a penalty from the Deputy Commissioner of Commercial Taxes. The total penalty is INR 40,72,525/- and relates to an alleged mismatch in credit notes declared in GSTR-1 versus GSTR-9 for F.Y. 2018-19. Infosys stated there is no material impact on its financials, operations, or other activities.",
+  "title": "Infosys Receives INR 40,72,525 Penalty Demand Related to GST Turnover Declaration Mismatch",
+  "detailed_summary": "Infosys received communication from the Deputy Commissioner of Commercial Taxes for collection of a penalty totaling INR 40,72,525. The demand relates to an alleged under declaration of turnover due to a mismatch in credit notes declared in GSTR-1 versus GSTR-9 for F.Y. 2018-19. Infosys stated there is no material impact on its financials, operations, or other activities.",
   "key_facts": [
     {
       "fact": "Infosys received communication for collection of a total penalty of INR 40,72,525/- from the Deputy Commissioner of Commercial Taxes.",
       "section_heading": "Sub:  Company Statement"
     },
     {
-      "fact": "The demand was alleged under declaration of turnover due to mis-match in credit notes declared in GSTR-1 vs GSTR-9 for the F.Y. 2018-19.",
+      "fact": "The demand was issued for alleged under declaration of turnover due to a mismatch in credit notes declared in GSTR-1 vs GSTR-9 for the F.Y. 2018-19.",
       "section_heading": "Sub:  Company Statement"
     },
     {
@@ -40,7 +40,7 @@
     {
       "matter_type": "penalty",
       "authority_or_counterparty": "Deputy Commissioner of Commercial Taxes",
-      "description": "Orders passed/ action taken for alleged under declaration of turnover due to mis-match in credit notes declared in GSTR-1 vs GSTR-9 for the F.Y. 2018-19.",
+      "description": "Penalty demand issued for alleged under declaration of turnover due to mismatch in credit notes declared in GSTR-1 vs GSTR-9 for the F.Y. 2018-19.",
       "amount": "INR 40,72,525/-",
       "status": "Orders passed/ action taken.",
       "section_heading": "Sub:  Company Statement"
@@ -53,20 +53,26 @@
     {
       "text": "Total Penalty - INR 40,72,525/-",
       "section_heading": "Sub:  Company Statement",
-      "reason": "Supports the amount of the penalty disclosed by Infosys."
+      "reason": "Supports the amount of the penalty demand."
     },
     {
       "text": "None, there is no material impact on financials, operations or other activities of the Company.",
       "section_heading": "Sub:  Company Statement",
-      "reason": "Supports the company’s stated impact assessment."
+      "reason": "Supports Infosys's stated assessment of business and financial impact."
     }
   ],
   "search_keywords": [
     "Deputy Commissioner of Commercial Taxes",
-    "INR 40,72,525/- penalty",
+    "INR 40,72,525 penalty",
     "GSTR-1 vs GSTR-9",
     "credit notes mismatch",
-    "F.Y. 2018-19"
+    "F.Y. 2018-19",
+    "under declaration of turnover"
   ],
-  "processing_notes": "Marked non-material because the disclosed penalty is small relative to Infosys and the company explicitly stated there is no material impact on financials, operations, or other activities."
+  "sample_questions": [
+    "What was the INR 40,72,525 penalty demand received by Infosys about?",
+    "Did Infosys state any material financial or operational impact from the January 2026 tax penalty demand?",
+    "Which authority issued the penalty demand to Infosys related to GSTR-1 and GSTR-9 mismatch?"
+  ],
+  "processing_notes": ""
 }

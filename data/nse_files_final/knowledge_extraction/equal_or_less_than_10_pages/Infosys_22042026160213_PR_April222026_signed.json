@@ -1,15 +1,15 @@
 {
   "document_name": "Infosys_22042026160213_PR_April222026_signed.md",
   "is_material": true,
-  "title": "Infosys announces strategic collaboration with OpenAI for enterprise AI transformation",
-  "detailed_summary": "Infosys announced a strategic collaboration with OpenAI to help enterprises transform software development and modernization using OpenAI frontier AI models and products including Codex. Infosys will combine OpenAI technology with Infosys Topaz Fabric to support practical, responsible deployment and measurable business outcomes. The collaboration initially focuses on software engineering, legacy modernization, DevOps automation, e-commerce, and other engineering-led domains, with the stated aim of improving engineering productivity, accelerating delivery, reducing time-to-market, and helping customers scale AI adoption beyond pilots.",
+  "title": "Infosys Announces Strategic Collaboration with OpenAI for Enterprise AI Transformation",
+  "detailed_summary": "Infosys announced a strategic collaboration with OpenAI on April 22, 2026 to help enterprises transform software development and modernization using OpenAI frontier AI models and products such as Codex. Infosys will combine OpenAI technology with Infosys Topaz Fabric, its composable agentic services suite, to support responsible deployment and measurable business outcomes. The collaboration initially focuses on software engineering, legacy modernization, DevOps automation, e-commerce, and engineering-led domains, with stated objectives including improved engineering productivity, accelerated delivery, reduced time-to-market, and scaled enterprise adoption of agentic AI.",
   "key_facts": [
     {
       "fact": "Infosys announced a strategic collaboration with OpenAI to help enterprises transform software development and modernization with OpenAI's frontier AI models and products like Codex.",
       "section_heading": "Infosys Announces Strategic Collaboration with OpenAI to Accelerate Enterprise AI Transformation and Unlock AI Value at Scale"
     },
     {
-      "fact": "Infosys will combine OpenAI's technology with Infosys Topaz Fabric, described as its purpose-built, composable and open agentic services suite.",
+      "fact": "Infosys will combine OpenAI's technology with Infosys Topaz Fabric, described as a purpose-built, composable and open agentic services suite.",
       "section_heading": "Infosys Announces Strategic Collaboration with OpenAI to Accelerate Enterprise AI Transformation and Unlock AI Value at Scale"
     },
     {
@@ -17,15 +17,15 @@
       "section_heading": "Infosys Announces Strategic Collaboration with OpenAI to Accelerate Enterprise AI Transformation and Unlock AI Value at Scale"
     },
     {
-      "fact": "The engagement spans high-impact industry and functional opportunities, with an early focus on software engineering, legacy modernization, DevOps automation, e-commerce, and other engineering-led domains.",
+      "fact": "The engagement has an early focus on software engineering, legacy modernization, DevOps automation, e-commerce, and other engineering-led domains.",
+      "section_heading": "Infosys Announces Strategic Collaboration with OpenAI to Accelerate Enterprise AI Transformation and Unlock AI Value at Scale"
+    },
+    {
+      "fact": "The collaboration combines Codex, workflow automation, and prebuilt agents with Infosys' poly-AI architecture and enterprise governance.",
       "section_heading": "Infosys Announces Strategic Collaboration with OpenAI to Accelerate Enterprise AI Transformation and Unlock AI Value at Scale"
     },
     {
       "fact": "The collaboration is designed to help organizations modernize development workflows, improve engineering productivity, accelerate delivery, and reduce time-to-market.",
-      "section_heading": "Infosys Announces Strategic Collaboration with OpenAI to Accelerate Enterprise AI Transformation and Unlock AI Value at Scale"
-    },
-    {
-      "fact": "OpenAI stated that Infosys's expertise can help enterprises deploy Codex across legacy code modernization, code review automation, vulnerability detection, and application development.",
       "section_heading": "Infosys Announces Strategic Collaboration with OpenAI to Accelerate Enterprise AI Transformation and Unlock AI Value at Scale"
     }
   ],
@@ -50,7 +50,7 @@
     {
       "deal_type": "strategic collaboration",
       "counterparty": "OpenAI",
-      "description": "Infosys announced a strategic collaboration with OpenAI to help enterprises transform software development and modernization using OpenAI frontier AI models and products like Codex, combined with Infosys Topaz Fabric.",
+      "description": "Infosys announced a strategic collaboration with OpenAI to accelerate enterprise AI transformation, combining OpenAI's frontier AI models and products like Codex with Infosys Topaz Fabric for scaled enterprise deployment.",
       "value": null,
       "duration": null,
       "section_heading": "Infosys Announces Strategic Collaboration with OpenAI to Accelerate Enterprise AI Transformation and Unlock AI Value at Scale"
@@ -64,8 +64,8 @@
     {
       "name": "Infosys Topaz Fabric",
       "event_type": "integrated",
-      "description": "Infosys will combine OpenAI's technology with Infosys Topaz Fabric to help customers move from AI experimentation to practical, responsible deployment and measurable business outcomes.",
-      "target_market_or_use_case": "enterprise AI transformation, software development, modernization, DevOps automation, e-commerce, and engineering-led domains",
+      "description": "Infosys will combine OpenAI's technology with Infosys Topaz Fabric, its purpose-built, composable and open agentic services suite.",
+      "target_market_or_use_case": "Enterprise AI transformation, software development modernization, responsible AI deployment, and measurable business outcomes",
       "section_heading": "Infosys Announces Strategic Collaboration with OpenAI to Accelerate Enterprise AI Transformation and Unlock AI Value at Scale"
     }
   ],
@@ -73,20 +73,20 @@
     {
       "text": "Infosys (NSE, BSE, NYSE: INFY), a global leader in AI-first business consulting  and  technology  services,  today  announced  a  strategic  collaboration  with  OpenAI  to  help enterprises  transform  software  development  and  modernization  with  OpenAI's  frontier  AI  models  and products like Codex.",
       "section_heading": "Infosys Announces Strategic Collaboration with OpenAI to Accelerate Enterprise AI Transformation and Unlock AI Value at Scale",
-      "reason": "Supports the main strategic collaboration and its purpose."
+      "reason": "Supports the main strategic collaboration announcement and its core purpose."
     },
     {
       "text": "Through this collaboration, Infosys will combine OpenAI's technology with Infosys Topaz Fabric, its purpose-built, composable and open agentic services suite, to help customers move from AI experimentation to practical, responsible deployment and measurable business outcomes.",
       "section_heading": "Infosys Announces Strategic Collaboration with OpenAI to Accelerate Enterprise AI Transformation and Unlock AI Value at Scale",
-      "reason": "Shows how Infosys plans to use its own platform with OpenAI technology and the intended business outcome."
+      "reason": "Identifies Infosys's platform role and the intended customer outcome."
     },
     {
       "text": "The engagement spans high-impact industry and functional opportunities, with an early focus on software engineering, legacy modernization, DevOps automation, e-commerce, and other engineering-led domains.",
       "section_heading": "Infosys Announces Strategic Collaboration with OpenAI to Accelerate Enterprise AI Transformation and Unlock AI Value at Scale",
-      "reason": "Identifies the initial business areas targeted by the collaboration."
+      "reason": "Captures the initial business domains targeted by the collaboration."
     },
     {
-      "text": "the collaboration is  designed  to  help  organizations  modernize  development workflows, improve engineering productivity, accelerate delivery, and reduce time-to-market.",
+      "text": "By  combining  Codex,  workflow  automation,  and  prebuilt  agents  with  Infosys'  poly-AI  architecture  and enterprise  governance,  the  collaboration  is  designed  to  help  organizations  modernize  development workflows, improve engineering productivity, accelerate delivery, and reduce time-to-market.",
       "section_heading": "Infosys Announces Strategic Collaboration with OpenAI to Accelerate Enterprise AI Transformation and Unlock AI Value at Scale",
       "reason": "Supports the stated operational impact for enterprise customers."
     }
@@ -99,7 +99,15 @@
     "enterprise AI transformation",
     "legacy modernization",
     "DevOps automation",
-    "software engineering"
+    "poly-AI architecture"
   ],
-  "processing_notes": "No deal value, duration, financial impact, or customer commitments were disclosed. Generic Infosys company profile statistics and safe harbor risks were excluded."
+  "sample_questions": [
+    "What did Infosys announce with OpenAI on April 22, 2026?",
+    "How is Infosys using OpenAI's Codex in the strategic collaboration?",
+    "What is the role of Infosys Topaz Fabric in the OpenAI collaboration?",
+    "Which business areas are initially targeted by the Infosys and OpenAI collaboration?",
+    "What business outcomes does Infosys expect from combining Codex with its AI architecture and governance?",
+    "Did Infosys disclose any financial value or duration for the OpenAI collaboration?"
+  ],
+  "processing_notes": "No deal value, duration, financial metrics, or customer commitments were disclosed. Generic company profile details and safe harbor risk language were excluded."
 }

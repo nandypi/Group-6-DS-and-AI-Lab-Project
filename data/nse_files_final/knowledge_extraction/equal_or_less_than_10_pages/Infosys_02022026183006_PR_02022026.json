@@ -1,15 +1,15 @@
 {
   "document_name": "Infosys_02022026183006_PR_02022026.md",
   "is_material": false,
-  "title": "Infosys and Madison Square Garden Family of Companies Extend Digital Innovation Partnership",
-  "detailed_summary": "Infosys announced an extension and expansion of its multi-year digital innovation partnership with the Madison Square Garden Family of Companies. Infosys remains Official Digital Innovation Partner across key MSG properties, including the New York Knicks, New York Rangers, Madison Square Garden and MSG Networks, and the Theater at Madison Square Garden has been renamed the Infosys Theater at Madison Square Garden. No financial terms were disclosed.",
+  "title": "Infosys Renews and Expands Digital Innovation Partnership With MSG Family of Companies",
+  "detailed_summary": "Infosys announced an extension and expansion of its partnership with the Madison Square Garden Family of Companies. Infosys remains the Official Digital Innovation Partner across key MSG properties, including the New York Knicks, New York Rangers, Madison Square Garden and MSG Networks, and the Theater at Madison Square Garden has been renamed the Infosys Theater at Madison Square Garden.",
   "key_facts": [
     {
       "fact": "Infosys, Madison Square Garden Entertainment Corp., Madison Square Garden Sports Corp. and Sphere Entertainment Co. announced an extension of their partnership.",
       "section_heading": "PRESS RELEASE"
     },
     {
-      "fact": "Infosys remains the Official Digital Innovation Partner across key MSG Family of Companies properties, including the New York Knicks, New York Rangers, Madison Square Garden and MSG Networks.",
+      "fact": "Infosys continues as the Official Digital Innovation Partner across key MSG properties, including the New York Knicks, New York Rangers, Madison Square Garden and MSG Networks.",
       "section_heading": "PRESS RELEASE"
     },
     {
@@ -38,9 +38,9 @@
     {
       "deal_type": "digital innovation partnership",
       "counterparty": "Madison Square Garden Family of Companies",
-      "description": "Infosys extended and expanded its multi-year digital innovation partnership with the Madison Square Garden Family of Companies, including entitlement naming of the Infosys Theater at Madison Square Garden and continued fan-engagement initiatives for the New York Knicks and New York Rangers.",
+      "description": "Infosys renewed and expanded its partnership, remaining the Official Digital Innovation Partner across key MSG properties and becoming the entitlement partner of the Infosys Theater at Madison Square Garden.",
       "value": null,
-      "duration": "multi-year",
+      "duration": "Multi-Year",
       "section_heading": "PRESS RELEASE"
     }
   ],
@@ -51,9 +51,9 @@
   "products_or_platforms": [],
   "important_text_spans": [
     {
-      "text": "today announced an extension of their partnership.",
+      "text": "The extension reinforces Infosys' role as the Official Digital Innovation Partner across key properties within the MSG Family of Companies, including the New York Knicks, New York Rangers, Madison Square Garden and MSG Networks.",
       "section_heading": "PRESS RELEASE",
-      "reason": "Supports the partnership extension announcement."
+      "reason": "Supports the continued scope of the partnership."
     },
     {
       "text": "the Theater at Madison Square Garden has been renamed the Infosys Theater at Madison Square Garden.",
@@ -70,5 +70,10 @@
     "MSG Networks",
     "Infosys Topaz"
   ],
-  "processing_notes": "Classified as not material because the announcement is mainly a brand, sponsorship and fan-engagement partnership with no disclosed financial value or material operating impact."
+  "sample_questions": [
+    "What did Infosys announce with the Madison Square Garden Family of Companies in February 2026?",
+    "Which MSG properties are covered by Infosys's renewed digital innovation partnership?",
+    "Was any financial value disclosed for Infosys's expanded MSG partnership?"
+  ],
+  "processing_notes": "Marked non-material because the document is primarily a sponsorship and branding partnership announcement with no disclosed financial value, revenue impact, guidance, or material operating metrics."
 }

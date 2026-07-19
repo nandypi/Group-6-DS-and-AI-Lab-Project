@@ -1,31 +1,31 @@
 {
   "document_name": "Infosys_24062026172502_PR_24062026.md",
   "is_material": true,
-  "title": "Infosys collaborates with Sentara to scale enterprise AI adoption in healthcare services",
-  "detailed_summary": "Infosys announced a strategic collaboration with Sentara, a not-for-profit healthcare organization, to create a scalable foundation for AI-driven transformation across healthcare operations. Infosys will leverage Infosys Topaz Fabric, its purpose-built agentic services suite, to support AI strategy, road-mapping, reference architectures, AI-first SDLC modernization, governance, and scaling. The collaboration is intended to embed AI across core hospital and enterprise workflows, with stated focus areas including care management, employee productivity, digital front-office experiences, IT, hospital operations, and clinical support. No deal value, duration, revenue impact, or financial guidance was disclosed.",
+  "title": "Infosys Collaborates with Sentara to Scale Enterprise AI Adoption in Healthcare Services",
+  "detailed_summary": "Infosys announced a strategic collaboration with Sentara on June 24, 2026 to create a scalable foundation for AI-driven transformation in healthcare services. The collaboration uses Infosys Topaz Fabric to support AI strategy, reference architectures, AI-first SDLC modernization, governance and production scaling across hospital and enterprise workflows. The stated objectives include improving efficiency, supporting clinicians and staff, enhancing patient and member experiences, and delivering measurable value across clinical, operational and digital domains. No contract value, duration or financial impact was disclosed.",
   "key_facts": [
     {
       "fact": "Infosys announced a strategic collaboration with Sentara to create a scalable foundation for AI-driven transformation in healthcare services.",
       "section_heading": "Infosys Collaborates with Sentara to Unlock AI Value and Scale Enterprise AI Adoption in Healthcare Services"
     },
     {
-      "fact": "The collaboration aims to enhance efficiency, support clinicians and staff, and improve experiences for patients and members.",
+      "fact": "The collaboration focuses on improving efficiency across IT, hospital operations and clinical support.",
       "section_heading": "Infosys Collaborates with Sentara to Unlock AI Value and Scale Enterprise AI Adoption in Healthcare Services"
     },
     {
-      "fact": "Infosys is leveraging Infosys Topaz Fabric, described as a purpose-built agentic services suite, for the collaboration.",
+      "fact": "Infosys is leveraging Infosys Topaz Fabric, described as a purpose-built agentic services suite, as part of the collaboration.",
       "section_heading": "Infosys Collaborates with Sentara to Unlock AI Value and Scale Enterprise AI Adoption in Healthcare Services"
     },
     {
-      "fact": "The framework is intended to support AI strategy and road-mapping, reference architectures, AI-first SDLC modernization, and governance for scaling AI across core hospital and enterprise workflows.",
+      "fact": "The framework is intended to support AI strategy and road-mapping, reference architectures, AI-first SDLC modernization and governance for scaling AI across core hospital and enterprise workflows.",
       "section_heading": "Infosys Collaborates with Sentara to Unlock AI Value and Scale Enterprise AI Adoption in Healthcare Services"
     },
     {
-      "fact": "The collaboration focuses on AI use cases across care management, employee productivity, digital front-office experiences, IT, hospital operations, and clinical support.",
+      "fact": "The collaboration emphasizes responsible AI design, enterprise guardrails and operational readiness to move AI from experimentation to production across healthcare systems.",
       "section_heading": "Infosys Collaborates with Sentara to Unlock AI Value and Scale Enterprise AI Adoption in Healthcare Services"
     },
     {
-      "fact": "No financial value, contract duration, revenue impact, or margin impact was disclosed for the collaboration.",
+      "fact": "No financial value, contract duration or quantified revenue impact was disclosed for the collaboration.",
       "section_heading": "Infosys Collaborates with Sentara to Unlock AI Value and Scale Enterprise AI Adoption in Healthcare Services"
     }
   ],
@@ -50,7 +50,7 @@
     {
       "deal_type": "strategic collaboration",
       "counterparty": "Sentara",
-      "description": "Infosys and Sentara announced a collaboration to build a scalable foundation for AI-driven transformation in healthcare services, using Infosys Topaz Fabric to support responsible AI adoption across enterprise, hospital, operational, and clinical support workflows.",
+      "description": "Infosys and Sentara entered into a strategic collaboration to create a scalable foundation for AI-driven transformation in healthcare services, with focus areas across IT, hospital operations, clinical support, care management, employee productivity and digital front-office experiences.",
       "value": null,
       "duration": null,
       "section_heading": "Infosys Collaborates with Sentara to Unlock AI Value and Scale Enterprise AI Adoption in Healthcare Services"
@@ -60,12 +60,20 @@
   "litigation_or_regulatory_matters": [],
   "risk_factors": [],
   "esg_or_csr_items": [],
-  "products_or_platforms": [],
+  "products_or_platforms": [
+    {
+      "name": "Infosys Topaz Fabric",
+      "event_type": "used in strategic collaboration",
+      "description": "Infosys is leveraging Infosys Topaz Fabric, a purpose-built agentic services suite that unifies infrastructure, models, data, applications and workflows into a composable, agent-ready ecosystem.",
+      "target_market_or_use_case": "AI-driven transformation across healthcare services",
+      "section_heading": "Infosys Collaborates with Sentara to Unlock AI Value and Scale Enterprise AI Adoption in Healthcare Services"
+    }
+  ],
   "important_text_spans": [
     {
       "text": "Infosys (NSE, BSE, NYSE: INFY), a global leader in AI-first business consulting and technology services, today announced its strategic collaboration with Sentara",
       "section_heading": "Infosys Collaborates with Sentara to Unlock AI Value and Scale Enterprise AI Adoption in Healthcare Services",
-      "reason": "Supports the existence and parties of the strategic collaboration."
+      "reason": "Supports the existence of the strategic collaboration and identifies the counterparty."
     },
     {
       "text": "Infosys is leveraging Infosys Topaz Fabric, a purpose-built agentic services suite",
@@ -73,9 +81,9 @@
       "reason": "Identifies the Infosys platform used in the collaboration."
     },
     {
-      "text": "This vision includes aligning AI initiatives to real-world healthcare priorities spanning care management, employee productivity and digital front-office experiences.",
+      "text": "The collaboration focuses on building trust in AI, enabling responsible adoption and delivering measurable value across clinical, operational and digital domains.",
       "section_heading": "Infosys Collaborates with Sentara to Unlock AI Value and Scale Enterprise AI Adoption in Healthcare Services",
-      "reason": "Shows the stated business use cases for the collaboration."
+      "reason": "Captures the stated strategic and operational objective of the collaboration."
     }
   ],
   "search_keywords": [
@@ -83,9 +91,18 @@
     "Infosys Topaz Fabric",
     "enterprise AI adoption",
     "healthcare services",
+    "agentic services suite",
     "AI-first SDLC modernization",
-    "care management",
+    "responsible AI",
     "clinical support"
   ],
-  "processing_notes": "The document discloses no deal value, duration, revenue impact, margin impact, or financial guidance. Generic About Infosys and About Sentara background, safe harbor language, and media contacts were excluded."
+  "sample_questions": [
+    "What did Infosys announce with Sentara on June 24, 2026?",
+    "What is the strategic purpose of the Infosys and Sentara collaboration?",
+    "Did Infosys disclose the financial value or duration of the Sentara collaboration?",
+    "How is Infosys Topaz Fabric being used in the Sentara collaboration?",
+    "Which healthcare workflows are targeted by Infosys's AI collaboration with Sentara?",
+    "What business impact does Infosys expect from the Sentara AI collaboration?"
+  ],
+  "processing_notes": "Excluded Sentara background statistics and generic Infosys boilerplate. The document does not disclose contract value, duration, revenue impact or quantified financial metrics."
 }

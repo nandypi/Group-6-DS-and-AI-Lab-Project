@@ -1,23 +1,23 @@
 {
   "document_name": "Infosys_16062026152949_PR_16062026.md",
   "is_material": true,
-  "title": "Infosys announces long-term IT transformation collaboration with Valmet",
-  "detailed_summary": "Infosys announced a strategic, long-term collaboration with Valmet to modernize Valmet's core IT services and deliver end-to-end IT transformation. The engagement is intended to improve operational efficiency, reduce operational costs, optimize resources, enable proactive enterprise-wide IT operations, and align IT operations with Valmet's business priorities and Lead the Way strategy. Infosys will use Infosys Topaz Fabric and Infosys Cobalt to support AI-led IT operations, cloud modernization, resiliency, and long-term business agility. No contract value or financial terms were disclosed.",
+  "title": "Infosys Announces Long-Term IT Transformation Collaboration with Valmet",
+  "detailed_summary": "Infosys announced a strategic, long-term collaboration with Valmet on June 16, 2026 to modernize Valmet's core IT services and deliver end-to-end IT transformation. The engagement is intended to improve operational efficiency, reduce operational costs, optimize existing resources, and better align IT operations with Valmet's business priorities and Lead the Way strategy. Infosys will use Infosys Topaz Fabric to embed AI-driven intelligence across IT operations with a human-in-the-loop approach, and Infosys Cobalt to establish scalable, secure cloud foundations for IT modernization. No deal value or financial impact was disclosed.",
   "key_facts": [
     {
-      "fact": "Infosys announced a strategic, long-term collaboration with Valmet, a global technology leader serving process industries.",
+      "fact": "Infosys announced a strategic, long-term collaboration with Valmet to modernize Valmet's core IT services and deliver end-to-end IT transformation.",
       "section_heading": "Infosys Collaborates with Valmet to Reimagine IT Operations with AI Accelerated Transformation"
     },
     {
-      "fact": "Infosys will modernize Valmet's core IT services and deliver end-to-end IT transformation to enhance operational efficiency and align IT operations with business priorities.",
+      "fact": "The collaboration aims to enhance operational efficiency and enable closer alignment between IT operations and business priorities.",
       "section_heading": "Infosys Collaborates with Valmet to Reimagine IT Operations with AI Accelerated Transformation"
     },
     {
-      "fact": "The collaboration includes reducing operational costs, optimizing existing resources, and enabling proactive management of enterprise-wide IT operations.",
+      "fact": "Infosys will support Valmet's Lead the Way strategy by helping reduce operational costs, optimize existing resources, and enable proactive management of enterprise-wide IT operations.",
       "section_heading": "Infosys Collaborates with Valmet to Reimagine IT Operations with AI Accelerated Transformation"
     },
     {
-      "fact": "Infosys will leverage Infosys Topaz Fabric, described as a purpose-built, composable and open agentic services suite, to embed intelligence across IT operations.",
+      "fact": "Infosys will leverage Infosys Topaz Fabric to embed intelligence across IT operations using a human-in-the-loop approach for governance, transparency, and accuracy.",
       "section_heading": "Infosys Collaborates with Valmet to Reimagine IT Operations with AI Accelerated Transformation"
     },
     {
@@ -25,7 +25,7 @@
       "section_heading": "Infosys Collaborates with Valmet to Reimagine IT Operations with AI Accelerated Transformation"
     },
     {
-      "fact": "No contract value or financial terms were disclosed.",
+      "fact": "The document does not disclose the contract value or financial terms of the Valmet collaboration.",
       "section_heading": "Infosys Collaborates with Valmet to Reimagine IT Operations with AI Accelerated Transformation"
     }
   ],
@@ -48,9 +48,9 @@
   "corporate_actions": [],
   "partnerships_or_deals": [
     {
-      "deal_type": "strategic collaboration",
+      "deal_type": "client contract",
       "counterparty": "Valmet",
-      "description": "Infosys will modernize Valmet's core IT services and deliver end-to-end IT transformation to enhance operational efficiency, reduce operational costs, optimize resources, and support a resilient, business-aligned IT foundation.",
+      "description": "Infosys entered a strategic, long-term collaboration with Valmet to modernize core IT services and deliver end-to-end IT transformation, including AI-enabled IT operations and cloud modernization.",
       "value": null,
       "duration": "long-term",
       "section_heading": "Infosys Collaborates with Valmet to Reimagine IT Operations with AI Accelerated Transformation"
@@ -60,32 +60,60 @@
   "litigation_or_regulatory_matters": [],
   "risk_factors": [],
   "esg_or_csr_items": [],
-  "products_or_platforms": [],
+  "products_or_platforms": [
+    {
+      "name": "Infosys Topaz Fabric",
+      "event_type": "deployed",
+      "description": "Infosys will use Infosys Topaz Fabric, described as a purpose-built, composable and open agentic services suite, to embed intelligence across Valmet's IT operations.",
+      "target_market_or_use_case": "AI-enabled IT operations transformation",
+      "section_heading": "Infosys Collaborates with Valmet to Reimagine IT Operations with AI Accelerated Transformation"
+    },
+    {
+      "name": "Infosys Cobalt",
+      "event_type": "deployed",
+      "description": "Infosys will use Infosys Cobalt to establish scalable, secure, and future-ready cloud foundations for IT modernization.",
+      "target_market_or_use_case": "cloud modernization",
+      "section_heading": "Infosys Collaborates with Valmet to Reimagine IT Operations with AI Accelerated Transformation"
+    }
+  ],
   "important_text_spans": [
     {
       "text": "Infosys will modernize Valmet's core IT services and deliver end-to-end IT transformation to enhance operational efficiency and enable closer alignment between IT operations and business priorities.",
       "section_heading": "Infosys Collaborates with Valmet to Reimagine IT Operations with AI Accelerated Transformation",
-      "reason": "Supports the scope and purpose of the collaboration."
+      "reason": "Supports the nature and intended business impact of the Valmet collaboration."
     },
     {
       "text": "This includes reducing operational costs, optimizing existing resources, and enabling proactive management of enterprise-wide IT operations",
       "section_heading": "Infosys Collaborates with Valmet to Reimagine IT Operations with AI Accelerated Transformation",
-      "reason": "Supports the stated operational benefits of the engagement."
+      "reason": "Identifies the operational benefits targeted by the engagement."
     },
     {
       "text": "Infosys will leverage Infosys Topaz Fabric, a purpose-built, composable and open agentic services suite, to embed intelligence across IT operations.",
       "section_heading": "Infosys Collaborates with Valmet to Reimagine IT Operations with AI Accelerated Transformation",
-      "reason": "Supports the role of Infosys Topaz Fabric in the engagement."
+      "reason": "Shows the Infosys AI platform involved in the transformation deal."
+    },
+    {
+      "text": "Infosys will also leverage Infosys Cobalt, a set of services, solutions, and platforms for enterprises to accelerate their cloud journey",
+      "section_heading": "Infosys Collaborates with Valmet to Reimagine IT Operations with AI Accelerated Transformation",
+      "reason": "Shows the Infosys cloud offering involved in the engagement."
     }
   ],
   "search_keywords": [
     "Valmet",
     "Infosys Topaz Fabric",
     "Infosys Cobalt",
-    "IT transformation",
     "AI-first operating model",
+    "IT transformation",
     "cloud modernization",
     "Lead the Way strategy"
   ],
-  "processing_notes": "Valmet's net sales and workforce figures were excluded because they are third-party background in the About Valmet section, not financial metrics of Infosys or disclosed deal value."
+  "sample_questions": [
+    "What did Infosys announce with Valmet on June 16, 2026?",
+    "What services will Infosys provide to Valmet under the long-term collaboration?",
+    "Did Infosys disclose the value of the Valmet IT transformation deal?",
+    "How will Infosys Topaz Fabric be used in the Valmet collaboration?",
+    "How does Infosys Cobalt fit into the Valmet engagement?",
+    "What operational benefits does Valmet expect from its collaboration with Infosys?"
+  ],
+  "processing_notes": "Valmet's 2025 net sales and company background were excluded because they are third-party boilerplate context and not necessary to understand the Infosys event. Generic Infosys profile statistics and safe harbor risks were also excluded."
 }

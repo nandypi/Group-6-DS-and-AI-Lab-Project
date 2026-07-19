@@ -1,15 +1,23 @@
 {
   "document_name": "Infosys_30012026193927_SEfiling_Reg_30_30012026.md",
-  "is_material": false,
-  "title": "Infosys completes internal transfer of 90% shareholding in Infosys Consulting S.R.L., Argentina",
-  "detailed_summary": "Infosys Limited completed the transfer of 90% of its shareholding in Infosys Consulting S.R.L., Argentina, a majority owned subsidiary, to Infosys Nova Holdings LLC, a wholly owned subsidiary of the Company, on January 28, 2026. No transaction value, financial impact, strategic rationale, or change in ultimate ownership control was disclosed.",
+  "is_material": true,
+  "title": "Infosys completes transfer of 90% shareholding in Infosys Consulting S.R.L., Argentina",
+  "detailed_summary": "Infosys Limited completed the transfer of 90% of the shareholding held in Infosys Consulting S.R.L., Argentina, a majority owned subsidiary, to Infosys Nova Holdings LLC, a wholly owned subsidiary of Infosys, on January 28, 2026. The document does not disclose transaction value, financial impact, strategic rationale, or any change in ultimate Infosys control.",
   "key_facts": [
     {
-      "fact": "Infosys Limited completed transfer of 90% of the shareholding held in Infosys Consulting S.R.L., Argentina to Infosys Nova Holdings LLC on January 28, 2026.",
+      "fact": "Infosys Limited completed transfer of 90% of the shareholding held in Infosys Consulting S.R.L., Argentina.",
       "section_heading": null
     },
     {
-      "fact": "Infosys Consulting S.R.L., Argentina is described as a majority owned subsidiary, and Infosys Nova Holdings LLC is described as a wholly owned subsidiary of the Company.",
+      "fact": "Infosys Consulting S.R.L., Argentina is described as a majority owned subsidiary.",
+      "section_heading": null
+    },
+    {
+      "fact": "The shareholding was transferred to Infosys Nova Holdings LLC, a wholly owned subsidiary of the Company.",
+      "section_heading": null
+    },
+    {
+      "fact": "The transfer was completed on January 28, 2026.",
       "section_heading": null
     }
   ],
@@ -31,7 +39,7 @@
   },
   "corporate_actions": [
     {
-      "action_type": "internal shareholding transfer",
+      "action_type": "shareholding transfer",
       "description": "Infosys Limited completed transfer of 90% of the shareholding held in Infosys Consulting S.R.L., Argentina, a majority owned subsidiary, to Infosys Nova Holdings LLC, a wholly owned subsidiary of the Company.",
       "amount_or_ratio": "90%",
       "effective_date": "January 28, 2026",
@@ -48,14 +56,21 @@
     {
       "text": "Infosys Limited has completed transfer of 90% of the shareholding held in Infosys Consulting S.R.L., Argentina, a majority owned subsidiary,  to  Infosys  Nova  Holdings  LLC,  a  wholly  owned  subsidiary  of  the  Company  on January 28, 2026.",
       "section_heading": null,
-      "reason": "Supports the internal shareholding transfer, entities involved, percentage transferred, and completion date."
+      "reason": "Supports the completed internal shareholding transfer, percentage transferred, entities involved, and completion date."
     }
   ],
   "search_keywords": [
     "Infosys Consulting S.R.L. Argentina",
     "Infosys Nova Holdings LLC",
     "90% shareholding transfer",
-    "internal shareholding transfer"
+    "subsidiary restructuring"
   ],
-  "processing_notes": "Marked non-material because the document discloses an intra-group transfer with no transaction value, financial impact, strategic rationale, or change in ultimate Infosys control."
+  "sample_questions": [
+    "What shareholding transfer involving Infosys Consulting S.R.L., Argentina was completed in January 2026?",
+    "What percentage of Infosys Consulting S.R.L., Argentina was transferred?",
+    "Which Infosys subsidiary received the 90% shareholding in Infosys Consulting S.R.L., Argentina?",
+    "When did Infosys complete the transfer of shareholding in Infosys Consulting S.R.L., Argentina?",
+    "Did Infosys disclose any financial value or impact for the Infosys Consulting S.R.L., Argentina shareholding transfer?"
+  ],
+  "processing_notes": "The document discloses an internal subsidiary shareholding transfer but does not state transaction value, strategic rationale, or financial impact."
 }

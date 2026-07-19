@@ -1,31 +1,31 @@
 {
   "document_name": "Infosys_17112025151923_PR_17112025.md",
   "is_material": true,
-  "title": "Infosys launches AI-first GCC model for Global Capability Centers",
-  "detailed_summary": "Infosys unveiled its AI-First GCC Model, a specialized offering intended to accelerate the setup and transformation of Global Capability Centers into AI-powered innovation hubs. The offering combines Infosys Agentic Foundry, EdgeVerve AI Next, and Infosys Topaz™ to embed production-grade agentic AI across GCC operations from setup to scale. Infosys said the model builds on over 100 engagements with local GCC entities across industries, including GCC work for Lufthansa Systems, zooplus, and Danske Bank. The offering covers GCC lifecycle management, AI-led transformation, talent strategies, operational readiness, and operating models such as Build-Operate-Transfer, assisted GCC builds, joint ventures, and partner-hosted models.",
+  "title": "Infosys launches AI-first GCC Model for Global Capability Centers",
+  "detailed_summary": "Infosys unveiled its AI-First GCC Model, a specialized offering intended to accelerate the setup and transformation of Global Capability Centers into AI-powered innovation hubs. The offering combines Infosys Agentic Foundry, EdgeVerve AI Next, and Infosys Topaz to embed production-grade agentic AI across GCC operations. Infosys said the model builds on over 100 engagements with local GCC entities across industries, including work with Lufthansa Systems, zooplus, and Danske Bank, and supports GCC lifecycle needs including setup, talent strategy, operational readiness, and operating models such as Build-Operate-Transfer, assisted GCC builds, joint ventures, and partner-hosted models.",
   "key_facts": [
     {
-      "fact": "Infosys unveiled its AI-First GCC Model, a specialized offering that accelerates the setup and transformation of Global Capability Centers into AI-powered hubs for innovation and growth.",
+      "fact": "Infosys unveiled its AI-First GCC Model, a specialized offering to accelerate the setup and transformation of Global Capability Centers into AI-powered hubs for innovation and growth.",
       "section_heading": "Infosys Unveils AI-first GCC Model to Transform Global Capability Centers into Innovation Hubs"
     },
     {
-      "fact": "The offering leverages Infosys Agentic Foundry, EdgeVerve AI Next platform, and Infosys Topaz™ to embed production-grade agentic AI across GCC operations, from setup to scale.",
+      "fact": "The offering brings together Infosys Agentic Foundry, EdgeVerve AI Next, and Infosys Topaz™ to support AI-led transformation across the GCC lifecycle.",
       "section_heading": "Infosys Unveils AI-first GCC Model to Transform Global Capability Centers into Innovation Hubs"
     },
     {
-      "fact": "Infosys said the offering builds on a proven track-record of over 100 engagements with local GCC entities across industries.",
+      "fact": "Infosys said the new offering builds on over 100 engagements with local GCC entities across industries.",
       "section_heading": "Infosys Unveils AI-first GCC Model to Transform Global Capability Centers into Innovation Hubs"
     },
     {
-      "fact": "Infosys cited GCC work for enterprises such as Lufthansa Systems, zooplus, and Danske Bank.",
+      "fact": "Infosys cited enterprises such as Lufthansa Systems, zooplus, and Danske Bank as examples of GCC setup and management engagements.",
       "section_heading": "Infosys Unveils AI-first GCC Model to Transform Global Capability Centers into Innovation Hubs"
     },
     {
-      "fact": "The AI-first GCC Model provides an end-to-end path from comprehensive setup support to scalable talent strategies and operational readiness, while enabling AI-led transformation with production-grade agents and a unified platform fabric.",
+      "fact": "The model provides an end-to-end path from comprehensive setup support to scalable talent strategies and operational readiness.",
       "section_heading": "Infosys Unveils AI-first GCC Model to Transform Global Capability Centers into Innovation Hubs"
     },
     {
-      "fact": "Infosys said key capabilities include end-to-end setup and transformation, AI-powered innovation, future-ready talent, and right-fit operating models including Build-Operate-Transfer, assisted GCC builds, joint ventures, and partner-hosted models.",
+      "fact": "The offering includes operating model options such as Build-Operate-Transfer, assisted GCC builds, joint ventures, and partner-hosted models.",
       "section_heading": "Infosys Unveils AI-first GCC Model to Transform Global Capability Centers into Innovation Hubs"
     }
   ],
@@ -55,26 +55,33 @@
     {
       "name": "AI-First GCC Model",
       "event_type": "launched",
-      "description": "Infosys launched a specialized offering for setting up and transforming Global Capability Centers into AI-powered hubs, using Infosys Agentic Foundry, EdgeVerve AI Next, and Infosys Topaz™.",
+      "description": "Infosys launched a specialized offering that accelerates setup and transformation of Global Capability Centers into AI-powered hubs for innovation and growth.",
       "target_market_or_use_case": "Global Capability Centers",
+      "section_heading": "Infosys Unveils AI-first GCC Model to Transform Global Capability Centers into Innovation Hubs"
+    },
+    {
+      "name": "Infosys Agentic Foundry, EdgeVerve AI Next, and Infosys Topaz™",
+      "event_type": "integrated",
+      "description": "Infosys said its new GCC model brings together these platforms to build and scale production-grade AI agents, run applied and agentic AI at enterprise scale, and infuse AI-first services and solutions across the GCC lifecycle.",
+      "target_market_or_use_case": "AI-led transformation across GCC operations",
       "section_heading": "Infosys Unveils AI-first GCC Model to Transform Global Capability Centers into Innovation Hubs"
     }
   ],
   "important_text_spans": [
     {
-      "text": "Infosys (NSE, BSE, NYSE: INFY), a global leader in nextgeneration digital services and consulting, today unveiled its AI-First GCC Model, a specialized offering that accelerates the setup and transformation of Global Capability Centers (GCCs) into AI-powered hubs for innovation and growth.",
+      "text": "today unveiled its AI-First GCC Model, a specialized offering that accelerates the setup and transformation of Global Capability Centers (GCCs) into AI-powered hubs for innovation and growth.",
       "section_heading": "Infosys Unveils AI-first GCC Model to Transform Global Capability Centers into Innovation Hubs",
-      "reason": "Supports the main launch and target use case."
+      "reason": "Supports the main product and service offering launch."
     },
     {
-      "text": "Building on its proven track-record of over 100 engagements with local GCC entities across industries, including setting up and managing GCCs for enterprises such as Lufthansa Systems, zooplus, and Danske Bank",
+      "text": "Building on its proven track-record of over 100 engagements with local GCC entities across industries",
       "section_heading": "Infosys Unveils AI-first GCC Model to Transform Global Capability Centers into Innovation Hubs",
-      "reason": "Supports the scale of Infosys's existing GCC experience."
+      "reason": "Supports the disclosed scale of Infosys's GCC experience."
     },
     {
       "text": "Infosys' new GCC model brings together Infosys Agentic Foundry for building and scaling reliable production-grade AI agents, EdgeVerve AI Next as the unified platform to run applied and agentic AI at enterprise scale, and Infosys Topaz™",
       "section_heading": "Infosys Unveils AI-first GCC Model to Transform Global Capability Centers into Innovation Hubs",
-      "reason": "Identifies the core Infosys platforms used in the offering."
+      "reason": "Identifies the key Infosys platforms included in the offering."
     }
   ],
   "search_keywords": [
@@ -83,9 +90,17 @@
     "Infosys Agentic Foundry",
     "EdgeVerve AI Next",
     "Infosys Topaz",
+    "production-grade agentic AI",
     "Lufthansa Systems",
-    "zooplus",
     "Danske Bank"
   ],
-  "processing_notes": "No financial metrics, contract value, duration, guidance, or new client deal value was disclosed. Generic About Infosys and safe harbor content was excluded."
+  "sample_questions": [
+    "What did Infosys announce about its AI-First GCC Model in November 2025?",
+    "Which Infosys platforms are part of the AI-First GCC Model?",
+    "How many GCC engagements did Infosys say it has worked on?",
+    "Which clients did Infosys cite as examples of GCC setup or management engagements?",
+    "What operating models does Infosys offer under its AI-first GCC approach?",
+    "What strategic role does Infosys expect GCCs to play through the new AI-first model?"
+  ],
+  "processing_notes": "No financial metrics or contract values were disclosed. Client examples and quotes were treated as supporting context, not as newly announced material deals."
 }

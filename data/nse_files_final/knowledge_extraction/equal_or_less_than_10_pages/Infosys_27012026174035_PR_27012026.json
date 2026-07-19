@@ -2,7 +2,7 @@
   "document_name": "Infosys_27012026174035_PR_27012026.md",
   "is_material": true,
   "title": "Infosys and Cursor Announce Strategic Collaboration for AI-Assisted Software Engineering",
-  "detailed_summary": "Infosys announced a strategic collaboration with Cursor to accelerate enterprise adoption of AI-assisted software engineering. The companies will establish a Center of Excellence to support greenfield and brownfield engineering of complex enterprise systems and enable Infosys software engineers to use Cursor's enterprise-grade AI-assisted development capabilities. Infosys will integrate Cursor with Infosys Topaz Fabric to help clients build, modernize, and scale enterprise systems with higher velocity and quality. The CoE will also scale Cursor's AI software development capabilities across Infosys' global developer workforce, including enabling over 100,000 Infosys software engineers with agentic coding platforms.",
+  "detailed_summary": "Infosys announced a strategic collaboration with Cursor on January 27, 2026 to help global enterprises accelerate AI-assisted software engineering. The companies will establish a Center of Excellence to support enterprise adoption of software engineering agents for AI native products, using Cursor's enterprise-grade development capabilities across greenfield and brownfield opportunities. Infosys will integrate Cursor with Infosys Topaz Fabric to help clients build, modernize, and scale enterprise systems with increased velocity and higher quality. The CoE will also scale Cursor's AI software development capabilities across Infosys' global developer workforce and enable over 100,000 Infosys software engineers with agentic coding platforms. No deal value, duration, or financial guidance was disclosed.",
   "key_facts": [
     {
       "fact": "Infosys announced a strategic collaboration with Cursor to help enterprises worldwide accelerate their AI value journey.",
@@ -13,7 +13,7 @@
       "section_heading": "Infosys and Cursor announce Strategic Collaboration to Accelerate Software Engineering for Global Enterprises"
     },
     {
-      "fact": "The CoE will enable Infosys software engineers to leverage Cursor's enterprise-grade, AI-assisted development capabilities across greenfield and brownfield opportunities.",
+      "fact": "The CoE will enable Infosys software engineers to use Cursor's enterprise-grade, AI-assisted development capabilities across greenfield and brownfield opportunities.",
       "section_heading": "Infosys and Cursor announce Strategic Collaboration to Accelerate Software Engineering for Global Enterprises"
     },
     {
@@ -25,11 +25,7 @@
       "section_heading": "Infosys and Cursor announce Strategic Collaboration to Accelerate Software Engineering for Global Enterprises"
     },
     {
-      "fact": "The collaboration is expected to enable over 100,000 software engineers at Infosys with agentic coding platforms.",
-      "section_heading": "Infosys and Cursor announce Strategic Collaboration to Accelerate Software Engineering for Global Enterprises"
-    },
-    {
-      "fact": "Enterprises using Cursor have reported a 39 percent increase in shipped pull requests on average.",
+      "fact": "Cursor's CEO and Co-Founder said the collaboration will enable over 100,000 software engineers at Infosys with agentic coding platforms.",
       "section_heading": "Infosys and Cursor announce Strategic Collaboration to Accelerate Software Engineering for Global Enterprises"
     }
   ],
@@ -54,7 +50,7 @@
     {
       "deal_type": "strategic collaboration",
       "counterparty": "Cursor",
-      "description": "Infosys announced a strategic collaboration with Cursor to accelerate enterprise adoption of AI-assisted software engineering, establish a Center of Excellence, and integrate Cursor with Infosys Topaz Fabric TM for enterprise system modernization and AI native product development.",
+      "description": "Infosys and Cursor announced a strategic collaboration to establish a Center of Excellence for accelerating enterprise adoption of software engineering agents and AI-assisted development across greenfield and brownfield enterprise systems.",
       "value": null,
       "duration": null,
       "section_heading": "Infosys and Cursor announce Strategic Collaboration to Accelerate Software Engineering for Global Enterprises"
@@ -69,14 +65,7 @@
       "name": "Infosys Topaz Fabric TM",
       "event_type": "integrated",
       "description": "Infosys will integrate Cursor with Infosys Topaz Fabric TM, described as a purpose-built agentic services suite and multi-layer AI fabric that unifies infrastructure, models, data, applications, and workflows into a composable, agent-ready ecosystem.",
-      "target_market_or_use_case": "Build, modernize, and scale enterprise systems with increased velocity and higher quality.",
-      "section_heading": "Infosys and Cursor announce Strategic Collaboration to Accelerate Software Engineering for Global Enterprises"
-    },
-    {
-      "name": "Cursor Center of Excellence",
-      "event_type": "launched",
-      "description": "Infosys and Cursor will set up a Center of Excellence for greenfield and brownfield engineering of complex enterprise systems and for scaling Cursor's AI software development capabilities across Infosys' global developer workforce.",
-      "target_market_or_use_case": "Enterprise adoption of software engineering agents in the development of AI native products.",
+      "target_market_or_use_case": "Build, modernize, and scale enterprise systems with increased velocity and higher quality",
       "section_heading": "Infosys and Cursor announce Strategic Collaboration to Accelerate Software Engineering for Global Enterprises"
     }
   ],
@@ -84,38 +73,41 @@
     {
       "text": "today announced a strategic collaboration with Cursor, a leading AI-powered development platform, to help enterprises worldwide accelerate their AI value journey.",
       "section_heading": "Infosys and Cursor announce Strategic Collaboration to Accelerate Software Engineering for Global Enterprises",
-      "reason": "Supports the main strategic collaboration event."
+      "reason": "Supports the main strategic collaboration announcement."
     },
     {
       "text": "the companies will set up a Center of Excellence (CoE) to accelerate enterprise adoption of software engineering agents in the development of AI native products.",
       "section_heading": "Infosys and Cursor announce Strategic Collaboration to Accelerate Software Engineering for Global Enterprises",
-      "reason": "Supports the establishment and purpose of the CoE."
+      "reason": "Identifies the main initiative under the collaboration."
     },
     {
-      "text": "By integrating Cursor with Infosys Topaz Fabric TM , a purpose-built agentic services suite - a multi-layer AI fabric that unifies infrastructure, models, data, applications, and workflows into a composable, agent-ready ecosystem, Infosys will help clients to build, modernize, and scale enterprise systems with increased velocity and higher quality.",
+      "text": "By integrating Cursor with Infosys Topaz Fabric TM , a purpose-built agentic services suite",
       "section_heading": "Infosys and Cursor announce Strategic Collaboration to Accelerate Software Engineering for Global Enterprises",
-      "reason": "Supports the platform integration and intended client impact."
+      "reason": "Shows the Infosys platform involved in the collaboration."
     },
     {
-      "text": "we are excited to collaborate with Infosys as they enable over 100,000 software engineers at Infosys with agentic coding platforms",
+      "text": "enable over 100,000 software engineers at Infosys with agentic coding platforms",
       "section_heading": "Infosys and Cursor announce Strategic Collaboration to Accelerate Software Engineering for Global Enterprises",
-      "reason": "Supports the scale of internal developer enablement."
-    },
-    {
-      "text": "Enterprises using Cursor have reported a 39 percent increase in shipped pull requests on average",
-      "section_heading": "Infosys and Cursor announce Strategic Collaboration to Accelerate Software Engineering for Global Enterprises",
-      "reason": "Supports the quantitative operating-performance context cited for Cursor adoption."
+      "reason": "Provides the disclosed scale of internal developer enablement."
     }
   ],
   "search_keywords": [
     "Cursor",
-    "Cursor Center of Excellence",
-    "Infosys Topaz Fabric TM",
-    "AI-assisted development",
+    "strategic collaboration",
+    "Center of Excellence",
     "software engineering agents",
-    "agentic coding platforms",
     "AI native products",
-    "39 percent increase in shipped pull requests"
+    "Infosys Topaz Fabric",
+    "agentic coding platforms",
+    "AI-assisted development"
   ],
-  "processing_notes": "Generic Infosys company profile information and safe harbor risk language were excluded. The document contains no disclosed deal value, duration, financial guidance, or Infosys financial performance metrics."
+  "sample_questions": [
+    "What did Infosys announce with Cursor on January 27, 2026?",
+    "What is the purpose of the Infosys-Cursor Center of Excellence?",
+    "How will Infosys use Cursor with Infosys Topaz Fabric?",
+    "Did Infosys disclose any financial value or duration for the Cursor collaboration?",
+    "How many Infosys software engineers are expected to be enabled with agentic coding platforms under the Cursor collaboration?",
+    "What business impact does Infosys expect from the Cursor collaboration?"
+  ],
+  "processing_notes": "The document includes third-party performance statistics for Cursor users, but they were not treated as Infosys financial or operating metrics. Generic Infosys profile information and safe harbor risks were excluded."
 }

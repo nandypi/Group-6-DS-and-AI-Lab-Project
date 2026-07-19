@@ -2,7 +2,7 @@
   "document_name": "Infosys_10032026130708_PR_10032026.md",
   "is_material": false,
   "title": "Infosys Recognized as Leader and Star Performer in Everest Group Adobe Services Assessment 2025",
-  "detailed_summary": "Infosys announced that Everest Group recognized it as a Leader and Star Performer in the Adobe Services PEAK Matrix® Assessment 2025. The assessment covered 33 service providers and cited Infosys for growth in Adobe services revenue, client traction in North America and Europe, and delivery capability for large-scale Adobe programs.",
+  "detailed_summary": "Infosys announced that Everest Group recognized it as a Leader and Star Performer in the Adobe Services PEAK Matrix® Assessment 2025. The assessment evaluated 33 service providers, and Infosys was cited for growth in Adobe services revenue, client traction in North America and Europe, and ability to deliver large-scale Adobe programs.",
   "key_facts": [
     {
       "fact": "Infosys was recognized as a Leader and Star Performer in the Everest Group Adobe Services PEAK Matrix® Assessment 2025.",
@@ -13,7 +13,7 @@
       "section_heading": "PRESS RELEASE Infosys Positioned as a Leader and Star Performer in Everest Group's Adobe"
     },
     {
-      "fact": "Infosys demonstrated growth in Adobe services revenue and expanded client traction across North America and Europe.",
+      "fact": "Infosys demonstrated visible growth in Adobe services revenue and expanded client traction across North America and Europe.",
       "section_heading": "PRESS RELEASE Infosys Positioned as a Leader and Star Performer in Everest Group's Adobe"
     }
   ],
@@ -42,14 +42,14 @@
   "products_or_platforms": [],
   "important_text_spans": [
     {
-      "text": "Infosys (NSE, BSE, NYSE: INFY), a global leader in next-generation digital  services  and  consulting,  today  announced  that  it  has  been  recognized  as  a  Leader  and  Star Performer  in  the  Everest  Group  Adobe  Services  PEAK  Matrix®  Assessment  2025.",
+      "text": "recognized as a Leader and Star Performer in the Everest Group Adobe Services PEAK Matrix® Assessment 2025",
       "section_heading": "PRESS RELEASE Infosys Positioned as a Leader and Star Performer in Everest Group's Adobe",
-      "reason": "Supports the main recognition disclosed in the document."
+      "reason": "Supports the main recognition announced in the document."
     },
     {
-      "text": "Infosys demonstrated robust market adoption, with visible growth in Adobe services revenue and expanded client traction across North America and Europe.",
+      "text": "Everest Group evaluated 33 service providers across their Adobe services end-to-end adoption journey.",
       "section_heading": "PRESS RELEASE Infosys Positioned as a Leader and Star Performer in Everest Group's Adobe",
-      "reason": "Supports the business context behind the recognition."
+      "reason": "Shows the scope of the third-party assessment."
     }
   ],
   "search_keywords": [
@@ -61,5 +61,10 @@
     "North America",
     "Europe"
   ],
-  "processing_notes": "Marked non-material because the document is primarily an analyst recognition announcement, with no disclosed contract value, guidance, financial results, transaction, or governance change. Infosys Aster and Adobe collaboration were treated as context rather than a distinct product launch or material partnership disclosure."
+  "sample_questions": [
+    "What recognition did Infosys receive in the Everest Group Adobe Services PEAK Matrix Assessment 2025?",
+    "How many service providers were evaluated in the Everest Group Adobe Services PEAK Matrix Assessment 2025?",
+    "What strengths did Everest Group cite for Infosys in Adobe services?"
+  ],
+  "processing_notes": "Marked non-material because the document is primarily an award or recognition announcement, with no disclosed financial value, contract, guidance, leadership change, regulatory matter, or corporate action. Infosys Aster and Adobe collaboration details were treated as supporting context rather than a distinct material product launch or deal."
 }

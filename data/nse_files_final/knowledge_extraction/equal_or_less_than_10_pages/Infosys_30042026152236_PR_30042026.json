@@ -1,16 +1,16 @@
 {
   "document_name": "Infosys_30042026152236_PR_30042026.md",
   "is_material": false,
-  "title": "Infosys Recognized by Whitelane Research for IT Services in European and Nordic Financial Services",
-  "detailed_summary": "Infosys announced Whitelane Research rankings recognizing it as the number one IT services provider for Banking in Europe and Financial Services in the Nordics. The release also states Infosys was a top three “Exceptional Performer” in Financial Services - Overall and Cloud & Infrastructure Services in Europe. The document is primarily an awards and recognition announcement.",
+  "title": "Infosys Ranked Number One IT Services Provider for Banking in Europe and Financial Services in Nordics by Whitelane Research",
+  "detailed_summary": "Infosys announced Whitelane Research recognitions in European and Nordic financial services IT sourcing studies. It was ranked number one for Financial Services - Banking in Europe and Financial Services in the Nordics, and named a top three Exceptional Performer in Financial Services - Overall and Cloud & Infrastructure Services in Europe.",
   "key_facts": [
     {
       "fact": "Infosys was ranked as number one IT services provider for 'Financial Services - Banking' in the 'Whitelane Research IT Sourcing Study 2025/2026 Financial Services Europe'.",
-      "section_heading": "PRESS RELEASE"
+      "section_heading": "Infosys Ranked as Number One IT Services Provider for Banking in Europe and Financial Services in Nordics by Whitelane Research"
     },
     {
       "fact": "Infosys was ranked as the number one IT services provider for Financial Services in the Nordics by 'Whitelane Research IT Sourcing Study 2026'.",
-      "section_heading": "PRESS RELEASE"
+      "section_heading": "Infosys Ranked as Number One IT Services Provider for Banking in Europe and Financial Services in Nordics by Whitelane Research"
     },
     {
       "fact": "Infosys achieved a score of 83% in general satisfaction among IT service providers serving the European Banking industry, an improvement of three percentage points over 2024/2025.",
@@ -43,24 +43,29 @@
   "important_text_spans": [
     {
       "text": "ranked as number one IT services provider for 'Financial Services - Banking' in the 'Whitelane Research IT Sourcing Study 2025/2026 Financial Services Europe'",
-      "section_heading": "PRESS RELEASE",
+      "section_heading": "Infosys Ranked as Number One IT Services Provider for Banking in Europe and Financial Services in Nordics by Whitelane Research",
       "reason": "Supports the main recognition in European banking IT services."
     },
     {
-      "text": "Infosys achieved a score of 83% in general satisfaction among IT service providers serving the European Banking industry",
+      "text": "Infosys achieved a score of 83% in general satisfaction among IT service providers serving the European Banking industry, an improvement of three percentage points over 2024/2025",
       "section_heading": "Infosys' key differentiating factors highlighted in the reports include:",
-      "reason": "Provides the key quantitative basis for the ranking."
+      "reason": "Provides the key quantitative support for the ranking."
     }
   ],
   "search_keywords": [
     "Whitelane Research",
-    "IT Sourcing Study 2025/2026",
-    "Financial Services Europe",
+    "Financial Services - Banking",
     "Financial Services Nordics",
-    "European Banking",
+    "IT Sourcing Study 2025/2026",
+    "IT Sourcing Study 2026",
     "Cloud & Infrastructure Services",
     "Infosys Topaz",
     "Infosys Cobalt"
   ],
-  "processing_notes": "Classified as not material because the document is primarily an awards and recognition announcement with no disclosed financial impact, contract, guidance, corporate action, leadership change, or regulatory matter. Infosys Topaz and Infosys Cobalt were mentioned only as supporting context, not as separate product launches or strategic announcements."
+  "sample_questions": [
+    "What Whitelane Research recognitions did Infosys announce in April 2026?",
+    "What satisfaction score did Infosys receive in European banking IT services?",
+    "Was the Whitelane Research announcement material for Infosys investors?"
+  ],
+  "processing_notes": "The document is treated as non-material because it primarily announces third-party rankings and recognitions, with no disclosed financial impact, contract value, guidance, corporate action, or operational change. Infosys Topaz and Infosys Cobalt were mentioned as supporting context, not as distinct product announcements."
 }

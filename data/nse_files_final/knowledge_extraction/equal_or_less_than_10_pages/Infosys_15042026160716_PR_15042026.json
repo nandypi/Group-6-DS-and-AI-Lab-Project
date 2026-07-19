@@ -2,7 +2,7 @@
   "document_name": "Infosys_15042026160716_PR_15042026.md",
   "is_material": false,
   "title": "Infosys Names Carlos Alcaraz as Global Brand Ambassador",
-  "detailed_summary": "Infosys announced a multi-year partnership with tennis player Carlos Alcaraz, naming him Global Brand Ambassador. The partnership includes work with Alcaraz and his coaching team on AI-powered match analytics and a personalized performance application using Infosys Topaz, and joint technology-led social impact initiatives with the Carlos Alcaraz Foundation.",
+  "detailed_summary": "Infosys announced a multi-year partnership with tennis player Carlos Alcaraz, naming him Global Brand Ambassador. The collaboration includes using Infosys Topaz to develop AI-powered match analytics and a personalized performance application for Alcaraz and his coaching team, plus joint technology-for-good initiatives with the Carlos Alcaraz Foundation.",
   "key_facts": [
     {
       "fact": "Infosys announced a multi-year partnership with Carlos Alcaraz, welcoming him as its Global Brand Ambassador.",
@@ -13,7 +13,7 @@
       "section_heading": "7-Time Grand Slam Champion Carlos Alcaraz is Infosys Global Brand Ambassador"
     },
     {
-      "fact": "The partnership extends to joint technology-led social impact initiatives between Infosys and the Carlos Alcaraz Foundation.",
+      "fact": "The partnership extends to joint technology-for-good initiatives between Infosys and the Carlos Alcaraz Foundation.",
       "section_heading": "7-Time Grand Slam Champion Carlos Alcaraz is Infosys Global Brand Ambassador"
     }
   ],
@@ -38,7 +38,7 @@
     {
       "deal_type": "brand ambassador partnership",
       "counterparty": "Carlos Alcaraz",
-      "description": "Infosys announced a multi-year partnership with Carlos Alcaraz as its Global Brand Ambassador, including AI-powered tennis performance initiatives using Infosys Topaz.",
+      "description": "Infosys announced a multi-year partnership with Carlos Alcaraz, naming him Global Brand Ambassador.",
       "value": null,
       "duration": "multi-year",
       "section_heading": "7-Time Grand Slam Champion Carlos Alcaraz is Infosys Global Brand Ambassador"
@@ -51,14 +51,14 @@
   "products_or_platforms": [],
   "important_text_spans": [
     {
-      "text": "Infosys (NSE, BSE, NYSE: INFY), a global leader  in  AI-first  business  consulting  and  technology  services,  today  announced  a  multi-year partnership with the youngest athlete ever to achieve the World No. 1 ranking in men's tennis Carlos Alcaraz, welcoming him as its Global Brand Ambassador.",
+      "text": "Infosys (NSE, BSE, NYSE: INFY), a global leader in AI-first business consulting and technology services, today announced a multi-year partnership with the youngest athlete ever to achieve the World No. 1 ranking in men's tennis Carlos Alcaraz, welcoming him as its Global Brand Ambassador.",
       "section_heading": "7-Time Grand Slam Champion Carlos Alcaraz is Infosys Global Brand Ambassador",
-      "reason": "Supports the announcement of the multi-year brand ambassador partnership."
+      "reason": "Supports the main event, counterparty, and duration."
     },
     {
       "text": "Leveraging Infosys Topaz, an AI-first offering powered by generative and agentic AI technologies, Infosys will now work with Alcaraz and his coaching team to develop an AIpowered match analytics and a personalized performance application to aid match preparation and ingame strategy.",
       "section_heading": "7-Time Grand Slam Champion Carlos Alcaraz is Infosys Global Brand Ambassador",
-      "reason": "Supports the stated Infosys technology component of the partnership."
+      "reason": "Supports the technology and product-use aspect of the partnership."
     }
   ],
   "search_keywords": [
@@ -66,8 +66,14 @@
     "Global Brand Ambassador",
     "Infosys Topaz",
     "AI-powered match analytics",
-    "personalized performance application",
-    "Carlos Alcaraz Foundation"
+    "Carlos Alcaraz Foundation",
+    "tennis technology"
   ],
-  "processing_notes": "Classified as not material because the document primarily concerns a brand ambassador/sports partnership without disclosed financial value or material business impact."
+  "sample_questions": [
+    "What partnership did Infosys announce with Carlos Alcaraz?",
+    "Did Infosys disclose any financial value for the Carlos Alcaraz brand ambassador partnership?",
+    "How will Infosys Topaz be used in the Carlos Alcaraz partnership?",
+    "Does the Infosys and Carlos Alcaraz partnership include any social impact initiatives?"
+  ],
+  "processing_notes": "Marked non-material because the document is primarily a brand ambassador and sponsorship-style announcement, with no disclosed financial value, client contract value, guidance, or expected financial impact. Generic About Infosys and safe harbor content was excluded."
 }

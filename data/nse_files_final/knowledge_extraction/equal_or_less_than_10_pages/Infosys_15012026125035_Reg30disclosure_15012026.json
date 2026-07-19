@@ -1,11 +1,15 @@
 {
   "document_name": "Infosys_15012026125035_Reg30disclosure_15012026.md",
   "is_material": false,
-  "title": "Merger of Infosys Step-Down Subsidiaries in Romania Completed",
-  "detailed_summary": "Infosys disclosed that the merger of two wholly owned step-down subsidiaries in Romania, In-tech Engineering services S.R.L Romania and ProIT S.R.L.RO Romania, was completed on January 8, 2026. The resultant entity is named In-tech Engineering S.R.L. No financial impact, consideration, or business impact was disclosed.",
+  "title": "Merger of Two Infosys Wholly Owned Step-Down Subsidiaries in Romania Completed",
+  "detailed_summary": "Infosys disclosed that the merger of two wholly owned step-down subsidiaries, In-tech Engineering services S.R.L Romania and ProIT S.R.L.RO Romania, was completed on January 8, 2026. The resultant entity is In-tech Engineering S.R.L. No financial terms, business impact, or strategic rationale were provided.",
   "key_facts": [
     {
-      "fact": "The merger between two wholly owned step down subsidiaries, In-tech Engineering services S.R.L Romania and ProIT S.R.L.RO Romania, was completed on January 8, 2026.",
+      "fact": "The merger between In-tech Engineering services S.R.L Romania and ProIT S.R.L.RO Romania was completed on January 8, 2026.",
+      "section_heading": null
+    },
+    {
+      "fact": "Both merging entities were wholly owned step down subsidiaries of Infosys.",
       "section_heading": null
     },
     {
@@ -32,7 +36,7 @@
   "corporate_actions": [
     {
       "action_type": "merger",
-      "description": "Merger of two wholly owned step-down subsidiaries in Romania, In-tech Engineering services S.R.L Romania and ProIT S.R.L.RO Romania, resulting in In-tech Engineering S.R.L.",
+      "description": "Merger of wholly owned step-down subsidiaries In-tech Engineering services S.R.L Romania and ProIT S.R.L.RO Romania; the resultant entity is In-tech Engineering S.R.L.",
       "amount_or_ratio": null,
       "effective_date": "January 8, 2026",
       "section_heading": null
@@ -48,12 +52,12 @@
     {
       "text": "the merger between two wholly owned step down subsidiaries viz, In-tech Engineering services S.R.L Romania and ProIT S.R.L.RO Romania was completed on January 8, 2026.",
       "section_heading": null,
-      "reason": "Supports the completed internal subsidiary merger and effective date."
+      "reason": "Supports the completion date and entities involved in the subsidiary merger."
     },
     {
       "text": "The name of the resultant entity is In-tech Engineering S.R.L.",
       "section_heading": null,
-      "reason": "Identifies the resulting entity after the merger."
+      "reason": "Identifies the surviving or resultant entity after the merger."
     }
   ],
   "search_keywords": [
@@ -62,5 +66,9 @@
     "In-tech Engineering S.R.L",
     "Romania subsidiary merger"
   ],
-  "processing_notes": "Marked non-material because the document discloses an internal merger of wholly owned step-down subsidiaries without financial impact, consideration, strategic rationale, or business impact."
+  "sample_questions": [
+    "What subsidiary merger did Infosys complete in Romania in January 2026?",
+    "Which entity resulted from the merger of In-tech Engineering services S.R.L Romania and ProIT S.R.L.RO Romania?"
+  ],
+  "processing_notes": "The document reports an internal merger of wholly owned step-down subsidiaries and does not provide financial terms, strategic rationale, operating impact, or investor-relevant scale; therefore it is treated as non-material."
 }

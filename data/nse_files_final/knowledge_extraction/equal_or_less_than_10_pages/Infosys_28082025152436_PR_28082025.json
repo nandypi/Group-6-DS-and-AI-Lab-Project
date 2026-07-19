@@ -2,26 +2,26 @@
   "document_name": "Infosys_28082025152436_PR_28082025.md",
   "is_material": true,
   "title": "Infosys and Mastercard Collaborate to Scale Cross-border Payments",
-  "detailed_summary": "Infosys announced a strategic collaboration with Mastercard to offer financial institutions enhanced access to Mastercard Move, Mastercard's portfolio of money movement capabilities. The solution will integrate with Infosys Finacle, part of EdgeVerve Systems, a wholly owned subsidiary of Infosys, to help financial institutions access Mastercard Move's cross-border capabilities in a fraction of typical implementation time and with reduced integration resourcing. The collaboration targets fast, secure cross-border payments and is positioned to support banks and financial institutions in improving digital payment experiences.",
+  "detailed_summary": "Infosys announced a strategic collaboration with Mastercard to offer financial institutions enhanced access to Mastercard Move, Mastercard's portfolio of money movement capabilities. The solution will integrate with Infosys Finacle, part of EdgeVerve Systems, to help financial institutions access Mastercard Move's cross-border capabilities in a fraction of the typical implementation time and with less intensive integration resourcing. The collaboration is aimed at enabling fast, secure, near real-time cross-border payments and supporting financial institutions' digital payments priorities. No deal value, duration, revenue impact, or financial guidance was disclosed.",
   "key_facts": [
     {
       "fact": "Infosys announced a strategic collaboration with Mastercard to offer financial institutions enhanced access to Mastercard Move.",
       "section_heading": "Mastercard and Infosys Collaborate to Scale Cross-border Payments"
     },
     {
-      "fact": "The solution will integrate with Infosys Finacle, part of EdgeVerve Systems, a wholly owned subsidiary of Infosys.",
+      "fact": "The solution's integration with Infosys Finacle is intended to create an efficient pathway for financial institutions to access Mastercard Move's cross-border capabilities in a fraction of the typical implementation time.",
       "section_heading": "Mastercard and Infosys Collaborate to Scale Cross-border Payments"
     },
     {
-      "fact": "The integration is intended to create an efficient pathway for financial institutions to access Mastercard Move's cross-border capabilities in a fraction of the typical implementation time and without the intensive resourcing traditionally needed for integration projects.",
+      "fact": "Infosys Finacle is part of EdgeVerve Systems, a wholly owned subsidiary of Infosys.",
       "section_heading": "Mastercard and Infosys Collaborate to Scale Cross-border Payments"
     },
     {
-      "fact": "Mastercard Move provides fast, secure money transfer solutions domestically and internationally, reaching more than 200 countries and 150+ currencies, with access to more than 95 percent of the world's banked population.",
+      "fact": "Mastercard Move provides money transfer solutions domestically and internationally and reaches more than 200 countries and 150+ currencies, with access to more than 95 percent of the world's banked population.",
       "section_heading": "Mastercard and Infosys Collaborate to Scale Cross-border Payments"
     },
     {
-      "fact": "Infosys described the collaboration as enabling near real-time, cross-border payments designed to significantly improve the financial experiences of everyday customers.",
+      "fact": "Infosys described the collaboration with Mastercard as enabling near real-time, cross-border payments.",
       "section_heading": "Mastercard and Infosys Collaborate to Scale Cross-border Payments"
     }
   ],
@@ -46,7 +46,7 @@
     {
       "deal_type": "strategic collaboration",
       "counterparty": "Mastercard",
-      "description": "Infosys and Mastercard entered a strategic collaboration to offer financial institutions enhanced access to Mastercard Move through integration with Infosys Finacle.",
+      "description": "Infosys and Mastercard entered a strategic collaboration to offer financial institutions enhanced access to Mastercard Move through integration with Infosys Finacle, supporting faster implementation of cross-border payment capabilities.",
       "value": null,
       "duration": null,
       "section_heading": "Mastercard and Infosys Collaborate to Scale Cross-border Payments"
@@ -60,26 +60,26 @@
     {
       "name": "Infosys Finacle",
       "event_type": "integrated",
-      "description": "Infosys Finacle will integrate with Mastercard Move to help financial institutions access Mastercard Move's cross-border payment capabilities faster and with reduced integration resourcing.",
-      "target_market_or_use_case": "financial institutions seeking cross-border payment capabilities",
+      "description": "Infosys Finacle will integrate with Mastercard Move to help financial institutions access Mastercard Move's cross-border capabilities with reduced implementation time and integration resourcing.",
+      "target_market_or_use_case": "financial institutions accessing cross-border payment capabilities",
       "section_heading": "Mastercard and Infosys Collaborate to Scale Cross-border Payments"
     }
   ],
   "important_text_spans": [
     {
-      "text": "Infosys (NSE, BSE, NYSE: INFY), a global leader in next generation digital  services  and  consulting,  announced  a  strategic  collaboration  with  Mastercard  to  offer  financial institutions enhanced access to Mastercard Move",
+      "text": "Infosys (NSE, BSE, NYSE: INFY), a global leader in next generation digital  services  and  consulting,  announced  a  strategic  collaboration  with  Mastercard  to  offer  financial institutions enhanced access to Mastercard Move, its portfolio of money movement capabilities.",
       "section_heading": "Mastercard and Infosys Collaborate to Scale Cross-border Payments",
-      "reason": "Supports the core strategic collaboration disclosure."
+      "reason": "Supports the main collaboration announcement and identifies the counterparty and offering."
     },
     {
-      "text": "The solution's  seamless  integration  with  Infosys  Finacle,  part  of  EdgeVerve  Systems,  a  wholly  owned subsidiary of Infosys, will play a key role in creating an efficient pathway for financial institutions to access Mastercard Move's cross-border capabilities",
+      "text": "The solution's  seamless  integration  with  Infosys  Finacle,  part  of  EdgeVerve  Systems,  a  wholly  owned subsidiary of Infosys, will play a key role in creating an efficient pathway for financial institutions to access Mastercard Move's cross-border capabilities in a fraction of the typical implementation time",
       "section_heading": "Mastercard and Infosys Collaborate to Scale Cross-border Payments",
-      "reason": "Supports the role of Infosys Finacle and the business purpose of the integration."
+      "reason": "Supports the role of Infosys Finacle and the stated implementation benefit."
     },
     {
       "text": "The portfolio  of  solutions reaches more than 200 countries and 150+ currencies, with access to more than 95 percent of the world's banked population.",
       "section_heading": "Mastercard and Infosys Collaborate to Scale Cross-border Payments",
-      "reason": "Provides scale of the Mastercard Move capability being accessed through the collaboration."
+      "reason": "Supports the stated scale of Mastercard Move relevant to the collaboration."
     }
   ],
   "search_keywords": [
@@ -89,8 +89,14 @@
     "EdgeVerve Systems",
     "cross-border payments",
     "money movement",
-    "financial institutions",
     "near real-time payments"
   ],
-  "processing_notes": "No deal value, duration, financial impact, or revenue contribution was disclosed."
+  "sample_questions": [
+    "What did Infosys announce with Mastercard on cross-border payments?",
+    "How is Infosys Finacle involved in the Mastercard Move collaboration?",
+    "Did Infosys disclose a financial value or duration for the Mastercard collaboration?",
+    "What scale does Mastercard Move provide for cross-border money movement?",
+    "Why is the Mastercard collaboration strategically relevant for Infosys's banking and financial services business?"
+  ],
+  "processing_notes": "No deal value, contract duration, revenue impact, or financial guidance was disclosed. Generic company profile statistics and safe harbor language were excluded."
 }

@@ -1,23 +1,19 @@
 {
   "document_name": "INFY_11092025215149_Outcome11092025.md",
   "is_material": true,
-  "title": "Infosys Board Approves ₹ 18,000 Crore Equity Share Buyback",
-  "detailed_summary": "Infosys Limited’s Board of Directors approved a proposal to buy back up to 10,00,00,000 fully paid-up equity shares of face value ₹ 5/- each for an aggregate amount of ₹ 18,000 Crore at ₹ 1,800/- per Equity Share, payable in cash. The proposed buyback represents up to 2.41% of the total number of Equity Shares in the existing paid-up equity share capital on a standalone basis and will be conducted through the tender offer route on a proportionate basis from shareholders as on a record date to be announced later. The company noted that ADS holders may participate if they cancel ADSs and withdraw underlying equity shares by the Record Date. The buyback remains subject to shareholder approval through remote e-voting and applicable statutory approvals, and Infosys will seek SEC exemptive relief due to conflicting Indian and U.S. tender offer requirements.",
+  "title": "Infosys board approves ₹ 18,000 Crore equity share buyback",
+  "detailed_summary": "Infosys Limited's Board of Directors approved a proposal on September 11, 2025 to buy back up to 10,00,00,000 fully paid-up equity shares of face value ₹ 5/- each, representing up to 2.41% of the existing total paid-up equity share capital on a standalone basis. The buyback size is ₹ 18,000 Crore at a buyback price of ₹ 1,800/- per equity share, payable in cash, and will be conducted through the tender offer route from shareholders as of a record date to be announced later. The buyback remains subject to shareholder approval by remote e-voting and other applicable statutory approvals. Infosys also noted it will seek exemptive relief from the U.S. Securities and Exchange Commission due to conflicting Indian and U.S. tender offer requirements, and ADS holders may participate if they cancel ADSs and withdraw the underlying equity shares by the record date.",
   "key_facts": [
     {
-      "fact": "The Board approved a proposal to buy back equity shares for an amount of ₹ 18,000 Crore at a price of ₹ 1,800/- per Equity Share, payable in cash.",
+      "fact": "The Board of Directors approved a proposal to buy back equity shares for an amount of ₹ 18,000 Crore at a price of ₹ 1,800/- per Equity Share, payable in cash.",
       "section_heading": null
     },
     {
-      "fact": "The proposed buyback comprises purchase of 10,00,00,000 fully paid-up equity shares of face value ₹ 5/- each, representing up to 2.41% of the total number of Equity Shares in the existing total paid-up Equity Share capital of the Company on a standalone basis.",
+      "fact": "The buyback comprises purchase of 10,00,00,000 fully paid-up equity shares of face value of ₹ 5/- each, representing up to 2.41% of the total number of Equity Shares in the existing total paid-up Equity Share capital of the Company on a standalone basis.",
       "section_heading": null
     },
     {
-      "fact": "The buyback is proposed from all equity shareholders as on a Record Date to be announced later, including ADS holders who cancel ADSs and withdraw underlying equity shares to become equity shareholders as on the Record Date.",
-      "section_heading": null
-    },
-    {
-      "fact": "The buyback is proposed through the tender offer route on a proportionate basis in accordance with the SEBI Buyback Regulations and the Companies Act, 2013.",
+      "fact": "The buyback is proposed from all equity shareholders as on a record date to be announced later, on a proportionate basis through the tender offer route.",
       "section_heading": null
     },
     {
@@ -25,11 +21,15 @@
       "section_heading": null
     },
     {
-      "fact": "The buyback has not yet been approved by the Company’s shareholders and has not yet commenced.",
+      "fact": "The buyback has not yet been approved by the Company's shareholders and has not yet commenced.",
       "section_heading": "Additional information pursuant to U.S. Law"
     },
     {
-      "fact": "Infosys will seek exemptive relief from the U.S. Securities and Exchange Commission on certain aspects of the tender offer procedures due to conflicting regulatory requirements between Indian and U.S. laws.",
+      "fact": "Infosys will seek and obtain exemptive relief from the U.S. Securities and Exchange Commission on certain aspects of the tender offer procedures due to conflicting regulatory requirements between Indian and U.S. laws.",
+      "section_heading": null
+    },
+    {
+      "fact": "ADS holders may participate in the buyback if they cancel ADSs and withdraw the underlying Equity Shares to become equity shareholders as on the Record Date.",
       "section_heading": null
     }
   ],
@@ -52,9 +52,9 @@
   "corporate_actions": [
     {
       "action_type": "buyback",
-      "description": "Infosys Board approved a proposal to buy back up to 10,00,00,000 fully paid-up equity shares of face value ₹ 5/- each through the tender offer route on a proportionate basis from shareholders as on a Record Date to be announced later.",
-      "amount_or_ratio": "₹ 18,000 Crore; ₹ 1,800/- per Equity Share; up to 2.41% of the total number of Equity Shares in the existing total paid-up Equity Share capital",
-      "effective_date": null,
+      "description": "Infosys approved a proposal to buy back up to 10,00,00,000 fully paid-up equity shares of face value ₹ 5/- each, representing up to 2.41% of existing total paid-up equity share capital on a standalone basis, through the tender offer route.",
+      "amount_or_ratio": "₹ 18,000 Crore; ₹ 1,800/- per Equity Share; up to 2.41%",
+      "effective_date": "September 11, 2025",
       "section_heading": null
     }
   ],
@@ -64,11 +64,11 @@
   "risk_factors": [
     {
       "risk": "The buyback has not yet been approved by shareholders and has not yet commenced.",
-      "potential_impact": "Offers to purchase or solicitations of offers to sell will be made only if the Buyback is approved by shareholders.",
+      "potential_impact": "Any offer to purchase or solicitation of offers to sell will be made only if the Buyback is approved by shareholders.",
       "section_heading": "Additional information pursuant to U.S. Law"
     },
     {
-      "risk": "Infosys needs to seek and obtain SEC exemptive relief on certain tender offer procedures because of conflicting regulatory requirements between Indian and U.S. laws.",
+      "risk": "Infosys needs exemptive relief from the U.S. Securities and Exchange Commission for certain tender offer procedures due to conflicting Indian and U.S. regulatory requirements.",
       "potential_impact": null,
       "section_heading": null
     }
@@ -79,33 +79,41 @@
     {
       "text": "approved a proposal to buyback equity shares for an amount of ₹ 18,000 Crore (Rupees Eighteen Thousand Crore only) (' Buyback Size ') at a price of ₹ 1,800/-",
       "section_heading": null,
-      "reason": "Supports the announced buyback size and price."
+      "reason": "Supports the buyback size and buyback price."
     },
     {
-      "text": "purchase of 10,00,00,000 fully paid-up equity shares of the Company of face value of ₹ 5/- each (' Equity Shares ') representing up to 2.41%",
+      "text": "purchase of 10,00,00,000 fully paid-up equity shares of the Company of face value of ₹ 5/- each",
       "section_heading": null,
-      "reason": "Supports the number of shares and percentage of paid-up equity share capital proposed for buyback."
+      "reason": "Supports the number and face value of shares proposed for buyback."
     },
     {
-      "text": "from the equity shareholders of the Company as on a record date to be announced later (' Record Date ')",
+      "text": "representing up to 2.41% of the total number of Equity Shares in the existing total paid-up Equity Share capital of the Company",
       "section_heading": null,
-      "reason": "Supports the eligibility basis for participation in the buyback."
+      "reason": "Supports the scale of the buyback relative to paid-up equity share capital."
     },
     {
       "text": "The Buyback for the outstanding equity shares of the Company referenced herein has not yet been approved by the Company's shareholders and accordingly, the Buyback has not yet commenced.",
       "section_heading": "Additional information pursuant to U.S. Law",
-      "reason": "Supports the shareholder approval condition and status of the buyback."
+      "reason": "Supports the approval condition and status of the buyback."
     }
   ],
   "search_keywords": [
-    "₹ 18,000 Crore buyback",
-    "₹ 1,800 per Equity Share",
-    "tender offer buyback",
+    "buyback",
+    "₹ 18,000 Crore",
+    "₹ 1,800/- per Equity Share",
     "10,00,00,000 Equity Shares",
-    "2.41% paid-up capital",
-    "ADS participation",
-    "SEC exemptive relief",
-    "Record Date"
+    "2.41%",
+    "tender offer",
+    "ADS holders",
+    "SEC exemptive relief"
   ],
-  "processing_notes": "Pre-buyback shareholding pattern was not fully extracted because the main investor-relevant event is the buyback; only material buyback scale, terms, approvals, ADS participation context, and key regulatory dependency were retained."
+  "sample_questions": [
+    "What buyback did Infosys approve on September 11, 2025?",
+    "What is the size and price of Infosys's proposed 2025 share buyback?",
+    "How many shares does Infosys plan to buy back and what percentage of paid-up capital do they represent?",
+    "Will Infosys's proposed buyback be conducted through the tender offer route?",
+    "Is Infosys's 2025 buyback already approved by shareholders?",
+    "Can Infosys ADS holders participate in the proposed buyback?"
+  ],
+  "processing_notes": "The document includes a corrupted sentence around approval by remote e-voting; only the clearly stated shareholder approval condition was extracted. Pre-buyback shareholding pattern was not fully extracted because the main investor-relevant event is the buyback, though the aggregate paid-up share count and buyback percentage are captured."
 }

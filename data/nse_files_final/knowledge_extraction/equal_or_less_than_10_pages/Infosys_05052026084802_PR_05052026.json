@@ -1,19 +1,19 @@
 {
   "document_name": "Infosys_05052026084802_PR_05052026.md",
   "is_material": true,
-  "title": "Infosys completes acquisition of Optimum Healthcare IT",
-  "detailed_summary": "Infosys announced on May 5, 2026 that it completed the acquisition of Optimum Healthcare IT, a healthcare digital transformation and consulting firm focused on provider organizations. The completion follows Infosys's March 25, 2026 announcement. Infosys said the acquisition strengthens its healthcare capabilities, particularly with health systems and provider organizations, enhances its presence in the provider segment, adds new clients and relationships, expands technology capabilities, and creates synergies across new buying centers. Infosys also said combining Optimum's provider experience with Infosys Topaz and Infosys Cobalt is expected to support cloud, data, and digital transformation for healthcare providers.",
+  "title": "Infosys Completes Acquisition of Optimum Healthcare IT",
+  "detailed_summary": "Infosys announced on May 5, 2026 that it completed the acquisition of Optimum Healthcare IT, a healthcare digital transformation and consulting firm focused on provider organizations. Infosys said the acquisition strengthens its healthcare capabilities, particularly with health systems and provider organizations, and enhances its presence in the provider segment by adding new clients and relationships, expanding technology capabilities, and creating synergies across new buying centers. The company said the combination of Optimum’s provider experience with Infosys Topaz and Infosys Cobalt is intended to accelerate cloud, data, and digital transformation for healthcare providers. No transaction value was disclosed.",
   "key_facts": [
     {
       "fact": "Infosys completed the acquisition of Optimum Healthcare IT on May 5, 2026.",
       "section_heading": "Infosys Completes Acquisition of Leading Healthcare Digital Transformation Company, Optimum Healthcare IT"
     },
     {
-      "fact": "The acquisition completion follows an announcement Infosys made on March 25, 2026.",
+      "fact": "The completion follows Infosys' earlier acquisition announcement made on March 25, 2026.",
       "section_heading": "Infosys Completes Acquisition of Leading Healthcare Digital Transformation Company, Optimum Healthcare IT"
     },
     {
-      "fact": "Optimum Healthcare IT is described as a healthcare digital transformation and consulting firm known for helping provider organizations drive large-scale transformation.",
+      "fact": "Optimum Healthcare IT is described as a Best in KLAS healthcare digital transformation and consulting firm known for helping provider organizations drive large-scale transformation.",
       "section_heading": "Infosys Completes Acquisition of Leading Healthcare Digital Transformation Company, Optimum Healthcare IT"
     },
     {
@@ -21,11 +21,11 @@
       "section_heading": "Infosys Completes Acquisition of Leading Healthcare Digital Transformation Company, Optimum Healthcare IT"
     },
     {
-      "fact": "Infosys said the acquisition significantly enhances its presence in the provider segment by adding new clients and relationships, expanding technology capabilities, and creating synergies across new buying centers.",
+      "fact": "Infosys said the investment enhances its presence in the provider segment by adding new clients and relationships, expanding technology capabilities, and creating synergies across new buying centers.",
       "section_heading": "Infosys Completes Acquisition of Leading Healthcare Digital Transformation Company, Optimum Healthcare IT"
     },
     {
-      "fact": "Infosys said combining Optimum's provider experience with Infosys Topaz and Infosys Cobalt positions it to offer healthcare providers end-to-end cloud, data, and digital transformation at scale.",
+      "fact": "Infosys said combining Optimum's provider experience with Infosys Topaz and Infosys Cobalt creates a differentiated value proposition for healthcare providers.",
       "section_heading": "Infosys Completes Acquisition of Leading Healthcare Digital Transformation Company, Optimum Healthcare IT"
     }
   ],
@@ -62,14 +62,9 @@
   "products_or_platforms": [],
   "important_text_spans": [
     {
-      "text": "Infosys (NSE, BSE, NYSE: INFY), a global leader in AIfirst business consulting and technology services, today announced that it has completed the acquisition of Optimum Healthcare IT",
+      "text": "today announced that it has completed the acquisition of Optimum Healthcare IT",
       "section_heading": "Infosys Completes Acquisition of Leading Healthcare Digital Transformation Company, Optimum Healthcare IT",
-      "reason": "Supports the core acquisition completion fact."
-    },
-    {
-      "text": "This follows the announcement the company made on March 25, 2026.",
-      "section_heading": "Infosys Completes Acquisition of Leading Healthcare Digital Transformation Company, Optimum Healthcare IT",
-      "reason": "Establishes that the May 5, 2026 document reports completion of a previously announced acquisition."
+      "reason": "Supports the main acquisition completion event."
     },
     {
       "text": "This investment significantly enhances Infosys' presence in the provider segment, adding new clients and relationships, expanding technology capabilities, and creating synergies across new buying centers.",
@@ -77,20 +72,28 @@
       "reason": "Supports the stated strategic significance of the acquisition."
     },
     {
-      "text": "By bringing together Optimum's provider experience with Infosys Topaz and Infosys Cobalt, we are positioned to create a differentiated value proposition for healthcare providers",
+      "text": "Together, Infosys and Optimum Healthcare IT will unlock AI-powered, large-scale cloud and data transformation initiatives for healthcare providers",
       "section_heading": "Infosys Completes Acquisition of Leading Healthcare Digital Transformation Company, Optimum Healthcare IT",
-      "reason": "Supports the relevance of Infosys platforms to the acquisition strategy."
+      "reason": "Supports the expected business and offering impact of the acquisition."
     }
   ],
   "search_keywords": [
     "Optimum Healthcare IT",
     "healthcare digital transformation",
     "provider segment",
-    "health systems",
     "Infosys Topaz",
     "Infosys Cobalt",
-    "cloud data digital transformation",
-    "acquisition completion"
+    "cloud and data transformation",
+    "Best in KLAS",
+    "ServiceNow partner"
   ],
-  "processing_notes": "No transaction value or financial impact was disclosed. Infosys Topaz and Infosys Cobalt were mentioned as part of the acquisition rationale, not as separate product or platform launches."
+  "sample_questions": [
+    "What acquisition did Infosys complete on May 5, 2026?",
+    "Why is the Optimum Healthcare IT acquisition strategically important for Infosys?",
+    "Did Infosys disclose the transaction value for the Optimum Healthcare IT acquisition?",
+    "How does Infosys expect Optimum Healthcare IT to strengthen its healthcare business?",
+    "What role do Infosys Topaz and Infosys Cobalt play in the Optimum Healthcare IT acquisition rationale?",
+    "When did Infosys first announce the Optimum Healthcare IT acquisition before completion?"
+  ],
+  "processing_notes": "No transaction value, financial impact, or acquisition consideration was disclosed. Infosys Topaz and Infosys Cobalt were treated as context for the acquisition rationale, not as separate product or platform events."
 }

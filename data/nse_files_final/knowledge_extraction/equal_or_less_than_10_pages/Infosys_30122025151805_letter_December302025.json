@@ -1,15 +1,15 @@
 {
   "document_name": "Infosys_30122025151805_letter_December302025.md",
   "is_material": true,
-  "title": "Infosys Receives INR 7,49,10,389 Penalty Demand From Deputy Commissioner of Commercial Taxes",
-  "detailed_summary": "Infosys disclosed that it received communication for collection of a penalty from the Deputy Commissioner of Commercial taxes. The total penalty is INR 7,49,10,389/-. The demand relates to alleged non-realization or delay in realization of export proceeds, availment of ineligible ITC, and other issues including RCM, import of services, sale of investments, staff welfare expense, and write-off cases of exports for FY 2021-22. Infosys stated that there is no material impact on its financials, operations, or other activities.",
+  "title": "Infosys Receives INR 7,49,10,389 Penalty Order From Deputy Commissioner of Commercial Taxes",
+  "detailed_summary": "Infosys Limited disclosed that it received communication for collection of a penalty from the Deputy Commissioner of Commercial taxes. The total penalty is INR 7,49,10,389/-. The demand relates to alleged non-realization or delay in realization of export proceeds, availment of ineligible ITC, and other issues including RCM, import of services, sale of investments, staff welfare expense, and write-off cases of exports for FY 2021-22. Infosys stated that there is no material impact on its financials, operations, or other activities.",
   "key_facts": [
     {
       "fact": "Infosys received communication for collection of penalty from the Deputy Commissioner of Commercial taxes.",
       "section_heading": "Sub:  Company Statement"
     },
     {
-      "fact": "The total penalty disclosed is INR 7,49,10,389/-.",
+      "fact": "The total penalty is INR 7,49,10,389/-.",
       "section_heading": "Sub:  Company Statement"
     },
     {
@@ -44,20 +44,26 @@
     {
       "matter_type": "penalty",
       "authority_or_counterparty": "Deputy Commissioner of Commercial taxes",
-      "description": "Orders passed/ action taken for alleged non- realization/delay in realization of export proceeds, availment of ineligible ITC and other issues like RCM, import of services, sale of investments, staff welfare expense and write off cases of exports for the FY 2021-22.",
+      "description": "Orders passed/action taken for alleged non- realization/delay in realization of export proceeds, availment of ineligible ITC and other issues like RCM, import of services, sale of investments, staff welfare expense and write off cases of exports for the FY 2021-22.",
       "amount": "INR 7,49,10,389/-",
-      "status": "Orders passed/ action taken",
+      "status": "Orders passed/ action taken.",
       "section_heading": "Sub:  Company Statement"
     }
   ],
-  "risk_factors": [],
+  "risk_factors": [
+    {
+      "risk": "Demand issued alleging non- realization/delay in realization of export proceeds, availment of ineligible ITC and other tax-related issues for FY 2021-22.",
+      "potential_impact": "None, there is no material impact on financials, operations or other activities of the Company.",
+      "section_heading": "Sub:  Company Statement"
+    }
+  ],
   "esg_or_csr_items": [],
   "products_or_platforms": [],
   "important_text_spans": [
     {
       "text": "Orders passed/ action taken. Total Penalty - INR 7,49,10,389/-",
       "section_heading": "Sub:  Company Statement",
-      "reason": "Supports the disclosed penalty amount and regulatory action status."
+      "reason": "Supports the penalty amount and status."
     },
     {
       "text": "None, there is no material impact on financials, operations or other activities of the Company.",
@@ -74,6 +80,13 @@
     "FY 2021-22",
     "RCM",
     "import of services"
+  ],
+  "sample_questions": [
+    "What penalty did Infosys disclose on December 30, 2025?",
+    "How much was the penalty imposed on Infosys by the Deputy Commissioner of Commercial taxes?",
+    "What were the alleged tax issues behind the Infosys penalty for FY 2021-22?",
+    "Did Infosys state any financial or operational impact from the INR 7,49,10,389 penalty?",
+    "Which authority issued the penalty communication to Infosys?"
   ],
   "processing_notes": ""
 }

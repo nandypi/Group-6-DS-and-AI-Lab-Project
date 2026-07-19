@@ -1,8 +1,8 @@
 {
   "document_name": "Infosys_28072025152533_PR_28072025.md",
   "is_material": true,
-  "title": "Infosys collaborates with RWE AG for automated digital workplace transformation",
-  "detailed_summary": "Infosys announced a strategic collaboration with RWE AG, a German multinational energy company, to drive automated digital workplace transformation and improve operational efficiency. The collaboration will use Infosys Workplace Suite to implement automation and self-service solutions for RWE. Infosys stated it has worked with RWE for over 12 years and will support modernization of RWE’s workplace with a focus on user centricity and sustainability. No deal value, duration, or financial impact was disclosed.",
+  "title": "Infosys collaborates with RWE AG on automated digital workplace transformation",
+  "detailed_summary": "Infosys announced a strategic collaboration with RWE AG, a German multinational energy company, to drive automated digital workplace transformation and improve operational efficiency. The collaboration will use Infosys Workplace Suite to automate processes and enable self-service options, supporting RWE's operational excellence efforts. Infosys said it has worked with RWE for over 12 years and will support the modernization of RWE's workplace with a focus on user centricity and sustainability. No deal value, duration, or financial impact was disclosed.",
   "key_facts": [
     {
       "fact": "Infosys announced a strategic collaboration with RWE AG to drive automated digital workplace transformation and improve operational efficiency.",
@@ -13,16 +13,16 @@
       "section_heading": "Infosys Collaborates with RWE AG to Drive Automated Digital Workplace Transformation"
     },
     {
-      "fact": "Infosys has collaborated with RWE as a trusted partner for over 12 years, supporting modernization and business transformation initiatives.",
+      "fact": "Infosys has collaborated with RWE as a trusted partner for over 12 years.",
       "section_heading": "Infosys Collaborates with RWE AG to Drive Automated Digital Workplace Transformation"
     },
     {
-      "fact": "The transformation will use tools including migration factory for automated Office 365 migration, collaboration apps, business dashboards and reports, Azure-powered conversational bot, service request automation, and governance solutions.",
+      "fact": "Infosys said the transformation will support RWE in streamlining business operations and enhancing the employee experience.",
       "section_heading": "Infosys Collaborates with RWE AG to Drive Automated Digital Workplace Transformation"
     },
     {
-      "fact": "No deal value, contract duration, or expected financial impact was disclosed.",
-      "section_heading": "Infosys Collaborates with RWE AG to Drive Automated Digital Workplace Transformation"
+      "fact": "No contract value, duration, or quantified financial impact was disclosed in the document.",
+      "section_heading": null
     }
   ],
   "financial_metrics": {
@@ -46,7 +46,7 @@
     {
       "deal_type": "strategic collaboration",
       "counterparty": "RWE AG",
-      "description": "Infosys will collaborate with RWE AG to drive automated digital workplace transformation and improve operational efficiency using Infosys Workplace Suite.",
+      "description": "Infosys will collaborate with RWE AG to drive automated digital workplace transformation, improve operational efficiency, automate processes, and enable self-service options using Infosys Workplace Suite.",
       "value": null,
       "duration": null,
       "section_heading": "Infosys Collaborates with RWE AG to Drive Automated Digital Workplace Transformation"
@@ -59,9 +59,9 @@
   "products_or_platforms": [
     {
       "name": "Infosys Workplace Suite",
-      "event_type": "used in strategic collaboration",
+      "event_type": "used in client transformation",
       "description": "Infosys Workplace Suite is described as an amalgamation of tools and accelerators that help enterprises drive adoption of Digital Workplace Services.",
-      "target_market_or_use_case": "Digital Workplace Services adoption and automated workplace transformation",
+      "target_market_or_use_case": "automated digital workplace transformation and Digital Workplace Services adoption",
       "section_heading": "Infosys Collaborates with RWE AG to Drive Automated Digital Workplace Transformation"
     }
   ],
@@ -69,28 +69,34 @@
     {
       "text": "Infosys (NSE, BSE, NYSE: INFY), a global leader in digital services and consulting, today announced a strategic collaboration with RWE, a German multinational energy company, to drive automated digital workplace transformation and improve operational efficiency.",
       "section_heading": "Infosys Collaborates with RWE AG to Drive Automated Digital Workplace Transformation",
-      "reason": "Supports the main event and identifies the counterparty and purpose of the collaboration."
+      "reason": "Supports the main event, counterparty, and stated business objective."
     },
     {
       "text": "Leveraging Infosys Workplace Suite, an amalgamation of tools and accelerators that help enterprises drive adoption of Digital Workplace Services, the collaboration will implement solutions that automate processes and enable self-service options",
       "section_heading": "Infosys Collaborates with RWE AG to Drive Automated Digital Workplace Transformation",
-      "reason": "Supports the Infosys platform and service offering involved in the collaboration."
+      "reason": "Identifies the Infosys offering and the core implementation scope."
     },
     {
       "text": "Infosys has collaborated with RWE as a trusted partner for over 12 years, supporting numerous modernization and business transformation initiatives.",
       "section_heading": "Infosys Collaborates with RWE AG to Drive Automated Digital Workplace Transformation",
-      "reason": "Supports the existing client relationship context and duration."
+      "reason": "Shows the duration and nature of Infosys's relationship with RWE."
     }
   ],
   "search_keywords": [
     "RWE AG",
     "Infosys Workplace Suite",
     "digital workplace transformation",
-    "automated Office 365 migration",
-    "Azure-powered conversational bot",
-    "service request automation",
-    "operational efficiency",
-    "Digital Workplace Services"
+    "automated digital workplace",
+    "Digital Workplace Services",
+    "Office 365 migration",
+    "Azure-powered conversational bot"
   ],
-  "processing_notes": "The document does not disclose deal value, duration, revenue impact, or financial metrics. Generic Infosys company profile and safe harbor content were excluded."
+  "sample_questions": [
+    "What did Infosys announce with RWE AG on July 28, 2025?",
+    "What is Infosys Workplace Suite being used for in the RWE collaboration?",
+    "Did Infosys disclose the value or duration of the RWE AG collaboration?",
+    "How long has Infosys worked with RWE before this digital workplace transformation announcement?",
+    "What business impact does Infosys expect from the RWE digital workplace transformation?"
+  ],
+  "processing_notes": "The document discloses a strategic client collaboration but does not provide deal value, duration, revenue impact, or financial guidance. Generic Infosys company profile details and safe harbor language were excluded."
 }

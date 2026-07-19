@@ -2,19 +2,19 @@
   "document_name": "Infosys_15072025105756_PR_15072025.md",
   "is_material": false,
   "title": "Infosys Foundation launches Infosys Springboard Livelihood Program",
-  "detailed_summary": "Infosys Foundation launched the Infosys Springboard Livelihood Program, a CSR initiative intended to help half a million job seekers in India gain meaningful employment by 2030. The Foundation committed over INR 200 crore for the first phase, and said over 80,000 job seekers were placed in new jobs across industries in FY25.",
+  "detailed_summary": "Infosys Foundation launched the Infosys Springboard Livelihood Program to help half a million job seekers in India gain meaningful employment by 2030. The Foundation committed over INR 200 crore for phase 1, and said over 80,000 job seekers were placed in new jobs across industries in FY25.",
   "key_facts": [
     {
       "fact": "Infosys Foundation launched the Infosys Springboard Livelihood Program to enable half a million job seekers in India to gain meaningful employment by 2030.",
-      "section_heading": "Infosys Foundation launches the Infosys Springboard Livelihood Program with an aspiration to create half a million jobs in India by 2030"
+      "section_heading": "PRESS RELEASE"
     },
     {
-      "fact": "Infosys Foundation committed over INR 200 crore for the first phase of the program.",
-      "section_heading": "Infosys Foundation launches the Infosys Springboard Livelihood Program with an aspiration to create half a million jobs in India by 2030"
+      "fact": "Infosys Foundation has committed over INR 200 crore for the first phase of the program.",
+      "section_heading": "PRESS RELEASE"
     },
     {
       "fact": "Over 80,000 job seekers were placed in new jobs across industries in FY25.",
-      "section_heading": "Infosys Foundation launches the Infosys Springboard Livelihood Program with an aspiration to create half a million jobs in India by 2030"
+      "section_heading": "PRESS RELEASE"
     }
   ],
   "financial_metrics": {
@@ -40,21 +40,21 @@
   "risk_factors": [],
   "esg_or_csr_items": [
     {
-      "item": "Infosys Foundation launched the Infosys Springboard Livelihood Program to support skilling and employment for job seekers in India, with an aspiration to create half a million jobs by 2030.",
+      "item": "Infosys Foundation launched the Infosys Springboard Livelihood Program, focused on learning, skilling, sustainable livelihoods, and job creation for graduate and undergraduate youth in India.",
       "amount": "over INR 200 crore",
-      "section_heading": "Infosys Foundation launches the Infosys Springboard Livelihood Program with an aspiration to create half a million jobs in India by 2030"
+      "section_heading": "PRESS RELEASE"
     }
   ],
   "products_or_platforms": [],
   "important_text_spans": [
     {
       "text": "Infosys Foundation has committed over INR 200 crore for the first phase of this program.",
-      "section_heading": "Infosys Foundation launches the Infosys Springboard Livelihood Program with an aspiration to create half a million jobs in India by 2030",
+      "section_heading": "PRESS RELEASE",
       "reason": "Supports the disclosed CSR funding scale."
     },
     {
       "text": "Over 80,000 job seekers placed in new jobs across industries in FY25",
-      "section_heading": "Infosys Foundation launches the Infosys Springboard Livelihood Program with an aspiration to create half a million jobs in India by 2030",
+      "section_heading": "PRESS RELEASE",
       "reason": "Supports the reported placement outcome."
     }
   ],
@@ -64,9 +64,14 @@
     "half a million jobs",
     "INR 200 crore",
     "FY25 placements",
-    "ICT Academy",
-    "Unnati",
-    "CSR"
+    "CSR",
+    "skilling",
+    "India employment"
   ],
-  "processing_notes": "Marked non-material because the document is primarily a CSR/philanthropy announcement, not a commercial, financial, governance, or capital-allocation disclosure for Infosys Limited."
+  "sample_questions": [
+    "What is the Infosys Springboard Livelihood Program launched by Infosys Foundation?",
+    "How much has Infosys Foundation committed to phase 1 of the Springboard Livelihood Program?",
+    "How many job seekers were placed through the Infosys Springboard Livelihood Program in FY25?"
+  ],
+  "processing_notes": "Marked non-material because the document is primarily a CSR and philanthropy announcement, not a disclosure likely to affect Infosys's long-term investment case. Generic company profile and safe harbor language were excluded."
 }

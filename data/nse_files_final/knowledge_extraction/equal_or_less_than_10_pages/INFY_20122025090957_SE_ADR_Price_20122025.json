@@ -1,19 +1,19 @@
 {
   "document_name": "INFY_20122025090957_SE_ADR_Price_20122025.md",
   "is_material": false,
-  "title": "Infosys Clarifies ADR Price Volatility on NYSE",
-  "detailed_summary": "Infosys clarified that volatility in its American Depositary Receipt price on the New York Stock Exchange on December 19, 2025 triggered two Volatility Trading Pauses. The company stated that there were no material events requiring disclosure under SEBI Listing Obligations and Disclosure Requirements Regulations, 2015.",
+  "title": "Infosys Clarifies ADR Price Volatility on December 19, 2025",
+  "detailed_summary": "Infosys stated that its ADR price on the NYSE was volatile on December 19, 2025, triggering two Volatility Trading Pauses. The company clarified that there were no material events requiring disclosure under SEBI Listing Regulations and issued the communication to avoid unwarranted speculation.",
   "key_facts": [
     {
-      "fact": "Infosys observed volatility in the price of its American Depositary Receipt on the New York Stock Exchange on December 19, 2025.",
+      "fact": "Infosys observed volatility in the price of its American Depositary Receipt on the NYSE on December 19, 2025.",
       "section_heading": "Subject: Clarification on ADR Price Volatility - December 19, 2025"
     },
     {
-      "fact": "The ADR price volatility resulted in two Volatility Trading Pauses ('Limit Up-Limit Down'/'LULD') being triggered by NYSE.",
+      "fact": "The ADR price volatility resulted in two Volatility Trading Pauses, described as Limit Up-Limit Down or LULD, being triggered by NYSE.",
       "section_heading": "Subject: Clarification on ADR Price Volatility - December 19, 2025"
     },
     {
-      "fact": "Infosys clarified that there are no material events requiring disclosure under the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015.",
+      "fact": "Infosys clarified that there are no material events requiring disclosure under the SEBI Listing Obligations and Disclosure Requirements Regulations, 2015.",
       "section_heading": "Subject: Clarification on ADR Price Volatility - December 19, 2025"
     }
   ],
@@ -44,12 +44,12 @@
     {
       "text": "The Company has observed volatility in the price of its American Depositary Receipt ('ADR') on the New York Stock Exchange ('NYSE') on December 19, 2025, which resulted in two Volatility Trading Pauses ('Limit Up-Limit Down'/'LULD') being triggered by NYSE.",
       "section_heading": "Subject: Clarification on ADR Price Volatility - December 19, 2025",
-      "reason": "Supports the factual reason for the clarification."
+      "reason": "Supports the fact that Infosys ADR volatility triggered two NYSE trading pauses."
     },
     {
       "text": "the Company hereby clarifies that there are no material events that require disclosure under the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ('Regulations').",
       "section_heading": "Subject: Clarification on ADR Price Volatility - December 19, 2025",
-      "reason": "Supports the company's statement that no material disclosure event occurred."
+      "reason": "Supports the company’s clarification that no material undisclosed event caused the volatility."
     }
   ],
   "search_keywords": [
@@ -58,7 +58,12 @@
     "Volatility Trading Pauses",
     "Limit Up-Limit Down",
     "LULD",
-    "SEBI Listing Obligations and Disclosure Requirements Regulations"
+    "SEBI Listing Regulations"
   ],
-  "processing_notes": "Marked non-material because the document is a clarification of trading volatility and explicitly states there were no material events requiring disclosure."
+  "sample_questions": [
+    "Why did Infosys issue a clarification about its ADR price volatility on December 19, 2025?",
+    "Did Infosys disclose any material event connected to the ADR volatility on the NYSE?",
+    "How many NYSE Volatility Trading Pauses were triggered for Infosys ADRs on December 19, 2025?"
+  ],
+  "processing_notes": "No category-specific investor event was populated because the document is a clarification of market volatility and explicitly states there were no material events requiring disclosure."
 }

@@ -1,19 +1,19 @@
 {
   "document_name": "Infosys_24032026153246_PR_24032026.md",
   "is_material": true,
-  "title": "Infosys Extends Strategic Collaboration with University of Nottingham for Student Management System",
-  "detailed_summary": "Infosys and the University of Nottingham announced an extension of their strategic collaboration to maintain and modernise NottinghamHub, the university’s Student Information System. The collaboration builds on work since 2017 in which Infosys supported digital transformation of the Student Information System, resulting in reduction of incident volumes by 70 percent, improved system availability and performance by approximately 30 percent, reduced infrastructure costs by over 35 percent, and improved user experience. Infosys will use Infosys Cobalt and Infosys Topaz Fabric to strengthen cloud capabilities, improve application availability, implement Multi-Factor Authentication, unify systems, and automate processes across the university’s global campuses.",
+  "title": "Infosys Extends Strategic Collaboration with University of Nottingham for Student Management System Digital Infrastructure",
+  "detailed_summary": "Infosys and the University of Nottingham announced an extension of their strategic collaboration to support high performance and security compliance for the university's critical Student Management System. The relationship builds on collaboration since 2017, under which Infosys supported a digital transformation of the Student Information System that reduced incident volumes by 70 percent, improved system availability and performance by approximately 30 percent, reduced infrastructure costs by over 35 percent, and improved user experience. Under the extended collaboration, Infosys will maintain NottinghamHub, enhance student lifecycle processes, modernise infrastructure, improve application availability, and strengthen web security through Multi-Factor Authentication. Infosys will use Infosys Cobalt and Infosys Topaz Fabric to support cloud modernisation, unified systems, automation, and data-driven decision-making for 46,000 students and 12,000 staff across global campuses.",
   "key_facts": [
     {
       "fact": "Infosys and the University of Nottingham announced an extension of their strategic collaboration to ensure high performance and security compliance for the University's critical Student Management System.",
       "section_heading": "PRESS RELEASE"
     },
     {
-      "fact": "Infosys has supported a comprehensive digital transformation of the University of Nottingham's Student Information System since 2017.",
+      "fact": "Infosys has collaborated with the University of Nottingham since 2017 on the University's Student Information System digital transformation.",
       "section_heading": "PRESS RELEASE"
     },
     {
-      "fact": "The prior collaboration resulted in reduction of incident volumes by 70 percent, improved system availability and performance by approximately 30 percent, reduced infrastructure costs by over 35 percent, and improved user experience.",
+      "fact": "The earlier collaboration resulted in reduction of incident volumes by 70 percent, improved system availability and performance by approximately 30 percent, reduced infrastructure costs by over 35 percent, and improved user experience.",
       "section_heading": "PRESS RELEASE"
     },
     {
@@ -21,11 +21,15 @@
       "section_heading": "PRESS RELEASE"
     },
     {
-      "fact": "The collaboration will modernise the University's infrastructure to improve application availability and strengthen web security through the implementation of Multi-Factor Authentication (MFA).",
+      "fact": "The collaboration will modernise the University's infrastructure to improve application availability and strengthen web security through Multi-Factor Authentication.",
       "section_heading": "PRESS RELEASE"
     },
     {
-      "fact": "Infosys will leverage Infosys Cobalt and Infosys Topaz Fabric to support the transformation.",
+      "fact": "Infosys will leverage Infosys Cobalt and Infosys Topaz Fabric in the collaboration.",
+      "section_heading": "PRESS RELEASE"
+    },
+    {
+      "fact": "The transformation is intended to support a digital-first academic environment for 46,000 students and 12,000 staff across the university's global campuses.",
       "section_heading": "PRESS RELEASE"
     }
   ],
@@ -50,7 +54,7 @@
     {
       "deal_type": "strategic collaboration",
       "counterparty": "University of Nottingham",
-      "description": "Infosys and the University of Nottingham extended their strategic collaboration for the University's critical Student Management System, including maintaining NottinghamHub, enhancing student lifecycle processes, modernising infrastructure, improving application availability, and strengthening web security through MFA.",
+      "description": "Infosys and the University of Nottingham extended their strategic collaboration for the University's critical Student Management System, including maintenance of NottinghamHub, student lifecycle process enhancements, infrastructure modernisation, application availability improvements, and web security strengthening through Multi-Factor Authentication.",
       "value": null,
       "duration": null,
       "section_heading": "PRESS RELEASE"
@@ -63,16 +67,16 @@
   "products_or_platforms": [
     {
       "name": "Infosys Cobalt",
-      "event_type": "used in collaboration",
-      "description": "Infosys Cobalt will be leveraged to support the University of Nottingham's cloud journey and digital infrastructure modernisation.",
-      "target_market_or_use_case": "cloud journey and digital infrastructure modernisation",
+      "event_type": "leveraged",
+      "description": "Infosys Cobalt will be used in the University of Nottingham collaboration to support the university's cloud journey and digital infrastructure modernisation.",
+      "target_market_or_use_case": "Cloud modernisation for the University of Nottingham's Student Management System and digital services",
       "section_heading": "PRESS RELEASE"
     },
     {
       "name": "Infosys Topaz Fabric",
-      "event_type": "used in collaboration",
-      "description": "Infosys Topaz Fabric will be leveraged as a purpose-built agentic services suite to help modernise operations, unify systems, and automate processes for data-driven decision-making.",
-      "target_market_or_use_case": "modernising operations, unifying systems, and automating processes",
+      "event_type": "leveraged",
+      "description": "Infosys Topaz Fabric will be used in the University of Nottingham collaboration as a multi-layer AI fabric that unifies infrastructure, models, data, applications, and workflows into a composable, agent-ready ecosystem.",
+      "target_market_or_use_case": "Modernising operations, unifying systems, and automating processes for data-driven decision-making",
       "section_heading": "PRESS RELEASE"
     }
   ],
@@ -80,22 +84,27 @@
     {
       "text": "today announced an extension of their strategic collaboration to ensure high performance and security compliance for the University's critical Student Management System.",
       "section_heading": "PRESS RELEASE",
-      "reason": "Supports the main partnership extension."
+      "reason": "Supports the main commercial collaboration event."
     },
     {
       "text": "This resulted in reduction of incident volumes by 70 percent, improved system availability and performance by approximately 30 percent, reduced infrastructure costs by over 35 percent, and improved user experience.",
       "section_heading": "PRESS RELEASE",
-      "reason": "Provides quantified operational impact from the prior collaboration."
+      "reason": "Provides quantified operating impact from the prior collaboration."
+    },
+    {
+      "text": "Infosys will help the University of Nottingham maintain NottinghamHub, its Student Information System.",
+      "section_heading": "PRESS RELEASE",
+      "reason": "Identifies Infosys's ongoing role under the extended collaboration."
     },
     {
       "text": "Infosys will leverage its advanced technologies to support this transformation. These include Infosys Cobalt",
       "section_heading": "PRESS RELEASE",
-      "reason": "Identifies Infosys technology used in the collaboration."
+      "reason": "Links the collaboration to Infosys's cloud offering."
     },
     {
-      "text": "Infosys Topaz Fabric, a purpose-built agentic services suite",
+      "text": "Infosys Topaz Fabric, a purpose-built agentic services suite - a multi-layer AI fabric that unifies infrastructure, models, data, applications, and workflows into a composable, agent-ready ecosystem.",
       "section_heading": "PRESS RELEASE",
-      "reason": "Identifies Infosys AI offering used in the collaboration."
+      "reason": "Links the collaboration to Infosys's AI platform capabilities."
     }
   ],
   "search_keywords": [
@@ -106,7 +115,15 @@
     "Infosys Cobalt",
     "Infosys Topaz Fabric",
     "Multi-Factor Authentication",
-    "education sector"
+    "digital infrastructure modernisation"
   ],
-  "processing_notes": "No deal value or contract duration was disclosed. University background details, executive quotes, generic Infosys boilerplate, safe harbor language, and media contact information were excluded."
+  "sample_questions": [
+    "What did Infosys announce with the University of Nottingham on March 24, 2026?",
+    "What operating improvements did Infosys report from its earlier University of Nottingham collaboration?",
+    "What role will Infosys play in maintaining NottinghamHub?",
+    "Which Infosys platforms are being used in the University of Nottingham collaboration?",
+    "Did Infosys disclose the contract value or duration for the University of Nottingham collaboration?",
+    "How large is the University of Nottingham user base supported by this Infosys collaboration?"
+  ],
+  "processing_notes": "No deal value or duration was disclosed. University of Nottingham background and generic Infosys boilerplate were excluded except where needed to understand the scale of the collaboration."
 }

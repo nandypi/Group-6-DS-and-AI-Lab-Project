@@ -1,20 +1,20 @@
 {
   "document_name": "Infosys_17072025221306_SEfiling_Reg30_17072025.md",
   "is_material": false,
-  "title": "Infosys BPM UK Approved Incorporation of Canadian Wholly Owned Subsidiary",
-  "detailed_summary": "Infosys disclosed that the Board of Infosys BPM UK Limited, a step-down wholly owned subsidiary of Infosys Limited, approved the incorporation of a wholly owned subsidiary in Canada named Infosys BPM Canada Inc., or another available name. The filing states that additional Regulation 30 information will be disclosed in due course.",
+  "title": "Infosys BPM UK approves incorporation of Infosys BPM Canada Inc.",
+  "detailed_summary": "Infosys BPM UK Limited, a step-down wholly owned subsidiary of Infosys Limited, approved the incorporation of a wholly owned subsidiary in Canada named Infosys BPM Canada Inc., or another name available in the commercial register. The document states that additional information required under Regulation 30 will be disclosed in due course.",
   "key_facts": [
     {
-      "fact": "The Board of Infosys BPM UK Limited approved incorporation of a wholly owned subsidiary in Canada.",
-      "section_heading": null
+      "fact": "The Board of Infosys BPM UK Limited approved the incorporation of a wholly owned subsidiary in Canada.",
+      "section_heading": "Sub: Company update"
     },
     {
-      "fact": "The proposed subsidiary name is Infosys BPM Canada Inc., or another name available in the commercial register.",
-      "section_heading": null
+      "fact": "The proposed subsidiary will be named Infosys BPM Canada Inc. or another name available in the commercial register.",
+      "section_heading": "Sub: Company update"
     },
     {
-      "fact": "Infosys BPM UK Limited is described as a step-down wholly owned subsidiary of Infosys Limited.",
-      "section_heading": null
+      "fact": "Infosys BPM UK Limited is a step-down wholly owned subsidiary of Infosys Limited.",
+      "section_heading": "Sub: Company update"
     }
   ],
   "financial_metrics": {
@@ -36,10 +36,10 @@
   "corporate_actions": [
     {
       "action_type": "subsidiary incorporation",
-      "description": "Infosys BPM UK Limited approved incorporation of a wholly owned subsidiary in Canada named Infosys BPM Canada Inc., or another available name.",
+      "description": "Infosys BPM UK Limited approved the incorporation of a wholly owned subsidiary in Canada in the name and style of Infosys BPM Canada Inc. or another available name.",
       "amount_or_ratio": null,
       "effective_date": null,
-      "section_heading": null
+      "section_heading": "Sub: Company update"
     }
   ],
   "partnerships_or_deals": [],
@@ -50,16 +50,25 @@
   "products_or_platforms": [],
   "important_text_spans": [
     {
-      "text": "Board of Infosys BPM UK Limited, a step-down wholly owned subsidiary of Infosys Limited has approved to incorporate a wholly owned subsidiary in the name and style of Infosys BPM Canada Inc.",
-      "section_heading": null,
-      "reason": "Supports the main disclosed corporate action and subsidiary relationship."
+      "text": "Board of Infosys BPM UK Limited, a step-down wholly owned subsidiary of Infosys Limited  has  approved  to  incorporate  a  wholly  owned  subsidiary  in  the  name  and  style  of  Infosys  BPM Canada Inc.",
+      "section_heading": "Sub: Company update",
+      "reason": "Supports the main disclosure about the proposed Canadian subsidiary."
+    },
+    {
+      "text": "Additional information as required under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 will be disclosed in due course.",
+      "section_heading": "Sub: Company update",
+      "reason": "Shows that further required details were not included in this document."
     }
   ],
   "search_keywords": [
     "Infosys BPM UK Limited",
     "Infosys BPM Canada Inc.",
     "Canada subsidiary",
-    "subsidiary incorporation"
+    "wholly owned subsidiary"
   ],
-  "processing_notes": "Marked non-material because the document discloses only approval to incorporate a subsidiary, with no transaction value, financial impact, strategic rationale, operating scale, or effective date."
+  "sample_questions": [
+    "What did Infosys disclose about Infosys BPM Canada Inc.?",
+    "Which Infosys subsidiary approved the incorporation of a new Canadian subsidiary?"
+  ],
+  "processing_notes": "Marked non-material because the filing only discloses approval to incorporate a subsidiary and provides no financial value, business scale, strategic rationale, or expected impact."
 }

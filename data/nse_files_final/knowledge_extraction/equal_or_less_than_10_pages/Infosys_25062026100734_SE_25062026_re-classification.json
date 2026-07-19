@@ -1,11 +1,11 @@
 {
   "document_name": "Infosys_25062026100734_SE_25062026_re-classification.md",
   "is_material": false,
-  "title": "Shareholders Approve Reclassification of Shreyas Shibulal and Bhairavi Madhusudhan Shibulal to Public Category",
-  "detailed_summary": "Infosys shareholders approved the reclassification of Mr. Shreyas Shibulal and Ms. Bhairavi Madhusudhan Shibulal from the category of 'Promoter and Promoter Group' to 'Public' at the 45th Annual General Meeting held on Tuesday, June 23, 2026. The applicants stand reclassified with immediate effect.",
+  "title": "Shareholders approve reclassification of Shreyas Shibulal and Bhairavi Madhusudhan Shibulal to public category",
+  "detailed_summary": "Infosys stated that shareholders approved the reclassification of Mr. Shreyas Shibulal and Ms. Bhairavi Madhusudhan Shibulal from the “Promoter and Promoter Group” category to the “Public” category at the 45th Annual General Meeting held on Tuesday, June 23, 2026. The reclassification is effective immediately.",
   "key_facts": [
     {
-      "fact": "Shareholders approved the reclassification of Mr. Shreyas Shibulal and Ms. Bhairavi Madhusudhan Shibulal from 'Promoter and Promoter Group' to 'Public'.",
+      "fact": "Shareholders approved the reclassification of Mr. Shreyas Shibulal and Ms. Bhairavi Madhusudhan Shibulal from the category of “Promoter and Promoter Group” to “Public”.",
       "section_heading": null
     },
     {
@@ -13,7 +13,7 @@
       "section_heading": null
     },
     {
-      "fact": "The Applicants stand reclassified to 'Public' category with immediate effect.",
+      "fact": "The Applicants stand reclassified to “Public” category with immediate effect.",
       "section_heading": null
     }
   ],
@@ -36,7 +36,7 @@
   "corporate_actions": [
     {
       "action_type": "promoter reclassification",
-      "description": "Mr. Shreyas Shibulal and Ms. Bhairavi Madhusudhan Shibulal were reclassified from 'Promoter and Promoter Group' to 'Public'.",
+      "description": "Reclassification of Mr. Shreyas Shibulal and Ms. Bhairavi Madhusudhan Shibulal from “Promoter and Promoter Group” to “Public”.",
       "amount_or_ratio": null,
       "effective_date": "with immediate effect",
       "section_heading": null
@@ -50,9 +50,9 @@
   "products_or_platforms": [],
   "important_text_spans": [
     {
-      "text": "the shareholders of the Company, in the 45 th Annual General Meeting held on Tuesday, June 23, 2026, have approved the proposal of re-classification of Mr. Shreyas Shibulal and Ms. Bhairavi Madhusudhan Shibulal ('the Applicants') from the category of 'Promoter and Promoter Group' to 'Public'.",
+      "text": "the shareholders of the Company, in the 45 th  Annual General Meeting held on Tuesday, June 23, 2026, have approved the proposal of re-classification of Mr. Shreyas Shibulal and Ms. Bhairavi Madhusudhan Shibulal",
       "section_heading": null,
-      "reason": "Supports the shareholder approval and identities of the reclassified persons."
+      "reason": "Supports the shareholder approval and identifies the individuals being reclassified."
     },
     {
       "text": "the Applicants stand reclassified to 'Public' category with immediate effect.",
@@ -61,12 +61,16 @@
     }
   ],
   "search_keywords": [
-    "promoter reclassification",
     "Shreyas Shibulal",
     "Bhairavi Madhusudhan Shibulal",
-    "Promoter and Promoter Group",
+    "promoter reclassification",
     "Public category",
     "45th Annual General Meeting"
   ],
-  "processing_notes": "Marked non-material because the document reports a procedural shareholder approval for promoter-group reclassification without shareholding amounts, financial impact, business impact, or strategic change."
+  "sample_questions": [
+    "Who did Infosys shareholders approve for reclassification from promoter group to public category?",
+    "When did Infosys shareholders approve the reclassification of Shreyas Shibulal and Bhairavi Madhusudhan Shibulal?",
+    "When did the Infosys promoter reclassification become effective?"
+  ],
+  "processing_notes": "Marked non-material because the document is a routine compliance update on promoter-category reclassification and does not disclose shareholding percentages, financial impact, business impact, or strategic changes."
 }

@@ -1,11 +1,11 @@
 {
   "document_name": "Infosys_03102025154040_PR_03102025.md",
   "is_material": true,
-  "title": "Infosys Collaborates with Telenor Shared Services on Oracle Cloud HCM Implementation",
-  "detailed_summary": "Infosys announced a collaboration with Telenor Shared Services to modernize TSS's HR operations through implementation of Oracle Cloud Human Capital Management. The engagement is intended to standardize HR processes, enhance employee productivity and experience, streamline HR operations, and unify Human Capital Management, Financial Management, Supply Chain Management, and Projects Portfolio Management on a single platform. No contract value, duration, or financial impact was disclosed.",
+  "title": "Infosys to implement Oracle Cloud HCM for Telenor Shared Services",
+  "detailed_summary": "Infosys announced a collaboration with Telenor Shared Services on October 03, 2025 to modernize TSS's HR operations through implementation of Oracle Cloud Human Capital Management. The project aims to standardize HR processes, enhance employee productivity and experience, streamline HR operations, and unify Human Capital Management, Financial Management, Supply Chain Management, and Projects Portfolio Management on a single platform. The release highlights Infosys's Oracle Cloud HCM implementation capabilities and its digital transformation work for the telecom industry. No contract value, duration, revenue impact, or implementation timeline was disclosed.",
   "key_facts": [
     {
-      "fact": "Infosys announced its collaboration with Telenor Shared Services to implement Oracle Cloud Human Capital Management.",
+      "fact": "Infosys announced a collaboration with Telenor Shared Services to implement Oracle Cloud Human Capital Management.",
       "section_heading": "Infosys Collaborates with Telenor Shared Services to Modernize its HR Operations with a new Oracle Fusion Cloud Human Capital Management (HCM) Solution"
     },
     {
@@ -13,7 +13,7 @@
       "section_heading": "Aims to standardize HR processes, enhance employee productivity and experience"
     },
     {
-      "fact": "Infosys will help TSS streamline HR operations and unify its Human Capital Management, Financial Management, Supply Chain Management, and Projects Portfolio Management on a single platform.",
+      "fact": "Infosys will help TSS streamline HR operations and unify Human Capital Management, Financial Management, Supply Chain Management, and Projects Portfolio Management on a single platform.",
       "section_heading": "Infosys Collaborates with Telenor Shared Services to Modernize its HR Operations with a new Oracle Fusion Cloud Human Capital Management (HCM) Solution"
     },
     {
@@ -21,7 +21,7 @@
       "section_heading": "Infosys Collaborates with Telenor Shared Services to Modernize its HR Operations with a new Oracle Fusion Cloud Human Capital Management (HCM) Solution"
     },
     {
-      "fact": "Infosys stated that the collaboration highlights its expertise in Oracle Cloud HCM implementations and digital transformation solutions for the telecom industry.",
+      "fact": "Infosys stated that it had overcome significant data and system integration challenges to deliver a modern, unified HR platform for TSS.",
       "section_heading": "Infosys Collaborates with Telenor Shared Services to Modernize its HR Operations with a new Oracle Fusion Cloud Human Capital Management (HCM) Solution"
     }
   ],
@@ -44,9 +44,9 @@
   "corporate_actions": [],
   "partnerships_or_deals": [
     {
-      "deal_type": "client contract",
+      "deal_type": "client transformation deal",
       "counterparty": "Telenor Shared Services",
-      "description": "Infosys will help Telenor Shared Services modernize HR operations through implementation of Oracle Cloud Human Capital Management, with the goal of standardizing HR processes and enhancing employee productivity and experience.",
+      "description": "Infosys will help Telenor Shared Services modernize HR operations by implementing Oracle Cloud Human Capital Management and integrating HR, financial, supply chain, and project portfolio management processes on a single platform.",
       "value": null,
       "duration": null,
       "section_heading": "Infosys Collaborates with Telenor Shared Services to Modernize its HR Operations with a new Oracle Fusion Cloud Human Capital Management (HCM) Solution"
@@ -61,26 +61,33 @@
     {
       "text": "Infosys will help TSS standardize HR processes, enhance employee productivity and experience through implementation of Oracle Cloud Human Capital Management (HCM).",
       "section_heading": "Infosys Collaborates with Telenor Shared Services to Modernize its HR Operations with a new Oracle Fusion Cloud Human Capital Management (HCM) Solution",
-      "reason": "Supports the existence and purpose of the Infosys-Telenor Shared Services collaboration."
-    },
-    {
-      "text": "Through this collaboration, Infosys will help TSS streamline HR operations and unify its Human Capital Management, Financial Management, Supply Chain Management, and Projects Portfolio Management on a single platform.",
-      "section_heading": "Infosys Collaborates with Telenor Shared Services to Modernize its HR Operations with a new Oracle Fusion Cloud Human Capital Management (HCM) Solution",
-      "reason": "Identifies the scope of the implementation and business process areas covered."
+      "reason": "Supports the core client engagement and implementation scope."
     },
     {
       "text": "The resulting end-to-end digital integration will improve data quality and enable better decision-making through dashboards and advanced analytics",
       "section_heading": "Infosys Collaborates with Telenor Shared Services to Modernize its HR Operations with a new Oracle Fusion Cloud Human Capital Management (HCM) Solution",
-      "reason": "Supports the stated operational impact of the engagement."
+      "reason": "Supports the expected operational impact of the project."
+    },
+    {
+      "text": "By leveraging our deep Oracle expertise, we have overcome significant data and system integration challenges to deliver a modern, unified HR platform.",
+      "section_heading": "Infosys Collaborates with Telenor Shared Services to Modernize its HR Operations with a new Oracle Fusion Cloud Human Capital Management (HCM) Solution",
+      "reason": "Supports Infosys's stated implementation capability and technical role."
     }
   ],
   "search_keywords": [
     "Telenor Shared Services",
     "Oracle Cloud HCM",
     "Oracle Fusion Cloud Human Capital Management",
-    "HR transformation",
-    "telecom industry",
-    "dashboards and advanced analytics"
+    "HR operations modernization",
+    "telecom digital transformation",
+    "Oracle HCM implementation"
   ],
-  "processing_notes": "No contract value, duration, or financial impact was disclosed. Oracle Cloud HCM was treated as third-party technology used in the client engagement, not as an Infosys product or platform."
+  "sample_questions": [
+    "What did Infosys announce with Telenor Shared Services in October 2025?",
+    "What is the scope of Infosys's Oracle Cloud HCM work for Telenor Shared Services?",
+    "Did Infosys disclose the value or duration of the Telenor Shared Services deal?",
+    "What operational benefits does Infosys expect from the TSS HR modernization project?",
+    "How does the Telenor Shared Services collaboration support Infosys's Oracle Cloud HCM capabilities?"
+  ],
+  "processing_notes": "No contract value, duration, revenue contribution, or implementation timeline was disclosed. Oracle Cloud HCM was treated as a third-party product used in the client engagement, not as an Infosys product or platform."
 }

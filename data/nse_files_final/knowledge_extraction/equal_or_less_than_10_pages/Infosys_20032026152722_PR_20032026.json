@@ -1,8 +1,8 @@
 {
   "document_name": "Infosys_20032026152722_PR_20032026.md",
-  "is_material": false,
-  "title": "Infosys and Formula E launch AI-powered Race Centre",
-  "detailed_summary": "Infosys and Formula E announced the launch of an AI-powered Race Centre, using Infosys Topaz to provide race-day fan engagement features such as AI commentary, predictions, voting, tracking, and data-driven race visualization. The release positions the platform as an innovation showcase, but does not disclose financial terms, contract value, revenue impact, or operational performance metrics.",
+  "is_material": true,
+  "title": "Infosys and Formula E launch AI-powered Race Centre using Infosys Topaz",
+  "detailed_summary": "Infosys and Formula E announced the launch of an AI-powered Race Centre on March 20, 2026. The platform is powered by Infosys Topaz and is intended to enhance Formula E fan engagement through real-time AI commentary, interactive features, weather tracking, race control updates, PIT BOOST and ATTACK MODE tracking, and race storytelling. The release states that Topaz agents process and integrate over 1.5 million data points across each race into the Race Centre dashboard. No contract value, revenue impact, duration, or financial guidance was disclosed.",
   "key_facts": [
     {
       "fact": "Infosys and Formula E announced the launch of a new AI-powered Race Centre powered by Infosys Topaz.",
@@ -13,8 +13,16 @@
       "section_heading": "Infosys and Formula E Launch AI-Powered Race Centre, Taking Fan Experience to Pole Position"
     },
     {
-      "fact": "The Race Centre uses Topaz agents to process and integrate over 1.5 million data points across each race.",
+      "fact": "The Race Centre is described as a unified platform displaying AI commentary, interactive gamified features, static explainer videos, weather tracking, race control updates, PIT BOOST & ATTACK MODE tracking, and in-sync storytelling.",
+      "section_heading": "Infosys and Formula E Launch AI-Powered Race Centre, Taking Fan Experience to Pole Position"
+    },
+    {
+      "fact": "Topaz agents process and integrate over 1.5 million data points across each race, including race control updates, to feed the Race Centre dashboard.",
       "section_heading": "Key features of the Race Centre Include:"
+    },
+    {
+      "fact": "The platform supports Formula E fans across the race lifecycle from practice sessions and qualifying rounds to race day and beyond.",
+      "section_heading": "Infosys and Formula E Launch AI-Powered Race Centre, Taking Fan Experience to Pole Position"
     }
   ],
   "financial_metrics": {
@@ -34,39 +42,69 @@
     "dividend": null
   },
   "corporate_actions": [],
-  "partnerships_or_deals": [],
+  "partnerships_or_deals": [
+    {
+      "deal_type": "strategic partnership",
+      "counterparty": "Formula E",
+      "description": "Infosys is in its second year as Formula E's Official Digital Innovation Partner and launched an AI-powered Race Centre with Formula E.",
+      "value": null,
+      "duration": null,
+      "section_heading": "Infosys and Formula E Launch AI-Powered Race Centre, Taking Fan Experience to Pole Position"
+    }
+  ],
   "leadership_changes": [],
   "litigation_or_regulatory_matters": [],
   "risk_factors": [],
   "esg_or_csr_items": [],
   "products_or_platforms": [
     {
-      "name": "AI-powered Race Centre",
+      "name": "Race Centre",
       "event_type": "launched",
-      "description": "Infosys and Formula E launched a new AI-powered Race Centre powered by Infosys Topaz to deliver real-time insights and fan engagement features.",
-      "target_market_or_use_case": "immersive race-day experience for Formula E fans",
+      "description": "AI-powered digital platform powered by Infosys Topaz to deliver real-time insights and fan engagement features for Formula E.",
+      "target_market_or_use_case": "Formula E fan engagement and race-day experience",
       "section_heading": "Infosys and Formula E Launch AI-Powered Race Centre, Taking Fan Experience to Pole Position"
+    },
+    {
+      "name": "Infosys Topaz",
+      "event_type": "integrated",
+      "description": "Infosys Topaz powers the Race Centre, including real-time context-aware race narration and agentic AI data orchestration.",
+      "target_market_or_use_case": "AI-powered sports fan experience and data orchestration",
+      "section_heading": "Key features of the Race Centre Include:"
     }
   ],
   "important_text_spans": [
     {
       "text": "Infosys (NSE, BSE, NYSE: INFY), a global leader in next generation digital services and consulting, and Formula E, the world's first all-electric FIA World Championship, today announced the launch of a new AI-powered Race Centre.",
       "section_heading": "Infosys and Formula E Launch AI-Powered Race Centre, Taking Fan Experience to Pole Position",
-      "reason": "Supports the main launch event and parties involved."
+      "reason": "Supports the main launch event and identifies the counterparty."
     },
     {
-      "text": "Topaz agents seamlessly process and integrate over 1.5 million data points across each race",
+      "text": "Powered by Infosys Topaz, the Race Centre places fans at the center of the action, using intelligent data to create an immersive race-day experience powered by cutting-edge innovations in AI and digital technology.",
+      "section_heading": "Infosys and Formula E Launch AI-Powered Race Centre, Taking Fan Experience to Pole Position",
+      "reason": "Supports the role of Infosys Topaz and the intended use case."
+    },
+    {
+      "text": "Topaz agents seamlessly process and integrate over 1.5 million data points across each race including race control updates that feed into the Race Centre dashboard",
       "section_heading": "Key features of the Race Centre Include:",
-      "reason": "Supports the key quantitative technology claim."
+      "reason": "Supports the stated operational scale of the AI data orchestration."
     }
   ],
   "search_keywords": [
     "Formula E",
     "Race Centre",
     "Infosys Topaz",
-    "AI-powered Race Centre",
     "Official Digital Innovation Partner",
-    "Generative AI Commentary Engine"
+    "AI commentary",
+    "agentic AI",
+    "fan engagement",
+    "1.5 million data points"
   ],
-  "processing_notes": "Treated as non-material because the release is mainly a fan-engagement and marketing innovation announcement with no disclosed financial terms, contract value, revenue impact, or operational performance update."
+  "sample_questions": [
+    "What did Infosys launch with Formula E in March 2026?",
+    "How is Infosys Topaz used in Formula E's Race Centre?",
+    "What is the scale of data processed by Topaz agents in the Race Centre?",
+    "Did Infosys disclose any financial value or revenue impact for the Formula E Race Centre launch?",
+    "What is Infosys's role as Formula E's Official Digital Innovation Partner?"
+  ],
+  "processing_notes": "No contract value, duration, revenue impact, or financial guidance was disclosed. Generic company background, quotes, safe harbor language, contact details, and exchange submission details were excluded."
 }

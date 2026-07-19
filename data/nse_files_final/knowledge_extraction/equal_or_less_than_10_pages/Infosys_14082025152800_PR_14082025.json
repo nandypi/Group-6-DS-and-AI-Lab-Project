@@ -1,11 +1,11 @@
 {
   "document_name": "Infosys_14082025152800_PR_14082025.md",
   "is_material": false,
-  "title": "Infosys Knowledge Institute Releases Responsible AI Research for Agentic AI Era",
-  "detailed_summary": "Infosys Knowledge Institute released research on responsible AI readiness as agentic AI adoption grows. The study surveyed 1,502 business executives and interviewed 40 senior decision-makers across Australia, France, Germany, UK, US, and New Zealand. It found widespread AI-related incidents and a gap between enterprise AI adoption and responsible AI controls, but did not disclose Infosys financial performance, guidance, contracts, or corporate actions.",
+  "title": "Infosys Knowledge Institute Releases Responsible AI Research Report",
+  "detailed_summary": "Infosys Knowledge Institute released findings from its Responsible Enterprise AI in the Agentic Era report. The research surveyed over 1,500 business executives and interviewed 40 senior decision-makers, finding broad AI-related incident exposure and a gap between responsible AI adoption and readiness. The announcement is primarily thought leadership and does not disclose Infosys financial results, guidance, deals, or corporate actions.",
   "key_facts": [
     {
-      "fact": "Infosys Knowledge Institute unveiled findings from its report, Responsible Enterprise AI in the Agentic Era.",
+      "fact": "Infosys Knowledge Institute unveiled insights from the report Responsible Enterprise AI in the Agentic Era.",
       "section_heading": "PRESS RELEASE"
     },
     {
@@ -13,7 +13,7 @@
       "section_heading": "PRESS RELEASE"
     },
     {
-      "fact": "The findings show that while 78% of companies see RAI as a business growth driver, only 2% have adequate RAI controls in place to safeguard against reputational risk and financial loss.",
+      "fact": "The findings state that 78% of companies see RAI as a business growth driver, while only 2% have adequate RAI controls in place to safeguard against reputational risk and financial loss.",
       "section_heading": "PRESS RELEASE"
     }
   ],
@@ -44,21 +44,26 @@
     {
       "text": "while 78% of companies see RAI as a business growth driver, only 2% have adequate RAI controls in place to safeguard against reputational risk and financial loss.",
       "section_heading": "PRESS RELEASE",
-      "reason": "Supports the central finding of the Infosys research report."
+      "reason": "Supports the central finding of the Infosys Knowledge Institute report."
     },
     {
-      "text": "95% of C-suite and director-level executives report AI-related incidents in the past two years.",
-      "section_heading": "AI risks are widespread and can be severe",
-      "reason": "Shows the reported scale of AI-related incidents in the surveyed enterprises."
+      "text": "Infosys used an anonymous format to conduct an online survey of 1,502 business executives",
+      "section_heading": "Methodology",
+      "reason": "Supports the scale of the research methodology."
     }
   ],
   "search_keywords": [
     "Infosys Knowledge Institute",
     "Responsible Enterprise AI in the Agentic Era",
-    "responsible AI",
+    "Responsible AI",
     "agentic AI",
     "RAISE BAR",
     "AI3S"
   ],
-  "processing_notes": "Marked non-material because the document is a thought-leadership research press release and does not disclose Infosys financial results, guidance, client wins, corporate actions, or other direct operating updates. Generic company boilerplate and safe harbor language were excluded."
+  "sample_questions": [
+    "What did Infosys Knowledge Institute report about responsible AI readiness in August 2025?",
+    "How many executives were surveyed for Infosys’s Responsible Enterprise AI in the Agentic Era report?",
+    "Did the August 2025 Infosys responsible AI announcement include any financial guidance or deal value?"
+  ],
+  "processing_notes": "The document was treated as non-material because it is primarily a research and thought-leadership press release, with no disclosed Infosys financial results, guidance, transaction, client deal, leadership change, or corporate action."
 }

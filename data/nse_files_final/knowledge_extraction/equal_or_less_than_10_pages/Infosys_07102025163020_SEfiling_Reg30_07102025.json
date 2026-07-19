@@ -1,20 +1,20 @@
 {
   "document_name": "Infosys_07102025163020_SEfiling_Reg30_07102025.md",
   "is_material": false,
-  "title": "Infosys receives penalty order for alleged non-realization of export proceeds",
-  "detailed_summary": "Infosys received communication from the Assistant Commissioner of Central tax for collection of a penalty totaling INR 1,13,59,395/-. The matter relates to alleged non-realization of export proceeds on account of write off of invoices for FY 2018-19 to 2022-23. Infosys stated there is no material impact on its financials, operations, or other activities.",
+  "title": "Infosys Receives INR 1,13,59,395 Penalty Demand From Assistant Commissioner of Central Tax",
+  "detailed_summary": "Infosys received communication for collection of a penalty from the Assistant Commissioner of Central tax. The total penalty is INR 1,13,59,395/- relating to alleged non-realization of export proceeds on account of write off of invoices for FY 2018-19 to 2022-23. Infosys stated there is no material impact on its financials, operations, or other activities.",
   "key_facts": [
     {
-      "fact": "The Assistant Commissioner of Central tax passed orders/action for a total penalty of INR 1,13,59,395/-.",
-      "section_heading": null
+      "fact": "Infosys received communication for collection of a penalty from the Assistant Commissioner of Central tax.",
+      "section_heading": "Sub:  Company Statement"
     },
     {
-      "fact": "The demand was issued for alleged non-realization of export proceeds on account of write off of invoices for FY 2018-19 to 2022-23.",
-      "section_heading": null
+      "fact": "The total penalty is INR 1,13,59,395/-.",
+      "section_heading": "Sub:  Company Statement"
     },
     {
-      "fact": "Infosys stated there is no material impact on financials, operations or other activities of the Company.",
-      "section_heading": null
+      "fact": "Infosys stated that there is no material impact on financials, operations or other activities of the Company.",
+      "section_heading": "Sub:  Company Statement"
     }
   ],
   "financial_metrics": {
@@ -40,10 +40,10 @@
     {
       "matter_type": "penalty",
       "authority_or_counterparty": "Assistant Commissioner of Central tax",
-      "description": "Penalty order/action for alleged non-realization of export proceeds on account of write off of invoices for FY 2018-19 to 2022-23.",
+      "description": "Demand issued for alleged non- realization of export proceeds on account of write off of invoices for the FY 2018-19 to 2022-23.",
       "amount": "INR 1,13,59,395/-",
       "status": "Orders passed/ action taken.",
-      "section_heading": null
+      "section_heading": "Sub:  Company Statement"
     }
   ],
   "risk_factors": [],
@@ -52,22 +52,26 @@
   "important_text_spans": [
     {
       "text": "Total Penalty - INR 1,13,59,395/-",
-      "section_heading": null,
-      "reason": "Supports the penalty amount."
+      "section_heading": "Sub:  Company Statement",
+      "reason": "Supports the monetary size of the penalty."
     },
     {
       "text": "None, there is no material impact on financials, operations or other activities of the Company.",
-      "section_heading": null,
-      "reason": "Supports Infosys's stated impact assessment."
+      "section_heading": "Sub:  Company Statement",
+      "reason": "Supports the company's stated impact assessment."
     }
   ],
   "search_keywords": [
     "Assistant Commissioner of Central tax",
-    "penalty",
-    "INR 1,13,59,395/-",
+    "INR 1,13,59,395 penalty",
     "non-realization of export proceeds",
     "write off of invoices",
     "FY 2018-19 to 2022-23"
   ],
-  "processing_notes": "Marked non-material because the document reports a relatively limited regulatory penalty and explicitly states no material impact on Infosys financials, operations, or other activities."
+  "sample_questions": [
+    "What penalty demand did Infosys receive from the Assistant Commissioner of Central tax?",
+    "What was the amount of the Infosys penalty related to export proceeds?",
+    "Did Infosys say the tax penalty would materially affect its financials or operations?"
+  ],
+  "processing_notes": "Marked non-material because the disclosed penalty amount is limited and Infosys explicitly stated there is no material impact on financials, operations, or other activities."
 }

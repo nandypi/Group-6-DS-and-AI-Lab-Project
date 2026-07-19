@@ -1,11 +1,11 @@
 {
   "document_name": "INFY_01052026115302_2_SubmissionofApplication_April302026_2.md",
   "is_material": true,
-  "title": "Board-approved reclassification request by Shreyas Shibulal and Bhairavi Madhusudhan Shibulal",
-  "detailed_summary": "Infosys disclosed that its Board approved a request received from Mr. Shreyas Shibulal and Ms. Bhairavi Madhusudhan Shibulal to reclassify their names from the 'Promoter and promoter group' category to 'Public' under Regulation 31A of the SEBI Listing Obligations and Disclosure Requirements Regulations, 2015. The document does not disclose shareholding percentages, financial impact, or any change in management control.",
+  "title": "Infosys Board Approves Promoter Group Reclassification Request",
+  "detailed_summary": "Infosys disclosed that its Board approved a request from Mr. Shreyas Shibulal and Ms. Bhairavi Madhusudhan Shibulal to reclassify their names from the 'Promoter and promoter group' category to 'Public' under Regulation 31A of SEBI LODR. The document does not disclose any shareholding percentages, financial impact, or change in management control.",
   "key_facts": [
     {
-      "fact": "The Board of Infosys approved the request received from Mr. Shreyas Shibulal and Ms. Bhairavi Madhusudhan Shibulal for reclassification from 'Promoter and promoter group' to 'Public'.",
+      "fact": "Infosys’s Board approved a request from Mr. Shreyas Shibulal and Ms. Bhairavi Madhusudhan Shibulal seeking reclassification from the category of 'Promoter and promoter group' to 'Public'.",
       "section_heading": null
     },
     {
@@ -13,7 +13,7 @@
       "section_heading": null
     },
     {
-      "fact": "The prior disclosure regarding Board approval was made on April 30, 2026.",
+      "fact": "The document does not disclose any shareholding percentage, financial impact, or change in control associated with the reclassification request.",
       "section_heading": null
     }
   ],
@@ -52,20 +52,27 @@
     {
       "text": "approval by the Board of the Company for  the  request  received  from  Mr.  Shreyas  Shibulal  and  Ms.  Bhairavi  Madhusudhan  Shibulal  seeking reclassification of their names from the category of 'Promoter and promoter group' of the Company to 'Public'",
       "section_heading": null,
-      "reason": "Supports the core governance-related reclassification event."
+      "reason": "Supports the main governance-related reclassification event."
     },
     {
       "text": "in  terms  of  Regulation  31A  of  the  SEBI  (Listing  Obligations  and  Disclosure  Requirements) Regulations, 2015",
       "section_heading": null,
-      "reason": "Identifies the regulatory basis for the reclassification request."
+      "reason": "Identifies the regulatory framework for the reclassification."
     }
   ],
   "search_keywords": [
     "Shreyas Shibulal",
     "Bhairavi Madhusudhan Shibulal",
     "promoter reclassification",
-    "promoter group to public",
-    "Regulation 31A"
+    "Promoter and promoter group",
+    "Regulation 31A",
+    "SEBI LODR"
   ],
-  "processing_notes": "Excluded stock-exchange application submission details as instructed. No shareholding percentage, financial impact, or effective reclassification date was disclosed."
+  "sample_questions": [
+    "Who sought reclassification from Infosys’s promoter group to public in 2026?",
+    "What did Infosys’s Board approve regarding Shreyas Shibulal and Bhairavi Madhusudhan Shibulal?",
+    "Did Infosys disclose any financial impact or shareholding percentage for the promoter reclassification?",
+    "Which SEBI regulation governed the Infosys promoter group reclassification request?"
+  ],
+  "processing_notes": "The document is governance-relevant but does not provide shareholding percentages, control implications, or financial impact. Stock-exchange submission mechanics and signatory details were excluded."
 }

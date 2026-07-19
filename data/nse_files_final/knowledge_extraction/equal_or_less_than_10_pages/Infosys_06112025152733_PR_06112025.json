@@ -2,10 +2,10 @@
   "document_name": "Infosys_06112025152733_PR_06112025.md",
   "is_material": true,
   "title": "Infosys Develops AI Agent for Energy Sector Operations",
-  "detailed_summary": "Infosys announced that it has developed an AI Agent designed to digitally transform operations in the energy sector. The solution uses Infosys Topaz, Infosys Cobalt, Microsoft Copilot Studio, Azure OpenAI in Foundry Models, and ChatGPT4o. Infosys said the AI Agent uses conversational AI to convert real-time operational data into actionable insights, automate reports, provide predictive insights and early warnings, and improve safety, reliability, efficiency, decision-making, wellbore quality, operational performance, and non-productive time.",
+  "detailed_summary": "Infosys announced on November 06, 2025 that it has developed an AI Agent aimed at digitally transforming operations in the energy sector. The solution uses Infosys Topaz, Infosys Cobalt, Microsoft Copilot Studio, Azure OpenAI in Foundry Models, and ChatGPT4o. It is designed to convert real-time operational data into actionable insights through conversational AI, automate reports, provide predictive insights and early warnings, and improve safety, reliability, wellbore quality, operational performance, and non-productive time. No financial value, client contract, revenue impact, or deployment scale was disclosed.",
   "key_facts": [
     {
-      "fact": "Infosys developed an AI Agent designed to digitally transform operations in the energy sector.",
+      "fact": "Infosys has developed an AI Agent designed to digitally transform operations in the energy sector.",
       "section_heading": "Infosys Develops AI Agent to Enhance Operations in the Energy Sector"
     },
     {
@@ -13,7 +13,7 @@
       "section_heading": "Infosys Develops AI Agent to Enhance Operations in the Energy Sector"
     },
     {
-      "fact": "Infosys said the AI Agent uses conversational AI to transform real-time data into actionable insights, provide critical information, automate reports, and improve safety, reliability, efficiency and decision-making.",
+      "fact": "The AI Agent uses conversational AI to transform real-time data into actionable insights, provide critical information, automate reports, and support safety, reliability, efficiency, and decision-making.",
       "section_heading": "Infosys Develops AI Agent to Enhance Operations in the Energy Sector"
     },
     {
@@ -21,7 +21,11 @@
       "section_heading": "Infosys Develops AI Agent to Enhance Operations in the Energy Sector"
     },
     {
-      "fact": "Infosys said the solution provides predictive insights and early warnings to anticipate real-time operational challenges and reduce non-productive time.",
+      "fact": "The solution provides predictive insights and early warnings intended to help anticipate real-time operational challenges, plan work, minimize delays and errors, and access information instantly.",
+      "section_heading": "Infosys Develops AI Agent to Enhance Operations in the Energy Sector"
+    },
+    {
+      "fact": "The stated operational benefits include improved safety and reliability, wellbore quality, optimized operations performance, and reduced non-productive time (NPT).",
       "section_heading": "Infosys Develops AI Agent to Enhance Operations in the Energy Sector"
     }
   ],
@@ -51,7 +55,7 @@
     {
       "name": "AI Agent",
       "event_type": "developed",
-      "description": "Infosys developed an AI Agent that uses conversational AI to transform real-time operational data into actionable insights, automate reports, provide predictive insights and early warnings, and support operational decision-making.",
+      "description": "Infosys developed an AI Agent that uses conversational AI to convert real-time operational data into actionable insights, automate reports, and provide predictive insights and early warnings.",
       "target_market_or_use_case": "operations in the energy sector",
       "section_heading": "Infosys Develops AI Agent to Enhance Operations in the Energy Sector"
     }
@@ -60,7 +64,7 @@
     {
       "text": "Infosys (NSE, BSE, NYSE: INFY), a global leader in nextgeneration digital services and consulting, has developed an AI Agent designed to digitally transform operations in the energy sector.",
       "section_heading": "Infosys Develops AI Agent to Enhance Operations in the Energy Sector",
-      "reason": "Supports the main product development announcement and target sector."
+      "reason": "Supports the main product development event and target sector."
     },
     {
       "text": "This productivity solution leverages Infosys Topaz, an AI-first offering using generative AI technologies, Infosys Cobalt, a set of services, solutions and platforms for enterprises to accelerate their cloud journey, alongside Microsoft Copilot Studio, Azure OpenAI in Foundry Models, and ChatGPT4o.",
@@ -70,12 +74,17 @@
     {
       "text": "It enhances operations by using conversational AI to transform real-time data into actionable insights, providing critical information, automating reports, and boosting safety, reliability, efficiency and decision-making.",
       "section_heading": "Infosys Develops AI Agent to Enhance Operations in the Energy Sector",
-      "reason": "Describes the stated operational benefits and business relevance of the AI Agent."
+      "reason": "Describes the stated operational purpose and business impact of the AI Agent."
+    },
+    {
+      "text": "This ultimately leads to improved safety and reliability, wellbore quality, optimized operations performance, and reduced non-productive time (NPT).",
+      "section_heading": "Infosys Develops AI Agent to Enhance Operations in the Energy Sector",
+      "reason": "Captures the stated operational benefits relevant to customer value proposition."
     }
   ],
   "search_keywords": [
     "AI Agent",
-    "energy sector operations",
+    "energy sector",
     "Infosys Topaz",
     "Infosys Cobalt",
     "Microsoft Copilot Studio",
@@ -83,5 +92,12 @@
     "ChatGPT4o",
     "non-productive time"
   ],
-  "processing_notes": "No financial metrics, deal value, client contract, or commercial partnership terms were disclosed. Microsoft technologies were included as enabling context, but the document does not disclose a new material commercial partnership or deal with Microsoft."
+  "sample_questions": [
+    "What AI Agent did Infosys announce for the energy sector on November 06, 2025?",
+    "Which Infosys and Microsoft technologies are used in Infosys's energy-sector AI Agent?",
+    "What operational problems is Infosys's AI Agent for the energy sector designed to address?",
+    "What benefits does Infosys claim from its AI Agent for energy operations?",
+    "Did Infosys disclose any financial value, client contract, or revenue impact for the AI Agent announcement?"
+  ],
+  "processing_notes": "No financial metrics, contract value, client deployment, or commercial deal terms were disclosed. Microsoft is referenced as a technology collaborator, but the document does not describe a new commercial partnership or deal."
 }

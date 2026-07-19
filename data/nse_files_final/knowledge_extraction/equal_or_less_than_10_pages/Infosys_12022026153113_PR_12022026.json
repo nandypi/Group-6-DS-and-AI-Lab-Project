@@ -1,31 +1,31 @@
 {
   "document_name": "Infosys_12022026153113_PR_12022026.md",
   "is_material": true,
-  "title": "Infosys Expands Collaboration with ExxonMobil for Immersion Cooling in AI Infrastructure",
-  "detailed_summary": "Infosys announced an expanded strategic collaboration with ExxonMobil to develop and deploy ExxonMobil™ Data Center Immersion Fluids for more energy-efficient AI and High-Performance Computing infrastructure. The collaboration uses Infosys Topaz for AI-driven cooling optimization and Infosys Cobalt for secure, scalable deployment across cloud and data center environments. Infosys stated the initiative targets hyperscalers, global enterprises, and public sector organizations in sectors including financial services, telecom, manufacturing, energy, and government, with potential outcomes including lower data center energy costs and reduced carbon emissions.",
+  "title": "Infosys expands collaboration with ExxonMobil for immersion cooling in AI and HPC infrastructure",
+  "detailed_summary": "Infosys announced an expanded strategic collaboration with ExxonMobil to develop and deploy ExxonMobil Data Center Immersion Fluids for sustainable AI and High-Performance Computing infrastructure. The collaboration combines ExxonMobil’s immersion cooling fluids with Infosys Topaz for AI-driven real-time optimization of cooling operations and Infosys Cobalt for secure, scalable cloud and data center deployment. Infosys said the initiative is aimed at hyperscalers, global enterprises, and public sector organizations across sectors including financial services, telecom, manufacturing, energy, and government. No deal value, duration, revenue impact, or deployment timeline was disclosed.",
   "key_facts": [
     {
-      "fact": "Infosys announced the expansion of its strategic collaboration with ExxonMobil to develop and deploy ExxonMobil™ Data Center Immersion Fluids.",
+      "fact": "Infosys announced the expansion of its strategic collaboration with ExxonMobil to develop and deploy ExxonMobil Data Center Immersion Fluids.",
       "section_heading": "Infosys Collaborates with ExxonMobil to Advance Immersion Cooling for Sustainable AI Infrastructure"
     },
     {
-      "fact": "The collaboration is intended to support high-efficiency cooling systems for AI and HighPerformance Computing (HPC) workloads.",
+      "fact": "The collaboration is intended to support high-efficiency cooling systems for AI and High-Performance Computing workloads.",
       "section_heading": "Infosys Collaborates with ExxonMobil to Advance Immersion Cooling for Sustainable AI Infrastructure"
     },
     {
-      "fact": "Infosys Topaz will be used for real-time optimization of cooling operations, including smarter energy use, predictive maintenance, and scalable, reliable, and sustainable infrastructure.",
+      "fact": "Infosys Topaz will be used for real-time optimization of cooling operations, smarter energy use, predictive maintenance, and scalable sustainable infrastructure.",
       "section_heading": "Infosys Collaborates with ExxonMobil to Advance Immersion Cooling for Sustainable AI Infrastructure"
     },
     {
-      "fact": "Infosys Cobalt will provide a secure, scalable foundation for deploying the solutions across cloud and data center environments.",
+      "fact": "Infosys Cobalt will provide a secure, scalable foundation for deployment across cloud and data center environments.",
       "section_heading": "Infosys Collaborates with ExxonMobil to Advance Immersion Cooling for Sustainable AI Infrastructure"
     },
     {
-      "fact": "Infosys will focus on scalable solutions for hyperscalers, global enterprises, and public sector organizations across financial services, telecom, manufacturing, energy, and government.",
+      "fact": "Infosys said it will focus on scalable solutions for hyperscalers, global enterprises, and public sector organizations across financial services, telecom, manufacturing, energy, and government.",
       "section_heading": "Infosys Collaborates with ExxonMobil to Advance Immersion Cooling for Sustainable AI Infrastructure"
     },
     {
-      "fact": "Infosys stated that the collaboration has the potential to reduce data center energy costs and carbon emissions.",
+      "fact": "No financial value, contract duration, revenue impact, or deployment timeline was disclosed.",
       "section_heading": "Infosys Collaborates with ExxonMobil to Advance Immersion Cooling for Sustainable AI Infrastructure"
     }
   ],
@@ -50,7 +50,7 @@
     {
       "deal_type": "strategic collaboration",
       "counterparty": "ExxonMobil",
-      "description": "Infosys expanded its strategic collaboration with ExxonMobil to develop and deploy ExxonMobil™ Data Center Immersion Fluids for energy-efficient cooling systems supporting AI and HighPerformance Computing workloads.",
+      "description": "Infosys expanded its strategic collaboration with ExxonMobil to develop and deploy ExxonMobil Data Center Immersion Fluids, using Infosys Topaz and Infosys Cobalt to support AI and High-Performance Computing infrastructure.",
       "value": null,
       "duration": null,
       "section_heading": "Infosys Collaborates with ExxonMobil to Advance Immersion Cooling for Sustainable AI Infrastructure"
@@ -61,7 +61,7 @@
   "risk_factors": [],
   "esg_or_csr_items": [
     {
-      "item": "The collaboration is connected to Infosys' commitment to energy innovation, decarbonization, and sustainable digital infrastructure, with stated potential to reduce data center energy costs and carbon emissions.",
+      "item": "The collaboration is positioned as supporting energy efficiency, sustainable infrastructure, reduced data center energy costs, and lower carbon emissions.",
       "amount": null,
       "section_heading": "Infosys Collaborates with ExxonMobil to Advance Immersion Cooling for Sustainable AI Infrastructure"
     }
@@ -69,16 +69,16 @@
   "products_or_platforms": [
     {
       "name": "Infosys Topaz",
-      "event_type": "leveraged",
-      "description": "Infosys Topaz will enable real-time optimization of cooling operations for smarter energy use, predictive maintenance, and scalable, reliable, and sustainable infrastructure.",
-      "target_market_or_use_case": "AI and HighPerformance Computing workloads",
+      "event_type": "deployed in collaboration",
+      "description": "Infosys Topaz will support real-time optimization of cooling operations, smarter energy use, predictive maintenance, and scalable sustainable infrastructure.",
+      "target_market_or_use_case": "AI and High-Performance Computing data center cooling",
       "section_heading": "Infosys Collaborates with ExxonMobil to Advance Immersion Cooling for Sustainable AI Infrastructure"
     },
     {
       "name": "Infosys Cobalt",
-      "event_type": "leveraged",
-      "description": "Infosys Cobalt will provide a secure, scalable foundation for deployment across cloud and data center environments.",
-      "target_market_or_use_case": "cloud and data center environments",
+      "event_type": "deployed in collaboration",
+      "description": "Infosys Cobalt will provide a secure, scalable foundation for deploying the immersion cooling solutions across cloud and data center environments.",
+      "target_market_or_use_case": "Cloud and data center deployment for enterprise clients",
       "section_heading": "Infosys Collaborates with ExxonMobil to Advance Immersion Cooling for Sustainable AI Infrastructure"
     }
   ],
@@ -86,22 +86,22 @@
     {
       "text": "today announced the expansion of its strategic collaboration with ExxonMobil to develop and deploy its industry-leading suite of ExxonMobil™ Data Center Immersion Fluids",
       "section_heading": "Infosys Collaborates with ExxonMobil to Advance Immersion Cooling for Sustainable AI Infrastructure",
-      "reason": "Supports the main collaboration disclosure."
+      "reason": "Supports the main collaboration event and counterparty."
     },
     {
       "text": "the collaboration will enable the development and deployment of high-efficiency cooling systems that can meet the growing demands of AI and HighPerformance Computing (HPC) workloads.",
       "section_heading": "Infosys Collaborates with ExxonMobil to Advance Immersion Cooling for Sustainable AI Infrastructure",
-      "reason": "Supports the strategic use case for the collaboration."
+      "reason": "Supports the strategic use case for AI and HPC infrastructure."
     },
     {
       "text": "Infosys Topaz will enable real-time optimization of cooling operations, ensuring smarter energy use, predictive maintenance, and scalable, reliable, and sustainable infrastructure.",
       "section_heading": "Infosys Collaborates with ExxonMobil to Advance Immersion Cooling for Sustainable AI Infrastructure",
-      "reason": "Supports Infosys Topaz's role in the initiative."
+      "reason": "Supports the role of Infosys Topaz in the collaboration."
     },
     {
       "text": "Infosys Cobalt will provide a secure, scalable foundation for the deployment of these solutions across cloud and data center environments",
       "section_heading": "Infosys Collaborates with ExxonMobil to Advance Immersion Cooling for Sustainable AI Infrastructure",
-      "reason": "Supports Infosys Cobalt's role in the initiative."
+      "reason": "Supports the role of Infosys Cobalt in deployment."
     }
   ],
   "search_keywords": [
@@ -111,8 +111,15 @@
     "Infosys Cobalt",
     "immersion cooling",
     "AI infrastructure",
-    "HighPerformance Computing",
+    "High-Performance Computing",
     "data center energy efficiency"
   ],
-  "processing_notes": "No financial terms, deal value, duration, or quantified expected impact were disclosed. Generic company profile and safe harbor content were excluded."
+  "sample_questions": [
+    "What did Infosys announce with ExxonMobil on immersion cooling?",
+    "How are Infosys Topaz and Infosys Cobalt involved in the ExxonMobil collaboration?",
+    "Did Infosys disclose any financial value or duration for the ExxonMobil immersion cooling collaboration?",
+    "What markets or customer segments is Infosys targeting with the ExxonMobil data center cooling collaboration?",
+    "What business impact does Infosys expect from the ExxonMobil immersion cooling initiative?"
+  ],
+  "processing_notes": "The document does not disclose deal value, duration, revenue impact, or a deployment timeline. Generic company profile details and safe harbor risks were excluded."
 }

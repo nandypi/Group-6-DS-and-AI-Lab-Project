@@ -1,19 +1,19 @@
 {
   "document_name": "Infosys_20012026132058_PR_20012026.md",
   "is_material": false,
-  "title": "Infosys Recognized Among Top 3 Most Valuable IT Services Brands Globally",
-  "detailed_summary": "Infosys announced that Brand Finance recognized it as one of the world's top 3 most valuable IT services brands in the Brand Finance Global 500 2026 report. The release states Infosys had a brand value of US$ 16.4 billion in 2026, a 15% CAGR in brand value over six years, and ranked #80 in the Global 500 2026.",
+  "title": "Infosys Recognized as a Top 3 Global IT Services Brand by Brand Finance",
+  "detailed_summary": "Infosys announced that Brand Finance recognized it as one of the world’s top 3 most valuable IT services brands in the Brand Finance Global 500 2026 report. Infosys reported a brand value of US$ 16.4 billion in 2026, 15% CAGR in brand value over six years, a Brand Strength Index score of 86.8 out of 100, and rank #80 within the Global 500 2026.",
   "key_facts": [
     {
       "fact": "Brand Finance recognized Infosys as one of the world's top 3 most valuable IT services brands.",
       "section_heading": "Infosys is the Fastest Growing IT Services Brand Globally with a CAGR of 15% in Brand Value"
     },
     {
-      "fact": "Infosys was recognized as the fastest-growing IT services brand with 15% CAGR over the last six years and a brand value of US$ 16.4 billion in 2026.",
+      "fact": "Infosys reported a brand value of US$ 16.4 billion in 2026 and 15% CAGR in brand value over the last six years.",
       "section_heading": "Infosys is the Fastest Growing IT Services Brand Globally with a CAGR of 15% in Brand Value"
     },
     {
-      "fact": "Infosys achieved a Brand Strength Index score of 86.8 out of 100 and ranked #80 within the Global 500 2026, an improvement of 16 places over the 2025 ranking.",
+      "fact": "Infosys achieved a Brand Strength Index score of 86.8 out of 100 and ranked #80 within the Global 500 2026, improving by 16 places over the 2025 ranking.",
       "section_heading": "Infosys is the Fastest Growing IT Services Brand Globally with a CAGR of 15% in Brand Value"
     }
   ],
@@ -42,25 +42,30 @@
   "products_or_platforms": [],
   "important_text_spans": [
     {
-      "text": "recognized by Brand Finance, the world's leading brand valuation firm, as one of the world's top 3 most valuable IT services brands.",
+      "text": "one of the world's top 3 most valuable IT services brands",
       "section_heading": "Infosys is the Fastest Growing IT Services Brand Globally with a CAGR of 15% in Brand Value",
-      "reason": "Supports the main recognition claim."
+      "reason": "Supports the main recognition announced by Infosys."
     },
     {
-      "text": "fastest-growing brand with 15% CAGR over the last six years and a brand value of US$ 16.4 billion in 2026.",
+      "text": "a brand value of US$ 16.4 billion in 2026",
       "section_heading": "Infosys is the Fastest Growing IT Services Brand Globally with a CAGR of 15% in Brand Value",
-      "reason": "Supports the quantitative brand value and growth claim."
+      "reason": "Provides the quantitative scale of the brand valuation."
     }
   ],
   "search_keywords": [
     "Brand Finance Global 500 2026",
     "brand value US$ 16.4 billion",
-    "15% CAGR brand value",
+    "15% CAGR",
     "Brand Strength Index 86.8",
     "top 3 IT services brand",
     "Infosys Topaz",
     "Infosys Cobalt",
     "Infosys Aster"
   ],
-  "processing_notes": "Marked non-material because the document is primarily an award/brand recognition announcement rather than a disclosure of financial performance, operations, guidance, governance, capital allocation, or a material business transaction. Brand value was not extracted into financial_metrics because it is a third-party brand valuation, not a reported financial metric."
+  "sample_questions": [
+    "What did Brand Finance recognize Infosys for in the Global 500 2026 report?",
+    "What was Infosys’s brand value in 2026 according to Brand Finance?",
+    "What Brand Strength Index score and Global 500 rank did Infosys report in 2026?"
+  ],
+  "processing_notes": "Marked non-material because the document is primarily an awards and brand-recognition announcement rather than a disclosure on financial performance, operations, strategy change, capital allocation, governance, or a material commercial event. Product names were retained only as search keywords because the document did not announce a launch or update."
 }

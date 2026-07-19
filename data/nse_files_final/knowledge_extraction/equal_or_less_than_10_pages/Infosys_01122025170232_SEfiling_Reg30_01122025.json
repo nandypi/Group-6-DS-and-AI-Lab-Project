@@ -1,8 +1,8 @@
 {
   "document_name": "Infosys_01122025170232_SEfiling_Reg30_01122025.md",
   "is_material": true,
-  "title": "Infosys Receives GST Penalty Communication of INR 13,60,11,264",
-  "detailed_summary": "Infosys disclosed that it received communication for collection of a penalty from the Joint Commissioner of CGST. The order/action relates to a total penalty of INR 13,60,11,264/- for alleged non-payment of GST on stay of employees of other GSTINs, described as distinct persons, in guest houses for business purposes for FY 2018-19 to 2022-23. Infosys stated that there is no material impact on its financials, operations or other activities.",
+  "title": "Infosys receives INR 13,60,11,264 GST penalty order",
+  "detailed_summary": "Infosys disclosed that it received communication from the Joint Commissioner of CGST for collection of a penalty totaling INR 13,60,11,264/-. The matter relates to an alleged non-payment of GST on the stay of employees of other GSTINs, described as distinct persons, in guest houses for business purposes for FY 2018-19 to 2022-23. Infosys stated that there is no material impact on its financials, operations, or other activities. The communication was received on November 28, 2025 18:10 IST, and the company said disclosure was delayed while checking veracity and determining further steps.",
   "key_facts": [
     {
       "fact": "Infosys received communication(s) for collection of penalty from the Joint Commissioner of CGST.",
@@ -13,11 +13,15 @@
       "section_heading": "Sub:  Company Statement"
     },
     {
-      "fact": "The demand relates to alleged non-payment of GST on stay of employees of other GSTINs (distinct person) in guest house for business purposes for FY 2018-19 to 2022-23.",
+      "fact": "The penalty relates to alleged non-payment of GST on stay of employees of other GSTINs (distinct person) in Guest house for business purposes for FY 2018-19 to 2022-23.",
       "section_heading": "Sub:  Company Statement"
     },
     {
       "fact": "Infosys stated that there is no material impact on financials, operations or other activities of the Company.",
+      "section_heading": "Sub:  Company Statement"
+    },
+    {
+      "fact": "Infosys received the communication from the authority on November 28, 2025 18:10 IST.",
       "section_heading": "Sub:  Company Statement"
     }
   ],
@@ -44,7 +48,7 @@
     {
       "matter_type": "penalty",
       "authority_or_counterparty": "Joint Commissioner of CGST",
-      "description": "Orders passed/action taken for alleged non-payment of GST on stay of employees of other GSTINs (distinct person) in guest house for business purposes for FY 2018-19 to 2022-23.",
+      "description": "Orders passed/action taken for alleged non-payment of GST on stay of employees of other GSTINs (distinct person) in Guest house for business purposes for FY 2018-19 to 2022-23.",
       "amount": "INR 13,60,11,264/-",
       "status": "Orders passed/ action taken.",
       "section_heading": "Sub:  Company Statement"
@@ -57,12 +61,12 @@
     {
       "text": "Total Penalty - INR 13,60,11,264/-",
       "section_heading": "Sub:  Company Statement",
-      "reason": "Supports the disclosed penalty amount."
+      "reason": "Supports the disclosed monetary scale of the penalty."
     },
     {
       "text": "Demand issued for alleged non- payment of GST on stay of employees of other GSTINs (distinct person) in Guest house for business purposes for FY 2018-19 to 2022-23",
       "section_heading": "Sub:  Company Statement",
-      "reason": "Supports the nature and period of the GST matter."
+      "reason": "Identifies the nature and period of the alleged GST contravention."
     },
     {
       "text": "None, there is no material impact on financials, operations or other activities of the Company.",
@@ -74,9 +78,16 @@
     "Joint Commissioner of CGST",
     "GST penalty",
     "INR 13,60,11,264",
-    "non-payment of GST",
-    "guest house",
+    "guest house GST",
+    "distinct person",
     "FY 2018-19 to 2022-23"
+  ],
+  "sample_questions": [
+    "What GST penalty did Infosys disclose in December 2025?",
+    "What was the amount of the CGST penalty order received by Infosys?",
+    "What alleged GST issue led to the penalty against Infosys for FY 2018-19 to 2022-23?",
+    "Which authority issued the penalty communication to Infosys?",
+    "Did Infosys say the GST penalty had a material impact on its financials or operations?"
   ],
   "processing_notes": ""
 }

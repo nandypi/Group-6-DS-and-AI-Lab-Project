@@ -1,15 +1,15 @@
 {
   "document_name": "Infosys_30072025174628_SEfiling_Reg_30disclosure_30072025.md",
   "is_material": false,
-  "title": "Infosys Receives UAE VAT Penalty Order",
-  "detailed_summary": "Infosys disclosed that it received communication from the Federal Tax Authority, United Arab Emirates, for collection of a penalty totaling AED 45,476.73. The penalty relates to failure to pay VAT liability for Q1FY26. Infosys stated that there is no material impact on its financials, operations, or other activities.",
+  "title": "Infosys Receives UAE VAT Penalty of AED 45,476.73",
+  "detailed_summary": "Infosys received communication from the Federal Tax Authority, United Arab Emirates, regarding a penalty of AED 45,476.73 for failure to pay VAT liability for Q1FY26. The company stated that there is no material impact on its financials, operations, or other activities.",
   "key_facts": [
     {
-      "fact": "Infosys received communication from the Federal Tax Authority, United Arab Emirates, for collection of a penalty.",
+      "fact": "The Federal Tax Authority, United Arab Emirates, imposed a total penalty of AED 45,476.73/- on Infosys.",
       "section_heading": null
     },
     {
-      "fact": "The total penalty is AED 45,476.73/- and relates to failure to pay VAT liability for Q1FY26.",
+      "fact": "The penalty was on account of failure to pay VAT liability for Q1FY26.",
       "section_heading": null
     },
     {
@@ -53,12 +53,12 @@
     {
       "text": "Total Penalty - AED 45,476.73/-",
       "section_heading": null,
-      "reason": "Supports the penalty amount."
+      "reason": "Supports the amount of the penalty."
     },
     {
       "text": "None, there is no material impact on financials, operations or other activities of the Company.",
       "section_heading": null,
-      "reason": "Supports the stated absence of material impact."
+      "reason": "Supports the company's stated impact assessment."
     }
   ],
   "search_keywords": [
@@ -67,6 +67,10 @@
     "Q1FY26",
     "AED 45,476.73",
     "tax penalty"
+  ],
+  "sample_questions": [
+    "What UAE VAT penalty did Infosys disclose for Q1FY26?",
+    "Did Infosys say the UAE tax penalty had a material impact on its financials or operations?"
   ],
   "processing_notes": ""
 }

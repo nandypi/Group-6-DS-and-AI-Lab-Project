@@ -1,24 +1,20 @@
 {
   "document_name": "Infosys_17122025163654_letter_17122025.md",
-  "is_material": true,
-  "title": "Infosys Receives INR 8,27,50,000 Penalty Communication from Joint Commissioner of CGST",
-  "detailed_summary": "Infosys received communication from the Joint Commissioner of CGST for collection of a total penalty of INR 8,27,50,000. The matter relates to alleged disallowance of Blocked ITC, Excess ITC, Wrong head, and invoices not in 2A for FY 2018- 19 to FY 2022-23. Infosys stated that there is no material impact on its financials, operations, or other activities.",
+  "is_material": false,
+  "title": "Infosys receives CGST penalty order for INR 8,27,50,000",
+  "detailed_summary": "Infosys received communication from the Joint Commissioner of CGST for collection of a penalty totaling INR 8,27,50,000. The matter relates to alleged GST input tax credit issues for FY 2018- 19 to FY 2022-23. Infosys stated there is no material impact on its financials, operations, or other activities.",
   "key_facts": [
     {
-      "fact": "Infosys received communication for collection of a total penalty of INR 8,27,50,000 from the Joint Commissioner of CGST.",
-      "section_heading": "Sub:  Company Statement"
-    },
-    {
-      "fact": "The communication was received on December 16, 2025 18:27 IST.",
-      "section_heading": "Sub:  Company Statement"
+      "fact": "The Joint Commissioner of CGST passed orders/action for collection of a total penalty of INR 8,27,50,000/-.",
+      "section_heading": null
     },
     {
       "fact": "The alleged violations relate to disallowance of Blocked ITC, Excess ITC, Wrong head, and invoices not in 2A for FY 2018- 19 to FY 2022-23.",
-      "section_heading": "Sub:  Company Statement"
+      "section_heading": null
     },
     {
-      "fact": "Infosys stated that there is no material impact on financials, operations or other activities of the Company.",
-      "section_heading": "Sub:  Company Statement"
+      "fact": "Infosys stated there is no material impact on financials, operations or other activities of the Company.",
+      "section_heading": null
     }
   ],
   "financial_metrics": {
@@ -47,7 +43,7 @@
       "description": "Orders passed/action taken for alleged disallowance of Blocked ITC, Excess ITC, Wrong head, and invoices not in 2A for FY 2018- 19 to FY 2022-23.",
       "amount": "INR 8,27,50,000/-",
       "status": "Orders passed/ action taken.",
-      "section_heading": "Sub:  Company Statement"
+      "section_heading": null
     }
   ],
   "risk_factors": [],
@@ -56,23 +52,29 @@
   "important_text_spans": [
     {
       "text": "Total Penalty - INR 8,27,50,000/-",
-      "section_heading": "Sub:  Company Statement",
-      "reason": "Supports the amount of the regulatory penalty."
+      "section_heading": null,
+      "reason": "Supports the amount of the CGST penalty."
     },
     {
       "text": "None, there is no material impact on financials, operations or other activities of the Company.",
-      "section_heading": "Sub:  Company Statement",
-      "reason": "Supports the company's stated impact assessment."
+      "section_heading": null,
+      "reason": "Supports Infosys's stated assessment of impact."
     }
   ],
   "search_keywords": [
     "Joint Commissioner of CGST",
+    "CGST penalty",
     "INR 8,27,50,000",
     "Blocked ITC",
     "Excess ITC",
     "Invoices not in 2A",
-    "FY 2018- 19 to FY 2022-23",
-    "GST penalty"
+    "FY 2018- 19 to FY 2022-23"
   ],
-  "processing_notes": ""
+  "sample_questions": [
+    "What CGST penalty did Infosys disclose in December 2025?",
+    "What was the amount of the CGST penalty imposed on Infosys?",
+    "What GST issues were alleged against Infosys for FY 2018- 19 to FY 2022-23?",
+    "Did Infosys say the CGST penalty would materially affect its financials or operations?"
+  ],
+  "processing_notes": "Marked non-material because the document states there is no material impact on Infosys's financials, operations, or other activities."
 }

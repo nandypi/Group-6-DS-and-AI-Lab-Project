@@ -2,7 +2,7 @@
   "document_name": "Infosys_23062026172706_PR_23062026.md",
   "is_material": true,
   "title": "Infosys expands multi-year collaboration with GlobalFoundries for AI-led managed IT services",
-  "detailed_summary": "Infosys announced an expanded multi-year collaboration with GlobalFoundries to provide AI-led managed services across GlobalFoundries' enterprise IT landscape. Infosys will manage end-to-end application, infrastructure, data and service desk operations for GlobalFoundries. The engagement is intended to move GlobalFoundries from externally supported operations to a managed services model driven by AI, automation and continuous optimization, with stated goals including reduced incidents, improved end-user experience and lower total cost of ownership over the long term. No contract value was disclosed.",
+  "detailed_summary": "Infosys announced an expanded multi-year collaboration with GlobalFoundries to provide AI-led managed services across GlobalFoundries' enterprise IT landscape. Under the engagement, Infosys will manage end-to-end application, infrastructure, data and service desk operations. The collaboration is intended to move GlobalFoundries from externally supported operations to a managed services model driven by AI, automation and continuous optimization, with stated goals including reduced incidents, improved end-user experience, lower long-term total cost of ownership, and a shift toward predictive and autonomous service delivery. No contract value was disclosed.",
   "key_facts": [
     {
       "fact": "Infosys announced an expanded multi-year collaboration with GlobalFoundries to deliver AI-led managed services across GlobalFoundries' enterprise IT landscape.",
@@ -21,7 +21,7 @@
       "section_heading": "Infosys Announces Expanded Collaboration with GlobalFoundries to Accelerate AI-Driven Transformation of IT Operations"
     },
     {
-      "fact": "Infosys stated the collaboration aims to help GlobalFoundries reduce incidents, improve end-user experiences and sustainably lower TCO over the long term.",
+      "fact": "Infosys stated that the collaboration will help GlobalFoundries reduce incidents, improve end-user experiences and sustainably lower TCO over the long term.",
       "section_heading": "Infosys Announces Expanded Collaboration with GlobalFoundries to Accelerate AI-Driven Transformation of IT Operations"
     }
   ],
@@ -46,7 +46,7 @@
     {
       "deal_type": "client contract",
       "counterparty": "GlobalFoundries",
-      "description": "Expanded collaboration for Infosys to deliver AI-led managed services across GlobalFoundries' enterprise IT landscape, including end-to-end application, infrastructure, data and service desk operations.",
+      "description": "Expanded multi-year collaboration for Infosys to deliver AI-led managed services across GlobalFoundries' enterprise IT landscape, including application, infrastructure, data and service desk operations.",
       "value": null,
       "duration": "multi-year",
       "section_heading": "Infosys Announces Expanded Collaboration with GlobalFoundries to Accelerate AI-Driven Transformation of IT Operations"
@@ -59,30 +59,43 @@
   "products_or_platforms": [],
   "important_text_spans": [
     {
-      "text": "expanded multi-year collaboration with GlobalFoundries (NASDAQ: GFS) (GF), a leading semiconductor manufacturer, to deliver AI-led managed services across GF's enterprise IT landscape",
+      "text": "Infosys (NYSE: INFY), a global leader in AI-first business consulting and technology services, today announced an expanded multi-year collaboration with GlobalFoundries (NASDAQ: GFS) (GF), a leading semiconductor manufacturer, to deliver AI-led managed services across GF's enterprise IT landscape.",
       "section_heading": "Infosys Announces Expanded Collaboration with GlobalFoundries to Accelerate AI-Driven Transformation of IT Operations",
-      "reason": "Supports the existence, counterparty, duration and scope of the expanded collaboration."
+      "reason": "Supports the main disclosed event, counterparty, duration and service scope."
     },
     {
-      "text": "Infosys will manage GF's end-to-end application, infrastructure, data and service desk operations.",
+      "text": "Through this collaboration, Infosys will manage GF's end-to-end application, infrastructure, data and service desk operations.",
       "section_heading": "Infosys Announces Expanded Collaboration with GlobalFoundries to Accelerate AI-Driven Transformation of IT Operations",
-      "reason": "Supports the operational scope of Infosys' services under the engagement."
+      "reason": "Identifies the operational scope of Infosys' responsibilities under the engagement."
     },
     {
-      "text": "help GF reduce incidents, improve end-user experiences and sustainably lower TCO over the long term",
+      "text": "The engagement is designed to elevate GF's IT operations by transitioning from externally supported operations to a true managed services model driven by AI, automation, and continuous optimization.",
       "section_heading": "Infosys Announces Expanded Collaboration with GlobalFoundries to Accelerate AI-Driven Transformation of IT Operations",
-      "reason": "Supports the stated business impact of the engagement."
+      "reason": "Explains the strategic and operational objective of the expanded collaboration."
+    },
+    {
+      "text": "we will help GF reduce incidents, improve end-user experiences and sustainably lower TCO over the long term.",
+      "section_heading": "Infosys Announces Expanded Collaboration with GlobalFoundries to Accelerate AI-Driven Transformation of IT Operations",
+      "reason": "Supports the stated expected business impact of the engagement."
     }
   ],
   "search_keywords": [
     "GlobalFoundries",
-    "GF",
     "AI-led managed services",
     "enterprise IT operations",
     "semiconductor domain expertise",
     "managed services model",
     "automation",
-    "TCO"
+    "total cost of ownership",
+    "predictive and autonomous service delivery"
   ],
-  "processing_notes": "No deal value or financial impact was disclosed. Generic company profile and safe harbor language were excluded."
+  "sample_questions": [
+    "What did Infosys announce with GlobalFoundries in June 2026?",
+    "What services will Infosys provide to GlobalFoundries under the expanded collaboration?",
+    "Was a contract value disclosed for Infosys' GlobalFoundries engagement?",
+    "Why did GlobalFoundries select Infosys for the expanded IT services collaboration?",
+    "What business impact does Infosys expect from the GlobalFoundries managed services engagement?",
+    "How does the GlobalFoundries deal support Infosys' AI-led managed services strategy?"
+  ],
+  "processing_notes": "No deal value was disclosed. Generic Infosys company profile information and safe harbor language were excluded."
 }

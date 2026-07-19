@@ -2,7 +2,7 @@
   "document_name": "Infosys_19032026223214_SEfiling_Reg30disclosure_19032026.md",
   "is_material": false,
   "title": "Infosys Incorporates Step-Down Wholly Owned Subsidiary in Australia",
-  "detailed_summary": "Infosys completed incorporation of a step-down wholly owned subsidiary, Infosys Enterprise Business Services Pty. Ltd, in Australia on March 19, 2026. The entity has share capital of AUD 10, no applicable turnover, and belongs to the Information Technology and Information Technology enabled Services industry. Infosys Singapore Pte. Ltd. holds 100% of its shareholding.",
+  "detailed_summary": "Infosys completed incorporation of a step-down wholly owned subsidiary, Infosys Enterprise Business Services Pty. Ltd, in Australia on March 19, 2026. The entity belongs to the Information Technology and Information Technology enabled Services industry, has share capital of AUD 10, and has no applicable turnover.",
   "key_facts": [
     {
       "fact": "Infosys completed incorporating a step-down wholly-owned subsidiary named Infosys Enterprise Business Services Pty. Ltd in Australia.",
@@ -36,7 +36,7 @@
   "corporate_actions": [
     {
       "action_type": "subsidiary incorporation",
-      "description": "Infosys completed incorporation of Infosys Enterprise Business Services Pty. Ltd as a step-down wholly owned subsidiary in Australia.",
+      "description": "Infosys incorporated Infosys Enterprise Business Services Pty. Ltd as a step-down wholly owned subsidiary in Australia.",
       "amount_or_ratio": "Share Capital :AUD 10",
       "effective_date": "March 19, 2026",
       "section_heading": "Annexure-A"
@@ -52,7 +52,7 @@
     {
       "text": "the Company has now completed incorporating a step-down wholly-owned subsidiary in the name and style of Infosys Enterprise Business Services Pty. Ltd in Australia.",
       "section_heading": null,
-      "reason": "Supports the main event of subsidiary incorporation."
+      "reason": "Supports the main event of the document."
     },
     {
       "text": "100% of the shareholding is held by Infosys Singapore Pte. Ltd., a step-down wholly-owned subsidiary of Infosys Limited.",
@@ -63,9 +63,14 @@
   "search_keywords": [
     "Infosys Enterprise Business Services Pty. Ltd",
     "Australia subsidiary",
-    "Infosys Singapore Pte. Ltd.",
+    "Infosys Singapore Pte. Ltd",
     "step-down wholly-owned subsidiary",
     "AUD 10"
   ],
-  "processing_notes": "Marked non-material because the document reports a routine subsidiary incorporation with nominal share capital and no stated financial or strategic impact."
+  "sample_questions": [
+    "What subsidiary did Infosys incorporate in Australia in March 2026?",
+    "What is the ownership structure of Infosys Enterprise Business Services Pty. Ltd?",
+    "What is the share capital of Infosys Enterprise Business Services Pty. Ltd?"
+  ],
+  "processing_notes": "Marked non-material because the document reports routine incorporation of a step-down wholly owned subsidiary with AUD 10 share capital, no turnover, no transaction consideration, and no stated strategic or financial impact."
 }

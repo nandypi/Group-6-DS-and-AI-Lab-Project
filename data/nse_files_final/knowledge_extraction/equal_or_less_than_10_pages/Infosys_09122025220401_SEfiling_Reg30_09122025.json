@@ -1,24 +1,24 @@
 {
   "document_name": "Infosys_09122025220401_SEfiling_Reg30_09122025.md",
   "is_material": true,
-  "title": "Infosys Singapore Approves Incorporation of Wholly Owned Subsidiary in Vietnam",
-  "detailed_summary": "The Board of Infosys Singapore Pte Ltd, a wholly owned subsidiary of Infosys Limited, approved the incorporation of a wholly owned subsidiary in Vietnam under the proposed name \"Infosys Vietnam LLC\" or another name available in the corporate registry. The document does not disclose financial investment size, business scope, timeline, or expected impact; additional Regulation 30 information is to be disclosed in due course.",
+  "title": "Infosys Singapore approves incorporation of Infosys Vietnam LLC",
+  "detailed_summary": "The Board of Infosys Singapore Pte Ltd, a wholly owned subsidiary of Infosys Limited, approved the incorporation of a wholly owned subsidiary in Vietnam named \"Infosys Vietnam LLC\" or another name available in the corporate registry. The document does not disclose financial investment amount, business scope, expected timeline, operating impact, or other Regulation 30 details, stating that additional information will be disclosed in due course.",
   "key_facts": [
     {
       "fact": "The Board of Infosys Singapore Pte Ltd approved the incorporation of a wholly owned subsidiary in Vietnam.",
-      "section_heading": null
+      "section_heading": "Sub: Company update"
     },
     {
-      "fact": "The proposed subsidiary name is \"Infosys Vietnam LLC\" or another name available in the corporate registry.",
-      "section_heading": null
+      "fact": "The proposed subsidiary is to be named \"Infosys Vietnam LLC\" or another name available in the corporate registry.",
+      "section_heading": "Sub: Company update"
     },
     {
-      "fact": "Infosys Singapore Pte Ltd is a wholly owned subsidiary of Infosys Limited.",
-      "section_heading": null
+      "fact": "Infosys Singapore Pte Ltd is described as a wholly owned subsidiary of Infosys Limited.",
+      "section_heading": "Sub: Company update"
     },
     {
       "fact": "Additional information required under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 will be disclosed in due course.",
-      "section_heading": null
+      "section_heading": "Sub: Company update"
     }
   ],
   "financial_metrics": {
@@ -43,7 +43,7 @@
       "description": "Infosys Singapore Pte Ltd approved the incorporation of a wholly owned subsidiary in Vietnam in the name and style of \"Infosys Vietnam LLC\" or another name available in the corporate registry.",
       "amount_or_ratio": null,
       "effective_date": null,
-      "section_heading": null
+      "section_heading": "Sub: Company update"
     }
   ],
   "partnerships_or_deals": [],
@@ -55,12 +55,12 @@
   "important_text_spans": [
     {
       "text": "Board of Infosys Singapore Pte Ltd, a wholly owned subsidiary of Infosys Limited has approved to incorporate a wholly owned subsidiary in the name and style of \"Infosys Vietnam LLC'.",
-      "section_heading": null,
-      "reason": "Supports the main disclosure that Infosys is creating a wholly owned subsidiary in Vietnam through Infosys Singapore."
+      "section_heading": "Sub: Company update",
+      "reason": "Supports the main corporate action and identifies the approving entity, ownership relationship, and proposed subsidiary name."
     },
     {
       "text": "Additional information as required under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 will be disclosed in due course.",
-      "section_heading": null,
+      "section_heading": "Sub: Company update",
       "reason": "Shows that financial, operational, or other required details were not yet disclosed in this document."
     }
   ],
@@ -68,8 +68,14 @@
     "Infosys Vietnam LLC",
     "Infosys Singapore Pte Ltd",
     "Vietnam subsidiary",
-    "wholly owned subsidiary",
+    "subsidiary incorporation",
     "Regulation 30"
   ],
-  "processing_notes": "The document announces only approval to incorporate a Vietnam subsidiary; it does not disclose investment amount, business scope, effective date, ownership percentage beyond wholly owned status, or expected financial impact."
+  "sample_questions": [
+    "What did Infosys disclose about incorporating Infosys Vietnam LLC?",
+    "Which Infosys entity approved the Vietnam subsidiary incorporation?",
+    "Did Infosys disclose any investment amount or financial impact for Infosys Vietnam LLC?",
+    "What additional details were pending in the Infosys Vietnam subsidiary announcement?"
+  ],
+  "processing_notes": "The document does not provide financial value, timing, business scope, or expected impact for the proposed Vietnam subsidiary."
 }

@@ -2,14 +2,14 @@
   "document_name": "Infosys_12032026114226_PR_12032026.md",
   "is_material": true,
   "title": "Infosys Announces Expansion of Mohali Development Center",
-  "detailed_summary": "Infosys announced the expansion of its Mohali Development Center with a new integrated development campus in Mohali, North India. The planned expansion includes a new Software Development Block and supporting facilities with approximately 350,000 square feet of built-up area and seating capacity for about 3,000 employees. Infosys said the expansion will strengthen its ability to design, co-create, and deploy AI-led solutions at enterprise scale, while enhancing capabilities in cloud, AI, application development, and digital transformation.",
+  "detailed_summary": "Infosys announced the expansion of its Mohali Development Center with a formal groundbreaking ceremony on March 12, 2026. The company plans to develop a new Software Development Block and supporting facilities with approximately 350,000 square feet of built-up area and seating for about 3,000 employees. Infosys said the expanded campus will strengthen its ability to design, co-create, and deploy AI-led enterprise solutions, enhance capabilities in cloud, AI, application development, and digital transformation, and support demand from global clients. Current Infosys Mohali operations employ close to 1,000 people and serve clients in Banking, Financial Services and Insurance, Retail, and Healthcare.",
   "key_facts": [
     {
       "fact": "Infosys announced the expansion of its Mohali Development Center with a formal groundbreaking ceremony held at the campus.",
       "section_heading": "Infosys Announces Expansion of Mohali Development Center"
     },
     {
-      "fact": "The expansion is planned to include a new Software Development Block along with supporting facilities.",
+      "fact": "The expansion includes a new Software Development Block along with supporting facilities.",
       "section_heading": "Infosys Announces Expansion of Mohali Development Center"
     },
     {
@@ -17,11 +17,11 @@
       "section_heading": "Infosys Announces Expansion of Mohali Development Center"
     },
     {
-      "fact": "Infosys said the expanded campus will strengthen its ability to design, co-create, and deploy AI-led solutions at enterprise scale.",
+      "fact": "Infosys said the expansion will strengthen its ability to design, co-create, and deploy AI-led solutions at enterprise scale.",
       "section_heading": "Infosys Announces Expansion of Mohali Development Center"
     },
     {
-      "fact": "Current operations at Infosys Mohali have close to 1,000 employees and deliver advanced digital services to global clients across Banking, Financial Services and Insurance, Retail, and Healthcare.",
+      "fact": "Current operations at Infosys Mohali, with close to 1,000 employees, deliver advanced digital services to global clients across Banking, Financial Services and Insurance, Retail, and Healthcare.",
       "section_heading": "Infosys Announces Expansion of Mohali Development Center"
     },
     {
@@ -47,9 +47,9 @@
   },
   "corporate_actions": [
     {
-      "action_type": "development center expansion",
-      "description": "Infosys announced the expansion of its Mohali Development Center through a new integrated development campus, including a Software Development Block and supporting facilities.",
-      "amount_or_ratio": "approximately 350,000 square feet; about 3,000 employees",
+      "action_type": "major investment",
+      "description": "Infosys will expand its Mohali Development Center by developing a new Software Development Block and supporting facilities with approximately 350,000 square feet of built-up area and seating for about 3,000 employees.",
+      "amount_or_ratio": null,
       "effective_date": null,
       "section_heading": "Infosys Announces Expansion of Mohali Development Center"
     }
@@ -60,7 +60,7 @@
   "risk_factors": [],
   "esg_or_csr_items": [
     {
-      "item": "Infosys said the Mohali expansion will include a high-efficiency building, 100% wastewater recycling using Membrane Bioreactor technology, green landscaping, eco-friendly construction materials, and smart building technologies.",
+      "item": "The new Mohali campus expansion is planned with energy-efficient building features, water-saving systems, 100% wastewater recycling using Membrane Bioreactor technology, green landscaping, eco-friendly construction materials, and smart building technologies.",
       "amount": null,
       "section_heading": "Key highlights of the DC expansion:"
     }
@@ -68,19 +68,19 @@
   "products_or_platforms": [],
   "important_text_spans": [
     {
-      "text": "The expansion is planned to have a built-up area of approximately 350,000 square feet and will seat about 3,000 employees",
+      "text": "The expansion is planned to have a built-up area of approximately 350,000 square feet and will seat about 3,000 employees, strengthening Infosys' ability to design, co-create, and deploy AI-led solutions at enterprise scale.",
       "section_heading": "Infosys Announces Expansion of Mohali Development Center",
-      "reason": "Supports the operational scale of the Mohali Development Center expansion."
-    },
-    {
-      "text": "strengthening Infosys' ability to design, co-create, and deploy AI-led solutions at enterprise scale",
-      "section_heading": "Infosys Announces Expansion of Mohali Development Center",
-      "reason": "Supports the stated strategic purpose of the expansion."
+      "reason": "Supports the scale and strategic purpose of the Mohali expansion."
     },
     {
       "text": "The current operations at Infosys Mohali, with close to 1,000 employees, delivers advanced digital services to global clients across key sectors, including Banking, Financial Services and Insurance, Retail, and Healthcare.",
       "section_heading": "Infosys Announces Expansion of Mohali Development Center",
-      "reason": "Supports the current operational base and client-sector relevance of the Mohali center."
+      "reason": "Supports the existing operational base and client-sector relevance of the Mohali center."
+    },
+    {
+      "text": "The expanded campus will further enhance Infosys' capabilities in cloud, AI, application development, and digital transformation, enabling the company to better meet the growing demands of its global clients and help them unlock tangible AI-driven value at scale.",
+      "section_heading": "Infosys Announces Expansion of Mohali Development Center",
+      "reason": "Supports the stated business impact and strategic capability focus of the expansion."
     }
   ],
   "search_keywords": [
@@ -93,5 +93,13 @@
     "digital transformation",
     "Punjab"
   ],
-  "processing_notes": "No financial investment amount, completion date, or hiring target was disclosed. Seating capacity was not treated as reported headcount in financial_metrics."
+  "sample_questions": [
+    "What did Infosys announce about its Mohali Development Center on March 12, 2026?",
+    "How large is Infosys's planned Mohali campus expansion?",
+    "How many employees will the expanded Infosys Mohali Development Center seat?",
+    "What business capabilities does Infosys expect the Mohali expansion to enhance?",
+    "Which client sectors are currently served by Infosys Mohali operations?",
+    "Did Infosys disclose a financial investment amount for the Mohali Development Center expansion?"
+  ],
+  "processing_notes": "No investment amount, completion timeline, or expected revenue impact was disclosed. Generic company profile figures and safe harbor risks were excluded."
 }

@@ -1,8 +1,8 @@
 {
   "document_name": "Infosys_07012026105753_PR_07012026.md",
   "is_material": true,
-  "title": "Infosys and AWS collaborate to accelerate enterprise adoption of generative AI",
-  "detailed_summary": "Infosys announced a strategic collaboration with Amazon Web Services to accelerate enterprise adoption of generative AI. The initiative combines Infosys Topaz with Amazon Q Developer to enhance Infosys internal operations and support customer innovation across sectors including manufacturing, telecom, financial services, and consumer goods. Infosys said the integration supports software development lifecycle tasks such as automated documentation, code generation, debugging, testing, and legacy code modernization, while also applying generative AI to HR, recruitment, sales, and vendor management. Infosys is also using AWS generative AI services, including Amazon Bedrock, for industry solutions such as real-time personalized engagement in sports and entertainment.",
+  "title": "Infosys and AWS Collaborate to Accelerate Enterprise Adoption of Generative AI",
+  "detailed_summary": "Infosys announced a strategic collaboration with Amazon Web Services to accelerate enterprise adoption of generative AI by combining Infosys Topaz with Amazon Q Developer. The collaboration is intended to enhance Infosys internal operations and drive innovation for customers in sectors including manufacturing, telecom, financial services, and consumer goods. Infosys said the integration supports software development lifecycle tasks such as automated documentation, code generation, debugging, testing, and legacy code modernization, while also enabling AWS generative AI-based solutions such as personalized engagement capabilities for sports and entertainment using Infosys Topaz and Amazon Bedrock. No deal value, duration, financial impact, or guidance was disclosed.",
   "key_facts": [
     {
       "fact": "Infosys announced a strategic collaboration with Amazon Web Services to accelerate enterprise adoption of generative artificial intelligence.",
@@ -13,7 +13,7 @@
       "section_heading": "Infosys and AWS Collaborate to Accelerate Enterprise Adoption of Generative AI"
     },
     {
-      "fact": "The collaboration targets customer solutions across sectors such as manufacturing, telecom, financial services, and consumer goods.",
+      "fact": "The collaboration targets customers across sectors such as manufacturing, telecom, financial services, and consumer goods.",
       "section_heading": "Infosys and AWS Collaborate to Accelerate Enterprise Adoption of Generative AI"
     },
     {
@@ -21,11 +21,11 @@
       "section_heading": "Infosys and AWS Collaborate to Accelerate Enterprise Adoption of Generative AI"
     },
     {
-      "fact": "In the software development lifecycle, the integration of Infosys Topaz with Amazon Q Developer enables automated documentation and support for code generation, debugging, testing, and legacy code modernization.",
+      "fact": "In the software development lifecycle, integrating Infosys Topaz with Amazon Q Developer enables automated documentation and tailored support for code generation, debugging, testing, and legacy code modernization.",
       "section_heading": "Infosys and AWS Collaborate to Accelerate Enterprise Adoption of Generative AI"
     },
     {
-      "fact": "Infosys is leveraging AWS generative AI services, including Amazon Bedrock, to deliver industry solutions such as real-time personalized engagement for sports and entertainment.",
+      "fact": "Infosys is leveraging AWS generative AI services, including Amazon Bedrock, for advanced end-user engagement capabilities in sports and entertainment.",
       "section_heading": "Infosys and AWS Collaborate to Accelerate Enterprise Adoption of Generative AI"
     }
   ],
@@ -50,7 +50,7 @@
     {
       "deal_type": "strategic collaboration",
       "counterparty": "Amazon Web Services",
-      "description": "Infosys and AWS are collaborating to accelerate enterprise adoption of generative AI by combining Infosys Topaz with Amazon Q Developer and AWS generative AI services.",
+      "description": "Infosys and AWS are collaborating to accelerate enterprise adoption of generative AI by combining Infosys Topaz with Amazon Q Developer, with use cases across internal operations and customer innovation.",
       "value": null,
       "duration": null,
       "section_heading": "Infosys and AWS Collaborate to Accelerate Enterprise Adoption of Generative AI"
@@ -64,14 +64,21 @@
     {
       "name": "Infosys Topaz",
       "event_type": "integrated",
-      "description": "Infosys Topaz is being combined with Amazon Q Developer to support Infosys internal operations and customer innovation, including automated documentation, code generation, debugging, testing, and legacy code modernization.",
-      "target_market_or_use_case": "Enterprise generative AI adoption across sectors including manufacturing, telecom, financial services, and consumer goods",
+      "description": "Infosys Topaz is being combined with Amazon Q Developer to support generative AI-led enterprise adoption and internal transformation.",
+      "target_market_or_use_case": "software development, HR, recruitment, sales, vendor management, and customer innovation across manufacturing, telecom, financial services, and consumer goods",
+      "section_heading": "Infosys and AWS Collaborate to Accelerate Enterprise Adoption of Generative AI"
+    },
+    {
+      "name": "Infosys Topaz and Amazon Bedrock",
+      "event_type": "used in solution",
+      "description": "Infosys is using Infosys Topaz and Amazon Bedrock to deliver advanced end-user engagement capabilities for sports and entertainment.",
+      "target_market_or_use_case": "dynamic, real-time personalized experiences for sports and entertainment fans",
       "section_heading": "Infosys and AWS Collaborate to Accelerate Enterprise Adoption of Generative AI"
     }
   ],
   "important_text_spans": [
     {
-      "text": "today announced its strategic collaboration with Amazon Web Services (AWS) to accelerate enterprise adoption of generative artificial intelligence (AI).",
+      "text": "Infosys (NSE, BSE, NYSE: INFY), a global leader in next generation digital services and consulting, today announced its strategic collaboration with Amazon Web Services (AWS) to accelerate enterprise adoption of generative artificial intelligence (AI).",
       "section_heading": "Infosys and AWS Collaborate to Accelerate Enterprise Adoption of Generative AI",
       "reason": "Supports the main strategic collaboration announcement."
     },
@@ -81,9 +88,14 @@
       "reason": "Identifies the core Infosys and AWS technologies involved."
     },
     {
-      "text": "enables automated documentation and provides tailored support for tasks like code generation, debugging, testing, and legacy code modernization",
+      "text": "in the Software Development Lifecycle (SDLC), the integration of Infosys Topaz with Amazon Q Developer enables automated documentation and provides tailored support for tasks like code generation, debugging, testing, and legacy code modernization",
       "section_heading": "Infosys and AWS Collaborate to Accelerate Enterprise Adoption of Generative AI",
-      "reason": "Describes the stated operating use cases of the integration."
+      "reason": "Describes the operational use cases of the collaboration."
+    },
+    {
+      "text": "These include advanced end-user engagement capabilities for sports and entertainment, powered by Infosys Topaz and Amazon Bedrock, enabling dynamic, real-time personalized experiences",
+      "section_heading": "Infosys and AWS Collaborate to Accelerate Enterprise Adoption of Generative AI",
+      "reason": "Supports the customer-facing generative AI solution use case."
     }
   ],
   "search_keywords": [
@@ -93,8 +105,16 @@
     "Amazon Q Developer",
     "Amazon Bedrock",
     "generative AI",
-    "legacy code modernization",
-    "enterprise AI adoption"
+    "software development lifecycle",
+    "legacy code modernization"
   ],
-  "processing_notes": "No financial terms, contract value, duration, or measurable operating impact were disclosed. Generic company profile and safe harbor content were excluded."
+  "sample_questions": [
+    "What did Infosys announce with AWS on generative AI?",
+    "Which Infosys and AWS platforms are involved in the collaboration?",
+    "What business functions does Infosys expect to transform using Infosys Topaz and Amazon Q Developer?",
+    "Did Infosys disclose any financial value or duration for the AWS collaboration?",
+    "Which customer industries are targeted by the Infosys and AWS generative AI collaboration?",
+    "How does the collaboration affect Infosys' software development lifecycle capabilities?"
+  ],
+  "processing_notes": "No financial value, duration, guidance, or quantified business impact was disclosed. Generic company profile information and safe harbor language were excluded."
 }

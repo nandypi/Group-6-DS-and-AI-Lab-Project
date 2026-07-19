@@ -1,32 +1,36 @@
 {
   "document_name": "Infosys_24022026183647_PR_Feb242026.md",
   "is_material": true,
-  "title": "CSX completes data modernization program with Infosys and Microsoft",
-  "detailed_summary": "Infosys announced the successful completion of a major data modernization program for CSX Corporation using Infosys Topaz, Microsoft Fabric and Microsoft Purview. Infosys led the end-to-end modernization, consolidating CSX's fragmented data landscape into a unified cloud-native, governed data platform. The program replaced legacy systems, enabled automated metadata governance across 28 domains, created 170+ data products, and consolidated over 50,000 legacy reports into 1,200 actionable insights. The document states that CSX achieved significant annual infrastructure savings and established a foundation for predictive analytics, logistics optimization and enterprise-wide operational intelligence.",
+  "title": "CSX modernizes data platform with Infosys and Microsoft",
+  "detailed_summary": "Infosys announced the successful completion of a major data modernization program for CSX Corporation using Infosys Topaz, Microsoft Fabric and Microsoft Purview. Infosys led the end-to-end modernization, consolidating CSX's fragmented data landscape into a unified cloud-native platform intended to improve decision-making, accelerate reporting and reduce operational costs. The program created automated metadata governance across 28 domains and 170+ data products, consolidated over 50,000 legacy reports into 1,200 actionable insights, and supported real-time analytics, AI accelerators, self-serve analytics and Azure monitoring. The document states that CSX achieved significant annual infrastructure savings and built a foundation for predictive analytics, logistics optimization and enterprise-wide operational intelligence, but it does not disclose contract value, duration, or quantified savings.",
   "key_facts": [
     {
-      "fact": "Infosys announced the successful completion of a major data modernization program for CSX Corporation using Infosys Topaz, Microsoft Fabric and Microsoft Purview.",
-      "section_heading": "CSX Modernizes Data Platform with Infosys & Microsoft"
+      "fact": "Infosys announced the successful completion of a major data modernization program for CSX Corporation.",
+      "section_heading": "CSX Modernizes Data Platform with Infosys &amp; Microsoft"
+    },
+    {
+      "fact": "The transformation was built using Infosys Topaz, Microsoft Fabric and Microsoft Purview.",
+      "section_heading": "CSX Modernizes Data Platform with Infosys &amp; Microsoft"
     },
     {
       "fact": "Infosys led the end-to-end modernization effort, consolidating CSX's fragmented data landscape into a unified cloud-native platform.",
-      "section_heading": "CSX Modernizes Data Platform with Infosys & Microsoft"
+      "section_heading": "CSX Modernizes Data Platform with Infosys &amp; Microsoft"
     },
     {
       "fact": "The initiative replaced legacy systems with a single, governed data environment designed to improve decision-making, accelerate reporting and reduce operational costs.",
-      "section_heading": "CSX Modernizes Data Platform with Infosys & Microsoft"
+      "section_heading": "CSX Modernizes Data Platform with Infosys &amp; Microsoft"
     },
     {
-      "fact": "Automated metadata governance was achieved across 28 domains with 170+ data products created for adoption with AI accelerators, self-serve analytics & Azure monitoring.",
-      "section_heading": "CSX Modernizes Data Platform with Infosys & Microsoft"
+      "fact": "Automated metadata governance was achieved across 28 domains with 170+ data products created for adoption with AI accelerators, self-serve analytics and Azure monitoring.",
+      "section_heading": "CSX Modernizes Data Platform with Infosys &amp; Microsoft"
     },
     {
       "fact": "CSX consolidated over 50,000 legacy reports into just 1,200 actionable insights.",
-      "section_heading": "CSX Modernizes Data Platform with Infosys & Microsoft"
+      "section_heading": "CSX Modernizes Data Platform with Infosys &amp; Microsoft"
     },
     {
-      "fact": "The modernization established a foundation for predictive analytics, logistics optimization and enterprise-wide operational intelligence.",
-      "section_heading": "CSX Modernizes Data Platform with Infosys & Microsoft"
+      "fact": "The document states that CSX achieved significant annual infrastructure savings and established a foundation for predictive analytics, logistics optimization and enterprise-wide operational intelligence.",
+      "section_heading": "CSX Modernizes Data Platform with Infosys &amp; Microsoft"
     }
   ],
   "financial_metrics": {
@@ -50,10 +54,18 @@
     {
       "deal_type": "client transformation program",
       "counterparty": "CSX Corporation",
-      "description": "Infosys completed a major data modernization program for CSX Corporation, consolidating fragmented data systems into a unified cloud-native governed platform using Infosys Topaz, Microsoft Fabric and Microsoft Purview.",
+      "description": "Infosys completed a major data modernization program for CSX Corporation, consolidating CSX's fragmented data landscape into a unified cloud-native platform using Infosys Topaz, Microsoft Fabric and Microsoft Purview.",
       "value": null,
       "duration": null,
-      "section_heading": "CSX Modernizes Data Platform with Infosys & Microsoft"
+      "section_heading": "CSX Modernizes Data Platform with Infosys &amp; Microsoft"
+    },
+    {
+      "deal_type": "strategic collaboration",
+      "counterparty": "Microsoft",
+      "description": "The initiative was supported through Infosys' long-standing collaboration with Microsoft, including joint participation in design and architecture planning and early access to Microsoft Fabric features.",
+      "value": null,
+      "duration": null,
+      "section_heading": "CSX Modernizes Data Platform with Infosys &amp; Microsoft"
     }
   ],
   "leadership_changes": [],
@@ -64,42 +76,55 @@
     {
       "name": "Infosys Topaz",
       "event_type": "implemented",
-      "description": "Infosys Topaz was used with Microsoft Fabric and Microsoft Purview in CSX's data modernization program.",
+      "description": "Infosys Topaz was used in the CSX data modernization program alongside Microsoft Fabric and Microsoft Purview.",
       "target_market_or_use_case": "AI-first data modernization in transportation and logistics",
-      "section_heading": "CSX Modernizes Data Platform with Infosys & Microsoft"
+      "section_heading": "CSX Modernizes Data Platform with Infosys &amp; Microsoft"
     }
   ],
   "important_text_spans": [
     {
-      "text": "today announced the successful completion of a major data modernization program for CSX Corporation",
-      "section_heading": "CSX Modernizes Data Platform with Infosys & Microsoft",
-      "reason": "Supports the main event that Infosys completed a client modernization program."
+      "text": "Infosys (NSE, BSE, NYSE: INFY), a global leader in next-generation digital services and consulting, today announced the successful completion of a major data modernization program for CSX Corporation",
+      "section_heading": "CSX Modernizes Data Platform with Infosys &amp; Microsoft",
+      "reason": "Supports the main event and identifies the client."
     },
     {
-      "text": "one of the largest deployments of its kind in the transportation and logistics sector",
-      "section_heading": "CSX Modernizes Data Platform with Infosys & Microsoft",
-      "reason": "Supports the stated strategic scale of the implementation."
+      "text": "Infosys led the end-to-end modernization effort, consolidating CSX's fragmented data landscape into a unified cloud-native platform.",
+      "section_heading": "CSX Modernizes Data Platform with Infosys &amp; Microsoft",
+      "reason": "Shows Infosys's role and the strategic nature of the implementation."
     },
     {
-      "text": "Automated metadata governance was achieved across 28 domains with 170+ data products created",
-      "section_heading": "CSX Modernizes Data Platform with Infosys & Microsoft",
-      "reason": "Captures important quantitative implementation scale."
+      "text": "Automated metadata governance was achieved across 28 domains with 170+ data products created for adoption with AI accelerators, self-serve analytics &amp; Azure monitoring.",
+      "section_heading": "CSX Modernizes Data Platform with Infosys &amp; Microsoft",
+      "reason": "Provides quantitative scale of the data modernization program."
     },
     {
       "text": "we've consolidated over 50,000 legacy reports into just 1,200 actionable insights",
-      "section_heading": "CSX Modernizes Data Platform with Infosys & Microsoft",
-      "reason": "Captures a material operational outcome from the program."
+      "section_heading": "CSX Modernizes Data Platform with Infosys &amp; Microsoft",
+      "reason": "Provides a quantitative indicator of implementation impact."
+    },
+    {
+      "text": "CSX achieved significant annual infrastructure savings and established a foundation for predictive analytics, logistics optimization and enterprise-wide operational intelligence.",
+      "section_heading": "CSX Modernizes Data Platform with Infosys &amp; Microsoft",
+      "reason": "Supports the stated business impact of the modernization."
     }
   ],
   "search_keywords": [
     "CSX Corporation",
-    "Infosys Topaz",
     "Microsoft Fabric",
     "Microsoft Purview",
+    "Infosys Topaz",
     "data modernization",
     "transportation and logistics",
-    "AI accelerators",
-    "cloud-native data platform"
+    "cloud-native platform",
+    "predictive analytics"
   ],
-  "processing_notes": "No contract value, duration, or quantified savings amount was disclosed; the document only states significant annual infrastructure savings."
+  "sample_questions": [
+    "What did Infosys announce about CSX on February 24, 2026?",
+    "What role did Infosys play in CSX's data modernization program?",
+    "Which Infosys and Microsoft platforms were used in the CSX modernization program?",
+    "What was the scale of the CSX data modernization completed by Infosys?",
+    "Did Infosys disclose the contract value or duration for the CSX data modernization program?",
+    "What business impact did Infosys say CSX achieved from the data modernization?"
+  ],
+  "processing_notes": "No contract value, duration, or quantified infrastructure savings were disclosed. Generic Infosys company profile and safe harbor language were excluded."
 }

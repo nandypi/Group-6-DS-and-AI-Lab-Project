@@ -1,16 +1,16 @@
 {
   "document_name": "Infosys_11052026204044_NOC_Disclosure_May112026_signed.md",
   "is_material": false,
-  "title": "No-objection received for promoter group reclassification of Shreyas Shibulal and Bhairavi Madhusudhan Shibulal",
-  "detailed_summary": "BSE Limited and National Stock Exchange of India Limited granted no-objection letters dated May 11, 2026 for Infosys’s application to reclassify Mr. Shreyas Shibulal and Ms. Bhairavi Madhusudhan Shibulal from the “Promoter and Promoter Group” category to “Public” under Regulation 31A of SEBI LODR Regulations, 2015.",
+  "title": "No-objection received for reclassification of Shreyas Shibulal and Bhairavi Madhusudhan Shibulal as public shareholders",
+  "detailed_summary": "Infosys received no-objection letters from BSE and NSE dated May 11, 2026 for reclassification of Mr. Shreyas Shibulal and Ms. Bhairavi Madhusudhan Shibulal from the category of 'Promoter and Promoter Group' to 'Public' under Regulation 31A of the SEBI Listing Regulations.",
   "key_facts": [
     {
-      "fact": "BSE Limited and National Stock Exchange of India Limited granted no-objection to Infosys’s application for reclassification of Mr. Shreyas Shibulal and Ms. Bhairavi Madhusudhan Shibulal.",
-      "section_heading": null
+      "fact": "BSE and NSE granted no-objection to Infosys's application for reclassification of Mr. Shreyas Shibulal and Ms. Bhairavi Madhusudhan Shibulal from 'Promoter and Promoter Group' to 'Public'.",
+      "section_heading": "Subject: Receipt of no-objection letter for re-classification of certain members of the promoter and promoter group under Regulation 31A read with Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015"
     },
     {
-      "fact": "The reclassification is from the category of “Promoter and Promoter Group” of the Company to “Public” in terms of Regulation 31A of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015.",
-      "section_heading": null
+      "fact": "The no-objection letters from BSE and NSE are dated May 11, 2026.",
+      "section_heading": "Subject: Receipt of no-objection letter for re-classification of certain members of the promoter and promoter group under Regulation 31A read with Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015"
     }
   ],
   "financial_metrics": {
@@ -32,10 +32,10 @@
   "corporate_actions": [
     {
       "action_type": "promoter reclassification",
-      "description": "No-objection was granted for reclassification of Mr. Shreyas Shibulal and Ms. Bhairavi Madhusudhan Shibulal from “Promoter and Promoter Group” to “Public”.",
+      "description": "No-objection was granted for reclassification of Mr. Shreyas Shibulal and Ms. Bhairavi Madhusudhan Shibulal from 'Promoter and Promoter Group' to 'Public'.",
       "amount_or_ratio": null,
       "effective_date": null,
-      "section_heading": null
+      "section_heading": "Subject: Receipt of no-objection letter for re-classification of certain members of the promoter and promoter group under Regulation 31A read with Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015"
     }
   ],
   "partnerships_or_deals": [],
@@ -46,23 +46,21 @@
   "products_or_platforms": [],
   "important_text_spans": [
     {
-      "text": "BSE  Limited  ('BSE')  and  National  Stock  Exchange  of  India  Limited  ('NSE')  vide  their  letters  dated May 11, 2026 have granted no-objection to the application for re-classification of Mr. Shreyas Shibulal and Ms. Bhairavi Madhusudhan Shibulal",
-      "section_heading": null,
-      "reason": "Supports the exchange no-objection and identifies the persons being reclassified."
-    },
-    {
-      "text": "from the category of 'Promoter and Promoter Group' of the Company to  'Public'",
-      "section_heading": null,
-      "reason": "Supports the nature of the reclassification."
+      "text": "BSE Limited ('BSE') and National Stock Exchange of India Limited ('NSE') vide their letters dated May 11, 2026 have granted no-objection to the application for re-classification of Mr. Shreyas Shibulal and Ms. Bhairavi Madhusudhan Shibulal from the category of 'Promoter and Promoter Group' of the Company to 'Public'",
+      "section_heading": "Subject: Receipt of no-objection letter for re-classification of certain members of the promoter and promoter group under Regulation 31A read with Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
+      "reason": "Supports the main fact that the exchanges granted no-objection for the promoter-group reclassification."
     }
   ],
   "search_keywords": [
-    "promoter reclassification",
     "Shreyas Shibulal",
     "Bhairavi Madhusudhan Shibulal",
+    "promoter reclassification",
     "Regulation 31A",
-    "SEBI LODR",
-    "public category"
+    "SEBI LODR"
   ],
-  "processing_notes": "Document text contains minor OCR spacing issues in the enclosed exchange letters; extraction relies on the clearly readable company disclosure and NSE letter."
+  "sample_questions": [
+    "Who did Infosys reclassify from promoter group to public shareholder in May 2026?",
+    "Did BSE and NSE approve Infosys's promoter reclassification request for Shreyas Shibulal and Bhairavi Madhusudhan Shibulal?"
+  ],
+  "processing_notes": "The document is a routine regulatory no-objection disclosure with no financial metrics, business impact, leadership change, or strategic transaction disclosed."
 }

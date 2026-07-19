@@ -1,11 +1,11 @@
 {
   "document_name": "Infosys_12012026153245_PR_12012026.md",
-  "is_material": true,
-  "title": "Infosys and ATP launch Ally AI chatbot and extend digital partnership through 2028",
-  "detailed_summary": "Infosys and ATP announced the launch of Ally, an AI-powered chatbot built using Infosys Topaz to enhance tennis fan engagement with real-time information on match statistics, tournament draws, schedules, head-to-head comparisons, player stats, and historical records. Infosys and ATP also extended their partnership through 2028, continuing a relationship in which Infosys has served as ATP's Digital Innovation Partner since 2015. The document also notes that Infosys and ATP launched Version 2.0 of Carbon Tracker in 2025, with more than 300 players using the tool since 2023 and 585 tonnes of carbon offset in 2025 alone.",
+  "is_material": false,
+  "title": "Infosys and ATP Launch AI Chatbot Ally and Extend Partnership Through 2028",
+  "detailed_summary": "Infosys and ATP launched Ally, an AI-powered chatbot for tennis fan engagement, powered by Infosys Topaz and integrated with the ATP Stats Centre. The companies also extended their partnership through 2028. The release highlights Infosys’s AI and digital innovation work with ATP but provides no deal value, revenue impact, or financial guidance.",
   "key_facts": [
     {
-      "fact": "Infosys and ATP announced the launch of Ally, an AI-powered chatbot to enhance fan engagement and bring the tennis community closer to the sport.",
+      "fact": "Infosys and ATP announced the launch of Ally, an AI-powered chatbot, to enhance fan engagement.",
       "section_heading": "Infosys and ATP Unveil 'Ally', an AI Chatbot to Elevate Fan Experience, and Announce Extension of Partnership Through 2028"
     },
     {
@@ -13,19 +13,7 @@
       "section_heading": "Infosys and ATP Unveil 'Ally', an AI Chatbot to Elevate Fan Experience, and Announce Extension of Partnership Through 2028"
     },
     {
-      "fact": "Infosys has been ATP's Digital Innovation Partner since 2015 and has helped develop ATP PlayerZone, the ATP Stats Centre, and the ATP app.",
-      "section_heading": "Infosys and ATP Unveil 'Ally', an AI Chatbot to Elevate Fan Experience, and Announce Extension of Partnership Through 2028"
-    },
-    {
-      "fact": "Ally is powered by Infosys Topaz, an AI-first offering using generative AI technologies.",
-      "section_heading": "Infosys and ATP Unveil 'Ally', an AI Chatbot to Elevate Fan Experience, and Announce Extension of Partnership Through 2028"
-    },
-    {
-      "fact": "Ally is integrated with the ATP Stats Centre and includes guardrails such as content filtering, personally identifiable information removal, and contextual checks to detect and prevent misinformation and hallucinations.",
-      "section_heading": "Infosys and ATP Unveil 'Ally', an AI Chatbot to Elevate Fan Experience, and Announce Extension of Partnership Through 2028"
-    },
-    {
-      "fact": "Infosys and ATP launched Version 2.0 of Carbon Tracker in 2025.",
+      "fact": "Ally is powered by Infosys Topaz and integrated with the ATP Stats Centre.",
       "section_heading": "Infosys and ATP Unveil 'Ally', an AI Chatbot to Elevate Fan Experience, and Announce Extension of Partnership Through 2028"
     }
   ],
@@ -48,9 +36,9 @@
   "corporate_actions": [],
   "partnerships_or_deals": [
     {
-      "deal_type": "strategic partnership",
+      "deal_type": "partnership extension",
       "counterparty": "ATP",
-      "description": "Infosys and ATP extended their partnership, under which Infosys has served as ATP's Digital Innovation Partner since 2015.",
+      "description": "Infosys and ATP extended their partnership through 2028, alongside the launch of Ally, an AI-powered chatbot for tennis fan engagement.",
       "value": null,
       "duration": "through 2028",
       "section_heading": "Infosys and ATP Unveil 'Ally', an AI Chatbot to Elevate Fan Experience, and Announce Extension of Partnership Through 2028"
@@ -59,48 +47,33 @@
   "leadership_changes": [],
   "litigation_or_regulatory_matters": [],
   "risk_factors": [],
-  "esg_or_csr_items": [
-    {
-      "item": "Infosys and ATP launched Version 2.0 of Carbon Tracker in 2025; since launching in 2023, more than 300 players have engaged with the tool, tracking 2.3 million kilometers of travel and offsetting 585 tonnes of carbon in 2025 alone.",
-      "amount": "2.3 million kilometers of travel and offsetting 585 tonnes of carbon in 2025 alone",
-      "section_heading": "Infosys and ATP Unveil 'Ally', an AI Chatbot to Elevate Fan Experience, and Announce Extension of Partnership Through 2028"
-    }
-  ],
-  "products_or_platforms": [
-    {
-      "name": "Ally",
-      "event_type": "launched",
-      "description": "Ally is an AI-powered chatbot powered by Infosys Topaz that provides real-time insights including match statistics, tournament draws, schedules, head-to-head comparisons, player stats, and historical records.",
-      "target_market_or_use_case": "tennis enthusiasts, players and coaches",
-      "section_heading": "Infosys and ATP Unveil 'Ally', an AI Chatbot to Elevate Fan Experience, and Announce Extension of Partnership Through 2028"
-    }
-  ],
+  "esg_or_csr_items": [],
+  "products_or_platforms": [],
   "important_text_spans": [
     {
       "text": "Infosys and ATP also announced an extension of their partnership through 2028",
       "section_heading": "Infosys and ATP Unveil 'Ally', an AI Chatbot to Elevate Fan Experience, and Announce Extension of Partnership Through 2028",
-      "reason": "Supports the partnership extension and duration."
+      "reason": "Supports the partnership extension timeline."
     },
     {
       "text": "Ally is powered by Infosys Topaz, an AI-first offering using generative AI technologies.",
       "section_heading": "Infosys and ATP Unveil 'Ally', an AI Chatbot to Elevate Fan Experience, and Announce Extension of Partnership Through 2028",
-      "reason": "Supports the product launch and connection to Infosys's AI offering."
-    },
-    {
-      "text": "Since launching in 2023, more than 300 players have engaged with the tool, tracking 2.3 million kilometers of travel and offsetting 585 tonnes of carbon in 2025 alone.",
-      "section_heading": "Infosys and ATP Unveil 'Ally', an AI Chatbot to Elevate Fan Experience, and Announce Extension of Partnership Through 2028",
-      "reason": "Supports the reported scale of the Carbon Tracker sustainability initiative."
+      "reason": "Supports Infosys Topaz’s role in the chatbot launch."
     }
   ],
   "search_keywords": [
     "ATP",
     "Ally",
     "Infosys Topaz",
-    "Digital Innovation Partner",
+    "AI chatbot",
     "ATP Stats Centre",
-    "Carbon Tracker",
-    "generative AI",
     "partnership through 2028"
   ],
-  "processing_notes": "No financial metrics or deal value were disclosed. Generic company background and safe harbor language were excluded."
+  "sample_questions": [
+    "What did Infosys and ATP announce on January 12, 2026?",
+    "How long was the Infosys and ATP partnership extended?",
+    "What is Ally and how is Infosys Topaz involved?",
+    "Did Infosys disclose any financial value for the ATP partnership extension?"
+  ],
+  "processing_notes": "The document was treated as non-material because it primarily concerns a sports technology partnership and fan engagement chatbot, with no disclosed financial value, revenue impact, guidance, or material operating metrics. Generic Infosys profile and safe harbor content were excluded."
 }
