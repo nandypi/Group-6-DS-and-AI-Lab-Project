@@ -1,0 +1,88 @@
+{
+  "document_name": "Infosys_11082025152913_PR_11082025.md",
+  "is_material": true,
+  "title": "Infosys Implements nCino Platform for ABN AMRO Lending Transformation",
+  "detailed_summary": "Infosys announced the next phase of successful implementation and go live of the nCino Platform for ABN AMRO Bank to transform loan origination and collateral management. The project consolidated multiple legacy systems into a unified platform and included migration of over 100,000 records from multiple legacy systems over 11 months. Infosys described the engagement as supporting operational efficiency, customer onboarding, loan origination, collateral management, data quality, API-driven integrations, and regulatory compliance for ABN AMRO.",
+  "key_facts": [
+    {
+      "fact": "Infosys announced the next phase of successful implementation and go live of the nCino Platform for ABN AMRO Bank.",
+      "section_heading": "Infosys Transforms ABN AMRO's Lending Process with nCino Platform Implementation"
+    },
+    {
+      "fact": "The project sought to transform ABN AMRO's loan origination and collateral management process by consolidating multiple legacy systems into a single, unified platform.",
+      "section_heading": "Infosys Transforms ABN AMRO's Lending Process with nCino Platform Implementation"
+    },
+    {
+      "fact": "Infosys is one of the primary Application Development and Maintenance partners of ABN AMRO.",
+      "section_heading": "Infosys Transforms ABN AMRO's Lending Process with nCino Platform Implementation"
+    },
+    {
+      "fact": "Infosys helped facilitate migration of over 100,000 records from multiple legacy systems over a period of 11 months.",
+      "section_heading": "Infosys Transforms ABN AMRO's Lending Process with nCino Platform Implementation"
+    },
+    {
+      "fact": "Infosys supported integrations across ABN AMRO's shared capabilities and diverse IT systems throughout the credit origination and collateral management processes.",
+      "section_heading": "Infosys Transforms ABN AMRO's Lending Process with nCino Platform Implementation"
+    }
+  ],
+  "financial_metrics": {
+    "currency": null,
+    "period": null,
+    "revenue": null,
+    "revenue_growth_yoy": null,
+    "revenue_growth_qoq": null,
+    "operating_margin": null,
+    "net_profit": null,
+    "eps": null,
+    "free_cash_flow": null,
+    "large_deal_tcv": null,
+    "headcount": null,
+    "attrition": null,
+    "guidance": null,
+    "dividend": null
+  },
+  "corporate_actions": [],
+  "partnerships_or_deals": [
+    {
+      "deal_type": "client contract",
+      "counterparty": "ABN AMRO Bank",
+      "description": "Infosys implemented and supported the go live of the nCino Platform for ABN AMRO Bank to transform loan origination and collateral management by consolidating multiple legacy systems into a unified platform.",
+      "value": null,
+      "duration": null,
+      "section_heading": "Infosys Transforms ABN AMRO's Lending Process with nCino Platform Implementation"
+    }
+  ],
+  "leadership_changes": [],
+  "litigation_or_regulatory_matters": [],
+  "risk_factors": [],
+  "esg_or_csr_items": [],
+  "products_or_platforms": [],
+  "important_text_spans": [
+    {
+      "text": "today announced the next phase of successful implementation and go live of  the  nCino  Platform  for  ABN  AMRO Bank",
+      "section_heading": "Infosys Transforms ABN AMRO's Lending Process with nCino Platform Implementation",
+      "reason": "Supports the main client implementation event."
+    },
+    {
+      "text": "helping facilitate migration of over 100,000 records from multiple legacy systems over a  period  of  11  months",
+      "section_heading": "Infosys Transforms ABN AMRO's Lending Process with nCino Platform Implementation",
+      "reason": "Supports the operational scale of the implementation."
+    },
+    {
+      "text": "The nCino Platform provides ABN AMRO with a centralized solution for managing assets and collaterals, while  mitigating  data  quality  issues.",
+      "section_heading": "Infosys Transforms ABN AMRO's Lending Process with nCino Platform Implementation",
+      "reason": "Supports the stated business purpose and expected operational benefit."
+    }
+  ],
+  "search_keywords": [
+    "ABN AMRO Bank",
+    "nCino Platform",
+    "loan origination",
+    "collateral management",
+    "Application Development and Maintenance",
+    "data migration",
+    "credit origination",
+    "legacy systems"
+  ],
+  "processing_notes": "No contract value, revenue impact, or deal duration was disclosed. nCino was treated as a third-party platform used in a client implementation, not as an Infosys-owned product or platform."
+}

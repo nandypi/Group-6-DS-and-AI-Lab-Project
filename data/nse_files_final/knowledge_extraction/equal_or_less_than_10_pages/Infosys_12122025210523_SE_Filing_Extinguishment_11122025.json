@@ -1,0 +1,95 @@
+{
+  "document_name": "Infosys_12122025210523_SE_Filing_Extinguishment_11122025.md",
+  "is_material": true,
+  "title": "Infosys completes extinguishment of 100,000,000 shares under buyback",
+  "detailed_summary": "Infosys completed the extinguishment of 100,000,000 equity shares of face value of ₹ 5 each bought back through the tender offer route. The buyback tendering period opened on Thursday, November 20, 2025 and closed on Wednesday, November 26, 2025. Equity share capital was 4,15,44,01,349 shares as on the buyback record date of November 14, 2025, and became 4,05,46,24,409 shares after extinguishment, inclusive of 2,23,060 equity shares allotted pursuant to exercise of RSUs. The certificate states the shares were extinguished on December 4, 2025 in dematerialized form.",
+  "key_facts": [
+    {
+      "fact": "Infosys completed the extinguishment of 100,000,000 equity shares of face value of ₹ 5 each bought back through the tender offer route.",
+      "section_heading": null
+    },
+    {
+      "fact": "The buyback tendering period opened on Thursday, November 20, 2025, and closed on Wednesday, November 26, 2025.",
+      "section_heading": null
+    },
+    {
+      "fact": "Equity share capital before extinguishment was 4,15,44,01,349 shares as on the Record Date of the Buyback i.e., November 14, 2025.",
+      "section_heading": null
+    },
+    {
+      "fact": "Equity share capital after extinguishment was 4,05,46,24,409 shares, inclusive of 2,23,060 Equity Shares allotted pursuant to exercise of RSUs.",
+      "section_heading": null
+    },
+    {
+      "fact": "100,000,000 equity shares were extinguished in dematerialized form on December 4, 2025.",
+      "section_heading": "CERTIFICATEOFEXTINGUISHMENTOFEQUITYSHARESBOUGHTBACKBY INFOSYSLIMITED(THE\"COMPANY\")"
+    }
+  ],
+  "financial_metrics": {
+    "currency": null,
+    "period": null,
+    "revenue": null,
+    "revenue_growth_yoy": null,
+    "revenue_growth_qoq": null,
+    "operating_margin": null,
+    "net_profit": null,
+    "eps": null,
+    "free_cash_flow": null,
+    "large_deal_tcv": null,
+    "headcount": null,
+    "attrition": null,
+    "guidance": null,
+    "dividend": null
+  },
+  "corporate_actions": [
+    {
+      "action_type": "buyback",
+      "description": "Infosys completed extinguishment of equity shares bought back by way of the tender offer route; 100,000,000 equity shares were extinguished and equity share capital after extinguishment was 4,05,46,24,409 shares.",
+      "amount_or_ratio": "100,000,000 equity shares of face value of ₹ 5 each",
+      "effective_date": "December 4, 2025",
+      "section_heading": null
+    }
+  ],
+  "partnerships_or_deals": [],
+  "leadership_changes": [],
+  "litigation_or_regulatory_matters": [],
+  "risk_factors": [],
+  "esg_or_csr_items": [],
+  "products_or_platforms": [],
+  "important_text_spans": [
+    {
+      "text": "Completion of extinguishment of 100,000,000 (Ten Crore) equity shares of face value of ₹ 5 each",
+      "section_heading": null,
+      "reason": "Identifies the completed corporate action and number of shares extinguished."
+    },
+    {
+      "text": "Equity share capital before the said extinguishment (Number of Equity Shares) * | Number of Equity Shares extinguished | Equity share capital after the said extinguishment (Number of Equity Shares) #",
+      "section_heading": null,
+      "reason": "Supports the disclosure that the filing reports pre- and post-extinguishment share capital."
+    },
+    {
+      "text": "4,15,44,01,349 | 100,000,000 | 4,05,46,24,409",
+      "section_heading": null,
+      "reason": "Provides the exact share capital figures before and after extinguishment."
+    },
+    {
+      "text": "Date of Extinguishment | No. of Equity Shares Extinguished",
+      "section_heading": "CERTIFICATEOFEXTINGUISHMENTOFEQUITYSHARESBOUGHTBACKBY INFOSYSLIMITED(THE\"COMPANY\")",
+      "reason": "Supports the certificate table identifying the extinguishment date and share count."
+    },
+    {
+      "text": "December 4, 2025 | 10,00,00,000",
+      "section_heading": "CERTIFICATEOFEXTINGUISHMENTOFEQUITYSHARESBOUGHTBACKBY INFOSYSLIMITED(THE\"COMPANY\")",
+      "reason": "Provides the exact extinguishment date and number of shares extinguished in the certificate."
+    }
+  ],
+  "search_keywords": [
+    "Infosys buyback",
+    "share extinguishment",
+    "tender offer buyback",
+    "100,000,000 equity shares",
+    "equity share capital",
+    "RSUs"
+  ],
+  "processing_notes": "The NSDL confirmation section appears corrupted or unreadable, so extraction relies on the readable company letter and certificate text."
+}

@@ -1,0 +1,109 @@
+{
+  "document_name": "Infosys_10102025153819_PR_10102025.md",
+  "is_material": true,
+  "title": "Infosys launches Customer Experience Suite for Salesforce",
+  "detailed_summary": "Infosys announced the launch of the Infosys Customer Experience Suite for Salesforce, a suite of Agentforce solutions built using Infosys Topaz and Salesforce's agentic AI capabilities. The offering is intended to help enterprises scale digital workforces, automate customer interactions, enhance personalization, integrate workflows, and improve real-time decision-making across sales, service, and marketing channels. Infosys cited existing client outcomes, including deployment of Agentforce SDR for a leading research institute and customer service transformation for a media house. Fluido, an Infosys company, supported Salesforce-powered transformations, including VTT's implementation of a live SDR Agentforce agent and plans to develop two additional Agentforce agents.",
+  "key_facts": [
+    {
+      "fact": "Infosys announced the Infosys Customer Experience Suite for Salesforce on October 10, 2025.",
+      "section_heading": "Launching Today: Infosys Customer Experience Suite for Salesforce"
+    },
+    {
+      "fact": "The suite builds on Infosys's collaboration with Salesforce and is designed to deliver Agentforce solutions for enterprise digital transformation.",
+      "section_heading": "Launching Today: Infosys Customer Experience Suite for Salesforce"
+    },
+    {
+      "fact": "The solutions use Infosys Topaz and Salesforce's agentic AI capabilities to automate service inquiries, sales tasks, and employee support.",
+      "section_heading": "Launching Today: Infosys Customer Experience Suite for Salesforce"
+    },
+    {
+      "fact": "Infosys stated that the solutions are intended to drive measurable efficiencies across sales, services, and marketing channels.",
+      "section_heading": "Launching Today: Infosys Customer Experience Suite for Salesforce"
+    },
+    {
+      "fact": "Infosys deployed Agentforce SDR for a leading research institute to address sales-process inefficiencies and reduce response time.",
+      "section_heading": "Launching Today: Infosys Customer Experience Suite for Salesforce"
+    },
+    {
+      "fact": "Infosys helped a renowned media house transform customer service operations using Salesforce's agentic AI solutions and service management techniques.",
+      "section_heading": "Launching Today: Infosys Customer Experience Suite for Salesforce"
+    },
+    {
+      "fact": "Fluido helped VTT implement a live SDR Agentforce agent, and VTT is collaborating with Infosys and Fluido to develop two additional Agentforce agents.",
+      "section_heading": "Launching Today: Infosys Customer Experience Suite for Salesforce"
+    }
+  ],
+  "financial_metrics": {
+    "currency": null,
+    "period": null,
+    "revenue": null,
+    "revenue_growth_yoy": null,
+    "revenue_growth_qoq": null,
+    "operating_margin": null,
+    "net_profit": null,
+    "eps": null,
+    "free_cash_flow": null,
+    "large_deal_tcv": null,
+    "headcount": null,
+    "attrition": null,
+    "guidance": null,
+    "dividend": null
+  },
+  "corporate_actions": [],
+  "partnerships_or_deals": [
+    {
+      "deal_type": "strategic collaboration",
+      "counterparty": "Salesforce",
+      "description": "Infosys strengthened its collaboration with Salesforce to deliver Agentforce solutions through the Infosys Customer Experience Suite for Salesforce.",
+      "value": null,
+      "duration": null,
+      "section_heading": "Launching Today: Infosys Customer Experience Suite for Salesforce"
+    }
+  ],
+  "leadership_changes": [],
+  "litigation_or_regulatory_matters": [],
+  "risk_factors": [],
+  "esg_or_csr_items": [],
+  "products_or_platforms": [
+    {
+      "name": "Infosys Customer Experience Suite for Salesforce",
+      "event_type": "launched",
+      "description": "A suite of Agentforce solutions using Infosys Topaz and Salesforce's agentic AI capabilities to help enterprises scale digital workforces, improve customer experiences, automate customer interactions, and optimize workflows.",
+      "target_market_or_use_case": "Enterprise customer experience, sales, service, marketing, and employee support workflows",
+      "section_heading": "Launching Today: Infosys Customer Experience Suite for Salesforce"
+    }
+  ],
+  "important_text_spans": [
+    {
+      "text": "Infosys (NSE, BSE, NYSE: INFY), a global leader in next-generation digital services and consulting, today announced a comprehensive suite of solutions - the Infosys Customer Experience Suite for Salesforce.",
+      "section_heading": "Launching Today: Infosys Customer Experience Suite for Salesforce",
+      "reason": "Supports the launch of the main Infosys offering."
+    },
+    {
+      "text": "Leveraging Infosys Topaz, an AI-first set of services, solutions and platforms, along with Salesforce's agentic AI capabilities, these Agentforce solutions enable enterprises to streamline customer interactions by automating processes such as service inquiries, sales tasks, and employee support.",
+      "section_heading": "Launching Today: Infosys Customer Experience Suite for Salesforce",
+      "reason": "Explains the core technology and use cases of the launched suite."
+    },
+    {
+      "text": "The goal is to equip enterprises with scalable, AI-driven solutions that drive measurable efficiencies across sales, services, and marketing channels and ensure operational success.",
+      "section_heading": "Launching Today: Infosys Customer Experience Suite for Salesforce",
+      "reason": "Supports the stated business impact of the offering."
+    },
+    {
+      "text": "VTT became one of the first organizations outside Salesforce to implement a live SDR Agentforce agent.",
+      "section_heading": "Launching Today: Infosys Customer Experience Suite for Salesforce",
+      "reason": "Supports evidence of client implementation for the Agentforce offering."
+    }
+  ],
+  "search_keywords": [
+    "Infosys Customer Experience Suite for Salesforce",
+    "Salesforce",
+    "Agentforce",
+    "Infosys Topaz",
+    "agentic AI",
+    "Fluido",
+    "VTT",
+    "SDR Agentforce agent"
+  ],
+  "processing_notes": "No financial metrics, deal value, or duration were disclosed. Generic Infosys company background and safe harbor risks were excluded."
+}

@@ -1,0 +1,72 @@
+{
+  "document_name": "Infosys_02012026090317_letter_January022026.md",
+  "is_material": false,
+  "title": "Infosys Receives Tax Penalty Demand of INR 40,72,525",
+  "detailed_summary": "Infosys disclosed receipt of communication for collection of a penalty from the Deputy Commissioner of Commercial Taxes. The total penalty is INR 40,72,525/- and relates to an alleged mismatch in credit notes declared in GSTR-1 versus GSTR-9 for F.Y. 2018-19. Infosys stated there is no material impact on its financials, operations, or other activities.",
+  "key_facts": [
+    {
+      "fact": "Infosys received communication for collection of a total penalty of INR 40,72,525/- from the Deputy Commissioner of Commercial Taxes.",
+      "section_heading": "Sub:  Company Statement"
+    },
+    {
+      "fact": "The demand was alleged under declaration of turnover due to mis-match in credit notes declared in GSTR-1 vs GSTR-9 for the F.Y. 2018-19.",
+      "section_heading": "Sub:  Company Statement"
+    },
+    {
+      "fact": "Infosys stated that there is no material impact on financials, operations or other activities of the Company.",
+      "section_heading": "Sub:  Company Statement"
+    }
+  ],
+  "financial_metrics": {
+    "currency": null,
+    "period": null,
+    "revenue": null,
+    "revenue_growth_yoy": null,
+    "revenue_growth_qoq": null,
+    "operating_margin": null,
+    "net_profit": null,
+    "eps": null,
+    "free_cash_flow": null,
+    "large_deal_tcv": null,
+    "headcount": null,
+    "attrition": null,
+    "guidance": null,
+    "dividend": null
+  },
+  "corporate_actions": [],
+  "partnerships_or_deals": [],
+  "leadership_changes": [],
+  "litigation_or_regulatory_matters": [
+    {
+      "matter_type": "penalty",
+      "authority_or_counterparty": "Deputy Commissioner of Commercial Taxes",
+      "description": "Orders passed/ action taken for alleged under declaration of turnover due to mis-match in credit notes declared in GSTR-1 vs GSTR-9 for the F.Y. 2018-19.",
+      "amount": "INR 40,72,525/-",
+      "status": "Orders passed/ action taken.",
+      "section_heading": "Sub:  Company Statement"
+    }
+  ],
+  "risk_factors": [],
+  "esg_or_csr_items": [],
+  "products_or_platforms": [],
+  "important_text_spans": [
+    {
+      "text": "Total Penalty - INR 40,72,525/-",
+      "section_heading": "Sub:  Company Statement",
+      "reason": "Supports the amount of the penalty disclosed by Infosys."
+    },
+    {
+      "text": "None, there is no material impact on financials, operations or other activities of the Company.",
+      "section_heading": "Sub:  Company Statement",
+      "reason": "Supports the company’s stated impact assessment."
+    }
+  ],
+  "search_keywords": [
+    "Deputy Commissioner of Commercial Taxes",
+    "INR 40,72,525/- penalty",
+    "GSTR-1 vs GSTR-9",
+    "credit notes mismatch",
+    "F.Y. 2018-19"
+  ],
+  "processing_notes": "Marked non-material because the disclosed penalty is small relative to Infosys and the company explicitly stated there is no material impact on financials, operations, or other activities."
+}

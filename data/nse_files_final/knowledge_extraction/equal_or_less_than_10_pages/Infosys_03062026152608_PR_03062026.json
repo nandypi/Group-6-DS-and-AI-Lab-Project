@@ -1,0 +1,74 @@
+{
+  "document_name": "Infosys_03062026152608_PR_03062026.md",
+  "is_material": false,
+  "title": "Infosys and LTA launch AI-driven tennis fan experiences",
+  "detailed_summary": "Infosys announced AI-powered fan experiences with the Lawn Tennis Association for the LTA grass court season, including a Match Centre, AI commentary, personalization, fan polls, match statistics, and on-site Fan Zone experiences at the HSBC Championships. The release highlights Infosys Topaz and responsible AI governance, but provides no financial terms, contract value, revenue impact, or material operating metrics.",
+  "key_facts": [
+    {
+      "fact": "Infosys and the Lawn Tennis Association unveiled AI-powered fan experiences across the LTA grass court season.",
+      "section_heading": null
+    },
+    {
+      "fact": "The experiences leverage Infosys Topaz, powered by generative and agentic AI, to deliver real-time insights, storytelling, personalization, and responsible AI governance.",
+      "section_heading": null
+    },
+    {
+      "fact": "At the HSBC Championships at The Queen's Club, scheduled from June 6 - 21, 2026, Infosys will operate a Fan Zone featuring Rally and VR Tennis.",
+      "section_heading": null
+    }
+  ],
+  "financial_metrics": {
+    "currency": null,
+    "period": null,
+    "revenue": null,
+    "revenue_growth_yoy": null,
+    "revenue_growth_qoq": null,
+    "operating_margin": null,
+    "net_profit": null,
+    "eps": null,
+    "free_cash_flow": null,
+    "large_deal_tcv": null,
+    "headcount": null,
+    "attrition": null,
+    "guidance": null,
+    "dividend": null
+  },
+  "corporate_actions": [],
+  "partnerships_or_deals": [],
+  "leadership_changes": [],
+  "litigation_or_regulatory_matters": [],
+  "risk_factors": [],
+  "esg_or_csr_items": [],
+  "products_or_platforms": [
+    {
+      "name": "Infosys Match Center",
+      "event_type": "launched",
+      "description": "A unified digital destination bringing together live scores, draws, schedules, results, player profiles, match statistics, head-to-head comparisons, fan polls, and AI-powered commentary.",
+      "target_market_or_use_case": "Tennis fan engagement across the LTA grass court season",
+      "section_heading": "New AI-Powered Innovations Across the LTA Grass Court Season Include:"
+    }
+  ],
+  "important_text_spans": [
+    {
+      "text": "Infosys (NSE, BSE, NYSE: INFY), a global leader in AI-first business consulting and technology services, today unveiled a new suite of AI-powered fan experiences in partnership with the Lawn Tennis Association (LTA)",
+      "section_heading": null,
+      "reason": "Supports the main event and counterparty."
+    },
+    {
+      "text": "Leveraging its innovative AI-first offering Infosys Topaz, powered by generative and agentic AI, Infosys will deliver real-time insights, intelligent storytelling, personalization, and responsible AI governance throughout the season.",
+      "section_heading": null,
+      "reason": "Supports the stated technology platform and use case."
+    }
+  ],
+  "search_keywords": [
+    "Lawn Tennis Association",
+    "LTA",
+    "Infosys Topaz",
+    "AI Commentary",
+    "Infosys Match Center",
+    "HSBC Championships",
+    "Rally",
+    "VR Tennis"
+  ],
+  "processing_notes": "Treated as non-material because the release describes sports fan-experience innovations and an ongoing collaboration without financial terms, contract value, revenue impact, or material operating metrics."
+}

@@ -1,0 +1,82 @@
+{
+  "document_name": "Infosys_01122025170232_SEfiling_Reg30_01122025.md",
+  "is_material": true,
+  "title": "Infosys Receives GST Penalty Communication of INR 13,60,11,264",
+  "detailed_summary": "Infosys disclosed that it received communication for collection of a penalty from the Joint Commissioner of CGST. The order/action relates to a total penalty of INR 13,60,11,264/- for alleged non-payment of GST on stay of employees of other GSTINs, described as distinct persons, in guest houses for business purposes for FY 2018-19 to 2022-23. Infosys stated that there is no material impact on its financials, operations or other activities.",
+  "key_facts": [
+    {
+      "fact": "Infosys received communication(s) for collection of penalty from the Joint Commissioner of CGST.",
+      "section_heading": "Sub:  Company Statement"
+    },
+    {
+      "fact": "The total penalty disclosed was INR 13,60,11,264/-.",
+      "section_heading": "Sub:  Company Statement"
+    },
+    {
+      "fact": "The demand relates to alleged non-payment of GST on stay of employees of other GSTINs (distinct person) in guest house for business purposes for FY 2018-19 to 2022-23.",
+      "section_heading": "Sub:  Company Statement"
+    },
+    {
+      "fact": "Infosys stated that there is no material impact on financials, operations or other activities of the Company.",
+      "section_heading": "Sub:  Company Statement"
+    }
+  ],
+  "financial_metrics": {
+    "currency": null,
+    "period": null,
+    "revenue": null,
+    "revenue_growth_yoy": null,
+    "revenue_growth_qoq": null,
+    "operating_margin": null,
+    "net_profit": null,
+    "eps": null,
+    "free_cash_flow": null,
+    "large_deal_tcv": null,
+    "headcount": null,
+    "attrition": null,
+    "guidance": null,
+    "dividend": null
+  },
+  "corporate_actions": [],
+  "partnerships_or_deals": [],
+  "leadership_changes": [],
+  "litigation_or_regulatory_matters": [
+    {
+      "matter_type": "penalty",
+      "authority_or_counterparty": "Joint Commissioner of CGST",
+      "description": "Orders passed/action taken for alleged non-payment of GST on stay of employees of other GSTINs (distinct person) in guest house for business purposes for FY 2018-19 to 2022-23.",
+      "amount": "INR 13,60,11,264/-",
+      "status": "Orders passed/ action taken.",
+      "section_heading": "Sub:  Company Statement"
+    }
+  ],
+  "risk_factors": [],
+  "esg_or_csr_items": [],
+  "products_or_platforms": [],
+  "important_text_spans": [
+    {
+      "text": "Total Penalty - INR 13,60,11,264/-",
+      "section_heading": "Sub:  Company Statement",
+      "reason": "Supports the disclosed penalty amount."
+    },
+    {
+      "text": "Demand issued for alleged non- payment of GST on stay of employees of other GSTINs (distinct person) in Guest house for business purposes for FY 2018-19 to 2022-23",
+      "section_heading": "Sub:  Company Statement",
+      "reason": "Supports the nature and period of the GST matter."
+    },
+    {
+      "text": "None, there is no material impact on financials, operations or other activities of the Company.",
+      "section_heading": "Sub:  Company Statement",
+      "reason": "Supports Infosys's stated impact assessment."
+    }
+  ],
+  "search_keywords": [
+    "Joint Commissioner of CGST",
+    "GST penalty",
+    "INR 13,60,11,264",
+    "non-payment of GST",
+    "guest house",
+    "FY 2018-19 to 2022-23"
+  ],
+  "processing_notes": ""
+}

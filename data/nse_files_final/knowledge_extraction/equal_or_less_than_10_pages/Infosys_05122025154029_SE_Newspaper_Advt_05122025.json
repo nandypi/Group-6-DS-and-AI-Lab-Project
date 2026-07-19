@@ -1,0 +1,107 @@
+{
+  "document_name": "Infosys_05122025154029_SE_Newspaper_Advt_05122025.md",
+  "is_material": true,
+  "title": "Infosys completes ₹18,000 crore equity share buyback",
+  "detailed_summary": "Infosys completed its 2025 equity share buyback through the tender offer route. The company bought back 10,00,00,000 fully paid-up equity shares at ₹1,800/- per Equity Share for an aggregate consideration of up to 18,000 crore, excluding Transaction Costs. The tendering period ran from November 20, 2025 to November 26, 2025, settlement of accepted bids was completed on December 3, 2025, and the bought-back shares were extinguished on December 4, 2025. The buyback represented 24.31% and 21.68% of the aggregate fully paid-up equity share capital and free reserves on a standalone and consolidated basis, respectively, as at June 30, 2025. Post buyback, issued, subscribed and paid-up share capital decreased to 4,05,46,24,409 equity shares and promoter holding rose from 13.05% to 13.37%.",
+  "key_facts": [
+    {
+      "fact": "Infosys bought back 10,00,00,000 fully paid-up Equity Shares at ₹1,800/- per Equity Share.",
+      "section_heading": "2.DETAILS OF BUYBACK:"
+    },
+    {
+      "fact": "The total amount utilized in the Buyback was18,000 crore (Rupees EighteenThousand Crore only),excluding Transaction Costs.",
+      "section_heading": "2.DETAILS OF BUYBACK:"
+    },
+    {
+      "fact": "The Tendering Period for the Buyback commenced on Thursday, November 20,2025 and closed on Wednesday, November 26,2025.",
+      "section_heading": "1.THE BUYBACK"
+    },
+    {
+      "fact": "Settlement of accepted valid bids was completed on December 3, 2025, and the Company extinguished 10,00,00,000 equity shares bought back on December 4, 2025.",
+      "section_heading": null
+    },
+    {
+      "fact": "The buyback represented 24.31% and 21.68% of the aggregate of fully paid-up equity share capital and free reserves as per the latest audited interim condensed financial statements as at June30,2025 on a standalone basis and consolidated basis, respectively.",
+      "section_heading": "1.THE BUYBACK"
+    },
+    {
+      "fact": "Valid bids totaled 5,38,090 and total equity shares validly tendered were 82,56,24,353, implying a total response of 825.62%.",
+      "section_heading": "2.DETAILS OF BUYBACK:"
+    },
+    {
+      "fact": "Post buyback, issued, subscribed and paid-up share capital was 4,05,46,24,409 Equity Shares of 5/-each, compared with 4,15,44,01,349 Equity Shares of 5/-each pre-buyback.",
+      "section_heading": "3.CAPITALSTRUCTUREANDSHAREHOLDINGPATTERN:"
+    }
+  ],
+  "financial_metrics": {
+    "currency": null,
+    "period": null,
+    "revenue": null,
+    "revenue_growth_yoy": null,
+    "revenue_growth_qoq": null,
+    "operating_margin": null,
+    "net_profit": null,
+    "eps": null,
+    "free_cash_flow": null,
+    "large_deal_tcv": null,
+    "headcount": null,
+    "attrition": null,
+    "guidance": null,
+    "dividend": null
+  },
+  "corporate_actions": [
+    {
+      "action_type": "buyback",
+      "description": "Infosys completed a tender offer buyback of 10,00,00,000 fully paid-up Equity Shares at ₹1,800/- per Equity Share.",
+      "amount_or_ratio": "₹1,800/- per Equity Share; 18,000 crore; representing 24.31% and 21.68% of the aggregate of fully paid-up equity share capital and free reserves on a standalone basis and consolidated basis, respectively",
+      "effective_date": "December 4, 2025",
+      "section_heading": "1.THE BUYBACK"
+    },
+    {
+      "action_type": "capital structure change",
+      "description": "Issued, subscribed and paid-up share capital reduced after completion of the buyback.",
+      "amount_or_ratio": "Pre-Buyback: 4,15,44,01,349 Equity Shares of 5/-each; Post completion of the Buyback: 4,05,46,24,409 Equity Shares of 5/-each",
+      "effective_date": null,
+      "section_heading": "3.CAPITALSTRUCTUREANDSHAREHOLDINGPATTERN:"
+    }
+  ],
+  "partnerships_or_deals": [],
+  "leadership_changes": [],
+  "litigation_or_regulatory_matters": [],
+  "risk_factors": [],
+  "esg_or_csr_items": [],
+  "products_or_platforms": [],
+  "important_text_spans": [
+    {
+      "text": "10,00,00,000(Ten Crore) Equity Shares werebought backunder theBuyback,at aprice of 1,800/-(Rupees OneThousand Eight Hundred only)per Equity Share.",
+      "section_heading": "2.DETAILS OF BUYBACK:",
+      "reason": "Supports the number of shares bought back and buyback price."
+    },
+    {
+      "text": "The total amount utilized in the Buyback was18,000 crore (Rupees EighteenThousand Crore only),excluding Transaction Costs.",
+      "section_heading": "2.DETAILS OF BUYBACK:",
+      "reason": "Supports the financial scale of the buyback."
+    },
+    {
+      "text": "representing 24.31% and21.68%of theaggregateof fullypaid-upequity sharecapitalandfreereservesasperthelatest audited interimcondensed financial statements of theCompanyas at June30,2025on a standalonebasis and consolidatedbasis,respectively.",
+      "section_heading": "1.THEBUYBACK",
+      "reason": "Supports the materiality of the buyback relative to capital and free reserves."
+    },
+    {
+      "text": "The Tendering Period for the Buyback commenced on Thursday,November 20,2025 and closed on Wednesday, November 26,2025.",
+      "section_heading": "1.THEBUYBACK",
+      "reason": "Supports the buyback tender period."
+    }
+  ],
+  "search_keywords": [
+    "Infosys buyback 2025",
+    "₹18,000 crore buyback",
+    "tender offer buyback",
+    "₹1,800 per Equity Share",
+    "share extinguishment",
+    "KFin Technologies",
+    "ICICI Prudential Mutual Fund",
+    "promoter holding"
+  ],
+  "processing_notes": "The document text contains duplicated newspaper versions and OCR/formatting errors. Extracted repeated facts once and used the clearest available values. Post-buyback non-promoter category details appear aggregated or partially blank, so only promoter and total shareholding changes were used."
+}

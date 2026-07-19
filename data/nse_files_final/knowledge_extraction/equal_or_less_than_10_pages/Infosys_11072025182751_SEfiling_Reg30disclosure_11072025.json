@@ -1,0 +1,99 @@
+{
+  "document_name": "Infosys_11072025182751_SEfiling_Reg30disclosure_11072025.md",
+  "is_material": true,
+  "title": "Infosys McCamish Enters Vermont Consent Order Over Cyber Incident Disclosure Allegations",
+  "detailed_summary": "Infosys disclosed that Infosys McCamish Systems ('IMS'), a subsidiary of Infosys BPM limited, entered into a Stipulation and Consent Order with the State of Vermont Department of Financial Regulation on July 9, 2025. The DFR had alleged violations of the Vermont Security Breach Notice Act related to IMS's response to information requests during the regulator's cybersecurity event investigation and alleged failures to provide timely and accurate notice to data owners. IMS resolved the matter without a hearing and without admitting the alleged violations. IMS is required to pay an administrative penalty of USD 125,000 within 30 calendar days of entry of the order by the Commissioner.",
+  "key_facts": [
+    {
+      "fact": "On July 9, 2025, Infosys McCamish Systems ('IMS'), a subsidiary of Infosys BPM limited, entered into a Stipulation and Consent Order with the State of Vermont Department of Financial Regulation.",
+      "section_heading": "Sub:  Update on McCamish Cyber Incident"
+    },
+    {
+      "fact": "The DFR had alleged violations of the Vermont Security Breach Notice Act by IMS related to the cybersecurity event.",
+      "section_heading": "Sub:  Update on McCamish Cyber Incident"
+    },
+    {
+      "fact": "The DFR alleged that IMS failed to respond to its request for information with timely and accurate information and records and failed to provide timely and accurate notice of the cybersecurity event to data owners.",
+      "section_heading": "Sub:  Update on McCamish Cyber Incident"
+    },
+    {
+      "fact": "IMS entered into the Stipulation and Consent Order to resolve the matter without a hearing, and the order records that IMS does not admit the existence of the alleged violations.",
+      "section_heading": "Sub:  Update on McCamish Cyber Incident"
+    },
+    {
+      "fact": "IMS is required to pay an administrative penalty of USD 125,000 within 30 calendar days of entry of the Stipulation and Consent Order by the Commissioner.",
+      "section_heading": null
+    }
+  ],
+  "financial_metrics": {
+    "currency": null,
+    "period": null,
+    "revenue": null,
+    "revenue_growth_yoy": null,
+    "revenue_growth_qoq": null,
+    "operating_margin": null,
+    "net_profit": null,
+    "eps": null,
+    "free_cash_flow": null,
+    "large_deal_tcv": null,
+    "headcount": null,
+    "attrition": null,
+    "guidance": null,
+    "dividend": null
+  },
+  "corporate_actions": [],
+  "partnerships_or_deals": [],
+  "leadership_changes": [],
+  "litigation_or_regulatory_matters": [
+    {
+      "matter_type": "penalty",
+      "authority_or_counterparty": "State of Vermont (United States of America) Department of Financial Regulation",
+      "description": "IMS entered into a Stipulation and Consent Order to resolve alleged violations of the Vermont Security Breach Notice Act related to the McCamish cybersecurity event, without admission of the alleged violations.",
+      "amount": "USD 125,000",
+      "status": "Stipulation and Consent Order - to resolve the matter without admission of the existence of the alleged violations.",
+      "section_heading": "Sub:  Update on McCamish Cyber Incident"
+    }
+  ],
+  "risk_factors": [
+    {
+      "risk": "Regulatory scrutiny related to IMS's response and notices in connection with the McCamish cybersecurity event.",
+      "potential_impact": "IMS is required to pay an administrative penalty of USD 125,000.",
+      "section_heading": "Sub:  Update on McCamish Cyber Incident"
+    }
+  ],
+  "esg_or_csr_items": [],
+  "products_or_platforms": [],
+  "important_text_spans": [
+    {
+      "text": "The DFR had alleged violations of the Vermont Security Breach Notice Act by IMS",
+      "section_heading": "Sub:  Update on McCamish Cyber Incident",
+      "reason": "Identifies the regulatory allegation underlying the order."
+    },
+    {
+      "text": "IMS has entered into the Stipulation and Consent order to resolve the matter without a hearing.",
+      "section_heading": "Sub:  Update on McCamish Cyber Incident",
+      "reason": "Shows the procedural status of the matter."
+    },
+    {
+      "text": "The Stipulation and Consent Order specifically records that IMS does not admit the existence of the alleged violations as above.",
+      "section_heading": "Sub:  Update on McCamish Cyber Incident",
+      "reason": "Supports that the matter was resolved without admission of violations."
+    },
+    {
+      "text": "IMS is required to pay an administrative penalty of USD 125,000.",
+      "section_heading": null,
+      "reason": "Provides the quantified financial impact disclosed in the document."
+    }
+  ],
+  "search_keywords": [
+    "Infosys McCamish Systems",
+    "McCamish Cyber Incident",
+    "State of Vermont Department of Financial Regulation",
+    "Vermont Security Breach Notice Act",
+    "Stipulation and Consent Order",
+    "administrative penalty",
+    "USD 125,000",
+    "cybersecurity event"
+  ],
+  "processing_notes": ""
+}

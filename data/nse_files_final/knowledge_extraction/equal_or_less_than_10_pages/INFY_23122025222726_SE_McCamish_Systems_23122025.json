@@ -1,0 +1,92 @@
+{
+  "document_name": "INFY_23122025222726_SE_McCamish_Systems_23122025.md",
+  "is_material": true,
+  "title": "Infosys McCamish Systems Enters Consent Order With South Dakota Division of Insurance",
+  "detailed_summary": "Infosys disclosed that Infosys McCamish Systems, a subsidiary of Infosys BPM limited, entered into a Consent Order with the State of South Dakota Division of Insurance on December 22, 2025. The matter relates to concerns that IMS may have violated South Dakota Codified Laws regarding notification connected to a 2023 data breach and failed to respond to the Division of Insurance's request for information within 20 days. IMS resolved the matter without admission of the alleged violations and submitted a monetary penalty of $30,000.",
+  "key_facts": [
+    {
+      "fact": "On December 22, 2025, Infosys McCamish Systems entered into a Consent Order with the State of South Dakota Division of Insurance.",
+      "section_heading": "Sub: Update on McCamish Cyber Incident"
+    },
+    {
+      "fact": "Infosys McCamish Systems is a subsidiary of Infosys BPM limited, a wholly owned subsidiary of Infosys limited.",
+      "section_heading": "Sub: Update on McCamish Cyber Incident"
+    },
+    {
+      "fact": "The South Dakota Division of Insurance expressed concerns that IMS may have violated South Dakota Codified Laws related to notification with respect to a 2023 data breach.",
+      "section_heading": "Sub: Update on McCamish Cyber Incident"
+    },
+    {
+      "fact": "The Consent Order specifically acknowledges that this is not an admission that IMS violated the Acts as listed above.",
+      "section_heading": "Sub: Update on McCamish Cyber Incident"
+    },
+    {
+      "fact": "IMS submitted a payment of $30,000 to the South Dakota Division of Insurance as agreed upon in the consent order as a monetary penalty.",
+      "section_heading": "Sub: Update on McCamish Cyber Incident"
+    }
+  ],
+  "financial_metrics": {
+    "currency": null,
+    "period": null,
+    "revenue": null,
+    "revenue_growth_yoy": null,
+    "revenue_growth_qoq": null,
+    "operating_margin": null,
+    "net_profit": null,
+    "eps": null,
+    "free_cash_flow": null,
+    "large_deal_tcv": null,
+    "headcount": null,
+    "attrition": null,
+    "guidance": null,
+    "dividend": null
+  },
+  "corporate_actions": [],
+  "partnerships_or_deals": [],
+  "leadership_changes": [],
+  "litigation_or_regulatory_matters": [
+    {
+      "matter_type": "penalty",
+      "authority_or_counterparty": "The South Dakota Division of Insurance",
+      "description": "Infosys McCamish Systems entered into a Consent Order to resolve concerns regarding potential violations of South Dakota Codified Laws related to notification with respect to a 2023 data breach and failure to respond to the DOI's request for information within 20 days.",
+      "amount": "$30,000",
+      "status": "resolved without admission of the existence of the alleged violations",
+      "section_heading": "Sub: Update on McCamish Cyber Incident"
+    }
+  ],
+  "risk_factors": [
+    {
+      "risk": "Potential violations of South Dakota Codified Laws related to notification with respect to a 2023 data breach at Infosys McCamish Systems.",
+      "potential_impact": "$30,000 monetary penalty submitted to the South Dakota Division of Insurance.",
+      "section_heading": "Sub: Update on McCamish Cyber Incident"
+    }
+  ],
+  "esg_or_csr_items": [],
+  "products_or_platforms": [],
+  "important_text_spans": [
+    {
+      "text": "IMS has entered into a Consent Order to resolve this matter without any further action.",
+      "section_heading": "Sub: Update on McCamish Cyber Incident",
+      "reason": "Supports the current status of the regulatory matter."
+    },
+    {
+      "text": "The Consent Order specifically acknowledges that this is not an admission that IMS violated the Acts as listed above.",
+      "section_heading": "Sub: Update on McCamish Cyber Incident",
+      "reason": "Supports that the settlement was without admission of violation."
+    },
+    {
+      "text": "submitted a payment of $30,000 to the South Division of Insurance as agreed upon in the consent order as a monetary penalty.",
+      "section_heading": "Sub: Update on McCamish Cyber Incident",
+      "reason": "Supports the monetary impact of the Consent Order."
+    }
+  ],
+  "search_keywords": [
+    "Infosys McCamish Systems",
+    "McCamish Cyber Incident",
+    "South Dakota Division of Insurance",
+    "Consent Order",
+    "2023 data breach",
+    "$30,000 monetary penalty"
+  ],
+  "processing_notes": "The table text appears corrupted in the financial impact row, including a repeated phrase and 'South Division of Insurance'; the penalty amount was extracted exactly as disclosed."
+}

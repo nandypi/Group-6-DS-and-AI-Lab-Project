@@ -1,0 +1,96 @@
+{
+  "document_name": "Infosys_14102025142305_PR_14102025.md",
+  "is_material": true,
+  "title": "Infosys awarded £1.2 billion 15-year NHSBSA workforce management contract",
+  "detailed_summary": "Infosys announced that NHS Business Services Authority awarded it a £1.2 billion, 15-year contract to deliver the Future NHS Workforce Solution for the NHS in England and Wales. The solution will replace the current Electronic Staff Record system and continue to support payroll for 1.9 million NHS employees, covering over £55 billion in payroll annually. The platform is intended to support the NHS 10-year Health Plan through a modern, data-driven workforce management solution covering the employee lifecycle, including recruitment, onboarding, payroll, career development, and retirement.",
+  "key_facts": [
+    {
+      "fact": "Infosys was awarded a £1.2 billion, 15-year contract by the NHS Business Services Authority to deliver the Future NHS Workforce Solution.",
+      "section_heading": "PRESS RELEASE"
+    },
+    {
+      "fact": "The Future NHS Workforce Solution will replace the current Electronic Staff Record system.",
+      "section_heading": "PRESS RELEASE"
+    },
+    {
+      "fact": "The solution will continue to pay 1.9 million NHS employees in England and Wales over £55 billion in payroll annually.",
+      "section_heading": "PRESS RELEASE"
+    },
+    {
+      "fact": "Infosys was chosen following a rigorous procurement process for its track record in large-scale digital transformation programs, user-centric design approach, and commitment to operational excellence.",
+      "section_heading": "PRESS RELEASE"
+    },
+    {
+      "fact": "The solution is intended to support the NHS 10-year Health Plan and the mission to create a workforce fit for the future.",
+      "section_heading": "PRESS RELEASE"
+    },
+    {
+      "fact": "The new platform will support the employee lifecycle from recruitment and onboarding to payroll, career development, and retirement.",
+      "section_heading": "PRESS RELEASE"
+    },
+    {
+      "fact": "Infosys stated that elements of its AI offering, Infosys Topaz, will be used in delivering the platform.",
+      "section_heading": "PRESS RELEASE"
+    }
+  ],
+  "financial_metrics": {
+    "currency": "£",
+    "period": null,
+    "revenue": null,
+    "revenue_growth_yoy": null,
+    "revenue_growth_qoq": null,
+    "operating_margin": null,
+    "net_profit": null,
+    "eps": null,
+    "free_cash_flow": null,
+    "large_deal_tcv": "£1.2 billion",
+    "headcount": null,
+    "attrition": null,
+    "guidance": null,
+    "dividend": null
+  },
+  "corporate_actions": [],
+  "partnerships_or_deals": [
+    {
+      "deal_type": "client contract",
+      "counterparty": "NHS Business Services Authority",
+      "description": "Infosys was awarded a contract to deliver the Future NHS Workforce Solution for the NHS in England and Wales, replacing the current Electronic Staff Record system.",
+      "value": "£1.2 billion",
+      "duration": "15-year",
+      "section_heading": "PRESS RELEASE"
+    }
+  ],
+  "leadership_changes": [],
+  "litigation_or_regulatory_matters": [],
+  "risk_factors": [],
+  "esg_or_csr_items": [],
+  "products_or_platforms": [],
+  "important_text_spans": [
+    {
+      "text": "Infosys (NSE, BSE, NYSE: INFY), a global leader in next-generation digital services and consulting, today announced that it has been awarded a £1.2 billion, 15-year contract by the NHS Business Services Authority (NHSBSA) to deliver the Future NHS Workforce Solution.",
+      "section_heading": "PRESS RELEASE",
+      "reason": "Supports the contract award, counterparty, value, and duration."
+    },
+    {
+      "text": "Infosys will develop a cutting-edge, data-driven workforce management solution that will replace the current Electronic Staff Record (ESR) system and continue to pay 1.9 million NHS employees in England and Wales over £55 billion in payroll annually.",
+      "section_heading": "PRESS RELEASE",
+      "reason": "Supports the scope and operational scale of the contract."
+    },
+    {
+      "text": "The Future NHS Workforce Solution supports the NHS 10-year Health Plan and the mission to create a workforce that is fit for the future.",
+      "section_heading": "PRESS RELEASE",
+      "reason": "Supports the strategic relevance of the solution."
+    }
+  ],
+  "search_keywords": [
+    "NHSBSA",
+    "Future NHS Workforce Solution",
+    "Electronic Staff Record",
+    "£1.2 billion contract",
+    "15-year contract",
+    "NHS 10-year Health Plan",
+    "Infosys Topaz",
+    "NHS payroll"
+  ],
+  "processing_notes": "Excluded generic About Infosys, About NHSBSA, media contacts, stock-exchange wrapper, and safe harbor language. The third-party NHS employee and payroll figures were retained in deal context but not treated as Infosys financial metrics or headcount."
+}

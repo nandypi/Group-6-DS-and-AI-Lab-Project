@@ -1,0 +1,93 @@
+{
+  "document_name": "INFY_20122025091628_SE_McCamish_Systems_20122025.md",
+  "is_material": true,
+  "title": "Court Grants Final Approval for Infosys McCamish Class Action Settlement",
+  "detailed_summary": "Infosys disclosed an update on class action lawsuits filed in the United States against Infosys McCamish Systems LLC and some McCamish customers. McCamish and the plaintiffs reached an agreement in principle through mediation on March 13, 2025. Under the proposed settlement, McCamish agreed to pay $17.5 million into a fund to settle the matters. On December 18, 2025, the court granted final approval of the settlement. If not appealed within 30 days, the settlement will become effective and resolve all allegations in the class action lawsuits without admission of liability.",
+  "key_facts": [
+    {
+      "fact": "Class action lawsuits were filed in the United States against Infosys McCamish Systems LLC and a few of McCamish's customers.",
+      "section_heading": "Sub: Company Statement"
+    },
+    {
+      "fact": "On March 13, 2025, McCamish and the plaintiffs engaged in mediation, resulting in an agreement in principle.",
+      "section_heading": "Sub: Company Statement"
+    },
+    {
+      "fact": "Under the proposed settlement terms, McCamish has agreed to pay $17.5 million into a fund, to settle these matters.",
+      "section_heading": "Sub: Company Statement"
+    },
+    {
+      "fact": "On December 18, 2025, the court granted the final approval on the settlement.",
+      "section_heading": "Sub: Company Statement"
+    },
+    {
+      "fact": "If the settlement is not appealed within 30 days, then it will become effective and resolve all allegations made in the class action lawsuits without admission of any liability.",
+      "section_heading": "Sub: Company Statement"
+    }
+  ],
+  "financial_metrics": {
+    "currency": null,
+    "period": null,
+    "revenue": null,
+    "revenue_growth_yoy": null,
+    "revenue_growth_qoq": null,
+    "operating_margin": null,
+    "net_profit": null,
+    "eps": null,
+    "free_cash_flow": null,
+    "large_deal_tcv": null,
+    "headcount": null,
+    "attrition": null,
+    "guidance": null,
+    "dividend": null
+  },
+  "corporate_actions": [],
+  "partnerships_or_deals": [],
+  "leadership_changes": [],
+  "litigation_or_regulatory_matters": [
+    {
+      "matter_type": "settlement",
+      "authority_or_counterparty": "plaintiffs of class action lawsuits",
+      "description": "Infosys McCamish Systems LLC reached an agreement in principle with plaintiffs to settle pending class action lawsuits against McCamish and class action lawsuits filed against McCamish's customers; the court granted final approval on December 18, 2025.",
+      "amount": "$17.5 million",
+      "status": "If the settlement is not appealed within 30 days, then it will become effective and resolve all allegations made in the class action lawsuits without admission of any liability.",
+      "section_heading": "Sub: Company Statement"
+    }
+  ],
+  "risk_factors": [
+    {
+      "risk": "The settlement may not become effective if it is appealed within 30 days.",
+      "potential_impact": "The class action lawsuits would not be resolved by the settlement as described.",
+      "section_heading": "Sub: Company Statement"
+    }
+  ],
+  "esg_or_csr_items": [],
+  "products_or_platforms": [],
+  "important_text_spans": [
+    {
+      "text": "Under the proposed settlement terms, McCamish has agreed to pay $17.5 million into a fund, to settle these matters.",
+      "section_heading": "Sub: Company Statement",
+      "reason": "Supports the settlement amount and purpose."
+    },
+    {
+      "text": "On December 18, 2025, the court granted the final approval on the settlement.",
+      "section_heading": "Sub: Company Statement",
+      "reason": "Supports the current legal status of the settlement."
+    },
+    {
+      "text": "If the settlement is not appealed within 30 days, then it will become effective and resolve all allegations made in the class action lawsuits without admission of any liability.",
+      "section_heading": "Sub: Company Statement",
+      "reason": "Supports the remaining condition and no-admission-of-liability status."
+    }
+  ],
+  "search_keywords": [
+    "Infosys McCamish Systems LLC",
+    "McCamish",
+    "class action lawsuits",
+    "$17.5 million settlement",
+    "final approval",
+    "United States lawsuits",
+    "settlement fund"
+  ],
+  "processing_notes": ""
+}

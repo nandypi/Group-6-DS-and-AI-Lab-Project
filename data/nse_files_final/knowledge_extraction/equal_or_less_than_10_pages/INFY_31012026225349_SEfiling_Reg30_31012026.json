@@ -1,0 +1,72 @@
+{
+  "document_name": "INFY_31012026225349_SEfiling_Reg30_31012026.md",
+  "is_material": false,
+  "title": "California Employment Development Department Penalty for Late State Unemployment Insurance Payment",
+  "detailed_summary": "Infosys received communication from the Employment Development Department, State of California, for collection of a USD 11,041.03 penalty due to late payment of State Unemployment Insurance for Q4FY25. The company stated that there is no material impact on its financials, operations, or other activities.",
+  "key_facts": [
+    {
+      "fact": "The Employment Development Department, State of California levied a total penalty of USD 11,041.03 on Infosys.",
+      "section_heading": null
+    },
+    {
+      "fact": "The penalty was levied due to late payment of State Unemployment Insurance for Q4FY25.",
+      "section_heading": null
+    },
+    {
+      "fact": "Infosys stated that there is no material impact on financials, operations or other activities of the Company.",
+      "section_heading": null
+    }
+  ],
+  "financial_metrics": {
+    "currency": null,
+    "period": null,
+    "revenue": null,
+    "revenue_growth_yoy": null,
+    "revenue_growth_qoq": null,
+    "operating_margin": null,
+    "net_profit": null,
+    "eps": null,
+    "free_cash_flow": null,
+    "large_deal_tcv": null,
+    "headcount": null,
+    "attrition": null,
+    "guidance": null,
+    "dividend": null
+  },
+  "corporate_actions": [],
+  "partnerships_or_deals": [],
+  "leadership_changes": [],
+  "litigation_or_regulatory_matters": [
+    {
+      "matter_type": "penalty",
+      "authority_or_counterparty": "Employment Development Department, State of California",
+      "description": "Penalty levied due to late payment of State Unemployment Insurance for Q4FY25.",
+      "amount": "USD 11,041.03",
+      "status": "Orders passed/ action taken",
+      "section_heading": null
+    }
+  ],
+  "risk_factors": [],
+  "esg_or_csr_items": [],
+  "products_or_platforms": [],
+  "important_text_spans": [
+    {
+      "text": "Total Penalty - USD 11,041.03",
+      "section_heading": null,
+      "reason": "Supports the monetary amount of the penalty."
+    },
+    {
+      "text": "None, there is no material impact on financials, operations or other activities of the Company.",
+      "section_heading": null,
+      "reason": "Supports the company's stated impact assessment."
+    }
+  ],
+  "search_keywords": [
+    "Employment Development Department State of California",
+    "State Unemployment Insurance",
+    "Q4FY25",
+    "penalty",
+    "USD 11,041.03"
+  ],
+  "processing_notes": ""
+}

@@ -1,0 +1,71 @@
+{
+  "document_name": "Infosys_13082025223713_SEfiling_Reg30disclosure_13082025.md",
+  "is_material": false,
+  "title": "Infosys Receives Singapore GST Penalty Order",
+  "detailed_summary": "Infosys received communication from the Inland Revenue Authority of Singapore for collection of a penalty totaling SGD 97,035.90 related to Singapore GST payment for April 2025 to June 2025. The company stated that there is no material impact on its financials, operations, or other activities.",
+  "key_facts": [
+    {
+      "fact": "Infosys received communication for collection of a penalty from the Inland Revenue Authority of Singapore.",
+      "section_heading": "Sub:  Company Statement"
+    },
+    {
+      "fact": "The total penalty was SGD 97,035.90/- and pertained to Singapore GST payment for the period April 2025 to June 2025.",
+      "section_heading": "Sub:  Company Statement"
+    },
+    {
+      "fact": "Infosys stated that there is no material impact on financials, operations or other activities of the Company.",
+      "section_heading": "Sub:  Company Statement"
+    }
+  ],
+  "financial_metrics": {
+    "currency": null,
+    "period": null,
+    "revenue": null,
+    "revenue_growth_yoy": null,
+    "revenue_growth_qoq": null,
+    "operating_margin": null,
+    "net_profit": null,
+    "eps": null,
+    "free_cash_flow": null,
+    "large_deal_tcv": null,
+    "headcount": null,
+    "attrition": null,
+    "guidance": null,
+    "dividend": null
+  },
+  "corporate_actions": [],
+  "partnerships_or_deals": [],
+  "leadership_changes": [],
+  "litigation_or_regulatory_matters": [
+    {
+      "matter_type": "penalty",
+      "authority_or_counterparty": "Inland Revenue Authority of Singapore",
+      "description": "Penalty pertaining to Singapore GST payment for the period April 2025 to June 2025.",
+      "amount": "SGD 97,035.90/-",
+      "status": "Orders passed/ action taken.",
+      "section_heading": "Sub:  Company Statement"
+    }
+  ],
+  "risk_factors": [],
+  "esg_or_csr_items": [],
+  "products_or_platforms": [],
+  "important_text_spans": [
+    {
+      "text": "Total Penalty - SGD 97,035.90/-",
+      "section_heading": "Sub:  Company Statement",
+      "reason": "Supports the penalty amount disclosed by Infosys."
+    },
+    {
+      "text": "None, there is no material impact on financials, operations or other activities of the Company.",
+      "section_heading": "Sub:  Company Statement",
+      "reason": "Supports the company's stated impact assessment."
+    }
+  ],
+  "search_keywords": [
+    "Inland Revenue Authority of Singapore",
+    "Singapore GST",
+    "SGD 97,035.90",
+    "penalty"
+  ],
+  "processing_notes": "Marked non-material because the disclosed penalty is small and the company explicitly stated there is no material impact on financials, operations or other activities."
+}

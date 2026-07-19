@@ -1,0 +1,75 @@
+{
+  "document_name": "Infosys_11062026162328_PR_11062026_2.md",
+  "is_material": false,
+  "title": "Infosys Completes CMMI AI Maturity Pilot Assessment",
+  "detailed_summary": "Infosys announced that it collaborated with CMMI Institute and KPMG on the CMMI AI Maturity framework and completed the related pilot assessment. The announcement highlights Infosys’ role in contributing enterprise-scale AI governance, responsible deployment, and software engineering practices, supported by Infosys Topaz offerings. No financial impact, contract value, guidance, or operating metrics were disclosed.",
+  "key_facts": [
+    {
+      "fact": "Infosys completed and contributed to the CMMI AI Maturity Framework and Pilot Assessment conducted by CMMI Institute.",
+      "section_heading": "PRESS RELEASE"
+    },
+    {
+      "fact": "Infosys was among the first select group of organizations recognized globally to complete the pilot assessment.",
+      "section_heading": "PRESS RELEASE"
+    },
+    {
+      "fact": "The pilot assessment covered AI-augmented software development, maintenance, testing, and support initiatives across Infosys' service lines and global delivery hubs.",
+      "section_heading": "PRESS RELEASE"
+    }
+  ],
+  "financial_metrics": {
+    "currency": null,
+    "period": null,
+    "revenue": null,
+    "revenue_growth_yoy": null,
+    "revenue_growth_qoq": null,
+    "operating_margin": null,
+    "net_profit": null,
+    "eps": null,
+    "free_cash_flow": null,
+    "large_deal_tcv": null,
+    "headcount": null,
+    "attrition": null,
+    "guidance": null,
+    "dividend": null
+  },
+  "corporate_actions": [],
+  "partnerships_or_deals": [
+    {
+      "deal_type": "collaboration",
+      "counterparty": "CMMI Institute",
+      "description": "Infosys collaborated with CMMI Institute on the CMMI AI Maturity framework and pilot assessment, contributing enterprise-scale AI governance, responsible deployment, and outcome-driven practices.",
+      "value": null,
+      "duration": null,
+      "section_heading": "PRESS RELEASE"
+    }
+  ],
+  "leadership_changes": [],
+  "litigation_or_regulatory_matters": [],
+  "risk_factors": [],
+  "esg_or_csr_items": [],
+  "products_or_platforms": [],
+  "important_text_spans": [
+    {
+      "text": "Among the first organizations globally to complete the CMMI AI Maturity Pilot Assessment",
+      "section_heading": "PRESS RELEASE",
+      "reason": "Supports the recognition and pilot assessment completion claim."
+    },
+    {
+      "text": "The pilot assessment covered AI-augmented software development, maintenance, testing, and support initiatives across Infosys' service lines and global delivery hubs.",
+      "section_heading": "PRESS RELEASE",
+      "reason": "Identifies the scope of the pilot assessment within Infosys operations."
+    }
+  ],
+  "search_keywords": [
+    "CMMI AI Maturity",
+    "CMMI AIM framework",
+    "CMMI Institute",
+    "KPMG",
+    "Infosys Topaz",
+    "Infosys Topaz Fabric",
+    "AI governance",
+    "AI-augmented software development"
+  ],
+  "processing_notes": "Marked non-material because the document primarily announces recognition and participation in an AI maturity pilot assessment, with no disclosed financial impact, commercial contract value, guidance, or operating metric."
+}

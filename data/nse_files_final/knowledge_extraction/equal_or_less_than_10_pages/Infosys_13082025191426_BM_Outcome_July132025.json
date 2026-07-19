@@ -1,0 +1,120 @@
+{
+  "document_name": "Infosys_13082025191426_BM_Outcome_July132025.md",
+  "is_material": true,
+  "title": "Infosys to acquire 75% stake in Versent Group from Telstra",
+  "detailed_summary": "Infosys announced a joint venture with Telstra in Australia under which Infosys Singapore Pte. Ltd., a wholly owned subsidiary of Infosys Limited, will acquire 75% of the equity share capital in Telstra Purple Pty Ltd, referred to as Versent Group. Telstra will retain a 25% minority stake, while Infosys will have operational control. The cash consideration is AUD 233.25 million for the 75% stake, including upfront and deferred consideration, including earnouts, and excluding management incentives and retention bonus. Versent Group reported FY25 revenues of AUD 211.4 million for the fiscal year ending June 30th and has 650 engineers, advisors, and strategists across Australia. The transaction is expected to close during the second half of fiscal year 2026, subject to regulatory approvals and customary closing conditions.",
+  "key_facts": [
+    {
+      "fact": "Infosys will acquire 75% of the shareholding in Versent Group, Australia's leading Digital Transformation Solutions Provider and a wholly owned subsidiary of Telstra Group.",
+      "section_heading": "Infosys and Telstra Announce Joint Venture in Australia"
+    },
+    {
+      "fact": "Infosys will have operational control, while Telstra will continue to retain a 25% minority stake in Versent Group.",
+      "section_heading": "Infosys and Telstra Announce Joint Venture in Australia"
+    },
+    {
+      "fact": "The acquisition will be made by Infosys Singapore Pte Ltd., a wholly owned subsidiary of Infosys Limited.",
+      "section_heading": "Annexure - I"
+    },
+    {
+      "fact": "The cost of acquisition is AUD 233.25 million for 75% stake, including upfront, and deferred consideration, including earnouts; excluding management incentives, and retention bonus.",
+      "section_heading": null
+    },
+    {
+      "fact": "Versent Group reported FY25 revenues of AUD 211.4 million for the fiscal year ending June 30th.",
+      "section_heading": null
+    },
+    {
+      "fact": "The transaction is expected to close during second half of fiscal year 2026, subject to regulatory approvals and customary closing conditions.",
+      "section_heading": null
+    },
+    {
+      "fact": "Governmental or regulatory approvals are required from the Foreign Investment Review Board of Australia and the Australian Competition and Consumer Commission.",
+      "section_heading": null
+    }
+  ],
+  "financial_metrics": {
+    "currency": "AUD",
+    "period": "FY25 (Fiscal year ending June 30th)",
+    "revenue": "AUD 211.4 million",
+    "revenue_growth_yoy": null,
+    "revenue_growth_qoq": null,
+    "operating_margin": null,
+    "net_profit": null,
+    "eps": null,
+    "free_cash_flow": null,
+    "large_deal_tcv": null,
+    "headcount": null,
+    "attrition": null,
+    "guidance": null,
+    "dividend": null
+  },
+  "corporate_actions": [
+    {
+      "action_type": "acquisition",
+      "description": "Infosys Singapore Pte Ltd., a wholly owned subsidiary of Infosys Limited, will acquire 75% of the equity share capital in Telstra Purple Pty Ltd, referred to as Versent Group.",
+      "amount_or_ratio": "AUD 233.25 million for 75% stake, including upfront, and deferred consideration, including earnouts; excluding management incentives, and retention bonus.",
+      "effective_date": null,
+      "section_heading": null
+    }
+  ],
+  "partnerships_or_deals": [
+    {
+      "deal_type": "joint venture",
+      "counterparty": "Telstra Limited",
+      "description": "Infosys and Telstra announced a joint venture in Australia to accelerate AI-enabled cloud and digital solutions for Australian businesses. Infosys will have operational control of Versent Group, while Telstra will retain a 25% minority stake.",
+      "value": "AUD 233.25 million for 75% stake, including upfront, and deferred consideration, including earnouts; excluding management incentives, and retention bonus.",
+      "duration": null,
+      "section_heading": "Infosys and Telstra Announce Joint Venture in Australia"
+    }
+  ],
+  "leadership_changes": [],
+  "litigation_or_regulatory_matters": [],
+  "risk_factors": [
+    {
+      "risk": "The transaction is subject to regulatory approvals and customary closing conditions.",
+      "potential_impact": "The transaction is expected to close during second half of fiscal year 2026 only after these conditions are satisfied.",
+      "section_heading": null
+    }
+  ],
+  "esg_or_csr_items": [],
+  "products_or_platforms": [],
+  "important_text_spans": [
+    {
+      "text": "Infosys will acquire 75% of the shareholding in Versent Group [1] , Australia's leading Digital Transformation Solutions Provider, and a wholly owned subsidiary of Telstra Group",
+      "section_heading": "Infosys and Telstra Announce Joint Venture in Australia",
+      "reason": "Supports the main acquisition target and stake."
+    },
+    {
+      "text": "Infosys will have operational control, while Telstra will continue to retain a 25% minority stake in Versent Group",
+      "section_heading": "Infosys and Telstra Announce Joint Venture in Australia",
+      "reason": "Supports the control structure of the joint venture."
+    },
+    {
+      "text": "AUD 233.25 million for 75% stake, including upfront, and deferred consideration, including earnouts; excluding management incentives, and retention bonus.",
+      "section_heading": null,
+      "reason": "Supports the transaction value and consideration terms."
+    },
+    {
+      "text": "FY25 (Fiscal year ending June 30th): Revenues of AUD 211.4 million.",
+      "section_heading": null,
+      "reason": "Supports the acquired business revenue scale."
+    },
+    {
+      "text": "Approval required from (a) Foreign Investment Review Board of Australia and (b) Australian Competition and Consumer Commission.",
+      "section_heading": null,
+      "reason": "Supports the disclosed regulatory approvals required for completion."
+    }
+  ],
+  "search_keywords": [
+    "Versent Group",
+    "Telstra Purple Pty Ltd",
+    "Telstra Limited",
+    "Infosys Singapore Pte Ltd",
+    "AUD 233.25 million",
+    "75% stake",
+    "Foreign Investment Review Board of Australia",
+    "Australian Competition and Consumer Commission"
+  ],
+  "processing_notes": "Infosys Topaz and Infosys Cobalt were not extracted as separate products_or_platforms because they are mentioned as supporting context for the acquisition and joint venture, not as standalone product launches or updates."
+}

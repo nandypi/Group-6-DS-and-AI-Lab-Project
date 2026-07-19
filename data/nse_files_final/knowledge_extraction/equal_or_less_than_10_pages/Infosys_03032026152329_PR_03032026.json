@@ -1,0 +1,100 @@
+{
+  "document_name": "Infosys_03032026152329_PR_03032026.md",
+  "is_material": true,
+  "title": "Infosys and Intel Expand Strategic Collaboration for Enterprise AI Deployments",
+  "detailed_summary": "Infosys and Intel announced the next phase of their strategic collaboration to help enterprises move AI from pilots to production at scale. The collaboration combines Infosys Topaz Fabric, described as a purpose-built agentic services suite and multi-layer AI fabric, with Intel's compute platforms across Intel Xeon processors, Intel Gaudi AI accelerators, and Intel AI PCs. The effort focuses on open standards across the edge-to-cloud stack, production-ready AI deployments, optimized performance, security, cost efficiency, and measurable enterprise outcomes for use cases including IT operations, developer productivity, and automation workflows across industries.",
+  "key_facts": [
+    {
+      "fact": "Infosys and Intel announced the next phase of their strategic collaboration to help enterprises move from AI pilots to production at scale.",
+      "section_heading": "Infosys and Intel Deepen Strategic Collaboration to Unlock AI Value for Enterprises Globally"
+    },
+    {
+      "fact": "The expanded collaboration brings together Intel's high-performance, energy-efficient compute platforms and Infosys Topaz Fabric.",
+      "section_heading": "Infosys and Intel Deepen Strategic Collaboration to Unlock AI Value for Enterprises Globally"
+    },
+    {
+      "fact": "Infosys Topaz Fabric is described as a purpose-built agentic services suite and multi-layer AI fabric that unifies infrastructure, models, data, applications, and workflows into a composable, agent-ready ecosystem.",
+      "section_heading": "Infosys and Intel Deepen Strategic Collaboration to Unlock AI Value for Enterprises Globally"
+    },
+    {
+      "fact": "Infosys and Intel are co-innovating on the design, development, optimization, and benchmarking of AI workloads across Intel® Xeon® processors, Intel® Gaudi® AI accelerators, and Intel® AI PCs.",
+      "section_heading": "Infosys and Intel Deepen Strategic Collaboration to Unlock AI Value for Enterprises Globally"
+    },
+    {
+      "fact": "The collaboration emphasizes right-sized AI architectures that balance performance, security, and total cost of ownership for mission-critical use cases including IT operations, developer productivity, and automation workflows across industries.",
+      "section_heading": "Infosys and Intel Deepen Strategic Collaboration to Unlock AI Value for Enterprises Globally"
+    },
+    {
+      "fact": "The combined solution supports AI agents that can access enterprise data, coordinate tasks, and operate with appropriate controls across complex and regulated environments powered by Intel's compute platforms.",
+      "section_heading": "Infosys and Intel Deepen Strategic Collaboration to Unlock AI Value for Enterprises Globally"
+    }
+  ],
+  "financial_metrics": {
+    "currency": null,
+    "period": null,
+    "revenue": null,
+    "revenue_growth_yoy": null,
+    "revenue_growth_qoq": null,
+    "operating_margin": null,
+    "net_profit": null,
+    "eps": null,
+    "free_cash_flow": null,
+    "large_deal_tcv": null,
+    "headcount": null,
+    "attrition": null,
+    "guidance": null,
+    "dividend": null
+  },
+  "corporate_actions": [],
+  "partnerships_or_deals": [
+    {
+      "deal_type": "strategic partnership",
+      "counterparty": "Intel",
+      "description": "Infosys and Intel expanded their strategic collaboration to advance open standards across the edge-to-cloud stack and accelerate scalable, secure, and cost-efficient enterprise AI deployments using Infosys Topaz Fabric and Intel compute platforms.",
+      "value": null,
+      "duration": null,
+      "section_heading": "Infosys and Intel Deepen Strategic Collaboration to Unlock AI Value for Enterprises Globally"
+    }
+  ],
+  "leadership_changes": [],
+  "litigation_or_regulatory_matters": [],
+  "risk_factors": [],
+  "esg_or_csr_items": [],
+  "products_or_platforms": [
+    {
+      "name": "Infosys Topaz Fabric",
+      "event_type": "expanded",
+      "description": "Infosys Topaz Fabric is being combined with Intel's scalable, open hardware and software stack to support enterprise AI deployments and agent-ready ecosystems.",
+      "target_market_or_use_case": "Enterprise AI deployments, including IT operations, developer productivity, and automation workflows across industries",
+      "section_heading": "Infosys and Intel Deepen Strategic Collaboration to Unlock AI Value for Enterprises Globally"
+    }
+  ],
+  "important_text_spans": [
+    {
+      "text": "today announced the next phase of their strategic collaboration to help enterprises move from AI pilots to production at scale.",
+      "section_heading": "Infosys and Intel Deepen Strategic Collaboration to Unlock AI Value for Enterprises Globally",
+      "reason": "Supports the main strategic collaboration event."
+    },
+    {
+      "text": "Together, Infosys and Intel are co-innovating on the design, development, optimization, and benchmarking of AI workloads across Intel® Xeon® processors, Intel® Gaudi® AI accelerators, and Intel® AI PCs.",
+      "section_heading": "Infosys and Intel Deepen Strategic Collaboration to Unlock AI Value for Enterprises Globally",
+      "reason": "Identifies the technical scope of the collaboration."
+    },
+    {
+      "text": "The collaboration emphasizes 'right-sized' AI architectures that balance performance, security, and total cost of ownership",
+      "section_heading": "Infosys and Intel Deepen Strategic Collaboration to Unlock AI Value for Enterprises Globally",
+      "reason": "Supports the stated business objective and cost-performance positioning."
+    }
+  ],
+  "search_keywords": [
+    "Intel",
+    "Infosys Topaz Fabric",
+    "enterprise AI",
+    "AI pilots to production",
+    "Intel Xeon",
+    "Intel Gaudi",
+    "Intel AI PCs",
+    "agentic services"
+  ],
+  "processing_notes": "No financial value, contract duration, revenue impact, or guidance was disclosed. Generic company background and safe harbor language were excluded."
+}

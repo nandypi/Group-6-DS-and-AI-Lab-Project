@@ -1,0 +1,105 @@
+{
+  "document_name": "Infosys_17022026092732_PR_17022026.md",
+  "is_material": true,
+  "title": "Infosys and Anthropic announce strategic collaboration for enterprise AI solutions",
+  "detailed_summary": "Infosys announced a strategic collaboration with Anthropic to develop and deliver enterprise AI solutions across telecommunications, financial services, manufacturing, and software development. The collaboration will begin in telecommunications through a dedicated Anthropic Center of Excellence focused on building and deploying industry-specific AI agents. Infosys will integrate Anthropic's Claude models, including Claude Code, with Infosys Topaz AI offerings to automate complex workflows, accelerate software delivery, support agentic AI solutions, and help regulated enterprises adopt AI with governance and transparency. The companies also plan to support legacy system modernization using Infosys Topaz and Claude.",
+  "key_facts": [
+    {
+      "fact": "Infosys announced a strategic collaboration with Anthropic to develop and deliver advanced enterprise AI solutions to companies across telecommunications, financial services, manufacturing, and software development.",
+      "section_heading": "Infosys and Anthropic Announce Collaboration to Unlock AI Value across Complex, Regulated Industries"
+    },
+    {
+      "fact": "The collaboration will begin in telecommunications with a dedicated Anthropic Center of Excellence to build and deploy AI agents tailored to industry-specific operations.",
+      "section_heading": "Infosys and Anthropic Announce Collaboration to Unlock AI Value across Complex, Regulated Industries"
+    },
+    {
+      "fact": "The collaboration integrates Anthropic's Claude models, including Claude Code, with Infosys Topaz AI offerings.",
+      "section_heading": "Infosys and Anthropic Announce Collaboration to Unlock AI Value across Complex, Regulated Industries"
+    },
+    {
+      "fact": "Infosys and Anthropic aim to help enterprises automate complex workflows, accelerate software delivery, and adopt AI with governance and transparency required by regulated industries.",
+      "section_heading": "Infosys and Anthropic Announce Collaboration to Unlock AI Value across Complex, Regulated Industries"
+    },
+    {
+      "fact": "Infosys and Anthropic will use tools including the Claude Agent SDK to help clients build AI agents that can work persistently across long, complex processes.",
+      "section_heading": "Infosys and Anthropic Announce Collaboration to Unlock AI Value across Complex, Regulated Industries"
+    },
+    {
+      "fact": "Infosys is already deploying Claude Code within its own Exponential Engineering organization.",
+      "section_heading": "Infosys and Anthropic Announce Collaboration to Unlock AI Value across Complex, Regulated Industries"
+    }
+  ],
+  "financial_metrics": {
+    "currency": null,
+    "period": null,
+    "revenue": null,
+    "revenue_growth_yoy": null,
+    "revenue_growth_qoq": null,
+    "operating_margin": null,
+    "net_profit": null,
+    "eps": null,
+    "free_cash_flow": null,
+    "large_deal_tcv": null,
+    "headcount": null,
+    "attrition": null,
+    "guidance": null,
+    "dividend": null
+  },
+  "corporate_actions": [],
+  "partnerships_or_deals": [
+    {
+      "deal_type": "strategic collaboration",
+      "counterparty": "Anthropic",
+      "description": "Infosys and Anthropic announced a strategic collaboration to develop and deliver advanced enterprise AI solutions across telecommunications, financial services, manufacturing, and software development, starting with a dedicated Anthropic Center of Excellence in telecommunications.",
+      "value": null,
+      "duration": null,
+      "section_heading": "Infosys and Anthropic Announce Collaboration to Unlock AI Value across Complex, Regulated Industries"
+    }
+  ],
+  "leadership_changes": [],
+  "litigation_or_regulatory_matters": [],
+  "risk_factors": [],
+  "esg_or_csr_items": [],
+  "products_or_platforms": [
+    {
+      "name": "Infosys Topaz",
+      "event_type": "integrated",
+      "description": "Infosys Topaz AI offerings will be integrated with Anthropic's Claude models, including Claude Code, to help enterprises automate complex workflows, accelerate software delivery, build agentic AI solutions, and modernize legacy systems.",
+      "target_market_or_use_case": "telecommunications, financial services, manufacturing, and software development",
+      "section_heading": "Infosys and Anthropic Announce Collaboration to Unlock AI Value across Complex, Regulated Industries"
+    }
+  ],
+  "important_text_spans": [
+    {
+      "text": "Infosys (NSE, BSE, NYSE: INFY), a global leader in next-generation digital services and consulting, today announced a strategic collaboration with Anthropic",
+      "section_heading": "Infosys and Anthropic Announce Collaboration to Unlock AI Value across Complex, Regulated Industries",
+      "reason": "Supports the existence of the strategic collaboration and identifies the counterparty."
+    },
+    {
+      "text": "The collaboration will begin in telecommunications with a dedicated Anthropic Center of Excellence to build and deploy AI agents tailored to industry-specific operations.",
+      "section_heading": "Infosys and Anthropic Announce Collaboration to Unlock AI Value across Complex, Regulated Industries",
+      "reason": "Supports the initial industry focus and Center of Excellence launch."
+    },
+    {
+      "text": "the collaboration integrates Anthropic's Claude models, including Claude Code, with Infosys Topaz AI offerings",
+      "section_heading": "Infosys and Anthropic Announce Collaboration to Unlock AI Value across Complex, Regulated Industries",
+      "reason": "Supports the product and platform integration central to the collaboration."
+    },
+    {
+      "text": "Infosys is already deploying Claude Code within its own Exponential Engineering organization",
+      "section_heading": "Infosys and Anthropic Announce Collaboration to Unlock AI Value across Complex, Regulated Industries",
+      "reason": "Supports internal adoption of Claude Code by Infosys."
+    }
+  ],
+  "search_keywords": [
+    "Anthropic",
+    "Claude",
+    "Claude Code",
+    "Infosys Topaz",
+    "Anthropic Center of Excellence",
+    "agentic AI",
+    "Claude Agent SDK",
+    "Exponential Engineering"
+  ],
+  "processing_notes": "No financial value, contract duration, revenue impact, or guidance was disclosed for the collaboration."
+}

@@ -1,0 +1,107 @@
+{
+  "document_name": "Infosys_09092025102824_PR_09092025.md",
+  "is_material": true,
+  "title": "Bank CTBC Indonesia Deploys Infosys Finacle Digital Banking Solution Suite on Cloud",
+  "detailed_summary": "Infosys Finacle, part of EdgeVerve Systems, a wholly-owned subsidiary of Infosys, announced the successful deployment of the Finacle Digital Banking Solution Suite on a cloud hosted model for PT Bank CTBC Indonesia. The deployment supports the bank's digital transformation initiatives and includes upgrades to Finacle loans, deposits, trade finance, payments, and customer data hub. The document states the deployment can help the bank scale, accelerate new product and service launches, improve operational efficiency, enhance customer experience, and reduce total cost of ownership. The Finacle suite on a PostgreSQL database platform reportedly resulted in over 300% reduction in bulk processing time.",
+  "key_facts": [
+    {
+      "fact": "Infosys Finacle and PT Bank CTBC Indonesia announced the successful deployment of Finacle Digital Banking Solution Suite on a cloud hosted model as part of the bank's digital transformation initiatives.",
+      "section_heading": "Bank CTBC Indonesia Adopts Infosys Finacle Digital Banking Solution on Cloud"
+    },
+    {
+      "fact": "Bank CTBC Indonesia upgraded to the latest version of Finacle loans, deposits, trade finance, payments, and customer data hub as part of the adoption.",
+      "section_heading": "Bank CTBC Indonesia Adopts Infosys Finacle Digital Banking Solution on Cloud"
+    },
+    {
+      "fact": "The upgraded solutions are integrated with Bank CTBC Indonesia's existing application landscape, including Finacle Online Banking and Finacle Retail Loan Origination solutions.",
+      "section_heading": "Bank CTBC Indonesia Adopts Infosys Finacle Digital Banking Solution on Cloud"
+    },
+    {
+      "fact": "The Finacle Digital Banking Solution Suite on cloud enables the bank to accelerate new feature releases and improve time-to-market for new offerings while maintaining robust security.",
+      "section_heading": "Key Highlights:"
+    },
+    {
+      "fact": "The Finacle Customer Data Hub gives the bank a unified, 360-degree view of customer data, enabling hyper personalization of services and seamless third-party integration for allied offerings.",
+      "section_heading": "Key Highlights:"
+    },
+    {
+      "fact": "The Finacle suite on a PostgreSQL database platform resulted in over 300% reduction in bulk processing time, enabling operational efficiency and reduced total cost of ownership.",
+      "section_heading": "Key Highlights:"
+    }
+  ],
+  "financial_metrics": {
+    "currency": null,
+    "period": null,
+    "revenue": null,
+    "revenue_growth_yoy": null,
+    "revenue_growth_qoq": null,
+    "operating_margin": null,
+    "net_profit": null,
+    "eps": null,
+    "free_cash_flow": null,
+    "large_deal_tcv": null,
+    "headcount": null,
+    "attrition": null,
+    "guidance": null,
+    "dividend": null
+  },
+  "corporate_actions": [],
+  "partnerships_or_deals": [
+    {
+      "deal_type": "client deployment",
+      "counterparty": "PT Bank CTBC Indonesia",
+      "description": "Infosys Finacle deployed the Finacle Digital Banking Solution Suite on a cloud hosted model for Bank CTBC Indonesia as part of the bank's digital transformation initiatives.",
+      "value": null,
+      "duration": null,
+      "section_heading": "Bank CTBC Indonesia Adopts Infosys Finacle Digital Banking Solution on Cloud"
+    }
+  ],
+  "leadership_changes": [],
+  "litigation_or_regulatory_matters": [],
+  "risk_factors": [],
+  "esg_or_csr_items": [],
+  "products_or_platforms": [
+    {
+      "name": "Finacle Digital Banking Solution Suite",
+      "event_type": "deployed",
+      "description": "The solution suite was deployed on a cloud hosted model for Bank CTBC Indonesia, with upgraded Finacle loans, deposits, trade finance, payments, and customer data hub.",
+      "target_market_or_use_case": "digital banking transformation for financial institutions",
+      "section_heading": "Bank CTBC Indonesia Adopts Infosys Finacle Digital Banking Solution on Cloud"
+    },
+    {
+      "name": "Finacle Customer Data Hub",
+      "event_type": "deployed",
+      "description": "The hub gives Bank CTBC Indonesia a unified, 360-degree view of customer data, enabling hyper personalization of services and seamless third-party integration for allied offerings.",
+      "target_market_or_use_case": "customer data management and personalization for banking",
+      "section_heading": "Key Highlights:"
+    }
+  ],
+  "important_text_spans": [
+    {
+      "text": "today announced the successful deployment of Finacle Digital Banking Solution Suite on a cloud hosted model, as part of the bank's digital transformation initiatives.",
+      "section_heading": "Bank CTBC Indonesia Adopts Infosys Finacle Digital Banking Solution on Cloud",
+      "reason": "Supports the main client deployment event."
+    },
+    {
+      "text": "The bank has upgraded to the latest version of Finacle loans, deposits, trade finance, payments, and customer data hub as part of this adoption.",
+      "section_heading": "Bank CTBC Indonesia Adopts Infosys Finacle Digital Banking Solution on Cloud",
+      "reason": "Identifies the Infosys Finacle modules included in the deployment."
+    },
+    {
+      "text": "The combined solution has resulted in over 300% reduction in bulk processing time, significantly enabling operational efficiency, and reduced total cost of ownership (TCO).",
+      "section_heading": "Key Highlights:",
+      "reason": "Provides the key quantified operational benefit reported in the document."
+    }
+  ],
+  "search_keywords": [
+    "Bank CTBC Indonesia",
+    "Infosys Finacle",
+    "Finacle Digital Banking Solution Suite",
+    "cloud hosted model",
+    "Finacle Customer Data Hub",
+    "PostgreSQL",
+    "over 300% reduction in bulk processing time",
+    "Journey Next"
+  ],
+  "processing_notes": "No deal value, duration, revenue impact, or Infosys financial metrics were disclosed. Bank CTBC Indonesia background figures were excluded because they describe the client rather than Infosys."
+}
