@@ -96,3 +96,33 @@ Current file counts:
 - `equal_or_less_than_10_pages`: 109 files
 - `more_than_10_pages`: 28 files
 - Total files: 137
+
+## demo-docs-preparation
+
+For the demo, we selected 10 documents with different content types from the
+set of files containing 10 pages or fewer.
+
+- Source folder:
+  `data/nse_files_final/categorisation_by_pages/equal_or_less_than_10_pages`
+- Demo document folder: `data/demo-bot-data`
+- Demo document count: 10
+
+We applied the whole-document knowledge-extraction prompt to each demo document
+and stored one JSON result per document.
+
+- Script used: `datapreparation/run-prompt-on-demo-bot.py`
+- JSON output folder: `data/demo-bot-output`
+- JSON output count: 10
+
+The initial extraction results were reviewed to identify missing, duplicated,
+or low-value information. Based on those results, the prompt was refined and
+the extraction process was repeated three times before the prompt was
+finalised. The prompt progression was:
+
+- `prompts/KE-whole-document-prompt.md`
+- `prompts/KE-whole-document-prompt-v2.md`
+- `prompts/KE-whole-document-prompt-v3.md`
+- `prompts/KE-whole-document-prompt-v4.md` (finalised prompt)
+
+This prompt-refinement workflow and the files in the demo folders were created
+for demonstration and validation only.
