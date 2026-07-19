@@ -53,7 +53,7 @@ OUTPUT_DIR = (
     / "knowledge_extraction"
     / "equal_or_less_than_10_pages"
 )
-PROMPT_PATH = PROJECT_ROOT / "prompts" / "KE-whole-document-prompt-v4.md"
+PROMPT_PATH = PROJECT_ROOT / "prompts" / "KE-whole-document-prompt-v5.md"
 MODEL = "gpt-5.5"
 MAX_ATTEMPTS = 2
 
@@ -73,6 +73,7 @@ REQUIRED_OUTPUT_FIELDS = {
     "products_or_platforms",
     "important_text_spans",
     "search_keywords",
+    "sample_questions",
     "processing_notes",
 }
 

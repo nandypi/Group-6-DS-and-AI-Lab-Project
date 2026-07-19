@@ -39,7 +39,7 @@ from pathlib import Path
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 INPUT_DIR = PROJECT_ROOT / "data" / "demo-bot-data"
 OUTPUT_DIR = PROJECT_ROOT / "data" / "demo-bot-output"
-PROMPT_PATH = PROJECT_ROOT / "prompts" / "KE-whole-document-prompt-v3.md"
+PROMPT_PATH = PROJECT_ROOT / "prompts" / "KE-whole-document-prompt-v5.md"
 MODEL = "gpt-5.5"
 MAX_ATTEMPTS = 2
 
@@ -59,6 +59,7 @@ REQUIRED_OUTPUT_FIELDS = {
     "products_or_platforms",
     "important_text_spans",
     "search_keywords",
+    "sample_questions",
     "processing_notes",
 }
 
