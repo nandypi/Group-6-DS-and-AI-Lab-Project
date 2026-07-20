@@ -1,19 +1,18 @@
 """
 Reason this file exists:
-Apply the v4 whole-document knowledge-extraction prompt to every Markdown file
-in the final 10-page-or-fewer NSE folder by using the official Codex Python SDK.
+Apply the whole-document knowledge-extraction prompt to every Markdown file in
+data/demo-bot-data by using the official Codex Python SDK.
 
 Project terms:
 - Whole-document prompt: the prompt used when the complete document is at most
   10 pages and can be sent in one request.
 - Front matter: the metadata block between the two --- lines at the top of a
   Markdown file.
-- Output file: one validated JSON result written to the matching knowledge-
-  extraction output folder.
+- Output file: one validated JSON result written to data/demo-bot-output.
 
 Code flow:
-1. Load prompts/KE-whole-document-prompt-v4.md.
-2. Find each .md file directly inside the final 10-page-or-fewer NSE folder.
+1. Load prompts/KE-prompts/KE-whole-document-prompt-v5.md.
+2. Find each .md file directly inside data/demo-bot-data.
 3. Read its front matter and complete document text.
 4. Replace the prompt placeholders with that document's values.
 5. Start a fresh read-only Codex thread and send the rendered prompt.
@@ -21,9 +20,8 @@ Code flow:
 7. Skip valid existing outputs so an interrupted run can resume.
 
 Example:
-Infosys_02022026183006_PR_02022026.md -> rendered prompt -> Codex ->
-data/nse_files_final/knowledge_extraction/equal_or_less_than_10_pages/
-Infosys_02022026183006_PR_02022026.json
+Infosys_05052026084802_PR_05052026.md -> rendered prompt -> Codex ->
+data/demo-bot-output/Infosys_05052026084802_PR_05052026.json
 
 ASSUMPTION: every input document is complete and has at most 10 pages.
 ASSUMPTION: front-matter values are simple strings or numbers, not nested YAML.
@@ -39,21 +37,14 @@ from pathlib import Path
 
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
-INPUT_DIR = (
+INPUT_DIR = PROJECT_ROOT / "data" / "demo-bot-data"
+OUTPUT_DIR = PROJECT_ROOT / "data" / "demo-bot-output"
+PROMPT_PATH = (
     PROJECT_ROOT
-    / "data"
-    / "nse_files_final"
-    / "categorisation_by_pages"
-    / "equal_or_less_than_10_pages"
+    / "prompts"
+    / "KE-prompts"
+    / "KE-whole-document-prompt-v5.md"
 )
-OUTPUT_DIR = (
-    PROJECT_ROOT
-    / "data"
-    / "nse_files_final"
-    / "knowledge_extraction"
-    / "equal_or_less_than_10_pages"
-)
-PROMPT_PATH = PROJECT_ROOT / "prompts" / "KE-whole-document-prompt-v5.md"
 MODEL = "gpt-5.5"
 MAX_ATTEMPTS = 2
 
@@ -346,7 +337,7 @@ def select_input_files(file_name):
     Return either every input file or one explicitly requested file.
 
     Called by main after parsing --file. For example, --file sample.md returns
-    only INPUT_DIR/sample.md and rejects paths outside that folder.
+    only data/demo-bot-data/sample.md and rejects paths outside that folder.
     """
     if file_name is None:
         return sorted(INPUT_DIR.glob("*.md"))
@@ -366,7 +357,7 @@ def select_input_files(file_name):
 
 def main():
     """
-    Process every 10-page-or-fewer Markdown file and print a final summary.
+    Process every demo Markdown file and print a final success/failure summary.
 
     This is the script entry point. It returns 0 when every file succeeds and
     1 when setup fails or at least one document could not be processed.
@@ -376,7 +367,7 @@ def main():
     )
     parser.add_argument(
         "--file",
-        help="Process one filename from the input folder instead of all files.",
+        help="Process one filename from data/demo-bot-data instead of all files.",
     )
     args = parser.parse_args()
 
@@ -440,7 +431,7 @@ def main():
         return 1
 
     print()
-    print(f"Input files selected: {len(input_files)}")
+    print(f"Markdown files found: {len(input_files)}")
     print(f"Model: {MODEL}")
     print("Reasoning effort: low")
     print(f"Newly processed: {processed}")

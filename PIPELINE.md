@@ -119,10 +119,10 @@ or low-value information. Based on those results, the prompt was refined and
 the extraction process was repeated three times before the prompt was
 finalised. The prompt progression was:
 
-- `prompts/KE-whole-document-prompt.md`
-- `prompts/KE-whole-document-prompt-v2.md`
-- `prompts/KE-whole-document-prompt-v3.md`
-- `prompts/KE-whole-document-prompt-v4.md` (finalised prompt)
+- `prompts/KE-prompts/KE-whole-document-prompt.md`
+- `prompts/KE-prompts/KE-whole-document-prompt-v2.md`
+- `prompts/KE-prompts/KE-whole-document-prompt-v3.md`
+- `prompts/KE-prompts/KE-whole-document-prompt-v4.md` (finalised prompt)
 
 This prompt-refinement workflow and the files in the demo folders were created
 for demonstration and validation only.

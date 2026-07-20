@@ -1,49 +1,86 @@
 """
 Reason this file exists:
-Clean every Markdown file in data/demo-bot-data with the v6 whole-document
-prompt and the official Codex Python SDK.
+Apply the v4 whole-document knowledge-extraction prompt to every Markdown file
+in the final 10-page-or-fewer NSE folder by using the official Codex Python SDK.
 
 Project terms:
-- Front matter: metadata between the two --- lines at the top of an input file.
-- Cleaned document: the Markdown returned by Codex after conversion noise and
-  non-substantive filing content have been removed.
+- Whole-document prompt: the prompt used when the complete document is at most
+  10 pages and can be sent in one request.
+- Front matter: the metadata block between the two --- lines at the top of a
+  Markdown file.
+- Output file: one validated JSON result written to the matching knowledge-
+  extraction output folder.
 
 Code flow:
-1. Load prompts/KE-prompts/KE-whole-document-prompt-v6.md.
-2. Find each .md file directly inside data/demo-bot-data.
-3. Read its front matter and document text.
-4. Fill the prompt placeholders with the document metadata and text.
-5. Send the rendered prompt in a fresh read-only Codex thread.
-6. Check that the response is plain, non-empty Markdown and save it as .md.
+1. Load prompts/KE-prompts/KE-whole-document-prompt-v5.md.
+2. Find each .md file directly inside the final 10-page-or-fewer NSE folder.
+3. Read its front matter and complete document text.
+4. Replace the prompt placeholders with that document's values.
+5. Start a fresh read-only Codex thread and send the rendered prompt.
+6. Validate the final response as JSON and save it immediately.
 7. Skip valid existing outputs so an interrupted run can resume.
 
 Example:
-Infosys_03072025110400_PR_03072025.md -> v6 prompt -> Codex ->
-data/demo-bot-output/Infosys_03072025110400_PR_03072025.md
+Infosys_02022026183006_PR_02022026.md -> rendered prompt -> Codex ->
+data/nse_files_final/knowledge_extraction/equal_or_less_than_10_pages/
+Infosys_02022026183006_PR_02022026.json
 
 ASSUMPTION: every input document is complete and has at most 10 pages.
 ASSUMPTION: front-matter values are simple strings or numbers, not nested YAML.
-ASSUMPTION: category supplies both document type and primary category because
-the current front matter provides only one category field.
+ASSUMPTION: the category is used for both document type and primary category
+because the current front matter provides only one category field.
 ASSUMPTION: every Codex request uses gpt-5.5 with low reasoning effort.
 """
 
 import argparse
+import json
 import sys
 from pathlib import Path
 
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
-INPUT_DIR = PROJECT_ROOT / "data" / "demo-bot-data"
-OUTPUT_DIR = PROJECT_ROOT / "data" / "demo-bot-output"
+INPUT_DIR = (
+    PROJECT_ROOT
+    / "data"
+    / "nse_files_final"
+    / "categorisation_by_pages"
+    / "equal_or_less_than_10_pages"
+)
+OUTPUT_DIR = (
+    PROJECT_ROOT
+    / "data"
+    / "nse_files_final"
+    / "knowledge_extraction"
+    / "equal_or_less_than_10_pages"
+)
 PROMPT_PATH = (
     PROJECT_ROOT
     / "prompts"
     / "KE-prompts"
-    / "KE-whole-document-prompt-v6.md"
+    / "KE-whole-document-prompt-v5.md"
 )
 MODEL = "gpt-5.5"
 MAX_ATTEMPTS = 2
+
+REQUIRED_OUTPUT_FIELDS = {
+    "document_name",
+    "is_material",
+    "title",
+    "detailed_summary",
+    "key_facts",
+    "financial_metrics",
+    "corporate_actions",
+    "partnerships_or_deals",
+    "leadership_changes",
+    "litigation_or_regulatory_matters",
+    "risk_factors",
+    "esg_or_csr_items",
+    "products_or_platforms",
+    "important_text_spans",
+    "search_keywords",
+    "sample_questions",
+    "processing_notes",
+}
 
 
 def remove_matching_quotes(value):
@@ -55,10 +92,10 @@ def remove_matching_quotes(value):
     if len(value) < 2:
         return value
 
-    has_double_quotes = value[0] == '"' and value[-1] == '"'
-    has_single_quotes = value[0] == "'" and value[-1] == "'"
+    starts_and_ends_with_double_quote = value[0] == '"' and value[-1] == '"'
+    starts_and_ends_with_single_quote = value[0] == "'" and value[-1] == "'"
 
-    if has_double_quotes or has_single_quotes:
+    if starts_and_ends_with_double_quote or starts_and_ends_with_single_quote:
         return value[1:-1]
 
     return value
@@ -68,8 +105,8 @@ def read_markdown_document(path):
     """
     Return a document's front matter and body text.
 
-    Called before rendering a prompt. A file containing front matter followed
-    by "Hello" returns its metadata dictionary and "Hello".
+    Called once before rendering a prompt. A file beginning with
+    '---\npages: 3\n---\nHello' returns ({'pages': '3'}, 'Hello').
     """
     text = path.read_text(encoding="utf-8-sig")
     lines = text.splitlines(keepends=True)
@@ -103,9 +140,10 @@ def read_markdown_document(path):
 
 def metadata_value(metadata, key):
     """
-    Return a printable metadata value or "Unknown" when it is unavailable.
+    Return a printable metadata value or 'Unknown' when it is unavailable.
 
-    Called while rendering the prompt so no metadata placeholder is left empty.
+    Called while rendering the prompt. For example, a missing source_url
+    returns 'Unknown' instead of leaving a template placeholder unresolved.
     """
     value = metadata.get(key)
 
@@ -117,17 +155,22 @@ def metadata_value(metadata, key):
 
 def render_prompt(prompt_template, path, metadata, document_text):
     """
-    Fill the v6 prompt placeholders for one input document.
+    Fill the whole-document prompt for one Markdown file.
 
-    Called after reading the input. The result is sent directly to Codex.
+    Called after read_markdown_document. The returned string is sent directly
+    to Codex and contains no unresolved project template placeholders.
     """
     category = metadata_value(metadata, "category")
+    page_end = metadata_value(metadata, "pages")
+
     values = {
         "{DOCUMENT_NAME}": path.name,
         "{DOCUMENT_URL}": metadata_value(metadata, "source_url"),
         "{DOCUMENT_TYPE}": category,
         "{PRIMARY_CATEGORY}": category,
         "{ANNOUNCEMENT_DATE}": metadata_value(metadata, "document_date"),
+        "{PAGE_START}": "1",
+        "{PAGE_END}": page_end,
         "{DOCUMENT_TEXT}": document_text,
     }
 
@@ -138,38 +181,64 @@ def render_prompt(prompt_template, path, metadata, document_text):
     return rendered_prompt
 
 
-def validate_markdown(response_text):
+def remove_json_code_fence(response_text):
     """
-    Return stripped Markdown or raise ValueError for an unusable response.
+    Remove an optional Markdown code fence around a Codex JSON response.
 
-    Called after Codex responds and when checking saved output. For example,
-    "# Results\n\nDetails" is returned unchanged, while a fenced response fails.
+    Called before json.loads. For example, ```json\n{}\n``` returns {}.
     """
-    if not response_text or not response_text.strip():
+    text = response_text.strip()
+
+    if not text.startswith("```"):
+        return text
+
+    first_newline = text.find("\n")
+    if first_newline == -1 or not text.endswith("```"):
+        return text
+
+    return text[first_newline + 1 : -3].strip()
+
+
+def parse_result(response_text):
+    """
+    Parse and validate the minimum contract required by the extraction prompt.
+
+    Called after each Codex turn and when checking an existing output. A valid
+    result returns a dict; malformed JSON or missing fields raises ValueError.
+    """
+    if not response_text:
         raise ValueError("Codex returned an empty response")
 
-    markdown = response_text.strip()
+    try:
+        result = json.loads(remove_json_code_fence(response_text))
+    except json.JSONDecodeError as error:
+        raise ValueError(f"Codex did not return valid JSON: {error}") from error
 
-    if markdown.startswith("```") and markdown.endswith("```"):
-        raise ValueError("Codex wrapped the Markdown in a code fence")
+    if not isinstance(result, dict):
+        raise ValueError("Codex returned JSON that is not an object")
 
-    if "<DOCUMENT>" in markdown or "</DOCUMENT>" in markdown:
-        raise ValueError("Codex copied the prompt's document boundary")
+    missing_fields = sorted(REQUIRED_OUTPUT_FIELDS - set(result))
+    if missing_fields:
+        missing_text = ", ".join(missing_fields)
+        raise ValueError(f"Codex response is missing fields: {missing_text}")
 
-    return markdown
+    if not isinstance(result["is_material"], bool):
+        raise ValueError("is_material must be true or false")
+
+    return result
 
 
 def existing_output_is_valid(path):
     """
-    Return true when an output file contains usable Markdown.
+    Return true when an output file contains a valid extraction result.
 
-    Called before each request so reruns preserve completed documents.
+    Called before processing each input so reruns preserve completed work.
     """
-    if not path.is_file():
+    if not path.exists():
         return False
 
     try:
-        validate_markdown(path.read_text(encoding="utf-8"))
+        parse_result(path.read_text(encoding="utf-8"))
     except (OSError, ValueError):
         return False
 
@@ -180,8 +249,8 @@ def ensure_chatgpt_login(codex):
     """
     Ensure the SDK is authenticated with ChatGPT, never with an API key.
 
-    Called once before processing. If signed out, show the device login details
-    and wait for the user to finish authentication.
+    Called once before processing files. When signed out, it starts a device
+    login, prints the verification URL and code, and waits for completion.
     """
     account_response = codex.account(refresh_token=True)
     account = account_response.account
@@ -214,8 +283,8 @@ def ask_codex(codex, prompt):
     """
     Send one rendered prompt in a fresh read-only Codex thread.
 
-    Called once or twice per document. A second request is made only when the
-    first response is missing or violates the Markdown output contract.
+    Called once or twice per document. A second attempt is made only when the
+    first final response is missing or does not match the JSON contract.
     """
     from openai_codex import Sandbox
     from openai_codex.types import ReasoningEffort
@@ -226,8 +295,8 @@ def ask_codex(codex, prompt):
         thread = codex.thread_start(
             cwd=str(PROJECT_ROOT),
             developer_instructions=(
-                "Use only the document supplied in the user prompt. "
-                "Do not use tools or read files. Return only the requested Markdown."
+                "Analyze only the document text supplied in the user prompt. "
+                "Do not use tools or read other files. Return only the requested JSON."
             ),
             ephemeral=True,
             model=MODEL,
@@ -242,7 +311,7 @@ def ask_codex(codex, prompt):
         )
 
         try:
-            return validate_markdown(result.final_response)
+            return parse_result(result.final_response)
         except ValueError as error:
             last_error = error
             print(f"  Attempt {attempt} returned invalid output: {error}")
@@ -250,21 +319,21 @@ def ask_codex(codex, prompt):
     raise ValueError(f"Codex failed after {MAX_ATTEMPTS} attempts: {last_error}")
 
 
-def write_markdown(path, markdown):
+def write_result(path, result):
     """
-    Save one cleaned document as readable UTF-8 Markdown.
+    Write one completed result immediately using readable UTF-8 JSON.
 
-    Called immediately after a successful response so later failures do not
-    lose completed work.
+    Called after a document succeeds so progress survives later failures.
     """
-    path.write_text(markdown.rstrip() + "\n", encoding="utf-8")
+    json_text = json.dumps(result, ensure_ascii=False, indent=2)
+    path.write_text(json_text + "\n", encoding="utf-8")
 
 
 def load_codex_sdk():
     """
-    Import the SDK or raise an error containing the install command.
+    Import the official SDK or raise an error with the exact install command.
 
-    Called before any requests so a missing dependency fails early.
+    Called before any files are processed so a missing dependency fails early.
     """
     try:
         from openai_codex import Codex
@@ -279,10 +348,10 @@ def load_codex_sdk():
 
 def select_input_files(file_name):
     """
-    Return every demo input or the one requested with --file.
+    Return either every input file or one explicitly requested file.
 
-    For example, --file sample.md selects data/demo-bot-data/sample.md and
-    rejects paths that could point outside the input folder.
+    Called by main after parsing --file. For example, --file sample.md returns
+    only INPUT_DIR/sample.md and rejects paths outside that folder.
     """
     if file_name is None:
         return sorted(INPUT_DIR.glob("*.md"))
@@ -302,17 +371,17 @@ def select_input_files(file_name):
 
 def main():
     """
-    Clean the selected demo documents and print a final summary.
+    Process every 10-page-or-fewer Markdown file and print a final summary.
 
-    This is the entry point. It returns 0 when every file succeeds, 1 for setup
-    or processing failures, and 2 for invalid command-line input.
+    This is the script entry point. It returns 0 when every file succeeds and
+    1 when setup fails or at least one document could not be processed.
     """
     parser = argparse.ArgumentParser(
-        description="Clean demo documents with the v6 whole-document prompt."
+        description="Apply the whole-document prompt with the Codex Python SDK."
     )
     parser.add_argument(
         "--file",
-        help="Process one filename from data/demo-bot-data instead of all files.",
+        help="Process one filename from the input folder instead of all files.",
     )
     args = parser.parse_args()
 
@@ -348,11 +417,11 @@ def main():
             ensure_chatgpt_login(codex)
 
             for number, input_path in enumerate(input_files, start=1):
-                output_path = OUTPUT_DIR / input_path.name
+                output_path = OUTPUT_DIR / f"{input_path.stem}.json"
                 print(f"[{number}/{len(input_files)}] {input_path.name}")
 
                 if existing_output_is_valid(output_path):
-                    print("  Skipped: valid Markdown output already exists")
+                    print("  Skipped: valid output already exists")
                     skipped += 1
                     continue
 
@@ -364,8 +433,8 @@ def main():
                         metadata,
                         document_text,
                     )
-                    markdown = ask_codex(codex, prompt)
-                    write_markdown(output_path, markdown)
+                    result = ask_codex(codex, prompt)
+                    write_result(output_path, result)
                     print(f"  Saved: {output_path.relative_to(PROJECT_ROOT)}")
                     processed += 1
                 except Exception as error:
@@ -376,7 +445,7 @@ def main():
         return 1
 
     print()
-    print(f"Markdown files found: {len(input_files)}")
+    print(f"Input files selected: {len(input_files)}")
     print(f"Model: {MODEL}")
     print("Reasoning effort: low")
     print(f"Newly processed: {processed}")
