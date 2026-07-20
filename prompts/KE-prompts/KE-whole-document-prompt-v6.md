@@ -61,6 +61,40 @@ Improve readability by:
 * removing obvious duplication
 * organizing content under the original or clearly supported headings
 
+In addition to the cleaned Markdown, prepend a YAML front matter block.
+
+The YAML front matter must summarize the document at a high level and contain only metadata that can be inferred directly from the document.
+
+Generate exactly the following fields:
+
+- title
+- description
+- topics
+- sample_queries
+
+Guidelines:
+
+- `title`
+  - A concise, human-readable title describing the document.
+  - Prefer the document's main title when available.
+
+- `description`
+  - One or two sentences describing what information the document contains.
+  - Describe the document, not its importance or quality.
+  - Do not include opinions or analysis.
+
+- `topics`
+  - A list of 3–8 concise topics covered in the document.
+  - Use noun phrases rather than sentences.
+  - Include only major topics actually discussed.
+
+- `sample_queries`
+  - Generate 4–8 realistic questions that a user could answer primarily using this document.
+  - Questions should reflect different information needs.
+  - Avoid duplicates, trivial wording changes, and speculative questions.
+  - Do not generate questions about submission mechanics, signatures, or removed boilerplate.
+  - Questions should be answerable primarily from this document without requiring external context.
+
 Document metadata:
 
 * Company: Infosys Limited
@@ -73,15 +107,24 @@ Document metadata:
 
 ---
 
-## DOCUMENT TEXT
-
-<DOCUMENT>
-{DOCUMENT_TEXT}
-</DOCUMENT>
-
 ## OUTPUT REQUIREMENTS
 
-Return only the cleaned document as valid GitHub-Flavored Markdown.
+Return only valid GitHub-Flavored Markdown consisting of:
+
+1. A YAML front matter block.
+2. The cleaned document.
+
+The YAML front matter must appear at the very beginning of the output.
+The YAML front matter must have exactly this structure:
+
+---
+title: ...
+description: ...
+topics:
+  - ...
+sample_queries:
+  - ...
+---
 
 * do not wrap the output in a Markdown code fence
 * do not add explanations, processing notes, or introductory text
@@ -94,5 +137,10 @@ Return only the cleaned document as valid GitHub-Flavored Markdown.
 * keep each table row on a single line
 * preserve footnotes immediately below the table or section to which they apply
 * if a source table cannot be reconstructed reliably, preserve its contents as
-  readable Markdown text without dropping any values
+  readable Markdown text without dropping any values.
 
+## DOCUMENT TEXT
+
+<DOCUMENT>
+{DOCUMENT_TEXT}
+</DOCUMENT>
