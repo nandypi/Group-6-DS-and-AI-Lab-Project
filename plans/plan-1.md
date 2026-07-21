@@ -1,3 +1,5 @@
+If the specification contains minor ambiguities, do not stop for clarification. Choose the most reasonable implementation consistent with the rest of the specification.
+
 # Objective
 
 Implement a Python module that converts large Infosys Markdown documents into logical extraction units for downstream LLM-based knowledge extraction.
