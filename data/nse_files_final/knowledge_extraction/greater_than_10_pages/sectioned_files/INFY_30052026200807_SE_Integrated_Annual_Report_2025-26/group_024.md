@@ -1,413 +1,159 @@
 ---
 document_name: "INFY_30052026200807_SE_Integrated_Annual_Report_2025-26.md"
 group_id: "INFY_30052026200807_SE_Integrated_Annual_Report_2025-26__group_024"
-source_section_count: 3
-page_start: 198
-page_end: 207
-estimated_tokens: 8122
+source_section_count: 2
+page_start: 104
+page_end: 108
+estimated_tokens: 4229
 source_section_ids:
-  - "INFY_30052026200807_SE_Integrated_Annual_Report_2025-26__083"
-  - "INFY_30052026200807_SE_Integrated_Annual_Report_2025-26__084"
-  - "INFY_30052026200807_SE_Integrated_Annual_Report_2025-26__085"
+  - "INFY_30052026200807_SE_Integrated_Annual_Report_2025-26__045"
+  - "INFY_30052026200807_SE_Integrated_Annual_Report_2025-26__046"
 ---
 
-## 2.4 Capital work-in-progress (CWIP)
-Changes in capital work-in-progress are as follows:
-(In ` crore)
-| Particulars                 | As at March 31,   | As at March 31,   |
-|-----------------------------|-------------------|-------------------|
-|                             | 2026              | 2025              |
-| Balance at the beginning    | 778               | 277               |
-| Additions during the year   | 2,256             | 1,805             |
-| Capitalized during the year | (2,522)           | (1,304)           |
-| Balance at the end          | 512               | 778               |
+## Procedure for postal ballot
+The postal ballot was carried out as per the provisions of Sections 108 and 110 and other applicable provisions of the Act, read with the Rules framed thereunder and applicable circulars issued by the Ministry of Corporate Affairs from time to time.
+## Details of special resolution proposed to be transacted through postal ballot
+None of the businesses proposed to be transacted at the ensuing AGM requires passing of a special resolution through postal ballot.
+<!-- image -->
+## Legal compliance
+We comply with the laws of the land in everything we do. All disclosures and policies to this effect, including details of non-compliance, regulatory orders, certifications and complaints, are made available in this corporate governance report.
+## Details of non-compliance
+No penalty has been imposed by any stock exchange, SEBI or SEC, nor has there been any instance of non-compliance with any legal requirements, or on matters relating to the capital market over the last three years.
+## Regulatory orders
+There were no material regulatory orders pertaining to the Company for fiscal 2026.
+## CEO and CFO certification
+As required by the Listing Regulations, the CEO and CFO certification is provided in this Integrated Annual Report.
+## Code of Conduct and Ethics
+In compliance with the Listing Regulations and the Companies Act, 2013, the Company has adopted the Code of Conduct and Ethics ('the Code'). The Code is applicable to the members of the Board, the executive officers and all employees of the Company and its subsidiaries, and is available on our website, at https:// www.infosys.com/investors/corporate-governance/documents/ codeofconduct.pdf. All members of the Board, the executive officers and senior management have affirmed compliance to the Code as on March 31, 2026. A declaration to this effect is part of the CEO and CFO certification .
+## Establishment of vigil / whistleblower mechanism
+The Company has established a mechanism for directors and employees to report concerns about unethical behavior, actual or suspected fraud, or violation of the Code. It also provides for adequate safeguards against the victimization of employees who avail the mechanism and allows direct access to the chairperson of the Audit Committee in exceptional cases. During the year, no person was denied access to the Audit Committee. The Whistleblower Policy is available on our website, at
+[https://www.infosys.com/investors/corporate-governance/ documents/whistleblower-policy.pdf.](https://www.infosys.com/investors/corporate-governance/documents/whistleblower-policy.pdf)
+## Complaints pertaining to sexual harassment
+The details of complaints filed, disposed of, and pending during the financial year pertaining to sexual harassment are provided in the Business Responsibility and Sustainability Report of this Integrated Annual Report.
+## Prevention of insider trading
+The Company has amended the Code of Conduct for Prohibition of Insider Trading ('the Code') on April 23, 2026 and Code on Fair Disclosures and Investor Relations on April 17, 2025. The policy and procedures are framed to regulate, monitor and report trading by the Designated Persons along with their Immediate Relative(s) and for other aspects under the SEBI (Prohibition of Insider Trading) Regulations, 2015, such as inquiry in case of leak of Unpublished Price Sensitive Information (UPSI) or suspected leak of UPSI is forming part of the Code, which is available on our website, at
+[https://www.infosys.com/investors/corporate-governance/ documents/code-conduct-prohibition-insider-trading.pdf.](https://www.infosys.com/investors/corporate-governance/documents/code-conduct-prohibition-insider-trading.pdf)
+## Compliance with discretionary requirements
+The Company has also ensured the implementation of nonmandatory items, such as:
+- Separate posts of Chairman, and CEO &amp; MD, with the provision for reimbursement of expenses in the performance of official duties
+- The Company has appointed a non-executive chairperson who is not related to the CEO &amp; MD.
+- The Company has provided a separate office within the Company premises for the Chairman.
+- Unmodified audit opinions / reporting
+- Internal auditor reporting directly to the Audit Committee
 
-The capital work-in-progress ageing schedule for the year ended March 31, 2026 and March 31, 2025 is as follows:
-|                                |                                |                                |                                |                                | (In ` crore)   |
-|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|----------------|
-| Particulars                    | Amount in CWIP for a period of | Amount in CWIP for a period of | Amount in CWIP for a period of | Amount in CWIP for a period of | Total          |
-|                                | Less than 1 year               | 1-2 years                      | 2-3 years                      | More than 3 years              |                |
-| Projects in progress           | 345                            | 156                            | 10                             | 1                              | 512            |
-|                                | 540                            | 204                            | 22                             | 12                             | 778            |
-| Total capital work-in-progress | 345                            | 156                            | 10                             | 1                              | 512            |
-|                                | 540                            | 204                            | 22                             | 12                             | 778            |
+## Other disclosures and affirmations
+- The Company has complied with the corporate governance requirements as per Regulations 17 to 27 and website disclosure requirements as per Regulation 46(2) of the Listing Regulations.
+- The securities of the Company were not suspended from trading anytime during fiscal 2026.
 
-For capital-work-in progress, whose completion is overdue or has exceeded its cost compared to its original plan, the project-wise details of when the project is expected to be completed is given below as of March 31, 2026 and March 31, 2025:
-|                                |                  |                 |                        |                   | (In ` crore)   |
-|--------------------------------|------------------|-----------------|------------------------|-------------------|----------------|
-| Particulars                    | Less than 1 year | To be 1-2 years | completed in 2-3 years | More than 3 years | Total          |
-| Projects in progress           |                  |                 |                        |                   |                |
-| BN-SP-SDB                      | 114              | -               | -                      | -                 | 114            |
-| NO-SZ-SDB                      | 256              | -               | -                      | -                 | 256            |
-| Total capital work-in-progress | 114              | -               | -                      | -                 | 114            |
-|                                | 256              | -               | -                      | -                 | 256            |
+## Certificate of non-disqualification of directors
+Makarand M. Joshi of Makarand M. Joshi &amp; Co., Company Secretaries, has issued a certificate as required under the Listing Regulations, confirming that none of the directors on the Board of the Company has been debarred or disqualified from being appointed or continuing as director of companies by the SEBI / Ministry of Corporate Affairs or any such statutory authority. The certificate is enclosed with this section as Annexure A .
+## Auditors' certificate on corporate governance
+The auditor's certificate on corporate governance is provided as Annexure 4 to the Board's report .
+Place: Mumbai
+Date: April 23, 2026
+## Annexure A: Certificate of non-disqualification of directors
+## C E R T I F I C A T E
+[Pursuant to Regulation 34(3) and Schedule V Para C Clause (10)(i) of the Securities Exchange and Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015]
+To, The Members, Infosys Limited Electronics City, Hosur Road, Bengaluru-560100, Karnataka, India
+We have examined the relevant disclosures provided by the Directors (as enlisted in Table A); to M/s Infosys Limited, bearing CIN: L85110KA1981PLC013115; having registered office at Electronics City, Hosur Road, Bangalore, Karnataka-560100, India (hereinafter referred to as 'the Company') for the purpose of issuing this Certificate, in accordance with Regulation 34(3) read with Schedule V Para C Clause 10 (i) of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015.
+In our opinion and to the best of our knowledge and based on the following:
+- i. Documents available on the website of the Ministry of Corporate Affairs ('MCA');
+- ii. Verification of Directors Identification Number ('DIN') status at the website of the MCA;
+- iii. Disclosures provided by the Directors (as enlisted in Table A) to the Company; and
+- iv. Debarment list of BSE Limited and National Stock Exchange of India Limited.
 
-Project execution plans are formulated based on capacity requirement assessments, and projects are executed accordingly.
-## 2.5 Investments
-|                                             | (In ` crore)    | (In ` crore)    |
-|---------------------------------------------|-----------------|-----------------|
-| Particulars                                 | As at March 31, | As at March 31, |
-|                                             | 2026            | 2025            |
-| Non-current investments                     |                 |                 |
-| Equity instruments of subsidiaries          | 14,507          | 13,724          |
-| Redeemable Preference shares of subsidiary  | 2,831           | 2,831           |
-| Preference securities and equity securities | 743             | 251             |
-| Target maturity fund units                  | -               | 465             |
-| Others                                      | 59              | 61              |
-| Tax-free bonds                              | 407             | 1,465           |
-| Government bonds                            | -               | 14              |
-| Non-convertible debentures                  | 3,279           | 3,320           |
-| Government securities                       | 4,210           | 5,240           |
-| Total non-current investments               | 26,036          | 27,371          |
-| Current investments                         |                 |                 |
-| Mutual fund units                           | 2,191           | 1,185           |
-| Commercial papers                           | 1,180           | 3,442           |
-| Certificates of deposit                     | 7,546           | 3,257           |
-| Tax-free bonds                              | -               | 154             |
-| Government bonds                            | 101             | -               |
-| Government securities                       | 240             | 1,560           |
-| Non-convertible debentures                  | 781             | 1,549           |
-| Total current investments                   | 12,039          | 11,147          |
-| Total carrying value                        | 38,075          | 38,518          |
+We hereby certify that none of the Directors on the Board of the Company (as enlisted in Table A) have been debarred or disqualified from being appointed or continuing as Directors of the company by the Securities and Exchange Board of India, MCA or any such other statutory authority as on March 31, 2026.
+## Table A
+|   Sr. No. | Nameof the Directors   |   Director Identification Number (DIN) | Date of appointment in the Company   |
+|-----------|------------------------|----------------------------------------|--------------------------------------|
+|        1. | Nandan M. Nilekani     |                               00041245 | August 24, 2017                      |
+|        2. | Salil Parekh           |                               01876159 | January 02, 2018                     |
+|        3. | D. Sundaram            |                               00016304 | July 14, 2017                        |
+|        4. | Michael Gibbs          |                               08177291 | July 13, 2018                        |
+|        5. | Bobby Parikh           |                               00019437 | July 15, 2020                        |
+|        6. | Chitra Nayak           |                               09101763 | March 25, 2021                       |
+|        7. | Govind Iyer            |                               00169343 | January 12, 2023                     |
+|        8. | Helene Auriol Potier   |                               10166891 | May 26, 2023                         |
+|        9. | Nitin Paranjpe         |                               00045204 | January 01, 2024                     |
 
-(In ` crore, except as otherwise stated)
-| Particulars                                                                       | As at March 31,   | As at March 31,   |
-|-----------------------------------------------------------------------------------|-------------------|-------------------|
-|                                                                                   | 2026              | 2025              |
-| Non-current investments                                                           |                   |                   |
-| Unquoted                                                                          |                   |                   |
-| Investment carried at cost                                                        |                   |                   |
-| Investments in equity instruments of subsidiaries                                 |                   |                   |
-| Infosys BPM Limited                                                               | 662               | 662               |
-| 33,828 (33,828) equity shares of ` 10,000/- each, fully paid up                   |                   |                   |
-| Infosys Technologies (China) Co. Limited                                          | 369               | 369               |
-| Infosys Technologies, S. de R.L. de C.V., Mexico                                  | 65                | 65                |
-| 17,49,99,990 (17,49,99,990) equity shares of MXN1par value, fully paid up         |                   |                   |
-| Infosys Technologies (Sweden) AB                                                  | 76                | 76                |
-| 1,000 (1,000) equity shares of SEK 100 par value, fully paid                      |                   |                   |
-| Infosys Technologies (Shanghai) Company Limited                                   | 1,010             | 1,010             |
-| Infosys Public Services, Inc.                                                     | 99                | 99                |
-| 3,50,00,000 (3,50,00,000) shares of USD 0.50 par value, fully paid                |                   |                   |
-| Infosys Consulting Holding AG                                                     | 1,323             | 1,323             |
-| 23,350 (23,350) - Class A shares of CHF 1,000 each and                            |                   |                   |
-| 26,460 (26,460) - Class B Shares of CHF 100 each, fully paid up                   |                   |                   |
-| EdgeVerve Systems Limited                                                         | 1,312             | 1,312             |
-| 1,31,18,40,000 (1,31,18,40,000) equity shares of ` 10/- each, fully paid up       |                   |                   |
-| Infosys Nova Holdings LLC #                                                       | 3,308             | 3,017             |
-| Infosys Singapore Pte Ltd                                                         | 4,821             | 4,327             |
-| 2,88,39,411 (2,73,19,411) shares                                                  |                   |                   |
-| Brilliant Basics Holding Limited                                                  | 59                | 59                |
-| 1,346 (1,346) shares of GBP 0.005 each, fully paid up                             |                   |                   |
-| Infosys Arabia Limited                                                            | 2                 | 2                 |
-| 70 (70) shares                                                                    |                   |                   |
-| Panaya Inc.                                                                       | 582               | 582               |
-| 2 (2) shares of USD 0.01 per share, fully paid up                                 |                   |                   |
-| Infosys Chile SpA                                                                 | 7                 | 7                 |
-| 100 (100) shares                                                                  |                   |                   |
-| Infosys Luxembourg S.a r.l.                                                       | 26                | 26                |
-| 30,000 (30,000) shares                                                            |                   |                   |
-| Infosys AustriaGmbH                                                               | -                 | -                 |
-| 80,000 (80,000) shares of EUR 1 par value, fully paid up                          |                   |                   |
-| Infosys Consulting Brazil                                                         | 337               | 337               |
-| 27,50,71,070 (27,50,71,070) shares of BRL 1 per share, fully paid up              |                   |                   |
-| Infosys Consulting S.R.L. (Romania)                                               | 34                | 34                |
-| 99,183 (99,183) shares of RON 100 per share, fully paid up                        |                   |                   |
-| Infosys Limited Bulgaria EOOD                                                     | 2                 | 2                 |
-| 4,58,000 (4,58,000) shares of EUR 0.51 per share (BGN 1 per share), fully paid up |                   |                   |
-| Infosys Germany HoldingsGmbH                                                      | 2                 | 2                 |
-| 25,000 (25,000) shares EUR 1 per share, fully paid up                             |                   |                   |
+For Makarand M. Joshi &amp; Co. Company Secretaries
+ICSI UIN: P2009MH007000
+Sd/-
+Makarand M. Joshi
+Partner FCS No. 5533 CP No. 3662 PR: 6832 / 2025 UDIN: F005533H000181929
+## Investor contacts
+## For queries relating to financial statements
+## Amrita Srikanth
+SVP - Head - Technical Accounting Group
+Tel: +91 80 4116 8666
+Email : amrita.s@infosys.com
+## Investor correspondence
+## Sandeep Mahindroo
+EVP - Financial Controller and Head - Investor Relations
+Tel : +91 80 3980 1018
+Email : sandeep\_mahindroo@infosys.com
+## For queries relating to shares / dividend / compliance
+## A.G.S. Manikantha
+VP - Company Secretary
+Tel: +91 80 4116 7775
+Email: investors@infosys.com
+## Depositary bank (ADS)
+## United States
+## Deutsche Bank Trust Company Americas
+Deutsche Bank Trust Company Americas Corporate Bank - Depositary Receipts Floor 4S, 1 Columbus Circle New York NY, USA 10019 Tel: +1 212 250 2500
+## India
+## Deutsche Bank AG
+Deutsche Bank AG, Filiale Mumbai Corporate Bank - Depositary Receipts The Capital, C-70, G Block Bandra Kurla Complex, Mumbai 400 051, India Tel: +91 22 7180 6184
+## Depository for equity shares in India
+## National Securities Depository Limited
+301, 3 rd  Floor, Naman Chambers, Plot C-32, G-Block, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra - 400 051, India Tel: +91 022-48867000
+## For queries relating to business responsibility report and Sustainability Report
+## Aruna C. Newton
+VP - Head - Diversity and Inclusion
+Tel: +91 80 2852 0261
+Email: arunacnewton@infosys.com
+## Registrar and share transfer agents
+## KFin Technologies Limited
+Selenium Tower B, Plot Nos. 31 &amp; 32, Financial District, Nanakramguda, Serilingampally Mandal, Hyderabad - 500032, India
+## Contact person
+## C. Shobha Anand
+Vice President
+KFin Technologies Limited Toll Free Number +1800-309-4001
+Email: einward.ris@kfintech.com
 
-| Particulars                                                                  | As at March 31,   | As at March 31,   |
-|------------------------------------------------------------------------------|-------------------|-------------------|
-|                                                                              | 2026              | 2025              |
-| Infosys Green Forum                                                          | 1                 | 1                 |
-| 10,00,000 (10,00,000) shares 10 per share, fully paid up                     |                   |                   |
-| Infosys Automotive and MobilityGmbH                                          | 15                | 15                |
-| Infosys Turkey Bilgi Teknolojileri Limited Sirketi                           | 79                | 79                |
-| 27,70,326 (27,70,326) share Turkish Liras 100 (100) per share, fully paid up |                   |                   |
-| Infosys Consulting S.R.L. (Argentina)                                        | -                 | 2                 |
-| Nil (2,94,500) shares AR$ 100 per share, fully paid up                       |                   |                   |
-| Infosys Business Solutions LLC                                               | 8                 | 8                 |
-| 10,000 (10,000) shares USD 100 per share, fully paid up                      |                   |                   |
-| Idunn Information Technology Private Limited                                 | 82                | 82                |
-| 3,27,788 (3,27,788) shared ` 10 per share, fully paid up                     |                   |                   |
-| InSemi Technology Services Private Limited (2)                               | 198               | 198               |
-| 10,33,440 (10,33,440) shares ` 10 per share, fully paid up                   |                   |                   |
-| In-tech Group India Private Limited                                          | 15                | 15                |
-| 10,000 (10,000) shares ` 10 per share, fully paid up                         |                   |                   |
-| Infosys Services (Thailand) Limited                                          | 13                | 13                |
-| 49,99,998 (49,99,998) shares THB 10 per share, fully paid up                 |                   |                   |
-| Infosys Singapore Pte Ltd                                                    | 2,831             | 2,831             |
-| 51,02,00,000 (51,02,00,000 ) shares                                          |                   |                   |
-| Investments carried at fair value through profit or loss                     |                   |                   |
-| Target maturity fund units                                                   | -                 | 465               |
-| Equity and preference securities                                             | 52                | 25                |
-| Others (1)                                                                   | 59                | 61                |
-|                                                                              | 111               | 551               |
-| Investments carried at fair value through other comprehensive income         |                   |                   |
-| Preference securities                                                        | 628               | 167               |
-| Equity securities                                                            | 2                 | 2                 |
-|                                                                              | 630               | 169               |
-| Quoted                                                                       |                   |                   |
-| Investments carried at amortized cost                                        |                   |                   |
-| Tax-free bonds                                                               | 407               | 1,465             |
-| Government bonds                                                             | -                 | 14                |
-|                                                                              | 407               | 1,479             |
-| Investments carried at fair value through other comprehensive income         |                   |                   |
-| Non-convertible debentures                                                   | 3,279             | 3,320             |
-| Equity securities                                                            | 61                | 57                |
-| Government securities                                                        | 4,210             | 5,240             |
-|                                                                              | 7,550             | 8,617             |
-| Total non-current investments                                                | 26,036            | 27,371            |
+## Custodian in India (ADS)
+## ICICI Bank Limited
+ICICI Bank Limited Securities Market Services 1 st  Floor, Empire Complex, 414, Senapati Bapat Marg, Lower Parel, Mumbai 400 013, Maharashtra, India. Tel: +91 98210 21853
+## Central Depository Services (India) Limited
+Marathon Futurex, A-Wing, 25 th , 34 th &amp; 35 th  Floor, Mafatlal Mills Compound NM Joshi Marg, Lower Parel (East), Mumbai 400013, India Tel: 1800-21-09911
+## Addresses of stock exchanges
+## In India
+## National Stock Exchange of India Ltd.
+Exchange Plaza, C-1, Block G, Bandra Kurla Complex, Bandra (E), Mumbai - 400 051
+Tel: +(022) 6864 5400 / 022 5099 8100
+## BSE Ltd.
+Phiroze Jeejeebhoy Towers Dalal Street, Mumbai 400 001, India Tel: +022 6654 5695
+## Outside India
+## New York Stock Exchange
+11 Wall Street, New York, NY 10005, US Tel: +1 212 656 3000
+## Risk management report Statutory reports
+'Over the last fiscal year, businesses worldwide have faced significant challenges due to geopolitical shifts, economic uncertainties, supply chain disruptions, evolving regulations, advances in artificial intelligence, technology upheavals, and cybersecurity risks. These factors have collectively impacted operations and decision-making. Amidst this landscape, our enterprise risk management processes were instrumental in guiding the Company's focus and ensuring we prioritized what mattered most to our stakeholders. By proactively identifying and addressing emerging threats, we maintained resilience and adaptability, allowing us to navigate complexities and uphold our commitment to our stakeholders.'
+Deepak Bhalla EVP - Chief Risk Officer
+Note: The risk-related information outlined in this section may not be exhaustive. The discussion may contain statements that are forward-looking in nature. Our business is subject to uncertainties that could cause actual results to differ materially from those reflected in the forward-looking statements. If any of the risks materializes, our business, financial conditions or prospects could be materially and adversely affected. Our business, operating results, financial performance, or prospects could also be harmed by risks and uncertainties not currently known to us or that we currently do not believe are material. Readers are advised to refer to the detailed discussion of risk factors and related disclosures in our regulatory filings and exercise their own judgment in assessing risks associated with the Company.
+Our Enterprise Risk Management (ERM) function enables the achievement of the Company's strategic objectives by identifying, analyzing, assessing, mitigating, monitoring, and governing any risk or potential threat to these objectives. While this is the key driver, our values, culture, and commitment to stakeholders - employees, customers, investors, regulatory bodies, partners, and the community around us - are the foundation of our ERM framework. The systematic and proactive identification of risks, and mitigation thereof, enables our organization to boost performance with effective and timely decision-making. Strategic decisions are taken after careful consideration of primary, secondary, consequential, and residual risks. The ERM function also enables effective resource allocation through structured qualitative and quantitative risk impact assessment and prioritization based on our risk appetite, which is defined through the ERM framework. During the assessment, impacts and likelihood or probability of the risks are assessed using a four-point scale, and risks are categorized into four categories based on this. Risks are mitigated in the order of criticality starting with critical risks, followed by high and medium risks. Low impact is the default risk appetite for all risks, supported by impact definitions, robust preventive, detective, and corrective controls, and strong governance mechanisms to manage risks and ensure residual risk exposures remain within acceptable limits.
+Our ERM framework also enables the identification of underlying opportunities during risk assessment, which are then further evaluated and actionized by the business. Our ERM framework encompasses all of the Company's risks - strategy and strategy execution; operational; legal and compliance risks. These categories can also have internal or external dimensions. Hence, appropriate risk indicators are used to identify these risks proactively. We take cognizance of risks emanating internally or externally and their cumulative impact while framing our risk responses.
+Emerging risks: Our ERM framework has defined a process to identify, assess, plan, and monitor risks emerging from internal and external environment which enables the Company to build and maintain resilience in uncertain times. The process includes horizon scanning and SWOT analysis, which cover political, economic, social, technological, legal and environmental aspects. The emerging risks are monitored constantly and discussed in the risk councils and with the Risk Management Committee (RMC) of the Board on a periodic basis.
+| Strategy and strategy execution   | The risks arising out of the choices we have made in defining our strategy and the risks to the successful execution of our strategy are covered in this category. For example, risks inherent to our industry and our competitiveness are analyzed and mitigated through strategic choices of target markets, our market offerings, business model and talent base.                                                                            |
+|-----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Operational                       | The risks affecting our policies, procedures, people and systems, thereby impacting service delivery or operations, or compromising our core values or business practices are covered in this category. For example, risks such as inefficiencies in internal processes, human rights, fraud risks, business activity disruptions due to natural calamities, climate change events, human conflicts, system failures and cybersecurity attacks. |
+| Legal and compliance              | The risks arising out of threats posed to our financial, organizational, or reputational standing resulting from litigations, non-conformance with laws, regulatory or geopolitical developments, codes of conduct and contractual compliances are covered in this category.                                                                                                                                                                    |
 
-| Particulars                                                                  | As at March 31,   | As at March 31,   |
-|------------------------------------------------------------------------------|-------------------|-------------------|
-|                                                                              | 2026              | 2025              |
-| Current investments                                                          |                   |                   |
-| Unquoted                                                                     |                   |                   |
-| Investments carried at fair value through profit or loss                     |                   |                   |
-| Mutual fund units                                                            | 2,191             | 1,185             |
-|                                                                              | 2,191             | 1,185             |
-| Investments carried at fair value through other comprehensive income         |                   |                   |
-| Commercial papers                                                            | 1,180             | 3,442             |
-| Certificates of deposit                                                      | 7,546             | 3,257             |
-|                                                                              | 8,726             | 6,699             |
-| Quoted                                                                       |                   |                   |
-| Investments carried at amortized cost                                        |                   |                   |
-| Tax-free bonds                                                               | -                 | 154               |
-| Government bonds                                                             | 101               | -                 |
-|                                                                              | 101               | 154               |
-| Investments carried at fair value through other comprehensive income         |                   |                   |
-| Government securities                                                        | 240               | 1,560             |
-| Non-convertible debentures                                                   | 781               | 1,549             |
-|                                                                              | 1,021             | 3,109             |
-| Total current investments                                                    | 12,039            | 11,147            |
-| Total investments                                                            | 38,075            | 38,518            |
-| Aggregate amount of quoted investments                                       | 9,079             | 13,359            |
-| Market value of quoted investments (including interest accrued), current     | 1,122             | 3,266             |
-| Market value of quoted investments (including interest accrued), non-current | 7,981             | 10,269            |
-| Aggregate amount of unquoted investments                                     | 28,996            | 25,159            |
-| # Aggregate amount of impairment in value of investments                     | 94                | 94                |
-| Reduction in the fair value of assets held for sale                          | 854               | 854               |
-| Investments carried at cost                                                  | 17,338            | 16,555            |
-| Investments carried at amortized cost                                        | 508               | 1,633             |
-| Investments carried at fair value through other comprehensive income         | 17,927            | 18,594            |
-| Investments carried at fair value through profit or loss                     | 2,302             | 1,736             |
-
-(1) Uncalled capital commitments outstanding as of March 31, 2026 and March 31, 2025 was ` 23 crore and ` 27 crore, respectively.
-(2) On May 10, 2024, Infosys Limited acquired 100% voting interests in InSemi Technology Services Private Limited, a semiconductor design services company headquartered in India. This acquisition is expected to strengthen our expertise in semiconductor ecosystem and Engineering R&amp;D services. The business acquisition was conducted by entering into a share purchase agreement for a total consideration of ` 198 crore as on acquisition date, which includes a cash consideration of ` 168 crore and contingent consideration with an estimated fair value of ` 30 crore as on the date of acquisition.
-Refer to Note 2.11 for accounting policies on financial instruments.
-Details of amounts recorded in other comprehensive income:
-(In ` crore)
-| Particulars                      | Year ended     | Year ended     | Year ended     | Year ended     | Year ended     | Year ended     |
-|----------------------------------|----------------|----------------|----------------|----------------|----------------|----------------|
-|                                  | March 31, 2026 | March 31, 2026 | March 31, 2026 | March 31, 2025 | March 31, 2025 | March 31, 2025 |
-|                                  | Gross          | Tax            | Net            | Gross          | Tax            | Net            |
-| Net Gain / (loss) on             |                |                |                |                |                |                |
-| Non-convertible debentures       | (14)           | 2              | (12)           | 52             | (6)            | 46             |
-| Government securities            | 5              | (1)            | 4              | 155            | (14)           | 141            |
-| Commercial Paper                 | (7)            | 2              | (5)            | 3              | (1)            | 2              |
-| Certificates of deposits         | (18)           | 5              | (13)           | 3              | (1)            | 2              |
-| Equity and preference securities | 464            | (67)           | 397            | 20             | (1)            | 19             |
-
-## Method of fair valuation :
-| Class of investment                                                                                  |                                                                             |        |        |
-|------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|--------|--------|
-|                                                                                                      | Method                                                                      | 2026   | 2025   |
-| Mutual fund units - carried at fair value through profit or loss                                     | Quoted price                                                                | 2,191  | 1,185  |
-| Target maturity fund units - carried at fair value through profit or loss                            | Quoted price                                                                | -      | 465    |
-| Tax-free bonds and government bonds - carried at amortized cost                                      | Quoted price and market observable inputs                                   | 529    | 1,796  |
-| Non-convertible debentures - carried at fair value through other comprehensive income                | Quoted price and market observable inputs                                   | 4,060  | 4,869  |
-| Government securities - carried at fair value through other comprehensive income                     | Quoted price and market observable inputs                                   | 4,450  | 6,800  |
-| Commercial papers - carried at fair value through other comprehensive income                         | Market observable inputs                                                    | 1,180  | 3,442  |
-| Certificates of deposit - carried at fair value through other comprehensive income                   | Market observable inputs                                                    | 7,546  | 3,257  |
-| Quoted Equity Securities - carried at fair value through other comprehensive income                  | Quoted price                                                                | 61     | 57     |
-| Unquoted equity and preference securities - carried at fair value through profit or loss             | Discounted cash flows method, Market multiples method, Option pricing model | 630    | 169    |
-| Unquoted equity and preference securities - carried at fair value through other comprehensive income | Discounted cash flows method, Market multiples method, Option pricing model | 52     | 25     |
-| Others - carried at fair value through profit or loss                                                | Discounted cash flows method, Market multiples method, Option pricing model | 59     | 61     |
-| Total                                                                                                |                                                                             | 20,758 | 22,126 |
-
-Note : Certain quoted investments are classified as Level 2 in the absence of active market for such investments.
-## 2.5.1 Details of investments
-The details of investments in preference, equity and other instruments at March 31, 2026 and March 31, 2025 are as follows:
-|                                                                                       | (In ` crore, except as otherwise stated) As at March 31,   | (In ` crore, except as otherwise stated) As at March 31,   |
-|---------------------------------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|
-| Particulars                                                                           | 2026                                                       | 2025                                                       |
-| Preference securities                                                                 |                                                            |                                                            |
-| Investments carried at fair value through other comprehensive income                  |                                                            |                                                            |
-| Airviz Inc.                                                                           | -                                                          | -                                                          |
-| 2,89,695 (2,89,695) Series A Preferred Stock, fully paid up, par value USD 0.001 each |                                                            |                                                            |
-
-(In ` crore)
-| Particulars                                                                                                 | As at March 31,   | As at March 31,   |
-|-------------------------------------------------------------------------------------------------------------|-------------------|-------------------|
-| Particulars                                                                                                 | 2026              | 2025              |
-| Whoop Inc                                                                                                   | 576               | 129               |
-| 1,10,59,340 (1,10,59,340) Series B Preferred Stock, fully paid up, par value USD 0.0001 each                |                   |                   |
-| Nivetti Systems Private Limited                                                                             | 52                | 38                |
-| 2,28,501 (2,28,501) Preferred Stock, fully paid up, par value ` 1/- each                                    |                   |                   |
-| Investments carried at fair value through profit or loss                                                    |                   |                   |
-| Galaxeye Space Solutions Private Limited                                                                    | 23                | 17                |
-| 1,210 (1,210) Series A compulsorily convertible cumulative Preference shares of ` 10/- each, fully paid up  |                   |                   |
-| 4Basecare Precision Health Private Limited                                                                  | 29                | 8                 |
-| 18,850 (18,850) Series A compulsorily convertible cumulative Preference shares of ` 1/- each, fully paid up |                   |                   |
-| Equity instrument                                                                                           |                   |                   |
-| Investments carried at fair value through other comprehensive income                                        |                   |                   |
-| Merasport Technologies Private Limited                                                                      | -                 | -                 |
-| 2,420 (2,420) equity shares at ` 8,052/- each, fully paid up, par value ` 10/- each                         |                   |                   |
-| Global Innovation and Technology Alliance                                                                   | 2                 | 2                 |
-| 15,000 (15,000) equity shares at ` 1,000/- each, fully paid up, par value ` 1,000/- each                    |                   |                   |
-| Ideaforge Technology Limited                                                                                | 61                | 57                |
-| 16,47,314 (16,47,314) equity shares at ` 10/-, fully paid up                                                |                   |                   |
-| Investments carried at fair value through profit or loss                                                    |                   |                   |
-| Galaxeye Space Solutions Private Limited                                                                    | -                 | -                 |
-| 10 ( 10) equity shares at ` 1,36,080/- each, fully paid up, par value ` 10/- each                           |                   |                   |
-| Others investments carried at fair value through profit or loss                                             |                   |                   |
-| Stellaris Venture Partners India                                                                            | 51                | 53                |
-| Yali Deeptech Fund I                                                                                        | 8                 | 8                 |
-| Total                                                                                                       | 802               | 312               |
-
-## 2.6 Loans
-|                                     | (In ` crore)    | (In ` crore)    |
-|-------------------------------------|-----------------|-----------------|
-| Particulars                         | As at March 31, | As at March 31, |
-|                                     | 2026            | 2025            |
-| Non-current                         |                 |                 |
-| Loan to subsidiary (1)              | -               | 10              |
-| Loans considered good - Unsecured   |                 |                 |
-| Other loans                         |                 |                 |
-| Loans to employees                  | 5               | 16              |
-|                                     | 5               | 26              |
-| Current                             |                 |                 |
-| Loans credit impaired - Unsecured   |                 |                 |
-| Other loans                         |                 |                 |
-| Loans to employees                  | 189             | 207             |
-| Total current loans                 | 189             | 207             |
-| Total loans                         | 194             | 233             |
-| (1) Includes dues from subsidiaries | -               | 10              |
-
-## 2.7 Other financial assets
-|                                                 | (In ` crore)    | (In ` crore)    |
-|-------------------------------------------------|-----------------|-----------------|
-| Particulars                                     | As at March 31, | As at March 31, |
-|                                                 | 2026            | 2025            |
-| Non-current                                     |                 |                 |
-| Security deposits (1)                           | 214             | 205             |
-| Unbilled revenues (1)(5)#                       | 1,356           | 1,904           |
-| Net investment in lease (1) (Refer to Note 2.3) | 265             | 241             |
-| Total non-current other financial assets        | 1,835           | 2,350           |
-| Current                                         |                 |                 |
-| Security deposits (1)                           | 10              | 21              |
-| Deposits placed with Corporation (1) *          | 2,918           | 2,716           |
-| Unbilled revenues (1)(5)#                       | 7,143           | 5,681           |
-| Interest accrued but not due (1)                | 360             | 739             |
-
-| Particulars                          | Particulars                                                               | As at March 31,   | As at March 31,   |
-|--------------------------------------|---------------------------------------------------------------------------|-------------------|-------------------|
-|                                      |                                                                           | 2026              | 2025              |
-|                                      | Foreign currency forward and options contracts (2)(3)                     | 80                | 171               |
-|                                      | Net investment in lease (1) (Refer to Note 2.3)                           | 324               | 228               |
-|                                      | Others (1)(4)                                                             | 3,935             | 3,013             |
-| Total current other financial assets | Total current other financial assets                                      | 14,770            | 12,569            |
-| Total other financial assets         | Total other financial assets                                              | 16,605            | 14,919            |
-| (1)                                  | Financial assets carried at amortized cost                                | 16,525            | 14,748            |
-| (2)                                  | Financial assets carried at fair value through other comprehensive income | 56                | 28                |
-| (3)                                  | Financial assets carried at fair value through Profit or Loss             | 24                | 143               |
-| (4)                                  | Includes dues from subsidiaries                                           | 3,776             | 2,863             |
-| (5)                                  | Includes dues from subsidiaries                                           | 145               | 165               |
-
-## 2.8 Trade receivables
-|                                                                 | (In `           | crore)          |
-|-----------------------------------------------------------------|-----------------|-----------------|
-| Particulars                                                     | As at March 31, | As at March 31, |
-|                                                                 | 2026            | 2025            |
-| Current                                                         |                 |                 |
-| Trade receivable considered good - Unsecured (1)                | 30,766          | 26,807          |
-| Less: Allowance for expected credit loss                        | 429             | 394             |
-| Trade Receivable considered good - Unsecured                    | 30,337          | 26,413          |
-| Trade Receivable-credit impaired - Unsecured                    | 111             | 169             |
-| Less: Allowance for credit impairment                           | 111             | 169             |
-| Trade Receivable-credit impaired - Unsecured                    | -               | -               |
-| Total trade receivables (2)                                     | 30,337          | 26,413          |
-| (1) Includes dues from subsidiaries                             | 338             | 250             |
-| (2) Includes dues from companies where directors are interested | -               | -               |
-
-Trade receivables ageing schedule for the year ended as on March 31, 2026 and March 31, 2025:
-|                                                |         |                                                            |                                                            |                                                            |                                                            |                                                            | (In ` crore)   |
-|------------------------------------------------|---------|------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|----------------|
-| Particulars                                    | Not due | Outstanding for following periods from due date of payment | Outstanding for following periods from due date of payment | Outstanding for following periods from due date of payment | Outstanding for following periods from due date of payment | Outstanding for following periods from due date of payment | Total          |
-|                                                |         | Less than 6 months                                         | 6 months to 1 year                                         | 1-2 years                                                  | 2-3 years                                                  | More than 3 years                                          |                |
-| Undisputed trade receivables - considered good | 24,748  | 5,990                                                      | 17                                                         | 7                                                          | 2                                                          | 2                                                          | 30,766         |
-|                                                | 20,082  | 6,458                                                      | 80                                                         | 150                                                        | 31                                                         | 6                                                          | 26,807         |
-| Undisputed trade receivables - credit impaired | -       | 2                                                          | 13                                                         | 12                                                         | 4                                                          | 62                                                         | 93             |
-|                                                | -       | 5                                                          | 4                                                          | 2                                                          | 5                                                          | 87                                                         | 103            |
-| Disputed trade receivables - considered good   | -       | -                                                          | -                                                          | -                                                          | -                                                          | -                                                          | -              |
-|                                                | -       | -                                                          | -                                                          | -                                                          | -                                                          | -                                                          | -              |
-| Disputed trade receivables - credit impaired   | -       | -                                                          | -                                                          | -                                                          | 3                                                          | 15                                                         | 18             |
-|                                                | -       | -                                                          | -                                                          | 42                                                         | 23                                                         | 1                                                          | 66             |
-|                                                | 24,748  | 5,992                                                      | 30                                                         | 19                                                         | 9                                                          | 79                                                         | 30,877         |
-|                                                | 20,082  | 6,463                                                      | 84                                                         | 194                                                        | 59                                                         | 94                                                         | 26,976         |
-| Less: Allowance for credit loss                |         |                                                            |                                                            |                                                            |                                                            |                                                            | 540            |
-|                                                |         |                                                            |                                                            |                                                            |                                                            |                                                            | 563            |
-| Total trade receivables                        |         |                                                            |                                                            |                                                            |                                                            |                                                            | 30,337         |
-|                                                |         |                                                            |                                                            |                                                            |                                                            |                                                            | 26,413         |
-
-## 2.9 Cash and cash equivalents
-|                                                 | (In ` crore)    | (In ` crore)    |
-|-------------------------------------------------|-----------------|-----------------|
-| Particulars                                     | As at March 31, | As at March 31, |
-|                                                 | 2026            | 2025            |
-| Balances with banks                             |                 |                 |
-| In current and deposit accounts                 | 8,727           | 14,265          |
-| Cash on hand                                    | -               | -               |
-| Total cash and cash equivalents                 | 8,727           | 14,265          |
-| Balances with banks in unpaid dividend accounts | 45              | 45              |
-| Deposit with more than 12 months maturity       | -               | -               |
-
-Cash and cash equivalents as at March 31, 2026 and March 31, 2025 include restricted cash and bank balances of ` 52 crore and ` 45 crore, respectively.
-The deposits maintained by the Company with banks and financial institutions comprise of time deposits, which can be withdrawn by the Company at any point without prior notice or penalty on the principal.
-## 2.10 Other assets
-| Particulars                                      |       |       |
-|--------------------------------------------------|-------|-------|
-|                                                  | 2026  | 2025  |
-| Non-current                                      |       |       |
-| Capital advances                                 | 154   | 206   |
-| Advances other than capital advances             |       |       |
-| Others                                           |       |       |
-| Prepaid expenses                                 | 510   | 154   |
-| Defined benefit plan assets (Refer to Note 2.21) | 168   | 257   |
-| Deferred contract cost                           |       |       |
-| Cost of obtaining a contract                     | 301   | 299   |
-| Cost of fulfillment                              | 590   | 676   |
-| Unbilled revenues (2)                            | 274   | 119   |
-| Withholding taxes and others (3)                 | 593   | 512   |
-| Total non-current other assets                   | 2,590 | 2,223 |
-| Current                                          |       |       |
-| Advances other than capital advances             |       |       |
-| Payment to vendors for supply of goods           | 408   | 373   |
-| Others                                           |       |       |
-| Prepaid expenses (1)                             | 3,229 | 2,003 |
-| Unbilled revenues (2)                            | 4,933 | 4,284 |
-| Deferred contract cost                           |       |       |
-| Cost of obtaining a contract                     | 226   | 212   |
-| Cost of fulfillment                              | 472   | 428   |
-
-(In ` crore)
-| Particulars                         | As at March 31,   | As at March 31,   |
-|-------------------------------------|-------------------|-------------------|
-|                                     | 2026              | 2025              |
-| Withholding taxes and others (3)    | 3,329             | 2,309             |
-| Other receivables (1)               | 27                | 9                 |
-| Total current other assets          | 12,624            | 9,618             |
-| Total other assets                  | 15,214            | 11,841            |
-| (1) Includes dues from subsidiaries | 141               | 151               |
-
-(2) Classified as non-financial asset as the contractual right to consideration is dependent on completion of contractual milestones.
-(3) Withholding taxes and others primarily consist of input tax credits and VAT recoverable from tax authorities.
-## 2.11 Financial instruments
-## 2.11.1 Initial recognition
-The Company recognizes financial assets and financial liabilities when it becomes a party to the contractual provisions of the instrument. All financial assets and liabilities are recognized at fair value on initial recognition, except for trade receivables which are initially measured at transaction price. Transaction costs that are directly attributable to the acquisition or issue of financial assets and financial liabilities, which are not at fair value through profit or loss, are added to the fair value on initial recognition. Regular way purchase and sale of financial assets are accounted for at trade date.
-## 2.11.2 Subsequent measurement
-## a. Non-derivative financial instruments
-## (i) Financial assets carried at amortized cost
-A financial asset is subsequently measured at amortized cost if it is held within a business model whose objective is to hold the asset in order to collect contractual cash flows and the contractual terms of the financial asset give rise on specified dates to cash flows that are solely payments of principal and interest on the principal amount outstanding.
+## Integrated Enterprise Risk Management Framework
+We have adopted an integrated ERM framework that is implemented across the organization by the Risk Management Office. Our ERM framework incorporates the best practices based on COSO and ISO 31000 and is tailored to suit our unique business requirements.
+## Integrated Enterprise Risk Management Framework
+<!-- image -->
+Risk management at Infosys encompasses all areas, including first, second, and third lines of defence. Risk management is embedded into the core business process and day-to-day decision-making of every function within the Company and forms an integral part of the development process and project execution. Risk management has been embedded into the job description of senior management, middle management, and employees who engage with clients. Achieving strategic goals by proactively managing the risks is the responsibility of the Company's management at all levels. Financial incentives are linked to the achievement of strategic goals. As the first line of defense, they evaluate risks and opportunities before taking key business decisions. This first line works closely with corporate ERM through risk councils and sub-risk councils created across the organization in different units.
+The second line of defence consists of various risk functions such as Information Security Group (ISG), Data Privacy Office (DPO), Quality, Delivery Risk Management (DRM), Business Continuity, Legal, Compliance, etc., who work closely with the ERM function in identifying, assessing, reporting and governing the risks. While risks are largely mitigated by the first line / business, they are tracked and governed by the second line. They are reported to the executive leadership through various councils, including the Operational Risk Council (ORC) and the Legal &amp; Compliance Risk Council (LCRC). These key risks are also presented to the Risk Management Committee (RMC) of the Board on a quarterly basis.
+The third line of defense encompasses internal audit, which reviews various risks and controls on a periodic basis to assess the effectiveness of the risk management process and reports independently. Inputs on key risks by the ERM are considered while drafting the audit plan. The Company maintains a single hierarchical risks repository from L1 to L5, covering strategic to tactical risks. All these are governed by the integrated ERM framework of the Company. This is how all lines of defense are aligned as depicted in the ERM framework above.
+The Company also conducts maturity assessment of the ERM process on a periodic basis by an independent external agency. The maturity assessment was conducted in March 2024.
+Risk management is embedded throughout the organization. The environment to take risk-enabled decisions and the establishment of forums to accelerate decisions to identify and mitigate risks are the hallmarks of a good risk culture. At Infosys, this is enabled through the implementation of the integrated ERM framework. This is a decision support system for the executive leadership. A multi-layered governance structure provides open forums for risk discussions at various levels. Comprehensive awareness and training programs are conducted on a regular basis for all the employees and contractors to cover risks applicable to the business. Lex, our in-house learning platform, offers various risk management courses, which are accessible from anywhere in the world. Periodic table-top exercises are conducted in key areas to review preparedness for high-impact, low-probability risks.

@@ -2,180 +2,182 @@
 document_name: "Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26.md"
 group_id: "Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26__group_005"
 source_section_count: 2
-page_start: 34
-page_end: 49
-estimated_tokens: 8172
+page_start: 17
+page_end: 22
+estimated_tokens: 4292
 source_section_ids:
-  - "Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26__018"
-  - "Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26__019"
+  - "Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26__009"
+  - "Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26__010"
 ---
 
-|   Sl. No. | Nameof the subsidiary                                           | Country         | Financial period ended Date of   | acquisition Exchange rate/ Reporting currency   | Share capital   | Reserves and surplus   | Total assets   | Total liabilities (excluding share capital and reserves   | Investments   | (In ` Turnover (1) (includes inter- company transactions)   | crore, except Profit / (Loss) before taxation (1)   |   %of shareholding Provision for taxation (1) | and Profit / (Loss) after taxation (1)   |   exchange rate) %of shareholding |
-|-----------|-----------------------------------------------------------------|-----------------|----------------------------------|-------------------------------------------------|-----------------|------------------------|----------------|-----------------------------------------------------------|---------------|-------------------------------------------------------------|-----------------------------------------------------|-----------------------------------------------|------------------------------------------|-----------------------------------|
-|-----------|---------------------------------------------------------------|-----------------|----------------------------|---------------------------------------------------------|-----------------|------------------------|----------------|------------------------------------------------------------------------|---------------|-------------------------------------------------------|---------------------------------------|------------------------------|--------------------------------------|--------------------|
-|        78 | Infosys Turkey Bilgi Teknolojileri Limited Sirketi (2)        | Turkey Dec 2025 | 31, NA                     | 1 TRY = ` 2.09                                          | 103             | (98)                   |            190 |                                                                    185 | -             | 72                                                    | (19)                                  | -                            | (19)                                 |                100 |
-|        79 | in-tech GmbH (26)                                             | Germany         | Dec 31, 2025 July 17, 2024 | 1 EUR = ` 105.47                                        | 1               | 353                    |            763 |                                                                    409 | -             | 1,232                                                 | (203)                                 | (12)                         | (191)                                |                100 |
-|        80 | drivetech Fahrversuch GmbH (26)                               | Germany         | Dec 31, 2025 July 17, 2024 | 1 EUR = ` 105.47                                        | -               | 4                      |              6 |                                                                      2 | -             | 16                                                    | 1                                     | -                            | 1                                    |                100 |
-|        81 | in-tech Engineering S.R.L. (formerly known as ProIT) (26)(41) | Romania         | Dec 31, 2025 July 17, 2024 | 1 RON = ` 20.71                                         | -               | 17                     |             22 |                                                                      5 | -             | 32                                                    | (14)                                  | (2)                          | (12)                                 |                100 |
-|        82 | in-tech Automotive Engineering SL (26)                        | Spain           | Dec 31, 2025 July 17, 2024 | 1 EUR = ` 105.47                                        | -               | (6)                    |             11 |                                                                     17 | -             | 27                                                    | (1)                                   | -                            | (1)                                  |                100 |
-|        83 | in-tech Engineering s.r.o (26)                                | Czech Republic  | Dec 31, 2025 July 17, 2024 | 1 CZK = ` 4.35                                          | 1               | 16                     |             20 |                                                                      3 | -             | 29                                                    | 5                                     | 1                            | 4                                    |                100 |
-|        84 | in-tech Engineering GmbH (26)                                 | Austria         | Dec 31, 2025 July 17, 2024 | 1 EUR = ` 105.47                                        | 1               | 6                      |             11 |                                                                      4 | -             | 36                                                    | 2                                     | 1                            | 1                                    |                100 |
-|        85 | in-tech Group Ltd (26)                                        | United Kingdom  | Dec 31, 2025 July 17, 2024 | 1 GBP = ` 120.78                                        | -               | 11                     |             15 |                                                                      4 | -             | 40                                                    | 3                                     | -                            | 3                                    |                100 |
-|        86 | In-tech Automotive Engineering Shenyang Co. Ltd (26)          | China           | Dec 31, 2025 July 17, 2024 | 1 RMB = ` 12.87                                         | 2               | 25                     |             42 |                                                                     15 | -             | 67                                                    | 16                                    | 2                            | 14                                   |                100 |
-|        87 | In-tech Automotive Engineering Bejing Co., Ltd (26)           | China           | Dec 31, 2025 July 17, 2024 | 1 RMB = ` 12.87                                         | -               | 1                      |              3 |                                                                      2 | -             | 14                                                    | (1)                                   | -                            | (1)                                  |                100 |
-|        88 | Infy tech SAS (12)(17)                                        | France          | Dec 31, 2025 July 17, 2024 | 1 EUR = ` 105.47                                        | 19              | 9                      |             85 |                                                                     57 | -             | 53                                                    | 10                                    | 2                            | 7                                    |                100 |
+## Intellectual Capital
+## Material topics
+- Innovation and Intellectual Property
+- Products, platforms and solutions
+- Responsible AI
 
-|   Sl. No. | Nameof the subsidiary                                  | Country         | Financial period ended    | Date of acquisition   | Exchange rate/ Reporting currency   | Share capital   | Reserves and surplus   |   Total assets | Total liabilities (excluding share capital and reserves and surplus)   | Investments   | Turnover (1) (includes inter- company transactions)   | Profit / (Loss) before taxation (1)   | Provision for taxation (1)   | Profit / (Loss) after taxation (1)   |   %of shareholding |
-|-----------|--------------------------------------------------------|-----------------|---------------------------|-----------------------|-------------------------------------|-----------------|------------------------|----------------|------------------------------------------------------------------------|---------------|-------------------------------------------------------|---------------------------------------|------------------------------|--------------------------------------|--------------------|
-|        89 | Insemi Technology Services Private Limited (28)        | India           | Mar 31, 2026 May 10, 2024 | INR                   |                                     | 1               | 29                     |            130 | 100                                                                    | -             | 298                                                   | (11)                                  | -                            | (11)                                 |                100 |
-|        90 | Elbrus Labs Private Limited (28)(37)                   | India           | Mar 31, 2026 May 10, 2024 | INR                   |                                     | -               | 2                      |              8 | 6                                                                      | -             | 11                                                    | (2)                                   | -                            | (2)                                  |                100 |
-|        91 | Infosys Services (Thailand) Limited (2)(29)            | Thailand        | Mar 31, 2026 July 2024    | 3, 1 THB ` 2.89       | =                                   | 12              | (5)                    |             13 | 6                                                                      | -             | 11                                                    | (5)                                   | -                            | (5)                                  |                100 |
-|        92 | in-tech Group India Private Ltd (26)                   | India           | Mar 31, 2026              | July 17, 2024         | INR                                 | -               | 3                      |             10 | 7                                                                      | -             | 21                                                    | 3                                     | 1                            | 2                                    |                100 |
-|        93 | Infosys BPM UK Limited (5)                             | United Kingdom  | Mar 31, 2026              | NA                    | 1 GBP = ` 125.51                    | 23              | 2                      |             25 | -                                                                      | -             | -                                                     | -                                     | -                            | -                                    |                100 |
-|        94 | Infosys BPM Netherlands B.V. (8)(31)                   | The Netherlands | Mar 31, 2026              | NA                    | 1 EUR = ` 109                       | 6               | -                      |              6 | -                                                                      | -             | -                                                     | -                                     | -                            | -                                    |                100 |
-|        95 | Infosys Australia Technology Services Pty Ltd (12)(34) | Australia       | Jun 30, 2025              | NA                    | 1 AUD = ` 55.96                     | 466             | -                      |            523 | 57                                                                     | -             | -                                                     | -                                     | -                            | -                                    |                100 |
-|        96 | The Missing Link Automation Pty Ltd (39)               | Australia       | Jun 30, 2025              | Apr 30, 2025          | 1 AUD = ` 55.96                     | -               | (22)                   |              1 | 23                                                                     | -             | 1                                                     | -                                     | -                            | -                                    |                100 |
-|        97 | The Missing Link Network Integration Pty Ltd (39)      | Australia       | Jun 30, 2025              | Apr 30, 2025          | 1 AUD = ` 55.96                     | -               | 24                     |             67 | 43                                                                     | -             | 16                                                    | (2)                                   | (1)                          | (1)                                  |                100 |
-|        98 | The Missing Link Security Pty Ltd (39)                 | Australia       | Jun 30, 2025              | Apr 30, 2025          | 1 AUD = ` 55.96                     | -               | 51                     |            169 | 118                                                                    | -             | 39                                                    | 11                                    | 3                            | 8                                    |                100 |
-|        99 | The Missing Link Security Ltd (39)                     | United Kingdom  | Jun 30, 2025              | Apr 30, 2025          | 1 GBP = ` 117.45                    | -               | (13)                   |              4 | 17                                                                     | -             | -                                                     | -                                     | -                            | -                                    |                100 |
-|       100 | MRE Consulting Ltd (38)                                | United States   | Mar 31, 2026              | Apr 30, 2025          | 1 USD = ` 94.84                     | -               | 100                    |            241 | 141                                                                    | -             | 583                                                   | 35                                    | 7                            | 28                                   |                100 |
+## Performance highlights
+100 + Client Living Labs 7 Applied Research Centers
+973 Patents (granted / pending)
+2,000 + Infosys Knowledge Institute assets
+## Trademark for Infosys in India
+## 'Well Known'
+## Rating for iCETS platforms by
+analysts
+## Industry leader
+#1 Rating in AI 430 + startups Accounted for 1,300+ client impressions by Our Intellectual Capital is driven by agility, flexibility, and innovation. We are committed to working with experts, partners, academia, and other stakeholders to develop new products and services that meet the needs of our customers and communities. We are also focused on strengthening our Tech for Good solutions and providing an environment to incubate new businesses and scale startup-led offerings.
+With iCETS, Living Labs, Infosys Innovation Network, and Infosys Business Incubator, we have a broad portfolio of offerings across industry segments, while the Infosys Prize and the Aarohan Social Innovation Awards provide a platform for innovators and social entrepreneurs, respectively.
+## Infosys Center for Emerging Technology Solutions (iCETS)
+iCETS is the emerging technology incubation unit for Infosys, delivering next-generation platforms and innovation-as-a-service powered by New Emerging and eXploratory Technologies (NEXT).
+Driving next-generation innovation: As AI adoption accelerates, generative AI is scaling from experiments to enterprise deployment, transforming how businesses operate and innovate. iCETS leads this shift by enabling enterprises to apply emerging technologies through a structured, outcome-driven approach.
+A structured innovation journey: Now, Near, and Next: iCETS innovation framework is grounded in a clear and scalable model that balances long-term vision with immediate business impact:
+## Now
+Platforms and ecosystems: Driving enterprise-scale value through reusable platforms, accelerators, and integration capabilities that operationalize AI at scale. Together, these pillars form a cohesive approach that transforms ideas into measurable business outcomes. At the core of our 'Now' strategy is Infosys Topaz Fabric - composable and interoperable AI agents, tools, services, and models. The stack enables organizations to optimize existing IT processes and eliminate or automate manual tasks. It helps enterprises build on existing investments through a platform-ofplatforms approach, unlocking value across the enterprise landscape.
+## Near
+Living Labs: Bringing innovation to reality through co-creation, rapid prototyping, and real-world validation, Living Labs enable clients to contextualize, experiment, iterate, and de-risk innovations in controlled environments.
+Infosys Living Labs are global innovation hubs where clients, partners, startups, and academia co-create solutions using emerging technologies.
+## Client Living Labs deliver
+Innovation-as-a-Service, enabled by three flagship programs: IncubateNext for scalable, real-world innovation; ImagineNext for future opportunity discovery; and SenseNext for converting early market and technology signals into action.
+## Next
+## Applied Research Centers (ARC):
+We innovate across Advanced AI, New Interaction Models, Cybersecurity, Autonomous Machines, Humanoids, and Quantum - bringing research-driven emerging technologies into enterprises for real client impact.
+## Nurturing innovation
+Be The Navigator (BTN) empowers our teams to develop innovative solutions for our valued clients with a structured framework for ideation, prototyping and incubation. 12,435 BTN ideas were submitted, 2,429 implementations have been completed and 1,101 are in progress.
+## Infosys Innovation Network (IIN)
+is a well-orchestrated partnership of select startups, universities, hyperscalers and Infosys to incubate and bring the best of innovations in emerging tech areas such as AI, gen AI, data, fintech, cloud, cybersecurity, InsurTech and more, from across the globe. Today, IIN boasts of 430+ startups that have generated 1,300+ client impressions.
+## Infosys Business Incubator (IBI)
+is designed to create and scale entrepreneurship capabilities within Infosys with next-generation micro platform and micro service line-led businesses for Infosys. The incubator curates new cohorts of businesses each year to sustain and nurture talent. IBI has engaged with 1,000+ entrepreneurs and five ventures have been selected for incubation from cohort 1 and three from cohort 2.
+Be A Maker program offers opportunities for showcasing creative expressions of ideas in a phygital mode. This program, mentored by ENGG, Kaleidoscope, and iCETS, enables rapid innovation and iterative learning through direct feedback from experts. 200+ ideas have been generated and five phygital showcases have been created for clients.
+## Infosys Knowledge Institute (IKI)
+IKI is the business research and thought leadership arm of Infosys. IKI harnesses the intellectual capital of Infosys' experts and client collaborations to produce novel, distinctive content and insights on the business impact that technology can drive for enterprises. IKI also develops proprietary data and insights through primary research, including large-scale surveys and quantitative analysis. These are published through its flagship Radar maturity reports, the annual Tech Navigator report and ongoing TechCompass tech trends series, and industry-focused market outlooks and executive journals. IKI has collaborated with over 1,000 clients and created over 2,000 assets since inception. For more information, visit https://infosys.com/iki.
+## Product innovation
+Infosys Topaz AI Next: Infosys Topaz AI Next is a unified AI platform designed to enable AI-driven orchestration of complex, multiagent enterprise workflows across humans, AI agents, and enterprise systems. It combines EdgeVerve's product innovation with Infosys' global scale to transform both enterprise operations and core business functions. Read more at https://www.edgeverve.com/ai-next.
+## IP , patents and trademarks
+Infosys actively innovates and develops platforms, products and tools that constitute its collection of IP assets. These assets, available on the Infosys Marketplace, are used to differentiate ourselves in the market or as productivity-enhancing tools. We have 973 patents (granted / pending) in the portfolio. Over 900 trademarks registered (or pending) across 51 countries underscore the strength of our brand.
+'Well Known': Infosys is regarded by Indian authorities as a 'Well Known' trademark.
+Most valuable brand: Infosys is the fastest growing IT services brand globally with a CAGR of 15% in brand value and maintains leadership as a global Top 3 IT services brand.
+## #1 rating in AI
+We have been identified as a global leader in 16 AI rankings by various industry analysts. We have successfully delivered over 400 generative AI projects with Infosys Topaz. Our AI work spans a wide spectrum of priority areas, including process improvement, engineering, customer service, cybersecurity, and employee productivity. We have built four small language models for banking, IT operations, cyber and enterprises broadly.
+## ESG solutions
+Anchored in sustainable governance and enterprise-wide advisory, the Infosys Sustainability offerings span ESG strategy, data management, and reporting; sustainable operations and responsible value chains; Green IT; smart and green buildings; energy transition and decarbonization; sustainable finance; and sustainability adoption through digital skills. Our sustainability revenues stood at 36% in FY26. Read more in the ESG report.
+## Natural Capital
+## Material topics
+- Carbon neutrality
+- Renewable energy
+- Offsets for community development
+- Advocacy for climate action
+- Water stewardship
+- Zero waste to landfill
 
-|   Sl. No. | Nameof the subsidiary                                        | Country        | Financial period ended   | Date of acquisition   | Exchange rate/ Reporting currency   | Share capital   | Reserves and surplus   | Total assets   | Total liabilities (excluding share capital and reserves and surplus)   | Investments   | Turnover (1) (includes inter- company transactions)   | Profit / (Loss) before taxation (1)   | Provision for taxation (1)   | Profit / (Loss) after taxation (1)   |   %of shareholding |
-|-----------|--------------------------------------------------------------|----------------|--------------------------|-----------------------|-------------------------------------|-----------------|------------------------|----------------|------------------------------------------------------------------------|---------------|-------------------------------------------------------|---------------------------------------|------------------------------|--------------------------------------|--------------------|
-|       101 | MRE Technology Services, LLC (38)                            | United States  | Mar 31, 2026             | Apr 30, 2025          | 1 USD = ` 94.84                     | -               | 26                     | 31             | 5                                                                      | -             | 2                                                     | 2                                     | -                            | 2                                    |                100 |
-|       102 | Infosys Germany SE (formerly Blitz 24-893 SE) (27)(26)       | Germany        | Dec 31, 2025             | Oct 17, 2024          | 1 EUR = ` 105.47                    | 1               | 3,977                  | 4,546          | 568                                                                    | 8             | -                                                     | (7)                                   | -                            | (7)                                  |                100 |
-|       103 | GuideVision UK Ltd (20)(23)                                  | United Kingdom | Dec 31, 2025             | NA                    | 1 GBP = ` 120.78                    | -               | 3                      | 3              | -                                                                      | -             | -                                                     | -                                     | -                            | -                                    |                100 |
-|       104 | Friedrich Wagner Holding, Inc. (26)(23)                      | United States  | Dec 31, 2025             | Jul 17, 2024          | 1 USD = ` 89.88                     | 2               | (4)                    | (2)            | -                                                                      | -             | -                                                     | -                                     | -                            | -                                    |                100 |
-|       105 | Infosys Arabia Limited (3)                                   | Saudi Arabia   | Dec 31, 2025             | NA                    | 1 SAR = ` 23.97                     | 3               | -                      | 3              | -                                                                      | -             | -                                                     | -                                     | -                            | -                                    |                 70 |
-|       106 | Infosys Energy Consulting Services LLC (9)(32)               | United States  | Mar 31, 2026             | NA                    | 1 USD = ` 94.84                     | 5               | -                      | 5              | -                                                                      | -             | -                                                     | -                                     | -                            | -                                    |                100 |
-|       107 | Brilliant Basics Holdings Limited (Brilliant Basics) (2)(23) | United Kingdom | Mar 31, 2026             | Sep 8, 2017           | 1 GBP = ` 125.51                    | -               | 80                     | 80             | -                                                                      | -             | -                                                     | 1                                     | -                            | 1                                    |                100 |
-|       108 | Brilliant Basics Limited (4)(25)                             | United Kingdom | Mar 31, 2026             | NA                    | 1 GBP = ` 125.51                    | -               | 1                      | 1              | -                                                                      | -             | -                                                     | -                                     | -                            | -                                    |                100 |
-|       109 | Simplus ANZ Pty Ltd. (9)                                     | Australia      | Dec 31, 2025             | NA                    | 1 AUD = ` 60.07                     | -               | -                      | -              | -                                                                      | -             | -                                                     | -                                     | -                            | -                                    |                100 |
-|       110 | Innovisor Inc. (19)                                          | United States  | Jun 30, 2025             | Sep 1, 2022           | 1 USD = ` 85.76                     | -               | -                      | -              | -                                                                      | -             | -                                                     | -                                     | -                            | -                                    |                100 |
+## Carbon neutral for 7 years in a row
+Share of renewables in our India operations
+81.8 %
+Number of saplings planted through agroforestry program
+~ 14 mn
+Rural families benefited through carbon offset programs
+3,00,000 +
+Wastewater recycled within our campuses Long before climate change emerged as a global boardroom priority, Infosys recognized that natural capital is integral to long-term value creation. Our approach to environmental stewardship is holistic, science-driven, and anchored in responsible growth.
+<!-- image -->
+We are advancing decisively towards climate positivity through our Reduce and Restore strategy.
+## Advancing climate positivity
+In FY26, Infosys continued to advance its journey from carbon neutrality to climate positivity. By integrating efficiency, clean energy, and carbon sequestration with regenerative, nature-based solutions, we are moving beyond emissions reduction to creating net positive environmental outcomes. The initiatives that follow reflect our commitment to Reduce and Restore - strengthening resilience across operations, value chains, and ecosystems.
+## 1. Energy efficiency and lowcarbon approach
+Infosys continues to lead in energy efficient, low-carbon infrastructure, embedding efficiency across the full life cycle of our buildings. Our campuses leverage advanced technologies such as radiant cooling, radiant heating, innovative climateadaptive cooling, intelligent controls, and climate-responsive design, enabling sustained reductions in operational energy demand.
+Today, 84% of our office space is certified to the highest green building standards.
+## 2. Renewable energy
+Infosys continued to accelerate its clean energy journey, strengthening resilience while navigating an evolving regulatory and policy landscape. We have installed 62.42 MWp of solar photovoltaic capacity through a mix of rooftop- and ground-mounted systems, reducing dependence on conventional energy sources and enhancing onsite generation.
+Complementing this, we increasingly procure renewable power through third-party power purchase agreements and green tariff mechanisms, adapting our sourcing strategy to align with changing regulations across geographies.
+## 3. Decarbonizing the supply chain
+We are working closely with our supplier ecosystem to decarbonize the value chain. We have prioritized engagement with high-emission IT hardware suppliers through onsite assessments and seniorlevel dialogues to strengthen alignment on decarbonization roadmaps. We supported suppliers in improving Scope 1, 2, and 3 emissions measurement, establishing robust baselines, and adopting verified Environmental Product Declarations. Ongoing handholding and performance tracking continue to help embed climate action into supplier operations, reinforcing a resilient, future-ready, and responsible supply chain.
+## 4. Carbon offsets and regeneration
+We address unavoidable emissions through community-centric, highquality carbon offset programs, including clean cookstove initiatives in Rajasthan and biogas projects in Maharashtra and Karnataka. Complementing offsets, Infosys has built one of India's largest corporate agroforestry programs, with around 14 million saplings planted across multiple states. These long-term plantations enhance carbon sequestration, improve soil and water resilience, and strengthen rural livelihoods - marking a decisive shift from compensation to ecological restoration at scale.
+To date, these initiatives have benefited over 3,00,000 rural families and created more than 4,800 local jobs, delivering climate action with strong social benefits.
+## Water stewardship
+Water stewardship continues to be a core pillar of our environmental strategy, with sustained progress in reducing freshwater withdrawal and strengthening local water ecosystems. As a UN CEO Water Mandate signatory, we remain focused on minimizing consumption, maximizing reuse, and enhancing water availability in the communities where we operate.
+100% of wastewater across our campuses is recycled, supported by large-scale rainwater harvesting systems and demand-side efficiency measures. Together, these interventions have further reduced our reliance on external water sources and strengthened resilience to increasing water stress. Our Bangalore campus is certified as water positive. In continuation of our efforts on achieving water positive / neutral status based on NITI AAYOG guidelines in our campuses, we achieved Scope 1 certification at nine of our campuses in India this year reflecting consistent performance over time.
 
-- (1) Converted at monthly average exchange rates
-- (2) Wholly-owned subsidiary of Infosys Limited
-- (3) Majority-owned and controlled subsidiary of Infosys Limited
-- (4) Wholly-owned subsidiary of Brilliant Basics Holding Limited
-- (5) Wholly-owned subsidiary of Infosys BPM Limited
-- (6) Wholly-owned subsidiary of Infosys Consulting Holding AG
-- (7) Wholly-owned subsidiary of Stater N.V.
-- (8) Wholly-owned subsidiary of Infosys BPM UK, Ltd.
-- (9) Wholly-owned subsidiary of Infosys Nova Holdings LLC
-- (10)   Majority-owned and controlled subsidiary of Infosys Singapore Pte. Ltd. (formerly Infosys Consulting Pte. Ltd) .
-- (11) Wholly-owned subsidiary of Panaya Inc.
-- (12) Wholly-owned subsidiary of Infosys Singapore Pte. Ltd. (formerly Infosys Consulting Pte. Ltd).
-- (13)   Wholly-owned subsidiary of Simplus ANZ Pty Ltd
-- (14)   Wholly-owned subsidiary of Infosys Public Services, Inc.
-- (15)   Wholly-owned subsidiary of Infy Consulting Company Limited
+## Lake rejuvenation
+Extending our water stewardship beyond campus boundaries, we continue to implement lake rejuvenation projects in partnership with local stakeholders. Till date, our lake rejuvenation efforts increased cumulative storage capacity from 6 bn liters to 10.3 bn liters, adding 4.3 bn liters of freshwater capacity contributing to urban resilience, biodiversity revival, and community water security. This effort remains central to our goal of climate positivity, restoring more water than we consume.
+## Waste management
+At Infosys, our waste management strategy continues to be anchored in the principles of reduce, reuse, refurbish, repurpose, and recycle with steady progress toward our ambition of zero waste to landfill. We continue to strengthen segregation, onsite processing, and material recovery across our campuses, further embedding circularity into daily operations.
+Organic waste continues to be treated onsite through biogas plants, composting and recycling mechanisms, minimizing offsite disposal and associated emissions, and also replacing a part of cooking gas requirements in our campuses. These sustained efforts have enabled consistent improvements in diversion rates and operational efficiency
+Our e-waste includes IT equipment, mobile phones, printers, cartridges, electrical and electronic equipment such as refrigerators, microwaves, and air conditioners, lithium ion batteries, and cables, among others. We strive to extend asset life through hardware upgrades, component replacements, and re-imaging. Our progress is aligned with the TRUE
+Zero Waste certification framework, reinforcing transparency and best-inclass waste management practices. 11 campuses across Infosys India have achieved TRUE Zero Waste certification, reflecting the scale and consistency of our circular economy approach across geographies.
+## Biodiversity
+We are strengthening biodiversity stewardship across campuses through native plantation, habitat enrichment, and knowledge sharing through our annual event BioConserve. In FY26, we launched the BioConserve platform - a digital, open repository designed to share resources, best practices, and research on biodiversity conservation.
+## ASSURE
+Launched in partnership with the Indian Institute for Human Settlements (IIHS) in April 2024, Accelerating Sustainable Super Efficient Real Estate (ASSURE) is a multi-stakeholder platform that enables the replication of climate resilient, energy-efficient buildings across India, with a target of 100 million sq.ft. by 2030.
+This year, ASSURE progressed from concept to on-ground impact, with over 15 million sq.ft. of commercial buildings across India onboarded as lighthouse projects, demonstrating scalable pathways for super-efficient real estate in high-energy-intensity sectors. In addition, over 1,250 students and practitioners were upskilled on high performance buildings through webinars, inperson workshops and site visits. The initiative brings together policymakers, developers, experts, and industry leaders to advance performance measurement, skills, policy, and financing mechanisms. Read more in the ESG report.
+## Manufactured Capital Delivering value
+## Material topics
+- Green buildings / infra / data center efficiency
+- Workplace transformation
 
-- (16)   Wholly-owned subsidiary of Infosys Germany GmbH (formerly Kristall 247. GmbH ('Kristall'))
-- (17)   Incorporated on July 3, 2024
-- (18)   Wholly-owned subsidiary of Fluido Oy
-- (19)   Wholly-owned subsidiary of BASE life science A/S
-- (20)   Wholly-owned subsidiary of GuideVision s.r.o.
-- (21)   Wholly-owned subsidiary of WongDoody GmbH.
-- (22)   Wholly-owned subsidiary of Infosys Fluido UK, Ltd.
-- (23)   Under liquidation
-- (24)   Majority-owned and controlled subsidiary of Infosys Limited
-- (25)   Wholly-owned subsidiary of Brilliant Basics Holding Limited, which is under liquidation.
-- (26)   On July 17, 2024, Infosys Germany GmbH, a wholly-owned subsidiary of Infosys Singapore Pte. Limited, acquired 100% of voting interests in in-tech Holding GmbH along with its subsidiary in-tech GmbH along with its six subsidiaries in-tech Automotive Engineering SL, ProIT, intech Automotive Engineering de R.L. de C.V, drivetech Fahrversuch GmbH, Friedrich Wagner Holding Inc along with its two subsidiaries (in-tech Automotive Engineering LLC and in-tech Services LLC) and Friedrich &amp; Wagner Asia Pacific GmbH along with its five subsidiaries in-tech engineering s.r.o, in-tech engineering GmbH, in-tech engineering services S.R.L, in-tech Group Ltd along with its subsidiary (in-tech Group India Private Limited) and In-tech Automotive Engineering Shenyang Co., Ltd along with its subsidiary (In-tech Automotive Engineering Bejing Co., Ltd). Subsequently on September 1, 2024 in-tech Group India Private Limited became a wholly-owned subsidiary of Infosys limited. Infosys Germany GmbH, a wholly-owned subsidiary of Infosys Singapore Pte Ltd merged into Infosys Germany SE (formerly known as Blitz 24-893 SE) effective September 24, 2025
-- (27)   On October 17, 2024, Infosys Singapore Pte Ltd. acquired 100% of voting interests in Infosys Germany SE (formerly known as Blitz 24-893 SE) .
+Our Manufactured Capital includes our energy-efficient offices, data centers, innovation hubs, digital studios, and our technology infrastructure across the globe. Our infrastructure is modeled taking into consideration stakeholder expectations of our commitments towards climate change mitigation, judicious use of natural resources and preserving our environment.
+- Green IT
 
-## Notes :
-1. Investments exclude investments in subsidiaries
-2. Proposed dividend from any of the subsidiaries is nil except for Infosys BPM Limited and EdgeVerve Systems Limited which proposed a final dividend of ` 89,000 per equity share ( ` 10,000 par value) and ` 5 per equity share ( ` 10 par value) subject to approval of shareholders in the ensuing Annual General Meeting of Infosys BPM Limited and EdgeVerve Systems Limited respectively.
-3. Reserve and Surplus includes Other comprehensive income and securities premium.
-4. Infosys Limited SPC, a wholly-owned subsidiary of Infosys Ltd, incorporated, effective December 12, 2024 and has yet to commence operations.
-5. Infosys Saudi Arabia LLC, a wholly-owned subsidiary of Infosys Ltd, incorporated, effective April 21, 2025 and has yet to commence operations.
-6. Infosys BPM Canada Inc, a wholly-owned subsidiary of Infosys BPM UK Ltd, incorporated, effective July 28, 2025 and has yet to commence operations.
-7. Infosys Enterprise Business Services Pty Ltd, a wholly-owned subsidiary of Infosys Singapore Pte. Ltd, incorporated, effective March 19, 2026, and has yet to commence operations.
-8. In-tech Automotive Engineering de R.L.de C.V liquidated effective May 7, 2025.
+## Performance highlights
+Radiant cooling solution patented in Europe and India
+## Radiflux
+Avoided plastic and thermocol in IT equipment purchase this year
+5.7 tons
+## Office area certified with highest green building rating
+84 %
+Office space monitored through Infosys command center
+## 40 mn sq.ft.
+Building sector decarbonization initiative
+## ASSURE
+With a growing portfolio of highest-rated green buildings and accelerated investments in intelligent, collaborative workplace technologies, we are elevating the quality of our hybrid work environments. We continue to lead from the front, redefining benchmarks in environmental sustainability and future-ready infrastructure.
+## Advancing the frontiers of energy performance
+Through progressive design strategies, enhanced building envelopes, intelligent HVAC systems, and seamless integration of renewable energy, we continue to expand what high-performance buildings can achieve. The use of high-performance materials with recycled content, passive design principles, and real-time monitoring enables reduced energy intensity while improving occupant well-being.
+Guided by our six core principles - health and wellness, social connect, sustainability, inclusivity, and technology enablement - our campuses are transforming into dynamic ecosystems that cater to varied work patterns, emerging capabilities, and an enhanced employee journey. Environmental stewardship is integrated through efficient interior solutions, sustainable materials, enhanced lighting and air quality, along with intelligent digital systems that minimize ecological footprint while improving usability and comfort, ensuring accessibility for all.
+Infosys campuses, known for their world-class infrastructure and green spaces, offer a distinctive workplace experience for employees. With
+84% of our office spaces certified as green buildings, we strive to redefine benchmarks in sustainable infrastructure, while delivering worldclass, sustainable workplaces.
+## Embedding circularity and innovation in design
+As a key participant in the built environment, we recognize the importance of addressing embodied carbon, which remains a significant contributor to the life cycle emissions of buildings. We continue to integrate Life Cycle Assessment (LCA) into early-stage decision-making to support responsible material selection and design optimization.
+Steel and cement, which account for nearly 70% of embodied carbon in office buildings, have been primary focus areas. We have prioritized the procurement of secondary steel produced from recycled scrap, which has a significantly lower emission intensity (1-1.5 tCO2e/t compared to 2.5-3.5 tCO2e/t for primary steel). Further, we have optimized cement use through blending with industrial by-products such as fly ash and ground granulated blast furnace slag.
+While advancing thermal management in our office buildings through innovative technologies such as radiant heating and free cooling under favorable climatic conditions, we have standardized the procurement of air-conditioning equipment using refrigerants with very low global warming potential as a regular practice.
+We strengthened our circularity efforts by eliminating plastic and thermocol-based packaging for IT equipment and embedding sustainable packaging criteria into our procurement processes. Partnering closely with suppliers, we transitioned to paper-based, recycled, and biodegradable fibre alternatives, including materials derived from agricultural waste - demonstrating a shift from operational waste management to design-led circularity.
+## Resource circularity in operations
+Our Circular Economy initiatives focus on responsible utilization of IT assets, ensuring maximum value extraction across the asset lifecycle while minimizing environmental impact. We adopt a structured approach to extend asset life through reuse, redeployment, and refurbishment, thereby reducing e-waste generation and the demand for new resources.
+A strong emphasis is placed on repurposing and reuse of IT assets across functions and delivery centers, enabling optimal utilization and avoiding premature disposals. Assets that reach the end of their usable life are handled through responsible end-of-life management.
+## Green IT
+InfosysIT has embedded sustainable practices across the life cycles of service design, operations, and disposal of IT assets.
+## Data center efficiency
+InfosysIT has positioned data center modernization as one of the key pillars of its sustainability and responsible growth strategy. Recognizing the environmental impact of traditional infrastructure models, the organization has architected its data center ecosystem to prioritize efficiency, scalability, and long-term resource optimization.
+This transformation is enabled through the adoption of density-optimized hyperscale platforms that enable cloud-scale agility and high-density server virtualization. This approach has significantly reduced infrastructure sprawl while maximizing utilization of compute resources, embedding sustainability principles directly into core IT operations.
+Building on this modernized platform, InfosysIT rationalized and consolidated data centers and server rooms across development centers. This consolidation effort reduced redundancy, optimized space usage, and enabled a more sustainable operating footprint.
+To ensure sustainability gains are continuously improved, InfosysIT has made focused investments in Data Center Infrastructure Management (DCIM) capabilities. These tools provide integrated, real-time visibility across both IT and facilities infrastructure, enabling data-driven decisions, proactive optimization, and informed consolidation planning. By embedding observability and governance into the operating model, InfosysIT ensures that sustainability outcomes are measurable, repeatable, and scalable over time.
+## Infrastructure as code
+Infrastructure as a code is a transformational initiative towards enabling continuous deployment, integration, and touch-less life cycle management of infrastructure components. This methodology enabled us to overcome common challenges associated with traditional infrastructure management, demand at scale, speed and consistency of deployment with interdependence between teams. As a result of this transformational initiative, a substantial number of playbooks are developed to automate platformrelated processes.
+## AIOps-powered digital operations
+InfosysIT leverages a modern AIOps platform with intelligent noise suppression and context driven notifications. The solution delivers unified observability across infrastructure landscape, while enabling visibility into capacity usage and cost efficiency. It processes high volume data from diverse IT sources to support proactive and informed operations.
+## Public cloud adoption
+The organization has largely transitioned its internal IT applications to the public cloud, enabling scalable, on-demand infrastructure and reducing reliance on on premises data centers. Employees are empowered with cloud based collaboration and secure access solutions that enhance hybrid work experiences.
+The IT Service Management (ITSM) landscape adopts a standardized, AI enabled service-desk on a SaaS hosted platform. This advancement has delivered standardization in operational processes, enhanced automation, and improved overall user experience across all support services, enabled the use of AIassisted agents to further strengthen the employee experience, effeciency and effectiveness.
+## Social and Relationship Capital Delivering value
+## Material topics
+- Client value
+- Inclusive development
+- Digital skilling
 
-Bengaluru April 23, 2026
-- (28)   On May 10, 2024, Infosys Limited acquired 100% of voting interests in InSemi Technology Services Private Limited along with its subsidiary Elbrus Labs Private Limited.
-- (29)   Incorporated on July 26, 2024
-- (30)   Incorporated on December 12, 2024, Infosys Limited SPC
-- (31)   Incorporated on March 20, 2025
-- (32)   Incorporated on April 16, 2025
-- (33)   Incorporated on April 21, 2025, Infosys Saudi Arabia LLC
-- (34)   Incorporated on April 23, 2025
-- (35)   Incorporated on July 28, 2025, Infosys BPM Canada Inc
-- (36)   Infosys Consulting S.R.L. (Argentina) became the majority-owned and controlled subsidiary of Infosys Nova Holdings LLC with effect from January 28, 2026.
-- (37)   Wholly-owned subsidiary of InSemi Technology Services Private Limited
-- (38)   On April 30, 2025, Infosys Nova Holdings LLC , a wholly-owned subsidiary of Infosys Limited, acquired 98.21% of voting interests in MRE Consulting Ltd along with its subsidiary MRE Technology Services, LLC. The remaining 1.79% was acquired by Infosys Energy Consulting Services LLC , a wholly-owned subsidiary of Infosys Nova Holdings LLC.
-- (39)   On April 30, 2025, Infosys Australia Technology Services Pty Ltd, a wholly-owned subsidiary of Infosys Singapore Pte. Limited, acquired 100% of voting interests in The Missing Link Automation Pty Ltd, The Missing Link Network Integration Pty Ltd and The Missing Link Security Pty Ltd along with its subsidiary The Missing Link Security Ltd.
-- (40)   On May 13, 2025, Infosys Singapore Pte. Ltd diluted 2% stake of HIPUS Co., Ltd to Mitsubishi Heavy Industries, Ltd.
-- (41)   In-tech Engineering services S.R.L, (wholly-owned subsidiary of in-tech GmbH) merged into ProIT (wholly-owned subsidiary of in-tech GmbH) effective November 30, 2025.
-
-for and on behalf of the Board of Directors of Infosys Limited
-Nandan M. Nilekani Chairman DIN: 00041245
-Salil Parekh Chief Executive Officer and Managing Director DIN: 01876159
-Bobby Parikh
-Director DIN: 00019437
-Jayesh Sanghrajka Chief Financial Officer
-A.G.S. Manikantha Company Secretary Membership No. A21918
-## Annexure 2 - Particulars of contracts / arrangements made with related parties
-[Pursuant to Clause (h) of sub-section (3) of Section 134 of the Companies Act, 2013, and Rule 8(2) of the Companies (Accounts) Rules, 2014 - AOC-2]
-This Form pertains to the disclosure of particulars of contracts / arrangements entered into by the Company with related parties referred to in sub-section (1) of Section 188 of the Companies Act, 2013, including certain arm's length transactions under third proviso thereto.
-## Details of contracts or arrangements or transactions not at arm's length basis
-There were no contracts or arrangements or transactions entered into during the year ended March 31, 2026, which were not at arm's length basis.
-## Details of material contracts or arrangement or transactions at arm's length basis
-There were no material contracts or arrangements or transactions entered into during the year ended March 31, 2026.
-Bengaluru April 23, 2026
-for and on behalf of the Board of Directors Sd/- Sd/-
-Nandan M. Nilekani Chairman DIN: 00041245
-Salil Parekh Chief Executive Officer
-and Managing Director DIN: 01876159
-There were no material contracts, arrangements, or transactions requiring disclosure under the Companies Act, 2013. However, the Company has obtained shareholder's approval for material related party transactions in accordance with Regulation 23 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015. The details of these transactions are available at the following link: https://www.infosys.com/investors/reports-filings/documents/agm-notice2025.pdf.
-## Annexure 3 - Particulars of employees
-We are a leading provider of AI-first business consulting and technology services, to enable organizations to unlock AI value at scale. We enable clients across 59 countries to outperform their competition and stay ahead on the innovation curve. The remuneration and perquisites provided to our employees, including that of the Management, are on par with industry benchmarks. The nomination and remuneration committee continuously reviews the compensation of the CEO and other Senior Management Personnel (SMP) to align both the short-term and long-term business objectives of the Company and to link compensation with the achievement of goals.
-The details of remuneration to directors, KMP and other employees are in compliance with Rule 5 of Chapter XIII, the Companies (Appointment and Remuneration of Managerial Personnel) Rules, 2014. In accordance with the requirements, tables 3(a) and 3(b) include the perquisite value of stock incentives at the time of their exercise and do not include the value of the stock incentives at the time of grant.
-The change in remuneration in fiscal 2026 as compared to fiscal 2025 is primarily on account of change in perquisite value of stock incentives granted in previous years and exercised during the year and revision in compensation. The change in perquisite value of stock incentives exercised during the year includes the impact of number of units exercised and change in the share price.
-## Information as per Rule 5 of Chapter XIII, the Companies (Appointment and Remuneration of Managerial Personnel) Rules, 2014
-## 3(a)  Remuneration details of directors and KMP
-| Name                   | Director Identification Number (DIN)   | Title                                         | %increase of remuneration in fiscal 2026 as compared to fiscal 2025 (1)   | Ratio of remuneration toMRE (1)   | %increase of remuneration in fiscal 2026 as compared to fiscal 2025 (excluding perquisite value of stock incentives exercised during the year)   | Ratio of remuneration to MRE(excluding perquisite value of stock incentives exercised during the year)   | No. of RSUs granted in fiscal 2026   | No. of stock options (ESOPs) granted in fiscal 2026   |
-|------------------------|----------------------------------------|-----------------------------------------------|---------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|--------------------------------------|-------------------------------------------------------|
-| Nandan M. Nilekani (2) | 00041245                               | Non-executive and Non- independent Chairman   | -                                                                         | -                                 | -                                                                                                                                                | -                                                                                                        | -                                    | -                                                     |
-| D. Sundaram            | 00016304                               | Independent Director                          | 11                                                                        | 29                                | 11                                                                                                                                               | 29                                                                                                       | -                                    | -                                                     |
-| Michael Gibbs          | 08177291                               | Independent Director                          | 11                                                                        | 31                                | 11                                                                                                                                               | 32                                                                                                       | -                                    | -                                                     |
-| Bobby Parikh           | 00019437                               | Independent Director                          | 11                                                                        | 23                                | 11                                                                                                                                               | 23                                                                                                       | -                                    | -                                                     |
-| Chitra Nayak           | 09101763                               | Independent Director                          | 11                                                                        | 28                                | 11                                                                                                                                               | 28                                                                                                       | -                                    | -                                                     |
-| Govind Iyer            | 00169343                               | Independent Director                          | 11                                                                        | 24                                | 11                                                                                                                                               | 25                                                                                                       | -                                    | -                                                     |
-| Helene Auriol Potier   | 10166891                               | Independent Director                          | 17                                                                        | 23                                | 17                                                                                                                                               | 23                                                                                                       | -                                    | -                                                     |
-| Nitin Paranjpe         | 00045204                               | Independent Director                          | 20                                                                        | 21                                | 20                                                                                                                                               | 21                                                                                                       | -                                    | -                                                     |
-| Salil Parekh (3)       | 01876159                               | Chief Executive Officer and Managing Director | 2                                                                         | 742                               | 2                                                                                                                                                | 289                                                                                                      | 3,61,575                             | -                                                     |
-| Jayesh Sanghrajka (4)  | NA                                     | Chief Financial Officer                       | 12                                                                        | 91                                | 42                                                                                                                                               | 42                                                                                                       | 36,920                               | 53,020                                                |
-| A.G.S. Manikantha (5)  | NA                                     | Company Secretary                             | 23                                                                        | 16                                | 21                                                                                                                                               | 13                                                                                                       | 2,450                                | 6,100                                                 |
-
-MRE - Median Remuneration of Employees
-Notes:
-The remuneration details in the above table pertain to directors and KMP as required under the Companies Act, 2013. The table above additionally includes the % increase in remuneration and ratio of remuneration to MRE, excluding perquisite value of stock incentives exercised during the year.
-The details in the above table are on accrual basis.
-The % increase in remuneration is provided for directors and KMP with remuneration for the full current year and previous fiscal year. The ratio of remuneration to MRE is provided for directors and KMP with remuneration for the full current fiscal year.
-- The change in remuneration of independent director(s) is primarily attributable to foreign exchange fluctuations and changes in the composition of Board committees.
-
-The change in remuneration in fiscal 2026 as compared to fiscal 2025 is primarily on account of change in perquisite value of stock incentives granted in previous years and exercised during the year and revision in compensation.
-- (1) Remuneration to KMP includes fixed pay, variable pay, retiral benefits and the perquisite value of stock incentives exercised during the period, determined in accordance with the provisions of the Income-tax Act, 1961. Accordingly, the value of stock incentives granted during the period is not included. The number of stock incentives granted in fiscal 2026 is mentioned in the above table. Independent Directors are not entitled to any stock incentives.
-- (2) Nandan M. Nilekani voluntarily chose not to receive any remuneration for his services rendered to the Company.
-- (3) a) Remuneration includes ₹50.75 crore pertaining to exercise of 2,72,400 Restricted Stock Units (RSUs) under the 2015 Plan and 64,690 RSUs under the 2019 Plan during fiscal 2026.
-- b) On the recommendation of the Nomination and Remuneration Committee and as approved by the shareholders, in accordance with the terms of his employment agreement effective July 1, 2022, the Board approved
-- i)  the grant of 2,30,621 performance-based RSUs under the 2015 Plan effective May 2, 2025. These will vest based on the achievement of certain performance targets.
-6. ii)  the grant of 13,273 performance-based RSUs under the 2015 Plan effective May 2, 2025. These will vest based on the achievement of certain environment, social, and governance milestones as determined by the Board.
-7. iii)  the grant of 33,183 performance-based RSUs under the 2015 Plan effective May 2, 2025. These will vest based on the achievement of the Company's performance on cumulative relative TSR over the years and as determined by the Board.
-8. iv) the grant of 18,132 annual time-based RSUs for fiscal 2026 under the 2015 Plan effective February 1, 2026. These will vest over a period of three years.
-- v)  the grant of 66,366 performance-based RSUs for fiscal 2026 under the 2019 Plan effective May 2, 2025. These will vest based on the Company's achievement of certain performance criteria as laid out in the 2019 Plan.
-
-These RSUs will vest in line with the employment agreement.
-- (4) a) Remuneration includes ₹5.53 crore on account of exercise of 21,346 RSUs and 6,876 ESOPs under the 2015 Plan and 10,098 RSUs under the 2019 Plan during fiscal 2026.
-- b)  On the recommendations of the Nomination and Remuneration Committee, the Board approved
-- i) the grant of 53,020 time-based ESOPs under the 2015 Plan effective June 5, 2025. These ESOPs will vest over a period of four years and shall be exercisable within the period as approved by the Committee. The exercise price of the ESOPs would be the market price as on the date of grant.
-4. ii) the grant of 20,020 time-based RSUs under the 2015 Plan effective February 1, 2026. These will vest over a period of four years.
-5. iii) the grant of 16,900 performance-based RSUs under the 2019 Plan effective February 1, 2026. These will vest based on the Company's achievement of certain performance criteria as laid out in the 2019 Plan.
-- (5) a) Remuneration includes ₹0.38 crore on account of exercise of 1,224 RSUs under the 2015 Plan and 1,214 RSUs under the 2019 Plan during fiscal 2026.
-- b)  On the recommendations of the Nomination and Remuneration Committee, the Board approved
-- i) the grant of 6,100 time-based ESOPs under the 2015 Plan effective June 5, 2025. These ESOPs will vest over a period of four years and shall be exercisable within the period as approved by the Committee. The exercise price of the ESOPs would be the market price as on the date of grant.
-9. ii) the grant of 2,450 performance-based RSUs under the 2019 Plan effective February 1, 2026. These RSUs will vest based on the Company's achievement of certain performance criteria as laid out in the 2019 Plan.
-
-The MRE was ₹11,13,024 and ₹10,72,008 in fiscal 2026 and fiscal 2025, respectively. The increase in MRE in fiscal 2026, as compared to fiscal 2025, is approximately 4%.
-The average annual increase in the salaries of employees was 11% in India after accounting for promotions and other event-based compensation revisions for employees covered as part of the rewards program. Employees outside India received a wage increase in line with the market trends in the respective countries.
+## UN SDG mapping
+Our Social and Relationship Capital guides us to bring the interests of our stakeholders to the fore. As enterprises focus on reshaping their businesses in the digital era, we are helping our clients drive transformation. Our social ambition focuses on serving the development of people by shaping a future with meaningful opportunities for all. We deliver on expectations of nurturing social innovations and enabling employability through skill training of communities.
+<!-- image -->
+## Performance highlights
+104 Infosys Prize winners since 2008
+Corneas harvested as part of our cornea care program in FY26
+15,000 +
+## Learners enabled in digital skills
+mn +
+15
+## Global CSR spends
+<!-- image -->
+Suppliers (by value of business) assessed on ESG
+91.64 %
+Our global CSR efforts address challenges across education, skilling and livelihood training, healthcare, women empowerment, science and research, environmental sustainability and more.
+## Creating value for our customers
+remains strong, with 91% of clients reporting high satisfaction scores and responses from 86% of accounts.
+## AI-first digital transformation
+We help our clients accelerate their business transformation through our AI-first value framework. Our suite of services and solutions can deliver meaningful and sustainable business impact across six strategic pillars - Orchestrate, Insight, Transform, Modernize, Innovate and Assure. The pillars are deeply integrated and together, they provide a structured path to orchestrate data, technology, and operations at scale. Our approach enables clients to navigate the full AI journey with confidence, speed, and value realization. Details of our key customer services and solutions are available at
+https://www.infosys.com/industries/.

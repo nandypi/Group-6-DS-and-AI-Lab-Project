@@ -1,383 +1,151 @@
 ---
 document_name: "Infosys_14012026160405_BM_Outcome_January142026.md"
 group_id: "Infosys_14012026160405_BM_Outcome_January142026__group_003"
-source_section_count: 4
-page_start: 22
-page_end: 29
-estimated_tokens: 9899
+source_section_count: 2
+page_start: 7
+page_end: 11
+estimated_tokens: 4175
 source_section_ids:
-  - "Infosys_14012026160405_BM_Outcome_January142026__008"
-  - "Infosys_14012026160405_BM_Outcome_January142026__009"
-  - "Infosys_14012026160405_BM_Outcome_January142026__010"
-  - "Infosys_14012026160405_BM_Outcome_January142026__011"
+  - "Infosys_14012026160405_BM_Outcome_January142026__005"
+  - "Infosys_14012026160405_BM_Outcome_January142026__006"
 ---
 
+## Deloitte Haskins &amp; Sells LLP
+116. in-tech engineering GmbH (Subsidiary of Friedrich &amp; Wagner Asia Pacific GmbH) (acquired by Infosys Germany GmbH, a wholly owned subsidiary of Infosys Singapore Pte. Limited (a wholly owned subsidiary of Infosys Limited) on July 17, 2024)
+117. in-tech engineering services S.R.L (Subsidiary of Friedrich &amp; Wagner Asia Pacific GmbH) (acquired by Infosys Germany GmbH, a wholly owned subsidiary of Infosys Singapore Pte. Limited (a wholly owned subsidiary of Infosys Limited) on July 17, 2024), (merged intoProITwitheffectfrom November30,2025)
+118. in-tech Group Ltd (Subsidiary of Friedrich &amp; Wagner Asia Pacific GmbH) (acquired by Infosys Germany GmbH, a wholly owned subsidiary of Infosys Singapore Pte. Limited (a wholly owned subsidiary of Infosys Limited) on July 17, 2024)
+119. in-tech Group India Private Limited (Subsidiary of in-tech Group Ltd) (acquired by Infosys Germany GmbH, a wholly owned subsidiary of Infosys Singapore Pte. Limited (a wholly owned subsidiary of Infosys Limited) on July 17, 2024). On September 01, 2024 in-tech Group India Private Limited became a wholly-owned subsidiary of Infosys limited.
+120. In-tech Automotive Engineering Shenyang Co. (Subsidiary of Friedrich &amp; Wagner Asia Pacific GmbH) (acquired by Infosys Germany GmbH, a wholly owned subsidiary of Infosys Singapore Pte. Limited (a wholly owned subsidiary of Infosys Limited) on July 17, 2024)
+121. In-tech Automotive Engineering Bejing Co., Ltd (Subsidiary of In-tech Automotive Engineering Shenyang Co.) (acquired by Infosys Germany GmbH, a wholly owned subsidiary of Infosys Singapore Pte. Limited (a wholly owned subsidiary of Infosys Limited) on July 17, 2024)
+122. Infosys Employees Welfare Trust
+123. Infosys Employee Benefits Trust
+124. Infosys Science Foundation
+10. 125.InfosysExpandedStock OwnershipTrust
+126. Infosys Germany SE (formerly known as Blitz 24-893 SE) acquired by Infosys Singapore Pte Ltd on October 17, 2024
+127. Infosys Limited SPC, a Wholly-owned subsidiary of Infosys Limited was incorporated on December 12, 2024.
+128. Infosys BPM Netherlands B.V.,a Wholly-owned subsidiary of Infosys BPM Limited was incorporated on March 20, 2025.
+129. Infosys Energy Consulting Services LLC, a Wholly-owned subsidiary of Infosys Nova Holding LLC was incorporated on April 16, 2025.
+130. Infosys Saudi Arabia LLC, a Wholly-owned subsidiary of Infosys Limited was incorporated on April 21, 2025.
+16. o       e   ss Singapore Pte. Limited was incorporated on April 23, 2025.
+132. MRE Consulting Ltd (acquired by Infosys Nova Holding LLC (a Wholly-owned subsidiary of Infosys Limited) with 98.21% partnership interest and Infosys Energy Consulting Services LLC (a wholly owned subsidiary of Infosys Nova Holding LLC) with 1.79% partnership interest on April 30, 2025.
+133. MRE Technology Services LLC (a Wholly-owned subsidiary of MRE Consulting Ltd) (acquired by Infosys Nova Holding LLC (a Wholly-owned subsidiary of Infosys Limited) with 98.21% partnership interest and Infosys Energy Consulting Services LLC (a wholly owned subsidiary of Infosys Nova Holding LLC) with 1.79% partnership interest on April 30,2025.
+
+<!-- image -->
+## Deloitte Haskins &amp;Sells LLP
+134. The Missing Link Automation Pty Ltd (acquired by Infosys Australia Technology Services Pty Ltd, a Wholly-owned subsidiary of Infosys Singapore Pte. Limited (a wholly owned subsidiary of Infosys Limited) on April 30, 2025.
+135. The Missing Link Network Integration Pty Ltd (acquired by Infosys Australia Technology Services Pty Ltd, a Wholly-owned subsidiary of Infosys Singapore Pte. Limited (a wholly owned subsidiary of Infosys Limited) on April 30, 2025.
+136. The Missing Link Security Pty Ltd (acquired by Infosys Australia Technology Services Pty Ltd, a Wholly-owned subsidiary of Infosys Singapore Pte. Limited (a wholly owned subsidiary of Infosys Limited) on April 30, 2025.
+137. The Missing Link Security Ltd (a Wholly-owned subsidiary of The Missing Link Security Pty Ltd) (acquired by Infosys Australia Technology Services Pty Ltd, a Wholly-owned subsidiary of Infosys Singapore Pte. Limited (a wholly owned subsidiary of Infosys Limited) on April 30, 2025.
+138. Infosys BPM Canada Inc, a Wholly-owned subsidiary of Infosys BPM UK Limited was incorporated on July 28, 2025.
+
+<!-- image -->
+## Deloitte Haskins&amp;Sells LLP
+<!-- image -->
+Chartered Accountants Prestige TradeTower,Level19 46,PalaceRoad,HighGrounds Bengaluru-560001 Karnataka,India
+Tel: +91 80 6188 6000
+Fax: +91 80 6188 6011
+## INDEPENDENTAUDITOR'S REPORTONTHEAUDITOFQUARTERLYAND NINE MONTHS ENDED STANDALONE FINANCIAL RESULTS
+## TOTHEBOARDOFDIRECTORSOFINFOSYS LIMITED
+## Opinion
+We have audited the accompanying statementof Standalone Financial Results of INFosYs LIMITED (the"Company") for the quarter and nine months ended December 31,2025(the "Statement") being submitted by the Company pursuant to the requirements of Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended (the"LoDR Regulations").
+Inouropinionandto thebestofourinformationandaccordingtotheexplanationsgivento us, the statement:
+- (i) is presented in accordance with the requirements of Regulation 33 of the LoDR Regulations; and
+- (i）g givesa trueandfairviewinconformitywiththerecognitionandmeasurementprinciples laid down in the Indian Accounting Standard 34"Interim Financial Reporting"("Ind AS 34") prescribed under section 133 of the Companies Act, 2013 (the "Act") read with relevantrules issued thereunder and other accounting principles generally accepted in India of the netprofit and other comprehensive income and other financial information of
+
+## Basis for Opinion
+WeconductedourauditoftheStatementinaccordancewiththeStandardsonAuditing ("SA"s) specified under Section 143(10) of the Act. Our responsibilities under those Standards arefurther described inAuditor's Responsibilities for the Audit of the Standalone Financial Resultssectionofourreport.We areindependentoftheCompanyinaccordancewiththe CodeofEthicsissuedbytheInstituteofCharteredAccountantsofIndia（"ICAI")together withtheethicalrequirementsthatarerelevanttoourauditoftheStandaloneFinancialResults for thequarterandninemonthsendedDecember31，2025undertheprovisionsoftheAct andtheRulesthereunder,andwehavefulfilledourotherethicalresponsibilitiesinaccordance withtheserequirementsandtheICAI'sCodeofEthics.Webelievethattheauditevidence obtained by us is sufficient and appropriate to provide a basis for our audit opinion.
+## Management'sand Board ofDirectors'Responsibilities for the Statement
+The Statement, which includes the Standalone Financial Results is the responsibility of the Company's Board of Directors and has been approved by them for the issuance. The Statement has been compiled from the related audited interim condensed standalone financial statements for the·three months and ninemonths ended December 31，2025.This responsibilityincludesthepreparationandpresentationoftheStandaloneFinancialResults the netprofit and other comprehensive income and other financial information in accordance with the recognition and measurement principles laid down in the Ind As 34, prescribed under Section133oftheActreadwithrelevantrulesissuedthereunderandotheraccounting Regulations. This responsibility also includes maintenance of adequate accounting records in accordance with the provisions of the Act for safeguarding the assets of the Company and for preventing and detecting frauds and other irregularities; selection and application of appropriate accounting policies;makingjudgments and estimates that arereasonableand prudent; and the design, implementation and maintenance of adequate internal financial controls, thatwere operating effectivelyfor ensuring the accuracy and completeness of the accounting records, relevant to the preparation and presentation of the Statements that give a true and fair view and is free from material misstatement, whether due to fraud or error.
+<!-- image -->
+In preparing the Statement, the Board of Directors are responsible for assessing the Company's ability, to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless the Board of Directors either intends to liquidate the Company or to cease operations, or has no realistic alternative buttodoso.
+The Board of Directors are also responsible for overseeing the financial reporting process of theCompany.
+## Auditor's Responsibilities for audit of the Standalone Financial Results for the quarter and nine months ended December 31,2025
+Our objectives are to obtain reasonable assurance about whether the Statement as a whole is free from material misstatement, whether due to fraud or error, and to issue an auditor's reportthatincludesouropinion.Reasonable assuranceisahighlevelofassurancebutisnot aguaranteethatanauditconductedinaccordancewithSAswillalwaysdetectamaterial misstatementwhen it exists.Misstatements canarisefromfraudorerror and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these Standalone Financial Results.
+As part of an audit in accordance with SAs, we exercise professional judgment and maintain professional skepticism throughout the audit.We also:
+- ·IdentifyandassesstherisksofmaterialmisstatementoftheStatement,whetherdueto fraud or error, design and perform audit procedures responsive to those risks, and obtain audit evidence that is sufficient and appropriate to provide a basis for our opinion. The risk of not detecting a material misstatement resulting from fraud is higher than for one resulting from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations,or theoverrideofinternalcontrol.
+- ·Obtain an understanding of internal control relevant to the audit in order to design audit procedures that are appropriate in the circumstances, but not for the purpose of expressing anopinionontheeffectivenessofsuchcontrols.
+- ·Evaluate the appropriateness of accounting policies used and the reasonableness of accounting estimates made by the Board of Directors.
+- ·Evaluate the appropriateness and reasonableness of disclosures made by the Board of Directors in terms of the requirements specified under Regulation 33 of the LoDR Regulations.
+
+## Deloitte Haskins &amp; Sells LLP
+- ·Conclude on the appropriateness of the Board of Directors' use of the going concern basis of accounting and,based on the audit evidence obtained,whether a materialuncertainty exists related to events or conditions that may cast significant doubt on the ability of the we arerequired todrawattentioninourauditor'sreportto therelateddisclosures in the Statement or, if such disclosures are inadequate, to modify our opinion. Our conclusions are based on the audit evidence obtained up to the date of our auditor's report. However, future events or conditions may cause the Company to cease to continue as a going concern.
+- Evaluate the overall presentation，structure and content of theStatement,including the disclosures, and whether the Statement represent the underlying transactions and events inamannerthatachievesfairpresentation.
+- ·Obtain sufficient appropriate audit evidence regarding the Statement to express an opinion on the Statement.
+
+Materiality is the magnitude of misstatements in the Statement that, individually or in aggregate, makes it probable that the economic decisions of a reasonably knowledgeable user of the Statement may be influenced.We consider quantitative materiality and qualitative factors in (i) planning the scope of our audit work and in evaluating the results of our work; and(ii)toevaluatetheeffectof anyidentifiedmisstatementsin theStatement.
+We communicate with those charged with governance regarding, among other matters, the planned scope and timing of the audit and significant audit findings including any significant deficienciesininternalcontrol thatweidentifyduringouraudit.
+We also provide those charged with governance with a statement that we have complied with relevant ethical requirements regarding independence, and to communicate with them all relationships and other matters that may reasonably be thought to bear on our independence, andwhereapplicable,relatedsafeguards.
+<!-- image -->
+ForDELOITTEHASKINS&amp;SELLSLLP Chartered Accountants
+(Firm's Registration No. 117366w/W-100018)
+owe
+Vikas Bagaria Partner (Membership No. 060408) UDIN:
+Place: Bengaluru
+Date: January 14, 2026
+<!-- image -->
+Navigate your next
+
+## Infosys Limited
+Regd.Office:Electronics City,HosurRoad，Bengaluru 560100,India.
+CIN: L85110KA1981PLC013115
+Website:www.infosys.com;Email:investors@infosys.com;Telephone:918028520261:Fax:918028520362
+Statementof ConsolidatedAuditedResultsof Infosys Limited and itssubsidiariesforthe quarterand nine monthsendedDecember31,2025 prepared in compliance with the Indian Accounting Standards (Ind-AS)
+|                                                             |                          | Quarter            | Quarter     | （incrore,exceptperequitysharedata)   | （incrore,exceptperequitysharedata)   | （incrore,exceptperequitysharedata)   |
+|-------------------------------------------------------------|--------------------------|--------------------|-------------|---------------------------------------|---------------------------------------|---------------------------------------|
+| Particulars                                                 | Quarter apua December31, | ended September30, | December31, | ended December31,                     | ended December31,                     | March31                               |
+|                                                             | 2025                     | 2025               | 2024        | 2025                                  | 2024                                  | 2025                                  |
+|                                                             | Audited                  | Audited            | Audited     | Audited                               | Audited                               | Audited                               |
+| Revenuefromoperations                                       | 45,479                   | 44,490             | 41,764      | 132,248                               | 122,064                               | 162,990                               |
+| Otherincome,net                                             | 1,139                    | 982                | 859         | 3.163                                 | 2,410                                 | 3,600                                 |
+| Total Income                                                | 46,618                   | 45,472             | 42,623      | 135,411                               | 124,474                               | 166,590                               |
+| Expenses                                                    |                          |                    |             |                                       |                                       |                                       |
+| Employee benefitexpenses                                    | 24,122                   | 23,438             | 21,436      | 70,407                                | 63,934                                | 85,950                                |
+| Cost of technical sub-contractors                           | 4,092                    | 3,879              | 3,302       | 11,469                                | 9,661                                 | 12,937                                |
+| Travelexpenses                                              | 510                      | 539                | 439         | 1,564                                 | 1,375                                 | 1,894                                 |
+| Cost of software packages and others                        | 3,982                    | 4,025              | 4,607       | 11,753                                | 12,012                                | 15,911                                |
+| Communicationexpenses                                       | 159                      | 160                | 157         | 462                                   | 473                                   | 620                                   |
+| Consultancy and professional charges                        | 486                      | 480                | 459         | 1,429                                 | 1,354                                 | 1,655                                 |
+| Depreciation and amortisation expenses                      | 1,155                    | 1,182              | 1,203       | 3,478                                 | 3,512                                 | 4,812                                 |
+| Finance cost                                                | 100                      | 106                | 101         | 310                                   | 314                                   | 416                                   |
+| Other expenses                                              | 1,494                    | 1,434              | 1,249       | 4,051                                 | 3,894                                 | 4,787                                 |
+| Total expenses                                              | 36,100                   | 35,243             | 32,953      | 104,923                               | 96,529                                | 128,982                               |
+| Profitbeforeexceptional item and tax                        | 10,518                   | 10,229             | 9,670       | 30,488                                | 27,945                                | 37,608                                |
+| Exceptional item                                            |                          |                    |             |                                       |                                       |                                       |
+| Impact of Labour Codes (Refer to note (c)                   | 1,289                    |                    |             | 1,289                                 |                                       |                                       |
+| Profitbeforetax                                             | 9,229                    | 10,229             | 9,670       | 29,199                                | 27,945                                | 37,608                                |
+| Taxexpense:                                                 |                          |                    |             |                                       |                                       |                                       |
+| Current tax                                                 | 2,871                    | 3,178              | 3,202       | 9,103                                 | 9,346                                 | 12,130                                |
+| Deferred tax                                                | (308)                    | (324)              | (354)       | (869)                                 | (1,113)                               | (1,272)                               |
+| Profit fortheperiod                                         | 6,666                    | 7,375              | 6,822       | 20,965                                | 19,712                                | 26,750                                |
+| Other comprehensive income                                  |                          |                    |             |                                       |                                       |                                       |
+| Items thatwill notbereclassifiedsubsequentlytoprofitorloss  | 56                       | (38)               | (s+)        | (52)                                  | 53                                    | (92)                                  |
+| Remeasurementofthenetdefinedbenefit liability/assett        | (4)                      | (8)                | (SL)        | 23                                    | (10)                                  | 19                                    |
+| Equityinstruments throughothercomprehensiveincome,net       |                          |                    |             |                                       |                                       |                                       |
+| Itemsthatwill bereclassifiedsubsequentlytoprofitorloss      |                          |                    |             |                                       |                                       |                                       |
+| Fairvaluechangesonderivativesdesignatedascashflowhedges,net | 4                        |                    | 56          | 10                                    | 32                                    | (24)                                  |
+| Exchangediferencesontranslationof foreignoperations         | 354                      | 862                | (483)       | 2,235                                 | (27)                                  | 357                                   |
+| Fair value changes oninvestments,net                        | (23)                     | (34)               | 10          | 66                                    | 136                                   | 199                                   |
+| Total other comprehensive income/loss),net of tax           |                          | 782                |             |                                       |                                       |                                       |
+|                                                             | 387                      |                    | (477)       | 2,282                                 | 184                                   | 459                                   |
+| Total comprehensive incomefor the period                    | 7,053                    | 8,157              | 6,345       | 23,247                                | 19,896                                | 27,209                                |
+| Profit attributable to:                                     |                          |                    |             |                                       |                                       |                                       |
+| Ownersof the company                                        | 6,654                    | 7,364              | 6,806       | 20,939                                | 19,680                                | 26,713                                |
+| Non-controlling interests                                   | 12                       | 11                 | 16          | 26                                    | 32                                    | 37                                    |
+|                                                             | 6,666                    | 7,375              | 6,822       | 20,965                                | 19,712                                | 26,750                                |
+| Totalcomprehensiveincome attributable to:                   |                          |                    |             |                                       |                                       |                                       |
+| Ownersof the company                                        | 7,040                    | 8,140              | 6,336       | 23,204                                | 19,863                                | 27,167                                |
+| Non-controlling interests                                   | 13                       | 17                 | 9           | 43                                    | 33                                    | 42                                    |
+|                                                             | 7,053                    | 8,157              | 6,345       | 23,247                                | 19,896                                | 27,209                                |
+| Paid up share capital (parvalue5-each,fully paid)           | 2,024                    | 2,074              | 2,072       | 2,024                                 | 2,072                                 | 2,073                                 |
+| Other equity **                                             | 93.745                   | 93.745             | 86,045      | 93,745                                | 86,045                                | 93,745                                |
+|                                                             |                          | 17.76              |             |                                       | 47.52                                 |                                       |
+| Earnings perequity share（parvalue5/-each)**                |                          |                    |             |                                       |                                       |                                       |
+| Basic(inpershare)                                           | 16.17                    |                    | 16.43       | 50.64                                 |                                       | 64.50                                 |
+
+a) The audited interim condensed consolidated financial statements for the quarter and nine months ended December 31,2025 have been taken on record by the Board of Directors at its meeting held onJanuary 14,2026.The statutory auditors,Deloitte Haskins&amp;Sells LLP have expressed an unmodified audit opinion.The information presented above is extracted from the audited interim condensed consolidated financial statements.Those interim condensed consolidated financial statements are prepared in accordance with the Indian Accounting Standards(Ind-AS) as prescribed under Section 133 of the Companies Act,2013read with Rule3 of the Companies(Indian Accounting Standards)Rules,2015 and relevant amendment rules thereafter.
 ## b) Buyback of equity shares
-The shareholders approved the proposal of buyback of Equity Sharesrecommended by itsBoard of Directors byway of e-voting throughpostal ballot, theresults of which were declared on November6,2025.The Buyback offer comprised a purchase of 10,00,00,000Equity Shares comprising approximately 2.41%of the total paid-up equity share capital of the Company as of June30,2025（onstandalonebasis）atapriceof1800/-perEquityshare.Thebuybackwasofferedtoalleligibleequityshareholders（includingthosewhobecame equity shareholders as on the Record dateby cancellingAmerican Depository Shares and withdrawing underlying Equity shares)of the Company ason theRecordDate(ieNovember 14,2025) on a proportionatebasisthroughtheTenderofferroute.Thetenderperiod forbuybackcommenced onNovember20,2025andwasopenuntil November26,2025.The Companyconcluded the buybackproceduresonDecember4,2025and100000000equity shareswereboughtbackandextinguished.Thebuybackresultedinacashoutflowof18000crore(excluding transactions costs).The Companyfunded thebuybackfromitsfreereservesincluding securitiespremium as explainedinSection68of theCompaniesAct,2013.In accordance with Section 69of theCompaniesAct,2013,theCompanyhas createdaCapitalRedemptionReserveof50 crore equaltothenominalvalue of the sharesbought backasanappropriation from the general reserve during the quarterended December31,2025.
-## c) lmpact of Labour Codes
-On November 21，2025,the Government of India notified provisions of the Code on Wages，2019,the Industrial Relations Code，2020, the Code on Social Security,2020 and the OccupationalSafety,HealthandWorkingConditionsCode2020,（LabourCodes）whichconsolidatetwenty-nineexistinglabourlawsintoaunifiedframeworkgoverningemployeebenefits duringemploymentandpost-employment.TheLabourCodes,amongstotherthingsintroduceschanges,includinga uniformdefinitionofwagesandenhancedbenefitsrelatingtoleave. TheCompanyhasassessed thefinancialimplicationsof thesechangeswhichhasresultedinincreaseingratuityliabityarisingoutofpastservicecostandincreaseinleaveliabilityby 1,146 crore.Considering the impact arising out of anenactment of the newlegislation is an event of non-recurring nature,the Company has presented this incremental amount as"lmpact of Labour Codes"underExceptional litem"in the Condensed Standalone Statement of Profit and Lossfor the threemonths and ninemonths ended December31,2025.The Company continues to monitor the developments pertaining to Labour Codes and will evaluate impact if any on themeasurement of liability pertaining to employeebenefits.
+The shareholders approved the proposal of buyback of Equity Shares recommended by its Board of Directors by way of e-voting through postal ballot,theresults of which were declared on November62025.TheBuybackoffercomprisedapurchaseof100000o00EquitySharescomprisingapproximately2.41%ofthetotalpaid-upequitysharecapitalof theCompanyasfJune0 2025(on standalone basis) at a price of 1800/-per Equity share.The buyback was offered to all eligible equity shareholders(including those who became equity shareholders as on the Record Tender offerroute.The tender period forbuyback commenced onNovember20,2025andwas openuntil November26,2025.The Company concluded thebuybackprocedures onDecember4, 2025and10,0o,0o,000 equity shareswere boughtback and extinguished.Thebuybackresulted ina cashoutflow of18,000 crore(excluding transactions costs).The Companyfunded thebuyback from its freereservesincluding securities premium as explained inSection68of the CompaniesAct,2013.In accordancewith Section69of the Companies Act,2013,the Companyhas createda Capital RedemptionReserve of 50 crore equal to the nominal value of the shares bought back as anappropriation from the general reserve during thequarterended December31,2025.
+## c) Impact of Labour Codes
+On November 21，2025,the Government of India notified provisions of the Code onWages,2019,the Industrial Relations Code,2020,the Code on Social Security,2020 and the Occupational financialimplications of these changeswhichhasresuited inincreaseingratuity liability arising outof pastservice cost and increase inleave liability by1289 crore.Considering theimpactarising out of an enactment of the new legislation is an event of non-recurring nature,the Group has presented this incremental amount as"lmpact of Labour Codes"under "Exceptional item" in the Condensed Consolidated Statement of Profit and Loss for the quarter and nine months ended December 31,2025.The Group continues to monitor the developments pertaining to Labour Codes and will evaluate impact if any on the measurement of liability pertaining to employee benefits.
 ## d) Update on stock grants
-The Board,onJanuary 14,2026,based on therecommendations of theNomination and RemunerationCommittee,approved the annual time-based stock incentives in the form of Restricted Stock Units(RSUs)to Salil Parekh,CEO&amp;MD having amarket value of 3 crore as onthe date of grant under the 2015Stock Incentive CompensationPlan(2015Plan） in accordance with the terms of his employment agreement.TheRSUswillvest in linewith the employment agreement.TheRSUswillbe granted w.e.f February 1,2026and the numberof RSUswill becalculatedbased on themarket priceat the close of trading dayona dateimmediately preceding the grant date.The exercise price of RSUswillbeequal to the parvalue of the share.
-## 1.InformationondividendsforthequarterandninemonthsendedDecember31,2025
-same waspaid onNovember7,2025.The interim dividend declared in the previous year was21/-perequity share.
-|                                      | Quarter          | Quarter ended     | Quarter ended    | Ninemonths ended   |       | (in)               |
-|--------------------------------------|------------------|-------------------|------------------|--------------------|-------|--------------------|
-| Particulars                          | ended            |                   |                  |                    |       | Yearended March31, |
-|                                      | December31, 2025 | September30, 2025 | December31, 2024 | December31, 2025   | 2024  | 2025               |
-| Dividend per share(parvalue 5/-each) |                  |                   |                  |                    |       |                    |
-| Interimdividend                      |                  | 23.00             |                  | 23.00              | 21.00 | 21.00              |
-| Final dividend                       |                  |                   |                  |                    |       | 22.00              |
-
-## 2.Segment Reporting
-TheCompanypublishesstandalonefinancial statementsalong withtheconsolidatedfinancial statements.InaccordancewithIndAS108,OperatingSegments,theCompanyhasdisclosed thesegmentinformationintheauditedinterim consolidated financial statements.Accordingly.thesegmentinformationisgivenintheauditedconsolidatedfinancialresultsof Infosys Limited and itssubsidiariesfor the quarterand nine months endedDecember31,2025.
-By order of theBoard for InfosysLimited
-SalilParekh
-ChiefExecutiveOficerandManagingDirector
-Bengaluru, India January14,2026
-<!-- image -->
-Certain statements in thisrelease concerning ourfuture growth prospects,our future financial oroperating performance,the McCamish cybersecurity incident,and the United States H-1B visa programareforwardlooking statementsintendedtoqualifyforthe'safeharborunderthePrivateSecuritiesLitigationReformActof1995,whichinvolveanumberofrisksand uncertainties that could cause actual results or outcomes to differ materially from those in suchforward-looking statements.Therisks and uncertainties relating to these statements include, but arenotlimited to,risks and uncertaintiesregarding the executionofourbusiness strategy,increased competitionfortalent,ourabilityto attractandretainpersonnel,increaseinwages, investments toreskillour employees,our ability to effectively implement a hybrid working model,economic uncertainties and geo-political situations,technological disruptions and duration and effect of theSeptember19,2025proclamation signedbythepresident of theUnitedStatesrelated totheH-1Bvisaprogram,and theeffectof currentand anyfuture tariffs. Important factors thatmay cause actualresults or outcomes todiffer from those implied bytheforward-looking statements arediscussed inmore detailin ourUsSecurities andExchange Commissionfilingsincluding ourAnnualReport onForm20-Ffor thefiscalyearended March31，2025.Thesefilings are available atwww.sec.gov.Infosysmay,from time to time,make additional written and oral forward-looking statements,including statements contained in the Company's filings with the SecuritiesandExchange Commission and our reports to shareholders.The Company does not undertake to update any forward-looking statements that may be made from time to time by or on behalf of the Company unless it is required by law.
-<!-- image -->
-<!-- image -->
-IFRS
-111\ Strong Q3 Performance: Sequential Revenue Growth of 0.6% in CC, Large Deal Wins of $4.8 billion Revenue Guidance for FY 26 revised to 3.0%-3.5%
-Bengaluru, India -January  14,  2026: Infosys  (NSE,  BSE,  NYSE:  INFY),  a  global  leader  in  nextgeneration digital services and consulting, delivered $5,099 million in Q3 revenues, year on year growth of 1.7% and sequential growth of 0.6% in constant currency. Reported IFRS operating margin was at 18.4%. Adjusted 1  operating margin increased 0.2% sequentially to 21.2%. Free cash flow generation was robust at $915 million. Adjusted free cash flow generation was $965 million, 112.8% of adjusted net profit. TCV of large deal wins was $4.8 billion, with net new of 57%. Headcount increased by 5,043.
-Revenues for YTD Dec'25 grew at 2.8% year on year in constant currency. Reported IFRS operating margin was at 20.0%. Adjusted operating margin was at 21.0%.
-'Infosys delivered a strong Q3 performance demonstrating how our differentiated value propositions in enterprise AI, through Infosys Topaz, are consistently driving higher market share. Clients increasingly view Infosys as their AI partner with demonstrated expertise, innovation capabilities and strong delivery credentials. This has helped them unlock business potential and enhanced value realization', said Salil Parekh, CEO and MD . 'Central to this journey is our commitment to reskill, transform and empowe r our dedicated human resource pool to drive success in an AI augmented world' he added .
-<!-- image -->
-## Guidance for FY26:
-- Revenue growth of 3.0%-3.5% in constant currency
-- Operating margin of 20%-22% 2
-
-## Key highlights:
-## For the quarter ended December 31, 2025
-- Revenues in CC terms grew by 1.7% YoY and 0.6% QoQ
-- Reported revenues at ₹45,479 crore, growth of 8.9% YoY
-- Reported  IFRS  operating  margin  at  18.4%; Adjusted operating margin at 21.2%
-- Reported IFRS Basic EPS at ₹ 16.17; adjusted Basic EPS at ₹18.53
-- ·
-- FCF at ₹8,176 crore; adjusted FCF at ₹8,626 crore; Adjusted FCF conversion at 113.1% of adjusted net profit
-
-## For nine months ended December 31, 2025
-- Revenues in CC terms grew by 2.8% YoY
-- Reported revenues at ₹132,248 crore, growth of 8.3% YoY
-- Reported  IFRS  operating  margin  at  20.0%; Adjusted operating margin at 21.0%
-- Reported IFRS Basic EPS at ₹50.64; adjusted Basic EPS at ₹52.99
-- FCF  at ₹25,386 crore; adjusted FCF  at ₹2 5,836 crore; Adjusted FCF conversion at 117.8% of adjusted net profit
-
-1. ' Adjusted ' financial measures presented in this release are non-IFRS financial measures that exclude the impact of the provisions arising from the notifications by Government of India on Labour Codes for quarter and nine months ended December 31, 2025 and are further described in this release.
-
-2. Operating margin guidance for FY26 excludes the adjustment with respect to Labour Codes of ` 1,289 crore in the current quarter.
-
-Press Release
-18.4% Reported 21.2% Adjusted Operating Margin
-6.6% Reported 11.5% Adjusted YTD EPS Increase (₹ terms)
-$4.8 Bn Large Deal TCV (57% Net New)
-<!-- image -->
-e
-<!-- image -->
-' Our performance was broad-based in Q3 with 0.6% sequential revenue growth, 0.2% adjusted operating margin expansion, stellar large deal wins at $4.8 billion and robust adjusted free cash generation at $965 million in a seasonally weak quarter' said Jayesh Sanghrajka, CFO . ' In line with our capital allocation policy, we successfully completed the largest ever buyback of ` 18,000 crore and paid out interim dividend to shareholders ', he added.
-## Client Wins &amp; Testimonials
-- Infosys extended its strategic collaboration with Metro Bank to transform the bank's finance operations with a suite of Workday solutions. Marc Page, Chief Financial Officer, Metro Bank, said, 'We're continuing to transform our platforms through our partnership with Infosys, helping our digital advancement. This collaboration with Infosys and Workday will help to unify our core finance operations, providing colleagues with self-service tools and simplifying daily operations. This supports our long-term grow th strategy and will help us to scale and evolve in the future.'
-- Infosys unveiled its AI-first GCC model to accelerate the setup and transformation of global capability centers (GCCs) into AI-powered hubs for innovation and growth. Stefanie Neumann, CEO, Lufthansa Systems, said, 'Our collaboration with Infosys to establish a dedicated Global Capability Center has been a pivotal step in digital transformation journey of Lufthansa Systems. By leveraging their strong GCC and AI capabilities, we are building a future-ready innovation hub that enables our customers to enhance aviation safety, drive operational efficiency, and improve  customer  experience.  This  partnership  empowers  us  to  accelerate  our  vision  for sustainable and intelligent aviation.'
-- Infosys announced its collaboration with NHS Business Services Authority (NHSBSA) to deliver a new workforce management solution for NHS in England and Wales. Michael Brodie, Chief Executive, NHSBSA, said, 'Delivering the Future NHS Workforce Solution is a critical step in supporting the ambitions of the 10-Year Health Plan. The solution will go far beyond simply replacing ESR - it will be a strategic enabler for building a workforce that is fit for the future. By working with Infosys, we're creating a mode rn, data-driven solution that will help the NHS better attract, retain and support its people.'
-- Infosys collaborated with Telenor Shared Services to modernize its HR operations with a new Oracle  Fusion  Cloud  Human  Capital  Management  (HCM) solution. Morten Dean Dunham, CEO, Telenor Shared Services, said, 'Modernizing our HR operations is crucial to improve efficiencies and employee experience. By collaborating with Infosys to implement Oracle Cloud HCM, we are confident we will get a solution that meets our future needs. This change will further streamline our processes, provide a unified view of critical data, and ultimately enhance the experience of our employees.'
-- Infosys announced the launch of Infosys Topaz Fabric ™ , a purpose-built agentic services suite -a multi-layer AI fabric that unifies infrastructure, models, data, applications, and workflows into a  composable,  agent-ready  ecosystem. Laxmi  Srinivas  Samayamantri,  Vice  President, Global Engineering, Data &amp; Architecture, Nu Skin, said, 'We are collaborating with Infosys to  enrich  beauty  and  wellness  commerce  IT  operations  through  the  power  of  Agentic  AI. Together, we are expanding this further with Infosys Topaz Fabric by enabling Agent Assist features, which we anticipate will increase automation for application and infrastructure support, enhance resilience, and elevate the user experience.'
-- Infosys announced the launch of the Infosys Customer Experience Suite for Salesforce to help enterprises  navigate  their  agentic  transformation  and  scale  their  digital  workforce. Marko Koistila, EVP Commercial Operations, VTT , said, 'Our sales team previously spent too much
-
-Press Release time on low-value tasks like lead grooming instead of fostering client relationships. Agentforce automated the lead process, including contextual emails and meeting setups, allowing our team to focus on collaboration and delivering superior customer experiences. Having Infosys, along with Fluido as our expert partners, VTT became one of the first organizations outside Salesforce to implement a live SDR Agentforce agent. Building on the success of this initial implementation, we are collaborating together to develop two additional Agentforce agents for other areas of organizational support.'
-<!-- image -->
-- Infosys collaborated with Barry Callebaut to drive a multi-year, AI-powered digital transformation aimed  at  creating  an  agile,  tech-enabled  enterprise  that  enhances  customer  experiences, operational  efficiency,  and  innovation. Amr  Arafa,  Chief  Digital  Officer,  Barry  Callebaut Group, said, "Our collaboration with Infosys will play a key role in advancing Barry Callebaut's Business Led digital transformation  (BC Next Level) journey. As part of our BC Next Level strategic investment program, we are focused on building a tech-enabled, agile enterprise that delivers  superior  customer  experiences  and  operational  excellence.  Infosys,  with  its  AI-first approach and suite of generative AI platforms, will empower us to unlock efficiencies at scale, build connected eco systems, and accelerate innovation. Infosys' deep domain expertise and commitment  to  co-innovation  make  them  a  trusted  partner  in  shaping  our  transformation roadmap."
-- Infosys collaborated with Fresenius on a project called ELEVATE, a business transformation initiative aimed at unifying and modernizing the company's global business processes and IT systems  through  SAP  S/4HANA. Florent  Durup,  Business  Transformation  Lead  for  the ELEVATE Program, Fresenius , said, 'ELEVATE is the most critical business transformation program for Fresenius and an important milestone of our journey. We have selected Infosys as the  SI  partner  after  a  rigorous  and  exhaustive  process  and  are  now  moving  forward  with confidence to deliver the ambitious goals of the transformation program together. Through this collaboration, Fresenius and Infosys will work closely to deliver a robust, future-ready platform that enhances agility, standardizes processes, and enables data-driven decision-making across the organization.'
-
-## Recognitions &amp; Awards
-## · Brand &amp; Corporate
-- Recognized  as  a  Silver  Employer  in  the  India  Workplace  Equality  Index  (IWEI)  2025  for championing inclusion and being a strong ally of the LGBTQIA+ community
-- Recognized for its people-first approach at the SHRM India HR Excellence Awards 2025
-- Recognized among the Most Inclusive  Organizations  for  Women  in  Tech  in  the  IT  Service category at the Wequity Award
-- Infosys China recognized as one of the Best Workplaces ™ in  Greater China 2025 by Great Place To Work ™
-
-## · AI and Cloud Services
-- Recognized as a leader in The Forrester Wave ™ : AI Technical Services, Q4 2025
-- Positioned as a leader in Everest Group: Data and Analytics (D&amp;A) Services PEAK Matrix® Assessment 2025
-- Rated as a leader in NelsonHall: GenAI and Process Automation in Banking 2025
-- Recognized as a leader in IDC MarketScape: Asia/Pacific Professional and Managed Services for Microsoft Azure 2025 Vendor Assessment
-
-Press Release
-<!-- image -->
-## · Key Digital Services
-- Positioned as a leader in Gartner Magic Quadrant for Custom Software Development Services
-- Recognized as a leader in IDC MarketScape: Asia/Pacific Application Modernization Services to AWS 2025 Vendor Assessment
-- Recognized as a leader in IDC MarketScape: European Human First Digital Workplace Services 2025 Vendor Assessment
-- Positioned as a leader in Everest Group: Adobe Services PEAK Matrix® Assessment 2025
-- Positioned  as  a  leader  in  Everest  Group:  IT  Service  Management  (ITSM)  and  Service Integration and Management (SIAM) Services PEAK Matrix® Assessment 2025
-- Positioned as a leader in Everest Group: Enterprise Quality Engineering (QE) Services PEAK Matrix Assessment 2025
-- Positioned as a leader in Everest Group: Global Capability Center (GCC) Setup Capabilities in India -PEAK Matrix® Assessment 2025
-- Positioned  as  a  leader  in  Everest  Group:  ServiceNow  Services  PEAK  Matrix®  Assessment 2025
-- Recognized as a leader in HFS Horizons: Legacy Application Modernization Services, 2025
-- Recognized as a leader in HFS Horizons: Enterprise Blockchain Services, 2025
-- Rated as a leader in NelsonHall: Advanced Digital Workplace Services 2025
-- Rated as a leader in NelsonHall: Quality Engineering 2025
-- Infosys BPM received the 2025 ISG Star of Excellence ™ award for BPO Services Excellence
-
-## · Industry &amp; Solutions
-- Recognized as a leader in IDC MarketScape: Worldwide Supply Chain Blue Yonder Ecosystem Services 2025 -2026 Vendor Assessment
-- Recognized  as  a  leader  in  IDC  MarketScape:  Worldwide  Supply  Chain  Overall  Ecosystem Services 2025 -2026 Vendor Assessment
-- Recognized as a leader in IDC MarketScape: Worldwide Manufacturing Intelligence Transformation Strategic Consulting 2025 Vendor Assessment
-- Recognized  as  a  leader  in  IDC  MarketScape:  Worldwide  Supply  Chain  SAP  Ecosystem Services 2025-2026 Vendor Assessment
-- Recognized  as  a  leader  in  IDC  MarketScape:  Worldwide  Supply  Chain  Oracle  Ecosystem Services 2025-2026 Vendor Assessment
-- Positioned as a leader in Everest Group: Property and Casualty (P&amp;C) Insurance IT Services PEAK Matrix® Assessment 2025
-- Positioned as a leader in Everest Group: Payments IT Services PEAK Matrix® Assessment 2025
-- Positioned as a leader in Everest Group: Banking IT Services PEAK Matrix® Assessment 2025
-- Recognized as a leader in HFS Semiconductor Horizons: The Best of Service Providers across the Value Chain, 2025
-- Recognized as a leader in HFS Horizons: Life Sciences Service Providers 2025
-- Recognized as a leader in HFS Horizons: Intelligent Supply Chain Services, 2025
-- Recognized as a leader in HFS Horizons: Travel and Hospitality Service Provider Ecosystem, 2025
-- Infosys Finacle positioned as a leader in Everest Group's Banking Customer Experience Orchestration Products (CXOP) PEAK Matrix® Assessment 2025.
-
-Press Release
-<!-- image -->
-## Press Release
-- Infosys Finacle along with its customers received four awards at the Global Banking and Finance ®️ Awards 2025 -Innovation Awards for Excellence in Margin Finance Innovation India with HDFC Bank; Most Innovative Payments Channel Modernization in Colombia with Bancolombia; Technology Award for Best Core Banking Transformation with Real-Time Eventing with Emirates NBD Bank; and Award for Best Customer Journey Initiative in Australia with Australian Military Bank
-- Infosys Finacle recognized as The World's Best Software Provider for Virtual Accounts 2025 and The World's Best Software Provider for Liquidity Management 2025 by Euromoney Transaction Banking Awards
-
-Read more about our Awards &amp; Recognitions here.
-Press Release
-<!-- image -->
-## About Infosys
-Infosys is a global leader in next-generation digital services and consulting.  Over  330,000  of  our  people  work  to  amplify  human potential and create the next opportunity for people, businesses and communities. We enable clients in 63 countries to navigate their digital transformation. With over four decades of experience in managing the systems and workings of global enterprises, we expertly steer clients, as they navigate their digital transformation powered by cloud and AI. We enable them with an AI-first core, empower  the  business  with  agile  digital  at  scale  and  drive continuous  improvement  with  always-on  learning  through  the transfer of digital skills, expertise, and ideas from our innovation ecosystem. We are deeply committed to being a well-governed, environmentally  sustainable  organization  where  diverse  talent thrives in an inclusive workplace.
-Visit www.infosys.com to see how Infosys (NSE, BSE, NYSE: INFY) can help your enterprise navigate your next.
-## Safe Harbor
-Certain  statements  in  this  release  concerning  our  future  growth  prospects,  our  future  financial  or  operating performance, the McCamish cybersecurity incident, and the United States H-1B visa program are forward looking statements intended to qualify for the 'safe harbor' under the Private Securities Litigation Reform Act of 1995, which involve a number of risks and uncertainties that could cause actual results or outcomes to differ materially from those in such forward-looking statements. The risks and uncertainties relating to these statements include, but are not limited to, risks and uncertainties regarding the execution of our business strategy, increased competition for talent, our ability to attract and retain personnel, increase in wages, investments to reskill our employees, our ability to effectively  implement  a  hybrid  working  model,  economic  uncertainties  and  geo-political  situations,  technological disruptions  and  innovations  such  as  Generative  AI,  the  complex  and  evolving  regulatory  landscape  including immigration  regulation  changes,  our  ESG  vision,  our  capital  allocation  policy  and  expectations  concerning  our market position, future operations, margins, profitability, liquidity, capital resources, our corporate actions including acquisitions, the outcome of pending litigation, the amount of any additional costs resulting directly or indirectly from the McCamish cybersecurity incident, the outcome of the US government investigation, the timing, implementation, duration and effect of the September 19, 2025 proclamation signed by the president of the United States related to the H-1B visa program, and the effect of current and any future tariffs. Important factors that may cause actual results or outcomes to differ from those implied by the forward-looking statements are discussed in more detail in our US Securities and Exchange Commission filings including our Annual Report on Form 20-F for the fiscal year ended March 31, 2025. These filings are available at www.sec.gov. Infosys may, from time to time, make additional written and oral forward-looking statements, including statements contained in the Company's filings with the Securities and Exchange Commission and our reports to shareholders. The Company does not undertake to update any forwardlooking statements that may be made from time to time by or on behalf of the Company unless it is required by law.
-## Contact
-Investor Relations
-Sandeep Mahindroo +91 80 3980 1018
-Sandeep\_Mahindroo@infosys.com
-Media Relations
-Rishi Basu +91 80 4156 3998
-Rajarshi.Basu@infosys.com
-Chad Darwin +1 323 422 3815
-Chad.darwin@infosys.com
-Press Release
-## IFRS -INR Press Release
-## DIGITALNAVIGATIONFRAMEWORK
-<!-- image -->
-<!-- image -->
-Infosys Limited and Subsidiaries Extracted from the Condensed Consolidated Balance Sheet under IFRS as at:
-## IFRS -INR Press Release
-(in ₹ crore)
-| Particulars                                                | December 31, 2025   | March 31, 2025   |
-|------------------------------------------------------------|---------------------|------------------|
-| ASSETS                                                     |                     |                  |
-| Current assets                                             |                     |                  |
-| Cash and cash equivalents                                  | 19,915              | 24,455           |
-| Current investments                                        | 6,911               | 12,482           |
-| Trade receivables                                          | 36,131              | 31,158           |
-| Unbilled revenue                                           | 13,276              | 12,851           |
-| Other current assets                                       | 14,225              | 16,153           |
-| Total current assets                                       | 90,458              | 97,099           |
-| Non-current assets                                         |                     |                  |
-| Property, plant and equipment and Right-of-use assets      | 19,125              | 19,111           |
-| Goodwill and other Intangible assets                       | 14,707              | 12,872           |
-| Non-current investments                                    | 8,899               | 11,059           |
-| Unbilled revenue                                           | 2,017               | 2,232            |
-| Other non-current assets                                   | 8,178               | 6,530            |
-| Total non-current assets                                   | 52,926              | 51,804           |
-| Total assets                                               | 143,384             | 148,903          |
-| LIABILITIES AND EQUITY                                     |                     |                  |
-| Current liabilities                                        |                     |                  |
-| Trade payables                                             | 4,826               | 4,164            |
-| Unearned revenue                                           | 11,103              | 8,492            |
-| Employee benefit obligations                               | 3,455               | 2,908            |
-| Other current liabilities and provisions                   | 30,550              | 27,286           |
-| Total current liabilities                                  | 49,934              | 42,850           |
-| Non-current liabilities                                    |                     |                  |
-| Lease liabilities                                          | 5,811               | 5,772            |
-| Other non-current liabilities                              | 4,186               | 4,078            |
-| Total non-current liabilities                              | 9,997               | 9,850            |
-| Total liabilities                                          | 59,931              | 52,700           |
-| Total equity attributable to equity holders of the company | 83,026              | 95,818           |
-| Non-controlling interests                                  | 427                 | 385              |
-| Total equity                                               | 83,453              | 96,203           |
-| Total liabilities and equity                               | 143,384             | 148,903          |
-
-Extracted from the Condensed Consolidated statement of Comprehensive Income under IFRS for:
-(in ₹ crore except per equity share data)
-| Particulars                                  | 3 months ended December 31, 2025   | 3 months ended December 31, 2024   | 9 months ended December 31, 2025   | 9 months ended December 31, 2024   |
-|----------------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|
-| Revenues                                     | 45,479                             | 41,764                             | 132,248                            | 122,064                            |
-| Cost of sales                                | 32,652                             | 29,120                             | 92,676                             | 84,771                             |
-| Gross profit                                 | 12,827                             | 12,644                             | 39,572                             | 37,293                             |
-| Operating expenses:                          |                                    |                                    |                                    |                                    |
-| Selling and marketing expenses               | 2,292                              | 1,839                              | 6,724                              | 5,631                              |
-| Administrative expenses                      | 2,180                              | 1,893                              | 6,337                              | 5,813                              |
-| Total operating expenses                     | 4,472                              | 3,732                              | 13,061                             | 11,444                             |
-| Operating profit                             | 8,355                              | 8,912                              | 26,511                             | 25,849                             |
-| Other income, net of finance cost            | 874                                | 758                                | 2,688                              | 2,096                              |
-| Profit before income taxes                   | 9,229                              | 9,670                              | 29,199                             | 27,945                             |
-| Income tax expense                           | 2,563                              | 2,848                              | 8,234                              | 8,233                              |
-| Net profit (before non-controlling interest) | 6,666                              | 6,822                              | 20,965                             | 19,712                             |
-| Net profit (after non-controlling interest)  | 6,654                              | 6,806                              | 20,939                             | 19,680                             |
-| Basic EPS ( ₹ )                              | 16.17                              | 16.43                              | 50.64                              | 47.52                              |
-| Diluted EPS ( ₹ )                            | 16.14                              | 16.39                              | 50.55                              | 47.40                              |
-
-<!-- image -->
-
-## NOTES:
-- a) The above information is extracted from the audited condensed consolidated Balance sheet and Statement of Comprehensive Income for the quarter and nine months ended December 31, 2025, which have been taken on record at the Board meeting held on January 14, 2026.
-- b) As the quarter and nine months ended figures are taken from the source and rounded to the nearest digits, the quarter figures in this statement added up to the figures reported for the previous quarters might not always add up to the nine months ended figures reported in this statement.
-
-Reconciliation of Reported IFRS financial measures to Adjusted non-IFRS financial measures for 3 months ended (in ₹ crore except per equity share data)
-|                                             | December 31, 2025   | December 31, 2025             | December 31, 2025   | December 31, 2024   |
-|---------------------------------------------|---------------------|-------------------------------|---------------------|---------------------|
-|                                             | Reported IFRS       | Adjustment for Labour Codes 1 | Adjusted non- IFRS  | Reported IFRS       |
-| Operating profit                            | 8,355               | 1,289                         | 9,644               | 8,912               |
-| Operating margin (%)                        | 18.4                | 2.8                           | 21.2                | 21.3                |
-| Profit before income taxes                  | 9,229               | 1,289                         | 10,518              | 9,670               |
-| Income tax expense                          | 2,563               | 318                           | 2,881               | 2,848               |
-| Net profit (after non-controlling interest) | 6,654               | 971                           | 7,625               | 6,806               |
-| Basic EPS ( ₹ )                             | 16.17               | 2.36                          | 18.53               | 16.43               |
-
-## Reconciliation of additional financial measures to Adjusted financial measures for 3 months ended
-(in
-₹
-crore)
-|                         | December 31, 2025   | December 31, 2025           | December 31, 2025   | December 31, 2024   |
-|-------------------------|---------------------|-----------------------------|---------------------|---------------------|
-|                         | Reported            | Adjustment for Labour Codes | Adjusted            | Reported            |
-| Operating cash flow     | 8,595               | 450                         | 9,045               | 11,193              |
-| Capital expenditure     | 419                 | -                           | 419                 | 546                 |
-| FCF - non-IFRS          | 8,176               | 450                         | 8,626               | 10,647              |
-| FCF as a %of Net profit | 122.7               |                             | 113.1               | 156.1               |
-
-Reconciliation of Reported IFRS financial measures to Adjusted non-IFRS financial measures for 9 months ended (in ₹ crore except per equity share data)
-|                                             | December 31, 2025   | December 31, 2025             | December 31, 2025   | December 31, 2024   |
-|---------------------------------------------|---------------------|-------------------------------|---------------------|---------------------|
-|                                             | Reported IFRS       | Adjustment for Labour Codes 1 | Adjusted non- IFRS  | Reported IFRS       |
-| Operating profit                            | 26,511              | 1,289                         | 27,800              | 25,849              |
-| Operating margin (%)                        | 20.0                | 1.0                           | 21.0                | 21.2                |
-| Profit before income taxes                  | 29,199              | 1,289                         | 30,488              | 27,945              |
-| Income tax expense                          | 8,234               | 318                           | 8,552               | 8,233               |
-| Net profit (after non-controlling interest) | 20,939              | 971                           | 21,910              | 19,680              |
-| Basic EPS ( ₹ )                             | 50.64               | 2.35                          | 52.99               | 47.52               |
-
-Reconciliation of additional financial measures to Adjusted financial measures for 9 months ended
-(in ₹ crore)
-|                         | December 31, 2025   | December 31, 2025           | December 31, 2025   | December 31, 2024   |
-|-------------------------|---------------------|-----------------------------|---------------------|---------------------|
-|                         | Reported            | Adjustment for Labour Codes | Adjusted            | Reported            |
-| Operating cash flow     | 27,157              | 450                         | 27,607              | 28,326              |
-| Capital expenditure     | 1,771               | -                           | 1,771               | 1,514               |
-| FCF - non-IFRS          | 25,386              | 450                         | 25,836              | 26,812              |
-| FCF as a %of Net profit | 121.1               |                             | 117.8               | 136.0               |
-
-<!-- image -->
-## NOTES:
-1. On November 21, 2025 the Government of India notified provisions of The Labour Codes. These Labour Codes consolidate twenty-nine existing labour laws into a unified framework governing employee benefits during employment and post-employment and amongst other things introduce changes, including a uniform definition of wages and enhanced benefits relating to leave. The adjustments for Labour Codes represent an increase in gratuity liability arising out of past service cost and increase in leave liability together by ₹ 1,289 crore which is recognized in the Consolidated Statement of Comprehensive Income.
-2. Revenue growth in reported currency includes the impact of currency fluctuations. Additionally, we calculate constant  currency  (CC)  growth  by  comparing  current  period  revenues  in  respective  local  currencies converted to US$ using prior period exchange rates and comparing the same to our prior period reported revenues.
-3. A Fact Sheet providing the operating metrics of the Company can be downloaded from www.infosys.com.
-
-<!-- image -->
-s31\ Strong Q3 Performance: Sequential Revenue Growth of 0.6% in CC, Large Deal Wins of $4.8 billion Revenue Guidance for FY 26 revised to 3.0%-3.5%
-Bengaluru, India -January  14,  2026: Infosys  (NSE,  BSE,  NYSE:  INFY),  a  global  leader  in  nextgeneration digital services and consulting, delivered $5,099 million in Q3 revenues, year on year growth of 1.7% and sequential growth of 0.6% in constant currency. Reported IFRS operating margin was at 18.4%. Adjusted 1  operating margin increased 0.2% sequentially to 21.2%. Free cash flow generation was robust at $915 million. Adjusted free cash flow generation was $965 million, 112.8% of adjusted net profit. TCV of large deal wins was $4.8 billion, with net new of 57%. Headcount increased by 5,043.
-Revenues for YTD Dec'25 grew at 2.8% year on year in constant currency. Reported IFRS operating margin was at 20.0%. Adjusted operating margin was at 21.0%.
-'Infosys delivered a strong Q3 performance demonstrating how our differentiated value propositions in enterprise AI, through Infosys Topaz, are consistently driving higher market share. Clients increasingly view Infosys as their AI partner with demonstrated expertise, innovation capabilities and strong delivery credentials. This has helped them unlock business potential and enhanced value realization', said Salil Parekh, CEO and MD . 'Central to this journey is our commitment to reskill, transform and empowe r our dedicated human resource pool to drive success in an AI augmented world' he added .
-<!-- image -->
-## Guidance for FY26:
-- Revenue growth of 3.0%-3.5% in constant currency
-- Operating margin of 20%-22% 2
-
-## Key highlights:
-## For the quarter ended December 31, 2025
-- Revenues in CC terms grew by 1.7% YoY and 0.6% QoQ
-- Reported  IFRS  revenues  at  $5,099  million, growth of 3.2% YoY
-- Reported  IFRS  operating  margin  at  18.4%; Adjusted operating margin at 21.2%
-- Reported IFRS Basic EPS at $0.18; adjusted Basic EPS at $0.21
-- FCF  at  $915  million;  adjusted  FCF  at  $965
-- million; Adjusted FCF conversion at 112.8% of adjusted net profit
-
-## For nine months ended December 31, 2025
-- Revenues in CC terms grew by 2.8% YoY
-- Reported  IFRS  revenues  at  $15,117  million, growth of 3.9% YoY
-- Reported  IFRS  operating  margin  at  20.0%; Adjusted operating margin at 21.0%
-- Reported IFRS Basic EPS at $0.58; adjusted Basic EPS at $0.60
-- FCF at $2,900 million; adjusted FCF at $2,950 million;
-
-Adjusted FCF conversion at 117.8% of adjusted net profit
-1. ' Adjusted ' financial measures presented in this release are non-IFRS financial measures that exclude the impact of the provisions arising from the notifications by Government of India on Labour Codes for quarter and nine months ended December 31, 2025 and are further described in this release.
-
-2. Operating margin guidance for FY26 excludes the adjustment with respect to Labour Codes of $143 million in the current quarter.
-
-18.4% Reported 21.2% Adjusted Operating Margin
-6.6% Reported 11.5% Adjusted YTD EPS Increase (₹ terms)
-$4.8 Bn Large Deal TCV (57% Net New)
-<!-- image -->
-e
-<!-- image -->
-' Our performance was broad-based in Q3 with 0.6% sequential revenue growth, 0.2% adjusted operating margin expansion, stellar large deal wins at $4.8 billion and robust adjusted free cash generation at $965 million in a seasonally weak quarter' said Jayesh Sanghrajka, CFO . ' In line with our capital allocation policy, we successfully completed the largest ever buyback of ` 18,000 crore and paid out interim dividend to shareholders ', he added.
-
-## Client Wins &amp; Testimonials
-- Infosys extended its strategic collaboration with Metro Bank to transform the bank's finance operations with a suite of Workday solutions. Marc Page, Chief Financial Officer, Metro Bank, said, 'We're continuing to transform our platforms through our partnership with Infosys, helping our digital advancement. This collaboration with Infosys and Workday will help to unify our core finance operations, providing colleagues with self-service tools and simplifying daily operations. This supports our long-term grow th strategy and will help us to scale and evolve in the future.'
-- Infosys unveiled its AI-first GCC model to accelerate the setup and transformation of global capability centers (GCCs) into AI-powered hubs for innovation and growth. Stefanie Neumann, CEO, Lufthansa Systems, said, 'Our collaboration with Infosys to establish a dedicated Global Capability Center has been a pivotal step in digital transformation journey of Lufthansa Systems. By leveraging their strong GCC and AI capabilities, we are building a future-ready innovation hub that enables our customers to enhance aviation safety, drive operational efficiency, and improve  customer  experience.  This  partnership  empowers  us  to  accelerate  our  vision  for sustainable and intelligent aviation.'
-- Infosys announced its collaboration with NHS Business Services Authority (NHSBSA) to deliver a new workforce management solution for NHS in England and Wales. Michael Brodie, Chief Executive, NHSBSA, said, 'Delivering the Future NHS Workforce Solution is a critical step in supporting the ambitions of the 10-Year Health Plan. The solution will go far beyond simply replacing ESR - it will be a strategic enabler for building a workforce that is fit for the future. By working with Infosys, we're creating a mode rn, data-driven solution that will help the NHS better attract, retain and support its people.'
-- Infosys collaborated with Telenor Shared Services to modernize its HR operations with a new Oracle  Fusion  Cloud  Human  Capital  Management  (HCM) solution. Morten Dean Dunham, CEO, Telenor Shared Services, said, 'Modernizing our HR operations is crucial to improve efficiencies and employee experience. By collaborating with Infosys to implement Oracle Cloud HCM, we are confident we will get a solution that meets our future needs. This change will further streamline our processes, provide a unified view of critical data, and ultimately enhance the experience of our employees.'
-- Infosys announced the launch of Infosys Topaz Fabric ™ , a purpose-built agentic services suite -a multi-layer AI fabric that unifies infrastructure, models, data, applications, and workflows into a  composable,  agent-ready  ecosystem. Laxmi  Srinivas  Samayamantri,  Vice  President, Global Engineering, Data &amp; Architecture, Nu Skin, said, 'We are collaborating with Infosys to  enrich  beauty  and  wellness  commerce  IT  operations  through  the  power  of  Agentic  AI. Together, we are expanding this further with Infosys Topaz Fabric by enabling Agent Assist features, which we anticipate will increase automation for application and infrastructure support, enhance resilience, and elevate the user experience.'
-- Infosys announced the launch of the Infosys Customer Experience Suite for Salesforce to help enterprises  navigate  their  agentic  transformation  and  scale  their  digital  workforce. Marko Koistila, EVP Commercial Operations, VTT , said, 'Our sales team previously spent too much
-
-<!-- image -->
-time on low-value tasks like lead grooming instead of fostering client relationships. Agentforce automated the lead process, including contextual emails and meeting setups, allowing our team to focus on collaboration and delivering superior customer experiences. Having Infosys, along with Fluido as our expert partners, VTT became one of the first organizations outside Salesforce to implement a live SDR Agentforce agent. Building on the success of this initial implementation, we are collaborating together to develop two additional Agentforce agents for other areas of organizational support.'
-- Infosys collaborated with Barry Callebaut to drive a multi-year, AI-powered digital transformation aimed  at  creating  an  agile,  tech-enabled  enterprise  that  enhances  customer  experiences, operational  efficiency,  and  innovation. Amr  Arafa,  Chief  Digital  Officer,  Barry  Callebaut Group, said, "Our collaboration with Infosys will play a key role in advancing Barry Callebaut's Business Led digital transformation  (BC Next Level) journey. As part of our BC Next Level strategic investment program, we are focused on building a tech-enabled, agile enterprise that delivers  superior  customer  experiences  and  operational  excellence.  Infosys,  with  its  AI-first approach and suite of generative AI platforms, will empower us to unlock efficiencies at scale, build connected eco systems, and accelerate innovation. Infosys' deep domain expertise and commitment  to  co-innovation  make  them  a  trusted  partner  in  shaping  our  transformation roadmap."
-- Infosys collaborated with Fresenius on a project called ELEVATE, a business transformation initiative aimed at unifying and modernizing the company's global business processes and IT systems  through  SAP  S/4HANA. Florent  Durup,  Business  Transformation  Lead  for  the ELEVATE Program, Fresenius , said, 'ELEVATE is the most critical business transformation program for Fresenius and an important milestone of our journey. We have selected Infosys as the  SI  partner  after  a  rigorous  and  exhaustive  process  and  are  now  moving  forward  with confidence to deliver the ambitious goals of the transformation program together. Through this collaboration, Fresenius and Infosys will work closely to deliver a robust, future-ready platform that enhances agility, standardizes processes, and enables data-driven decision-making across the organization.'
-
-## Recognitions &amp; Awards
-## · Brand &amp; Corporate
-- Recognized  as  a  Silver  Employer  in  the  India  Workplace  Equality  Index  (IWEI)  2025  for championing inclusion and being a strong ally of the LGBTQIA+ community
-- Recognized for its people-first approach at the SHRM India HR Excellence Awards 2025
-- Recognized among the Most Inclusive  Organizations  for  Women  in  Tech  in  the  IT  Service category at the Wequity Award
-- Infosys China recognized as one of the Best Workplaces ™ in  Greater China 2025 by Great Place To Work ™
-
-## · AI and Cloud Services
-- Recognized as a leader in The Forrester Wave ™ : AI Technical Services, Q4 2025
-- Positioned as a leader in Everest Group: Data and Analytics (D&amp;A) Services PEAK Matrix® Assessment 2025
-- Rated as a leader in NelsonHall: GenAI and Process Automation in Banking 2025
-- Recognized as a leader in IDC MarketScape: Asia/Pacific Professional and Managed Services for Microsoft Azure 2025 Vendor Assessment
-
-<!-- image -->
-## · Key Digital Services
-- Positioned as a leader in Gartner Magic Quadrant for Custom Software Development Services
-- Recognized as a leader in IDC MarketScape: Asia/Pacific Application Modernization Services to AWS 2025 Vendor Assessment
-- Recognized as a leader in IDC MarketScape: European Human First Digital Workplace Services 2025 Vendor Assessment
-- Positioned as a leader in Everest Group: Adobe Services PEAK Matrix® Assessment 2025
-- Positioned  as  a  leader  in  Everest  Group:  IT  Service  Management  (ITSM)  and  Service Integration and Management (SIAM) Services PEAK Matrix® Assessment 2025
-- Positioned as a leader in Everest Group: Enterprise Quality Engineering (QE) Services PEAK Matrix Assessment 2025
-- Positioned as a leader in Everest Group: Global Capability Center (GCC) Setup Capabilities in India -PEAK Matrix® Assessment 2025
-- Positioned  as  a  leader  in  Everest  Group:  ServiceNow  Services  PEAK  Matrix®  Assessment 2025
-- Recognized as a leader in HFS Horizons: Legacy Application Modernization Services, 2025
-- Recognized as a leader in HFS Horizons: Enterprise Blockchain Services, 2025
-- Rated as a leader in NelsonHall: Advanced Digital Workplace Services 2025
-- Rated as a leader in NelsonHall: Quality Engineering 2025
-- Infosys BPM received the 2025 ISG Star of Excellence ™ award for BPO Services Excellence
-
-## · Industry &amp; Solutions
-- Recognized as a leader in IDC MarketScape: Worldwide Supply Chain Blue Yonder Ecosystem Services 2025 -2026 Vendor Assessment
-- Recognized  as  a  leader  in  IDC  MarketScape:  Worldwide  Supply  Chain  Overall  Ecosystem Services 2025 -2026 Vendor Assessment
-- Recognized as a leader in IDC MarketScape: Worldwide Manufacturing Intelligence Transformation Strategic Consulting 2025 Vendor Assessment
-- Recognized  as  a  leader  in  IDC  MarketScape:  Worldwide  Supply  Chain  SAP  Ecosystem Services 2025-2026 Vendor Assessment
-- Recognized  as  a  leader  in  IDC  MarketScape:  Worldwide  Supply  Chain  Oracle  Ecosystem Services 2025-2026 Vendor Assessment
-- Positioned as a leader in Everest Group: Property and Casualty (P&amp;C) Insurance IT Services PEAK Matrix® Assessment 2025
-- Positioned as a leader in Everest Group: Payments IT Services PEAK Matrix® Assessment 2025
-- Positioned as a leader in Everest Group: Banking IT Services PEAK Matrix® Assessment 2025
-- Recognized as a leader in HFS Semiconductor Horizons: The Best of Service Providers across the Value Chain, 2025
-- Recognized as a leader in HFS Horizons: Life Sciences Service Providers 2025
-- Recognized as a leader in HFS Horizons: Intelligent Supply Chain Services, 2025
-- Recognized as a leader in HFS Horizons: Travel and Hospitality Service Provider Ecosystem, 2025
-- Infosys Finacle positioned as a leader in Everest Group's Banking Customer Experience Orchestration Products (CXOP) PEAK Matrix® Assessment 2025.
-
-<!-- image -->
-- Infosys Finacle along with its customers received four awards at the Global Banking and Finance ®️ Awards 2025 -Innovation Awards for Excellence in Margin Finance Innovation India with HDFC Bank; Most Innovative Payments Channel Modernization in Colombia with Bancolombia; Technology Award for Best Core Banking Transformation with Real-Time Eventing with Emirates NBD Bank; and Award for Best Customer Journey Initiative in Australia with Australian Military Bank
-- Infosys Finacle recognized as The World's Best Software Provider for Virtual Accounts 2025 and The World's Best Software Provider for Liquidity Management 2025 by Euromoney Transaction Banking Awards
-
-Read more about our Awards &amp; Recognitions here.
-<!-- image -->
-## About Infosys
-Infosys is a global leader in next-generation digital services and consulting.  Over  330,000  of  our  people  work  to  amplify  human potential and create the next opportunity for people, businesses and communities. We enable clients in 63 countries to navigate their digital transformation. With over four decades of experience in managing the systems and workings of global enterprises, we expertly steer clients, as they navigate their digital transformation powered by cloud and AI. We enable them with an AI-first core, empower  the  business  with  agile  digital  at  scale  and  drive continuous  improvement  with  always-on  learning  through  the transfer of digital skills, expertise, and ideas from our innovation ecosystem. We are deeply committed to being a well-governed, environmentally  sustainable  organization  where  diverse  talent thrives in an inclusive workplace.
-Visit www.infosys.com to see how Infosys (NSE, BSE, NYSE: INFY) can help your enterprise navigate your next.
+TheBoardonJanuary14026,basedontherecommendationsof theNominationandRemunerationCommittee,approved theannua time-basedstockincentivesintheformofRestrictedStock Units(RSUs)to Salil Parekh,CEO&amp;MD having a market value of3crore as onthe dateof grant under the2015 Stock Incentive CompensationPlan(2015Plan)in accordance with the terms of his employment agreement.TheRSUs will vest in line with the employment agreement.TheRSUs willbe granted w.e.fFebruary 1,2026 and the number of RSUswillbe calculated based on themarket price at the close of trading day on a date immediately preceding the grant date.The exercise price of RSUs will be equal to the par value of the share.

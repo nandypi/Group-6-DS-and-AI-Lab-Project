@@ -1,353 +1,211 @@
 ---
 document_name: "Infosys_16102025160458_BM_Outcome_Oct162025.md"
 group_id: "Infosys_16102025160458_BM_Outcome_Oct162025__group_006"
-source_section_count: 3
-page_start: 48
-page_end: 57
-estimated_tokens: 10163
+source_section_count: 2
+page_start: 27
+page_end: 31
+estimated_tokens: 4763
 source_section_ids:
-  - "Infosys_16102025160458_BM_Outcome_Oct162025__019"
-  - "Infosys_16102025160458_BM_Outcome_Oct162025__020"
-  - "Infosys_16102025160458_BM_Outcome_Oct162025__021"
+  - "Infosys_16102025160458_BM_Outcome_Oct162025__010"
+  - "Infosys_16102025160458_BM_Outcome_Oct162025__011"
 ---
 
-## 2.3.5 Impairment
-The Group recognizes loss allowances using the expected credit loss (ECL) model for the financial assets and unbilled revenue which are not fair valued through profit or loss. Loss allowance for trade receivables and unbilled revenues with no significant financing component is measured at an amount equal to lifetime ECL. For all other financial assets, expected credit losses are measured at an amount equal to the 12-month ECL, unless there has been a significant increase in credit risk from initial recognition in which case those are measured at lifetime ECL.
-The Group determines the allowance for credit losses based on historical loss experience adjusted to reflect current and estimated future economic conditions. The Group considers current and anticipated future economic conditions relating to industries the Group deals with and the countries where it operates.
-The amount of ECL (or reversal) that is required to adjust the loss allowance at the reporting date to the amount that is required to be recorded is recognized as an impairment loss or gain in interim condensed consolidated statement of comprehensive income.
-## Financial instruments by category
-The carrying value and fair value of financial instruments by categories as at September 30, 2025 are as follows:
-|                                                                          |                | Financial assets / liabilities at fair value through profit or loss   | Financial assets / liabilities at fair value through profit or loss   | Financial assets / liabilities at fair value through OCI   | Financial assets / liabilities at fair value through OCI   |                      | (Dollars in millions)   |
-|--------------------------------------------------------------------------|----------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|----------------------|-------------------------|
-| Particulars                                                              | Amortized cost | Designated upon initial recognition                                   | Mandatory                                                             | Equity instruments designated upon initial recognition     | Mandatory                                                  | Total carrying value | Total fair value        |
-| Assets:                                                                  |                |                                                                       |                                                                       |                                                            |                                                            |                      |                         |
-| Cash and cash equivalents (Refer to note 2.1)                            | 3,585          | -                                                                     | -                                                                     | -                                                          | -                                                          | 3,585                | 3,585                   |
-| Investments (Refer to note 2.2)                                          |                |                                                                       |                                                                       |                                                            |                                                            |                      |                         |
-| Liquid mutual fund units                                                 | -              | -                                                                     | 585                                                                   | -                                                          | -                                                          | 585                  | 585                     |
-| Target maturity fund units                                               | -              | -                                                                     | 54                                                                    | -                                                          | -                                                          | 54                   | 54                      |
-| Quoted debt securities                                                   | 57             | -                                                                     | -                                                                     | -                                                          | 1,146                                                      | 1,203                | 1,204                   |
-| Certificates of deposit                                                  | -              | -                                                                     | -                                                                     | -                                                          | 551                                                        | 551                  | 551                     |
-| Commercial Papers                                                        | -              | -                                                                     | -                                                                     | -                                                          | 195                                                        | 195                  | 195                     |
-| Quoted equity securities                                                 | -              | -                                                                     | -                                                                     | 9                                                          | -                                                          | 9                    | 9                       |
-| Unquoted equity and preference securities                                | -              | 3                                                                     | -                                                                     | 20                                                         | -                                                          | 23                   | 23                      |
-| Unquoted investment others                                               | -              | -                                                                     | 25                                                                    | -                                                          | -                                                          | 25                   | 25                      |
-| Trade receivables                                                        | 3,826          | -                                                                     | -                                                                     | -                                                          | -                                                          | 3,826                | 3,826                   |
-| Unbilled revenues (Refer to note 2.17) (3)                               | 1,261          | -                                                                     | -                                                                     | -                                                          | -                                                          | 1,261                | 1,261                   |
-| Prepayments and other assets (Refer to note 2.4)                         | 870            | -                                                                     | -                                                                     | -                                                          | -                                                          | 870                  | 869                     |
-| Derivative financial instruments                                         | -              | -                                                                     | 1                                                                     | -                                                          | 3                                                          | 4                    | 4                       |
-| Total                                                                    | 9,599          | 3                                                                     | 665                                                                   | 29                                                         | 1,895                                                      | 12,191               | 12,191                  |
-| Liabilities:                                                             |                |                                                                       |                                                                       |                                                            |                                                            |                      |                         |
-| Trade payables                                                           | 432            | -                                                                     | -                                                                     | -                                                          | -                                                          | 432                  | 432                     |
-| Lease liabilities (Refer to note 2.8)                                    | 986            | -                                                                     | -                                                                     | -                                                          | -                                                          | 986                  | 986                     |
-| Derivative financial instruments                                         | -              | -                                                                     | 54                                                                    | -                                                          | 2                                                          | 56                   | 56                      |
-| Financial liability under option arrangements (Refer to note 2.5)        | -              | -                                                                     | 85                                                                    | -                                                          | -                                                          | 85                   | 85                      |
-| Other liabilities including contingent consideration (Refer to note 2.5) | 1,982          | -                                                                     | 11                                                                    | -                                                          | -                                                          | 1,993                | 1,993                   |
-| Total                                                                    | 3,400          | -                                                                     | 150                                                                   | -                                                          | 2                                                          | 3,552                | 3,552                   |
+## Press Release
+- Infosys BPM received the 20th Edition Future of L&amp;D Summit and Awards 2025 for ' Best Digital Learning initiative '
+- Infosys  BPM  received  the  Brandon  Hall  HCM  Excellence  Learning  and  Development Awards for ' Best Learning Strategy '
 
-(1) On account of fair value changes including interest accrued
-(2) Excludes interest accrued on quoted debt securities carried at amortized cost of $1 million
-(3) Excludes unbilled revenue for contracts where the right to consideration is dependent on completion of contractual milestones
-The carrying value and fair value of financial instruments by categories as at March 31, 2025 were as follows:
-|                                                                          |                | Financial assets/ liabilities at fair value through profit or loss   | Financial assets/ liabilities at fair value through profit or loss   | Financial assets/liabilities at fair value through OCI   | Financial assets/liabilities at fair value through OCI   |                      | (Dollars in millions)   |
-|--------------------------------------------------------------------------|----------------|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|----------------------|-------------------------|
-| Particulars                                                              | Amortized cost | Designated upon initial recognition                                  | Mandatory                                                            | Equity instruments designated upon initial recognition   | Mandatory                                                | Total carrying value | Total fair value        |
-| Assets:                                                                  |                |                                                                      |                                                                      |                                                          |                                                          |                      |                         |
-| Cash and cash equivalents (Refer to note 2.1)                            | 2,861          | -                                                                    | -                                                                    | -                                                        | -                                                        | 2,861                | 2,861                   |
-| Investments (Refer to note 2.2)                                          |                |                                                                      |                                                                      |                                                          |                                                          |                      |                         |
-| Liquid mutual fund units                                                 | -              | -                                                                    | 229                                                                  | -                                                        | -                                                        | 229                  | 229                     |
-| Target maturity fund units                                               | -              | -                                                                    | 54                                                                   | -                                                        | -                                                        | 54                   | 54                      |
-| Quoted debt securities                                                   | 193            | -                                                                    | -                                                                    | -                                                        | 1,389                                                    | 1,582                | 1,602                   |
-| Certificates of deposit                                                  | -              | -                                                                    | -                                                                    | -                                                        | 410                                                      | 410                  | 410                     |
-| Commercial Papers                                                        | -              | -                                                                    | -                                                                    | -                                                        | 426                                                      | 426                  | 426                     |
-| Quoted equity securities                                                 | -              | -                                                                    | -                                                                    | 7                                                        | -                                                        | 7                    | 7                       |
-| Unquoted equity and preference securities                                | -              | 3                                                                    | -                                                                    | 20                                                       | -                                                        | 23                   | 23                      |
-| Unquoted investments others                                              | -              | -                                                                    | 23                                                                   | -                                                        | -                                                        | 23                   | 23                      |
-| Trade receivables                                                        | 3,645          | -                                                                    | -                                                                    | -                                                        | -                                                        | 3,645                | 3,645                   |
-| Unbilled revenues (Refer to note 2.17) (3)                               | 1,195          | -                                                                    | -                                                                    | -                                                        | -                                                        | 1,195                | 1,195                   |
-| Prepayments and other assets (Refer to note 2.4)                         | 844            | -                                                                    | -                                                                    | -                                                        | -                                                        | 844                  | 835                     |
-| Derivative financial instruments                                         | -              | -                                                                    | 20                                                                   | -                                                        | 3                                                        | 23                   | 23                      |
-| Total                                                                    | 8,738          | 3                                                                    | 326                                                                  | 27                                                       | 2,228                                                    | 11,322               | 11,333                  |
-| Liabilities:                                                             |                |                                                                      |                                                                      |                                                          |                                                          |                      |                         |
-| Trade payables                                                           | 487            | -                                                                    | -                                                                    | -                                                        | -                                                        | 487                  | 487                     |
-| Lease liabilities (Refer to note 2.8)                                    | 962            | -                                                                    | -                                                                    | -                                                        | -                                                        | 962                  | 962                     |
-| Derivative financial instruments                                         | -              | -                                                                    | 3                                                                    | -                                                        | 4                                                        | 7                    | 7                       |
-| Financial liability under option arrangements (Refer to note 2.5)        | -              | -                                                                    | 77                                                                   | -                                                        | -                                                        | 77                   | 77                      |
-| Other liabilities including contingent consideration (Refer to note 2.5) | 1,932          | -                                                                    | 3                                                                    | -                                                        | -                                                        | 1,935                | 1,935                   |
-| Total                                                                    | 3,381          | -                                                                    | 83                                                                   | -                                                        | 4                                                        | 3,468                | 3,468                   |
+## · AI and Cloud Services
+- Positioned as a leader in Gartner: Magic Quadrant and Critical Capabilities for Public Cloud IT Transformation Services
+- Positioned as a leader in Gartner: Emerging Market Quadrant for Generative AI Consulting and  Implementation  Services  (Innovation  Guide  for  Generative  AI  Consulting  and Implementation Services)
+- Recognized as a leader in IDC MarketScape: Asia Pacific Oracle Implementation Services 2025 Vendor Assessment
+- Recognized as a leader in IDC MarketScape: Worldwide Artificial  Intelligence  Services 2025
+- Recognized as a leader in IDC MarketScape: Worldwide Life Science R&amp;D AI and GenAI in Clinical Trials 2025
+- Recognized  as  a  leader  in  Constellation  ShortList:  Artificial  Intelligence  and  Machine Learning Best-of-Breed Platforms
+- Recognized as a leader in Constellation ShortList: AI-Driven Cognitive Applications
+- Infosys EdgeVerve recognized as the ' Company of the Year ' with Silver Stevie ®  Awards in two categories: i) Artificial Technology for the flagship platform, Infosys EdgeVerve AI Next, and ii) Business Technology for enterprise transformation
 
-(1) On account of fair value changes including interest accrued
-(2) Excludes interest accrued on quoted debt securities carried at amortized cost of $9 million
-(3) Excludes unbilled revenue for contracts where the right to consideration is dependent on completion of contractual milestones
-For trade receivables and trade payables, other assets and payables maturing within one year from the balance sheet date, the carrying amounts approximate fair value due to the short maturity of these instruments.
+## · Key Digital Services
+- Recognized as a leader in IDC MarketScape: India IT/Digital Transformation Services for Public Sector 2025 Vendor Assessment
+- Recognized as a leader in IDC MarketScape: Worldwide IT and Engineering Services for Software-Defined Vehicles 2025 Vendor Assessment
+- Recognized  as  a  leader  in  IDC  MarketScape:  Worldwide  Industrial  IoT  End-to-End Engineering and Life-Cycle Services 2025 Vendor Assessment
+- Rated as a leader in Everest Group: Microsoft Business Application Services PEAK Matrix ® Assessment 2025
+- Rated  as  a  leader  in  Everest  Group:  Global  Digital  Workplace  Services  PEAK  Matrix ® Assessments 2025
+- Rated as a leader in Everest Group: 5G Engineering Services PEAK Matrix ®  Assessment 2025
+- Rated  as  a  leader  in  Everest  Group:  Network  Engineering  Services  PEAK  Matrix ® Assessment 2025
+- Rated  as  a  leader  in  Everest  Group:  Net-Zero  Consulting  Services  PEAK  Matrix ® Assessment 2025
+- Recognized as a leader in HFS Horizons: Digital Marketing and Sales Services, 2025
+- Recognized as a leader in HFS Horizons: Cybersecurity Services, 2025
+- Positioned as a leader in NelsonHall: ServiceNow Services 2025 NEAT
+- Recognized as a leader in Constellation ShortList: Customer Experience (CX) Design &amp; Execution Services - Global
 
-## Fair value hierarchy
-Level 1 - Quoted prices (unadjusted) in active markets for identical assets or liabilities.
-Level 2 - Inputs other than quoted prices included within Level 1 that are observable for the asset or liability, either directly (i.e. as prices) or indirectly (i.e. derived from prices).
-Level 3 - Inputs for the assets or liabilities that are not based on observable market data (unobservable inputs).
-(1)
-(2)
-(1)
-(2)
-The fair value hierarchy of assets and liabilities measured at fair value on a recurring basis as at September 30, 2025 is as follows:
-| Particulars                                                           | As at September 30, 2025   | Level 1 value measurement   | Level 2 of the reporting   | Level 3 period using   |
-|-----------------------------------------------------------------------|----------------------------|-----------------------------|----------------------------|------------------------|
-| Assets                                                                |                            |                             |                            |                        |
-| Investments (Refer to note 2.2)                                       |                            |                             |                            |                        |
-| Investments in liquid mutual fund units                               | 585                        | 585                         | -                          | -                      |
-| Investments in target maturity fund units                             | 54                         | 54                          | -                          | -                      |
-| Investments in quoted debt securities                                 | 1,204                      | 1,177                       | 27                         | -                      |
-| Investments in certificates of deposit                                | 551                        | -                           | 551                        | -                      |
-| Investments in commercial paper                                       | 195                        | -                           | 195                        | -                      |
-| Investments in unquoted equity and preference securities              | 23                         | -                           | -                          | 23                     |
-| Investments in quoted equity securities                               | 9                          | 9                           | -                          | -                      |
-| Investments in unquoted investments others                            | 25                         | -                           | -                          | 25                     |
-| Others                                                                |                            |                             |                            |                        |
-| Derivative financial instruments- gain                                | 4                          | -                           | 4                          | -                      |
-| Liabilities                                                           |                            |                             |                            |                        |
-| Derivative financial instruments - loss                               | 56                         | -                           | 56                         | -                      |
-| Financial liability under option arrangements (Refer to note 2.5) (1) | 85                         | -                           | -                          | 85                     |
-| Liability towards contingent consideration (Refer to note 2.5) (2)    | 11                         | -                           | -                          | 11                     |
+Press Release
+<!-- image -->
+## Press Release
+- Recognized as a leader in Constellation ShortList: Digital Transformation Services (DTX) Global
+- Recognized as a leader in Constellation ShortList: Customer Experience (CX) Operations Services - Global
+- Recognized as a leader in Constellation ShortList for ER&amp;D
+- Recognized as a leader in Constellation ShortList: AI Services - Global
+- Recognized as leader in Avasant Utilities Digital Services 2025 RadarView ™
+- Recognized  as  leader  in  Avasant  Global  Competency  Center  (GCC)  Services  2025 RadarView ™
+- Infosys China recognized as the 'Leading Digital Service Providers 2025 -Top 100' by China Council for International Investment Promotion
 
-(1) Discount rate ranges from 9% to 15%
-(2) Discount rate ranges from 3% to 6%
-During the six months ended September 30, 2025, quoted debt securities of $11 million were transferred from Level 2 to Level 1 of fair value hierarchy, since these were valued based on quoted price and quoted debt securities of $21 million were transferred from Level 1 to Level 2 of fair value hierarchy, since these were valued based on market observable inputs.
-The fair value hierarchy of assets and liabilities measured at fair value on a recurring basis as at March 31, 2025 is as follows:
-| Particulars                                                           | As at March 31, 2025   | Level 1 value measurement   | Level 2 of the reporting   | Level 3 period using   |
-|-----------------------------------------------------------------------|------------------------|-----------------------------|----------------------------|------------------------|
-| Assets                                                                |                        |                             |                            |                        |
-| Investments (Refer to note 2.2)                                       |                        |                             |                            |                        |
-| Investments in liquid mutual fund units                               | 229                    | 229                         | -                          | -                      |
-| Investments in target maturity fund units                             | 54                     | 54                          | -                          | -                      |
-| Investments in quoted debt securities                                 | 1,602                  | 1,533                       | 69                         | -                      |
-| Investments in unquoted equity and preference securities              | 23                     | -                           | -                          | 23                     |
-| Investments in certificates of deposit                                | 410                    | -                           | 410                        | -                      |
-| Investments in commercial paper                                       | 426                    | -                           | 426                        | -                      |
-| Investments in quoted equity securities                               | 7                      | 7                           | -                          | -                      |
-| Investments in unquoted investments others                            | 23                     | -                           | -                          | 23                     |
-| Others                                                                |                        |                             |                            |                        |
-| Derivative financial instruments- gain                                | 23                     | -                           | 23                         | -                      |
-| Liabilities                                                           |                        |                             |                            |                        |
-| Derivative financial instruments- loss                                | 7                      | -                           | 7                          | -                      |
-| Financial liability under option arrangements (Refer to note 2.5) (1) | 77                     | -                           | -                          | 77                     |
-| Liability towards contingent consideration (Refer to note 2.5) (2)    | 3                      | -                           | -                          | 3                      |
+## · Industry &amp; Solutions
+- Recognized as a leader in IDC MarketScape: Worldwide Life Sciences Healthcare Provider (HCP) Engagement Services 2025
+- Recognized  as  a  leader  in  HFS  Horizons:  The  Best  Service  Providers  for  Mortgage Reinvention, 2025
+- Positioned as a leader in NelsonHall: Transforming Mortgage &amp; Loan Services 2025 NEAT
+- Infosys  Finacle  recognized  as  a  leader  in  IDC  MarketScape:  Worldwide  Corporate  Loan Origination Systems 2025 Vendor Assessment
+- Infosys  Finacle  recognized  as  a  leader  in  IDC  MarketScape:  Worldwide  Corporate  Loan Lifecycle Management 2025 Vendor Assessment
+- Infosys Finacle along with its customers received three awards at the MEA Finance Leaders in  Payments Awards 2025 for Best Real-Time Payments Implementation - Qatar National Bank,  Best  Real-Time  Payments  Provider  -  Infosys  Finacle,  and  Best  Instant  Payments Technology Solution - Infosys Finacle
+- Infosys  Finacle  along  with  its  customers  received  three  awards  at  the  Finnovex  Awards Saudi Arabia 2025 for Excellence in Digital Transformation - Arab National Bank, Excellence in Digital Corporate Banking - Banque Saudi Fransi, and Excellence in Composable Banking Platforms - Infosys Finacle
 
-(1) Discount rate ranges from 9% to 15%
-(2) Discount rate - 6%
-During the year ended March 31, 2025, quoted debt securities of $35 million were transferred from Level 2 to Level 1 of fair value hierarchy, since these were valued based on quoted price and quoted debt securities of $65 million were transferred from Level 1 to Level 2 of fair value hierarchy, since these were valued based on market observable inputs.
-A one percentage point change in the unobservable inputs used in fair valuation of Level 3 assets and liabilities does not have a significant impact in its value.
-Majority of investments of the Group are fair valued based on Level 1 or Level 2 inputs. These investments primarily include investment in liquid mutual fund units, target maturity fund units, quoted debt securities, certificates of deposit, commercial paper, quoted bonds issued by government and quasi-government organizations. The Group invests after considering counterparty risks based on multiple criteria including Tier I Capital, Capital Adequacy Ratio, Credit Rating, Profitability, NPA levels and Deposit base of banks and financial institutions. These risks are monitored regularly as per Group's risk management program.
-## 2.4 Prepayments and other assets
-Prepayments and other assets consist of the following:
-| Particulars                                         | (Dollars in millions) As at   | (Dollars in millions) As at   |
-|-----------------------------------------------------|-------------------------------|-------------------------------|
-|                                                     | September 30, 2025            | March 31, 2025                |
-| Current                                             |                               |                               |
-| Security deposits (1)                               | 8                             | 8                             |
-| Loans to employees (1)                              | 27                            | 29                            |
-| Prepaid expenses (2)                                | 336                           | 360                           |
-| Interest accrued and not due (1)                    | 75                            | 99                            |
-| Withholding taxes and others (2)(4)                 | 297                           | 332                           |
-| Advance payments to vendors for supply of goods (2) | 30                            | 48                            |
-| Deposit with corporations (1)(3)                    | 357                           | 345                           |
-| Deferred contract cost                              |                               |                               |
-| Cost of obtaining a contract (2)                    | 39                            | 40                            |
-| Cost of fulfillment (2)                             | 69                            | 59                            |
-| Other non financial assets (2)                      | 9                             | 11                            |
-| Net investment in lease (1)                         | 159                           | 133                           |
-| Other financial assets (1)                          | 57                            | 55                            |
-| Total Current prepayment and other assets           | 1,463                         | 1,519                         |
-| Non-current                                         |                               |                               |
-| Security deposits (1)                               | 31                            | 32                            |
-| Loans to employees (1)                              | 1                             | 2                             |
-| Prepaid expenses (2)                                | 35                            | 33                            |
-| Deposit with corporations (1)(3)                    | 17                            | 10                            |
-| Defined benefit plan assets (2)                     | 30                            | 35                            |
-| Deferred contract cost                              |                               |                               |
-| Cost of obtaining a contract (2)                    | 29                            | 36                            |
-| Cost of fulfillment (2)                             | 102                           | 103                           |
-| Withholding taxes and others (2)(4)                 | 61                            | 63                            |
-| Net investment in lease (1)                         | 135                           | 129                           |
-| Other financial assets (1)                          | 3                             | 2                             |
-| Total Non- current prepayment and other assets      | 444                           | 445                           |
-| Total prepayment and other assets                   | 1,907                         | 1,964                         |
-| (1) Financial assets carried at amortized cost      | 870                           | 844                           |
+Read more about our Awards &amp; Recognitions here.
+Press Release
+<!-- image -->
+## About Infosys
+Infosys is a global leader in next-generation digital services and consulting.  Over  320,000  of  our  people  work  to  amplify  human potential and create the next opportunity for people, businesses and communities. We enable clients in 59 countries to navigate their digital transformation. With over four decades of experience in managing the systems and workings of global enterprises, we expertly steer clients, as they navigate their digital transformation powered by cloud and AI. We enable them with an AI-first core, empower  the  business  with  agile  digital  at  scale  and  drive continuous  improvement  with  always-on  learning  through  the transfer of digital skills, expertise, and ideas from our innovation ecosystem. We are deeply committed to being a well-governed, environmentally  sustainable  organization  where  diverse  talent thrives in an inclusive workplace.
+Visit www.infosys.com to see how Infosys (NSE, BSE, NYSE: INFY) can help your enterprise navigate your next.
+## Safe Harbor
+Certain  statements  in  this  release  concerning  our  future  growth  prospects,  our  future  financial  or  operating performance, the McCamish cybersecurity incident, and the United States H-1B visa program are forward looking statements intended to qualify for the 'safe harbor' under the Private Securities Litigation Reform Act of 1995, which involve a number of risks and uncertainties that could cause actual results or outcomes to differ materially from those in such forward-looking statements. The risks and uncertainties relating to these statements include, but are not limited to, risks and uncertainties regarding the execution of our business strategy, increased competition for talent, our ability to attract and retain personnel, increase in wages, investments  to reskill our employees, our ability to effectively  implement  a  hybrid  working  model,  economic  uncertainties  and  geo-political  situations,  technological disruptions  and  innovations  such  as  Generative  AI,  the  complex  and  evolving  regulatory  landscape  including immigration  regulation  changes,  our  ESG  vision,  our  capital  allocation  policy  and  expectations  concerning  our market position, future operations, margins, profitability, liquidity, capital resources, our corporate actions including acquisitions, the outcome of pending litigation, the amount of any additional costs resulting directly or indirectly from the  McCamish cybersecurity incident, the outcome of the government investigation, the timing,  implementation, duration and effect of the September 19, 2025 proclamation signed by the president of the United States related to the H-1B visa program, and the effect of current and any future tariffs. Important factors that may cause actual results or outcomes to differ from those implied by the forward-looking statements are discussed in more detail in our US Securities and Exchange Commission filings including our Annual Report on Form 20-F for the fiscal year ended March 31, 2025. These filings are available at www.sec.gov. Infosys may, from time to time, make additional written and oral forward-looking statements, including statements contained in the Company's filings with the Securities and Exchange Commission and our reports to shareholders. The Company does not undertake to update any forwardlooking statements that may be made from time to time by or on behalf of the Company unless it is required by law.
+## Contact
+Investor Relations
+Sandeep Mahindroo +91 80 3980 1018
+Sandeep\_Mahindroo@infosys.com
+Media Relations
+Rishi Basu +91 80 4156 3998
+Rajarshi.Basu@infosys.com
+Press Release
+## IFRS -INR Press Release
+## DIGITALNAVIGATION FRAMEWORK
+<!-- image -->
+<!-- image -->
+Infosys Limited and subsidiaries Extracted from the Condensed Consolidated Balance Sheet under IFRS as at:
+## IFRS -INR Press Release
+(in ₹ crore)
+|                                                            | September 30, 2025   | March 31, 2025   |
+|------------------------------------------------------------|----------------------|------------------|
+| ASSETS                                                     |                      |                  |
+| Current assets                                             |                      |                  |
+| Cash and cash equivalents                                  | 31,832               | 24,455           |
+| Current investments                                        | 12,606               | 12,482           |
+| Trade receivables                                          | 33,968               | 31,158           |
+| Unbilled revenue                                           | 14,313               | 12,851           |
+| Other current assets                                       | 13,048               | 16,153           |
+| Total current assets                                       | 105,767              | 97,099           |
+| Non-current assets                                         |                      |                  |
+| Property, plant and equipment and Right-of-use assets      | 19,282               | 19,111           |
+| Goodwill and other Intangible assets                       | 14,670               | 12,872           |
+| Non-current investments                                    | 10,879               | 11,059           |
+| Unbilled revenue                                           | 2,308                | 2,232            |
+| Other non-current assets                                   | 7,474                | 6,530            |
+| Total non-current assets                                   | 54,613               | 51,804           |
+| Total assets                                               | 160,380              | 148,903          |
+| LIABILITIES AND EQUITY                                     |                      |                  |
+| Current liabilities                                        |                      |                  |
+| Trade payables                                             | 3,839                | 4,164            |
+| Unearned revenue                                           | 9,022                | 8,492            |
+| Employee benefit obligations                               | 3,335                | 2,908            |
+| Other current liabilities and provisions                   | 30,202               | 27,286           |
+| Total current liabilities                                  | 46,398               | 42,850           |
+| Non-current liabilities                                    |                      |                  |
+| Lease liabilities                                          | 5,983                | 5,772            |
+| Other non-current liabilities                              | 4,255                | 4,078            |
+| Total non-current liabilities                              | 10,238               | 9,850            |
+| Total liabilities                                          | 56,636               | 52,700           |
+| Total equity attributable to equity holders of the company | 103,330              | 95,818           |
+| Non-controlling interests                                  | 414                  | 385              |
+| Total equity                                               | 103,744              | 96,203           |
+| Total liabilities and equity                               | 160,380              | 148,903          |
 
-(2) Non financial assets
-(3) Deposit with corporation represents amounts deposited to settle certain employee-related obligations as and when they arise during the normal course of business.
-(4) Withholding taxes and others primarily consist of input tax credits and VAT recoverable from tax authorities.
-## 2.5 Other liabilities
-Other liabilities comprise the following:
-|                                                                      | (Dollars in millions)   | (Dollars in millions)   |
-|----------------------------------------------------------------------|-------------------------|-------------------------|
-| Particulars                                                          | September 30, 2025      | March 31, 2025          |
-| Current                                                              |                         |                         |
-| Accrued compensation to employees (1)                                | 570                     | 576                     |
-| Accrued expenses (1)                                                 | 1,070                   | 991                     |
-| Accrued defined benefit liability (3)                                | 2                       | 1                       |
-| Withholding taxes and others (3)                                     | 387                     | 381                     |
-| Liabilities of controlled trusts (1)                                 | 19                      | 20                      |
-| Liability towards contingent consideration (2)                       | 3                       | 1                       |
-| Capital Creditors (1)                                                | 34                      | 61                      |
-| Financial liability under option arrangements (2)(4)                 | 71                      | 64                      |
-| Other non-financial liabilities (3)                                  | 1                       | 1                       |
-| Other financial liabilities (1)(5)                                   | 62                      | 61                      |
-| Total current other liabilities                                      | 2,219                   | 2,157                   |
-| Non-current                                                          |                         |                         |
-| Accrued compensation to employees (1)                                | 11                      | 1                       |
-| Accrued expenses (1)                                                 | 216                     | 221                     |
-| Accrued defined benefit liability (3)                                | 19                      | 14                      |
-| Liability towards contingent consideration (2)                       | 8                       | 2                       |
-| Financial liability under option arrangements (2)(4)                 | 14                      | 13                      |
-| Other non-financial liabilities (3)                                  | 9                       | 12                      |
-| Other financial liabilities (1)(5)                                   | -                       | 1                       |
-| Total non-current other liabilities                                  | 277                     | 264                     |
-| Total other liabilities                                              | 2,496                   | 2,421                   |
-| (1) Financial liability carried at amortized cost                    | 1,982                   | 1,932                   |
-| (2) Financial liability carried at fair value through profit or loss | 96                      | 80                      |
+Extracted from the Condensed Consolidated statement of Comprehensive Income under IFRS for:
+(in ₹ crore except per equity share data)
+|                                             | 3 months ended September 30, 2025   | 3 months ended September 30, 2024   | 6 months ended September 30, 2025   | 6 months ended September 30, 2024   |
+|---------------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|
+| Revenues                                    | 44,490                              | 40,986                              | 86,769                              | 80,300                              |
+| Cost of sales                               | 30,800                              | 28,474                              | 60,025                              | 55,651                              |
+| Gross profit                                | 13,690                              | 12,512                              | 26,744                              | 24,649                              |
+| Operating expenses:                         |                                     |                                     |                                     |                                     |
+| Selling and marketing expenses              | 2,224                               | 1,855                               | 4,431                               | 3,792                               |
+| Administrative expenses                     | 2,113                               | 2,008                               | 4,156                               | 3,920                               |
+| Total operating expenses                    | 4,337                               | 3,863                               | 8,587                               | 7,712                               |
+| Operating profit                            | 9,353                               | 8,649                               | 18,157                              | 16,937                              |
+| Other income, net (3)                       | 876                                 | 604                                 | 1,813                               | 1,337                               |
+| Profit before income taxes                  | 10,229                              | 9,253                               | 19,970                              | 18,274                              |
+| Income tax expense                          | 2,854                               | 2,737                               | 5,670                               | 5,384                               |
+| Net profit (before minority interest)       | 7,375                               | 6,516                               | 14,300                              | 12,890                              |
+| Net profit (after non-controlling interest) | 7,364                               | 6,506                               | 14,285                              | 12,874                              |
+| Basic EPS ( ₹ )                             | 17.76                               | 15.71                               | 34.47                               | 31.09                               |
+| Diluted EPS ( ₹ )                           | 17.74                               | 15.68                               | 34.41                               | 31.02                               |
 
-(3) Non financial liabilities
-(4) Represents liability related to options issued by the Group over the non-controlling interests in its subsidiaries.
-(5) The Group entered into financing arrangements with a third party towards technology assets taken over by the Group from a customer as a part of transformation project which was not considered as distinct goods or services as the control related to those assets was not transferred to the Group in accordance with IFRS 15 - Revenue from contract with customers. As at September 30, 2025 and March 31, 2025, the financial liability pertaining to such arrangements amounts to $5 million and $8 million, respectively.
-Accrued expenses primarily relate to cost of technical sub-contractors, telecommunication charges, legal and professional charges, brand building expenses, overseas travel expenses and office maintenance and cost of third party software and hardware.
+Press Release
+<!-- image -->
 
-## 2.6 Provisions and other contingencies
-## 2.6.1 Provisions
-A provision is recognized if, as a result of a past event, the Group has a present legal or constructive obligation that is reasonably estimable, and it is probable that an outflow of economic benefits will be required to settle the obligation. Provisions are determined by discounting the expected future cash flows at a pre-tax rate that reflects current market assessments of the time value of money and the risks specific to the liability. The Group recognizes a reimbursement asset when, and only when, it is virtually certain that the reimbursement will be received if the Group settles the obligation.
-Contingent liability is a possible obligation arising from past events and whose existence will be confirmed only by the occurrence or non-occurrence of one or more uncertain future events not wholly within the control of the entity or a present obligation that arises from past events but is not recognized because it is not probable that an outflow of resources embodying economic benefits will be required to settle the obligation or the amount of the obligation cannot be measured with sufficient reliability.
-## a. Post sales client support
-The Group provides its clients with a fixed-period post sales support on its fixed-price, fixed-timeframe contracts. Costs associated with such support services are accrued at the time related revenues are recorded and included in cost of sales. The Group estimates such costs based on historical experience and estimates are reviewed on a periodic basis for any material changes in assumptions and likelihood of occurrence.
-## b. Onerous contracts
-Provisions for onerous contracts are recognized when the expected benefits to be derived by the Group from a contract are lower than the unavoidable costs of meeting the future obligations under the contract. Provisions for estimated losses, if any, on incomplete contracts are recorded in the period in which such losses become probable based on the estimated efforts or costs to complete the contract. The provision is measured at the present value of the lower of the expected cost of terminating the contract and the expected net cost of continuing with the contract. Before a provision is established the Group recognizes any impairment loss on the assets associated with that contract.
-## Provision for post sales client support and other provisions
-|                                                          | (Dollars in millions)   | (Dollars in millions)   |
-|----------------------------------------------------------|-------------------------|-------------------------|
-| Particulars                                              | September 30, 2025 As   | March 31, 2025          |
-| Post-sales client support and others provisions          | 169                     | 155                     |
-| Provision pertaining to settlement (refer to note 2.6.2) | 15                      | 18                      |
-| Total provisions                                         | 184                     | 173                     |
+## NOTES:
+1. The above information is extracted from the audited condensed consolidated Balance sheet and Statement of Comprehensive Income for the quarter ended September 30, 2025, which have been taken on record at the Board meeting held on October 16, 2025.
+2. A Fact Sheet providing the operating metrics of the Company can be downloaded from www.infosys.com.
+3. Other income is net of Finance Cost.
+4. As the quarter and six months ended figures are taken from the source and rounded to the nearest digits, the quarter figures in this statement added up to the figures reported for the previous quarter might not always add up to the six months ended figures reported in this statement.
 
-Provision for post sales client support and other provisions majorly represents costs associated with providing post sales support services which are accrued at the time of recognition of revenues and are expected to be utilized over a period of 1 year.
-Provision for post sales client support and other provisions is included in cost of sales in the interim condensed consolidated statement of comprehensive income.
-As at September 30, 2025 and March 31, 2025, claims against the Group, not acknowledged as debts, (excluding demands from income tax authoritiesRefer to Note 2.12) amounted to $112 million (₹991 crore) and $119 million (₹1,020 crore), respectively.
-Amount paid to statutory authorities against the claims (excluding demands from income tax authorities- Refer to Note 2.12) amounted to $2 million (₹17 crore) and $1 million (₹8 crore) as at September 30, 2025 and March 31, 2025 respectively.
-## 2.6.2 Legal Proceedings
-## McCamish Cybersecurity incident
-In November 2023, certain systems of Infosys McCamish Systems LLC ('McCamish'), a subsidiary of Infosys BPM Limited (a wholly owned subsidiary of Infosys Limited), were encrypted by ransomware, resulting in the non-availability of certain applications and systems. McCamish initiated its incident response and engaged cybersecurity and other specialists to assist in its investigation of and response to the incident and remediation and restoration of impacted applications and systems. By December 31, 2023, McCamish, with external specialists' assistance, substantially remediated and restored the affected applications and systems. Actions taken by McCamish included investigative analysis conducted by a third-party cybersecurity firm to determine, among other things, whether and the extent to which company or customer data was subject to unauthorized access or exfiltration. McCamish also engaged a third-party eDiscovery vendor in assessing the extent and nature of such data. McCamish in coordination with its third-party eDiscovery vendor has identified corporate customers and individuals whose information was subject to unauthorized access and exfiltration. McCamish processes personal data on behalf of its corporate customers.
-From March 6, 2024 through July 25, 2024, six actions were filed in the U.S. District Court for the Northern District of Georgia against McCamish. The actions arise out of the cybersecurity incident at McCamish initially disclosed on November 3, 2023. All six actions have since been consolidated, and the consolidated class action complaint was filed on November 7, 2024, purportedly on behalf of all persons residing in the United States whose personally identifiable information was compromised in the incident, including all who were sent a notice of the incident. On December 20, 2024, the Court granted the parties' joint motion to stay proceedings pending the parties' efforts to resolve the lawsuit through mediation. On March 13, 2025, McCamish and the plaintiffs engaged in mediation, resulting in an in-principle agreement that sets forth the terms of a proposed settlement of the class action lawsuits against McCamish, as well as seven class action lawsuits arising out of the incident that have been filed against McCamish's customers. On May 9, 2025, McCamish and the plaintiffs entered into a definitive settlement agreement, and the plaintiffs moved for preliminary approval of the settlement. Under the settlement terms, McCamish has agreed to pay $17.5 million into a fund to settle these matters. On July 16, 2025, the Court granted preliminary approval of the settlement. The settlement remains subject to final court approval. If approved, the settlement will resolve all allegations made in the class action lawsuits without admission of any liability.
-During the three months ended March 31, 2025, McCamish had recorded an accrual of $17.5 million related to the settlement and had recognized an insurance reimbursement receivable of $17 million which has been offset against the settlement expense of $17.5 million in the Statement of Comprehensive Income. McCamish may incur additional costs including from indemnities or damages/claims, which are indeterminable at this time.
-## Government Investigation
-The U.S. Department of Justice ('DOJ') is conducting an investigation regarding how the Company classified certain H-1B visa-recipient employees working for one of its clients in immigration documents filed with certain U.S. government authorities.  The Company is engaged in discussions with the DOJ regarding its ongoing investigation and has commenced its own inquiry regarding the matter.  At this stage, the Company is unable to predict the outcome of this matter, including whether such outcome could have a material adverse effect on the Company's business and results of operations.
-## Others
-Apart from the foregoing, the Group is subject to legal proceedings and claims which have arisen in the ordinary course of business. The Group's management reasonably expects that such ordinary course legal actions, when ultimately concluded and determined, may not have a material and adverse effect on the Group's results of operations or financial condition.
-X
-1
-0
-A
-O
-## 2.7 Property, plant and equipment
-## Accounting Policy
-Property, plant and equipment are stated at cost, less accumulated depreciation and impairment, if any. Costs directly attributable to acquisition are capitalized until the property, plant and equipment are ready for use, as intended by Management. The charge in respect of periodic depreciation is derived at after determining an estimate of an asset's expected useful life and the expected residual value at the end of its life. The Group depreciates property, plant and equipment over their estimated useful lives using the straight-line method. The estimated useful lives of assets are as follows:
-| Building                | 22-25 years                                     |
-|-------------------------|-------------------------------------------------|
-| Plant and machinery (1) | 5 years                                         |
-| Computer equipment      | 3-5 years                                       |
-| Furniture and fixtures  | 5 years                                         |
-| Vehicles                | 5 years                                         |
-| Leasehold improvements  | Lower of useful life of the asset or lease term |
+Press Release
+<!-- image -->
+1\
+Quarterly revenue crosses $5 bn mark; Second consecutive quarter of strong performance Revenue growth of 2.2% sequentially in Q2 and 3.3% in H1 in CC; Large deal TCV at $3.1 Bn and FCF at $1.1 Bn FY26 revenue guidance revised to 2%-3% and margin guidance retained at 20%-22%
+Bengaluru, India -October  16,  2025: Infosys  (NSE,  BSE,  NYSE:  INFY),  a  global  leader  in  nextgeneration digital services and consulting, delivered $5,076 million in Q2 revenues, year on year growth of 2.9% and sequential growth of 2.2% in constant currency. Operating margin was at 21.0%. Free cash flow generation was strong at $1.1 billion, 131.1% of net profit. TCV of large deal wins was $3.1 billion, with net new of 67%. Employee headcount increased by 8,203.
+H1 revenues grew at 3.3% year over year in constant currency. Operating margin for H1 was at 20.9%.
+'We have now delivered two consecutive quarters of strong growth, demonstrating our unique market positioning  and  client  relevance.  Strong  deal  wins,  with  67%  net  new  in  Q2,  reflect  our  deep understanding of clients' priorities to deliver value from AI in this environment', said Salil Parekh, CEO and MD . 'Our proactive investments, over the last three years, in embracing an AI -first culture within Infosys has ensured that our people are reskilled to thrive in a human+AI workplace.  Infosys Topaz's different iated value proposition is unlocking value at scale in every transformation program' he added .
+2.2% QoQ 2.9% YoY
+CC Growth
+## Guidance for FY26:
+- Revenue growth of 2%-3% in constant currency
+- Operating margin of 20%-22%
 
-(1) Includes solar plant with a useful life of 25 years
-Depreciation methods, useful lives and residual values are reviewed periodically, including at each financial year end. The useful lives are based on historical experience with similar assets as well as anticipation of future events, which may impact their life, such as changes in technology.
-Advances paid towards the acquisition of property, plant and equipment outstanding at each balance sheet date and the cost of assets not ready to use before such date are disclosed under 'Capital work-inprogress'. Subsequent expenditures relating to property, plant and equipment is capitalized only when it is probable that future economic benefits associated with these will flow to the Group and the cost of the item can be measured reliably. The cost and related accumulated depreciation are eliminated from the financial statements upon sale or retirement of the asset.
-## Impairment
-Property, plant and equipment are evaluated for recoverability whenever events or changes in circumstances indicate that their carrying amounts may not be recoverable. For the purpose of impairment testing, the recoverable amount (i.e. the higher of the fair value less cost to sell and the value-in-use) is determined on an individual asset basis unless the asset does not generate cash flows that are largely independent of those from other assets. In such cases, the recoverable amount is determined for the Cash Generating Unit (CGU) to which the asset belongs.
-If such assets are considered to be impaired, the impairment to be recognized in net profit in the interim condensed consolidated statement of comprehensive income is measured by the amount by which the carrying value of the assets exceeds the estimated recoverable amount of the asset. An impairment loss is reversed in net profit in the statement of comprehensive income if there has been a change in the estimates used to determine the recoverable amount. The carrying amount of the asset is increased to its revised recoverable amount, provided that this amount does not exceed the carrying amount that would have been determined (net of any accumulated depreciation) had no impairment loss been recognized for the asset in prior years.
-The changes in the carrying value of property, plant and equipment for the three months ended September 30, 2025 are as follows:
-|                                                   |      |           |                     |                    |                        | (Dollars in millions)   | (Dollars in millions)   |
-|---------------------------------------------------|------|-----------|---------------------|--------------------|------------------------|-------------------------|-------------------------|
-| Particulars                                       | Land | Buildings | Plant and machinery | Computer equipment | Furniture and fixtures | Vehicles                | Total                   |
-| Gross carrying value as at July 1, 2025           | 173  | 1,369     | 637                 | 1,082              | 391                    | 6                       | 3,658                   |
-| Additions                                         | 1    | -         | 4                   | 47                 | 1                      | -                       | 53                      |
-| Deletions**                                       | -    | -         | (1)                 | (19)               | (7)                    | (1)                     | (28)                    |
-| Translation difference                            | (5)  | (42)      | (23)                | (34)               | (12)                   | -                       | (116)                   |
-| Gross carrying value as at September 30, 2025     | 169  | 1,327     | 617                 | 1,076              | 373                    | 5                       | 3,567                   |
-| Accumulated depreciation as at July 1, 2025       | -    | (638)     | (518)               | (821)              | (322)                  | (5)                     | (2,304)                 |
-| Depreciation                                      | -    | (12)      | (11)                | (29)               | (7)                    | -                       | (59)                    |
-| Accumulated depreciation on deletions**           | -    | -         | 1                   | 19                 | 7                      | 1                       | 28                      |
-| Translation difference                            | -    | 19        | 20                  | 25                 | 10                     | -                       | 74                      |
-| Accumulated depreciation as at September 30, 2025 | -    | (631)     | (508)               | (806)              | (312)                  | (4)                     | (2,261)                 |
-| Capital work-in progress as at July 1, 2025       |      |           |                     |                    |                        |                         | 130                     |
-| Carrying value as at July 1, 2025                 | 173  | 731       | 119                 | 261                | 69                     | 1                       | 1,484                   |
-| Capital work-in progress as at September 30, 2025 |      |           |                     |                    |                        |                         | 146                     |
-| Carrying value as at September 30, 2025           | 169  | 696       | 109                 | 270                | 61                     | 1                       | 1,452                   |
+## Key highlights:
+## For the quarter ended September 30, 2025
+- Revenues in CC terms grew by 2.9% YoY and 2.2% QoQ
+- Reported revenues at $5,076 million, growth of 3.7% YoY
+- Operating  margin  at  21.0%,  decline  of  0.1% YoY and growth of 0.2% QoQ
+- Basic EPS at $0.20, growth of 7.9% YoY
+- FCF at $1,101 million, growth of 31.2% YoY; FCF conversion at 131.1% of net profit
 
-The changes in the carrying value of property, plant and equipment for the three months ended September 30, 2024 are as follows:
-|                                                       |      |           |                     |                    |                        | (Dollars in millions)   | (Dollars in millions)   |
-|-------------------------------------------------------|------|-----------|---------------------|--------------------|------------------------|-------------------------|-------------------------|
-| Particulars                                           | Land | Buildings | Plant and machinery | Computer equipment | Furniture and fixtures | Vehicles                | Total                   |
-| Gross carrying value as at July 1, 2024               | 171  | 1,408     | 639                 | 1,034              | 401                    | 6                       | 3,659                   |
-| Additions                                             | -    | 2         | 10                  | 20                 | 8                      | -                       | 40                      |
-| Additions - Business Combination (Refer to Note 2.10) | -    | -         | 1                   | 1                  | 3                      | -                       | 5                       |
-| Deletions*                                            | -    | -         | (4)                 | (13)               | (4)                    | -                       | (21)                    |
-| Translation difference                                | -    | (2)       | (2)                 | (2)                | 1                      | -                       | (5)                     |
-| Gross carrying value as at September 30, 2024         | 171  | 1,408     | 644                 | 1,040              | 409                    | 6                       | 3,678                   |
-| Accumulated depreciation as at July 1, 2024           | -    | (602)     | (507)               | (785)              | (325)                  | (5)                     | (2,224)                 |
-| Depreciation                                          | -    | (14)      | (12)                | (37)               | (10)                   | -                       | (73)                    |
-| Accumulated depreciation on deletions*                | -    | -         | 4                   | 12                 | 4                      | -                       | 20                      |
-| Translation difference                                | -    | 1         | 2                   | 2                  | -                      | -                       | 5                       |
-| Accumulated depreciation as at September 30, 2024     | -    | (615)     | (513)               | (808)              | (331)                  | (5)                     | (2,272)                 |
-| Capital work-in progress as at July 1, 2024           |      |           |                     |                    |                        |                         | 69                      |
-| Carrying value as at July 1, 2024                     | 171  | 806       | 132                 | 249                | 76                     | 1                       | 1,504                   |
-| Capital work-in progress as at September 30, 2024     |      |           |                     |                    |                        |                         | 80                      |
-| Carrying value as at September 30, 2024               | 171  | 793       | 131                 | 232                | 78                     | 1                       | 1,486                   |
+## For the six months ended September 30, 2025
+- Revenues in CC terms grew by 3.3% YoY
+- Reported revenues at $10,018 million, growth of 4.3% YoY
+- Operating  margin  at  20.9%,  decline  of  0.2% YoY
+- Basic EPS at $0.40, growth of 6.9% YoY
+- FCF at $1,985 million, growth of 2.7% YoY; FCF conversion at 120.4% of net profit
 
-The changes in the carrying value of property, plant and equipment for the six months ended September 30, 2025 are as follows:
-|                                                       |      |           |                     |                    |                        | (Dollars in millions)   | (Dollars in millions)   |
-|-------------------------------------------------------|------|-----------|---------------------|--------------------|------------------------|-------------------------|-------------------------|
-| Particulars                                           | Land | Buildings | Plant and machinery | Computer equipment | Furniture and fixtures | Vehicles                | Total                   |
-| Gross carrying value as at April 1, 2025              | 173  | 1,371     | 632                 | 1,088              | 386                    | 6                       | 3,656                   |
-| Additions                                             | 2    | 1         | 12                  | 71                 | 6                      | -                       | 92                      |
-| Additions - Business Combination (Refer to Note 2.10) | -    | -         | -                   | 1                  | -                      | -                       | 1                       |
-| Deletions**                                           | -    | (1)       | (3)                 | (50)               | (8)                    | (1)                     | (63)                    |
-| Translation difference                                | (6)  | (44)      | (24)                | (34)               | (11)                   | -                       | (119)                   |
-| Gross carrying value as at September 30, 2025         | 169  | 1,327     | 617                 | 1,076              | 373                    | 5                       | 3,567                   |
-| Accumulated depreciation as at April 1, 2025          | -    | (627)     | (511)               | (820)              | (315)                  | (5)                     | (2,278)                 |
-| Depreciation                                          | -    | (25)      | (20)                | (61)               | (14)                   | -                       | (120)                   |
-| Accumulated depreciation on deletions**               | -    | -         | 2                   | 49                 | 8                      | 1                       | 60                      |
-| Translation difference                                | -    | 21        | 21                  | 26                 | 9                      | -                       | 77                      |
-| Accumulated depreciation as at September 30, 2025     | -    | (631)     | (508)               | (806)              | (312)                  | (4)                     | (2,261)                 |
-| Capital work-in progress as at April 1, 2025          |      |           |                     |                    |                        |                         | 119                     |
-| Carrying value as at April 1, 2025                    | 173  | 744       | 121                 | 268                | 71                     | 1                       | 1,497                   |
-| Capital work-in progress as at September 30, 2025     |      |           |                     |                    |                        |                         | 146                     |
-| Carrying value as at September 30, 2025               | 169  | 696       | 109                 | 270                | 61                     | 1                       | 1,452                   |
+We had robust all-round performance in Q2 - strong growth, resilient margins, very high cash generation and  13.1%  EPS  growth  year  on  year  in  rupee  terms.  We  continue  to  make  strategic  investments  to futureproof  the  business  with  a  tight  focus  on  execution,  amidst  high uncertainty', said  Jayesh Sanghrajka, CFO . 'In line with our Capital Allocation Policy, we have announced a share buyback for ` 18,000 crores during the quarter and an interim dividend of ` 23 per share, an increase of 9.5% over last
+fiscal ', he added .
+Press Release
+21.0% Operating Margin
+13.1% YoY EPS Increase (₹ terms)
+$3.1 Bn Large Deal TCV (67% Net New)
+<!-- image -->
+e
+<!-- image -->
+## Client Wins &amp; Testimonials
+- Infosys transformed ABN AMRO's lending process with nCino platform implementation by consolidating multiple legacy systems into a single, unified platform. Hans-Willem Giesen, IT Lead -Credits, ABN AMRO , said, 'The transition to the nCino Platform, facilitated by our partners like Infosys, has brought about a significant shift in how we manage our lending process. This solution will improve operational efficiency, enhance our collateral management  capabilities,  and  provide  our  customers  with  a  faster,  more  transparent experience. As we look to the future, this platform will be a cornerstone of our continued growth and transformation.'
+- Infosys  collaborated  with  Mastercard  to  offer  financial  institutions  enhanced  access to Mastercard Move, its portfolio of money movement capabilities, and thereby scale crossborder  payments. Pratik  Khowala,  EVP  and  Global  Head  of  Transfer  Solutions, Mastercard ,  said,  'Through  Mastercard  Move's  cutting -edge  solutions,  we  empower individuals  and  organizations  to  move  money  quickly  and  securely  across  borders.  The strategic collaboration with Infosys provides financial institutions with easy access to these capabilities, enabling them to facilitate fast, secure and reliable cross-border payments for their  customers  while  enhancing  control  of  risk,  operations,  costs  and  liquidity  for themselves. Together with Infosys, we're helping financial institutions delive r the seamless digital payments experiences today's customers expect.'
+- Infosys extended its strategic collaboration with Sunrise to accelerate its IT transformation, with  a  strong  focus  on  data  security,  operational  agility,  and  future  AI  integration. Anna Maria Blengino, CIO, Sunrise , said, "Through our strategic collaboration with Infosys, we are  consolidating  our  technology  landscape  and  infusing  it  with  AI,  putting  enhanced customer  experience  at  the  heart  of  this  transition.  The  Sunrise  and  Infosys  teams  are working side by side with a true one-team mindset to design and deliver platforms that are more agile, predictive, and scalable.'
+- Infosys  announced  a  joint  venture  with  Telstra,  in  Australia,  by  acquiring  75%  of  the shareholding in Versent Group, a wholly owned subsidiary of Telstra Group, to propel AIenabled cloud and digital solutions for enterprises. Vicki Brady, Chief Executive Officer, Telstra ,  said, 'Our collaboration with Infosys reflects our confidence in the value we can unlock together. Their global scale, deep industry knowledge, and culture of innovation and service excellence will be instrumental in accelerating Versent Group's growth and impact across the region.'
+- Infosys collaborated with RWE AG to drive automated digital workplace transformation and improve operational efficiency. Gülnaz Öneş, Group CIO of RWE ,  said,  'By  leveraging modern technologies and aligning them with our sustainability and efficiency goals, we are streamlining  operations,  empowering  our  people,  and  creating  value  across  RWE.  Our collaboration with trusted partners like Infosys underscores our commitment to a resilient, agile digital workplace that drives sustainable growth.'
+- Infosys  collaborated  with  HanesBrands  Inc  to  unlock  hyper  productivity  and  AI-driven efficiency in the digital, business applications, and data landscape. Scott Pleiman, Chief Strategy, Transformation, Analytics and Technology Officer, HanesBrands , said, 'As we continue to evolve our operational model, we sought an experienced collaborator with deep domain expertise and advanced capabilities in AIdriven transformation. Infosys' AI -first approach and proven ability to scale innovation aligned with our long-term vision for agility, efficiency and customercentricity.'
+- Infosys  collaborated  with  AGCO to deliver  IT  and  HR  operations transformation  with  an efficient and future-ready operational framework for growth. Viren Shah, Chief Digital &amp;
 
-** During the three months and six months ended September 30, 2025, certain assets which were not in use having gross book value of $25 million (net book value: Nil) and $54 million (net book value: Nil) respectively, were retired.
-The changes in the carrying value of property, plant and equipment for the six months ended September 30, 2024 are as follows:
-|                                                       |      |           |                     |                    |                        | (Dollars in millions)   | (Dollars in millions)   |
-|-------------------------------------------------------|------|-----------|---------------------|--------------------|------------------------|-------------------------|-------------------------|
-| Particulars                                           | Land | Buildings | Plant and machinery | Computer equipment | Furniture and fixtures | Vehicles                | Total                   |
-| Gross carrying value as at April 1, 2024              | 171  | 1,411     | 637                 | 1,032              | 406                    | 6                       | 3,663                   |
-| Additions                                             | -    | 4         | 15                  | 42                 | 11                     | -                       | 72                      |
-| Additions - Business Combination (Refer to Note 2.10) | -    | -         | 1                   | 1                  | 3                      | -                       | 5                       |
-| Deletions*                                            | -    | (5)       | (7)                 | (32)               | (11)                   | -                       | (55)                    |
-| Translation difference                                | -    | (2)       | (2)                 | (3)                | -                      | -                       | (7)                     |
-| Gross carrying value as at September 30, 2024         | 171  | 1,408     | 644                 | 1,040              | 409                    | 6                       | 3,678                   |
-| Accumulated depreciation as at April 1, 2024          | -    | (590)     | (498)               | (765)              | (322)                  | (5)                     | (2,180)                 |
-| Depreciation                                          | -    | (27)      | (24)                | (77)               | (20)                   | -                       | (148)                   |
-| Accumulated depreciation on deletions*                | -    | 1         | 7                   | 31                 | 11                     | -                       | 50                      |
-| Translation difference                                | -    | 1         | 2                   | 3                  | -                      | -                       | 6                       |
-| Accumulated depreciation as at September 30, 2024     | -    | (615)     | (513)               | (808)              | (331)                  | (5)                     | (2,272)                 |
-| Capital work-in progress as at April 1, 2024          |      |           |                     |                    |                        |                         | 54                      |
-| Carrying value as at April 1, 2024                    | 171  | 821       | 139                 | 267                | 84                     | 1                       | 1,537                   |
-| Capital work-in progress as at September 30, 2024     |      |           |                     |                    |                        |                         | 80                      |
-| Carrying value as at September 30, 2024               | 171  | 793       | 131                 | 232                | 78                     | 1                       | 1,486                   |
+Press Release Information Officer, AGCO Corporation , said, "At AGCO, we're committed to delivering excellence in everything we do, always putting Farmers First. Collaborating with Infosys is intended  to  enable  us  to  create  a  responsive,  streamlined  and  innovative  operational ecosystem  within  IT  and  other  functions  that  allows  our  teams  to  focus  on  critical  and strategic initiatives that center on the farmer.'
+<!-- image -->
+- Uniting Financial Services (UFS), Australia, subscribed to Infosys Finacle's Digital Banking SaaS suite on AWS cloud, in a move that was completed in less than five months. John McComb, Chief Risk Officer and Acting CEO, Uniting Financial Services , said, 'We are delighted  to  announce  the  successful  go-live  of  the  Finacle  platform.  Our  goal  was  to modernise our core banking and digital capabilities to enhance the experience for clients. With Infosys Finacle, we have found a long-term technology partner, with the ability to deliver a  future-ready  platform  that  meets  the  needs  of  our  operations  today  and  supports  our ambitions for tomorrow in a rapidly evolving financial services landscape.'
+- Infosys collaborated with Glion Arena Kobe as their official digital innovation and GX partner to power smart and sustainable entertainment experiences . Jun Shibuya, President and Representative Director, One Bright KOBE Corporation ,  said, 'Glion Kobe Arena is a new landmark commemorating the 30th anniversary of the Great Hanshin-Awaji Earthquake.  Our  vision for the arena  is to  become  a  pioneering  next-generation entertainment venue, offering spectacular events while operating sustainably. We are happy to announce our agreement with Infosys as our official digital innovation and GX partner. Leveraging  Infosys' innovative solutions will help us aggregate  data, utilize cloud technologies, explore new revenue opportunities, and deliver a seamless experience for all our fans and visitors.'
 
-* During the three months and six months ended September 30, 2024, certain assets which were not in use having gross book value of $12 million (net book value: Nil) and $ 27 million (net book value: Nil) respectively, were retired.
+## Recognitions &amp; Awards
+- Brand &amp; Corporate
+- Infosys honored with awards at 'The Asset Corporate Sustainability Leadership Awards 2025'. Categories include the 'Platinum Award for Excellence' and 'Best Investor Relations Team'
+- Recognized  as  one  of  the  World's  Best  Companies  2025  by  TIME  and  Statista  for  its excellence in employee satisfaction, revenue growth, and sustainability transparency
+- Recognized  among the World's  Most  Trustworthy  Companies  2025  by  Newsweek  and Statista
+- Recognized as one of the Best Companies for Women in India in the Hall of Fame for the seventh consecutive year and the 2025 Avtar &amp; Seramount Best Companies for Women in India in the IT sector
+- Honored with the Exemplars of Inclusion in the Most Inclusive Companies Index 2025 by Avtar &amp; Seramount
+- Recognized among the top 10 in the newly launched category of Best Companies for ESG in India in 2025 by Avtar &amp; Seramount
+- Infosys  Foundation  &amp;  Infosys  ESG  Annual  Report  FY24-25  received  the  Gold  Stevie ® Award in  the  categories  of  'Best  Annual  Report -  NonProfit  Organizations'  and  'Other Publication - Company ' .  Infosys Integrated Report secured the Silver Stevie ®  Award for 'Best  Annual  Report -  PubliclyHeld  Corporations'  at  the 22nd  Annual  International Business Awards ®
+- Infosys BPM received the 9th Edition Women Empowerment Summit and GIWL Awards for ' Best Organization for Women Empowerment '
 
-The aggregate depreciation expense is included in cost of sales in the interim condensed consolidated statement of comprehensive income.
-Repairs and maintenance costs are recognized in the consolidated statement of comprehensive income when incurred.
-Consequent to the Companies (Corporate Social Responsibility Policy) Amendment Rules, 2021 ('the Rules'), the Company was required to transfer its CSR capital assets installed prior to January 2021. Towards this the Company had incorporated a subsidiary 'Infosys Green Forum' (IGF) under Section 8 of the Companies Act, 2013. During the year ended March 31, 2022, the Company had completed the transfer of assets upon obtaining the required approvals from regulatory authorities, as applicable. During fiscal 2024, the application filed by IGF for regularization of the provisional registration was rejected and registration cancelled vide order dated March 26, 2024 by Income Tax Commissioner (Exemption). IGF has filed an appeal before Income Tax Tribunal against the order.
-The Group had contractual commitments for capital expenditure primarily comprising of commitments for infrastructure facilities and computer equipments aggregating to $126 million and $109 million as at September 30, 2025 and March 31, 2025, respectively.
-X
-1
-A
-O
+Press Release
+<!-- image -->

@@ -1,549 +1,235 @@
 ---
 document_name: "Infosys_23042026170027_outcome.md"
 group_id: "Infosys_23042026170027_outcome__group_027"
-source_section_count: 3
-page_start: 202
-page_end: 211
-estimated_tokens: 10456
+source_section_count: 1
+page_start: 108
+page_end: 112
+estimated_tokens: 7309
 source_section_ids:
-  - "Infosys_23042026170027_outcome__088"
-  - "Infosys_23042026170027_outcome__089"
-  - "Infosys_23042026170027_outcome__090"
+  - "Infosys_23042026170027_outcome__050"
 ---
 
-## b. Superannuation
-The Company contributed ₹541 crore and ₹493 crore to the Superannuation trust during the year ended March 31, 2026 and March 31, 2025 respectively and the same has been recognized in the Statement of Profit and Loss account under the head employee benefit expense.
-## c. Provident fund
-Infosys has an obligation to fund any shortfall on the yield of the trust's investments over the administered interest rates on an annual basis. These administered rates are determined annually predominantly considering the social and economic factors. The actuary has provided a valuation for provident fund liabilities on the basis of guidance issued by Actuarial Society of India.
-The following tables set out the funded status of the defined benefit provident fund plan of Infosys limited and the amounts recognized in the Company's financial statements as at March 31, 2026 and March 31, 2025:
-|                                                                                     | (In ₹ crore)    | (In ₹ crore)    |
-|-------------------------------------------------------------------------------------|-----------------|-----------------|
-| Particulars                                                                         | As at March 31, | As at March 31, |
-|                                                                                     | 2026            | 2025            |
-| Change in benefit obligations                                                       |                 |                 |
-| Benefit obligations at the beginning                                                | 13,867          | 11,879          |
-| Service cost                                                                        | 1,088           | 952             |
-| Employee contribution                                                               | 2,036           | 1,683           |
-| Interest expense                                                                    | 940             | 862             |
-| Actuarial (gains) / loss                                                            | 95              | 218             |
-| Benefits paid                                                                       | (1,929)         | (1,727)         |
-| Benefit obligations at the end                                                      | 16,097          | 13,867          |
-| Change in plan assets                                                               |                 |                 |
-| Fair value of plan assets at the beginning                                          | 13,928          | 11,812          |
-| Interest income                                                                     | 944             | 858             |
-| Remeasurements- Return on plan assets excluding amounts included in interest income | (415)           | 245             |
-| Employer contribution                                                               | 1,170           | 1,057           |
-| Employee contribution                                                               | 2,036           | 1,683           |
-| Benefits paid                                                                       | (1,929)         | (1,727)         |
-| Fair value of plan assets at the end                                                | 15,734          | 13,928          |
-| Funded status [surplus/(deficit)]                                                   | (363)           | 61              |
-| Irrecoverable Surplus (Effect of Asset Ceiling)                                     | -               | (61)            |
-| Net defined benefit asset/ (liability)                                              | (363)           | -               |
-
-Amount for the year ended March 31, 2026 and March 31, 2025 recognized in the Statement of Profit and Loss under employee benefit expense:
-| Particulars                                       | (In ₹ crore)   |   (In ₹ crore) |
-|---------------------------------------------------|----------------|----------------|
-|                                                   | 2026           |           2025 |
-| Service cost                                      | 1,088          |            952 |
-| Net interest on the net defined benefit liability | -              |              4 |
-| Net provident fund cost                           | 1,088          |            956 |
-
-Amount for the year ended March 31, 2026 and March 31, 2025 recognized in the statement of other comprehensive income:
-| Particulars                                                                                                                | 2026 Year ended March   | 2025   |
-|----------------------------------------------------------------------------------------------------------------------------|-------------------------|--------|
-| Remeasurements of the net defined benefit liability/ (asset)                                                               |                         |        |
-| Actuarial (gains) / losses                                                                                                 | 95                      | 218    |
-| (Return) / loss on plan assets excluding amounts included in the net interest on the net defined benefit liability/(asset) | 415                     | (245)  |
-| Asset Ceiling Effect                                                                                                       | (61)                    | 61     |
-| Net interest on the net defined benefit asset                                                                              | (4)                     | -      |
-|                                                                                                                            | 445                     | 34     |
-
-The assumptions used in determining the present value obligation of the defined benefit plan under the Deterministic Approach are as follows:
-|                                          | As at March 31,   | As at March 31,   |
-|------------------------------------------|-------------------|-------------------|
-| Particulars                              | 2026              | 2025              |
-| Government of India (GOI) bond yield (1) | 6.50%             | 6.50%             |
-| Expected rate of return on plan assets   | 8.25%             | 8.00%             |
-| Remaining term to maturity of portfolio  | 6 years           | 6 years           |
-| Expected guaranteed interest rate        | 8.25%             | 8.25%             |
-
-(1) In India, the market for high quality corporate bonds being not developed, the yield of government bonds is considered as the discount rate. The tenure has been considered taking into account the past long-term trend of employees' average remaining service life which reflects the average estimated term of the post- employment benefit obligations.
-The breakup of the plan assets into various categories as at March 31, 2026 and March 31, 2025 is as follows:
-| Particulars                                         | As at March 31,   | As at March 31,   |
-|-----------------------------------------------------|-------------------|-------------------|
-|                                                     | 2026              | 2025              |
-| Central and State government bonds                  | 63%               | 60%               |
-| Public sector undertakings and Private sector bonds | 26%               | 28%               |
-| Others                                              | 11%               | 12%               |
-
-The asset allocation for plan assets is determined based on the investment criteria prescribed under the relevant regulations.
-The actuarial valuation of Provident Fund liability exposes the Company to interest rate risk. The defined benefit obligation calculated uses a discount rate based on government bonds. If bond yields fall, the defined benefit obligation will tend to increase.
-As at March 31, 2026 the defined benefit obligation would be affected by approximately ₹76 crore and ₹151 crore on account of a 0.25% increase / decrease in the expected rate of return on plan assets.
-The Company contributed ₹1,321 crore and ₹1,158 crore to the provident fund during the year ended March 31, 2026 and March 31, 2025, respectively. The same has been recognized in the net profit in the statement of profit and loss under the head employee benefit expense.
-The provident plans are applicable only to employees drawing a salary in Indian rupees.
-## Employee benefits cost include:
-|                            | (In ₹                | crore)               |
-|----------------------------|----------------------|----------------------|
-| Particulars                | Year ended March 31, | Year ended March 31, |
-|                            | 2026                 | 2025                 |
-| Salaries and bonus (1)     | 70,931               | 65,425               |
-| Defined contribution plans | 631                  | 560                  |
-| Defined benefit plans      | 2,823                | 1,481                |
-|                            | 74,385               | 67,466               |
-
-(1) Includes employee stock compensation expense of ₹846 cror e and ₹712 crore for the year ended March 31, 2026 and March 31, 2025, respectively (Refer to  note 2.12).
-## 2.22 EARNINGS PER EQUITY SHARE
+# Proceeds from sale of property plant and equipment amounted to ₹271 crore and ₹171 crore for the year ended March 31, 2026 and March 31, 2025, respectively.
+The aggregate depreciation expense is included in cost of sales in the interim consolidated statement of comprehensive income.
+Repairs and maintenance costs are recognized in the interim consolidated statement of comprehensive income when incurred.
+Consequent to the Companies (Corporate Social Responsibility Policy) Amendment Rules, 2021 ('the Rules'), the Company was required to transfer its CSR capital assets installed prior to January 2021. Towards this the Company had incorporated a subsidiary 'Infosys Green Forum' (IGF) under Section 8 of the Companies Act, 2013. During the year ended March 31, 2022, the Company had completed the transfer of assets upon obtaining the required approvals from regulatory authorities, as applicable. During fiscal 2024, the application filed by IGF for regularization of the provisional registration was rejected and registration cancelled vide order dated March 26, 2024 by Income Tax Commissioner (Exemption). IGF had filed an appeal before Income Tax Appellate Tribunal (ITAT) against the order. During fiscal 2026, ITAT had upheld the order of Commissioner (Exemption) and dismissed the IGF's appeals. IGF has filed an appeal before the Hon'ble High Court against the ITAT order.
+The Group had contractual commitments for capital expenditure primarily comprising of commitments for infrastructure facilities and computer equipment aggregating to ₹1,341 crore and ₹935 crore as at March 31, 2026 and March 31, 2025, respectively.
+X
+1
+A
+O
+## 2.8 Leases
 ## Accounting Policy
-Basic earnings per equity share is computed by dividing the net profit attributable to the equity holders of the Company by the weighted average number of equity shares outstanding during the period. Diluted earnings per equity share is computed by dividing the net profit attributable to the equity holders of the Company by the weighted average number of equity shares considered for deriving basic earnings per equity share and also the weighted average number of equity shares that could have been issued upon conversion of all dilutive potential equity shares. The dilutive potential equity shares are adjusted for the proceeds receivable had the equity shares been actually issued at fair value (i.e. the average market value of the outstanding equity shares). Dilutive potential equity shares are deemed converted as at the beginning of the period, unless issued at a later date. Dilutive potential equity shares are determined independently for each period presented.
-The number of equity shares and potentially dilutive equity shares are adjusted retrospectively for all periods presented for any share splits and bonus shares issues including for changes effected prior to the approval of the financial statements by the Board of Directors.
-The following is the computation of basic earnings per equity share:
-| Particulars                                                                            | Year ended March 31,   | Year ended March 31,   |
-|----------------------------------------------------------------------------------------|------------------------|------------------------|
-|                                                                                        | 2026                   | 2025                   |
-| Profit for the year                                                                    | 29,211                 | 25,568                 |
-| Basic earnings per equity share - weighted average number of equity shares outstanding | 4,12,19,31,567         | 4,15,19,36,905         |
-| Basic earnings per equity share                                                        | 70.87                  | 61.58                  |
+## The Group as a lessee
+The Group's lease asset classes primarily consist of leases for land, buildings and computers. The Group assesses whether a contract contains a lease, at inception of a contract. A contract is, or contains, a lease if the contract conveys the right to control the use of an identified asset for a period of time in exchange for consideration. To assess whether a contract conveys the right to control the use of an identified asset, the Group assesses whether: (1) the contract involves the use of an identified asset (2) the Group has substantially all of the economic benefits from use of the asset through the period of the lease and (3) the Group has the right to direct the use of the asset.
+At the date of commencement of the lease, the Group recognizes a right-of-use asset ('ROU') and a corresponding lease liability for all lease arrangements in which it is a lessee, except for leases with a term of twelve months or less (short-term leases) and low value leases. For these short-term and low value leases, the Group recognizes the lease payments as an operating expense on a straight-line basis over the term of the lease.
+As a lessee, the Group determines the lease term as the non-cancellable period of a lease adjusted with any option to extend or terminate the lease, if the use of such option is reasonably certain. The Group makes an assessment on the expected lease term on a lease-by-lease basis and thereby assesses whether it is reasonably certain that any options to extend or terminate the contract will be exercised. In evaluating the lease term, the Group considers factors such as any significant leasehold improvements undertaken over the lease term, costs relating to the termination of the lease and the importance of the underlying asset to Group's operations taking into account the location of the underlying asset and the availability of suitable alternatives. The lease term in future periods is reassessed to ensure that the lease term reflects the current economic circumstances.
+Certain lease arrangements include the options to extend or terminate the lease before the end of the lease term. ROU assets and lease liabilities includes these options when it is reasonably certain that they will be exercised.
+The right-of-use assets are initially recognized at cost, which comprises the initial amount of the lease liability adjusted for any lease payments made at or prior to the commencement date of the lease plus any initial direct costs less any lease incentives. They are subsequently measured at cost less accumulated depreciation and impairment losses.
+Right-of-use assets are depreciated from the commencement date on a straight-line basis over the shorter of the lease term and useful life of the underlying asset.
+Right-of-use assets are evaluated for recoverability whenever events or changes in circumstances indicate that their carrying amounts may not be recoverable. For the purpose of impairment testing, the recoverable amount (i.e. the higher of the fair value less cost to sell and the value-in-use) is determined on an individual asset basis unless the asset does not generate cash flows that are largely independent of those from other assets. In such cases, the recoverable amount is determined for the Cash Generating Unit (CGU) to which the asset belongs.
+The lease liability is initially measured at amortized cost at the present value of the future lease payments. The lease payments are discounted using the interest rate implicit in the lease or, if not readily determinable, using the incremental borrowing rates in the country of domicile of these leases. Lease liabilities are remeasured with a corresponding adjustment to the related right-of-use asset if the group changes its assessment of whether it will exercise an extension or a termination option.
+Lease liability and ROU asset have been separately presented in the Balance Sheet and lease payments have been classified as financing cash flows.
+## The Group as a lessor
+Leases for which the group is a lessor is classified as a finance or operating lease. Whenever the terms of the lease transfer substantially all the risks and rewards of ownership to the lessee, the contract is classified as a finance lease. All other leases are classified as operating leases.
+When the Group is an intermediate lessor, it accounts for its interests in the head lease and the sublease separately. The sublease is classified as a finance or operating lease by reference to the right-of-use asset arising from the head lease.
+For finance lease, finance income is recognised over the lease term based on a pattern reflecting a constant periodic rate of return on the lessor's net investment in the lease and for operating leases, rental income is recognized on a straight line basis over the term of the relevant lease.
+Following are the changes in the carrying value of right-of-use assets for the three months ended March 31, 2026:
+|                               |                       |                       |                       |                       | (In ₹ crore)   |
+|-------------------------------|-----------------------|-----------------------|-----------------------|-----------------------|----------------|
+| Particulars                   | Category of ROU asset | Category of ROU asset | Category of ROU asset | Category of ROU asset | Total          |
+|                               | Land                  | Buildings             | Vehicles              | Computers             |                |
+| Balance as at January 1, 2026 | 548                   | 3,270                 | 24                    | 2,273                 | 6,115          |
+| Additions (1)                 | -                     | 161                   | 5                     | 677                   | 843            |
+| Deletions                     | -                     | (18)                  | (1)                   | (383)                 | (402)          |
+| Depreciation                  | (1)                   | (186)                 | (4)                   | (281)                 | (472)          |
+| Translation difference        | 3                     | 23                    | 2                     | 65                    | 93             |
+| Balance as at March 31, 2026  | 550                   | 3,250                 | 26                    | 2,351                 | 6,177          |
 
-The following is a reconciliation of the equity shares used in the computation of basic and diluted earnings per equity share:
-| Particulars                                                                                                           | Year ended March 31,   | Year ended March 31,   |
-|-----------------------------------------------------------------------------------------------------------------------|------------------------|------------------------|
-|                                                                                                                       | 2026                   | 2025                   |
-| Profit for the year                                                                                                   | 29,211                 | 25,568                 |
-| Basic earnings per equity share - weighted average number of equity shares outstanding                                | 4,12,19,31,567         | 4,15,19,36,905         |
-| Effect of dilutive common equivalent shares - share options outstanding                                               | 50,96,754              | 79,68,571              |
-| Diluted earnings per equity share - weighted average number of equity shares and common equivalent shares outstanding | 4,12,70,28,321         | 4,15,99,05,476         |
-| Diluted earnings per equity share                                                                                     | 70.78                  | 61.46                  |
+(1) Net of adjustments on account of modifications Following are the changes in the carrying value of right-of-use assets for the three months ended March 31, 2025:
+|                               |                       |                       |                       |                       | (In ₹ crore)   |
+|-------------------------------|-----------------------|-----------------------|-----------------------|-----------------------|----------------|
+| Particulars                   | Category of ROU asset | Category of ROU asset | Category of ROU asset | Category of ROU asset | Total          |
+|                               | Land                  | Buildings             | Vehicles              | Computers             |                |
+| Balance as of January 1, 2025 | 601                   | 3,339                 | 24                    | 2,381                 | 6,345          |
+| Additions (1)                 | -                     | 284                   | 2                     | 370                   | 656            |
+| Deletions                     | -                     | (104)                 | -                     | (192)                 | (296)          |
+| Depreciation                  | (1)                   | (180)                 | (3)                   | (223)                 | (407)          |
+| Translation difference        | -                     | 9                     | 1                     | 3                     | 13             |
+| Balance as of March 31, 2025  | 600                   | 3,348                 | 24                    | 2,339                 | 6,311          |
 
-For the years ended March 31, 2026 and March 31, 2025, there were 858,370 and Nil options to purchase equity shares which had an anti-dilutive effect.
+(1) Net of adjustments on account of modifications
+Following are the changes in the carrying value of right-of-use assets for the year ended March 31, 2026:
+|                              |                       |                       |                       |                       | (In ₹ crore)   |
+|------------------------------|-----------------------|-----------------------|-----------------------|-----------------------|----------------|
+| Particulars                  | Category of ROU asset | Category of ROU asset | Category of ROU asset | Category of ROU asset | Total          |
+|                              | Land                  | Buildings             | Vehicles              | Computers             |                |
+| Balance as of April 1, 2025  | 600                   | 3,348                 | 24                    | 2,339                 | 6,311          |
+| Additions (1)                | -                     | 585                   | 12                    | 1,940                 | 2,537          |
+| Deletions                    | (54)                  | (50)                  | (3)                   | (1,072)               | (1,179)        |
+| Depreciation                 | (6)                   | (748)                 | (12)                  | (1,124)               | (1,890)        |
+| Translation difference       | 10                    | 115                   | 5                     | 268                   | 398            |
+| Balance as of March 31, 2026 | 550                   | 3,250                 | 26                    | 2,351                 | 6,177          |
 
-## 2.23 CONTINGENT LIABILITIES AND COMMITMENTS
+(1) Net of adjustments on account of modifications
+Following are the changes in the carrying value of right-of-use assets for the year ended March 31, 2025:
+|                                                           |                       |                       |                       |                       | (In ₹ crore)   |
+|-----------------------------------------------------------|-----------------------|-----------------------|-----------------------|-----------------------|----------------|
+| Particulars                                               | Category of ROU asset | Category of ROU asset | Category of ROU asset | Category of ROU asset | Total          |
+|                                                           | Land                  | Buildings             | Vehicles              | Computers             |                |
+| Balance as of April 1, 2024                               | 605                   | 3,298                 | 17                    | 2,632                 | 6,552          |
+| Additions (1)                                             | -                     | 816                   | 13                    | 1,306                 | 2,135          |
+| Addition due to Business Combination (Refer to Note 2.10) | -                     | 155                   | 5                     | -                     | 160            |
+| Deletions                                                 | -                     | (236)                 | (6)                   | (652)                 | (894)          |
+| Depreciation                                              | (6)                   | (714)                 | (11)                  | (965)                 | (1,696)        |
+| Translation difference                                    | 1                     | 29                    | 6                     | 18                    | 54             |
+| Balance as of March 31, 2025                              | 600                   | 3,348                 | 24                    | 2,339                 | 6,311          |
+
+(1) Net of adjustments on account of modifications
+The aggregate depreciation expense on ROU assets is included in cost of sales in the interim consolidated statement of comprehensive income.
+The following is the break-up of current and non-current lease liabilities as of March 31, 2026 and March 31, 2025:
+|                               | March 31, 2026   | March 31, 2025   |
+|-------------------------------|------------------|------------------|
+| Current lease liabilities     | 3,160            | 2,455            |
+| Non-current lease liabilities | 6,016            | 5,772            |
+| Total                         | 9,176            | 8,227            |
+
+The movement in lease liabilities during the three months and year ended March 31, 2026 and March 31, 2025 is as follows:
+|                                                           |                              |                              |                      | (In ₹ crore)         |
+|-----------------------------------------------------------|------------------------------|------------------------------|----------------------|----------------------|
+|                                                           | Three months ended March 31, | Three months ended March 31, | Year ended March 31, | Year ended March 31, |
+| Particulars                                               | 2026                         | 2025                         | 2026                 | 2025                 |
+| Balance as at Beginning                                   | 8,795                        | 8,221                        | 8,227                | 8,359                |
+| Additions                                                 | 837                          | 624                          | 2,518                | 2,156                |
+| Addition due to Business Combination (Refer to note 2.10) | -                            | -                            | -                    | 160                  |
+| Deletions                                                 | (27)                         | (190)                        | (161)                | (553)                |
+| Finance cost accrued during the period                    | 89                           | 89                           | 359                  | 341                  |
+| Payment of lease liabilities                              | (803)                        | (580)                        | (2,824)              | (2,355)              |
+| Translation difference                                    | 285                          | 63                           | 1,057                | 119                  |
+| Balance as at end                                         | 9,176                        | 8,227                        | 9,176                | 8,227                |
+
+The table below provides details regarding the contractual maturities of lease liabilities as at March 31, 2026 and March 31, 2025 on an undiscounted basis:
+|                      | (In ₹ crore)      | (In ₹ crore)   |
+|----------------------|-------------------|----------------|
+| Particulars          | March 31, 2026 As | March 31, 2025 |
+| Less than one year   | 3,393             | 2,483          |
+| One to five years    | 5,782             | 5,195          |
+| More than five years | 1,044             | 1,296          |
+| Total                | 10,219            | 8,974          |
+
+The group does not face a significant liquidity risk with regard to its lease liabilities as the current assets are sufficient to meet the obligations related to lease liabilities as and when they fall due.
+Rental expense recorded for short-term leases was ₹35 crore and ₹119 crore for the three months and year ended March 31, 2026 respectively. Rental expense recorded for short-term leases was ₹24 crore and ₹85 crore for the three months and year ended March 31, 2025 respectively.
+Leases not yet commenced to which Group is committed is ₹254 crore for a lease term up to 6 years.
+The following is the movement in the net investment in lease during the three months and year ended March 31, 2026 and March 31, 2025:
+|                                           |                              |                              |                      | (In ₹ crore)         |
+|-------------------------------------------|------------------------------|------------------------------|----------------------|----------------------|
+| Particulars                               | Three months ended March 31, | Three months ended March 31, | Year ended March 31, | Year ended March 31, |
+|                                           | 2026                         | 2025                         | 2026                 | 2025                 |
+| Balance as at beginning                   | 2,621                        | 2,173                        | 2,245                | 1,824                |
+| Additions                                 | 319                          | 262                          | 1,192                | 1,013                |
+| Interest income accrued during the period | 18                           | 11                           | 63                   | 37                   |
+| Others                                    | (4)                          | (22)                         | 20                   | (25)                 |
+| Lease receipts                            | (454)                        | (217)                        | (1,292)              | (676)                |
+| Translation difference                    | 70                           | 38                           | 342                  | 72                   |
+| Balance as at the end                     | 2,570                        | 2,245                        | 2,570                | 2,245                |
+
+## 2.9 Goodwill and Intangible assets
+## 2.9.1 Goodwill
 ## Accounting Policy
-Contingent liability is a possible obligation arising from past events and whose existence will be confirmed only by the occurrence or non-occurrence of one or more uncertain future events not wholly within the control of the entity or a present obligation that arises from past events but is not recognized because it is not probable that an outflow of resources embodying economic benefits will be required to settle the obligation or the amount of the obligation cannot be measured with sufficient reliability.
-| Particulars                                                                                      | As at          | As at          |
-|--------------------------------------------------------------------------------------------------|----------------|----------------|
-|                                                                                                  | March 31, 2026 | March 31, 2025 |
-| Contingent liabilities:                                                                          |                |                |
-| Claims against the Company, not acknowledged as debts (1)                                        | 1,944          | 1,772          |
-| [Amount paid to statutory authorities ₹2,399 crore (₹3,815 crore)]                               |                |                |
-| Commitments:                                                                                     |                |                |
-| Estimated amount of contracts remaining to be executed on capital contracts and not provided for | 1,070          | 868            |
-| (net of advances and deposits) (2)                                                               |                |                |
-| Other Commitments*                                                                               | 23             | 27             |
+Goodwill represents the purchase consideration in excess of the Group's interest in the net fair value of identifiable assets, liabilities and contingent liabilities of the acquired entity. When the net fair value of the identifiable assets, liabilities and contingent liabilities acquired exceeds the purchase consideration, the fair value of net assets acquired is reassessed and the bargain purchase gain is recognized immediately in the net profit in the Statement of Comprehensive Income. Goodwill is measured at cost less accumulated impairment losses.
+## Impairment
+Goodwill is tested for impairment on an annual basis and whenever there is an indication that the recoverable amount of a cash generating unit (CGU) is less than its carrying amount. For the impairment test, goodwill is allocated to the CGU or groups of CGU's which benefit from the synergies of the acquisition and which represents the lowest level at which goodwill is monitored for internal management purposes. A CGU is the smallest identifiable group of assets that generates cash inflows that are largely independent of the cash inflows from other assets or group of assets. Impairment occurs when the carrying amount of a CGU including the goodwill, exceeds the estimated recoverable amount of the CGU. The recoverable amount of a CGU is the higher of its fair value less cost to sell and its value-in-use. Value-in-use is the present value of future cash flows expected to be derived from the CGU. Key assumptions in the cash flow projections are prepared based on current economic conditions and includes estimated long term growth rates, weighted average cost of capital and estimated operating margins.
+Following is a summary of changes in the carrying amount of goodwill:
+|                                               | (In ₹ crore)   | (In ₹ crore)   |
+|-----------------------------------------------|----------------|----------------|
+|                                               | March 31, 2026 | March 31, 2025 |
+| Carrying value at the beginning               | 10,106         | 7,303          |
+| Goodwill on acquisitions (Refer to note 2.10) | 444            | 2,593          |
+| Translation differences                       | 1,567          | 210            |
+| Carrying value at the end                     | 12,117         | 10,106         |
 
-* Uncalled capital pertaining to investments
+For the purpose of impairment testing, goodwill acquired in a business combination is allocated to the CGU or groups of CGUs, which benefit from the synergies of the acquisition. The Group internally reviews the goodwill for impairment at the operating segment level, after allocation of the goodwill to CGUs or groups of CGUs.
+The allocation of goodwill to operating segments as at March 31, 2026 and March 31, 2025 is as follows:
+|                                                 | (In ₹ crore)   | (In ₹ crore)   |
+|-------------------------------------------------|----------------|----------------|
+| Segment                                         | 31, 2026 As at | March 31, 2025 |
+| Financial services                              | 1,842          | 1,510          |
+| Retail                                          | 1,123          | 961            |
+| Communication                                   | 813            | 691            |
+| Energy, Utilities, Resources and Services       | 1,763          | 1,337          |
+| Manufacturing                                   | 3,523          | 2,986          |
+| Life Sciences                                   | 1,155          | 975            |
+|                                                 | 10,219         | 8,460          |
+| Operating segments without significant goodwill | 785            | 650            |
+| Total                                           | 11,004         | 9,110          |
 
-(1) As at March 31, 2026 and March 31, 2025, claims against the Company not acknowledged as debts in respect of India income tax matters amounted to ₹1,326 crore and ₹1,290 crore, respectively.
-The claims against the Company primarily represent demands arising on completion of assessment proceedings under the Income Tax Act, 1961. These claims are on account of issues of disallowance of expenditure towards software being held as capital in nature, payments made to Associated Enterprises held as liable for withholding of taxes, among others. These matters are pending before various Income Tax Authorities and the Management including its tax advisors expect that its position will likely be upheld on ultimate resolution and will not have a material adverse effect on the Company financial position and results of operations.
-Amount paid to statutory authorities against the tax claims amounted to ₹ 2,381 crore and ₹3,810 crore as at March 31, 2026 and March 31, 2025, respectively.
-(2) Capital contracts primarily comprises of commitments for infrastructure facilities and computer equipments.
-## Legal Proceedings
-## Government Investigation
-The U.S. Department of Justice ('DOJ') is conducting an investigation regarding how the Company classified certain H-1B visa-recipient employees working for one of its clients in immigration documents filed with certain U.S. government authorities. The Company is engaged in discussions with the DOJ regarding its ongoing investigation and continues its own inquiry regarding the matter. At this stage, the Company is unable to predict the outcome of this matter, including whether such outcome could have a material adverse effect on the Company's business and results of operations.
-## Others
-Apart from the foregoing, the Company is subject to legal proceedings and claims which have arisen in the ordinary course of business. The Company's management reasonably expects that such ordinary course legal actions, when ultimately concluded and determined, will not have a material and adverse effect on the Company's results of operations or financial condition.
-## 2.24 RELATED PARTY TRANSACTIONS
-List of related parties
-| Name of subsidiaries                                                      | Country      | Holdings as at   | Holdings as at   |
-|---------------------------------------------------------------------------|--------------|------------------|------------------|
-|                                                                           |              |                  | March 31, 2025   |
-| Infosys Technologies (China) Co. Limited (Infosys China) (1)              | China        | 100%             | 100%             |
-| Infosys Technologies S. de R. L. de C. V. (Infosys Mexico) (1)            | Mexico       | 100%             | 100%             |
-| Infosys Technologies (Sweden) AB (Infosys Sweden) (1)                     | Sweden       | 100%             | 100%             |
-| Infosys Technologies (Shanghai) Company Limited (Infosys Shanghai) (1)    | China        | 100%             | 100%             |
-| EdgeVerve Systems Limited (EdgeVerve) (1)                                 | India        | 100%             | 100%             |
-| Infosys Austria GmbH (1)                                                  | Austria      | 100%             | 100%             |
-| Skava Systems Private Limited (Skava Systems) (1)(28)                     | India        | -                | -                |
-| Infosys Chile SpA (1)                                                     | Chile        | 100%             | 100%             |
-| Infosys Arabia Limited (2)                                                | Saudi Arabia | 70%              | 70%              |
-| Infosys Consulting Ltda. (1)                                              | Brazil       | 100%             | 100%             |
-| Infosys Luxembourg S.a.r.l (1)                                            | Luxembourg   | 100%             | 100%             |
-| Infosys Consulting S.R.L. (45)                                            | Argentina    | 100%             | 100%             |
-| Infosys Romania S.r.l. (formerly Infosys Consulting S.R.L. (Romania)) (1) | Romania      | 100%             | 100%             |
-| Infosys Limited Bulgaria EOOD (1)                                         | Bulgaria     | 100%             | 100%             |
+The goodwill pertaining to Panaya amounting to ₹1,113 crore and ₹996 crore as at March 31, 2026 and March 31, 2025, respectively is tested for impairment at the entity level.
+The recoverable amount of a CGU is the higher of its fair value less cost to sell and its value-in-use. The fair value of a CGU is determined based on the market capitalization. Value-in-use is determined based on discounted future cash flows.  The key assumptions used for the calculations are as follows:
+|                       | March 31, 2026   | March 31, 2025   |
+|-----------------------|------------------|------------------|
+| Long term growth rate | 7-10             | 7-10             |
+| Operating margins     | 19-21            | 19-21            |
+| Discount rate         | 14               | 13               |
 
-| Infosys Turkey Bilgi Teknolojileri Limited Sirketi (1)                                     | Turkey                                      | 100%           | 100%      |
-|--------------------------------------------------------------------------------------------|---------------------------------------------|----------------|-----------|
-| Infosys Germany Holding Gmbh (1)                                                           | Germany                                     | 100%           | 100%      |
-| Infosys Automotive and MobilityGmbH &Co. KG (1)                                            | Germany                                     | 100%           | 100%      |
-| (1) Infosys Green Forum (1)                                                                | India                                       | 100%           | 100%      |
-| Infosys Business Solutions LLC WongDoody Inc. (30)                                         | Qatar U.S.                                  | 100%           | 100% -    |
-| IDUNN Information (1)                                                                      | India                                       | -              | 100%      |
-| Technology Private Limited Infosys Public Services, Inc. USA (Infosys Public Services) (1) | U.S.                                        | 100% 100%      | 100%      |
-| Infosys Public Services Canada Inc. (11)                                                   | Canada                                      | 100%           | 100%      |
-| Infosys BPM Limited (1)                                                                    | India                                       | 100%           | 100%      |
-| Infosys BPM UKLimited (3)                                                                  | U.K.                                        | 100%           | 100%      |
-| (3)                                                                                        | Czech Republic                              | 100%           | 100%      |
-| Infosys (Czech Republic) Limited s.r.o. Infosys Poland Sp z.o.o (3)                        | Poland                                      | 100%           | 100%      |
-| Infosys McCamish Systems LLC (3)                                                           | U.S.                                        | 100%           | 100%      |
-| Portland Group Pty Ltd (3)                                                                 | Australia                                   | 100%           | 100%      |
-| Infosys BPO Americas LLC. (3)                                                              | U.S.                                        | 100%           | 100%      |
-| Panaya Inc. (Panaya) (1)                                                                   | U.S.                                        | 100%           | 100%      |
-| Panaya Ltd. (4)                                                                            | Israel                                      | 100%           | 100%      |
-| Panaya GermanyGmbH (4)                                                                     | Germany                                     | 100%           | 100%      |
-| Brilliant Basics Holdings Limited (Brilliant Basics) (1)(20)                               | U.K.                                        | 100%           | 100%      |
-| Brilliant Basics Limited (5)(20)                                                           | U.K.                                        | 100%           | 100%      |
-| Infosys Consulting HoldingAG (1)                                                           | Switzerland                                 | 100%           | 100%      |
-| Infosys Management Consulting Pty Limited (6)                                              | Australia                                   | 100%           | 100%      |
-| Infosys ConsultingAG (6)                                                                   | Switzerland                                 | 100%           | 100%      |
-| Infosys Consulting GmbH (6)                                                                | Germany                                     | 100%           | 100%      |
-| Infosys Consulting SAS (6)                                                                 | France                                      | 100%           | 100%      |
-| Infy Consulting B.V. (6)                                                                   | The Netherlands                             | 100%           | 100%      |
-| Infosys Consulting (Belgium) NV (6)                                                        | Belgium                                     | 100%           | 100%      |
-| Infy Consulting Company Ltd (6)                                                            | U.K.                                        | 100%           | 100%      |
-| GuideVision s.r.o. (7)                                                                     | Czech Republic                              | 100%           | 100%      |
-| GuideVision Deutschland GmbH (8)                                                           | Germany                                     | 100%           | 100%      |
-| GuideVision Suomi Oy (8) (8)                                                               | Finland                                     | 100%           | 100% 100% |
-| GuideVision Magyarország Kft GuideVision Polska Sp. z.o.o (8)                              | Hungary Poland                              | 100% 100%      | 100%      |
-| GuideVision UKLtd (8)(20)                                                                  | U.K.                                        | 100%           | 100% 100% |
-| Infosys Nova Holdings LLC. (Infosys Nova) (1) (31)                                         | U.S.                                        | 100%           |           |
-| Outbox systems Inc. dba Simplus (US) (9)                                                   | U.S.                                        | - 100%         | - 100%    |
-| Simplus ANZ Pty Ltd. Simplus Australia Pty Ltd (10)                                        | Australia                                   | 100%           | 100%      |
-| Simplus Philippines, Inc. (9)                                                              | Australia Philippines                       | 100%           | 100%      |
-|                                                                                            | U.S.                                        | -              | -         |
-| Kaleidoscope Animations, Inc. (31) Blue Acorn iCi Inc (31)                                 | U.S.                                        | -              | -         |
-| Infosys Singapore Pte. Ltd. (1)(41)                                                        | Singapore                                   | 100%           | 100%      |
-| Infosys Financial Services GmbH. (12) Infosys South Africa (Pty) Ltd (12)                  | Germany South Africa                        | 100%           | 100% 100% |
-| Infosys (Malaysia) SDN. BHD. (12)                                                          | Malaysia                                    | 100% 100%      |           |
-| (12)                                                                                       |                                             | 100%           | 100% 100% |
-| Infosys Middle East FZ LLC                                                                 | U.A.E Norway                                | 100%           | 100%      |
-| Infosys Norway (12) Infosys Compaz Pte. Ltd (13)                                           | Singapore                                   | 60%            | 60%       |
-| HIPUS Co., Ltd (13)(41)                                                                    | Japan                                       | 79%            | 81%       |
-| Fluido Oy (12)                                                                             | Finland                                     | 100%           | 100%      |
-| Fluido Sweden AB (14) (14)                                                                 | Sweden                                      | 100%           | 100%      |
-| Fluido Norway A/S                                                                          | Norway                                      | 100% 100%      | 100% 100% |
-| Fluido Denmark A/S (14) (14)                                                               | Denmark Slovakia                            |                |           |
-| Fluido Slovakia s.r.o Infosys Fluido UK, Ltd. (14)                                         | U.K.                                        | 100%           | 100%      |
-| Infosys Fluido Ireland, Ltd. (15)                                                          | Ireland                                     | 100%           | 100% 100% |
-| Stater N.V. (13)                                                                           | The                                         | 100% 75%       | 75%       |
-| Stater Nederland B.V. (16)                                                                 | Netherlands The                             | 75%            | 75%       |
-| Stater XXL B.V. (16) (16)                                                                  | Netherlands The Netherlands The Netherlands | 75%            | 75%       |
-| HypoCasso B.V. (16)                                                                        | Belgium                                     | 75%            | 75%       |
-| Stater Belgium N.V./S.A. (16)                                                              |                                             | 75%            | 75%       |
-| Stater Gmbh                                                                                | Germany Germany                             |                | 75%       |
-| Infosys GermanyGmbH (12)(43) Wongdoody Gmbh (18)(43)                                       | Germany                                     | 75% -          | 100%      |
-| WongDoody (Shanghai) Co.                                                                   | China                                       | 100%           | 100% 100% |
-| Limited WongDoody limited (Taipei) (19)                                                    | Taiwan                                      |                | 100%      |
-| (19) (19)                                                                                  |                                             | 100%           |           |
-| WongDoody d.o.o BASE life science A/S (12)                                                 | Serbia                                      | 100% 100% 100% | 100% 100% |
-| (21)                                                                                       | Denmark                                     |                |           |
-| BASE life scienceAG (21)                                                                   | Switzerland                                 | 100%           | 100%      |
-| BASE life scienceGmbH BASE life science S.A.S (21)                                         | Germany France                              | 100% 100%      | 100% 100% |
-| BASE life science Ltd. (21)                                                                | U.K.                                        | 100%           | 100%      |
-| BASE life science S.r.l. (21)                                                              | Italy                                       | 100%           | 100%      |
-| (21)                                                                                       | U.S.                                        | 100%           | 100%      |
-| Innovisor Inc.                                                                             |                                             |                | 100%      |
-| BASE life science Inc. (17) BASE life science S.L. (21)                                    | U.S. Spain                                  | 100% 100%      | 100%      |
+The above discount rate is based on the Weighted Average Cost of Capital (WACC) of the Company. As at March 31, 2026, the estimated recoverable amount of the CGU exceeded its carrying amount. Reasonable sensitivities in key assumptions are unlikely to cause the carrying amount to exceed the recoverable amount of the cash generating units.
+## 2.9.2 Intangible assets
+## Accounting Policy
+Intangible assets are stated at cost less accumulated amortization and impairment. Intangible assets are amortized over their respective individual estimated useful lives on a straight-line basis, from the date that they are available for use. The estimated useful life of an identifiable intangible asset is based on a number of factors including the effects of obsolescence, demand, competition, and other economic factors (such as the stability of the industry and known technological advances), and the level of maintenance expenditures required to obtain the expected future cash flows from the asset. Amortization methods and useful lives are reviewed periodically including at each financial year end.
+Research costs are expensed as incurred. Software product development costs are expensed as incurred unless technical and commercial feasibility of the project is demonstrated, future economic benefits are probable, the Group has an intention and ability to complete and use or sell the software and the costs can be measured reliably. The costs which can be capitalized include the cost of material, direct labour, overhead costs that are directly attributable to prepare the asset for its intended use.
+## Impairment
+Intangible assets are evaluated for recoverability whenever events or changes in circumstances indicate that their carrying amounts may not be recoverable. For the purpose of impairment testing, the recoverable amount (i.e. the higher of the fair value less cost to sell and the value-in-use) is determined on an individual asset basis unless the asset does not generate cash flows that are largely independent of those from other assets. In such cases, the recoverable amount is determined for the CGU to which the asset belongs.
+If such assets are considered to be impaired, the impairment to be recognized in net profit in the statement of comprehensive income is measured by the amount by which the carrying value of the assets exceeds the estimated recoverable amount of the asset. An impairment loss is reversed in net profit in the statement of comprehensive income if there has been a change in the estimates used to determine the recoverable amount. The carrying amount of the asset is increased to its revised recoverable amount, provided that this amount does not exceed the carrying amount that would have been determined (net of any accumulated amortization) had no impairment loss been recognized for the asset in prior years.
+Following are the changes in the carrying value of acquired intangible assets for the three months ended March 31, 2026:
+| Particulars                                    | Customer related   | Software related   | Intellectual property rights related   | Brand or Trademark Related   | Others*   | (In ₹ crore) Total   |
+|------------------------------------------------|--------------------|--------------------|----------------------------------------|------------------------------|-----------|----------------------|
+| Gross carrying value as at January 1, 2026     | 5,146              | 1,532              | 1                                      | 588                          | 914       | 8,181                |
+| Additions during the period                    | -                  | 57                 | -                                      | -                            | -         | 57                   |
+| Deletions                                      | -                  | -                  | -                                      | -                            | -         | -                    |
+| Translation differences                        | 189                | 53                 | -                                      | 23                           | 47        | 312                  |
+| Gross carrying value as at March 31, 2026      | 5,335              | 1,642              | 1                                      | 611                          | 961       | 8,550                |
+| Accumulated amortization as at January 1, 2026 | (2,933)            | (1,025)            | (1)                                    | (365)                        | (784)     | (5,108)              |
+| Amortization expense #                         | (344)              | (31)               | -                                      | (16)                         | (21)      | (412)                |
+| Deletions                                      | -                  | -                  | -                                      | -                            | -         | -                    |
+| Translation differences                        | (115)              | (37)               | -                                      | (13)                         | (40)      | (205)                |
+| Accumulated amortization as at March 31, 2026  | (3,392)            | (1,093)            | (1)                                    | (394)                        | (845)     | (5,725)              |
+| Carrying value as at January 1, 2026           | 2,213              | 507                | -                                      | 223                          | 130       | 3,073                |
+| Carrying value as at March 31, 2026            | 1,943              | 549                | -                                      | 217                          | 116       | 2,825                |
+| Estimated Useful Life (in years)               | 1-15               | 3-10               | -                                      | 3-10                         | 3-7       |                      |
+| Estimated Remaining Useful Life (in years)     | 1-9                | 1-4                | -                                      | 1-5                          | 1-2       |                      |
 
-| InSemi Technology Services Private Limited (23)                 | India           | 100%   | 100%   |
-|-----------------------------------------------------------------|-----------------|--------|--------|
-| Elbrus Labs Private Limited (23)(22)                            | India           | 100%   | 100%   |
-| Infosys Services (Thailand) Limited (1)(25)                     | Thailand        | 100%   | 100%   |
-| Infy tech SAS (12)(24)                                          | France          | 100%   | 100%   |
-| in-tech Holding GmbH (26)(32)                                   | Germany         | -      | -      |
-| in-tech GmbH (26)                                               | Germany         | 100%   | 100%   |
-| Friedrich &Wagner Asia PacificGmbH (26)(32)                     | Germany         | -      | -      |
-| drivetech Fahrversuch GmbH (26)                                 | Germany         | 100%   | 100%   |
-| in-tech Engineering S.R.L. (formerly known as ProIT) (26)(44)   | Romania         | 100%   | 100%   |
-| in-tech Automotive Engineering de R.L. de C.V (26)(40)          | Mexico          | -      | 100%   |
-| Friedrich Wagner Holding Inc. (26)(20)                          | U.S.            | 100%   | 100%   |
-| in-tech Automotive Engineering SL (26)                          | Spain           | 100%   | 100%   |
-| in-tech Automotive Engineering LLC (26)(29)                     | U.S.            | -      | -      |
-| in-tech Services LLC (26)(29)                                   | U.S.            | -      | -      |
-| in-tech Engineering s.r.o (26)                                  | Czech Republic  | 100%   | 100%   |
-| in-tech Engineering GmbH (26)                                   | Austria         | 100%   | 100%   |
-| in-tech Engineering services S.R.L (26)(44)                     | Romania         | -      | 100%   |
-| in-tech Group Ltd (26)                                          | U.K.            | 100%   | 100%   |
-| In-tech Automotive Engineering Shenyang Co. Ltd (26)            | China           | 100%   | 100%   |
-| in-tech Group India Private Ltd (26)                            | India           | 100%   | 100%   |
-| In-tech Automotive Engineering Beijing Co., Ltd (26)            | China           | 100%   | 100%   |
-| Infosys Germany SE (formerly known as Blitz 24-893 SE) (27)(43) | Germany         | 100%   | 100%   |
-| Infosys Limited SPC (1)(33)                                     | Oman            | 100%   | 100%   |
-| Infosys BPM Netherlands B.V. (17)(34)                           | The Netherlands | 100%   | 100%   |
-| Infosys Energy Consulting Services LLC (9)(35)                  | U.S.            | 100%   | -      |
-| Infosys Saudi Arabia LLC (1)(36)                                | Saudi Arabia    | 100%   | -      |
-| Infosys Australia Technology Service Pty Ltd (12)(37)           | Australia       | 100%   | -      |
-| MREConsulting Ltd (38)                                          | U.S.            | 100%   | -      |
-| MRETechnology Services, LLC (38)                                | U.S.            | 100%   | -      |
-| The Missing Link Automation Pty Ltd (39)                        | Australia       | 100%   | -      |
-| The Missing Link Network Integration Pty Ltd (39)               | Australia       | 100%   | -      |
-| The Missing Link Security Pty Ltd (39)                          | Australia       | 100%   | -      |
-| The Missing Link Security Ltd (39)                              | U.K.            | 100%   | -      |
-| Infosys BPM Canada Inc (17)(42)                                 | Canada          | 100%   | -      |
-| Infosys Enterprise Business Services Pty Ltd (12)(46)           | Australia       | 100%   | -      |
+Following are the changes in the carrying value of acquired intangible assets for the three months ended March 31, 2025:
+| Particulars                                    | Customer related   | Software related   | Intellectual property rights related   | Brand or Trademark Related   | Others*   | (In ₹ crore) Total   |
+|------------------------------------------------|--------------------|--------------------|----------------------------------------|------------------------------|-----------|----------------------|
+| Gross carrying value as at January 1, 2025     | 4,279              | 1,218              | 1                                      | 512                          | 798       | 6,808                |
+| Additions during the period                    | -                  | 39                 | -                                      | -                            | -         | 39                   |
+| Deletions                                      | -                  | -                  | -                                      | -                            | -         | -                    |
+| Translation differences                        | 104                | 23                 | -                                      | 7                            | 3         | 137                  |
+| Gross carrying value as at March 31, 2025      | 4,383              | 1,280              | 1                                      | 519                          | 801       | 6,984                |
+| Accumulated amortization as at January 1, 2025 | (2,054)            | (835)              | (1)                                    | (275)                        | (660)     | (3,825)              |
+| Amortization expense ##                        | (289)              | (24)               | -                                      | (14)                         | (18)      | (345)                |
+| Deletions                                      | -                  | -                  | -                                      | -                            | -         | -                    |
+| Translation differences                        | (34)               | (10)               | -                                      | (2)                          | (2)       | (48)                 |
+| Accumulated amortization as at March 31, 2025  | (2,377)            | (869)              | (1)                                    | (291)                        | (680)     | (4,218)              |
+| Carrying value as at January 1, 2025           | 2,225              | 383                | -                                      | 237                          | 138       | 2,983                |
+| Carrying value as at March 31, 2025            | 2,006              | 411                | -                                      | 228                          | 121       | 2,766                |
+| Estimated Useful Life (in years)               | 1-15               | 3-10               | -                                      | 3-10                         | 3-7       |                      |
+| Estimated Remaining Useful Life (in years)     | 1-9                | 1-4                | -                                      | 1-6                          | 1-3       |                      |
 
-(1) Wholly-owned subsidiary of Infosys Limited
-(2) Majority owned and controlled subsidiary of Infosys Limited
-(3) Wholly-owned subsidiary of Infosys BPM Limited
-(4) Wholly-owned subsidiary of Panaya Inc .
-(5) Wholly-owned subsidiary of Brilliant Basics Holding Limited.
-(6) Wholly-owned subsidiary of Infosys Consulting Holding AG
-(7) Wholly-owned subsidiary of Infy Consulting Company Limited
-(8) Wholly-owned subsidiary of GuideVision s.r.o.
-(9) Wholly-owned subsidiary of  Infosys Nova Holdings LLC
-(10) Wholly-owned subsidiary of Simplus ANZ Pty Ltd
-(11) Wholly-owned subsidiary of Infosys Public Services, Inc.
-(12) Wholly-owned subsidiary of Infosys Singapore Pte. Ltd.
-(13) Majority owned and controlled subsidiary of Infosys Singapore Pte. Ltd.
-(14) Wholly-owned subsidiary of Fluido Oy
-(15) Wholly-owned subsidiary of Infosys Fluido UK, Ltd.
-(16) Wholly-owned subsidiary of  Stater N.V
-(17) Wholly-owned subsidiary of Infosys BPM UK Ltd.
-(18) Wholly-owned subsidiary of Infosys Germany GmbH
-(19) Wholly-owned subsidiary of Wongdoody Gmbh
-(20) Under liquidation
-(21) Wholly-owned subsidiary of BASE life science A/S
-(22)
-Wholly-owned subsidiary of InSemi Technology Services Private Limited
-(23) On May 10, 2024 Infosys Ltd. acquired 100% of voting interests in InSemi Technology Services Private Limited along with its subsidiary Elbrus Labs Private Limited
-(24) Incorporated on July 03, 2024
-(25) Incorporated on July 26, 2024
-(26) On July 17, 2024, Infosys Germany GmbH, a wholly owned subsidiary of Infosys Singapore Pte. Limited, acquired 100% of voting interests in in-tech Holding GmbH along with its subsidiary in-tech GmbH along with its six subsidiaries in-tech Automotive Engineering SL, in-tech Engineering S.R.L. (formerly known as ProIT), in-tech Automotive Engineering de R.L. de C.V, drivetech Fahrversuch GmbH, Friedrich Wagner Holding Inc along with its two subsidiaries (in-tech Automotive Engineering LLC and in-tech Services LLC) and Friedrich &amp; Wagner Asia Pacific GmbH along with its five subsidiaries in-tech engineering s.r.o, in-tech engineering GmbH, in-tech engineering services S.R.L, in-tech Group Ltd along with its subsidiary (in-tech Group India Private Limited) and In-tech Automotive Engineering Shenyang Co., Ltd along with its subsidiary (In-tech Automotive Engineering Beijing Co., Ltd). Subsequently on September 01, 2024 in-tech Group India Private Limited became a wholly-owned subsidiary of Infosys limited.
-(27) On October 17, 2024, Infosys Singapore Pte Ltd. acquired 100% of voting interests in Infosys Germany SE (formerly known as Blitz 24-893 SE)
-(28) Liquidated effective November 14, 2024
-(29) Liquidated effective November 30, 2024
-(30) WongDoody Inc, a wholly-owned subsidiary of Infosys limited merged into Infosys Nova Holdings LLC effective January 1, 2025
-(31) Kaleidoscope Animations, Blue Acorn iCi Inc and Outbox systems Inc. dba Simplus (US) merged into Infosys Nova Holdings LLC effective January 1,2025
-(32) in-tech Holding GmbH and Friedrich &amp; Wagner Asia Pacific GmbH merged into in-tech GmbH effective January 1,2025
-(33) Incorporated on December 12, 2024
-(34) Incorporated on March 20, 2025
-(35) Incorporated on April 16, 2025
-(36) Incorporated on April 21, 2025
-(37) Incorporated on April 23, 2025
-(38) On April 30, 2025, Infosys Nova Holdings LLC, a wholly-owned subsidiary of Infosys Limited, acquired 98.21% of partnership interests in MRE Consulting Ltd along with its subsidiary MRE Technology Services, LLC.The remaining 1.79% was acquired by Infosys Energy Consulting Services LLC, a Wholly-owned subsidiary of Infosys Nova Holdings LLC
-(39) On April 30, 2025, Infosys Australia Technology Service Pty Ltd, a wholly owned subsidiary of Infosys Singapore Pte. Limited, acquired 100% of voting interests in The Missing Link Automation Pty Ltd, The Missing Link Network Integration Pty Ltd and The Missing Link Security Pty Ltd along with its subsidiary The Missing Link Security Ltd
-(40) Liquidated effective May 07, 2025
-(41) On May 13, 2025,  Infosys Singapore Pte Ltd diluted 2% stake of HIPUS Co., Ltd to Mitsubishi Heavy Industries, Ltd.
-(42) Incorporated on July 28, 2025
-(43) Infosys Germany Gmbh, a Wholly-owned subsidiary of Infosys Singapore Pte Ltd merged into Infosys Germany SE (formerly known as Blitz 24-893 SE) effective September 24, 2025
-(44) in-tech Engineering services S.R.L, (Wholly-owned subsidiary of  in-tech GmbH) merged into in-tech Engineering S.R.L. (formerly known as ProIT and wholly-owned subsidiary of in-tech GmbH) effective November 30, 2025
-(45) Infosys Consulting S.R.L. (Argentina) (formerly a majority owned and controlled subsidiary of Infosys Limited) became the majority owned and controlled subsidiary of Infosys Nova Holdings LLC with effect from January 28, 2026
-(46) Incorporated on March 19, 2026
-Infosys has provided guarantee for performance of certain contracts entered into by its subsidiaries.
-List of other related party
-| Particulars                                          | Country   | Nature of relationship                          |
-|------------------------------------------------------|-----------|-------------------------------------------------|
-| Infosys Limited Employees' Gratuity Fund Trust       | India     | Post-employment benefit plan of Infosys Limited |
-| Infosys Limited Employees' Provident Fund Trust      | India     | Post-employment benefit plan of Infosys Limited |
-| Infosys Limited Employees' Superannuation Fund Trust | India     | Post-employment benefit plan of Infosys Limited |
-| Infosys Employees Welfare Trust                      | India     | Controlled trust                                |
-| Infosys Employee Benefits Trust                      | India     | Controlled trust                                |
-| Infosys Science Foundation                           | India     | Controlled trust                                |
-| Infosys Expanded Stock Ownership Trust               | India     | Controlled trust                                |
-| Infosys Foundation                                   | India     | Trust jointly controlled byKMP                  |
-
-Refer to note 2.21 for information on transactions with post-employment benefit plans mentioned above.
-
-## Non-whole-time directors
-Nandan M. Nilekani D. Sundaram Micheal Gibbs Bobby Parikh Chitra Nayak Govind Iyer Helene Auriol Potier Nitin Paranjpe
-## Executive Officers
-Inderpreet Sawhney, Chief Legal Officer and Chief Compliance Officer
-Jayesh Sanghrajka, Chief Financial Officer Shaji Mathew, Chief Human Resources Officer
-## Company Secretary
-A. G. S. Manikantha
-The details of amounts due to or due from related parties as at March 31, 2026 and March 31, 2025 are as follows:
-| Particulars               |                                      |                | (In ₹ crore)   |
-|---------------------------|--------------------------------------|----------------|----------------|
-|                           |                                      | March 31, 2026 | March 31, 2025 |
-| Trade receivables         |                                      |                |                |
-|                           | BASE life science A/S                | 8              | 3              |
-|                           | BASE life scienceAG                  | 2              | -              |
-|                           | Infosys China                        | 1              | 1              |
-|                           | Infosys Mexico                       | 5              | 2              |
-|                           | Infosys BPM Limited                  | 14             | 13             |
-|                           | Infy Consulting Company Limited      | 12             | 8              |
-|                           | Infosys Public Services              | 61             | 93             |
-|                           | Infosys Public Services Canada Inc.  | 1              | 2              |
-|                           | Infosys Sweden                       | 13             | 25             |
-|                           | Fluido Oy                            | 11             | 7              |
-|                           | Fluido Denmark A/S                   | 21             | 4              |
-|                           | Infosys McCamish Systems LLC         | 7              | 6              |
-|                           | Panaya Ltd                           | 1              | 1              |
-|                           | Infosys Compaz Pte Ltd               | 63             | 27             |
-|                           | Stater Nederland B.V.                | 21             | 8              |
-|                           | Infosys Luxembourg S.a.r.l           | 19             | 27             |
-|                           | Infosys Chile SPA                    | 1              | 1              |
-|                           | Infosys South Africa (Pty) Ltd       |                | 2              |
-|                           | HIPUS Co., Ltd                       | 1              | 1              |
-|                           | Infosys Middle East FZ LLC           | 10             | 9              |
-|                           | Infosys Nova Holdings LLC            |                | 10             |
-|                           | Infosys Consulting S.R.L. (Romania)  | 2              | -              |
-|                           | MREConsulting, Ltd.                  | 1              | -              |
-|                           | The Missing Link Security Pty Ltd    | 1              | -              |
-|                           | The Missing Link Network Int Pty Ltd | 1              | -              |
-|                           | Stater N.V.                          |                | -              |
-|                           | EdgeVerve Systems Limited            | 31             | -              |
-|                           | Infosys Business Solutions LLC       | 5              | -              |
-|                           | INFY Tech SAS                        | 10             | -              |
-|                           | Insemi Technology Service            | 2              | -              |
-|                           | Portland Group Pty Ltd               | 11             | -              |
-|                           |                                      | 338            | 250            |
-| Loans                     |                                      |                |                |
-|                           | Insemi Technology Service            | -              | 10             |
-|                           |                                      | -              | 10             |
-| Prepaid expense and other | receivabes                           |                |                |
-|                           | Panaya Ltd                           | 115            | 127            |
-|                           | GuideVision, s.r.o.                  |                | 1              |
-|                           | EdgeVerve Systems Limited            | 17             | 23             |
-|                           |                                      | 141            | 151            |
-
-| Other financial assets   | Infosys BPM Limited                                                   | 17      | 16      |
-|--------------------------|-----------------------------------------------------------------------|---------|---------|
-|                          | Infosys Consulting GmbH                                               | 3       | 3       |
-|                          | Infosys China                                                         | 27      | 23      |
-|                          | Infosys Shanghai                                                      | 1 35    | - 23    |
-|                          | Infy Consulting Company Limited Infosys Management Consulting Pty Ltd | 3       | 2       |
-|                          | Infosys ConsultingAG                                                  | 5 3     | 3 1     |
-|                          | Infy Consulting B.V. Fluido Oy                                        | 15      | 7       |
-|                          | Infosys McCamish Systems LLC                                          | - 3,458 | 111     |
-|                          | Infosys Automotive and MobilityGmbH &Co. KG Fluido Sweden AB          | 3       | 2,584 2 |
-|                          | Fluido Denmark A/S                                                    | 4       | 3       |
-|                          | Infosys Fluido UKLtd                                                  | 2       | 1       |
-|                          | Infosys Consulting S.R.L. (Romania)                                   | 4 -     | 3 5     |
-|                          | Infosys Public Services Simplus Philippines, Inc.                     | 2       | 4       |
-|                          | Simplus Australia Pty Ltd                                             | 2       | 2       |
-|                          | Infosys Luxembourg S.a.r.l                                            | 1       | 1       |
-|                          | Infosys Business Solutions LLC                                        | -       | 2       |
-|                          | Infosys Compaz PTE Ltd                                                | 1       | -       |
-|                          | GuideVision, s.r.o. IDUNN Information Technology Private Limited      | 1 -     | 2 1     |
-|                          | WongDoodyGmbH                                                         | 26      | 14      |
-|                          | Infosys Turkey Bilgi Teknolojikeri Limited Sirketi                    | 1 3     | 2 3     |
-|                          | Infosys Consulting S.R.L. (Argentina) BASE life science SL            | 4       | 2       |
-|                          | BASE life science A/S                                                 | 1       | 3       |
-|                          | Infosys Norway                                                        | 1       | 2       |
-|                          | Infosys Green Forum                                                   | 2       | -       |
-|                          | Infosys Sweden                                                        | 1       | 1 2     |
-|                          | HIPUS Co., Ltd EdgeVerve                                              | 3 63    | 47      |
-|                          | BASE life scienceAG                                                   | 1       | - -     |
-|                          | BASE life scienceGmbH Fluido Norway AS                                | 1       | 1       |
-|                          | GuideVision Magyarország                                              | 3 -     | 2       |
-|                          | Kft. Infosys Nova                                                     | 73      | 28 1    |
-|                          | Infosys Services Thailand Infosys South Africa (Pty) Ltd              | - -     | 1       |
-|                          | BASE life science Ltd Insemi Technology Service                       | 1 1     | - -     |
-|                          | MREConsulting, Ltd.                                                   | 1       | -       |
-|                          | Panaya Fluido Slovakia s.r.o                                          | 1       | -       |
-|                          |                                                                       | 1       | -       |
-|                          | In-tech GmbH                                                          | 1       | -       |
-| Unbilled revenues        |                                                                       |         | 146     |
-|                          | EdgeVerve Systems Limited Infosys Consulting S.R.L.(Romania)          | 122 1   | 1       |
-|                          | Infosys McCamish Systems LLC                                          | -       | 45      |
-|                          | Infosys Poland sp. z o o B.V.                                         | 1 7     | 1 5     |
-|                          | Stater Nederland in-tech GmbH                                         | 14      |         |
-|                          |                                                                       | 145     | - 198   |
-| Trade payables           | Infosys China                                                         | 20      | 19      |
-|                          | Infosys BPM Limited                                                   | 150 18  | 136     |
-|                          | Infosys (Czech Republic) Limited s.r.o. Infosys Mexico                | 80      | 15 25   |
-|                          | Infosys Sweden                                                        | -       | 53      |
-|                          | Infosys Shanghai                                                      | 16      | 13      |
-|                          | Infosys Management Consulting Pty Ltd Infosys Singapore Pte. Ltd      | 45 21   | 20 16   |
-|                          | Infy Consulting Company Limited                                       | 470     | 370     |
-|                          | Infosys (Malaysia) SDN. BHD. Panaya Ltd                               | 12 16   | 12      |
-|                          | Infosys Public Services                                               | 2       | 5       |
-|                          | Portland Group Pty Ltd                                                | -       | 1       |
-|                          | Infosys Chile SpA                                                     | 3       | 2 2     |
-|                          | Infosys Compaz Pte Ltd                                                | 3       | 4       |
-|                          | Infosys Middle East FZ LLC                                            | 2       | 3       |
-|                          | Infosys Poland Sp. Z.o.o                                              | 45      | 42      |
-|                          | Infosys Luxembourg S.a.r.l Infosys Consulting S.R.L. (Romania)        | 3 24    | 8 44    |
-|                          | Fluido Oy                                                             | 5       | 5       |
-|                          | Fluido Sweden AB                                                      | 1       | 3 20    |
-|                          | EdgeVerve Systems Limited Fluido Denmark A/S                          | - 1     | 1       |
-|                          | Infosys Fluido UKLtd                                                  | 6       | 6       |
-|                          | BASE life scienceAG BASE life scienceGmbH                             | 2       | 1 1     |
-|                          | BASE life science Ltd.                                                | 1 12    | 2       |
-|                          | Wongdoody D.O.O                                                       | 1       | 1       |
-|                          | WongDoodyGmbH BASE life science SL                                    | 2       | 2       |
-|                          |                                                                       | 2       | 2       |
-
-|                             | BASE life science S.r.l.                                | 1     | -    |
-|-----------------------------|---------------------------------------------------------|-------|------|
-|                             | BASE life science Inc.                                  | -     | 1    |
-| Infosys                     | Business Solutions LLC                                  | 1     | 1    |
-|                             | Infosys South Africa (Pty) Ltd                          | 2     | 6    |
-|                             | Infosys Norway                                          | 2     | 6    |
-|                             | Infosys Automotive and MobilityGmbH &Co. KG             | 3     | -    |
-|                             | Infosys Limited Bulgaria EOOD                           | 16    | 6    |
-|                             | Infosys Consulting Ltda                                 | 19    | 9    |
-|                             | BASE life science A/S                                   | 8     | 4    |
-|                             | Infosys Nova                                            | 52    | 40   |
-|                             | BASE life science S.A.S                                 | 1     | -    |
-|                             | in-tech GmbH                                            | 2     | -    |
-|                             | Infosys Germany Holding GmbH                            | 2     | -    |
-|                             | The Missing Link Security Pty Ltd                       | 6     | -    |
-|                             | Fluido Norway AS                                        | 1     | -    |
-|                             |                                                         | 1,079 | 907  |
-| Other financial liabilities |                                                         |       |      |
-|                             | Infosys BPM Limited                                     | 51    | 47   |
-|                             | Infosys Mexico                                          | 4     | 2    |
-|                             | Infosys Norway                                          | 1     | 1    |
-|                             | GuideVision, s.r.o.                                     | 27    | 11   |
-|                             | Simplus Australia Pty Ltd                               | 20    | 5    |
-|                             | Simplus Philippines, Inc.                               | 5     | 2    |
-|                             | GuideVision Polska SP. Z O.O. Infosys Public Services   | 2     | 1 10 |
-|                             | GuideVision Magyarország Kft.                           | 1 1   | 1    |
-|                             | Infosys Consulting Ltda                                 | 4     | 2    |
-|                             | Infosys ConsultingAG                                    | 2     | 1    |
-|                             | Infosys Automotive and MobilityGmbH &Co. KG             | 197   | 320  |
-|                             | IDUNN Information Technology Private Limited            | -     | 16   |
-|                             | EdgeVerve Systems Limited                               | 416   | 293  |
-|                             | Infy Consulting Company Limited                         | -     |      |
-|                             |                                                         |       | 15   |
-|                             | Infosys Sweden                                          | -     | 5    |
-| Infosys                     | Compaz PTE Ltd                                          | 1     | 6    |
-|                             | Infosys McCamish Systems LLC                            | 35    |      |
-|                             | Infosys Green Forum                                     | 6     | 7 2  |
-|                             | GuideVision Deutschland GmbH Infosys Middle East FZ LLC | - 8   | 1 -  |
-|                             | BASE life science A/S                                   | 5     | 2    |
-|                             | Infosys Consulting GmbH                                 | -     | 1    |
-|                             | Insemi Technology Service                               | 1     | -    |
-|                             | Infosys Luxembourg S.a.r.l                              | 1     | 6    |
-|                             | Infosys Nova                                            | 387   | 200  |
-|                             | Infosys Singapore                                       | 1     | -    |
-|                             | Pte. Ltd MREConsulting, Ltd.                            | 48    | -    |
-|                             | Infosys Public Services Canada Inc.                     | 2 1   | -    |
-| Infosys                     | Turkey Bilgi Teknoloji Infosys Chile SPA                | 1     | -    |
-|                             |                                                         |       | -    |
-|                             | Infosys Business Solutions LLC                          | 4     | -    |
-|                             |                                                         | 1,232 | 962  |
-| Accrued expenses            |                                                         |       |      |
-|                             | BASE life science A/S                                   | 5     | 1    |
-|                             | EdgeVerve Systems Limited                               | 16    | 13   |
-|                             | Infosys BPM Limited                                     | 31    | 29   |
-|                             | BASE life science Ltd                                   | 1     | 1    |
-|                             | Infosys Germany Holding GmbH                            | -     | 7    |
-|                             | Infosys Nova Holdings LLC                               | 1     | 4    |
-|                             | In-tech group Ltd.                                      | 2     | 1    |
-|                             | BASE life sciences SL.                                  | 1     | -    |
-|                             | in-tech Group India Private Ltd,                        | 1     | -    |
-|                             |                                                         | 60    | 56   |
-
-Particulars
-Loans and advances in the nature of loans given to subsidiaries
-Insemi Technology Service
-The details of the related parties transactions entered into by the Company for the year ended March 31, 2026 and March 31, 2025 are as follows:
-|                                                     |                      | (In ₹ crore)         |
-|-----------------------------------------------------|----------------------|----------------------|
-| Particulars                                         | Year ended March 31, | Year ended March 31, |
-|                                                     | 2026                 | 2025                 |
-| Capital transactions: Financing transactions Equity |                      |                      |
-| Infosys Singapore Pte Ltd.                          | 494                  | 4,317                |
-| Infosys Nova Holdings LLC                           | 291                  | -                    |
-| Infosys Turkey Bilgi Teknolojileri Limited Sirketi  | -                    | 31                   |
-| Insemi Technology Service                           | -                    | 198                  |
-| in-tech                                             | -                    | 15                   |
-| Infosys Consulting S.R.L (Argentina)                | (2)                  | -                    |
-| Infosys Services (Thailand) Limited                 | -                    | 13                   |
-|                                                     | 783                  | 4,574                |
-| Loans given                                         |                      |                      |
-| Insemi Technology Service                           | -                    | 10                   |
-|                                                     | -                    | 10                   |
-| Loans repaid                                        |                      |                      |
-| Insemi Technology Service                           | 10                   | -                    |
-|                                                     | 10                   | -                    |
-
-(In ₹ crore)
-Maximum amount outstanding during the
-Year ended March 31,
-2026
-10
-2025
-10
+Following are the changes in the carrying value of acquired intangible assets for the year ended March 31, 2026:
+| Particulars                                                    | Customer related   | Software related   | Intellectual property rights related   | Brand or Trademark Related   | Others*   | (In ₹ crore) Total   |
+|----------------------------------------------------------------|--------------------|--------------------|----------------------------------------|------------------------------|-----------|----------------------|
+| Gross carrying value as at April 1, 2025                       | 4,383              | 1,280              | 1                                      | 519                          | 801       | 6,984                |
+| Additions during the period                                    | -                  | 184                | -                                      | -                            | -         | 184                  |
+| Acquisition through business combination (Refer note no. 2.10) | 222                | -                  | -                                      | 20                           | 55        | 297                  |
+| Deletions                                                      | -                  | (3)                | -                                      | -                            | -         | (3)                  |
+| Translation differences                                        | 730                | 181                | -                                      | 72                           | 105       | 1,088                |
+| Gross carrying value as at March 31, 2026                      | 5,335              | 1,642              | 1                                      | 611                          | 961       | 8,550                |
+| Accumulated amortization as at April 1, 2025                   | (2,377)            | (869)              | (1)                                    | (291)                        | (680)     | (4,218)              |
+| Amortization expense #                                         | (644)              | (121)              | -                                      | (65)                         | (79)      | (909)                |
+| Deletions                                                      | -                  | 3                  | -                                      | -                            | -         | 3                    |
+| Translation differences                                        | (371)              | (106)              | -                                      | (38)                         | (86)      | (601)                |
+| Accumulated amortization as at March 31, 2026                  | (3,392)            | (1,093)            | (1)                                    | (394)                        | (845)     | (5,725)              |
+| Carrying value as at April 1, 2025                             | 2,006              | 411                | -                                      | 228                          | 121       | 2,766                |
+| Carrying value as at March 31, 2026                            | 1,943              | 549                | -                                      | 217                          | 116       | 2,825                |
+| Estimated Useful Life (in years)                               | 1-15               | 3-10               | -                                      | 3-10                         | 3-7       |                      |
+| Estimated Remaining Useful Life (in years)                     | 1-9                | 1-4                | -                                      | 1-5                          | 1-2       |                      |

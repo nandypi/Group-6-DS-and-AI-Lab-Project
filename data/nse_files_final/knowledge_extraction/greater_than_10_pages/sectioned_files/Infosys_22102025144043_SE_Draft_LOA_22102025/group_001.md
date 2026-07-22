@@ -1,14 +1,13 @@
 ---
 document_name: "Infosys_22102025144043_SE_Draft_LOA_22102025.md"
 group_id: "Infosys_22102025144043_SE_Draft_LOA_22102025__group_001"
-source_section_count: 3
+source_section_count: 2
 page_start: 1
-page_end: 10
-estimated_tokens: 12833
+page_end: 9
+estimated_tokens: 7717
 source_section_ids:
   - "Infosys_22102025144043_SE_Draft_LOA_22102025__001"
   - "Infosys_22102025144043_SE_Draft_LOA_22102025__002"
-  - "Infosys_22102025144043_SE_Draft_LOA_22102025__003"
 ---
 
 ## BSE LIMITED NATIONAL STOCK EXCHANGE OF INDIA LIMITED NEW YORK STOCK EXCHANGE
@@ -102,43 +101,3 @@ Note: The above is not an exhaustive description of the Buyback process or of th
 For detailed summary of the terms of the Buyback Offer as set out in this Letter of Offer, please refer to the Summary Term Sheet provided in Annexure I.
 Certain figures contained in this Letter of Offer, including financial information, have been subject to rounding-off adjustments. All decimals have been rounded off to two decimal points. In certain instances, (i) the sum or percentage change of such numbers may not conform exactly to the total figure given; and (ii) the sum of the numbers in a column or row in certain tables may not conform exactly to the total figure given for that column or row. One crore equals to ten million.
 As intimated in the Postal Ballot Notice dated September 25, 2025 (refer to section 12 of the explanatory statement attached to the Postal Ballot Notice - Additional Information for Holders of the Company's American Depositary Shares), in order for the ADS holders to participate in the Buyback, they must have previously taken certain actions in order to withdraw the Equity Shares underlying the ADSs held by them in advance of the Record Date and should have become holders of Equity Shares on the Record Date. In the Postal Ballot Notice, the Company had intimated that ADS holders had approximately 49 calendar days from the date of the Postal Ballot Notice to take such steps as may be required for ADS holders to hold Equity Shares as on the Record Date. ADS holders are advised to read paragraph 22.26-22.30 of this Letter of Offer, ' Participation by ADS Holders ' for additional details concerning participation in the Buyback by ADS holders.
-
-## Legend Required by U.S. Law
-The Buyback referenced herein has not yet commenced. This draft of the Letter of Offer is provided for informational purposes only and is neither an offer to purchase nor a solicitation of an offer to sell any securities of the Company pursuant to the Company's Buyback or otherwise. Any offers to purchase or solicitations of offers to sell will be made pursuant to a Tender Offer Statement on Schedule TO (including the letter of offer and other documents relating to the tender offer) which will be filed with the  U.S. Securities and Exchange Commission (' SEC ') by the Company. The Company's security holders are advised to carefully read these documents, any amendments to these documents and any other documents relating to the Buyback that are filed with the SEC in their entirety prior to making any decision with respect to the Buyback because these documents contain important information, including the terms and conditions of the offer. The Company's security holders may obtain copies of these documents (when they become available) and other documents filed with the SEC for free at the SEC's website at www.sec.gov or from the Company's Investor Relations department at sharebuyback@infosys.com.
-NEITHER THE U.S. SECURITIES AND EXCHANGE COMMISSION NOR ANY STATE SECURITIES COMMISSION HAS APPROVED OR DISAPPROVED OF THIS TRANSACTION OR PASSED UPON THE MERITS OR FAIRNESS OF  SUCH  TRANSACTION  OR  PASSED  UPON  THE  ADEQUACY  OR  ACCURACY  OF  THE  INFORMATION CONTAINED IN THIS DOCUMENT. ANY REPRESENTATION TO THE CONTRARY IS A CRIMINAL OFFENSE.
-## TABLE OF CONTENTS
-| 1.   | SCHEDULE OF ACTIVITIES.......................................................................................................................................................................6                |
-|------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2.   | DEFINITIONS OF KEY TERMS..................................................................................................................................................................7                   |
-| 3.   | DISCLAIMER CLAUSE ................................................................................................................................................................................ 12         |
-| 4.   | TEXT OF THE RESOLUTION PASSED AT THE BOARD MEETING................................................................................................ 15                                                         |
-| 5.   | DETAILS OF THE PUBLIC ANNOUNCEMENT..................................................................................................................................... 21                                    |
-| 6.   | DETAILS OF THE BUYBACK................................................................................................................................................................... 21                  |
-| 7.   | AUTHORITY FOR THE BUYBACK ......................................................................................................................................................... 27                        |
-| 8.   | NECESSITY / OBJECTIVE OF THE BUYBACK.................................................................................................................................... 28                                   |
-| 9.   | MAXIMUM NUMBER OF EQUITY SHARES THAT THE COMPANY PROPOSES TO BUYBACK............................................. 29                                                                                          |
-| 10.  | MAXIMUM AMOUNT REQUIRED UNDER THE BUYBACK.............................................................................................................. 29                                                    |
-| 11.  | MANAGEMENT DISCUSSION AND ANALYSIS OF THE LIKELY IMPACT OF THE BUYBACKON THE COMPANY........ 29                                                                                                               |
-| 12.  | BUYBACK PRICE AND BASIS OF DETERMINING THE PRICE OF THE BUYBACK................................................................... 31                                                                         |
-| 13.  | SOURCES OF FUNDS FOR THE BUYBACK........................................................................................................................................... 31                                |
-| 14.  | DETAILS OF THE ESCROW ACCOUNT AND THE AMOUNTTOBEDEPOSITED THEREIN................................................... 32                                                                                       |
-| 15.  | FIRM FINANCING ARRANGEMENTS.................................................................................................................................................... 32                            |
-| 16.  | CAPITAL STRUCTURE AND SHAREHOLDING PATTERN............................................................................................................... 32                                                  |
-| 17.  | BRIEF INFORMATION OF THE COMPANY......................................................................................................................................... 34                                  |
-| 18.  | FINANCIAL INFORMATION ABOUT THE COMPANY ...................................................................................................................... 42                                             |
-| 19.  | STOCKMARKET DATA ............................................................................................................................................................................ 45              |
-| 20.  | DETAILS OF STATUTORY APPROVALS............................................................................................................................................... 46                              |
-| 21.  | DETAILS OF THE REGISTRAR TO THE BUYBACK AND COLLECTION CENTRES.................................................................. 47                                                                           |
-| 22.  | PROCESS AND METHODOLOGY FOR THE BUYBACK.................................................................................................................... 48                                                |
-| 23.  | PROCEDURE FOR TENDER / OFFER AND SETTLEMENT............................................................................................................... 52                                                 |
-| 24.  | NOTE ON TAXATION................................................................................................................................................................................. 59          |
-| 25.  | DECLARATION BY THE BOARD OF DIRECTORS.............................................................................................................................. 68                                        |
-| 26.  | AUDITOR'S CERTIFICATE....................................................................................................................................................................... 68               |
-| 27.  | DOCUMENTS FOR INSPECTION............................................................................................................................................................. 72                      |
-| 28.  | DETAILS OF THE COMPLIANCE OFFICER......................................................................................................................................... 72                                 |
-| 29.  | DETAILS OF THE REMEDIES AVAILABLE TO THE ELIGIBLE SHAREHOLDERS................................................................... 72                                                                          |
-| 30.  | DETAILS OF INVESTOR SERVICE CENTRE........................................................................................................................................ 72                                 |
-|      | DETAILS OF THE MANAGER TO THE BUYBACK ............................................................................................................................. 73                                        |
-| 31.  | DECLARATION BY THE DIRECTORS REGARDING AUTHENTICITY OF THE INFORMATION IN THE OFFER                                                                                                                           |
-| 32.  | DOCUMENT.................................................................................................................................................................................................. 73 |
-| 33.  | OFFER FORM............................................................................................................................................................................................... 74  |

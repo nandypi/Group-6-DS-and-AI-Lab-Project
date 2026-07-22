@@ -1,374 +1,126 @@
 ---
 document_name: "Infosys_22102025144043_SE_Draft_LOA_22102025.md"
 group_id: "Infosys_22102025144043_SE_Draft_LOA_22102025__group_009"
-source_section_count: 3
-page_start: 85
-page_end: 92
-estimated_tokens: 9341
+source_section_count: 2
+page_start: 48
+page_end: 52
+estimated_tokens: 4053
 source_section_ids:
-  - "Infosys_22102025144043_SE_Draft_LOA_22102025__029"
-  - "Infosys_22102025144043_SE_Draft_LOA_22102025__030"
-  - "Infosys_22102025144043_SE_Draft_LOA_22102025__031"
+  - "Infosys_22102025144043_SE_Draft_LOA_22102025__013"
+  - "Infosys_22102025144043_SE_Draft_LOA_22102025__014"
 ---
 
-## Infosys Limited
-C/o. KFin Technologies Limited, Selenium, Tower B, Plot Nos. - 31 &amp; 32, Financial District, Nanakramguda, Serilingampally Mandal Hyderabad 500032 Tel.: +91 40 6716 2222/18003094001
-Dear Sir/Madam,
-Sub: Letter of Offer dated [●], to Buyback up to 10,00,00,000 (Ten Crore) fully paid-up equity shares of Infosys Limited ('Company') of face value of ₹ 5/- (Rupees Five only) each ('Equity Shares'), at a price of ₹ 1,800/- (Rupees One Thousand Eight Hundred Only) per Equity Share ('Buyback Offer Price'), payable in cash for an aggregate amount not exceeding ₹ 18,000 Crore (Rupees Eighteen Thousand Crore Only) (the 'Buyback')
-1. I / We (having read and understood the Letter of Offer dated [●]) hereby tender / offer my / our Equity Shares in response to the Buyback on the terms and conditions set out below and in the Letter of Offer.
-2. I  /  We authorise the Company to Buyback the Equity Shares offered (as mentioned below) and to issue instruction(s) to the Registrar to the Buyback to extinguish the Equity Shares.
-3. I / We hereby affirm that the Equity Shares comprised in this tender / offer offered for Buyback by me / us are free from all liens, equitable interest, charges and encumbrance.
-4. I / We declare that there are no restraints / injunctions or other order(s) of any nature which limits / restricts in any manner my / our right to tender Equity Shares for the Buyback and that I / we /am / are legally entitled to tender the Equity Shares for Buyback.
-5. I / We agree that the Company will pay the Buyback Offer Price only after necessary deduction of Income Tax and due verification of the validity of the documents and that the consideration will be paid as per secondary market mechanism and the provisions of SEBI Buyback Regulations and circulars issued by SEBI.
-6. I /We agree that we will have to ensure to keep the DP Account active and unblocked to receive credit in case of return of Equity Shares due to rejection or due to prorated Buyback decided by the Company. Further, I / We will have to ensure to keep the bank account attached with the DP account active and updated to receive credit remittance due to Acceptance of Buyback of Equity Shares by the Company.
-7. I / We undertake to return to the Company any Buyback consideration that may be wrongfully received by me / us.
-8. I/ We acknowledge that the responsibility to discharge the tax due on any gains arising on the Buyback is on me / us. I / We agree to compute appropriate gains on this transaction and immediately pay applicable taxes in India (whether by deduction of tax at source, or otherwise) and file tax return in consultation with our custodians/ authorized dealers/ tax advisors appropriately.
-9. Non-Resident Shareholders (including NRIs, OCBs, FPI, Foreign Nationals and FIIs) are requested to enclose a consent letter indicating the details of transfer i.e., number of Equity Shares to be transferred, the name of the investee company whose shares are being transferred i.e., 'Infosys Limited' and the price at which the Equity Shares are being transferred i.e., 'Price determined in accordance with the Buyback Regulations' duly signed by the Shareholder or his/its duly appointed agent and in the latter case, also enclose the power of attorney.
-10. I/ We undertake to indemnify the Company if any tax demand is raised on the Company on account of gains arising to me / us on Buyback of Equity Shares. I / We also undertake to provide the Company, the relevant details in respect of the taxability / non-taxability of the proceeds arising on Buyback of Equity Shares by the Company, copy of tax return filed in India, evidence of the tax paid etc., whenever called for.
-11. I / We undertake to execute any further documents and give any further assurances that may be required or expedient to give effect to my / our tender / offer and agree to abide by any decision that may be taken by the Company to effect the Buyback in accordance with the Companies Act, 2013, the SEBI (Buy-Back of Securities) Regulations, 2018, and the extant applicable foreign exchange regulations. I/we agree that this form is deemed to be my consent letter for any filings under the Foreign Exchange Management Act, 1999 (FEMA) and the rules made thereunder.
-12. I / We agree to receive, at my/our own risk, the invalid / unaccepted Equity Shares under the Buyback in the demat account from where I / we have tendered the Equity Shares in the Buyback.
-13. Applicable for all non-resident shareholders : I/We, being a Non-Resident Shareholder, agree to obtain and submit all necessary approvals, if any and to the extent required from the concerned authorities including approvals from the Reserve Bank of India (RBI) under FEMA and any other the rules and regulations, for tendering Equity Shares in the Buyback, and also undertake to comply with the reporting requirements, if applicable, and any other rules, regulations and guidelines, in regard to remittance of funds outside India.
+## Notes:
+- (a) In February 1993, the Company made a public issue of 13,76,000 Equity Shares of ₹ 10 each at a premium of ₹ 85 per share. The public issue was fully subscribed and the allotment was made on April 29, 1993.
+- (b) Date of board meeting: April 28, 1994. During fiscal 1995, the Company placed 5,50,000 Equity Shares at the rate of ₹ 450 per Equity Share on a preferential basis with FIIs, FIs, mutual funds and institutional funds.
+- (c) Date of board meeting: April 28,  1994.
 
-14. Details of Equity Shares held and tendered / offered for Buyback:
+(d) Date of board meeting: April 8, 1997.
+(e) Date of board meeting: December 23, 1998.
+- (f) During the fiscal 1999, 10,35,000 Equity Shares of par value of ₹ 10 each were issued under the ADS program at US$68 per Equity Share. The ADSs were listed on the NASDAQ. The Company's ADSs representing the Equity Shares are currently listed on the NYSE, following the Company's voluntary
 
-Particulars
-Number of Equity Shares held as on Record Date ([●])
-Number of Equity Shares Entitled for Buyback (Buyback
-Entitlement)
-Number of Equity Shares offered for Buyback
-Note: An Eligible Shareholder may tender Equity Shares over and above his / her / its Buyback Entitlement. Number of Equity Shares validly tendered by any Eligible Shareholder up to the Buyback Entitlement of such Eligible Shareholder shall be accepted to the full extent. The Equity Shares tendered by any Eligible Shareholder over and above the Buyback Entitlement of such Eligible Shareholder shall be Accepted in accordance with Paragraph 22.16-22.24 of the Letter of Offer. Equity Shares tendered by any Eligible Shareholder over and above the number of Equity Shares held by such Eligible Shareholder as on the Record Date shall not be considered for the purpose of Acceptance .
-------------------------------------------------------------------------------------------- Tear along this line --------------------------------------------------------------------------------
-----
-## Acknowledgement Slip: INFOSYS LIMITED - BUYBACK 2025
-(to be filled by the Eligible Shareholder) (subject to verification)
-Client ID
-Stamp of Stock Broker
-NSDL
-DP ID
-Received from Mr./Ms./Mrs./M/s
-Form of Acceptance-cum-Acknowledgement, Original TRS along with:
-No. of Equity Shares offered for Buyback (In Figures)
-Please quote Client ID No. &amp; DP ID No. for all future correspondence
-15. Details of Account with Depository Participant (DP):
+delisting from the NASDAQ Global Select Market on December 11,  2012.
+- (g) Date of board meeting: November 29, 1999. The Company announced a stock-split (i.e., subdivision of every Equity Share of par value of ₹ 10 each into two Equity Shares of par value of ₹ 5 each) on November 29, 1999 and the same was effected in February 2000.
+- (h) Date of board meeting: April 13,  2004.
+- (i) Date of board meeting: April 14,  2006.
+- (j) Date of board meeting: October 10, 2014.
+- (k) Date of board meeting: April 24,  2015.
+- (l) Date of board meeting: August 19,  2017.
+- (m) Date of board meeting: July 13,  2018.
+- (n) Date of board meeting: January 11,  2019.
+- (o) Date of board meeting: April 14,  2021.
+- (p) Date of board meeting: October 13,  2022.
+* For ESOP allotment, average issue price represents the average exercise price of the options exercised during the period, adjusted for bonus issues/splits wherever applicable.
 
-Name of the Depository (tick whichever is applicable)
-Name of the Depository Participant
-DP ID
-Client ID
-16. Equity Shareholders Details:
+## 17.4 The details regarding the Board of Directors as on the date of the Public Announcement i.e. [●], 2025:
+|   Sr. No. | Name, Occupation, DIN and Age (in years)                                | Qualifications                                                                                                                                                                                                       | Date of Appointment / Re- appointment                                        | Designation                                                          | Other Directorships**   |
+|-----------|-------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|----------------------------------------------------------------------|-------------------------|
+|         1 | Nandan M. Nilekani Occupation: Professional Age: 70 years DIN: 00041245 | Bachelor's degree from IIT, Bombay                                                                                                                                                                                   | August 24, 2017                                                              | Chairman and Non- Executive and Non- Independent Director (Promoter) | [●]                     |
+|         2 | Salil Parekh Occupation: Professional Age: 61 years DIN: 01876159       | Master of Engineering degree in Computer Science and Mechanical Engineering from Cornell University, and a Bachelor of Technology degree in Aeronautical Engineering from the Indian Institute of Technology, Bombay | Date of appointment: January 02, 2018 Date of re- appointment: July 01, 2022 | Chief Executive Officer and Managing Director                        | [●]                     |
+|         3 | D. Sundaram Age: 72 years Occupation: Professional DIN: 00016304        | Post-graduate in Management Studies (MMS), Fellow of the Institute of Cost Accountants, and Advanced Management Program (AMP) from Harvard Business School                                                           | Date of appointment: July 14, 2017 Date of reappointment: July 14, 2022      | Lead Independent Director                                            | [●]                     |
+|         4 | Michael Gibbs Age: 67 years Occupation: Professional DIN: 08177291      | Management Science from Oklahoma State University and Executive Management Program at Penn State University in 1997 and the Concours/Cash CIO Leadership Program in 2004.                                            | Date of appointment: July 13, 2018 Date of reappointment : July 13, 2021     | Independent Director                                                 | [●]                     |
+|         5 | Bobby Parikh Age: 61 years                                              | Commerce graduation from University of Mumbai and Chartered                                                                                                                                                          | Date of appointment:                                                         | Independent Director                                                 | [●]                     |
 
-| Particulars                                  | First/Sole Equity Shareholder   | Joint Equity Shareholder 1   | Joint Equity Shareholder 2   | Joint Equity Shareholder 3   |
-|----------------------------------------------|---------------------------------|------------------------------|------------------------------|------------------------------|
-| Full Name(s) of the Equity Shareholder       |                                 |                              |                              |                              |
-| Signature(s)*                                |                                 |                              |                              |                              |
-| PAN                                          |                                 |                              |                              |                              |
-| Address of the Sole/First Equity Shareholder |                                 |                              |                              |                              |
-| Telephone No. / Email ID                     |                                 |                              |                              |                              |
+| Sr. No.                                | Name, Occupation, DIN and Age (in years)                                                                                              | Qualifications                                                                                                                                                               | Date of Appointment / Re- appointment   | Designation          | Other Directorships**   |
+|----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|----------------------|-------------------------|
+| Occupation: Professional DIN: 00019437 | Accountant from the Indian Institute of Chartered Accountants of India                                                                | July 15, 2020 Date of reappointment : July 15, 2023                                                                                                                          |                                         |                      |                         |
+| 6                                      | Chitra Nayak Age: 62 years Occupation: Professional DIN: 09101763 MBAwith Harvard MS in Engineering University, in Engineering Indian | Honors from Business School, Environmental from Cornell and a B.Tech. from the Institute of Technology Date of appointment: March 25, 2021 Date of reappointment : March 25, |                                         | Independent Director | [●]                     |
+| 7 Age: DIN:                            | Govind Iyer 63 years Occupation: Professional 00169343 Bachelor's Regional College, from The                                          | degree from Engineering Trichy andMBA Wharton School, University of Pennsylvania.                                                                                            | Date of appointment: January 12, 2023   | Independent Director | [●]                     |
+| 8                                      | Helen Auriol Potier Age: 62 years Occupation: Professional DIN: 10166891                                                              | Master of Science in Engineering from Telecom Paris and an Executive MBAfrom INSEAD                                                                                          | Date of appointment: May 26, 2023       | Independent Director | [●]                     |
+| 9                                      | Nitin Paranjpe Age: 62 years Occupation: Professional DIN: 00045204                                                                   | Bachelor's degree in mechanical engineering and an MBAin Marketing from Jamnalal Bajaj Institute of Management in Mumbai.                                                    | Date of appointment: January 1, 2024    | Independent Director | [●]                     |
 
-## INSTRUCTIONS
-This Tender Form has to be read along with the Letter of Offer and is subject to the terms and conditions mentioned in the Letter of Offer and this Tender Form.
-1. The Buyback will open on [●] and close on [●].
-2. This Tender Form has to be read along with the Letter of Offer and is subject to the terms and conditions mentioned in the Letter of Offer and this Tender Form.
-3. In case of Eligible Shareholders holding and tendering Equity Shares in demat form, submission of Tender Form and TRS is not required. Eligible Shareholders who desire to tender their Equity Shares in the dematerialized form under the Buyback would have to do so through their respective Stock Broker by indicating the details of Equity Shares they intend to tender under the Buyback. For further details, please follow the procedure as mentioned in paragraph 23.25 of the Letter of Offer.
-4. The Equity Shares tendered in the Buyback shall be liable to be rejected if : (i) the tenderer is not an Eligible Shareholder of the Company as on the Record Date; (ii) if there is a name and PAN mismatch in the demat account of the Eligible Shareholder; (iii) there exists any restraint order of a Court/any other competent authority for transfer/disposal/ sale or where loss of share certificates has been notified to the Company or where the title to the Equity Shares is under dispute or otherwise not clear or where any other restraint subsists; (iv) in the event of non-receipt of the completed Tender Form and other documents from the Eligible Shareholders who were holding Equity Shares in physical form as on the Record Date and have placed their bid in dematerialized form in accordance with paragraph 23.29 of the Letter of Offer.
-5. All Non-Resident Shareholders should, if applicable, enclose a copy of the permission received by them from the RBI to acquire the Equity Shares held by them in the Company. In case the Equity Shares are held on repatriation basis, the Non-Resident Shareholder should obtain and enclose a letter from its authorised dealer / bank confirming that at the time of acquiring such Equity Shares, payment for the same was made by the Non-Resident Shareholder from the appropriate account as specified by RBI in its approval. In case the Non-Resident Shareholder is not in a position to produce the said certificate, the shares would be deemed to have been acquired on non-repatriation basis and in that case the shareholder shall submit a consent letter addressed to the Company, allowing the Company to make the payment on a non-repatriation basis in respect of the valid shares accepted under the Buyback. If any of the above stated documents (as applicable) are not enclosed along with the Tender Form, the Equity Shares tendered under the Buy-back shall be liable to be rejected.
-6. The Company will not accept any Equity Shares offered in the Buyback which are under any restraint order of a court for transfer/sale of such Equity Shares.
+## 17.5 The details of changes in the Board of Directors during the last 3 (three) years from the date of the Public Announcement i.e. [●], 2025:
+| Name of the Director   | Appointment / Resignation / Cessation   | Effective Date   | Reasons                           |
+|------------------------|-----------------------------------------|------------------|-----------------------------------|
+| Nitin Paranjpe         | Appointment                             | January 1, 2024  | Appointed as Independent Director |
+| Helene Auriol Potier   | Appointment                             | May 26, 2023     | Appointed as Independent Director |
+| Uri Levine             | Resignation                             | April 19, 2023   | Completion of tenure              |
 
-(in words)
-In Figures In Words CDSL
-7. In case any registered entity that has merged with another entity and the merger has been approved and has come into effect but the process of getting the successor company as the registered Shareholder is still incomplete, then such entity along with the Tender Form should file a copy of the following documents: (i) Approval from the appropriate authority for such merger; (ii) The scheme of merger; and (iii) The requisite form filed with MCA intimating the merger.
-8. For the Clearing Corporation to make a payout of more than Rs. 50,00,00,000 (Rupees Fifty Crore only), a Legal Entity Identifier (LEI) number of the Eligible Shareholder will have to be provided. Accordingly, an Eligible Shareholder who is tendering shares of value more than Rs. 50,00,00,000 (Rupees Fifty Crore only) will have to provide such Eligible Shareholder's LEI number with the relevant supporting documents such as the LEI registration certificate to the Registrar by email at [●].com latest by 5:00 PM IST on the Buyback Window Closing Date.
-9. The Eligible Shareholders will have to ensure that they keep the DP Account active and unblocked to receive credit in case of return of Equity Shares due to rejection or due to the Buyback being on a proportionate basis in terms of the ratio of Buyback, in accordance with the Buyback Regulations.
-10. In case of non-receipt of the Letter of Offer, Eligible Shareholders holding Equity Shares may participate in the Buyback by providing their application in plain paper in writing signed by Eligible Shareholder or all Eligible Shareholders (in case Equity Shares are in joint name), stating name and address of Eligible Shareholders, number of Equity Shares held as on the Record Date, Client ID number, DP Name/ ID, beneficiary account number and number of Equity Shares tendered for the Buyback.
-11. Eligible Shareholders to whom the Buyback offer is made are free to tender Equity Shares to the extent of their Buyback Entitlement in whole or in part or in excess of their Buyback Entitlement, but not exceeding their holding as on the Record Date.
-12. For the procedure to be followed by Eligible Shareholders for tendering in the Buyback, please refer to Section 23 of the Letter of Offer.
-13. All documents sent by Eligible Shareholders will be at their own risk. Eligible Shareholders are advised to safeguard adequately their interests in this regard.
-14. By agreeing to participate in the Buyback, each Eligible Shareholder (including the Non-Resident Shareholder) undertakes to complete all regulatory/statutory filings and compliances to be made by it under applicable law. Further, by agreeing to participate in the Buyback, each Eligible Shareholder hereby give the Company the authority to make, sign, execute, deliver, acknowledge and perform all applications to file regulatory reporting, if required, and undertake to provide assistance to the Company for such regulatory reporting, if required by the Company.
+| Name of the Director   | Appointment / Resignation / Cessation   | Effective Date   | Reasons                           |
+|------------------------|-----------------------------------------|------------------|-----------------------------------|
+| Kiran Mazumdar-Shaw    | Resignation                             | March 22, 2023   | Completion of tenure              |
+| Govind Iyer            | Appointment                             | January 12, 2023 | Appointed as Independent Director |
 
-All capitalised items shall have the meaning ascribed to them in the Letter of Offer.
-------------------------------------------------------------------------------------------- Tear along this line -------------------------------------------------------------------------
--------
+- 17.6 The Buyback will not result in any benefit to any Director of the Company except to the extent of the cash consideration received by them from the Company pursuant to their participation in the Buyback in their capacity as Equity Shareholders of  the  Company  and  the  change  in  their  shareholding  as  per  the  response  received  in  the  Buyback,  as  a  result  of  the extinguishment of Equity Shares and resultant reduction in the Equity Share capital after the completion of the Buyback.
 
-## ALL FUTURE CORRESPONDENCE IN CONNECTION WITH THIS BUYBACK, IF ANY, SHOULD BE ADDRESSED TO REGISTRAR TO THE BUYBACK  AT THE FOLLOWING ADDRESS QUOTING YOUR CLIENT ID AND DP ID:
-Investor Service Centre: INFOSYS LIMITED - BUYBACK 2025
-KFin Technologies Limited
-Selenium, Tower B, Plot No- 31 &amp; 32, Financial District, Nanakramguda, Serilingampally Hyderabad Rangareddi TG 500 032 India.
-Tel.:
-+91 40 6716 2222/18003094001
-Email:
-infosys.buyback2025@kfintech.com; Website:
-www.kfintech.com
-Contact Person
-: M Murali Krishna
-SEBI Registration Number
-: INR000000221;
-Corporate Identity Number:
-L72400MH2017PLC444072
-## TENDER FORM FOR ELIGIBLE SHAREHOLDERS
-## FORM OF ACCEPTANCE-CUM-ACKNOWLEDGEMENT (FOR ELIGIBLE SHAREHOLDERS HOLDING SHARES IN PHYSICAL FORM)
-Bid Number:
-BUYBACK OPENS ON:
-[●]
-Date:
-BUYBACK CLOSES ON:
-[●]
-For Registrar / collection centre use
-Inward No.
-Date
-Stamp
-Status (Please tick appropriate box)
-- [ ] Individual
+## 18. FINANCIAL INFORMATION ABOUT THE COMPANY
+- 18.1 The Company prepares its financial statements in accordance with Indian Accounting Standards prescribed under Section 133 of the Act, read with the relevant rules issued thereunder (' Ind AS ').
+- 18.2 The  brief  financial  information  of  the  Company  as  extracted  from  the  audited  standalone  and  consolidated  financial statements of the Company for the last 3 (three) financial years ended March 31, 2025, March 31, 2024 and March 31, 2023 and audited interim condensed standalone and consolidated financial statements for the six months period ended September 30, 2025 are set out below:
 
-- [ ] FII/FPI
+## Excerpts from the standalone financial statements (as per Ind AS)
+( ₹ in Crore unless otherwise stated )
+|                                                                                    | For the six months period ended September   | Year ended     | Year ended     | Year ended     |
+|------------------------------------------------------------------------------------|---------------------------------------------|----------------|----------------|----------------|
+| Particulars                                                                        | 30, 2025                                    | March 31, 2025 | March 31, 2024 | March 31, 2023 |
+| Revenue from Operations                                                            | 72,182                                      | 1,36,592       | 1,28,933       | 1,24,014       |
+| Other Income                                                                       | 3,151                                       | 4,782          | 7,417          | 3,859          |
+| Total income                                                                       | 75,333                                      | 1,41,374       | 1,36,350       | 1,27,873       |
+| Total Expenses (excluding finance cost and depreciation and amortization expenses) | 54,886                                      | 1,03,093       | 97,176         | 93,320         |
+| Finance cost (1)                                                                   | 108                                         | 221            | 277            | 157            |
+| Depreciation and amortization expenses                                             | 1,209                                       | 2,619          | 2,944          | 2,753          |
+| Profit before tax                                                                  | 19,130                                      | 35,441         | 35,953         | 31,643         |
+| Tax expenses (including deferred tax)                                              | 5,256                                       | 9,873          | 8,719          | 8,375          |
+| Profit after tax                                                                   | 13,874                                      | 25,568         | 27,234         | 23,268         |
+| Other comprehensive income                                                         | 22                                          | 105            | 287            | (268)          |
+| Total comprehensive income for the period                                          | 13,896                                      | 25,673         | 27,521         | 23,000         |
+| Equity share capital                                                               | 2,077                                       | 2,076          | 2,075          | 2,074          |
+| Other equity                                                                       | 90,481                                      | 85,256         | 79,101         | 65,671         |
+| Net worth                                                                          | 92,558                                      | 87,332         | 81,176         | 67,745         |
+| Total Debt                                                                         | NIL                                         | NIL            | NIL            | NIL            |
 
-Insurance Co.
-- [ ] Foreign Co.
+Notes :
+(1) Finance cost is on account of Leases.
+## Excerpts from the consolidated financial statements (as per Ind AS)
+( ₹ in Crore unless otherwise stated )
+|                         | For the six months period   | Year ended     | Year ended     | Year ended     |
+|-------------------------|-----------------------------|----------------|----------------|----------------|
+| Particulars             | ended September 30, 2025    | March 31, 2025 | March 31, 2024 | March 31, 2023 |
+| Revenue from Operations | 86,769                      | 1,62,990       | 1,53,670       | 146,767        |
+| Other Income            | 2,024                       | 3,600          | 4,711          | 2,701          |
 
-NRI/OCB
-- [ ] FVCI
+|                                                                                    | For the six months period ended   | Year ended     | Year ended     | Year ended     |
+|------------------------------------------------------------------------------------|-----------------------------------|----------------|----------------|----------------|
+| Particulars                                                                        | September 30, 2025                | March 31, 2025 | March 31, 2024 | March 31, 2023 |
+| Total income                                                                       | 88,793                            | 1,66,590       | 1,58,381       | 1,49,468       |
+| Total Expenses (excluding finance cost and depreciation and amortization expenses) | 66,289                            | 1,23,754       | 1,17,245       | 1,11,637       |
+| Finance cost (1)                                                                   | 211                               | 416            | 470            | 284            |
+| Depreciation and amortization expenses                                             | 2,323                             | 4,812          | 4,678          | 4,225          |
+| Profit before tax                                                                  | 19,970                            | 37,608         | 35,988         | 33,322         |
+| Tax expenses (including deferred tax)                                              | 5,670                             | 10,858         | 9,740          | 9,214          |
+| Profit after tax                                                                   | 14,300                            | 26,750         | 26,248         | 24,108         |
+| Other comprehensive income                                                         | 1,895                             | 459            | 520            | 514            |
+| Total comprehensive income for the period                                          | 16,195                            | 27,209         | 26,768         | 24,622         |
+| Profit attributable to                                                             |                                   |                |                |                |
+| Owners of the company                                                              | 14,285                            | 26,713         | 26,233         | 24,095         |
+| Non-controlling interests                                                          | 15                                | 37             | 15             | 13             |
+| Total comprehensive income attributable to                                         |                                   |                |                |                |
+| Owners of the company                                                              | 16,165                            | 27,167         | 26,754         | 24,598         |
+| Non-controlling interests                                                          | 30                                | 42             | 14             | 24             |
+| Equity share capital                                                               | 2,074                             | 2,073          | 2,071          | 2,069          |
+| Other equity                                                                       | 1,01,256                          | 93,745         | 86,045         | 73,338         |
+| Net worth (2)                                                                      | 1,03,330                          | 95,818         | 88,116         | 75,407         |
+| Total Debt                                                                         | NIL                               | NIL            | NIL            | NIL            |
 
-- [ ] Body Corporate
-
-Bank / FI
-Pension Fund/ PF
-- [ ] VCF
-
-- [ ] Partnership/LLP
-
-- [ ] Others (specify)
-
-- [ ] Mutual Fund
-
-- [ ] Other QIBs
-
-- [ ] Other NIBs
-
-India Tax Residency Status: (Please tick appropriate box)
-Resident in India
-Non-Resident in India
-Resident of
-……………………
-(Shareholder to fill the country of residence)
-Route of Investment (for Non-Resident Shareholder only)
-To,
-Portfolio Investment Scheme
-Foreign Investment Scheme
-The Board of Directors Infosys Limited
-C/o. KFin Technologies Limited, Selenium, Tower B, Plot Nos. - 31 &amp; 32, Financial District, Nanakramguda, Serilingampally Mandal Hyderabad 500032 Tel.: +91 40 6716 2222/18003094001
-Dear Sir/Madam,
-Sub: Letter of Offer dated [●] to Buyback up to 10,00,00,000 (Ten Crore) fully paid-up equity shares of Infosys Limited ('Company') of face value of ₹  5/(Rupees Five only) each ('Equity Shares'), at a price of ₹ 1,800/- (Rupees One Thousand Eight Hundred Only) per Equity Share ('Buyback Offer Price'), payable in cash for an aggregate amount not exceeding ₹ 18,000 Crore (Rupees Eighteen Thousand Crore Only) (the 'Buyback')
-1. I / We (having read and understood the Letter of Offer dated [●]) hereby tender / offer my / our Equity Shares in response to the Buyback on the terms and conditions set out below and in the Letter of Offer.
-2. I  /  We authorise the Company to Buyback the Equity Shares offered (as mentioned below) and to issue instruction(s) to the Registrar to the Buyback to extinguish the Equity Shares.
-3. I / We hereby affirm that the Equity Shares comprised in this tender offer are offered for Buyback by me / us free from all liens, equitable interest, charges and encumbrance.
-4. I / We declare that there are no restraints / injunctions or other order(s) of any nature which limits / restricts in any manner my / our right to tender Equity Shares for the Buyback and that I / we /am / are legally entitled to tender the Equity Shares for Buyback.
-5. I / We agree that the Company is not obliged to Accept any Equity Shares offered for Buyback where loss of share certificates has been notified to the Company.
-6. I / We agree that the Company will pay the Buyback Offer Price only after necessary deduction of Income Tax and due verification of the validity of the documents and that the consideration will be paid to the first named Eligible Shareholder as mentioned below in Sr. no. [17].
-7. I / We undertake to return to the Company any consideration in respect of the Buyback that may be wrongfully received by me / us.
-8. I / We authorize the Company to return share certificate in case none of the Equity Shares are Accepted by the Company in the Buyback.
-9. I / We authorize the Company to issue a Letter of Confirmation (' LOC ') for the unaccepted Equity Shares in case only a portion of the physical shares held by me is Accepted in the Buyback.
-10. I/ We acknowledge that the responsibility to discharge the tax due on any gains arising on the Buyback is on me / us. I / We agree to compute appropriate gains on this transaction and immediately pay applicable taxes in India (whether by deduction of tax at source, or otherwise) and file tax return in consultation with our custodians/ authorized dealers/ tax advisors appropriately.
-11. I/ We undertake to indemnify the Company if any tax demand is raised on the Company on account of gains arising to me / us on the Buyback of Equity Shares. I / We also undertake to provide the Company, the relevant details in respect of the taxability / non-taxability of the proceeds arising on the Buyback of Equity Shares by the Company, copy of tax return filed in India, evidence of the tax paid etc., whenever called for.
-12. Applicable for all non-resident shareholders : I / We undertake to execute any further documents and give any further assurances that may be required or expedient to give effect to my / our tender / offer and agree to abide by any decision that may be taken by the Company to effect the Buyback in accordance with the Companies Act, 2013, the SEBI (Buy-back of Securities) Regulations, 2018, and the extant applicable foreign exchange regulations. I/we agree that this form is deemed to be my consent letter for any filings under the Foreign Exchange Management Act, 1999 (FEMA) and rules made thereunder.
-13. Details of Equity Shares held and tendered / offered for Buyback:
-
-| Particulars                                                        | In Figures   | In Words   |
-|--------------------------------------------------------------------|--------------|------------|
-| Number of Equity Shares held as on Record Date ([●])               |              |            |
-| Number of Equity Shares Entitled for Buyback (Buyback Entitlement) |              |            |
-
-Number of Equity Shares offered for Buyback
-Note: An Eligible Shareholder may tender Equity Shares over and above his / her / its Buyback Entitlement. Number of Equity Shares validly tendered by any Eligible Shareholder up to the Buyback Entitlement of such Eligible Shareholder shall be accepted to the full extent. The Equity Shares tendered by any Eligible Shareholder over and above the Buyback Entitlement of such Eligible Shareholder shall be Accepted in accordance with Paragraph 22.16-22.24 of the Letter of Offer. Equity Shares tendered by any Eligible Shareholder over and above the number of Equity Shares held by such Eligible Shareholder as on the Record Date shall not be considered for the purpose of Acceptance .
-------------------------------------------------------------------------------------------- Tear along this line --------------------------------------------------------------------------------
-----
-## Acknowledgement Slip: INFOSYS LIMITED - BUYBACK 2025
-(to be filled by the Eligible Shareholder) (subject to verification)
-Ledger Folio No.
-Received from Mr./Ms./Mrs./M/s
-## Form of Acceptance-cum-Acknowledgement, Original TRS along with:
-No. of Equity Shares offered for Buyback (In Figures)
-Please quote Ledger Folio No. for all future correspondence
-14. Details of Share Certificate(s) enclosed :
-
-Stamp of Stock Broker
-Total No. of Share Certificates Submitted:
-| Sr. No.   | Folio No.   | Share Certificate No.   | Distinctive No(s)   | Distinctive No(s)   | No. of Shares   |
-|-----------|-------------|-------------------------|---------------------|---------------------|-----------------|
-|           |             |                         | From                | To                  |                 |
-| 1         |             |                         |                     |                     |                 |
-| 2         |             |                         |                     |                     |                 |
-| 3         |             |                         |                     |                     |                 |
-| 4         |             |                         |                     |                     |                 |
-| Total     |             |                         |                     |                     |                 |
-
-In case the number of folios and share certificates enclosed exceed 4 nos., please attach a separate sheet giving details in the same format as above.
-15. Details of the bank account of the sole or first Shareholder for payment of consideration (to be mandatorily filled):
-
-Name of the Bank Branch and City
-16. Details of other Documents (Please √ as appropriate, if applicable) enclosed:
-
-- [ ] Power of Attorney
-
-Account Number (indicate type of
-account)
-- [ ] Corporate authorisation
-
-- [ ] Self-attested copy of the Permanent Account Number (PAN Card)
-
-- [ ] Others (please specify): \_\_\_\_\_\_\_\_\_\_\_\_\_
-
-17. Equity Shareholders Details:
-
-Particulars
-Full Name(s) of the Equity Shareholder
-Signature(s)*
-PAN no.
-Address of the Sole/First Equity Shareholder
-Telephone No. / Email ID
-* Corporate shareholder must affix rubber stamp and sign under valid authority. The relevant corporate authorisation should be enclosed with the application form submitted.
-
-18. This Tender Form has to be read along with the Letter of Offer and is subject to the terms and conditions mentioned in the Letter of Offer and this Tender Form
-
-- [ ] TRS
-
-- [ ] Previous RBI approvals for acquiring the Equity Shares tendered in the Buyback
-
-Joint Equity Joint Equity
-Shareholder 1
-Shareholder 2
-Joint Equity
-Shareholder 3
-IFSC and MICR Code
-(in words)
-First/Sole Equity
-Shareholder
-1. The Buyback will open on [●] and close on [●].
-2. This Tender Form has to be read along with the Letter of Offer and is subject to the terms and conditions mentioned in the Letter of Offer and this Tender Form.
-3. Eligible Shareholders who wish to tender their Equity Shares in response to this Buyback should deliver the following documents so as to reach before the close of business hours to the Registrar (as mentioned in the Letter of Offer) on or before [●] by 5:00 PM IST: (i) The Tender Form duly signed (by all Equity Shareholders in case Equity Shares are in joint names in the same order in which they hold the Equity Shares); (ii) Original share certificates; (iii) Valid share transfer form(s) (SH-4) duly filled and signed by the transferors (i.e., by all registered Shareholders in same order and as per the specimen signatures registered with the Company / Registrar) and duly witnessed at the appropriate place authorizing the transfer in favor of the Company; (iv) Self-attested copy of the Permanent Account Number (PAN) Card (by all Eligible Shareholders in case Equity Shares are in joint names).
-4. Eligible Shareholders should also provide all relevant documents in addition to the above documents, which include but are not limited to: (i) Duly attested power of attorney registered with the Registrar, if any person other than the Eligible Shareholder has signed the relevant Tender Form; and (ii) Necessary corporate authorisations, such as board resolutions etc., in case of companies. In addition to the above, if the address of the shareholder has undergone a change from the address registered in the Register of Members of the Company, the shareholder would be required to submit a self-attested copy of address proof consisting of any one of the following documents: valid Aadhar Card, Voter Identity Card or Passport.
-5. All Non-Resident Shareholders should, if applicable, enclose a copy of the permission received by them from the RBI to acquire the Equity Shares held by them in the Company. In case the Equity Shares are held on repatriation basis, the Non-Resident Shareholder should obtain and enclose a letter from its authorised dealer / bank confirming that at the time of acquiring such Equity Shares, payment for the same was made by the NonResident Shareholder from the appropriate account as specified by RBI in its approval. In case the Non-Resident Shareholder is not in a position to produce the said certificate, the shares would be deemed to have been acquired on non-repatriation basis and in that case the shareholder shall submit a consent letter addressed to the Company, allowing the Company to make the payment on a non-repatriation basis in respect of the valid shares accepted under the Buyback. If any of the above stated documents (as applicable) are not enclosed along with the Tender Form, the Equity Shares tendered under the Buy-back shall be liable to be rejected.
-6. In case any registered entity that has merged with another entity and the merger has been approved and has come into effect but the process of getting the successor company as the registered Shareholder is still incomplete, then such entity along with the Tender Form should file a copy of the following documents: (i) Approval from the appropriate authority for such merger; (ii) The scheme of merger; and (iii) The requisite form filed with MCA intimating the merger.
-7. For the Clearing Corporation to make a payout of more than Rs. 50,00,00,000 (Rupees Fifty Crores only), a Legal Entity Identifier (LEI) number of  the  Eligible  Shareholder  will  have  to  be  provided.  Accordingly,  an  Eligible  Shareholder  who  is  tendering  share  of  value  more  than  Rs. 50,00,00,000 (Rupees Fifty Crores only) will have to provide such Eligible Shareholder's LEI number with the relevant supporting documents such as the LEI registration certificate to the Registrar on an email at [●] latest by 5.00 p.m. IST on the Buyback Window Closing Date.
-8. In  case  of  non-receipt  of  the  Letter  of  Offer,  Eligible  Shareholders  holding  Equity  Shares  may  participate  in  the  Buyback  by  providing  their application in plain paper in writing signed by Eligible Shareholder or all Eligible Shareholders (in case Equity Shares are in joint name), stating name and address of Eligible Shareholders, number of Equity Shares held as on the Record Date, Client ID number, DP Name/ ID, beneficiary account number and number of Equity Shares tendered for the Buyback.
-9. Eligible Shareholders to whom the Buyback is being made are free to tender Equity Shares to the extent of their entitlement in whole or in part or in excess of their entitlement, but not exceeding their holding as on the Record Date.
-10. All  documents  sent  by  the  Stock  Broker/  custodian/Eligible  Shareholder  will  be  at  their  own  risk  and  the  Stock  Broker/  custodian/  Eligible Shareholders are advised to adequately safeguard their interests in this regard.
-11. For the procedure to be followed by Eligible Shareholders for tendering in the Buyback, please refer to Section 23 of the Letter of Offer.
-12. All documents as mentioned above, shall be enclosed with the valid Tender Form, otherwise the Equity Shares tendered will be liable for rejection. The Equity Shares shall be liable for rejection on the following grounds amongst others:(i) If any other company share certificates are enclosed with the Tender Form instead of the share certificate of the Company; (ii) If the transmission of Equity Shares is not completed, and the Equity Shares are not in the name of the Eligible Shareholders; (iii) If the Eligible Shareholders bid the Equity Shares but the Registrar does not receive the physical Equity Share certificate;  (iv) In the event the signature in the Tender Form and Form SH-4 do not match as per the specimen signature recorded with Company or Registrar; (v) If the shareholder is not an Eligible Shareholder of the Company on the Record Date; (vi) If there is a name mismatch in the share certificate of the Shareholder (vii) If the PAN cards (self-attested) of the shareholder and all the joint holders, are not submitted with the form; (viii) If the Eligible Shareholder has made a duplicate bid/ order; (ix) There exists any restraint order of a Court/any other competent authority for transfer/disposal/sale or where loss of share certificates has been notified to the Company or where the title to the Equity Shares is under dispute or otherwise not clear or where any other restraint subsists; (x) The documents mentioned in the Tender Form not received by the Registrar on or before the close of business hours of [●] by 5:00 PM IST.
-13. The Company will not Accept any Equity Shares offered in the Buyback which are under any restraint order of a court for transfer/sale of such Equity Shares.
-14. By  agreeing  to  participate  in  the  Buyback  each  Eligible  Shareholder  (including  the  Non-Resident  Shareholder)  undertakes  to  complete  all regulatory/statutory filings and compliances to be made by it under applicable law. Further, by agreeing to participate in the Buyback, each Eligible Shareholder hereby give the Company the authority to make, sign, execute, deliver, acknowledge and perform all applications to file regulatory reporting, if required, including FC-TRS form, if necessary and undertake to provide assistance to the Company for such regulatory reporting, if required by the Company.
-15. Non-Resident  Shareholders  must  obtain  and  submit  all  necessary  approvals,  if  any  and  to  the  extent  required  from  the  concerned  authorities including approvals from the Reserve Bank of India (' RBI ') under Foreign Exchange Management Act, 1999, as amended (' FEMA ') and the rules and regulations framed there under, for tendering Equity Shares in the Buyback, and also undertake to comply with the reporting requirements, if applicable, under the FEMA and any other rules, regulations and guidelines, in regard to remittance of funds outside India.
-
-## INSTRUCTIONS
-------------------------------------------------------------------------------------------- Tear along this line -------------------------------------------------------------------------
--------
-## ALL FUTURE CORRESPONDENCE IN CONNECTION WITH THIS BUYBACK, IF ANY, SHOULD BE ADDRESSED TO REGISTRAR TO THE BUYBACK
-## AT THE FOLLOWING ADDRESS QUOTING YOUR LEDGER FOLIO NO.: Investor Service Centre:
-## INFOSYS LIMITED - BUYBACK 2025 KFin Technologies Limited
-Selenium, Tower B, Plot No- 31 &amp; 32, Financial District, Nanakramguda, Serilingampally Hyderabad Rangareddi TG 500 032 India.
-Tel.: +91 40 6716 2222/18003094001
-Email:
-infosys.buyback2025@kfintech.com;
-Website: www.kfintech.com
-Contact Person
-: M Murali Krishna
-SEBI Registration Number
-: INR000000221;
-Corporate Identity Number:
-L72400MH2017PLC444072
-## FORM OF TRANSFER DEED
-## Form No. SH-4 - Securities Transfer Form
-( Pursuant to section 56 of the Companies Act, 2013 and sub-rule (1) of rule 11 of the Companies (Share Capital and Debentures) Rules 2014 )
-Date of execution:   /
-/
-FOR THE CONSIDERATION stated  below  the  'Transferor(s)'  named  do  hereby transfer  to  the 'Transferee(s)' named  the  securities  specified  below  subject  to  the  conditions  on  which  the  said  securities  are  now  held  by  the Transferor(s) and the Transferee(s) do hereby agree to accept and hold the said  securities subject to the conditions aforesaid.
-## CIN:  L 8 5 1 1 0 K A 1 9 8 1 P L C 0 1 3 1 1 5
-Name of the company (in full): INFOSYS LIMITED
-Name of the Stock Exchanges where the company is listed: BSE Limited  and National Stock Exchange of India Limited
-## DESCRIPTION OF SECURITIES:
-Kind/Class of securities
-(1)
-Nominal value of each
-unit of security (2)
-Amount called up per
-unit of security (3)
-Amount paid up per unit of
-security (4)
-Equity
-₹ 5
-₹ 5
-₹ 5
-No. of Securities being Transferred
-Consideration received (Rs.)
-In figures
-In words
-In words
-In figures
-Distinctive
-Number
-Form
-To
-Corresponding
-Certificate Nos.
-## Transferors' Particulars
-Registered Folio Number: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-Name(s) in full                                                                    PAN No.
-Signature(s)
-1.
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-2.
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-3.
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-I, hereby conform that the transferor has signed before me.
-Signature of the Witness:
-Name of the Witness:
-Address of the Pincode:
-| Transferees' Particulars   | Transferees' Particulars          | Transferees' Particulars                                                                                  |
-|----------------------------|-----------------------------------|-----------------------------------------------------------------------------------------------------------|
-| Name in full (1)           | Father's/Mother's/Spouse Name (2) | Address (3)                                                                                               |
-| Infosys Limited            | N.A.                              | Address: No. 44, Electronics City, Hosur Road, Bengaluru, Karnataka, 560100 E-mail: investors@infosys.com |
-| Occupation (4)             | Existing Folio No., if any (5)    | Signature (6)                                                                                             |
-| Business                   |                                   |                                                                                                           |
-
-## Folio No. of Transferee Transferee(s)
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-Value of Stamp affixed: Rs. \_\_\_\_\_\_\_\_\_\_
-## Declaration:
-- ( ) Transferee is not required to obtain Government approval under the Foreign Exchange Management (Non-debt Instruments) Rules, 2019 prior to transfer of shares; or
-- ( ) Transferee is required to obtain the Government approval under the Foreign Exchange Management (Non-debt Instruments) Rules, 2019 prior to transfer of shares and the same has been obtained and is enclosed herewith.
-
-## Enclosures:
-1. Certificate of shares or debentures or other securities
-2. If no certificate is issued, Letter of allotment
-
-Specimen
-1.
-2.
-3.
-Signature of
-Witness:
-STAMPS
-| Name of the Transferor   | Name of the Transferee   | No. of shares   | Date of Transfer   |
-|--------------------------|--------------------------|-----------------|--------------------|
-
-3. Copy of PAN Card of all the Transferees (For all listed Cos.)
-
-- 4.
-
-- Others, Specify, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-## For Office Use Only
-Checked by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Signature Tallied by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Entered in the Register of Transfer on\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_  vide  Transfer  no.\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Approval Date\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Power  of  attorney/Probate/Death  certificate/Letter of Administration Registered on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ at No. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-## On the reverse page of the certificate
-Name of the Transferor
-Name of the Transferee
-No. of shares
-Date of Transfer
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-Signature of the Authorized Signatory
+## Notes :
+(1) Finance cost is on account of Leases.
+(2) 'Net worth' is total equity attributable to equity holders of the company.

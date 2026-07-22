@@ -2,264 +2,196 @@
 document_name: "Infosys_23042026170027_outcome.md"
 group_id: "Infosys_23042026170027_outcome__group_008"
 source_section_count: 2
-page_start: 56
-page_end: 62
-estimated_tokens: 8042
+page_start: 28
+page_end: 32
+estimated_tokens: 4882
 source_section_ids:
-  - "Infosys_23042026170027_outcome__027"
-  - "Infosys_23042026170027_outcome__028"
+  - "Infosys_23042026170027_outcome__015"
+  - "Infosys_23042026170027_outcome__016"
 ---
 
-## Impairment
-Property, plant and equipment are evaluated for recoverability whenever events or changes in circumstances indicate that their carrying amounts may not be recoverable. For the purpose of impairment testing, the recoverable amount (i.e. the higher of the fair value less cost to sell and the value-in-use) is determined on an individual asset basis unless the asset does not generate cash flows that are largely independent of those from other assets. In such cases, the recoverable amount is determined for the Cash Generating Unit (CGU) to which the asset belongs.
-If such assets are considered to be impaired, the impairment to be recognized in net profit in the interim condensed consolidated statement of comprehensive income is measured by the amount by which the carrying value of the assets exceeds the estimated recoverable amount of the asset. An impairment loss is reversed in net profit in the statement of comprehensive income if there has been a change in the estimates used to determine the recoverable amount. The carrying amount of the asset is increased to its revised recoverable amount, provided that this amount does not exceed the carrying amount that would have been determined (net of any accumulated depreciation) had no impairment loss been recognized for the asset in prior years.
-The changes in the carrying value of property, plant and equipment for the three months ended March 31, 2026 are as follows:
-|                                                |      |           |                     |                    |                        | (Dollars in millions)   | (Dollars in millions)   |
-|------------------------------------------------|------|-----------|---------------------|--------------------|------------------------|-------------------------|-------------------------|
-| Particulars                                    | Land | Buildings | Plant and machinery | Computer equipment | Furniture and fixtures | Vehicles                | Total                   |
-| Gross carrying value as at January 1, 2026     | 160  | 1,316     | 611                 | 1,056              | 369                    | 5                       | 3,517                   |
-| Additions                                      | -    | 74        | 31                  | 52                 | 15                     | -                       | 172                     |
-| Deletions**                                    | -    | -         | (4)                 | (43)               | (4)                    | -                       | (51)                    |
-| Translation difference                         | (8)  | (64)      | (34)                | (53)               | (17)                   | -                       | (176)                   |
-| Gross carrying value as at March 31, 2026      | 152  | 1,326     | 604                 | 1,012              | 363                    | 5                       | 3,462                   |
-| Accumulated depreciation as at January 1, 2026 | -    | (637)     | (508)               | (773)              | (310)                  | (4)                     | (2,232)                 |
-| Depreciation                                   | -    | (12)      | (10)                | (31)               | (6)                    | -                       | (59)                    |
-| Accumulated depreciation on deletions**        | -    | -         | 4                   | 42                 | 4                      | -                       | 50                      |
-| Translation difference                         |      | 31        | 28                  | 41                 | 13                     | -                       | 113                     |
-| Accumulated depreciation as at March 31, 2026  | -    | (618)     | (486)               | (721)              | (299)                  | (4)                     | (2,128)                 |
-| Capital work-in progress as at January 1, 2026 |      |           |                     |                    |                        |                         | 163                     |
-| Carrying value as at January 1, 2026           | 160  | 679       | 103                 | 283                | 59                     | 1                       | 1,448                   |
-| Capital work-in progress as at March 31, 2026  |      |           |                     |                    |                        |                         | 72                      |
-| Carrying value as at March 31, 2026            | 152  | 708       | 118                 | 291                | 64                     | 1                       | 1,406                   |
+## Reconciliation of Reported IFRS financial measures to Adjusted non-IFRS financial measures for year ended (in ₹ crore)
+|                   | March 31, 2026   | March 31, 2026       | March 31, 2025   | March 31, 2025       |
+|-------------------|------------------|----------------------|------------------|----------------------|
+|                   | Operating Profit | Operating Margin (%) | Operating Profit | Operating Margin (%) |
+| Reported IFRS     | 36,254           | 20.3                 | 34,424           | 21.1                 |
+| Adjustments 1     | 1,289            | 0.7                  | -                | -                    |
+| Adjusted non-IFRS | 37,543           | 21.0                 | 34,424           | 21.1                 |
 
-The changes in the carrying value of property, plant and equipment for the three months ended March 31, 2025 are as follows:
-|                                                |      |           |                     |                    |                        | (Dollars in millions)   | (Dollars in millions)   |
-|------------------------------------------------|------|-----------|---------------------|--------------------|------------------------|-------------------------|-------------------------|
-| Particulars                                    | Land | Buildings | Plant and machinery | Computer equipment | Furniture and fixtures | Vehicles                | Total                   |
-| Gross carrying value as at January 1, 2025     | 167  | 1,368     | 632                 | 1,020              | 401                    | 6                       | 3,594                   |
-| Additions                                      | 6    | -         | 7                   | 80                 | 5                      | -                       | 98                      |
-| Deletions*                                     | -    | -         | (9)                 | (17)               | (21)                   | -                       | (47)                    |
-| Translation difference                         | -    | 3         | 2                   | 5                  | 1                      | -                       | 11                      |
-| Gross carrying value as at March 31, 2025      | 173  | 1,371     | 632                 | 1,088              | 386                    | 6                       | 3,656                   |
-| Accumulated depreciation as at January 1, 2025 | -    | (612)     | (507)               | (800)              | (328)                  | (5)                     | (2,252)                 |
-| Depreciation                                   | -    | (12)      | (10)                | (34)               | (7)                    | -                       | (63)                    |
-| Accumulated depreciation on deletions*         | -    | -         | 8                   | 16                 | 21                     | -                       | 45                      |
-| Translation difference                         | -    | (3)       | (2)                 | (2)                | (1)                    | -                       | (8)                     |
-| Accumulated depreciation as at March 31, 2025  | -    | (627)     | (511)               | (820)              | (315)                  | (5)                     | (2,278)                 |
-| Capital work-in progress as at January 1, 2025 |      |           |                     |                    |                        |                         | 100                     |
-| Carrying value as at January 1, 2025           | 167  | 756       | 125                 | 220                | 73                     | 1                       | 1,442                   |
-| Capital work-in progress as at March 31, 2025  |      |           |                     |                    |                        |                         | 119                     |
-| Carrying value as at March 31, 2025            | 173  | 744       | 121                 | 268                | 71                     | 1                       | 1,497                   |
+## NOTES:
+1. The  adjusted  non-IFRS  measures  excludes  the  effect  of,  the  provisions  of  The  Labour  Codes  notified  by  The Government of India on November 21, 2025 which resulted in an increase in gratuity liability (arising out of past service cost relating to plan amendment) and leave liability by ₹ 1,289 crore, which is recognized in the Consolidated Statement of Comprehensive Income. This also resulted in a lower tax of ₹ 318 crore in the year ended March 31, 2026.
+2. Excluding the effect of Income Tax orders received under sections 250 and 254 of the Income Tax Act, 1961 and The Labour Codes provisions notified by the Government of India, EPS increase (in ₹ terms) is 12.1% and 13.9% YoY for the year and quarter ended March 31, 2026, respectively.
+3. The free cash flow includes cash payments made towards The Labour Codes of ₹ 452 crore and ₹ 902 crore for the quarter and year ended March 31, 2026, respectively.
+4. We are using non-IFRS financial performance measures to supplement the financial information reported on an IFRS basis. These non-IFRS financial measures should not be considered in isolation or as a substitute for the relevant IFRS measures and should be read in conjunction with information presented on a reported IFRS basis. We believe these adjustments are necessary to reflect the Company's core performance across periods.
 
-The changes in the carrying value of property, plant and equipment for the year ended March 31, 2026 are as follows:
-|                                                       |      |           |                     |                    |                        | (Dollars in millions)   | (Dollars in millions)   |
-|-------------------------------------------------------|------|-----------|---------------------|--------------------|------------------------|-------------------------|-------------------------|
-| Particulars                                           | Land | Buildings | Plant and machinery | Computer equipment | Furniture and fixtures | Vehicles                | Total                   |
-| Gross carrying value as at April 1, 2025              | 173  | 1,371     | 632                 | 1,088              | 386                    | 6                       | 3,656                   |
-| Additions                                             | 3    | 77        | 47                  | 170                | 26                     | -                       | 323                     |
-| Additions - Business Combination (Refer to Note 2.10) | -    | -         | -                   | 1                  | -                      | -                       | 1                       |
-| Deletions** #                                         | (7)  | (1)       | (11)                | (147)              | (18)                   | (1)                     | (185)                   |
-| Translation difference                                | (17) | (121)     | (64)                | (100)              | (31)                   | -                       | (333)                   |
-| Gross carrying value as at March 31, 2026             | 152  | 1,326     | 604                 | 1,012              | 363                    | 5                       | 3,462                   |
-| Accumulated depreciation as at April 1, 2025          | -    | (627)     | (511)               | (820)              | (315)                  | (5)                     | (2,278)                 |
-| Depreciation                                          | -    | (51)      | (39)                | (122)              | (27)                   | -                       | (239)                   |
-| Accumulated depreciation on deletions** #             | -    | -         | 10                  | 145                | 18                     | 1                       | 174                     |
-| Translation difference                                | -    | 60        | 54                  | 76                 | 25                     | -                       | 215                     |
-| Accumulated depreciation as at March 31, 2026         | -    | (618)     | (486)               | (721)              | (299)                  | (4)                     | (2,128)                 |
-| Capital work-in progress as at April 1, 2025          |      |           |                     |                    |                        |                         | 119                     |
-| Carrying value as at April 1, 2025                    | 173  | 744       | 121                 | 268                | 71                     | 1                       | 1,497                   |
-| Capital work-in progress as at March 31, 2026         |      |           |                     |                    |                        |                         | 72                      |
-| Carrying value as at March 31, 2026                   | 152  | 708       | 118                 | 291                | 64                     | 1                       | 1,406                   |
+Press Release s31\
+<!-- image -->
+Revenue crosses $20 billion mark with resilient growth of 3.1% in FY 26 in constant currency
+Strong Large Deal wins of $14.9 Billion and healthy Free Cash Flow of $3.7 Billion FY 27 Guidance -Revenue Growth of 1.5%-3.5%, Operating Margin of 20%-22%
+Bengaluru, India -April 23, 2026: Infosys (NSE, BSE, NYSE: INFY), a global leader in AI-first business consulting and technology services, delivered $20,158 million in FY 26 revenues with a growth of 3.1% in constant currency. Reported IFRS operating margin was at 20.3% and adjusted 1  operating margin at 21.0%. EPS growth was 11.0% in rupee terms 2 . Free cash flow generation was healthy at $3,733 million. TCV of large deal wins was $14.9 billion, with net new of 55%.
+Q4 revenues were $5,040 million, growth of 4.1% year on year in constant currency. Q4 operating margin was at 20.9%.
+'We delivered a resilient performance in FY 26 with growth of 3.1% with strong large deal wins of $14.9 billion, reflecting the robustness of our enterprise AI value proposition and market share gains in large transformation opportunities.  The simplicity and strength of our AI services strategy across six areas is gaining traction in the market further strengthened by strong ecosystem AI partnerships enabling clients to get value from AI', said Salil Parekh, CEO and MD . 'Our AI First value framework and di fferentiated Topaz Fabric, position us uniquely to deepen client trust and gain greater share of the market', he added.
+<!-- image -->
+20.3% FY Reported 21.0% FY Adjusted 1 20.9% Q4 Operating Margin
+## Guidance for FY27:
+- Revenue growth of 1.5%-3.5% in constant currency
+- Operating margin of 20%-22%
 
-** During the three months and year ended March 31, 2026, certain assets which were not in use having gross book value of $34 million (net book value: Nil) and $129 million (net book value: Nil) respectively, were retired.
-The changes in the carrying value of property, plant and equipment for the year ended March 31, 2025 are as follows:
-| Particulars                                           | Land   | Buildings   | Plant and machinery   | Computer equipment   | Furniture and fixtures   | Vehicles   | Total   |
-|-------------------------------------------------------|--------|-------------|-----------------------|----------------------|--------------------------|------------|---------|
-| Gross carrying value as at April 1, 2024              | 171    | 1,411       | 637                   | 1,032                | 406                      | 6          | 3,663   |
-| Additions                                             | 6      | 5           | 30                    | 154                  | 22                       | -          | 217     |
-| Additions - Business Combination (Refer to Note 2.10) | -      | -           | 1                     | 1                    | 3                        | -          | 5       |
-| Deletions* #                                          | -      | (13)        | (20)                  | (75)                 | (36)                     | -          | (144)   |
-| Translation difference                                | (4)    | (32)        | (16)                  | (24)                 | (9)                      | -          | (85)    |
-| Gross carrying value as at March 31, 2025             | 173    | 1,371       | 632                   | 1,088                | 386                      | 6          | 3,656   |
-| Accumulated depreciation as at April 1, 2024          | -      | (590)       | (498)                 | (765)                | (322)                    | (5)        | (2,180) |
-| Depreciation                                          | -      | (52)        | (44)                  | (148)                | (35)                     | -          | (279)   |
-| Accumulated depreciation on deletions* #              | -      | 2           | 18                    | 73                   | 35                       | -          | 128     |
-| Translation difference                                | -      | 13          | 13                    | 20                   | 7                        | -          | 53      |
-| Accumulated depreciation as at March 31, 2025         | -      | (627)       | (511)                 | (820)                | (315)                    | (5)        | (2,278) |
-| Capital work-in progress as at April 1, 2024          |        |             |                       |                      |                          |            | 54      |
-| Carrying value as at April 1, 2024                    | 171    | 821         | 139                   | 267                  | 84                       | 1          | 1,537   |
-| Capital work-in progress as at March 31, 2025         |        |             |                       |                      |                          |            | 119     |
-| Carrying value as at March 31, 2025                   | 173    | 744         | 121                   | 268                  | 71                       | 1          | 1,497   |
+## Key highlights:
+## For the quarter ended March 31, 2026
+- Revenues in CC terms grew by 4.1% YoY and declined by 1.3% QoQ
+- Reported  IFRS  revenues  at  $5,040  million, growth of 6.6% YoY
+- Reported IFRS operating margin at 20.9%
+- Basic EPS at $0.23; increase of 15.7% YoY and 25.3% QoQ
+- FCF  at  $833  million 3 ;  FCF  conversion  at 90.6% of net profit
+- 1,2,3 - Please refer to the last page of this release for detailed explanation
 
-* During the three months and year ended March 31, 2025, certain assets which were not in use having gross book value of $13 million (net book value: Nil) and $ 60 million (net book value: Nil) respectively, were retired.
+Press Release
+<!-- image -->
+$3.7 Bn FY $0.8 Bn Q4 Free Cash Flow (FCF)
+<!-- image -->
+## Press Release Press Release
+e
+## For the year ended March 31, 2026
+- Revenues in CC terms grew by 3.1% YoY
+- Reported  IFRS  revenues  at  $20,158  million, growth of 4.6% YoY
+- Reported  IFRS  operating  margin  at  20.3%; Adjusted 1  operating margin at 21.0%
+- Basic EPS at $0.81; increase of 5.6% YoY
+- FCF  at  $3,733  million 3 ;  FCF  conversion  at 112.6% of net profit
 
-# Proceeds from sale of property plant and equipment amounted to $31 million and $20 million for the year ended March 31, 2026 and March 31, 2025, respectively.
-The aggregate depreciation expense is included in cost of sales in the interim condensed consolidated statement of comprehensive income.
-Repairs and maintenance costs are recognized in the interim condensed consolidated statement of comprehensive income when incurred.
-Consequent to the Companies (Corporate Social Responsibility Policy) Amendment Rules, 2021 ('the Rules'), the Company was required to transfer its CSR capital assets installed prior to January 2021. Towards this the Company had incorporated a subsidiary 'Infosys Green Forum' (IGF) under Section 8 of the Companies Act, 2013. During the year ended March 31, 2022, the Company had completed the transfer of assets upon obtaining the required approvals from regulatory authorities, as applicable. During fiscal 2024, the application filed by IGF for regularization of the provisional registration was rejected and registration cancelled vide order dated March 26, 2024 by Income Tax Commissioner (Exemption). IGF had filed an appeal before Income Tax Appellate Tribunal (ITAT) against the order. During fiscal 2026, ITAT had upheld the order of Commissioner (Exemption) and dismissed the IGF's appeals. IGF has filed an appeal before the Hon'ble High Court against the ITAT order.
-The Group had contractual commitments for capital expenditure primarily comprising of commitments for infrastructure facilities and computer equipments aggregating to $141 million and $109 million as at March 31, 2026 and March 31, 2025, respectively.
-X
-1
-A
-O
-## 2.8 Leases
-## Accounting Policy
-## The Group as a lessee
-The Group's lease asset classes primarily consist of leases for land, buildings and computers. The group assesses whether a contract contains a lease, at inception of a contract. A contract is, or contains, a lease if the contract conveys the right to control the use of an identified asset for a period of time in exchange for consideration. To assess whether a contract conveys the right to control the use of an identified asset, the group assesses whether: (1) the contract involves the use of an identified asset (2) the group has substantially all of the economic benefits from use of the asset through the period of the lease and (3) the group has the right to direct the use of the asset.
-At the date of commencement of the lease, the Group recognizes a right-of-use asset ('ROU') and a corresponding lease liability for all lease arrangements in which it is a lessee, except for leases with a term of twelve months or less (short-term leases) and low value leases. For these short-term and low value leases, the Group recognizes the lease payments as an operating expense on a straight-line basis over the term of the lease.
-As a lessee, the Group determines the lease term as the non-cancellable period of a lease adjusted with any option to extend or terminate the lease, if the use of such option is reasonably certain. The Group makes an assessment on the expected lease term on a lease-by-lease basis and thereby assesses whether it is reasonably certain that any options to extend or terminate the contract will be exercised. In evaluating the lease term, the Group considers factors such as any significant leasehold improvements undertaken over the lease term, costs relating to the termination of the lease and the importance of the underlying asset to Group's operations taking into account the location of the underlying asset and the availability of suitable alternatives. The lease term in future periods is reassessed to ensure that the lease term reflects the current economic circumstances.
-Certain lease arrangements include the options to extend or terminate the lease before the end of the lease term. ROU assets and lease liabilities includes these options when it is reasonably certain that they will be exercised.
-The right-of-use assets are initially recognized at cost, which comprises the initial amount of the lease liability adjusted for any lease payments made at or prior to the commencement date of the lease plus any initial direct costs less any lease incentives. They are subsequently measured at cost less accumulated depreciation and impairment losses.
-Right-of-use assets are depreciated from the commencement date on a straight-line basis over the shorter of the lease term and useful life of the underlying asset.
-Right-of-use assets are evaluated for recoverability whenever events or changes in circumstances indicate that their carrying amounts may not be recoverable. For the purpose of impairment testing, the recoverable amount (i.e. the higher of the fair value less cost to sell and the value-in-use) is determined on an individual asset basis unless the asset does not generate cash flows that are largely independent of those from other assets. In such cases, the recoverable amount is determined for the Cash Generating Unit (CGU) to which the asset belongs.
-The lease liability is initially measured at amortized cost at the present value of the future lease payments. The lease payments are discounted using the interest rate implicit in the lease or, if not readily determinable, using the incremental borrowing rates in the country of domicile of these leases. Lease liabilities are remeasured with a corresponding adjustment to the related right-of-use asset if the Group changes its assessment if whether it will exercise an extension or a termination option.
-Lease liability and ROU asset have been separately presented in the Balance Sheet and lease payments have been classified as financing cash flows.
-## The Group as a lessor
-`
-Leases for which the Group is a lessor is classified as a finance or operating lease. Whenever the terms of the lease transfer substantially all the risks and rewards of ownership to the lessee, the contract is classified as a finance lease. All other leases are classified as operating leases.
-When the Group is an intermediate lessor, it accounts for its interests in the head lease and the sublease separately. The sublease is classified as a finance or operating lease by reference to the right-of-use asset arising from the head lease.
-For finance lease, finance income is recognised over the lease term based on a pattern reflecting a constant periodic rate of return on the lessor's net investment in the lease and for operating leases, rental income is recognized on a straight line basis over the term of the relevant lease.
-Following are the changes in the carrying value of right-of-use assets for the three months ended March 31, 2026:
-|                               |                       |                       |                       |                       | (Dollars in millions)   |
-|-------------------------------|-----------------------|-----------------------|-----------------------|-----------------------|-------------------------|
-| Particulars                   | Category of ROU asset | Category of ROU asset | Category of ROU asset | Category of ROU asset | Total                   |
-|                               | Land                  | Buildings             | Vehicles              | Computers             |                         |
-| Balance as at January 1, 2026 | 61                    | 364                   | 3                     | 252                   | 680                     |
-| Additions *                   | -                     | 18                    | -                     | 74                    | 92                      |
-| Deletions                     | -                     | (2)                   | -                     | (41)                  | (43)                    |
-| Depreciation                  | -                     | (20)                  | -                     | (30)                  | (50)                    |
-| Translation difference        | (3)                   | (18)                  | -                     | (7)                   | (28)                    |
-| Balance as at March 31, 2026  | 58                    | 342                   | 3                     | 248                   | 651                     |
+<!-- image -->
+## IFRS -USD
+## Press Release
+' FY 26 was a year of disciplined execution and financial resilience reflecting in 21% adjusted operating margin and healthy free cash flow of $3.7 billion. Savings from Project Maximus enabled us to invest in strategic areas like talent, AI and sales &amp; marketing', said Jayesh Sanghrajka, CFO. 'We remain focused on margins and cash generation as we navigate an evolving macro environment. In line with our capital allocation policy, Board has proposed a final dividend of ` 25 per share, which along with interim dividend and recently concluded buyback, amounts to over ` 37,500 crore returned to shareholders for FY 26 ' , he added.
+## Client Wins &amp; Testimonials
+- Infosys  collaborated  with  Citizens  to  accelerate  AI-driven  transformation  across  its  banking operations, product development, and customer experience. Michael Ruttledge, Chief Information Officer and Head of Enterprise Technology &amp; Security, Citizens Financial Group, said,  'Our  AI -first  Innovation  Hub  reflects  Citizens'  long -term  commitment  to  building  modern, secure, and intelligent banking capabilities. Partnering with leading technology firms like Infosys and  leveraging  Infosys  Topaz  Fabric  is  helping  transform  how  we  serve  our  customers  by integrating  advanced  AI  at  the  core  of  our  operations  to  deliver  more  modern,  secure,  and personalized banking experiences.'
+- Infosys collaborated with ExxonMobil to enable the development and deployment of high-efficiency cooling  systems  that  can  meet  the  growing  demands  of  AI  and  high-performance  computing workloads. Alistair  Westwood,  Global  Marketing  Manager,  ExxonMobil  Product  Solutions Company, said, 'This collaboration reflects our commitment to innovation by allowing us to apply our energy and thermal management expertise to the evolving landscape of digital infrastructure. Infosys' suite of AI and digital services is enab ling us to pilot and adopt infrastructure that is smarter, efficient, and more resilient.'
+- Infosys collaborated with Crocs to drive a comprehensive IT and business process transformation with AI-powered innovation and advanced automation capabilities. Tom Britt, Chief Information Officer, Crocs Inc, said: "As Crocs reimagines its IT landscape, we sought a partner who could combine deep domain expertise with a commitment to innovation and operational excellence. By leveraging Infosys' AI and advanced automation capabilities, we will optimize operations, reduce costs, and scale responsibly -while driving continuous improvement and building a foundation for sustainable growth and digital resilience that positions Crocs for the future."
+- Infosys announced a strategic collaboration with Incora to drive faster, accurate, and resilient supply chain operations with the use of artificial intelligence globally. 'Infosys brings proven leadership in AI and large-scale digital transformation, making them an ideal choice as we continue to modernize our  global  supply  chain,'  said Hari  Kumar  Rajendran,  Executive  Vice  President  of  Global Operations,  Incora .  'This  alliance  allows  us  to  apply  advanced  AI  capabilities  in  a  practical, enterprise-wide way. Together, we are building a foundation that enables Incora to better serve our customers today and adapt to the future of aerospace and defense supply chains.'
+- Infosys and University of Nottingham extended their strategic collaboration to strengthen digital infrastructure  of  the  University's  Student  Management  System,  ensuring  high  performance  and security  compliance. Chris  Hunt,  Chief  Operating  Officer,  University  of  Nottingham, said, 'Collaborating with Infosys empowers the University of Nottingham to set new benchmarks in higher education.  Our  Student  Management  System  is  one  of  the  most  critical  components  of  the university's operations, supporting every stage of the student journey. Our embedded partnership with  Infosys  will  help  us  strengthen  our  core  services,  accelerate  innovation,  and  enhance  the reliability and security of our digital ecosystem. By integrating cutting-edge digital solutions, we are not only enriching the student journey but also redefining what it means to be a leader in global academia.'
 
-* Net of adjustments on account of modifications
+Press Release
+<!-- image -->
+- Infosys extended its strategic collaboration with ABN AMRO Bank to drive the Bank's ambition of achieving sustainable and profitable growth through 2028. Carsten Bittner, Chief Innovation and Technology Officer at ABN AMRO Bank , said, 'The renewed collaboration with Infosys will help further to simplify and modernize our IT landscape, while accelerating the responsible adoption of AI  across  the  company.  This  engagement  will  enhance  operational  efficiency,  deliver  greater customer value, and help reduce complexity and operating costs. '
+- Infosys  announced  its  strategic  collaboration  with  Anthropic  to  unlock  AI  value  with  automated workflows,  accelerated  software  delivery,  and  agentic  AI  solutions  across  complex,  regulated industries. Dario Amodei, Chief Executive Officer and Co-Founder, Anthropic, said, 'There's a big gap between an AI model that works in a demo and one that works in a regulated industry -and if you want to close that gap, you need domain expertise. Infosys has exactly that kind of expertise  across  important  industries:  telecom,  financial  services,  and  manufacturing.  Their developers are already using Claude Code to accelerate their work and to create AI agents for industries that demand precision, compliance, and deep domain knowledge."
+- Infosys and Intel expanded their strategic collaboration to help enterprises move from AI pilots to production  at  scale,  aimed  at  optimizing  performance  and  delivering  measurable  enterprise outcomes across industries. Lip-Bu Tan, Chief Executive Officer, Intel, said, 'Working closely with Infosys allows us to bring the power of Intel's AI hardware ecosystem to enterprises globally. Together, we are delivering performance-optimized, energy-efficient, and open AI solutions that clients can deploy wherever their workloads reside -from data centers to the cloud to the edge.'
+- Infosys announced its strategic collaboration with Cursor to help enterprises build and scale AIpowered digital  solutions  and  accelerate  their  AI  value  journey. Michael Truell,  CEO and CoFounder, Cursor, said, 'Infosys' commitment to building an AI -first  organization makes them a natural collaborator for Cursor. Their global scale, delivery rigor, and deep industry expertise create an  ideal  environment  to  demonstrate  what  AI  software  engineering  tools  can  achieve  in  the enterprise.  We  are  excited  to  collaborate  with  Infosys  as  they  enable  over  100,000  software engineers at Infosys with agentic coding platforms and we look forward to helping their teams deliver breakthrough outcomes for customers worldwide.'
+- Infosys  and  Cognition  announced  strategic  collaboration  to  accelerate  the  AI  value  journey  for global  enterprises  with  advanced  agentic  and  autonomous  engineering  capabilities. Scott  Wu, Founder &amp; CEO, Cognition, said, 'We are thrilled to collaborate with Infosys to bring the power of autonomous and agentic AI engineering to some of the world's most complex enterprises. Infosys' Exponential Engineering offering perfectly complements our mission to redefine how software is built. Infosys Topaz Fabric and Devin together offer unmatched capability from real-time developer augmentation to fully autonomous engineering execution. Infosys is the first large digital services and  consulting  firm  to  deploy  agentic  tools  at  this  scale.  By  combining  Infosys'  deep  indust ry expertise  with  our  platform,  we  are  enabling  clients  to  dramatically  accelerate  time-to-market, enhance ROI and unlock a new era of engineering transformation.'
+- Infosys Finacle and Producers Savings Bank Corporation announced an initiative to modernize the bank's  technology  landscape  in  the  Philippines  through  an  upgrade  to  the  latest  version  of the Finacle  Core  Banking  Solution,  enabling  faster,  broader,  and  more  personalized  customer experiences. Andres  M.  Cornejo,  Vice-Chairman  and  Chief  Executive  Officer,  Producers Bank, said, 'Our  decade -long association with Infosys Finacle has  been  pivotal to our modernization journey. As we celebrate 30 years as an institution, this modernization initiative will further strengthen our digital capabilities, enabling us to provide real-time banking services for our growing  client  base  and  scale  our  lending  business  with  greater  confidence.  We  deeply  value Finacle's  collaborati on,  rich  functionality,  swift  deployment,  and  proven  reliability,  and  we  are excited about the new possibilities this transformation will unlock.'
 
-Following are the changes in the carrying value of right-of-use assets for the three months ended March 31, 2025:
-|                               |                       |                       |                       |                       | (Dollars in millions)   |
-|-------------------------------|-----------------------|-----------------------|-----------------------|-----------------------|-------------------------|
-| Particulars                   | Category of ROU asset | Category of ROU asset | Category of ROU asset | Category of ROU asset | Total                   |
-|                               | Land                  | Buildings             | Vehicles              | Computers             |                         |
-| Balance as at January 1, 2025 | 70                    | 390                   | 3                     | 278                   | 741                     |
-| Additions *                   | -                     | 33                    | 1                     | 43                    | 77                      |
-| Deletions                     | -                     | (12)                  | -                     | (22)                  | (34)                    |
-| Depreciation                  | -                     | (20)                  | -                     | (27)                  | (47)                    |
-| Translation difference        | -                     | 1                     | (1)                   | 1                     | 1                       |
-| Balance as at March 31, 2025  | 70                    | 392                   | 3                     | 273                   | 738                     |
+Press Release
+<!-- image -->
+- Infosys  BPM  collaborated  with  Old  National  Bank  to  support  its  digital  transformation  journey, spanning process optimization, automation, and emerging AI -driven  capabilities. Jeff  Newcom, Chief Operations Officer, Old National Bank , said, 'Our relationship with the digital delivery team has been another example of how Infosys' expertise and resources have accelerated our ability to optimize and automate processes. Now, we're exploring AI and Agentic AI to further advance our capabilities and delivery to our clients, so that we can continue to focus on putting our clients first without needing to build all of the capabilities ourselves.'
 
-*
-Net of adjustments on account of modifications Following are the changes in the carrying value of right-of-use assets for the year ended March 31, 2026:
-|                              |                       |                       |                       |                       | (Dollars in millions)   |
-|------------------------------|-----------------------|-----------------------|-----------------------|-----------------------|-------------------------|
-| Particulars                  | Category of ROU asset | Category of ROU asset | Category of ROU asset | Category of ROU asset | Total                   |
-|                              | Land                  | Buildings             | Vehicles              | Computers             |                         |
-| Balance as at April 1, 2025  | 70                    | 392                   | 3                     | 273                   | 738                     |
-| Additions *                  | -                     | 66                    | 1                     | 218                   | 285                     |
-| Deletions                    | (6)                   | (6)                   | -                     | (120)                 | (132)                   |
-| Depreciation                 | (1)                   | (84)                  | (1)                   | (127)                 | (213)                   |
-| Translation difference       | (5)                   | (26)                  | -                     | 4                     | (27)                    |
-| Balance as at March 31, 2026 | 58                    | 342                   | 3                     | 248                   | 651                     |
+## Recognitions &amp; Awards
+## · Brand &amp; Corporate
+- Multiple awards from FinanceAsia, including Best CFO, Best Investor Relations and Best Large Cap Company
+- Recognized as one of the World's Most Ethical Companies in 2026 for sixth consecutive year by Ethisphere
+- Awarded the Compliance Leader Verification ™ by Ethisphere for its commitment to fostering a strong  culture  of  integrity,  accountability,  and  responsible  governance  across  its  global operations
+- Recognized as a Top 3 IT services brand and the fastest growing IT services brand globally in the Brand Finance Global 500 2026 report
+- Recognized as a Global Top Employer 2026 for the sixth consecutive year by the Top Employer Institute
+- Infosys BPM recognized as a Global Top Employer 2026 by the Top Employers Institute
 
-* Net of adjustments on account of modifications
+## · AI and Cloud Services
+- Rated as a market leader in HFS Horizons: Agentic Services, 2026
+- Recognized as a leader in Constellation ShortList: Observability and AIOps Services
+- Recognized as a leader in Constellation ShortList: Cross-Platform Agentic AI
+- Featured as a leader in PAC INNOVATION RADAR SAP Business AI and Joule-related Service Worldwide 2026
 
-Following are the changes in the carrying value of right-of-use assets for the year ended March 31, 2025:
-| Particulars                                               |      | Category of   | asset    |           | (Dollars in millions) Total   |
-|-----------------------------------------------------------|------|---------------|----------|-----------|-------------------------------|
-|                                                           | Land | Buildings     | Vehicles | Computers |                               |
-| Balance as at April 1, 2024                               | 72   | 396           | 2        | 316       | 786                           |
-| Additions *                                               | -    | 96            | 3        | 155       | 254                           |
-| Addition due to Business Combination (Refer to Note 2.10) | -    | 19            | 1        | -         | 20                            |
-| Deletions                                                 | -    | (28)          | (1)      | (77)      | (106)                         |
-| Depreciation                                              | (1)  | (84)          | (1)      | (115)     | (201)                         |
-| Translation difference                                    | (1)  | (7)           | (1)      | (6)       | (15)                          |
-| Balance as at March 31, 2025                              | 70   | 392           | 3        | 273       | 738                           |
+## · Key Digital Services
+- Positioned  as  a  leader  in  Everest  Group  Private  Equity  (PE)  Services  PEAK  Matrix® Assessment 2026
+- Positioned as a leader in Everest Group Software Product Engineering Services PEAK Matrix® Assessment 2026 -Global
+- Rated as a market leader in HFS Horizons: Next-gen IT Infrastructure Services, 2026
+- Recognized as a leader in Constellation ShortList: for Microsoft End-to-End Service Providers
+- Recognized as a leader in Constellation ShortList: Innovation Services and Engineering
+- Recognized as a leader in Constellation ShortList: Cybersecurity Services
+- Recognized as a leader in Constellation ShortList: Custom Software Development Services
+- Recognized as a leader in Constellation ShortList: Learning Marketplaces
+- Featured as a leader in PAC RADAR SAP-related Services Worldwide 2026
 
-* Net of adjustments on account of modifications
+<!-- image -->
+## · Industry &amp; Solutions
+- Infosys Finacle positioned as a leader in 2026 Gartner® Magic Quadrant ™ for Banking Payment Hub Platforms report
+- Infosys Finacle along with its customer HDFC Bank received the Retail Banker International Asia Trailblazer Awards 2026 for Excellence in Mass Affluent Banking
 
-The aggregate depreciation expense on ROU assets is included in cost of sales in the interim condensed consolidated statement of comprehensive income.
-The following is the break-up of current and non-current lease liabilities as of March 31, 2026 and March 31, 2025:
-|                               | (Dollars in millions)   | (Dollars in millions)   |
-|-------------------------------|-------------------------|-------------------------|
-| Particulars                   | As at                   | As at                   |
-|                               | March 31, 2026          | March 31, 2025          |
-| Current lease liabilities     | 333                     | 287                     |
-| Non-current lease liabilities | 634                     | 675                     |
-| Total                         | 967                     | 962                     |
+Read more about our Awards &amp; Recognitions here.
+Press Release
+<!-- image -->
+## About Infosys
+Infosys  is  a  global  leader  in  next-generation  digital  services and consulting. Over 325,000 of our people work to amplify human potential and create the next opportunity for people, businesses and communities. We  enable  clients in 63 countries to navigate their digital transformation. With over four decades of experience in managing the systems and workings of  global  enterprises,  we  expertly  steer  clients,  as  they navigate their digital transformation powered by cloud and AI. We enable them with an AI-first core, empower the business with agile digital at scale and drive continuous improvement with  always-on learning through  the  transfer  of  digital  skills, expertise, and ideas from our innovation ecosystem. We are deeply committed to being a well-governed, environmentally sustainable  organization  where  diverse  talent  thrives  in  an inclusive workplace.
+## IFRS -USD Press Release
+<!-- image -->
+Visit www.infosys.com to see how Infosys (NSE, BSE, NYSE: INFY) can help your enterprise navigate your next.
+## Safe Harbor
+Certain statements in this release, including those concerning our future growth prospects and our future financial or operating performance, are forward looking statements intended to qualify for the 'safe harbor' under the Private Securities Litigation Reform Act of 1995, which involve a number of risks and uncertainties that could cause actual results or outcomes to differ materially from those in such forward-looking statements. The risks and uncertainties relating to these statements include, but are not limited to, risks and uncertainties regarding the execution of our business strategy, increased competition for talent, our ability to attract and retain personnel, increase in wages, investments  to  reskill  our  employees,  our  ability  to  effectively  implement  a  hybrid  working  model,  economic uncertainties and geo-political situations, technological disruptions and innovations such as artificial intelligence, the complex and evolving regulatory landscape including immigration regulation changes and developments in the US H-1B visa program, our ESG vision, our capital allocation policy and expectations concerning our market position, future operations, margins, profitability, liquidity and capital resources, our corporate actions including acquisitions, cybersecurity matters, the outcome of pending litigation and the US government investigation, and the effect of current and any future tariffs. Important factors that may cause actual results or outcomes to differ from those implied by the forward-looking statements are discussed in more detail in our US Securities and Exchange Commission filings including our Annual Report on Form 20-F for the fiscal year ended March 31, 2025. These filings are available at  www.sec.gov.  Infosys  may,  from  time  to  time,  make  additional  written  and  oral  forward-looking  statements, including statements contained in the Company's filings with the Securities and Exchange Commission and our reports to shareholders. The Company does not undertake to update any forward-looking statements that may be made from time to time by or on behalf of the Company unless it is required by law.
+## Contact
+Investor Relations
+Sandeep Mahindroo +91 80 3980 1018
+Sandeep\_Mahindroo@infosys.com
+Media Relations
+Rishi Basu +91 80 4156 3998
+Rajarshi.Basu@infosys.com
+Chad Darwin +1 323 422 3815
+Chad.darwin@infosys.com
+Press Release
+<!-- image -->
+## Infosys Limited and Subsidiaries
+Extracted from the Condensed Consolidated Balance Sheet under IFRS as at:
+( in $ million)
+| Particulars                                                | March 31, 2026   | March 31, 2025   |
+|------------------------------------------------------------|------------------|------------------|
+| ASSETS                                                     |                  |                  |
+| Current assets                                             |                  |                  |
+| Cash and cash equivalents                                  | 2,341            | 2,861            |
+| Current investments                                        | 1,365            | 1,460            |
+| Trade receivables                                          | 3,715            | 3,645            |
+| Unbilled revenue                                           | 1,633            | 1,503            |
+| Other current assets                                       | 1,858            | 1,890            |
+| Total current assets                                       | 10,912           | 11,359           |
+| Non-current assets                                         |                  |                  |
+| Property, plant and equipment and Right-of-use assets      | 2,057            | 2,235            |
+| Goodwill and other Intangible assets                       | 1,576            | 1,505            |
+| Non-current investments                                    | 942              | 1,294            |
+| Unbilled revenue                                           | 183              | 261              |
+| Other non-current assets                                   | 776              | 765              |
+| Total non-current assets                                   | 5,534            | 6,060            |
+| Total assets                                               | 16,446           | 17,419           |
+| LIABILITIES AND EQUITY                                     |                  |                  |
+| Current liabilities                                        |                  |                  |
+| Trade payables                                             | 500              | 487              |
+| Unearned revenue                                           | 1,248            | 994              |
+| Employee benefit obligations                               | 372              | 340              |
+| Other current liabilities and provisions                   | 3,396            | 3,191            |
+| Total current liabilities                                  | 5,516            | 5,012            |
+| Non-current liabilities                                    |                  |                  |
+| Lease liabilities                                          | 634              | 675              |
+| Other non-current liabilities                              | 456              | 477              |
+| Total non-current liabilities                              | 1,090            | 1,152            |
+| Total liabilities                                          | 6,606            | 6,164            |
+| Total equity attributable to equity holders of the company | 9,786            | 11,205           |
+| Non-controlling interests                                  | 54               | 50               |
+| Total equity                                               | 9,840            | 11,255           |
+| Total liabilities and equity                               | 16,446           | 17,419           |
 
-## 2.9 Goodwill and Intangible assets
-## 2.9.1 Goodwill
-## Accounting Policy
-Goodwill represents purchase consideration in excess of the Group's interest in the net fair value of identifiable assets, liabilities and contingent liabilities of the acquired entity. When the net fair value of the identifiable assets, liabilities and contingent liabilities acquired exceeds the purchase consideration, the fair value of net assets acquired is reassessed and the bargain purchase gain is recognized immediately in the net profit in the Statement of Comprehensive Income. Goodwill is measured at cost less accumulated impairment losses.
-## Impairment
-Goodwill is tested for impairment on an annual basis and whenever there is an indication that the recoverable amount of a cash generating unit (CGU) is less than its carrying amount. For the impairment test, goodwill is allocated to the CGU or groups of CGU's which benefit from the synergies of the acquisition and which represents the lowest level at which goodwill is monitored for internal management purposes. A CGU is the smallest identifiable group of assets that generates cash inflows that are largely independent of the cash inflows from other assets or group of assets. Impairment occurs when the carrying amount of a CGU including the goodwill, exceeds the estimated recoverable amount of the CGU. The recoverable amount of a CGU is the higher of its fair value less cost to sell and its value-in-use. Value-in-use is the present value of future cash flows expected to be derived from the CGU. Key assumptions in the cash flow projections are prepared based on current economic conditions and includes estimated long term growth rates, weighted average cost of capital and estimated operating margins.
-Following is a summary of changes in the carrying amount of goodwill:
-|                                               | (Dollars in millions)   | (Dollars in millions)   |
-|-----------------------------------------------|-------------------------|-------------------------|
-| Particulars                                   | As at                   | As at                   |
-|                                               | March 31, 2026          | March 31, 2025          |
-| Carrying value at the beginning               | 1,182                   | 875                     |
-| Goodwill on acquisitions (Refer to note 2.10) | 52                      | 309                     |
-| Translation differences                       | 44                      | (2)                     |
-| Carrying value at the end                     | 1,278                   | 1,182                   |
+## Extracted from the Condensed Consolidated Statement of Comprehensive Income under IFRS for:
+(In $ million except per equity share data)
+| Particulars                                   | 3 months ended March 31, 2026   | 3 months ended March 31, 2025   | Year ended March 31, 2026   | Year ended March 31, 2025   |
+|-----------------------------------------------|---------------------------------|---------------------------------|-----------------------------|-----------------------------|
+| Revenues                                      | 5,040                           | 4,730                           | 20,158                      | 19,277                      |
+| Cost of sales                                 | 3,485                           | 3,302                           | 14,079                      | 13,405                      |
+| Gross profit                                  | 1,555                           | 1,428                           | 6,079                       | 5,872                       |
+| Operating expenses:                           |                                 |                                 |                             |                             |
+| Selling and marketing expenses                | 256                             | 226                             | 1,025                       | 898                         |
+| Administrative expenses                       | 244                             | 210                             | 969                         | 903                         |
+| Total operating expenses                      | 500                             | 436                             | 1,994                       | 1,801                       |
+| Operating profit                              | 1,055                           | 992                             | 4,085                       | 4,071                       |
+| Other income, net of finance cost (b)         | 113                             | 125                             | 421                         | 376                         |
+| Profit before income taxes                    | 1,168                           | 1,117                           | 4,506                       | 4,447                       |
+| Income tax expense (b)                        | 248                             | 303                             | 1,190                       | 1,285                       |
+| Net profit (before non-controlling interests) | 920                             | 814                             | 3,316                       | 3,162                       |
+| Net profit (after non-controlling interests)  | 919                             | 813                             | 3,313                       | 3,158                       |
+| Basic EPS ($)                                 | 0.23                            | 0.20                            | 0.81                        | 0.76                        |
+| Diluted EPS ($)                               | 0.23                            | 0.20                            | 0.80                        | 0.76                        |
 
-For the purpose of impairment testing, goodwill acquired in a business combination is allocated to the CGU or groups of CGUs, which benefit from the synergies of the acquisition. The Group internally reviews the goodwill for impairment at the operating segment level, after allocation of the goodwill to CGUs or groups of CGUs.
-The following table presents the allocation of goodwill to operating segments as at March 31, 2026 and March 31, 2025 respectively :
-|                                                 | (Dollars in millions) As at   | (Dollars in millions) As at   |
-|-------------------------------------------------|-------------------------------|-------------------------------|
-| Segment                                         | March 31, 2026                | March 31, 2025                |
-| Financial services                              | 194                           | 177                           |
-| Retail                                          | 118                           | 112                           |
-| Communication                                   | 86                            | 81                            |
-| Energy, Utilities, Resources and Services       | 186                           | 156                           |
-| Manufacturing                                   | 372                           | 349                           |
-| Life Sciences                                   | 122                           | 114                           |
-|                                                 | 1,078                         | 989                           |
-| Operating segments without significant goodwill | 83                            | 76                            |
-| Total                                           | 1,161                         | 1,065                         |
-
-The goodwill pertaining to Panaya amounting to $117 million and $117 million as at March 31, 2026 and March 31, 2025, respectively is tested for impairment at the entity level.
-The recoverable amount of a CGU is the higher of its fair value less cost to sell and its value-in-use. The fair value of a CGU is determined based on the market capitalization. Value-in-use is determined based on discounted future cash flows. The key assumptions used for the calculations are as follows:
-|                       | March 31, 2026   | March 31, 2025   |
-|-----------------------|------------------|------------------|
-| Long term growth rate | 7-10             | 7-10             |
-| Operating margins     | 19-21            | 19-21            |
-| Discount rate         | 14               | 13               |
-
-The above discount rate is based on the Weighted Average Cost of Capital (WACC) of the Company. As at March 31, 2026, the estimated recoverable amount of the CGU exceeded its carrying amount. Reasonable sensitivities in the key assumptions is unlikely to cause the carrying amount to exceed the recoverable amount of the cash generating units.
-## 2.9.2 Intangible assets
-## Accounting Policy
-Intangible assets are stated at cost less accumulated amortization and impairment. Intangible assets are amortized over their respective individual estimated useful lives on a straight-line basis, from the date that they are available for use. The estimated useful life of an identifiable intangible asset is based on a number of factors including the effects of obsolescence, demand, competition, and other economic factors (such as the stability of the industry and known technological advances), and the level of maintenance expenditures required to obtain the expected future cash flows from the asset. Amortization methods and useful lives are reviewed periodically including at each financial year end.
-Research costs are expensed as incurred. Software product development costs are expensed as incurred unless technical and commercial feasibility of the project is demonstrated, future economic benefits are probable, the Group has an intention and ability to complete and use or sell the software and the costs can be measured reliably. The costs which can be capitalized include the cost of material, direct labour, overhead costs that are directly attributable to prepare the asset for its intended use.
-## Impairment
-Intangible assets are evaluated for recoverability whenever events or changes in circumstances indicate that their carrying amounts may not be recoverable. For the purpose of impairment testing, the recoverable amount (i.e. the higher of the fair value less cost to sell and the value-in-use) is determined on an individual asset basis unless the asset does not generate cash flows that are largely independent of those from other assets. In such cases, the recoverable amount is determined for the CGU to which the asset belongs.
-If such assets are considered to be impaired, the impairment to be recognized in the net profit in the statement of comprehensive income is measured by the amount by which the carrying value of the assets exceeds the estimated recoverable amount of the asset. An impairment loss is reversed in the net profit in the statement of comprehensive income if there has been a change in the estimates used to determine the recoverable amount. The carrying amount of the asset is increased to its revised recoverable amount, provided that this amount does not exceed the carrying amount that would have been determined (net of any accumulated amortization) had no impairment loss been recognized for the asset in prior years.
-X
-1
-3
-A
-O
-## 2.10 Business combinations
-## Accounting policy
-Business combinations have been accounted for using the acquisition method under the provisions of IFRS 3 (Revised), Business Combinations.
-The purchase price in an acquisition is measured at the fair value of the assets transferred, equity instruments issued and liabilities incurred or assumed at the date of acquisition, which is the date on which control is transferred to the Group. The purchase price also includes the fair value of any contingent consideration. Identifiable assets acquired and liabilities and contingent liabilities assumed in a business combination are measured initially at their fair value on the date of acquisition. Contingent consideration is remeasured at fair value at each reporting date and changes in the fair value of the contingent consideration are recognized in the interim condensed Consolidated Statement of Comprehensive Income.
-The interest of non-controlling shareholders is initially measured either at fair value or at the non-controlling interests' proportionate share of the acquiree's identifiable net assets. The choice of measurement basis is made on an acquisition-by-acquisition basis. Subsequent to acquisition, the carrying amount of non-controlling interests is the amount of those interests at initial recognition plus the non-controlling interests' share of subsequent changes in equity of subsidiaries.
-Business combinations between entities under common control is outside the scope of IFRS 3 (Revised), Business Combinations and is accounted for at carrying value of assets acquired and liabilities assumed.
-The payments related to options issued by the Group over the non-controlling interests in its subsidiaries are accounted as financial liabilities and initially recognized at the estimated present value of gross obligations. Such options are subsequently measured at fair value in order to reflect the amount payable under the option at the date at which it becomes exercisable. In the event that the option expires unexercised, the liability is derecognized.
-## Acquisition during the year ended March 31, 2026
-During the year ended March 31, 2026 the Group, completed two business combinations by acquiring 100% partnership interests/voting interests in:
-1) MRE Consulting Ltd., a leading Energy and business consulting services company, headquartered in Texas, U.S. on April 30, 2025, which is expected to bring newer capabilities for the Group in trading and risk management, especially in the energy sector.
-
-2) The Missing Link Security Pty. Ltd., The Missing Link Security Limited and The Missing Link Automation Pty. Ltd. (collectively known as "The Missing Link"), a leading Cybersecurity service provider headquartered in Australia on April 30, 2025, which is expected to further strengthen the Group's capabilities in the cybersecurity sector and bolster its presence in the fast growing Australian Market.
-
-The purchase price is allocated to assets acquired and liabilities assumed based upon determination of fair values at the date of acquisition as follows:
-| Component                                     | amount   | Fair value adjustments   | (Dollars in million) Purchase price allocated   |
-|-----------------------------------------------|----------|--------------------------|-------------------------------------------------|
-| Net Assets (1)                                | 14       | -                        | 14                                              |
-| Intangible assets:                            |          |                          |                                                 |
-| Customer related #                            | -        | 26                       | 26                                              |
-| Vendor relationship #                         | -        | 7                        | 7                                               |
-| Brand #                                       | -        | 2                        | 2                                               |
-| Deferred tax liabilities on intangible assets | -        | (5)                      | (5)                                             |
-| Total                                         | 14       | 30                       | 44                                              |
-| Goodwill                                      |          |                          | 52                                              |
-| Total purchase price                          |          |                          | 96                                              |
-
-(1) Includes cash and cash equivalents acquired of $12 million.
+Press Release
+<!-- image -->

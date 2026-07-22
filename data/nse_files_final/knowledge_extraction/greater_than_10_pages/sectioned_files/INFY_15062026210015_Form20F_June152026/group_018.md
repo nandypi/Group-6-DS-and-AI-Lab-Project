@@ -1,285 +1,144 @@
 ---
 document_name: "INFY_15062026210015_Form20F_June152026.md"
 group_id: "INFY_15062026210015_Form20F_June152026__group_018"
-source_section_count: 3
-page_start: 224
-page_end: 236
-estimated_tokens: 8476
+source_section_count: 2
+page_start: 115
+page_end: 121
+estimated_tokens: 4111
 source_section_ids:
-  - "INFY_15062026210015_Form20F_June152026__062"
-  - "INFY_15062026210015_Form20F_June152026__063"
-  - "INFY_15062026210015_Form20F_June152026__064"
+  - "INFY_15062026210015_Form20F_June152026__034"
+  - "INFY_15062026210015_Form20F_June152026__035"
 ---
 
-## Credit risk
-Credit  risk  refers  to  the  risk  of  default  on  its  obligation  by  the  counterparty  resulting  in  a  financial  loss.  The  maximum exposure to the credit risk at the reporting date is primarily from trade receivables amounting to $3,715 million and $3,645 million  as  of  March  31,  2026,  and  March  31,  2025,  respectively  and  unbilled  revenue  amounting  to  $1,816  million  and $1,764 million as of March 31, 2026 and March 31, 2025, respectively. Trade receivables and unbilled revenue are typically unsecured  and  are  derived  from  revenue  earned  from  customers  primarily  located  in  the  United  States  of  America  and Europe.  Credit  risk  has  always  been  managed  by  the  Group  through  credit  approvals,  establishing  credit  limits  and continuously monitoring the creditworthiness of customers to which the Group grants credit terms in the normal course of business. The Group uses the expected credit loss model to assess any required allowances; and uses a provision matrix to compute the expected credit loss allowance for trade receivables and unbilled revenues. This matrix takes into account credit reports and other related credit information to the extent available.
-The  Group's  exposure  to  credit  risk  is  influenced  mainly  by  the  individual  characteristic  of  each  customer  and  the concentration  of  risk  from  the  top  few  customers.  Exposure  to  customers  is  diversified  and  there  is  no  single  customer contributing more than 10% of outstanding trade receivables and unbilled revenues.
-The  following  table  gives  details  in  respect  of  percentage  of  revenues  generated  from  top  five  customers  and  top  ten customers:
-|                                 |                      |                      | (In %)               |
-|---------------------------------|----------------------|----------------------|----------------------|
-|                                 | Year ended March 31, | Year ended March 31, | Year ended March 31, |
-|                                 | 2026                 | 2025                 | 2024                 |
-| Revenue from top five customers | 12.9                 | 13.2                 | 13.3                 |
-| Revenue from top ten customers  | 20.5                 | 20.5                 | 20.0                 |
+## Board Leadership Structure
+Nandan M. Nilekani is the Non-Executive, Non-Independent Chairman of the Board ('Chairman') effective August 24, 2017, and Salil Parekh is the Chief Executive Officer and Managing Director ('CEO &amp; MD') effective January 2, 2018. The Board appointed D. Sundaram as the Lead Independent Director effective March 23, 2023. D. Sundaram is also the Chairperson  of  the  Nomination  and  Remuneration  and  Risk  Management  Committees.  Nitin  Paranjpe,  Independent Director, was appointed as Vice Chairman of the Board of Directors effective April 30, 2026.
+The responsibilities and authority of the Chairman, Vice Chairman, the CEO &amp; MD and the Lead Independent Director are as follows:
+## Chairman
+The Company has separated the role of Chairman and the CEO &amp; MD to create a more balanced governance structure. The Chairman leads the Board and is responsible for fostering and promoting the integrity of the Board while nurturing a culture in which the Board works harmoniously for the long-term benefit of the Company and all its stakeholders. He presides over all meetings of the Board and of the shareholders of the Company.
+The Chairman takes a lead role in managing the Board and facilitates effective communication among directors. He is responsible for overseeing matters pertaining to governance, including the organization, composition and effectiveness of the Board and its committees, and performance of individual directors.
+The Chairman actively works with the Nomination and Remuneration Committee to plan the composition of the Board and Board Committees, induct directors to the Board, plan for director succession, participate effectively in the Board evaluation process and meet with individual directors to provide constructive feedback and advice.
+## Vice Chairman
+The Vice Chairman of the Board serves as a senior member of the board of directors, assisting the Chairman in the discharge of governance responsibilities and in the provision of strategic leadership to the organization. This role entails presiding over Board meetings in the Chairman's absence, supporting the development of board agendas, facilitating effective  communication  between  the  board  and  management  and  bolstering  the  Board-level  strategic  oversight  of strategy, risk, performance, and corporate governance.
+## CEO &amp; MD
+The CEO &amp; MD is responsible for executing corporate strategy in consultation with the Board, as well as for brand equity,  planning,  building  external  contacts  and  all  matters  related  to  the  management  of  the  Company.  He  is responsible for achieving annual and long-term business targets. The CEO &amp; MD also monitors the external and internal competitive  landscape  and  new  industry  developments  and  standards,  identifies  opportunities  for  expansion  and acquisition, and builds relationships with customers and markets to enhance shareholder value and implementing the organization's vision, mission, and overall direction.
+The  CEO  &amp;  MD  acts  as  a  link  between  the  Board  and  the  Management  and  is  also  responsible  for  leading  and evaluating the work of other executive leaders.
+## Lead Independent Director
+The lead independent director was appointed by the Board to ensure robust independent leadership of the Board. The general authority and responsibilities of the lead independent director are decided by the group of independent directors. The lead independent director also performs additional duties as determined by the Board.
+The lead  independent  director  provides  leadership  to  the  independent  directors,  liaises  on  behalf  of  the  independent directors  and  ensures  Board  effectiveness  in  maintaining  high-quality  governance  of  the  organization  and  effective functioning of the Board.
+## Board's Role in Risk Oversight
+Our Board is responsible for overall oversight of risk management. The Risk Management Committee, comprising of independent directors, assists the Board in fulfilling its corporate governance oversight responsibilities with regard to the  identification,  evaluation  and  mitigation  of  strategic,  operational,  and  external  environment  risks.  The  Risk Management Committee has  the  overall  responsibility  of  monitoring  and  approving  the  enterprise  risk  management framework and associated practices of the Company. It is also responsible for reviewing and approving risk disclosure statements in public documents or disclosures.
+As part of exercising its risk oversight, the Board receives periodic presentations from Company officials with respect to cybersecurity  and  other  information  security  matters,  and  both  the  Audit  and  Risk  Management  Committees  of  the Board  receive  regular  updates  from Company's management  regarding  cybersecurity  matters.  The Company's cybersecurity  policy  and  risk  management  framework  is  presented  annually  to  Risk  Management  Committee  of  the Board. The Company's management meet on a periodic basis to discuss cybersecurity and other information security matters relevant to the Company and to oversee the Company's adherence to its information security program.
+## Board Member Evaluation
+One of the key functions of the Board is to monitor and review the Board evaluation framework. The Board works with the Nomination and Remuneration Committee to lay down the evaluation criteria for the performance of the Chairman, the Board, Board committees, and executive / non-executive / independent directors through peer evaluation, excluding the director being evaluated.
+Independent directors have three key roles - governance, control and guidance. Some performance indicators, based on which the independent directors are evaluated, include:
+- The ability to contribute to and monitor our corporate governance practices.
+- The ability to contribute by introducing international best practices to address business challenges and risks.
+- Active participation in long-term strategic planning.
+- Commitment  to  the  fulfillment  of  a director's obligations  and  fiduciary  responsibilities;  these  include participation in Board and committee meetings.
+- To undertake a formal and rigorous Board review annually, in order to improve the effectiveness of the Board; its committees; and that of each individual director.
 
-## Credit risk exposure
-Trade receivables ageing schedule for fiscal 2026 is as follows:
-|                                 |         |                                                            |                                                            |                                                            |                                                            | (Dollars in millions)                                      | (Dollars in millions)   |
-|---------------------------------|---------|------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|-------------------------|
-|                                 |         | Outstanding for following periods from due date of payment | Outstanding for following periods from due date of payment | Outstanding for following periods from due date of payment | Outstanding for following periods from due date of payment | Outstanding for following periods from due date of payment |                         |
-|                                 | Not Due | Less than 6 months                                         | 6 months to 1 year                                         | 1-2 years                                                  | years                                                      | More than 3 years                                          | Total                   |
-| Trade receivables               | 3,021   | 737                                                        | 14                                                         | 2                                                          | 2                                                          | 9                                                          | 3,785                   |
-| Less: Allowance for credit loss |         |                                                            |                                                            |                                                            |                                                            |                                                            | 70                      |
-| Total Trade receivables         |         |                                                            |                                                            |                                                            |                                                            |                                                            | 3,715                   |
+The Board had engaged Egon Zehnder, a leadership advisory firm on board matters, to conduct the Board evaluation for fiscal 2026. The evaluation process focused on Board dynamics, softer aspects, committee effectiveness and information flow  to  the  Board  or  its  committees,  among  other  matters.  The  methodology  included  various  techniques  such  as questionnaires, one-on-one discussions, etc. The aspects of succession planning and committee composition were also considered. The Board evaluation process was completed during fiscal 2026. During the year, the recommendations of the previous year's Board evaluation were discussed with the Board and individual feedback was provided. Progress on recommendations from last year and the current year's recommendations were discussed.
+Further, the evaluation process was based on the affirmation received from the independent directors that they met the independence criteria as required under the Companies Act 2013, the Listing Regulations and the NYSE listing manual.
+## Succession Planning
+The  Nomination  and  Remuneration  Committee  works  with  the  Board  on  the  leadership  succession  plan  to  ensure orderly succession in appointments to the Board and in senior management positions. The Company strives to maintain an appropriate balance of skills and experience within the organization and the Board in an endeavor to introduce new perspectives  while  maintaining  experience  and  continuity.  In  addition,  promoting  senior  management  within  the organization fuels the ambitions of the talent force to earn future leadership roles.
+## Board and Management Changes
+## Inductions:
+Diane Enberg Jurgens was appointed as an Independent director for a period of three (3) years effective from April 22, 2026 to April 21, 2029.
+Nitin Paranjpe, Independent Director, was appointed as Vice Chairman of the Board effective April 30, 2026.
+## Reappointment
+Helene Auriol Potier, Independent Director,was reappointed for a second term of five (5) years effective from May 26, 2026 to May 25, 2031.
+## Retirements and resignations:
+During the year there was no retirement or resignation of Directors or KMP.
+## Board Committees
+As of March 31, 2026, the Board had six committees: Audit Committee, Nomination and Remuneration Committee, Stakeholders  Relationship  Committee,  Risk  Management  Committee,  Corporate  Social  Responsibility ('CSR') Committee and Environment, Social and Governance Committee. All committees comprise only independent directors, one of whom is chosen as the chairperson of the committee. Additionally, the Board has created a Cybersecurity Risk Sub-Committee of the Risk Management Committee.
+During the year, all recommendations made by the committees were approved by the Board.
+The  charters  governing  these  committees  and  corporate  governance  guidelines  are  posted  on  our  website  at https://www.infosys.com/investors/corporate-governance/Pages/policies.aspx.
+The  Board,  in  consultation  with  the  Nomination  and  Remuneration  Committee,  is  responsible  for  assigning  and determining terms of service for committee members.
+The Chairman of the Board, in consultation with the  Company Secretary and the respective  committee  chairperson, determines  the  frequency  of  the  committee  meetings.  Generally,  all  the  committees  meet  four  times  a  year.  The recommendations of the committees are submitted to the Board for approval. During the year, all the recommendations of the committees were approved by the Board. The quorum for meetings is the higher of two members or one-third of the total number of members of the committee.
+## Audit Committee
+The Audit Committee is comprised of four independent directors, each of whom was determined by the Board to be an independent director under applicable NYSE rules and Rule 10A-3 under the Exchange Act. They were:
+- § Bobby Parikh, Chairperson and Financial Expert
+- § D. Sundaram , Financial Expert
+- § Michael Gibbs
+- § Nitin Paranjpe
 
-Trade receivables ageing schedule for fiscal 2025 is as follows:
-|                                 |         |                                                            |                                                            |                                                            |                                                            | (Dollars in millions)                                      | (Dollars in millions)   |
-|---------------------------------|---------|------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|-------------------------|
-|                                 |         | Outstanding for following periods from due date of payment | Outstanding for following periods from due date of payment | Outstanding for following periods from due date of payment | Outstanding for following periods from due date of payment | Outstanding for following periods from due date of payment |                         |
-|                                 | Not Due | Less than 6 months                                         | 6 months to 1 year                                         | 1-2 years                                                  | 2-3 years                                                  | More than 3 years                                          | Total                   |
-| Trade receivables               | 2,772   | 879                                                        | 24                                                         | 32                                                         | 9                                                          | 13                                                         | 3,729                   |
-| Less: Allowance for credit loss |         |                                                            |                                                            |                                                            |                                                            |                                                            | 84                      |
-| Total Trade receivables         |         |                                                            |                                                            |                                                            |                                                            |                                                            | 3,645                   |
+The Company Secretary acts as the secretary to the Audit Committee.
+The primary objective of the Audit Committee is to assist the Board with oversight of: (i) the accuracy, integrity and transparency of the Company's financial statements with adequate and timely disclosures; (ii) compliance with legal and regulatory requirements; (iii) the Company's independent auditor's professional qualifications and independence; (iv) the  performance  of  the Company's independent  auditors  and  internal  auditors;  and  (v)  acquisitions  and  investments made by the Company.
+The Audit Committee met ten times during fiscal 2026.
+The Audit Committee approved, and the Board adopted the Related Party Transaction Policy, Code on Fair Disclosure and Investor Relations and Insider Trading Policy. The policies that are required to be published are available on our website: https://www.infosys.com/investors/corporate-governance/Pages/policies.aspx
+In India, we are listed on the BSE Limited (BSE) and the National Stock Exchange of India Limited (NSE). We are also listed on the NYSE in the United States. In India, Regulation 18 of the Listing Regulations and in the United States, the Blue-Ribbon Committee set up by the U.S. Securities and Exchange Commission (SEC) mandate that listed companies adopt an appropriate Audit Committee charter. The Committee is guided by the charter adopted by the Board, available on  the Company's website,  at https://www.infosys.com/investors/corporate-governance/documents/audit-committeecharter.pdf.
+See Item 18 for the report of the Audit Committee.
 
-The allowance for lifetime expected credit loss on customer balances was $9 million, $13 million and $11 million for fiscal 2026, 2025 and 2024, respectively.
-## Movement in credit loss allowance on customer balance is as follows:
-|                                              | (Dollars in millions)   | (Dollars in millions)   | (Dollars in millions)   |
-|----------------------------------------------|-------------------------|-------------------------|-------------------------|
-|                                              | Year ended March 31,    | Year ended March 31,    | Year ended March 31,    |
-|                                              | 2026                    | 2025                    | 2024                    |
-| Balance at the beginning                     | 114                     | 114                     | 117                     |
-| Translation differences                      | -                       | (2)                     | (2)                     |
-| Impairment loss recognized / (reversed), net | 9                       | 13                      | 11                      |
-| Amounts written off                          | (30)                    | (11)                    | (12)                    |
-| Balance at the end                           | 93                      | 114                     | 114                     |
+## Nomination and Remuneration Committee
+The  Nomination  and  Remuneration  Committee  is  comprised  of  four  independent  directors,  each  of  whom  was determined by the Board to be an independent director under applicable NYSE rules. They were:
+- § D. Sundaram, Chairperson
+- § Michael Gibbs
+- § Govind Iyer
+- § Nitin Paranjpe
 
-The gross carrying amount of a financial asset is written off (either partially or in full) when there is no realistic prospect of recovery.
-## Credit exposure
-The Group's credit period generally ranges from 30-75 days.
-|                   | (Dollars in millions)   | (Dollars in millions)   |
-|-------------------|-------------------------|-------------------------|
-|                   | March 31, 2026          | March 31, 2025          |
-| Trade receivables | 3,715                   | 3,645                   |
-| Unbilled revenues | 1,816                   | 1,764                   |
+The main objectives and responsibilities of the Nomination and Remuneration Committee of the Board are to (i) assist the  Board  in  discharging  its  responsibilities  relating  to  remuneration  of  the Company's Directors,  Key  Managerial Personnel (KMP) and Senior Management; (ii) evaluate and approve the adequacy of the remuneration plans, policies, programs and succession plans for Company's Directors, KMP and Senior Management and identify individuals for appointment to such positions in accordance with prescribed criteria, and recommend their appointment and removal to the Board (iii) formulate the criteria for determining qualifications, positive attributes and independence of a director and for performance evaluation of directors on the Board (iv) administration of equity based plans/ schemes approved by the shareholders; (v ) oversee the Company's nomination process for the KMP and senior management and identify, screen and review individuals qualified to serve as directors, KMP and senior management consistent with the criteria approved by the Board; (vi) recommend the appointment and removal of Directors, for approval at the annual meeting of shareholders ; (vii) carry out evaluation of the performance of the Board and review the evaluation's implementation and compliance; (viii) leadership development (ix) develop and maintain corporate governance policies applicable to the Company;  and (x) devise a policy on Board diversity.
+The Nomination and Remuneration Committee oversees key processes by which the Company recruits new members to its Board, and the processes by which the Company recruits, motivates and retains outstanding senior management as well as the Company's overall approach to human resources management.
+The Nomination and Remuneration Committee met four times during fiscal 2026.
+The committee charter and policy are available on our website, at:
+Charter: https://www.infosys.com/investors/corporate-governance/documents/nomination-remuneration-committeecharter.pdf ;
+[Policy: https://www.infosys.com/investors/corporate-governance/documents/nomination-remuneration-policy.pdf](https://www.infosys.com/investors/corporate-governance/documents/nomination-remuneration-policy.pdf)
+## Risk Management Committee
+The Risk Management Committee is comprised of seven independent directors each of whom was determined by the Board to be an independent director under applicable NYSE rules. They were:
+- § D. Sundaram , Chairperson
+- § Michael Gibbs
+- § Bobby Parikh
+- § Chitra Nayak
+- § Govind Iyer
+- § Helene Auriol Potier
+- § Nitin Paranjpe
 
-Days Sales Outstanding (DSO) as of March 31, 2026 and March 31, 2025 was 67 days and 69 days, respectively.
-Credit risk on cash and cash equivalents is limited as the Group generally invest in deposits with banks with high ratings assigned  by  international  and  domestic  credit  rating  agencies.  Ratings  are  monitored  periodically  and  the  Group  has considered the latest available credit ratings as at the date of approval of these Consolidated Financial Statements.
-The  investments  of  the  Group  primarily  include  investment  in  mutual  fund  units,  quoted  debt  securities,  certificates  of deposit, commercial paper, quoted bonds issued by government and quasi government organizations. The Group invests after considering  counterparty  risks  based  on  multiple  criteria  including  Tier  I  Capital,  Capital  Adequacy  Ratio,  credit  rating, profitability,  NPA  levels  and  deposit  base  of  banks  and  financial  institutions.  These  risks  are  monitored  regularly  as  per Group's risk management program.
+The  primary  objectives  of  the  Risk  Management  Committee  are  to  (i)  assist  the  Board  in  fulfilling  its  oversight responsibilities  with  regard  to  the  identification,  evaluation  and  mitigation  of  strategic,  operational,  and  external environment risks; (ii) monitor and approve the enterprise risk management framework and associated practices of the Company; (iii) periodically assess risks to the effective execution of business strategy and review key leading indicators in this regard; (iv) periodically review the risk management processes and practices of the Company and ensure that the Company is taking the appropriate measures to achieve prudent balance between risk and reward in both ongoing and new business activities; (v) evaluate significant risk exposures of the Company and assess the Management's actions to mitigate the exposures in a timely manner; (vi) evaluate risks related to cybersecurity and ensure appropriate procedures are  in  place  to  mitigate  these  risks  in  a  timely  manner;  (vii)  coordinate  its  activities  with  the  audit  committee  in instances  where  there  is  any  overlap  with  audit  activities;  (viii) review  and  reassess  the  adequacy  of  the  Risk Management Committee Charter periodically and recommend any proposed changes to the Board for approval; (ix) ensure access to any internal information necessary to fulfill its oversight role and obtain advice and assistance from internal or external legal, accounting or other advisors; and (x) appoint, remove and approve terms of remuneration of the Chief Risk Officer.
+The Risk Management Committee met four times during fiscal 2026.
+The Risk Management Committee charter is available on the Company's website: https://www.infosys.com/investors/corporate-governance/documents/risk-management-committee-charter.pdf
+## Cybersecurity Risk Sub-committee
+The Cybersecurity Risk Sub-committee is comprised of five independent directors:
+- § Michael Gibbs , Chairperson and Cybersecurity expert
+- § D. Sundaram
+- § Govind Iyer
+- § Chitra Nayak
+- § Helene Auriol Potier (1)
 
-## Liquidity risk
-Liquidity risk is defined as the risk that the Group will not be able to settle or meet its obligations on time.
-The Group's principal sources of liquidity are cash and cash equivalents and investments and the cash flow that is generated from operations. The Group has no outstanding borrowings. The Group believes that the working capital is sufficient to meet its current requirements.
-As of March 31, 2026, the Group had a working capital of $5,396, million including cash and cash equivalents of $2,341, million and current investments of $1,365 million. As of March 31, 2025, the Group had a working capital of $6,347 million including cash and cash equivalents of $2,861 million and current investments of $1,460 million.
-As of March 31, 2026, and March 31, 2025, the outstanding employee benefit obligations were $384 million and $351 million, respectively, which have been substantially funded. Accordingly, no liquidity risk is perceived.
-Refer to Note 2.8 for remaining contractual maturities of lease liabilities.
-The table below provides details regarding the contractual maturities of significant financial liabilities as of March 31, 2026:
-|                                                                                            |                  |           |           | (Dollars in millions)   | (Dollars in millions)   |
-|--------------------------------------------------------------------------------------------|------------------|-----------|-----------|-------------------------|-------------------------|
-|                                                                                            | Less than 1 year | 1-2 years | 2-4 years | 4-7 years               | Total                   |
-| Trade payables                                                                             | 500              | -         | -         | -                       | 500                     |
-| Financial liability under option arrangements on an undiscounted basis (Refer to Note 2.5) | 88               | -         | 15        | -                       | 103                     |
-| Liability towards contingent consideration on an undiscounted basis (Refer to Note 2.5)    | 8                | 3         | -         | -                       | 11                      |
-| Other financial liabilities on an undiscounted basis (Refer to Note 2.5)                   | 1,744            | 171       | 21        | -                       | 1,936                   |
+(1) Helene Auriol Potier was appointed as a member to the Cyber Security (Risk Sub-Committee) effective August 1, 2025
+The objective of the Sub-committee is to assess cybersecurity related risks and the preparedness of the Company to mitigate and react to such risks. The Sub-committee meets periodically and recommends its findings, if any, to the Risk Management Committee.
+The Sub-committee met four times during fiscal 2026.
+## Stakeholders Relationship Committee
+The Stakeholders Relationship Committee is comprised of four independent directors. They were:
+- § Michael Gibbs, Chairperson
+- § D. Sundaram
+- § Bobby Parikh
+- § Chitra Nayak
 
-The table below provides details regarding the contractual maturities of significant financial liabilities as of March 31, 2025:
-|                                                                                            | Less than 1 year   | 1-2 years   | 2-4 years 4-7   | years   | Total   |
-|--------------------------------------------------------------------------------------------|--------------------|-------------|-----------------|---------|---------|
-| Trade payables                                                                             | 487                | -           | -               | -       | 487     |
-| Financial liability under option arrangements on an undiscounted basis (Refer to Note 2.5) | 72                 | -           | 17              | -       | 89      |
-| Liability towards contingent consideration on an undiscounted basis (Refer to Note 2.5)    | 2                  | 2           | -               | -       | 4       |
-| Other financial liabilities on an undiscounted basis (Refer to Note 2.5)                   | 1,709              | 205         | 17              | 1       | 1,932   |
+The Board has appointed A.G.S. Manikantha, Company Secretary, as the Compliance Officer, as required under the Listing Regulations and the Nodal Officer to ensure compliance with the Investor Education Protection Fund ("IEPF") Rules.
+The primary objectives of the Committee are to: (i) consider and resolve the security holders' concerns or complaints; (ii) monitor and review the investor service standards of the Company; (iii) take steps to develop an understanding of the  views  of  shareholders  about  the  Company,  either  through  direct  face-to-face  interaction, analysts' briefings  or survey of shareholders; and (iv) oversee and review the engagement and communication plan with shareholders and ensure that the views and concerns of the shareholders are highlighted to the Board at the appropriate time and that steps are taken to address such concerns.
+The purpose of the Committee is to assist the Board and the Company to oversee the various aspects of interests of stakeholders of the Company. The term 'stakeholder' includes shareholders and other security holders.
+The Stakeholders Relationship Committee met four times during fiscal 2026.
+The Stakeholders Relationship Committee charter is available on the Company's website, at: https://www.infosys.com/investors/corporate-governance/documents/stakeholders-relationship-committee.pdf
+## Corporate Social Responsibility Committee ('CSR Committee')
+The CSR Committee is comprised of three independent directors. They were:
+- § Govind Iyer, Chairperson
+- § Chitra Nayak
+- § Michael Gibbs
 
-## 2.4 Prepayments and other assets
-Prepayments and other assets consist of the following:
-|                                                     | (Dollars in millions)   | (Dollars in millions)   |
-|-----------------------------------------------------|-------------------------|-------------------------|
-|                                                     | March 31, 2026          | March 31, 2025          |
-| Current                                             |                         |                         |
-| Security deposits (1)                               | 8                       | 8                       |
-| Loans to employees (1)                              | 25                      | 29                      |
-| Prepaid expenses (2)                                | 450                     | 360                     |
-| Interest accrued and not due (1)                    | 47                      | 99                      |
-| Withholding taxes and others (2)(4)                 | 411                     | 332                     |
-| Advance payments to vendors for supply of goods (2) | 50                      | 48                      |
-| Deposit with corporation (1)(3)                     | 334                     | 345                     |
-| Deferred contract cost                              |                         |                         |
-| Cost of obtaining a contract (2)                    | 30                      | 40                      |
-| Cost of fulfillment (2)                             | 70                      | 59                      |
-| Net investment in lease (1)                         | 170                     | 133                     |
-| Other non-financial assets (2)                      | 15                      | 11                      |
-| Other financial assets (1)                          | 46                      | 55                      |
-| Total Current prepayment and other assets           | 1,656                   | 1,519                   |
-| Non-current                                         |                         |                         |
-| Loans to employees (1)                              | 1                       | 2                       |
-| Security deposits (1)                               | 30                      | 32                      |
-| Deposit with corporation (1)(3)                     | 8                       | 10                      |
-| Defined benefit plan assets (2)                     | 21                      | 35                      |
-| Prepaid expenses (2)                                | 82                      | 33                      |
-| Deferred contract cost                              |                         |                         |
-| Cost of obtaining a contract (2)                    | 52                      | 36                      |
-| Cost of fulfillment (2)                             | 102                     | 103                     |
-| Withholding taxes and others (2)(4)                 | 66                      | 63                      |
-| Net investment in lease (1)                         | 101                     | 129                     |
-| Other financial assets (1)                          | 4                       | 2                       |
-| Total Non-current prepayment and other assets       | 467                     | 445                     |
-| Total prepayment and other assets                   | 2,123                   | 1,964                   |
-| (1) Financial assets carried at amortized cost      | 774                     | 844                     |
+The  primary  objective  of  the  Committee  is  to  assist  the  Board  in  fulfilling  its  corporate  social  responsibility.  The Committee has overall responsibility for (i) identifying the areas of CSR activities (ii) recommending the amount of expenditure to be incurred on the identified CSR activities (iii) evaluating CSR proposals received from the Company (iv)  implementing  and  monitoring  the  CSR  Policy  from  time  to  time  (v)  formulating  a  CSR  annual  action  plan  and recommending it to the Board (vi) reviewing the Company's initiatives and programs (vii) coordinating with Infosys Foundation or agency(ies), such as registered trusts, societies, or Section 8 companies in implementing programs and executing initiatives as per the CSR Policy of the Company
+The CSR Committee is responsible for identifying the areas of CSR activities, programs and execution of initiatives as per  defined  guidelines  and  for  overseeing  the  activities  /  functioning  of  the  Infosys  Foundation,  Infosys  Foundation USA  and  other  initiatives  undertaken  by  the  Company,  including  in  Australia  and  various  parts  of  Europe.  The Foundation reports to the Committee the progress of deployed initiatives and guide in making appropriate disclosures on a periodic basis.
+The CSR Committee met four times during fiscal 2026.
+The Committee Charter and Policy are available on our website, at:
+Charter:https://www.infosys.com/investors/corporate-governance/documents/corporate-social-responsibility-committeecharter.pdf
+[Policy:https://www.infosys.com/investors/corporate-governance/documents/corporate-social-responsibility-policy.pdf](https://www.infosys.com/investors/corporate-governance/documents/corporate-social-responsibility-policy.pdf)
+## Environment, Social and Governance Committee ('ESG Committee')
+The ESG Committee is comprised of three independent directors. They were:
+- § Chitra Nayak, Chairperson
+- § Govind Iyer
+- § Helene Auriol Potier
 
-(2) Non-financial assets
-(3) Deposit with corporation represents amounts deposited to settle certain employee-related obligations as and when they arise during the normal course of business.
-(4) Withholding taxes and others primarily consist of input tax credits and VAT recoverable from tax authorities.
-## 2.5 Other liabilities
-Other liabilities comprise the following:
-|                                                                                                 | (Dollars in millions)   | (Dollars in millions)   |
-|-------------------------------------------------------------------------------------------------|-------------------------|-------------------------|
-|                                                                                                 | March 31, 2026          | March 31, 2025          |
-| Current                                                                                         |                         |                         |
-| Accrued compensation to employees (1)                                                           | 622                     | 576                     |
-| Accrued defined benefit liability (3)                                                           | 5                       | 1                       |
-| Accrued expenses (1)                                                                            | 1,021                   | 991                     |
-| Withholding taxes and others (3)                                                                | 409                     | 381                     |
-| Liabilities of controlled trusts (1)                                                            | 18                      | 20                      |
-| Liability towards contingent consideration (2)                                                  | 8                       | 1                       |
-| Capital creditors (1)                                                                           | 30                      | 61                      |
-| Financial liability under option arrangements (2)(4)                                            | 80                      | 64                      |
-| Other non-financial liabilities (3)                                                             | 1                       | 1                       |
-| Other financial liabilities (1)                                                                 | 53                      | 61                      |
-| Total Current other liabilities                                                                 | 2,247                   | 2,157                   |
-| Non-current                                                                                     |                         |                         |
-| Accrued compensation to employees (1)                                                           | 1                       | 1                       |
-| Accrued expenses (1)                                                                            | 182                     | 221                     |
-| Accrued defined benefit liability (3)                                                           | 50                      | 14                      |
-| Financial liability under option arrangements (2)(4)                                            | 13                      | 13                      |
-| Liability towards contingent consideration (2)                                                  | 3                       | 2                       |
-| Other non-financial liabilities (3)                                                             | 9                       | 12                      |
-| Other financial liabilities (1)                                                                 | 9                       | 1                       |
-| Total Non-current other liabilities                                                             | 267                     | 264                     |
-| Total other liabilities                                                                         | 2,514                   | 2,421                   |
-| (1) Financial liability carried at amortized cost                                               | 1,936                   | 1,932                   |
-| (2) Financial liability carried at fair value through profit or loss                            | 104                     | 80                      |
-| Financial liability under option arrangements on undiscounted basis                             | 103                     | 89                      |
-| Financial liability towards contingent consideration on undiscounted basis (Refer to Note 2.10) | 11                      | 4                       |
-
-(3) Non-financial liabilities
-(4) Represents liability related to options issued by the Group over the non-controlling interests in its subsidiaries.
-Accrued expenses primarily relate to cost of technical sub-contractors, telecommunication charges, legal and professional charges,  brand  building  expenses,  overseas  travel  expenses  and  office  maintenance  and  cost  of  third  party  software  and hardware .
-
-## 2.6 Provisions and other contingencies
-## 2.6.1 Provisions
-A provision  is  recognized  if,  as  a  result  of  a  past  event,  the  Group  has  a  present  legal  or  constructive  obligation  that  is reasonably  estimable,  and  it  is  probable  that  an  outflow  of  economic  benefits  will  be  required  to  settle  the  obligation. Provisions  are  determined  by  discounting  the  expected  future  cash  flows  at  a  pre-tax  rate  that  reflects  current  market assessments of the time value of money and the risks specific to the liability. The Group recognizes a reimbursement asset when, and only when, it is virtually certain that the reimbursement will be received if the Group settles the obligation.
-Contingent  liability  is  a  possible  obligation  arising  from  past  events  and  whose  existence  will  be  confirmed  only  by  the occurrence or non-occurrence of one or more uncertain future events not wholly within the control of the entity or a present obligation that arises from past events but is not recognized because it is not probable that an outflow of resources embodying economic benefits will be required to settle the obligation or the amount of the obligation cannot be measured with sufficient reliability.
-## a) Post sales client support
-The Group provides its clients  with  a  fixed-period  post-sales  support  for  its  fixed-price,  fixed-timeframe  contracts.  Costs associated with such support services are accrued at the time related revenues are recorded and included in cost of sales. The Group estimates such costs based on historical experience and estimates are reviewed on a periodic basis for any material changes in assumptions and likelihood of occurrence.
-## b) Onerous contracts
-Provisions for onerous contracts are recognized when the expected benefits to be derived by the Group from a contract are lower than the unavoidable costs of meeting the future obligations under the contract. Provisions for estimated losses, if any, on incomplete contracts are recorded in the period in which such losses become probable based on the estimated efforts or costs to complete the contract. The provision is measured at the present value of the lower of the expected cost of terminating the contract and the expected net cost of continuing with the contract. Before a provision is established the Group recognizes any impairment loss on the assets associated with that contract.
-Provision for post sales client support and other provisions:
-|                                                          | (Dollars in millions)   | (Dollars in millions)   |
-|----------------------------------------------------------|-------------------------|-------------------------|
-|                                                          | March 31, 2026          | March 31, 2025          |
-| Post sales client support and other provisions           | 159                     | 155                     |
-| Provision pertaining to settlement (refer to note 2.6.2) | -                       | 18                      |
-| Total provisions                                         | 159                     | 173                     |
-
-Provision for post sales client support and other provisions primarily represents costs associated with providing sales support services which are accrued at the time of recognition of revenues and are expected to be utilized over a period of 1 year.
-The movement in the provision for post sales client support and other provisions is as follows:
-|                                   | (Dollars in millions) Year ended March 31, 2026   |
-|-----------------------------------|---------------------------------------------------|
-| Balance at the beginning          | 155                                               |
-| Provision recognized / (reversed) | 54                                                |
-| Provision utilized                | (50)                                              |
-| Balance at the end                | 159                                               |
-
-Provision  for  post  sales  client  support  and  other  provisions  is  included  in  cost  of  sales  in  the  consolidated  statement  of comprehensive income.
-As of March 31, 2026, and March 31, 2025, claims against the Group, not acknowledged as debts (excluding demands from income  tax  authorities-  Refer  to  Note  2.18),  amounted  to  $122  million (₹1,153 crore)  and  $119  million (₹1,020 crore), respectively.
-Amount paid to statutory authorities against the claims (excluding demands from income tax authorities- Refer to Note 2.18) amounted to $3 million (₹27 crore) and $1 million (₹8 crore) as at March 31, 2026 and March 31, 2025 respectively.
-## 2.6.2 Legal Proceedings
-## McCamish cybersecurity incident
-In November 2023, certain systems of Infosys McCamish Systems LLC ("McCamish"), a subsidiary of Infosys BPM Limited (a wholly owned subsidiary of Infosys Limited), were encrypted by ransomware, resulting in the nonavailability of certain applications and systems. McCamish initiated its incident response and engaged cybersecurity and other specialists to assist in its investigation of and response to the incident and remediation and restoration of impacted applications and systems. By December  31,  2023,  McCamish,  with  external  specialists'  assistance,  substantially  remediated  and  restored  the  affected applications and systems.
-McCamish in coordination with its third-party eDiscovery vendor has identified corporate customers and individuals whose information was subject to unauthorized access and exfiltration. McCamish processes personal data on behalf of its corporate customers.
-From March 6, 2024 through July 25, 2024, six actions were filed in the U.S. District Court for the Northern District of Georgia  against  McCamish.  All  six  actions  were  consolidated,  and  the  consolidated  class  action  complaint  was  filed  on November  7,  2024,  purportedly  on  behalf  of  all  persons  residing  in  the  United  States  whose  personally  identifiable information was compromised in the incident, including all who was sent a notice of the incident. On December 20, 2024, the Court  granted  the parties' joint  motion  to  stay  proceedings  pending  the parties' efforts  to  resolve  the  lawsuit  through mediation.
-On March 13, 2025, the McCamish and the plaintiffs engaged in mediation, resulting in-principal agreement that sets forth the  terms  of  a  proposed  settlement  of  the  class  action  lawsuits  against  McCamish,  as  well  as  seven  class  action  lawsuits arising out of the incident that have been filed against the McCamish's customers. Under the settlement terms, McCamish has agreed to pay $17.5 million into a fund to settle these matters.
-McCamish had accrued for the settlement amount along with the insurance reimbursement receivable during the year ended March  31,  2025.  On  December  18,  2025,  McCamish  received  final  court  order  from  Northern  District  of  Geogia  (US) approving settlement of class action lawsuit. This settlement resolves allegations made in the class action lawsuit without admission of any liability. The settlement amount has since been paid.
-McCamish may incur additional costs including from indemnities or damages/claims, which are indeterminable at this time.
-## Government Investigation
-The U.S. Department of Justice ('DOJ') is conducting an investigation regarding how the Company classified certain H-1B visa-recipient employees in immigration documents filed with certain U.S. government authorities. The Company is engaged in discussions with the DOJ regarding its ongoing investigation and continues its own inquiry regarding the matter. At this stage, the Company is unable to predict the outcome of this matter, including whether such outcome could have a material adverse effect on the Company's business and results of operations.
-## Others
-Apart from the foregoing, the Group is subject to legal proceedings and claims which have arisen in the ordinary course of business. The Group's management reasonably expects that such ordinary course legal actions, when ultimately concluded and determined, will not have a material and adverse effect on the Group's results of operations or financial condition.
-## 2.7 Property, plant and equipment
-## Accounting policy
-Property,  plant  and  equipment  are  stated  at  cost,  less  accumulated  depreciation  and  impairment,  if  any.  Costs  directly attributable  to  acquisition  are  capitalized  until  the  property,  plant  and  equipment  are  ready  for  use,  as  intended  by management. The charge in respect of periodic depreciation is derived at after determining an estimate of an asset's expected useful life and the expected residual value at the end of its life. The Group depreciates property, plant and equipment over their estimated useful lives using the straight-line method. The estimated useful lives of assets are as follows:
-| Buildings               | 22 - 25 years                                   |
-|-------------------------|-------------------------------------------------|
-| Plant and machinery (1) | 5 years                                         |
-| Computer equipment      | 3-5 years                                       |
-| Furniture and fixtures  | 5 years                                         |
-| Vehicles                | 5 years                                         |
-| Leasehold improvements  | Lower of useful life of the asset or lease term |
-
-(1) Includes solar plant with a useful life of 25 years.
-Depreciation methods, useful lives and residual values are reviewed periodically, including at each financial year end. The useful lives are based on historical experience with similar assets as well as anticipation of future events, which may impact their life, such as changes in technology.
-Advances paid towards the acquisition of property, plant and equipment outstanding at each balance sheet date and the cost of assets not ready to use before such date are disclosed under 'Capital work-in-progress'. Subsequent expenditures relating to property, plant and equipment is capitalized only when it is probable that future economic benefits associated with these will flow to the Group and the cost of the item can be measured reliably. The cost and related accumulated depreciation are eliminated from the financial statements upon sale or retirement of the asset.
-## Impairment
-Property, plant and equipment are evaluated for recoverability whenever events or changes in circumstances indicate that their carrying amounts may not be recoverable. For the purpose of impairment testing, the recoverable amount (i.e. the higher of the fair value less cost to sell and the value-in-use) is determined on an individual asset basis unless the asset does not generate  cash  flows  that  are  largely  independent  of  those  from  other  assets.  In  such  cases,  the  recoverable  amount  is determined for the Cash Generating Unit (CGU) to which the asset belongs.
-If such assets are considered to be impaired, the impairment to be recognized in the net profit in the consolidated statement of comprehensive  income  is  measured  by  the  amount  by  which  the  carrying  value  of  the  assets  exceeds  the  estimated recoverable  amount  of  the  asset.  An  impairment  loss  is  reversed  in  the  net  profit  in  the  consolidated  statement  of comprehensive income if there has been a change in the estimates used to determine the recoverable amount. The carrying amount of the asset is increased to its revised recoverable amount, provided that this amount does not exceed the carrying amount that would have been determined (net of any accumulated depreciation) had no impairment loss been recognized for the asset in prior years.
-Following are the changes in the carrying value of property, plant and equipment for fiscal 2026:
-|                                                       |      |           |                     |                    | (Dollars in millions)   | (Dollars in millions)   | (Dollars in millions)   |
-|-------------------------------------------------------|------|-----------|---------------------|--------------------|-------------------------|-------------------------|-------------------------|
-|                                                       | Land | Buildings | Plant and machinery | Computer equipment | Furniture and fixtures  | Vehicles                | Total                   |
-| Gross carrying value as of April 1, 2025              | 173  | 1,371     | 632                 | 1,088              | 386                     | 6                       | 3,656                   |
-| Additions                                             | 3    | 77        | 47                  | 170                | 26                      | -                       | 323                     |
-| Additions - Business Combination (Refer to Note 2.10) | -    | -         | -                   | 1                  | -                       | -                       | 1                       |
-| Deletions* #                                          | (7)  | (1)       | (11)                | (147)              | (18)                    | (1)                     | (185)                   |
-| Translation difference                                | (17) | (121)     | (64)                | (100)              | (31)                    | -                       | (333)                   |
-| Gross carrying value as of March 31, 2026             | 152  | 1,326     | 604                 | 1,012              | 363                     | 5                       | 3,462                   |
-| Accumulated depreciation as of April 1, 2025          | -    | (627)     | (511)               | (820)              | (315)                   | (5)                     | (2,278)                 |
-| Depreciation                                          | -    | (51)      | (39)                | (122)              | (27)                    | -                       | (239)                   |
-| Accumulated depreciation on deletions* #              | -    | -         | 10                  | 145                | 18                      | 1                       | 174                     |
-| Translation difference                                | -    | 60        | 54                  | 76                 | 25                      | -                       | 215                     |
-| Accumulated depreciation as of March 31, 2026         | -    | (618)     | (486)               | (721)              | (299)                   | (4)                     | (2,128)                 |
-| Capital work-in-progress as of April 1, 2025          |      |           |                     |                    |                         |                         | 119                     |
-| Carrying value as of April 1, 2025                    | 173  | 744       | 121                 | 268                | 71                      | 1                       | 1,497                   |
-| Capital work-in-progress as of March 31, 2026         |      |           |                     |                    |                         |                         | 72                      |
-| Carrying value as of March 31, 2026                   | 152  | 708       | 118                 | 291                | 64                      | 1                       | 1,406                   |
-
-* During fiscal 2026, certain assets which were not in use having gross book value of $129 million (net book value: Nil), were retired
-
-Following are the changes in the carrying value of property, plant and equipment for fiscal 2025:
-|                                                       | Land   | Buildings   | Plant and machinery   | Computer equipment   | Furniture and fixtures   | Vehicles   | Total   |
-|-------------------------------------------------------|--------|-------------|-----------------------|----------------------|--------------------------|------------|---------|
-| Gross carrying value as of April 1, 2024              | 171    | 1,411       | 637                   | 1,032                | 406                      | 6          | 3,663   |
-| Additions                                             | 6      | 5           | 30                    | 154                  | 22                       | -          | 217     |
-| Additions - Business Combination (Refer to Note 2.10) | -      | -           | 1                     | 1                    | 3                        | -          | 5       |
-| Deletions* #                                          | -      | (13)        | (20)                  | (75)                 | (36)                     | -          | (144)   |
-| Translation difference                                | (4)    | (32)        | (16)                  | (24)                 | (9)                      | -          | (85)    |
-| Gross carrying value as of March 31, 2025             | 173    | 1,371       | 632                   | 1,088                | 386                      | 6          | 3,656   |
-| Accumulated depreciation as of April 1, 2024          | -      | (590)       | (498)                 | (765)                | (322)                    | (5)        | (2,180) |
-| Depreciation                                          | -      | (52)        | (44)                  | (148)                | (35)                     | -          | (279)   |
-| Accumulated depreciation on deletions* #              | -      | 2           | 18                    | 73                   | 35                       | -          | 128     |
-| Translation difference                                | -      | 13          | 13                    | 20                   | 7                        | -          | 53      |
-| Accumulated depreciation as of March 31, 2025         | -      | (627)       | (511)                 | (820)                | (315)                    | (5)        | (2,278) |
-| Capital work-in-progress as of April 1, 2024          |        |             |                       |                      |                          |            | 54      |
-| Carrying value as of April 1, 2024                    | 171    | 821         | 139                   | 267                  | 84                       | 1          | 1,537   |
-| Capital work-in progress as at March 31, 2025         |        |             |                       |                      |                          |            | 119     |
-| Carrying value as at March 31, 2025                   | 173    | 744         | 121                   | 268                  | 71                       | 1          | 1,497   |
-
-* During fiscal 2025, certain assets which were not in use having gross book value of $60 million (net book value: Nil), were retired Following are the changes in the carrying value of property, plant and equipment for fiscal 2024:
-
-|                                               |      |           |                     |                    | (Dollars in millions)   | (Dollars in millions)   | (Dollars in millions)   |
-|-----------------------------------------------|------|-----------|---------------------|--------------------|-------------------------|-------------------------|-------------------------|
-|                                               | Land | Buildings | Plant and machinery | Computer equipment | Furniture and fixtures  | Vehicles                | Total                   |
-| Gross carrying value as of April 1, 2023      | 174  | 1,407     | 625                 | 1,037              | 409                     | 6                       | 3,658                   |
-| Additions                                     | -    | 36        | 40                  | 112                | 24                      | -                       | 212                     |
-| Deletions* #                                  | -    | (7)       | (19)                | (102)              | (20)                    | -                       | (148)                   |
-| Translation difference                        | (3)  | (25)      | (9)                 | (15)               | (7)                     | -                       | (59)                    |
-| Gross carrying value as of March 31, 2024     | 171  | 1,411     | 637                 | 1,032              | 406                     | 6                       | 3,663                   |
-| Accumulated depreciation as of April 1, 2023  | -    | (552)     | (468)               | (709)              | (300)                   | (5)                     | (2,034)                 |
-| Depreciation                                  | -    | (54)      | (56)                | (167)              | (47)                    | -                       | (324)                   |
-| Accumulated depreciation on deletions* #      | -    | 7         | 18                  | 101                | 19                      | -                       | 145                     |
-| Translation difference                        | -    | 9         | 8                   | 10                 | 6                       | -                       | 33                      |
-| Accumulated depreciation as of March 31, 2024 | -    | (590)     | (498)               | (765)              | (322)                   | (5)                     | (2,180)                 |
-| Capital work-in-progress as of April 1, 2023  |      |           |                     |                    |                         |                         | 55                      |
-| Carrying value as of April 1, 2023            | 174  | 855       | 157                 | 328                | 109                     | 1                       | 1,679                   |
-| Capital work-in-progress as of March 31, 2024 |      |           |                     |                    |                         |                         | 54                      |
-| Carrying value as of March 31, 2024           | 171  | 821       | 139                 | 267                | 84                      | 1                       | 1,537                   |
-
-* During fiscal 2024, certain assets which were not in use having gross book value of $93 million (net book value: Nil), were retired
+The primary objectives and responsibilities of the Committee are : (i) to guide the creation and periodic refresh of the ESG Vision &amp;Ambitions of the company and continuously take into updates on the ESG vision and goals thereon; (ii) review  the  operation  of  ESG  Council  and  its  working.  The  Committee  may  form  and  delegate  authority  to sub -committees as and when appropriate (iii) to ensure that the Company implements appropriate measures to advance its  ESG  objectives  and  shall  have  access  to  all  internal  information  necessary  to  fulfil  its  duties;  (iv)  to  overview periodic ESG  disclosures and communications including the annual report sections, ESG  reports, Business Responsibility and Sustainability Reporting (BRSR) filings; (v) obtain advice and assistance from internal or external experts, advisors; and (vi) to report to the Board on a periodic basis on the matters reviewed and decisions/recommendations made.
+The ESG Committee met four times during fiscal 2026.
+The main responsibility of the ESG committee is to guide the ESG journey of the Company which was embarked from 2011.  The  ESG  Committee  charter  is  available  on  our  website  at https://www.infosys.com/investors/corporategovernance/documents/environment-social-governance-committee-charter.pdf
+## EMPLOYEES
+As of March 31, 2026, we had 328,594 employees, of which 310,887 were professionals involved in service delivery to clients,  including  trainees.  As  of  March  31,  2025,  we  had  323,578  employees,  of  which  306,599  were  professionals involved  in  service  delivery  to  clients.  As  of  March  31,  2024,  we  had  317,240  employees,  of  which  299,814  were professionals involved in service delivery to clients.
+As of March 31, 2026, we had 258,502 employees in India, 32,718 employees in the Americas, 19,176 employees in Europe and 18,198 employees in the rest of the world.

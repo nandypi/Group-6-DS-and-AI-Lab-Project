@@ -1,319 +1,125 @@
 ---
 document_name: "Infosys_16102025160458_BM_Outcome_Oct162025.md"
 group_id: "Infosys_16102025160458_BM_Outcome_Oct162025__group_015"
-source_section_count: 3
-page_start: 124
-page_end: 132
-estimated_tokens: 9711
+source_section_count: 2
+page_start: 69
+page_end: 72
+estimated_tokens: 4251
 source_section_ids:
-  - "Infosys_16102025160458_BM_Outcome_Oct162025__053"
-  - "Infosys_16102025160458_BM_Outcome_Oct162025__054"
-  - "Infosys_16102025160458_BM_Outcome_Oct162025__055"
+  - "Infosys_16102025160458_BM_Outcome_Oct162025__028"
+  - "Infosys_16102025160458_BM_Outcome_Oct162025__029"
 ---
 
-## 1.3 Use of estimates and judgments
-The preparation of the interim condensed standalone financial statements in conformity with Ind AS requires the management to make estimates, judgments and assumptions. These estimates, judgments and assumptions affect the application of accounting policies and the reported amounts of assets and liabilities, the disclosures of contingent assets and liabilities at the date of the interim condensed standalone financial statements and reported amounts of revenues and expenses during the period. The application of accounting policies that require critical accounting estimates involving complex and subjective judgments and the use of assumptions in these financial statements have been disclosed in Note no. 1.4. Accounting estimates could change from period to period. Actual results could differ from those estimates. Appropriate changes in estimates are made as management becomes aware of changes in circumstances surrounding the estimates. Changes in estimates and judgements are reflected in the interim condensed standalone financial statements in the period in which changes are made and, if material, their effects are disclosed in the notes to the interim condensed standalone financial statements.
-## 1.4 Critical accounting estimates and judgments
-## a. Revenue recognition
-The Company's contracts with customers include promises to transfer multiple products and services to a customer. Revenues from customer contracts are considered for recognition and measurement when the contract has been approved, in writing, by the parties to the contract, the parties to contract are committed to perform their respective obligations under the contract, and the contract is legally enforceable. The Company assesses the services promised in a contract and identifies distinct performance obligations in the contract. Identification of distinct performance obligations to determine the deliverables and the ability of the customer to benefit independently from such deliverables, and allocation of transaction price to these distinct performance obligations involves significant judgement.
-Fixed price maintenance revenue is recognized ratably on a straight-line basis when services are performed through an indefinite number of repetitive acts over a specified period. Revenue from fixed price maintenance contract is recognized ratably using a percentage of completion method when the pattern of benefits from the services rendered to the customer and Company's costs to fulfil the contract is not even through the period of the contract because the services are generally discrete in nature and not repetitive. The use of method to recognize the maintenance revenues requires judgment and is based on the promises in the contract and nature of the deliverables.
-The Company uses the percentage-of-completion method in accounting for other fixed-price contracts. Use of the percentage-of-completion method requires the Company to determine the actual efforts or costs expended to date as a proportion of the estimated total efforts or costs to be incurred. Efforts or costs expended have been used to measure progress towards completion as there is a direct relationship between input and productivity. The estimation of total efforts or costs involves significant judgement and is assessed throughout the period of the contract to reflect any changes based on the latest available information.
-Contracts with customers includes subcontractor services or third-party vendor equipment or software in certain integrated services arrangements. In these types of arrangements, revenue from sales of third-party vendor products or services is recorded net of costs when the Company is acting as an agent between the customer and the vendor, and gross when the Company is the principal for the transaction. In doing so, the Company first evaluates whether it obtains control of the specified goods or services before they are transferred to the customer. The Company considers whether it is primarily responsible for fulfilling the promise to provide the specified goods or services, inventory risk, pricing discretion and other factors to determine whether it controls the specified goods or services and therefore, is acting as a principal or an agent.
-Provisions for estimated losses, if any, on incomplete contracts are recorded in the period in which such losses become probable based on the estimated efforts or costs to complete the contract.
-## b. Income taxes
-The Company's two major tax jurisdictions are India and the United States, though the Company also files tax returns in other overseas jurisdictions.
-Significant judgments are involved in determining the provision for income taxes, including amount expected to be paid/recovered for uncertain tax positions.
-In assessing the realizability of deferred income tax assets, Management considers whether some portion or all of the deferred income tax assets will not be realized. The ultimate realization of deferred income tax assets is dependent upon the generation of future taxable income during the periods in which the temporary differences become deductible. Management considers the scheduled reversals of deferred income tax liabilities, projected future taxable income and tax planning strategies in making this assessment. Based on the level of historical taxable income and projections for future taxable income over the periods in which the deferred income tax assets are deductible, management believes that the company will realize the benefits of those deductible differences. The amount of the deferred income tax assets considered realizable, however, could be reduced in the near term if estimates of future taxable income during the carry forward period are reduced. (Refer to note 2.16).
-## c. Property, plant and equipment
-Property, plant and equipment represent a significant proportion of the asset base of the Company. The charge in respect of periodic depreciation is derived after determining an estimate of an asset's expected useful life and the expected residual value at the end of its life. The useful lives and residual values of Company's assets are determined by the management at the time the asset is acquired and reviewed periodically, including at each financial year end. The lives are based on historical experience with similar assets as well as anticipation of future events, which may impact their life, such as changes in technology. (Refer to note 2.1).
-## 2. Notes to the Interim Condensed Standalone Financial Statements
-## 2.1 PROPERTY, PLANT AND EQUIPMENT
-## Accounting Policy
-Property, plant and equipment are stated at cost, less accumulated depreciation and impairment, if any. Costs directly attributable to acquisition are capitalized until the property, plant and equipment are ready for use, as intended by the Management. The charge in respect of periodic depreciation is derived at after determining an estimate of an asset's expected useful life and the expected residual value at the end of its life. The Company depreciates property, plant and equipment over their estimated useful lives using the straight-line method.
-The estimated useful lives of assets are as follows:
-| Building (1)               | 22-25 years   |
-|----------------------------|---------------|
-| Plant and machinery (1)    | 5 years       |
-| Office equipment           | 5 years       |
-| Computer equipment (1)     | 3-5 years     |
-| Furniture and fixtures (1) | 5 years       |
-| Vehicles (1)               | 5 years       |
-| Leasehold improvements     | Lower of      |
+## Products &amp; platforms
+The Group also derives revenues from the sale of products and platforms like Finacle -core banking solution, Edge Suite of products, Panaya platform, Stater digital platform and Infosys McCamish - insurance platform.
+## Disaggregated revenue information
+Revenue disaggregation by business segments has been included in segment information (Refer note 2.15). The table below presents disaggregated revenues from contracts with customers by geography and contract type. The Group believes that this disaggregation best depicts how the nature, amount, timing and uncertainty of revenues and cash flows are affected by industry, market and other economic factors.
+## For the three months and six months ended September 30, 2025 and September 30, 2024
+| Particulars             | Three months ended September 30,   | Three months ended September 30,   | Six months ended September 30,   | Six months ended September 30,   |
+|-------------------------|------------------------------------|------------------------------------|----------------------------------|----------------------------------|
+|                         | 2025                               | 2024                               | 2025                             | 2024                             |
+| Revenues by Geography * |                                    |                                    |                                  |                                  |
+| North America           | 2,856                              | 2,807                              | 5,645                            | 5,582                            |
+| Europe                  | 1,611                              | 1,458                              | 3,171                            | 2,799                            |
+| India                   | 158                                | 154                                | 301                              | 301                              |
+| Rest of the world       | 451                                | 475                                | 901                              | 926                              |
+| Total                   | 5,076                              | 4,894                              | 10,018                           | 9,608                            |
 
-Lower of useful life of the asset or lease term
-(1) Based on technical evaluation, the Management believes that the useful lives as given above best represent the period over which Management expects to use these assets. Hence, the useful lives for these assets is different from the useful lives as prescribed under Part C of Schedule II of the Companies Act 2013.
-Depreciation methods, useful lives and residual values are reviewed periodically, including at each financial year end. The useful lives are based on historical experience with similar assets as well as anticipation of future events, which may impact their life, such as changes in technology.
-Advances paid towards the acquisition of property, plant and equipment outstanding at each Balance Sheet date is classified as capital advances under other non-current assets and the cost of assets not ready to use before such date are disclosed under 'Capital work-in-progress'. Subsequent expenditures relating to property, plant and equipment is capitalized only when it is probable that future economic benefits associated with these will flow to the Company and the cost of the item can be measured reliably. The cost and related accumulated depreciation are eliminated from the financial statements upon sale or retirement of the asset.
-## Impairment
-Property, plant and equipment are evaluated for recoverability whenever events or changes in circumstances indicate that their carrying amounts may not be recoverable. For the purpose of impairment testing, the recoverable amount (i.e. the higher of the fair value less cost to sell and the value-in-use) is determined on an individual asset basis unless the asset does not generate cash flows that are largely independent of those from other assets. In such cases, the recoverable amount is determined for the Cash Generating Unit (CGU) to which the asset belongs.
-If such assets are considered to be impaired, the impairment to be recognized in the interim condensed Statement of Profit and Loss is measured by the amount by which the carrying value of the assets exceeds the estimated recoverable amount of the asset. An impairment loss is reversed in the condensed Statement of Profit and Loss if there has been a change in the estimates used to determine the recoverable amount. The carrying amount of the asset is increased to its revised recoverable amount, provided that this amount does not exceed the carrying amount that would have been determined (net of any accumulated depreciation) had no impairment loss been recognized for the asset in prior years.
-The changes in the carrying value of property, plant and equipment for the three months ended  September 30, 2025 are as follows:
-|                                                   |                |                  |                         |                      |                        |                            |                        | (In ₹ crore)   | (In ₹ crore)   |
-|---------------------------------------------------|----------------|------------------|-------------------------|----------------------|------------------------|----------------------------|------------------------|----------------|----------------|
-| Particulars                                       | Land- Freehold | Buildings (1)(2) | Plant and machinery (2) | Office Equipment (2) | Computer equipment (2) | Furniture and fixtures (2) | Leasehold Improvements | Vehicles       | Total          |
-| Gross carrying value as at July 1, 2025           | 1,487          | 10,619           | 3,255                   | 1,448                | 7,829                  | 2,145                      | 806                    | 45             | 27,634         |
-| Additions                                         | 10             | -                | 11                      | 12                   | 352                    | 4                          | 3                      | 1              | 393            |
-| Deletions*                                        | -              | -                | (5)                     | (8)                  | (151)                  | (57)                       | -                      | (3)            | (224)          |
-| Gross carrying value as at September 30, 2025     | 1,497          | 10,619           | 3,261                   | 1,452                | 8,030                  | 2,092                      | 809                    | 43             | 27,803         |
-| Accumulated depreciation as at July 1, 2025       | -              | (5,063)          | (2,923)                 | (1,213)              | (6,065)                | (1,828)                    | (632)                  | (42)           | (17,766)       |
-| Depreciation                                      | -              | (100)            | (38)                    | (25)                 | (215)                  | (35)                       | (19)                   | (1)            | (433)          |
-| Accumulated depreciation on deletions*            | -              | -                | 5                       | 8                    | 151                    | 57                         | -                      | 3              | 224            |
-| Accumulated depreciation as at September 30, 2025 | -              | (5,163)          | (2,956)                 | (1,230)              | (6,129)                | (1,806)                    | (651)                  | (40)           | (17,975)       |
-| Carrying value as at July 1, 2025                 | 1,487          | 5,556            | 332                     | 235                  | 1,764                  | 317                        | 174                    | 3              | 9,868          |
-| Carrying value as at September 30, 2025           | 1,497          | 5,456            | 305                     | 222                  | 1,901                  | 286                        | 158                    | 3              | 9,828          |
+* Geographical revenue is based on the domicile of customer
 
-The changes in the carrying value of property, plant and equipment for the three months ended September 30, 2024 are as follows:
-|                                                   |                |                  |                         |                      |                        |                            |                        | (In ₹ crore)   | (In ₹ crore)   |
-|---------------------------------------------------|----------------|------------------|-------------------------|----------------------|------------------------|----------------------------|------------------------|----------------|----------------|
-| Particulars                                       | Land- Freehold | Buildings (1)(2) | Plant and machinery (2) | Office Equipment (2) | Computer equipment (2) | Furniture and fixtures (2) | Leasehold Improvements | Vehicles       | Total          |
-| Gross carrying value as at July 1, 2024           | 1,430          | 10,656           | 3,231                   | 1,380                | 7,357                  | 2,150                      | 948                    | 45             | 27,197         |
-| Additions                                         | -              | 10               | 14                      | 35                   | 131                    | 17                         | 21                     | -              | 228            |
-| Deletions**                                       | -              | (6)              | (5)                     | (14)                 | (90)                   | (13)                       | (26)                   | -              | (154)          |
-| Gross carrying value as at September 30, 2024     | 1,430          | 10,660           | 3,240                   | 1,401                | 7,398                  | 2,154                      | 943                    | 45             | 27,271         |
-| Accumulated depreciation as at July 1, 2024       | -              | (4,671)          | (2,777)                 | (1,161)              | (5,630)                | (1,737)                    | (744)                  | (42)           | (16,762)       |
-| Depreciation                                      | -              | (101)            | (45)                    | (25)                 | (266)                  | (43)                       | (35)                   | -              | (515)          |
-| Accumulated depreciation on deletions**           | -              | 1                | 5                       | 14                   | 86                     | 13                         | 26                     | -              | 145            |
-| Accumulated depreciation as at September 30, 2024 | -              | (4,771)          | (2,817)                 | (1,172)              | (5,810)                | (1,767)                    | (753)                  | (42)           | (17,132)       |
-| Carrying value as at July 1, 2024                 | 1,430          | 5,985            | 454                     | 219                  | 1,727                  | 413                        | 204                    | 3              | 10,435         |
-| Carrying value as at September 30, 2024           | 1,430          | 5,889            | 423                     | 229                  | 1,588                  | 387                        | 190                    | 3              | 10,139         |
+The percentage of revenue from fixed-price contracts for each of the three months ended September 30, 2025 and September 30, 2024 is 54%. The percentage of revenue from fixedprice contracts for each of the six months ended September 30, 2025 and September 30, 2024 is 54%.
+## Trade Receivables and Contract Balances
+The timing of revenue recognition, billings and cash collections results in receivables, unbilled revenue, and unearned revenue on the Group's Consolidated Balance Sheet. Amounts are billed as work progresses in accordance with agreed-upon contractual terms, either at periodic intervals (e.g., monthly or quarterly) or upon achievement of contractual milestones.
+The Group's receivables are rights to consideration that are unconditional. Unbilled revenues comprising revenues in excess of billings from time and material contracts and fixed price maintenance contracts are classified as financial asset when the right to consideration is unconditional and is due only after a passage of time.
+Invoicing to the clients for other fixed price contracts is based on milestones as defined in the contract and therefore the timing of revenue recognition is different from the timing of invoicing to the customers. Therefore, unbilled revenues for other fixed price contracts (contract asset) are classified as non-financial asset because the right to consideration is dependent on completion of contractual milestones.
+Invoicing in excess of earnings are classified as unearned revenue.
+Trade receivable and unbilled revenues are presented net of impairment in the consolidated balance sheet.
+## 2.17 Unbilled Revenue
+| Particulars                      | (Dollars in millions) As at   | (Dollars in millions) As at   |
+|----------------------------------|-------------------------------|-------------------------------|
+|                                  | September 30, 2025            | March 31, 2025                |
+| Unbilled financial asset (1)     | 1,261                         | 1,195                         |
+| Unbilled non financial asset (2) | 611                           | 569                           |
+| Total                            | 1,872                         | 1,764                         |
 
-The changes in the carrying value of property, plant and equipment for the six months ended  September 30, 2025 are as follows:
-| Particulars                                       | Land- Freehold   | Buildings (1)(2)   | Plant and machinery (2)   | Office Equipment (2)   | Computer equipment (2)   | Furniture and fixtures (2)   | Leasehold Improvements   | Vehicles   | Total    |
-|---------------------------------------------------|------------------|--------------------|---------------------------|------------------------|--------------------------|------------------------------|--------------------------|------------|----------|
-| Gross carrying value as at April 1, 2025          | 1,477            | 10,621             | 3,238                     | 1,423                  | 7,917                    | 2,126                        | 781                      | 46         | 27,629   |
-| Additions                                         | 20               | 3                  | 30                        | 43                     | 488                      | 26                           | 28                       | 1          | 639      |
-| Deletions**                                       | -                | (5)                | (7)                       | (14)                   | (375)                    | (60)                         | -                        | (4)        | (465)    |
-| Gross carrying value as at September 30, 2025     | 1,497            | 10,619             | 3,261                     | 1,452                  | 8,030                    | 2,092                        | 809                      | 43         | 27,803   |
-| Accumulated depreciation as at April 1, 2025      | -                | (4,964)            | (2,888)                   | (1,195)                | (6,062)                  | (1,796)                      | (611)                    | (43)       | (17,559) |
-| Depreciation                                      | -                | (200)              | (75)                      | (48)                   | (432)                    | (70)                         | (40)                     | (1)        | (866)    |
-| Accumulated depreciation on deletions**           | -                | 1                  | 7                         | 13                     | 365                      | 60                           | -                        | 4          | 450      |
-| Accumulated depreciation as at September 30, 2025 | -                | (5,163)            | (2,956)                   | (1,230)                | (6,129)                  | (1,806)                      | (651)                    | (40)       | (17,975) |
-| Carrying value as at April 1, 2025                | 1,477            | 5,657              | 350                       | 228                    | 1,855                    | 330                          | 170                      | 3          | 10,070   |
-| Carrying value as at September 30, 2025           | 1,497            | 5,456              | 305                       | 222                    | 1,901                    | 286                          | 158                      | 3          | 9,828    |
+(1) Right to consideration is unconditional and is due only after a passage of time.
+(2) Right to consideration is dependent on completion of contractual milestones.
+X
+## 2.18 Equity
+2
+A
+O
+## Ordinary Shares
+Ordinary shares are classified as equity. Incremental costs directly attributable to the issuance of new ordinary shares, share options and buyback are recognized as a deduction from equity, net of any tax effects.
+## Treasury Shares
+When any entity within the Group purchases the company's ordinary shares, the consideration paid including any directly attributable incremental cost is presented as a deduction from total equity, until they are cancelled, sold or reissued. When treasury shares are sold or reissued subsequently, the amount received is recognized as an increase in equity, and the resulting surplus or deficit on the transaction is transferred to/ from Share premium.
+## Share premium
+The amount received in excess of the par value has been classified as share premium. Additionally, share-based compensation recognized in net profit in the interim condensed consolidated statement of comprehensive income is credited to share premium. Amounts have been utilized for bonus issue and share buyback from share premium account.
+The Company has only one class of shares referred to as equity shares having a par value of ₹5/-.
+## Other Reserves
+The Special Economic Zone Re-investment reserve has been created out of the profit of the eligible SEZ unit in terms of the provisions of Sec 10AA (1)(ii) of Income Tax Act, 1961. The reserve should be utilized by the Company for acquiring new plant and machinery for the purpose of its business in terms of the provisions of the Sec 10AA (2) of the Income Tax Act, 1961.
+## Capital Redemption Reserve
+In accordance with section 69 of the Indian Companies Act, 2013, the Company creates capital redemption reserve equal to the nominal value of the shares bought back as an appropriation from general reserve / retained earnings.
+## Cash flow hedge reserve
+When a derivative is designated as a cash flow hedging instrument, the effective portion of changes in the fair value of the derivative is recognized in other comprehensive income and accumulated in the cash flow hedging reserve. The cumulative gain or loss previously recognized in the cash flow hedging reserve is transferred to the net profit in the interim condensed consolidated Statement of Comprehensive Income upon the occurrence of the related forecasted transaction.
+## Other components of equity
+Other components of equity include currency translation, re-measurement of net defined benefit liability/asset, fair value changes of equity instruments fair valued through other comprehensive income, changes on fair valuation of investments, net of taxes.
+## 2.18.1 Voting
+Each holder of equity shares is entitled to one vote per share. The equity shares represented by American Depositary Shares (ADS) carry similar rights to voting and dividends as the other equity shares. Each ADS represents one underlying equity share.
+## 2.18.2 Liquidation
+In the event of liquidation of the company, the holders of shares shall be entitled to receive any of the remaining assets of the company, after distribution of all preferential amounts. However, no such preferential amounts exist currently, other than the amounts held by irrevocable controlled trusts. The amount distributed will be in proportion to the number of equity shares held by the shareholders. For irrevocable controlled trusts, the corpus would be settled in favor of the beneficiaries.
+## 2.18.3 Share options
+There are no voting, dividend or liquidation rights to the holders of options issued under the company's share option plans.
+## 2.18.4 Share capital and share premium
+The Company has only one class of shares referred to as equity shares having a par value of ₹5/each. 9,091,403 shares and 9,655,927 shares were held by controlled trust, as at September 30, 2025 and March 31, 2025, respectively
+## 2.18.5 Capital allocation policy
+Effective fiscal 2025, the Company expects to continue its policy of returning approximately 85% of the free cash flow cumulatively over a 5-year period through a combination of semi-annual dividends and/or share buyback/ special dividends subject to applicable laws and requisite approvals, if any.
+Under this policy, the Company expects to progressively increase its annual dividend per share (excluding special dividend if any). Free cash flow is defined as net cash provided by operating activities less capital expenditure as per the consolidated statement of cash flows prepared under IFRS. Dividend and buyback include applicable taxes.
+## Update on buyback announced in September 2025
+The Board, at its meeting on September 11, 2025, approved a proposal for the Company to buyback its fully paid-up equity shares of face value of ₹5/each from the eligible equity shareholders of the Company for an amount of ₹18,000 crore, subject to shareholders' approval by way of Postal Ballot. The Buyback offer if approved by shareholders would comprise a purchase of 10,00,00,000 Equity Shares comprising approximately 2.41% of the total paid-up equity share capital of the Company as of June 30, 2025 (on standalone basis) at a price of ₹1,800 per Equity share. The buyback is proposed to be made from all eligible equity shareholders (including those who become equity shareholders as on the Record date by cancelling American Depository Shares and withdrawing underlying Equity shares) of the Company as on the Record Date (to be determined by the Board/ Buyback Committee) on a proportionate basis through the "Tender offer" route. The Company has sent out a notice to its shareholders as of September 26, 2025 seeking the approval of the shareholders through postal ballot. The voting for this postal ballot is expected to end on November 4, 2025.
+The Company's objective when managing capital is to safeguard its ability to continue as a going concern and to maintain an optimal capital structure so as to maximize shareholder value. In order to maintain or achieve an optimal capital structure, the Company may adjust the amount of dividend payment, return capital to shareholders, issue new shares or buy back issued shares. As of September 30, 2025, the Company has only one class of equity shares and has no debt. Consequent to the above capital structure there are no externally imposed capital requirements.
 
-*During the three months and six months ended September 30, 2025, certain assets which were not in use having gross book value of ₹210 crore (net book value: ₹Nil) and ₹410 crore (net book value: ₹Nil), respectively were retired.
-The changes in the carrying value of property, plant and equipment for the six months ended  September 30, 2024 are as follows:
-| Particulars                                       | Land- Freehold   | Buildings (1)(2)   | Plant and machinery (2)   | Office Equipment (2)   | Computer equipment (2)   | Furniture and fixtures (2)   | Leasehold Improvements   | Vehicles   | Total    |
-|---------------------------------------------------|------------------|--------------------|---------------------------|------------------------|--------------------------|------------------------------|--------------------------|------------|----------|
-| Gross carrying value as at April 1, 2024          | 1,430            | 10,679             | 3,214                     | 1,370                  | 7,379                    | 2,160                        | 963                      | 45         | 27,240   |
-| Additions                                         | -                | 24                 | 34                        | 48                     | 248                      | 26                           | 32                       | 1          | 413      |
-| Deletions**                                       | -                | (43)               | (8)                       | (17)                   | (229)                    | (32)                         | (52)                     | (1)        | (382)    |
-| Gross carrying value as at September 30, 2024     | 1,430            | 10,660             | 3,240                     | 1,401                  | 7,398                    | 2,154                        | 943                      | 45         | 27,271   |
-| Accumulated depreciation as at April 1, 2024      | -                | (4,575)            | (2,732)                   | (1,139)                | (5,497)                  | (1,709)                      | (733)                    | (42)       | (16,427) |
-| Depreciation                                      | -                | (202)              | (93)                      | (50)                   | (537)                    | (89)                         | (72)                     | (1)        | (1,044)  |
-| Accumulated depreciation on deletions**           | -                | 6                  | 8                         | 17                     | 224                      | 31                           | 52                       | 1          | 339      |
-| Accumulated depreciation as at September 30, 2024 | -                | (4,771)            | (2,817)                   | (1,172)                | (5,810)                  | (1,767)                      | (753)                    | (42)       | (17,132) |
-| Carrying value as at April 1, 2024                | 1,430            | 6,104              | 482                       | 231                    | 1,882                    | 451                          | 230                      | 3          | 10,813   |
-| Carrying value as at September 30, 2024           | 1,430            | 5,889              | 423                       | 229                    | 1,588                    | 387                          | 190                      | 3          | 10,139   |
+## Dividend
+The final dividend on shares is recorded as a liability on the date of approval by the shareholders and interim dividends are recorded as a liability on the date of declaration by the Company's Board of Directors. Income tax consequences of dividends on financial instruments classified as equity will be recognized according to where the entity originally recognized those past transactions or events that generated distributable profits.
+The Company declares and pays dividends in Indian rupees. Companies are required to pay/distribute dividend after deducting applicable taxes. The remittance of dividends outside India is governed by Indian law on foreign exchange and is also subject to withholding tax at applicable rates.
+The amount of per share dividend recognized as distribution to equity shareholders is as follows:
+| Particulars                      | Six months ended September 30, 2025   | Six months ended September 30, 2025   | Six months ended September 30, 2024   | Six months ended September 30, 2024   |
+|----------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|
+|                                  | in ₹                                  | in US Dollars                         | in ₹                                  | in US Dollars                         |
+| Final dividend for fiscal 2025   | 22.00                                 | 0.26                                  | -                                     | -                                     |
+| Special dividend for fiscal 2024 | -                                     | -                                     | 8.00                                  | 0.10                                  |
+| Final dividend for fiscal 2024   | -                                     | -                                     | 20.00                                 | 0.24                                  |
 
-**During the three months and six months ended September 30, 2024, certain assets which were not in use having gross book value of ₹92 crore (net book value: ₹Nil) and ₹193 crore (net book value: ₹Nil), respectively were retired.
-(1) Buildings include ₹250/- being the value of five shares of ₹50/- each in Mittal Towers Premises Co-operative Society Limited.
-(2) Includes certain assets provided on cancellable operating lease to subsidiaries.
-The aggregate depreciation has been included under depreciation and amortization expense in the condensed standalone statement of Profit and Loss.
-Repairs and maintenance costs are recognized in the condensed standalone statement of Profit and Loss when incurred.
-
-## 2.2 GOODWILL AND INTANGIBLE ASSETS
-## 2.2.1 Goodwill
-Following is a summary of changes in the carrying amount of goodwill:
-|                                 | (In ₹ crore)       | (In ₹ crore)   |
-|---------------------------------|--------------------|----------------|
-|                                 | September 30, 2025 | March 31, 2025 |
-| Carrying value at the beginning | 211                | 211            |
-| Carrying value at the end       | 211                | 211            |
-
-## 2.2.2 Other Intangible Assets
-## Accounting Policy
-Intangible assets are stated at cost less accumulated amortization and impairment. Intangible assets are amortized over their respective individual estimated useful lives on a straight-line basis, from the date that they are available for use. The estimated useful life of an identifiable intangible asset is based on a number of factors including the effects of obsolescence, demand, competition, and other economic factors (such as the stability of the industry, and known technological advances), and the level of maintenance expenditures required to obtain the expected future cash flows from the asset. Amortization methods and useful lives are reviewed periodically including at each financial year end.
-Research costs are expensed as incurred. Software product development costs are expensed as incurred unless technical and commercial feasibility of the project is demonstrated, future economic benefits are probable, the Company has an intention and ability to complete and use or sell the software and the costs can be measured reliably. The costs which can be capitalized include the cost of material, direct labor, overhead costs that are directly attributable to prepare the asset for its intended use.
-## 2.3 LEASES
-## The Company as a lessee
-The Company's lease asset classes primarily consist of leases for land, buildings and computers. The Company assesses whether a contract contains a lease, at inception of a contract. A contract is, or contains, a lease if the contract conveys the right to control the use of an identified asset for a period of time in exchange for consideration. To assess whether a contract conveys the right to control the use of an identified asset, the Company assesses whether: (i) the contract involves the use of an identified asset (ii) the Company has substantially all of the economic benefits from use of the asset through the period of the lease and (iii) the Company has the right to direct the use of the asset.
-At the date of commencement of the lease, the Company recognizes a right-of-use asset ('ROU') and a corresponding lease liability for all lease arrangements in which it is a lessee, except for leases with a term of twelve months or less (short-term leases) and low value leases. For these short-term and low value leases, the Company recognizes the lease payments as an operating expense on a straight-line basis over the term of the lease.
-As a lessee, the Company determines the lease term as the non-cancellable period of a lease adjusted with any option to extend or terminate the lease, if the use of such option is reasonably certain. The Company makes an assessment on the expected lease term on a lease-by-lease basis and thereby assesses whether it is reasonably certain that any options to extend or terminate the contract will be exercised. In evaluating the lease term, the Company considers factors such as any significant leasehold improvements undertaken over the lease term, costs relating to the termination of the lease and the importance of the underlying asset to Infosys's operations taking into account the location of the underlying asset and the availability of suitable alternatives. The lease term in future periods is reassessed to ensure that the lease term reflects the current economic circumstances.
-Certain lease arrangements include the options to extend or terminate the lease before the end of the lease term. ROU assets and lease liabilities includes these options when it is reasonably certain that they will be exercised.
-The right-of-use assets are initially recognized at cost, which comprises the initial amount of the lease liability adjusted for any lease payments made at or prior to the commencement date of the lease plus any initial direct costs less any lease incentives. They are subsequently measured at cost less accumulated depreciation and impairment losses.
-Right-of-use assets are depreciated from the commencement date on a straight-line basis over the shorter of the lease term and useful life of the underlying asset. Right-of-use assets are evaluated for recoverability whenever events or changes in circumstances indicate that their carrying amounts may not be recoverable. For the purpose of impairment testing, the recoverable amount (i.e. the higher of the fair value less cost to sell and the value-in-use) is determined on an individual asset basis unless the asset does not generate cash flows that are largely independent of those from other assets. In such cases, the recoverable amount is determined for the Cash Generating Unit (CGU) to which the asset belongs.
-The lease liability is initially measured at amortized cost at the present value of the future lease payments. The lease payments are discounted using the interest rate implicit in the lease or, if not readily determinable, using the incremental borrowing rates in the country of domicile of these leases. Lease liabilities are remeasured with a corresponding adjustment to the related right of use asset if the Company changes its assessment if whether it will exercise an extension or a termination option.
-Lease liability and ROU asset have been separately presented in the Balance Sheet and lease payments have been classified as financing cash flows.
-## The Company as a lessor
-Leases for which the Company is a lessor is classified as a finance or operating lease. Whenever the terms of the lease transfer substantially all the risks and rewards of ownership to the lessee, the contract is classified as a finance lease. All other leases are classified as operating leases.
-When the Company is an intermediate lessor, it accounts for its interests in the head lease and the sublease separately. The sublease is classified as a finance or operating lease by reference to the right-of-use asset arising from the head lease.
-For operating leases, rental income is recognized on a straight line basis over the term of the relevant lease.
-Following are the changes in the carrying value of right-of-use assets for the three months ended September 30, 2025:
-| Particulars                      |      | ROU asset   |           | (In ₹ crore) Total   |
-|----------------------------------|------|-------------|-----------|----------------------|
-|                                  | Land | Buildings   | Computers |                      |
-| Balance as at July 1, 2025       | 529  | 2,154       | 518       | 3,201                |
-| Additions*                       | -    | 64          | 85        | 149                  |
-| Deletions                        | -    | -           | (49)      | (49)                 |
-| Depreciation                     | (1)  | (101)       | (62)      | (164)                |
-| Balance as at September 30, 2025 | 528  | 2,117       | 492       | 3,137                |
-
-* Net of adjustments on account of modifications
-
-Following are the changes in the carrying value of right-of-use assets for the three months ended  September 30, 2024:
-| Particulars                      | Category of ROU asset   | Category of ROU asset   | Category of ROU asset   | (In ₹ crore) Total   |
-|----------------------------------|-------------------------|-------------------------|-------------------------|----------------------|
-|                                  | Land                    | Buildings               | Computers               |                      |
-| Balance as at July 1, 2024       | 533                     | 2,237                   | 517                     | 3,287                |
-| Additions*                       | -                       | (10)                    | 175                     | 165                  |
-| Deletions                        | -                       | -                       | (26)                    | (26)                 |
-| Depreciation                     | (1)                     | (94)                    | (62)                    | (157)                |
-| Balance as at September 30, 2024 | 532                     | 2,133                   | 604                     | 3,269                |
-
-* Net of adjustments on account of modifications
-
-Following are the changes in the carrying value of right-of-use assets for the six months ended September 30, 2025:
-| Particulars                      |      | ROU asset   |           | (In ₹ crore) Total   |
-|----------------------------------|------|-------------|-----------|----------------------|
-|                                  | Land | Buildings   | Computers |                      |
-| Balance as at April 1, 2025      | 530  | 2,105       | 443       | 3,078                |
-| Additions*                       | -    | 230         | 286       | 516                  |
-| Deletions                        | -    | (1)         | (111)     | (112)                |
-| Depreciation                     | (2)  | (217)       | (126)     | (345)                |
-| Balance as at September 30, 2025 | 528  | 2,117       | 492       | 3,137                |
-
-* Net of adjustments on account of modifications Following are the changes in the carrying value of right-of-use assets for the six months ended September 30, 2024:
-
-|                                  |      |                     |           | (In ₹ crore) Total   |
-|----------------------------------|------|---------------------|-----------|----------------------|
-| Particulars                      | Land | Buildings ROU asset | Computers |                      |
-| Balance as at April 1, 2024      | 534  | 2,266               | 503       | 3,303                |
-| Additions*                       | -    | 78                  | 284       | 362                  |
-| Deletions                        | -    | -                   | (69)      | (69)                 |
-| Depreciation                     | (2)  | (211)               | (114)     | (327)                |
-| Balance as at September 30, 2024 | 532  | 2,133               | 604       | 3,269                |
-
-* Net of adjustments on account of modifications
-
-The aggregate depreciation expense on ROU assets is included under depreciation and amortization expense in the interim condensed statement of Profit and Loss.
-The following is the break-up of current and non-current lease liabilities as at September 30, 2025 and March 31, 2025:
-|                               | (In ₹ crore)       | (In ₹ crore)   |
-|-------------------------------|--------------------|----------------|
-|                               | September 30, 2025 | March 31, 2025 |
-| Current lease liabilities     | 849                | 765            |
-| Non-current lease liabilities | 2,950              | 2,694          |
-| Total                         | 3,799              | 3,459          |
-
-## 2.4 INVESTMENTS
-|                                             | (In ₹ crore)       | (In ₹ crore)   |
-|---------------------------------------------|--------------------|----------------|
-| Particulars                                 | As at              | As at          |
-|                                             | September 30, 2025 | March 31, 2025 |
-| Non-current investments                     |                    |                |
-| Equity instruments of subsidiaries          | 14,509             | 13,724         |
-| Redeemable Preference shares of subsidiary  | 2,831              | 2,831          |
-| Preference securities and equity securities | 282                | 251            |
-| Target maturity fund units                  | 483                | 465            |
-| Others                                      | 64                 | 61             |
-| Tax free bonds                              | 409                | 1,465          |
-| Government bonds                            | -                  | 14             |
-| Non-convertible debentures                  | 5,342              | 3,320          |
-| Government Securities                       | 4,109              | 5,240          |
-| Total non-current investments               | 28,029             | 27,371         |
-| Current investments                         |                    |                |
-| Liquid mutual fund units                    | 4,114              | 1,185          |
-| Commercial Papers                           | 1,551              | 3,442          |
-| Certificates of deposit                     | 4,596              | 3,257          |
-| Tax free bonds                              | 50                 | 154            |
-| Government bonds                            | 15                 | -              |
-| Government Securities                       | 72                 | 1,560          |
-| Non-convertible debentures                  | 546                | 1,549          |
-| Total current investments                   | 10,944             | 11,147         |
-| Total carrying value                        | 38,973             | 38,518         |
-
-| Particulars                                                                                                                                         | (In ₹ crore, except as otherwise stated)   | (In ₹ crore, except as otherwise stated)   |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|--------------------------------------------|
-|                                                                                                                                                     | September 30, 2025 As                      | March 31, 2025                             |
-| Non-current investments                                                                                                                             |                                            |                                            |
-| Unquoted                                                                                                                                            |                                            |                                            |
-| Investment carried at cost                                                                                                                          |                                            |                                            |
-| Infosys BPM Limited                                                                                                                                 | 662                                        | 662                                        |
-| 33,828 (33,828) equity shares of ₹10,000/- each, fully paid up Infosys Technologies (China) Co. Limited                                             | 369                                        | 369                                        |
-| Infosys Technologies, S. de R.L. de C.V., Mexico shares of MXN1par value, fully                                                                     | 65                                         | 65                                         |
-| 17,49,99,990 (17,49,99,990) equity Infosys Technologies (Sweden) AB                                                                                 | 76                                         | 76                                         |
-| 1,000 (1,000) equity shares of SEK 100 par value, fully paid Infosys Technologies (Shanghai) Company Limited                                        | 1,010                                      | 1,010                                      |
-| Infosys Public Services, Inc.                                                                                                                       | 99                                         | 99                                         |
-| 3,50,00,000 (3,50,00,000) shares of USD 0.50 par value, fully paid Infosys Consulting Holding AG                                                    | 1,323                                      | 1,323                                      |
-| 23,350 (23,350) - Class Ashares of CHF 1,000 each and 26,460 (26,460) - Class B Shares of CHF 100 each, fully paid up EdgeVerve Systems Limited     | 1,312                                      | 1,312                                      |
-| 1,31,18,40,000 (1,31,18,40,000) equity shares of ₹10/- each, fully paid Infosys Nova Holdings LLC #                                                 | 3,308                                      | 3,017                                      |
-| Infosys Singapore Pte Ltd                                                                                                                           | 4,821                                      | 4,327                                      |
-| 2,88,39,411 (2,73,19,411) shares Brilliant Basics Holding Limited                                                                                   | 59                                         | 59                                         |
-| 1,346 (1,346) shares of GBP 0.005 each, fully paid up Infosys Arabia Limited 70 (70) shares                                                         | 2                                          | 2                                          |
-| Panaya Inc. 2 (2) shares of USD 0.01 per share, fully paid up                                                                                       | 582                                        | 582                                        |
-| Infosys Chile SpA 100 (100) shares                                                                                                                  | 7                                          | 7 26                                       |
-| Infosys Luxembourg S.a r.l. 30,000 (30,000) shares                                                                                                  | 26                                         |                                            |
-| Infosys Austria GmbH 80,000 (80,000) shares                                                                                                         | -                                          | -                                          |
-| of EUR 1 par value, fully paid up Infosys Consulting Brazil                                                                                         | 337                                        | 337                                        |
-| 27,50,71,070 (27,50,71,070) shares of BRL 1 per share, fully paid up Infosys Consulting S.R.L. (Romania)                                            | 34                                         | 34                                         |
-| 99,183 (99,183) shares ofRON 100 per share, fully paid up Infosys Limited Bulgaria EOOD 4,58,000 (4,58,000) shares ofBGN 1 per share, fully paid up | 2                                          | 2                                          |
-| Infosys Germany Holdings GmbH 25,000 (25,000) shares EUR 1 per share, fully paid up                                                                 | 2                                          | 2                                          |
-| Infosys Green Forum 10,00,000 (10,00,000) shares ₹10 per share, fully paid up                                                                       | 1                                          | 1                                          |
-| Infosys Automotive and MobilityGmbH                                                                                                                 |                                            |                                            |
-| Infosys Turkey Bilgi Teknolojileri Limited Sirketi 27,70,326 (27,70,326) share Turkish Liras 100 (10,000) per share, fully                          | 15 79                                      | 15 79                                      |
-| Infosys Consulting S.R.L. (Argentina) 2,94,500 (2,94,500) shares AR$ 100 per share, fully paid up Infosys Business Solutions LLC                    | 2                                          | 2                                          |
-| 10,000 (10,000) shares USD 100 per share, fully paid up                                                                                             | 8 82                                       | 8 82                                       |
-| Idunn Information Technology Private Limited 3,27,788 (3,27,788) shares ₹ 10 per share fully paid up InSemi Technology Services Private Limited     |                                            |                                            |
-| 10,33,440 (10,33,440) shares ₹ 10 per share fully paid up in-tech Group India Private Limited 10,000 (10,000) shares ₹ 10 per share fully paid up   | 198                                        | 198                                        |
-| Infosys Services (Thailand) Limited 49,99,998 (49,99,998) shares THB 10 per share fully paid                                                        | 15                                         | 15                                         |
-| up                                                                                                                                                  | 13                                         | 13                                         |
-| Investments in Redeemable Preference shares of subsidiary Infosys Singapore Pte Ltd                                                                 | 2,831                                      | 2,831                                      |
-| 51,02,00,000 (51,02,00,000 ) shares                                                                                                                 |                                            |                                            |
-|                                                                                                                                                     | 17,340                                     | 16,555                                     |
-
-| Particulars                                                                  | (In ₹ crore, except as otherwise stated)   | (In ₹ crore, except as otherwise stated)   |
-|------------------------------------------------------------------------------|--------------------------------------------|--------------------------------------------|
-|                                                                              | September 30, 2025 As                      | March 31, 2025                             |
-| Investments carried at fair value through profit or loss                     |                                            |                                            |
-| Target maturity fund units                                                   | 483                                        | 465                                        |
-| Equity and Preference securities                                             | 25                                         | 25                                         |
-| Others (1)                                                                   | 64                                         | 61                                         |
-|                                                                              | 572                                        | 551                                        |
-| Investments carried at fair value through other comprehensive income         |                                            |                                            |
-| Preference securities                                                        | 172                                        | 167                                        |
-| Equity securities                                                            | 2                                          | 2                                          |
-|                                                                              | 174                                        | 169                                        |
-| Quoted                                                                       |                                            |                                            |
-| Investments carried at amortized cost                                        |                                            |                                            |
-| Tax free bonds                                                               | 409                                        | 1,465                                      |
-| Government bonds                                                             | -                                          | 14                                         |
-|                                                                              | 409                                        | 1,479                                      |
-| Investments carried at fair value through other comprehensive income         |                                            |                                            |
-| Non-convertible debentures                                                   | 5,342                                      | 3,320                                      |
-| Equity Securities                                                            | 83                                         | 57                                         |
-| Government Securities                                                        | 4,109                                      | 5,240                                      |
-|                                                                              | 9,534                                      | 8,617                                      |
-| Total non-current investments                                                | 28,029                                     | 27,371                                     |
-| Current investments                                                          |                                            |                                            |
-| Unquoted                                                                     |                                            |                                            |
-| Investments carried at fair value through profit or loss                     |                                            |                                            |
-| Liquid mutual fund units                                                     | 4,114                                      | 1,185                                      |
-|                                                                              | 4,114                                      | 1,185                                      |
-| Investments carried at fair value through other comprehensive income         |                                            |                                            |
-| Commercial Papers                                                            | 1,551                                      | 3,442                                      |
-| Certificates of deposit                                                      | 4,596                                      | 3,257                                      |
-|                                                                              | 6,147                                      | 6,699                                      |
-| Quoted                                                                       |                                            |                                            |
-| Investments carried at amortized cost                                        |                                            |                                            |
-| Tax free bonds                                                               | 50                                         | 154                                        |
-| Government bonds                                                             | 15                                         | -                                          |
-|                                                                              | 65                                         | 154                                        |
-| Investments carried at fair value through other comprehensive income         |                                            |                                            |
-| Government Securities                                                        | 72                                         | 1,560                                      |
-| Non-convertible debentures                                                   | 546                                        | 1,549                                      |
-|                                                                              | 618                                        | 3,109                                      |
-| Total current investments                                                    | 10,944                                     | 11,147                                     |
-| Total investments                                                            | 38,973                                     | 38,518                                     |
-| Aggregate amount of quoted investments                                       | 10,626                                     | 13,359                                     |
-| Market value of quoted investments (including interest accrued), current     | 684                                        | 3,266                                      |
-| Market value of quoted investments (including interest accrued), non-current | 9,951                                      | 10,269                                     |
-| Aggregate amount of unquoted investments                                     | 28,347                                     | 25,159                                     |
-| # Aggregate amount of impairment in value of investments                     | 94                                         | 94                                         |
-| Reduction in the fair value of assets held for sale                          | 854                                        | 854                                        |
-| Investments carried at cost                                                  | 17,340                                     | 16,555                                     |
-| Investments carried at amortized cost                                        | 474                                        | 1,633                                      |
-| Investments carried at fair value through profit or loss                     |                                            |                                            |
-|                                                                              | 4,686                                      | 1,736                                      |
-
-(1) Uncalled capital commitments outstanding as of September 30, 2025 and March 31, 2025 was ₹26 crore and ₹27 crore, respectively.
-Refer to note 2.10 for accounting policies on financial instruments.
+The Board of Directors in their meeting held on April 17, 2025 recommended a final dividend of ₹22/per equity share (approximately $0.26 per equity share) for the financial year ended March 31, 2025. The same was approved by the shareholders at the Annual General Meeting (AGM) of the Company held on June 25, 2025 which resulted in a net cash outflow of $1,062 million, excluding dividend paid on treasury shares. The final dividend was paid on June 30, 2025.
+The Board of Directors in their meeting held on October 16, 2025 declared an interim dividend of ₹23/per equity share (approximately $0.26 per equity share) which would result in a net cash outflow of approximately ₹9,534 crore ($1,074 million) excluding dividend paid on treasury shares.
+X
+## 2.19 Break-up of expenses and other income, net
+2
+0
+A
+O
+## 2.19.1 Gratuity and Pensions
+The Group provides for gratuity, a defined benefit retirement plan ('the Gratuity Plan') covering eligible employees majorly of Infosys and its Indian subsidiaries. The Gratuity Plan provides a lump-sum payment to vested employees at retirement, death, incapacitation or termination of employment, of an amount based on the respective employee's salary and the tenure of employment with the Group. The Company contributes Gratuity liabilities to the Infosys Limited Employees' Gratuity Fund Trust (the Trust). In case of Infosys BPM and EdgeVerve, contributions are made to the Infosys BPM Employees' Gratuity Fund Trust and EdgeVerve Systems Limited Employees' Gratuity Fund Trust, respectively. Trustees administer contributions made to the Trusts and contributions are invested in a scheme with the Life Insurance Corporation of India as permitted by Indian law.
+The Group operates defined benefit pension plan in certain overseas jurisdictions, in accordance with the local laws. These plans are managed by third party fund managers. The plans provide for periodic payouts after retirement or for a lumpsum payment as set out in rules of each fund and includes death and disability benefits. The defined benefit plans require contributions which are based on a percentage of salary that varies depending on the age of the respective employees.
+Liabilities with regard to these defined benefit plans are determined by actuarial valuation, performed by an external actuary, at each Balance Sheet date using the projected unit credit method. These defined benefit plans expose the Group to actuarial risks, such as longevity risk, interest rate risk and market risk.
+The Group recognizes the net obligation of a defined benefit plan in its Balance Sheet as an asset or liability. Gains and losses through re-measurements of the net defined benefit liability/(asset) are recognized in other comprehensive income and are not reclassified to profit or loss in subsequent periods. The actual return of the portfolio of plan assets, in excess of the yields computed by applying the discount rate used to measure the defined benefit obligation is recognized in other comprehensive income. The effect of any plan amendments is recognized in net profits in the interim condensed consolidated statement of comprehensive income.
+## 2.19.2 Superannuation
+Certain employees of Infosys, Infosys BPM and EdgeVerve are participants in a defined contribution plan. The Group has no further obligations to the Plan beyond its monthly contributions which are periodically contributed to a trust fund, the corpus of which is invested with the Life Insurance Corporation of India.
+## 2.19.3 Provident fund
+Eligible employees of Infosys receive benefits from a provident fund, which is a defined benefit plan. Both the eligible employee and the company make monthly contributions to the provident fund plan equal to a specified percentage of the covered employee's salary. The company contributes a portion of the contributions to the Infosys Limited Employees' Provident Fund Trust. The trust invests in specific designated instruments as permitted by Indian law. The remaining portion is contributed to the government administered pension fund. The rate at which the annual interest is payable to the beneficiaries by the trust is being administered by the Government of India. The company has an obligation to make good the shortfall, if any, between the return from the investments of the Trust and the notified interest rate.
+In respect of Indian subsidiaries, eligible employees receive benefits from a provident fund, which is a defined contribution plan. Both the eligible employee and the respective companies make monthly contributions to this provident fund plan equal to a specified percentage of the covered employee's salary. Amounts collected under the provident fund plan are deposited in a government administered provident fund. The companies have no further obligation to the plan beyond its monthly contributions.
+## 2.19.4 Compensated absences
+The Group has a policy on compensated absences which are both accumulating and non-accumulating in nature. The expected cost of accumulating compensated absences is determined by actuarial valuation performed by an external actuary at each balance sheet date using projected unit credit method on the additional amount expected to be paid/availed as a result of the unused entitlement that has accumulated at the balance sheet date. Expense on non-accumulating compensated absences is recognized in the period in which the absences occur.
+## 2.19.5 Other income, net
+Other income is comprised primarily of interest income, dividend income, gain/loss on investment and exchange gain/loss on forward and options contracts and on translation of foreign currency assets and liabilities. Interest income is recognized using the effective interest method. Dividend income is recognized when the right to receive payment is established.
+## 2.19.6 Foreign Currency
+## Functional currency and presentation currency
+The functional currency of Infosys, its Indian subsidiaries and controlled trusts is the Indian rupee. The functional currencies for foreign subsidiaries are their respective local currencies. These financial statements are presented in U.S. dollars (rounded off to the nearest million) to facilitate the investors' ability to evaluate Infosys' performance and financial position in comparison to similar companies domiciled in other geographic locations.
+## Transactions and translations
+Foreign-currency denominated monetary assets and liabilities are translated into the relevant functional currency at exchange rates in effect at the Balance Sheet date. The gains or losses resulting from such translations are recognized in the interim condensed Consolidated Statement of Comprehensive Income and reported within exchange gains/ (losses) on translation of assets and liabilities, net, except when deferred in Other Comprehensive Income as qualifying cash flow hedges. Non-monetary assets and nonmonetary liabilities denominated in a foreign currency and measured at fair value are translated at the exchange rate prevalent at the date when the fair value was determined. Non-monetary assets and non-monetary liabilities denominated in a foreign currency and measured at historical cost are translated at the exchange rate prevalent at the date of transaction. The related revenue and expense are recognized using the same exchange rate.
+Transaction gains or losses realized upon settlement of foreign currency transactions are included in determining net profit for the period in which the transaction is settled. Revenue, expense and cash-flow items denominated in foreign currencies are translated into the relevant functional currencies using the exchange rate in effect on the date of the transaction.
+The translation of financial statements of the foreign subsidiaries to the presentation currency is performed for assets and liabilities using the exchange rate in effect at the Balance Sheet date and for revenue, expense and cash-flow items using the average exchange rate for the respective periods. The gains or losses resulting from such translation are included in currency translation reserves under other components of equity. When a subsidiary is disposed off, in full, the relevant amount is transferred to net profit in the Statement of Comprehensive Income. However, when a change in the parent's ownership does not result in loss of control of a subsidiary, such changes are recorded through equity.
+Other Comprehensive Income, net of taxes includes translation differences on non-monetary financial assets measured at fair value at the reporting date, such as equities classified as financial instruments and measured at fair value through other comprehensive income (FVOCI).
+Goodwill and fair value adjustments arising on the acquisition of a foreign entity are treated as assets and liabilities of the foreign entity and translated at the exchange rate in effect at the Balance Sheet date.
+## 2.19.7 Government grants
+The Group recognizes government grants only when there is reasonable assurance that the conditions attached to them shall be complied with, and the grants will be received. Government grants related to assets are treated as deferred income and are recognized in the net profit in the statement of comprehensive income on a systematic and rational basis over the useful life of the asset. Government grants related to revenue are recognized on a systematic basis in the statement of comprehensive income over the periods necessary to match them with the related costs which they are intended to compensate.

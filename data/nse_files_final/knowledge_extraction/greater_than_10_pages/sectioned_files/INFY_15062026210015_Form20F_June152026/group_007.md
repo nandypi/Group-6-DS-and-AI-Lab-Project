@@ -1,302 +1,66 @@
 ---
 document_name: "INFY_15062026210015_Form20F_June152026.md"
 group_id: "INFY_15062026210015_Form20F_June152026__group_007"
-source_section_count: 3
-page_start: 79
-page_end: 90
-estimated_tokens: 8296
+source_section_count: 2
+page_start: 42
+page_end: 48
+estimated_tokens: 4508
 source_section_ids:
-  - "INFY_15062026210015_Form20F_June152026__024"
-  - "INFY_15062026210015_Form20F_June152026__025"
-  - "INFY_15062026210015_Form20F_June152026__026"
+  - "INFY_15062026210015_Form20F_June152026__013"
+  - "INFY_15062026210015_Form20F_June152026__014"
 ---
 
-## Results for Fiscal 2026 compared to Fiscal 2025
-During  fiscal  2026,  the  Company  continued  running  Project  Maximus,  a  comprehensive  margin  expansion  program structured across 5 pillars:
-- Value  Based  Selling  A  focused  strategy  to  identify  opportunities  to  align  pricing  to  the  value  clients received for the services we provide to them.
-- Efficient Pyramid Bringing in efficiencies to reduce effort costs by improving utilization, reducing subcontractors, improving role mix, location mix, etc.
-- Lean, Automation &amp; Gen AI Strategic initiative to combine productivity and process improvement using automation technologies including Generative AI to enhance efficiency.
-- Improving  key  portfolios  A  targeted  approach  to  improve  margins  on  large  client  engagements  and service lines.
-- Optimization of indirect costs - Investing in strategic areas like talent, AI and sales &amp; marketing using the saving from Project Maximus.
+## VIII.    Risks related to the ADSs
+## Historically, our ADSs have traded at a premium to the trading prices of our underlying equity shares. Currently, they do not do so, and they may not continue to do so in the future.
+In the past, our ADSs have traded at a premium to the trading prices of our underlying equity shares on the Indian stock exchanges.  We  believe  that  this  price  premium  has  resulted  from  the  relatively  small  portion  of  our  market capitalization previously represented by ADSs, restrictions imposed by Indian law on the conversion of equity shares into  ADSs and an apparent preference of some investors to trade dollar-denominated securities. We have completed three secondary ADS offerings which significantly increased the number of our outstanding ADSs. Also, over time, the restrictions on the issuance of ADSs imposed by Indian law have been relaxed. As a result, our ADSs do not command any premium currently and may not trade at a premium in the future.
+If a substantial amount of our ADSs is converted into underlying equity shares in India, it could affect the liquidity of such ADSs on the New York Stock Exchange and could impact the price of our ADSs.
+## Sales of our equity shares may adversely affect the prices of our equity shares and ADSs.
+Sales of substantial amounts of our equity shares, including sales by our insiders in the public market, or the perception that such sales may occur, could adversely affect the prevailing market price of our equity shares, ADSs or our ability to raise capital through an offering of our securities. In the future, we may also sponsor the sale of shares currently held by some of our shareholders as we have done in the past, or issue new shares. We can make no prediction as to the timing of any such sales or the effect, if any, that future sales of our equity shares, or the availability of our equity shares for future sale, will have on the market price of our equity shares or ADSs prevailing from time to time.
+## The  price  of  our  ADSs  and  the  U.S.  dollar  value  of  any  dividends  we  declare  may  be  negatively  affected  by fluctuations in the U.S. dollar to Indian rupee exchange rate.
+Fluctuations  in  the  exchange  rate  between  the  Indian  rupee  and  the  U.S.  dollar  will  affect  the  dollar  conversion  by Deutsche  Bank  Trust  Company  Americas,  the  Depositary  with  respect  to  our  ADSs,  of  any  cash  dividends  paid  in Indian rupees on the equity shares represented by the ADSs.
+## An investor in our ADSs may not be able to exercise pre-emptive rights for additional shares and may thereby suffer dilution of such investor's equity interest in us.
+Under the Indian Companies Act, 2013, a company incorporated in India must offer its holders of equity shares preemptive  rights  to  subscribe  and  pay  for  a  proportionate  number  of  shares  to  maintain  their  existing  ownership percentages prior to the issuance of any new equity shares, unless such pre-emptive rights have been waived by threefourths of the shareholders (based on percentage of shareholding in the company) voting on the resolution to waive such rights.  Holders  of  ADSs  may  be  unable  to  exercise  pre-emptive  rights  for  equity  shares  underlying  ADSs  unless  a registration statement under the Securities Act of 1933 as amended ('the Securities Act') is effective with respect to such rights or an exemption from the registration requirements of the Securities Act is available. We are not obligated to prepare and file such a registration statement and our decision to do so will depend on the costs and potential liabilities associated with any such registration statement, as well as the perceived benefits of enabling the holders of ADSs to exercise their pre-emptive rights, and any other factors we consider appropriate at the time. No assurance can be given that we would file a registration statement under these circumstances. If we issue any such securities in the future, such securities may be issued to the Depositary, which may sell such securities for the benefit of the holders of the ADSs. There can be no assurance as to the value, if any, the Depositary would receive upon the sale of such securities. To the extent that holders of ADSs are unable to exercise pre-emptive rights granted in respect of the equity shares represented by their ADSs, their proportional interests in us would be reduced.
+## ADS holders may be restricted in their ability to exercise voting rights.
+The  SEBI  Listing  Regulations  and  the  Indian  Companies  Act,  2013  provide  that  an  e-voting  facility  must  be mandatorily  provided  to  all  shareholder  resolutions  in  accordance  with  prescribed  procedure  under  the  Indian Companies Act, 2013. This may mean that ADS holders may be able to vote on our resolutions irrespective of where they are located or whether they are able to attend the meetings of shareholders. At our request, the Depositary will electronically  mail  to  holders  of  our  ADSs  any  notice  of shareholders' meeting  received  from  us  together  with information explaining how to instruct the Depositary to exercise the voting rights of the securities represented by ADSs. If the Depositary receives voting instructions from a holder of our ADSs in time, relating to matters that have been forwarded to such holder, it will endeavor to vote the securities represented by such holder's ADSs in accordance with such voting instructions. However, the ability of the Depositary to carry out voting instructions may be limited by practical and legal limitations and the terms of the securities on deposit. We cannot assure that holders of our ADSs will receive voting materials in time to enable such holders to return voting instructions to the Depositary in a timely manner.  Securities  for  which  no  voting  instructions  have  been  received  will  not  be  voted.  There  may  be  other communications, notices or offerings that we only make to holders of our equity shares, which will not be forwarded to holders of ADSs. Accordingly, holders of our ADSs may not be able to participate in all offerings, transactions or votes that are made available to holders of our equity shares.
+## ADS holders may be restricted in their ability to participate in a buy-back of shares offered by us.
+Under Indian law, a company may acquire its own equity shares without seeking the approval of the court or tribunal in compliance with prescribed rules, regulations and conditions of the Indian Companies Act, 2013. In addition, public companies which are listed on a recognized stock exchange in India must comply with the provisions of the SEBI (Buy-back of Securities) Regulations, 2018 as amended from time to time ('Buy-back regulations'). Since we are a public  company  listed  on  two  recognized  stock  exchanges  in  India,  we  would  have  to  comply  with  the  relevant provisions  of  the  Indian  Companies  Act,  2013  and  the  provisions  of  the  Buy-back  Regulations.  In  order  for  ADS holders to participate in our purchase of our own shares under the tender offer route, we must obtain exemptive relief from  the  U.S.  Securities  and  Exchange  Commission  and  the  ADS  holders  need  to  take  certain  actions  in  order  to convert the ADSs into equity shares and tender the equity shares into the tender offer.
+## It may be difficult for holders of our ADSs to enforce any judgment obtained in the United States against us.
+As we are incorporated under the laws of India and are primarily located outside the United States, holders of our ADSs may find it difficult to effect service of process upon us outside the United States. In addition, holders of our ADSs may be unable to enforce judgments against us if such judgments are obtained in courts of the United States, including judgments predicated solely upon the federal securities laws of the United States.
+The United States and India do not currently have a treaty providing for reciprocal recognition and enforcement of judgments (other than arbitration awards) in civil and commercial matters. Therefore, a final judgment for the payment of  money rendered by any federal or state court in the United States on the basis of civil liability, whether or not predicated solely upon the federal securities laws of the United States, would not be executable by an Indian court. However, the party in whose favor such final judgment is rendered may bring a new suit in a competent court in India based on a final judgment that has been obtained in the United States. The suit must be brought in India within three years from the date of the judgment by court in the United States in the same manner as any other suit filed to enforce a civil liability in India. It is unlikely that a court in India would award damages on the same basis as a foreign court if an action is brought in India. Furthermore, it is unlikely that an Indian court would enforce foreign judgments if it viewed the amount of damages awarded as conflicting with Indian Law. Separately, RBI approval will be required under the Foreign Exchange Management Act, 1999, to repatriate any amounts outside India as damages including pursuant to the execution of a judgment.
+Holders of ADSs are subject to the Securities and Exchange Board of India's Takeover Code with respect to their acquisitions of ADSs or the underlying equity shares, and this may impose requirements on such holders with respect to disclosure and offers to purchase additional ADSs or equity shares.
+The Substantial Acquisition of Shares and Takeovers (SEBI)Regulations, 2011 ('the Takeover Code') as amended from time-to-time is applicable to publicly listed Indian companies. Therefore, the provisions of the Takeover Code apply to us and to any person acquiring our equity shares or voting rights in our company, including the ADSs.
+The acquisition  of  shares  or  voting  rights  which  entitle  the  acquirer  (meaning  a  person  who  directly  or  indirectly, acquires or agrees to acquire shares or voting rights in a target company, or acquires or agrees to acquire control over the  target  company,  either  by  himself  or  together  with  any  person  acting  in  concert),  along  with  persons  acting  in concert with the acquirer, to exercise 25% or more of the voting rights in or control over the target company, triggers a requirement for the acquirer to make an open offer to acquire at least 26% of the total shares of the target company for an  offer  price  determined  as  per  the  provisions  of  the  Takeover  Code.  The  acquirer  is  required  to  make  a  public announcement for an open offer on the date on which it is agreed to acquire such shares or voting rights. In the event that, pursuant to completion of the open offer, the shareholding of the acquirer along with the persons acting in concert with the acquirer exceeds the maximum permissible non-public shareholding, the acquirer is required to bring down the  non-public  shareholding  by  adopting  the  methods  permitted  by  SEBI  to  facilitate  compliance  with  the  public shareholding  threshold  within  the  timeline  as  prescribed  under  the  Securities  Contract  (Regulation)  Rules,  1957. Furthermore, acquisition of shares or voting rights by an acquirer who, together with persons acting in concert with the acquirer, holds 25% or more of the shares or voting rights in the target company, shall trigger the requirement to make an  open  offer  where  the  additional  shares  or  voting  rights  acquired  would  entitle  the  acquirer  (along  with  persons acting in concert with the acquirer) to exercise more than 5% of the voting rights in the target company.
+Upon  the  acquisition  of  shares  or  voting  rights  in  a  publicly  listed  Indian  company  such  that  the  aggregate shareholding of the acquirer is 5% or more of the shares of the company, the acquirer is required, within two working days of such acquisition, to disclose the aggregate shareholding and voting rights in the company to the company and to the stock exchanges in which the shares of the company are listed.
+Further, an acquirer who, together with persons acting in concert with him, holds shares or voting rights entitling them to 5% or more of the shares or voting rights in a target company, is required to disclose changes in shareholding or voting rights, where there has been a change in such holding (from the last reporting) exceeding 2% of the total shares or voting rights of the company. This disclosure must be made within two working days of such acquisition, disposal, sale or receipt of intimation of allotment of such shares to the company and to the stock exchanges on which the shares of the company are listed. This disclosure is required even if such change results in the shareholding falling below 5%.
+Accordingly,  the  Takeover  Code  may  impose  conditions  that  discourage  a  potential  acquirer,  which  in  turn  could prevent an acquisition of our company in a transaction that could be beneficial for our equity holders.
+Indian regulations may regulate or restrict remittance of ADRs to the holders or the conversion of ADR into Indian equity shares which may impact investor sentiments.
 
-## Non-IFRS measure
-- We use IFRS and non-IFRS financial measures for financial and operational decision-making, including evaluating period-to-period performance and for making comparisons of our operating results to those of our competitors. In particular we use revenue growth in constant currency and adjusted operating margin as non-IFRS financial performance measures to supplement our IFRS reported financial information. These non-IFRS financial measures should not be considered in isolation or as a substitute for the most directly comparable IFRS measures and should be read alongside information presented on a reported IFRS basis. We believe that these adjustments better reflect the Company's core performance across periods and provide useful  supplemental  information  to  management  and  investors  regarding  financial  and  business  trends affecting our financial condition and results of operations.
-- We report revenue growth both in reported currency terms and in constant currency terms. Revenue growth in  reported  currency  includes  the  impact  of  currency  fluctuations.  We,  therefore,  additionally  report  the revenue growth in constant currency terms which represents the growth in revenue excluding the impact of currency  fluctuations.  We  calculate  constant  currency  growth  by  comparing  current  period  revenues  in respective local currencies converted to US-$ using prior period exchange rates and comparing the same to our prior period reported revenues. Refer to the section on Revenue for further details .
-- We calculate  adjusted  (non-IFRS)  operating  margin  which  excludes  the  effect  of  the  provisions  of  The Labour Codes notified by The Government of India on November 21, 2025, in gratuity liability, a defined benefit  plan  (arising  out  of  past  service  costs  relating  to  plan  amendments)  and  compensated  absences. Refer to the section on Operating profit for reconciliation of reported IFRS financial measures to adjusted non-IFRS financial measures.
-
-## Revenues
-Our revenues are generated principally from services provided either on a time-and-material, unit of work, fixed-price, or fixed-timeframe basis. Many of our client contracts, including those that are on a fixed-price, fixed-timeframe basis can be terminated by clients with or without cause and with short notice periods of 0 to 90 days. Generally, we collect revenues as milestones in the contracts are completed, therefore terminated contracts are only subject to collection for portions of the contract completed through the time of termination. In order to manage and anticipate the risk of early or abrupt contract terminations, we monitor the progress of contracts and change orders according to their characteristics and the circumstances in which they occur. This includes a review of our ability and our client's ability to perform on the contract, a review of extraordinary conditions that may lead to a contract termination and a review of the historical client performance considerations. Since we also bear the risk of cost overruns and inflation with respect to fixed-price, fixed-timeframe  projects,  our  operating  results  could  be  adversely  affected  by  inaccurate  estimates  of  contract completion costs and dates, including wage inflation rates and currency exchange rates that may affect cost projections. Although we revise our project completion estimates from time to time, such revisions have not, to date, had a material adverse effect on our operating results or financial condition.
-We experience from time to time, pricing pressure from our clients. For example, clients often expect that as we do more  business  with  them,  they  will  receive  volume  discounts.  Additionally,  clients  may  ask  for  fixed-price,  fixedtimeframe  arrangements,  or  reduced  rates.  We  attempt  to  use  fixed-price  arrangements  for  engagements  where  the specifications are complete.
-The following table sets forth the growth in our revenues in fiscal 2026 from fiscal 2025:
-|          |             |             | (Dollars in millions)   | (Dollars in millions)   |
-|----------|-------------|-------------|-------------------------|-------------------------|
-|          | Fiscal 2026 | Fiscal 2025 | Change                  | Percentage Change       |
-| Revenues | 20,158      | 19,277      | 881                     | 4.6%                    |
-
-Revenue growth in fiscal 2026 was primarily attributable to an increase in realization due to role mix, improved pricing and productivity, incremental revenue from acquired companies and favorable foreign currency translation.
-Refer to the 'Our Strategy' section under Item 4 of this Annual Report on Form 20-F for further details.
-The following table sets forth our revenues by business segments for fiscal 2026 and fiscal 2025:
-| Business Segments                         | Percentage of Revenues   | Percentage of Revenues   |
-|-------------------------------------------|--------------------------|--------------------------|
-|                                           | Fiscal 2026              | Fiscal 2025              |
-| Financial Services                        | 27.9%                    | 27.7%                    |
-| Manufacturing                             | 16.3%                    | 15.5%                    |
-| Energy, Utilities, Resources and Services | 13.3%                    | 13.3%                    |
-| Retail                                    | 12.9%                    | 13.5%                    |
-| Communication                             | 12.2%                    | 11.7%                    |
-| Hi-Tech                                   | 7.8%                     | 8.0%                     |
-| Life Sciences                             | 6.9%                     | 7.3%                     |
-| All other segments                        | 2.7%                     | 3.0%                     |
-
-There were significant currency movements during fiscal 2026 as compared to fiscal 2025. The U.S. dollar depreciated by 4.7% against the United Kingdom Pound Sterling, 8.4% against the Euro and 1.5% against the Australian Dollar.
-Constant  Currency  (Non-IFRS  measure):  Revenue  growth  in  reported  currency  includes  the  impact  of  currency fluctuations.  We,  therefore,  additionally  report  the  revenue  growth  in  constant  currency  terms  which  represents  the growth in revenue excluding the impact of currency fluctuations. Our revenues in reported currency terms for fiscal 2026 was $20,158 million, a growth of 4.6% in comparison to fiscal 2025. As against this, our revenues in constant currency terms for fiscal 2026 grew by 3.1% in comparison to fiscal 2025.
-The following table sets forth our business segment profit (revenues less identifiable operating expenses and allocated expenses) as a percentage of business segment revenues for fiscal 2026 and fiscal 2025 (see Note 2.21.1, under Item 18 of this Annual Report on Form 20-F for additional information):
-| Business Segments                         | Business segment profit%   | Business segment profit%   |
-|-------------------------------------------|----------------------------|----------------------------|
-|                                           | Fiscal 2026                | Fiscal 2025                |
-| Financial Services                        | 25.3%                      | 24.6%                      |
-| Manufacturing                             | 22.1%                      | 19.3%                      |
-| Energy, Utilities, Resources and Services | 25.1%                      | 28.1%                      |
-| Retail                                    | 30.7%                      | 32.3%                      |
-| Communication                             | 17.7%                      | 17.5%                      |
-| Hi-Tech                                   | 23.1%                      | 24.6%                      |
-| Life Sciences                             | 20.0%                      | 22.5%                      |
-| All other segments                        | 14.8%                      | 17.2%                      |
-
-Overall segment profitability has decreased primarily on account of lower utilization, investment in talent, AI, sales and marketing which was partially offset by benefits arising from increased realization through pricing and productivity, improved onsite mix and foreign currency translation.
-Manufacturing service profitability was higher in fiscal 2026 mainly on account of improved margins in large deals and higher realization.
-Energy, Utilities, Resources and Services profitability was lower in fiscal 2026 mainly on account of acquisition related impact and higher subcontractor cost.
-Life  sciences  profitability  was  lower  in  fiscal  2026  mainly  due  to  ramp  up  and  transition  costs  of  large  deals  and revenues decline. Large deals typically have lower margins in the initial deal period on account of transition and higher onsite mix.
-We typically assume full project management responsibility for each project that we undertake. We divide projects into components that we execute simultaneously at client sites and our Development Centers located outside India ('onsite') and at our Global Development Centers in India ('offshore'). The proportion of work performed at our facilities and at client sites varies from period-to-period. We charge higher rates and incur higher compensation and other expenses for work performed onsite. The services performed onsite typically generate higher revenues per-capita, but at lower gross margins  in  percentage  as  compared  to  the  services  performed  at  our  own  facilities  in  India.  As  a  result,  our  total revenues,  cost  of  sales  and  gross  profit  in  absolute  terms  and  as  a  percentage  of  revenues  fluctuate  from  period-toperiod.
-The table below sets forth details of efforts expended for onsite and offshore on our IT services professionals for fiscal 2026 and fiscal 2025:
-|                 | Fiscal 2026   | Fiscal 2025   |
-|-----------------|---------------|---------------|
-| Onsite effort   | 23.2%         | 23.9%         |
-| Offshore effort | 76.8%         | 76.1%         |
-
-Revenues from software  services  including  BPM  services  represented  95.2%  and  95.3%  of  total  revenues  for  fiscal 2026 and fiscal 2025, respectively. We also generate revenues from products and platforms, which represented 4.8% and 4.7% of our total revenues for fiscal 2026 and fiscal 2025, respectively.
-The percentage of revenues from fixed price contracts for each of fiscal 2026 and fiscal 2025 was 54% (in both the fiscal periods) respectively.
-Revenues  and  gross  profits  are  also  affected  by  employee  utilization  rates.  We  define  employee  utilization  for  IT services as the proportion of total billed person months to total available person months, excluding sales, administrative and  support  personnel.  We  manage  utilization  by  monitoring  project  requirements  and  timetables.  The  number  of technology professionals that we assign to a project varies according to the size, complexity, duration, and demands of the project. An unanticipated termination of a significant project could also cause lower utilization. In addition, we do not utilize our technology professionals when they are enrolled in training programs, particularly during our training course for new employees.
-The following table sets forth the utilization rates of billable IT services professionals:
-|                    | Fiscal 2026   | Fiscal 2025   |
-|--------------------|---------------|---------------|
-| Including trainees | 81.1%         | 83.4%         |
-| Excluding trainees | 84.4%         | 85.5%         |
-
-The following table sets forth our revenues by geography for fiscal 2026 and fiscal 2025:
-| Geography         | Percentage of revenues   | Percentage of revenues   |
-|-------------------|--------------------------|--------------------------|
-|                   | Fiscal 2026              | Fiscal 2025              |
-| North America     | 56.1%                    | 57.9%                    |
-| Europe            | 32.1%                    | 29.8%                    |
-| Rest of the World | 8.9%                     | 9.2%                     |
-| India             | 2.9%                     | 3.1%                     |
-
-## Cost of sales
-The following table sets forth our cost of sales for fiscal 2026 and fiscal 2025:
-|                             |             |             | (Dollars in millions)   | (Dollars in millions)   |
-|-----------------------------|-------------|-------------|-------------------------|-------------------------|
-|                             | Fiscal 2026 | Fiscal 2025 | Change                  | Percentage Change       |
-| Cost of sales               | 14,079      | 13,405      | 674                     | 5.0%                    |
-| As a percentage of revenues | 69.8%       | 69.5%       |                         |                         |
-
-|                                                          |             | (Dollars in millions)   | (Dollars in millions)   |
-|----------------------------------------------------------|-------------|-------------------------|-------------------------|
-|                                                          | Fiscal 2026 | Fiscal 2025             | Change                  |
-| Employee benefit costs                                   | 9,739       | 9,151                   | 588                     |
-| Depreciation and amortization                            | 552         | 569                     | (17)                    |
-| Travelling costs                                         | 150         | 149                     | 1                       |
-| Cost of technical sub-contractors                        | 1,740       | 1,530                   | 210                     |
-| Cost of Software packages for own use                    | 301         | 278                     | 23                      |
-| Third party items bought for service delivery to clients | 1,452       | 1,589                   | (137)                   |
-| Consultancy and professional charges                     | 4           | 11                      | (7)                     |
-| Communication costs                                      | 35          | 34                      | 1                       |
-| Provision for post-sales client support                  | (19)        | (13)                    | (6)                     |
-| Repairs and maintenance                                  | 70          | 59                      | 11                      |
-| Other expenses                                           | 55          | 48                      | 7                       |
-| Total cost of sales                                      | 14,079      | 13,405                  | 674                     |
-
-The cost of sales has increased as a percentage of revenues by 0.3% during fiscal 2026 from fiscal 2025, mainly on account of an increase in cost of efforts (comprising of employee and technical subcontractors cost) as a percentage of revenues partially offset by an decrease in third party items bought for service delivery to clients.
-The cost of efforts as a percentage of revenues has increased mainly on account of a compensation increase, impact of Labour Codes, reduction in utilization, and higher use of sub-contractors partially offset by an improvement in offshore mix. On November 21, 2025, the Government of India notified Labour Codes. This has resulted in increase in gratuity liability, a defined benefit plan arising out of past service cost relating to plan amendments and increase in compensated absences by $134 million (i.e 0.6% of revenues and 1% of total Cost of Sales) which is recognized in fiscal 2026.
-Third party items bought for service delivery to clients include software and hardware which are integral to our overall service delivery to clients.
-## Gross profit
-The following table sets forth our gross profit for fiscal 2026 and fiscal 2025:
-|                             | Fiscal 2026   | Fiscal 2025   | (Dollars in millions) Change   |
-|-----------------------------|---------------|---------------|--------------------------------|
-| Gross profit                | 6,079         | 5,872         | 207                            |
-| As a percentage of revenues | 30.2%         | 30.5%         |                                |
-
-The gross margins for fiscal 2026 declined due to increase in cost of sales as a percentage of revenues (as explained above).
-## Selling and marketing expenses
-The following table sets forth our selling and marketing expenses for fiscal 2026 and fiscal 2025:
-|                                |             | Fiscal 2025   | (Dollars in millions)   | (Dollars in millions)   |
-|--------------------------------|-------------|---------------|-------------------------|-------------------------|
-|                                | Fiscal 2026 |               | Change                  | Percentage Change       |
-| Selling and marketing expenses | 1,025       | 898           | 127                     | 14.1%                   |
-| As a percentage of revenues    | 5.1%        | 4.7%          |                         |                         |
-
-|                                      |             | (Dollars in millions)   | (Dollars in millions)   |
-|--------------------------------------|-------------|-------------------------|-------------------------|
-|                                      | Fiscal 2026 | Fiscal 2025             | Change                  |
-| Employee benefit costs               | 766         | 677                     | 89                      |
-| Travelling costs                     | 56          | 48                      | 8                       |
-| Branding and marketing               | 152         | 144                     | 8                       |
-| Consultancy and professional charges | 32          | 19                      | 13                      |
-| Communication costs                  | 2           | 1                       | 1                       |
-| Other expenses                       | 17          | 9                       | 8                       |
-| Total selling and marketing expenses | 1,025       | 898                     | 127                     |
-
-The selling and marketing expenses have increased as a percentage of revenues by 0.4% during fiscal 2026 from fiscal 2025, primarily due to compensation increases and increase in headcount.
-On  November  21,  2025,  the  Government  of  India  notified  Labour  Codes.  This  has  resulted  in  increase  in  gratuity liability, a defined benefit plan arising out of past service cost relating to plan amendments and increase in compensated absences by $1 million (i.e 0.1% of total Selling and marketing expenses) which is recognized in employee benefit cost in fiscal 2026.
-## Administrative expenses
-The following table sets forth our administrative expenses for fiscal 2026 and fiscal 2025:
-|                             |             | Fiscal 2025   | (Dollars in millions)   | (Dollars in millions)   |
-|-----------------------------|-------------|---------------|-------------------------|-------------------------|
-|                             | Fiscal 2026 |               | Change                  | Percentage Change       |
-| Administrative expenses     | 969         | 903           | 66                      | 7.3%                    |
-| As a percentage of revenues | 4.8%        | 4.7%          |                         |                         |
-
-|                                                            |             | (Dollars in millions)   | (Dollars in millions)   |
-|------------------------------------------------------------|-------------|-------------------------|-------------------------|
-|                                                            | Fiscal 2026 | Fiscal 2025             | Change                  |
-| Employee benefit costs                                     | 377         | 337                     | 40                      |
-| Consultancy and professional charges                       | 200         | 167                     | 33                      |
-| Repairs and maintenance                                    | 129         | 123                     | 6                       |
-| Power and fuel                                             | 25          | 26                      | (1)                     |
-| Communication costs                                        | 32          | 38                      | (6)                     |
-| Travelling costs                                           | 31          | 27                      | 4                       |
-| Rates and taxes                                            | 35          | 41                      | (6)                     |
-| Insurance charges                                          | 37          | 35                      | 2                       |
-| Impairment loss recognized/(reversed) on financial assets  | 4           | 6                       | (2)                     |
-| Commission to non-whole-time directors                     | 2           | 2                       | -                       |
-| Contribution towards Corporate Social Responsibility (CSR) | 70          | 69                      | 1                       |
-| Other expenses                                             | 27          | 32                      | (5)                     |
-| Total administrative expenses                              | 969         | 903                     | 66                      |
-
-There are no material movements in administrative expenses as percentage of revenues in fiscal 2026 as compared to fiscal 2025.
-On  November  21,  2025,  the  Government  of  India  notified  Labour  Codes.  This  has  resulted  in  increase  in  gratuity liability, a defined benefit plan arising out of past service cost relating to plan amendments and increase in compensated absences by $8 million (i.e  0.8%  of  total  Administrative  expenses)  which  is  recognized  in  employee  benefit  cost  in fiscal 2026.
-In accordance with the requirements of the Indian Companies Act, 2013, $70 million and $69 million, were contributed towards Corporate Social Responsibility during fiscal 2026 and fiscal 2025, respectively.
-
-## Operating profit
-The following table sets forth our operating profit for fiscal 2026 and fiscal 2025:
-|                             | Fiscal 2026   | Fiscal 2025   | (Dollars in millions) Change   |
-|-----------------------------|---------------|---------------|--------------------------------|
-| Reported Operating profit   | 4,085         | 4,071         | 14                             |
-| As a percentage of revenues | 20.3%         | 21.1%         |                                |
-
-The decrease in reported operating profit as a percentage of revenues for fiscal 2026 from fiscal 2025 was primarily attributable to an increase in cost of sales by 0.3%, selling and marketing expense by 0.4% and administrative expense by 0.1% as a percentage of revenues. The impact of Labour Codes on reported operating profit is $143 million (i.e 0.7% of revenues).
-## Adjusted Operating Profit (Non -IFRS measures):
-Additionally,  we  calculate  adjusted  (non-IFRS)  operating  profit  which  excludes  the  effect  of  the  provisions  of  The Labour Codes as notified by The Government of India on November 21, 2025.
-|                             |             | (Dollars in millions)   | (Dollars in millions)   |
-|-----------------------------|-------------|-------------------------|-------------------------|
-|                             | Fiscal 2026 | Fiscal 2025             | Change                  |
-| Adjusted Operating profit   | 4,228       | 4,071                   | 157                     |
-| As a percentage of revenues | 21.0%       | 21.1%                   |                         |
-
-## Reconciliation of reported operating profit to adjusted operating profit (Non-IFRS financial measures) :
-|                                            |                              |                                  | (Dollars in millions)        | (Dollars in millions)            |
-|--------------------------------------------|------------------------------|----------------------------------|------------------------------|----------------------------------|
-|                                            | Fiscal 2026 Operating Profit | Fiscal 2026 Operating Margin (%) | Fiscal 2025 Operating Profit | Fiscal 2025 Operating Margin (%) |
-| Reported IFRS                              | 4,085                        | 20.3                             | 4,071                        | 21.1                             |
-| Adjustments for Impact of Labour Codes (1) | 143                          | 0.7                              | -                            | -                                |
-| Adjusted Non-IFRS                          | 4,228                        | 21.0                             | 4,071                        | 21.1                             |
-
-(1) On November 21, 2025, the Government of India notified provisions of the Code on Wages, 2019, the Industrial Relations Code, 2020, the Code on Social Security, 2020 and the Occupational Safety, Health and Working Conditions Code, 2020, ('Labour Codes') which consolidate twenty-nine existing labour laws into a unified framework governing employee  benefits  during  employment  and  post-employment.  The  Labour  Codes,  amongst  other  things  introduces changes, including a uniform definition of wages and enhanced benefits relating to leave. The Group has assessed the financial implications of these changes which has resulted in increase in gratuity liability, a defined benefit plan arising out of past service cost relating to plan amendments and increase in compensated absences by $143 million which is recognized in the Consolidated Statement of Comprehensive Income for the year ended March 31, 2026.
-We are using non-IFRS financial performance measures to supplement the financial information reported on an IFRS basis. These non-IFRS financial measures should not be considered in isolation or as a substitute for the relevant IFRS measures and should be read in conjunction with information presented on a reported IFRS basis. We believe these adjustments are necessary to reflect the Company's core performance across periods and provide useful supplemental information to management and investors regarding financial and business trends affecting our financial condition and results of operations.
-## Other income and Finance cost
-The following table sets forth our other income and finance cost for fiscal 2026 and fiscal 2025:
-|                   |             |             | (Dollars in millions)   | (Dollars in millions)   |
-|-------------------|-------------|-------------|-------------------------|-------------------------|
-|                   | Fiscal 2026 | Fiscal 2025 | Change                  | Percentage Change       |
-| Other income, net | 468         | 425         | 43                      | 10.1%                   |
-| Finance cost      | 47          | 49          | (2)                     | (4.1)%                  |
-
-Other income for fiscal 2026 primarily includes interest income from investments of $305 million, interest on income tax refund of $46 million, gain on investment of $44 million, foreign exchange gain of $330 million on translation of foreign  currency  assets  and  liabilities  and  foreign  exchange  loss  of  $274  million  on  forward  and  option  contracts. Income tax refund for fiscal 2026, includes interest (pre-tax) on income tax refund of $41 million recognized by the Company based on orders received under section 250 of the Income Tax Act, 1961, from the Income Tax Authorities in India for the assessment years, 2013-14 and 2017-18 to 2021-22.
-Other income for fiscal 2025 primarily includes interest income from investments of $304 million, interest on income tax refund of $41 million, gain on investment of $34 million, foreign exchange gain of $55 million on translation of foreign currency assets and liabilities and foreign exchange loss of $24 million on forward and option contracts. Income tax refund for fiscal 2025, includes interest (pre-tax) on income tax refund of $38 million recognized by the Company based on orders received under section 250 of the Income Tax Act, 1961, from the Income Tax Authorities in India for the assessment years, 2016-17 and 2019-20.
-Finance cost is primarily on account of leases. The lease payments are discounted using the interest rate implicit in the lease or, if not readily determinable, using the incremental borrowing rates in the country of domicile of these leases.
-## Functional currency, presentation currency and foreign exchange
-The  functional  currency  of  Infosys,  its  Indian  subsidiaries  and  controlled  trusts  is  the  Indian  rupee.  The  functional currencies  for  all  the  other  subsidiaries  are  the  respective  local  currencies.  The  consolidated  financial  statements included  in  this  Annual  Report  on  Form  20-F  are  presented  in  U.S.  dollars  (rounded  off  to  the  nearest  million)  to facilitate  the investors' ability  to  evaluate Infosys' performance  and  financial  position  in  comparison  to  similar companies domiciled in other geographic locations. The translation of functional currencies of foreign subsidiaries to U.S. dollars is performed for assets and liabilities using the exchange rate at the Balance Sheet date, and for revenues, expenses and cash flow items using a average exchange rate for the respective periods. The gains or losses resulting from such translation are included in other comprehensive income and presented as currency translation reserves under other components of equity.
-Generally,  Indian  law  requires  residents  of  India  to  repatriate  any  foreign  currency  earnings  to  India  to  control  the exchange  of  foreign  currency.  More  specifically,  Section  8  of  the  Foreign  Exchange  Management  Act,  or  FEMA, requires an Indian company to take all reasonable steps to realize and repatriate into India all foreign currency earned by the company outside India, within such time periods and in the manner specified by the RBI. The RBI has promulgated guidelines that require the company to repatriate any realized foreign currency back to a foreign currency account such as an Exchange Earners Foreign Currency, or EEFC account with an authorized dealer in India, subject to the condition that the sum total of the accruals in the account during a calendar month should be converted into rupees on or before the last day of the succeeding calendar month, after adjusting for utilization of the balances for approved purposes or forward commitments.
-We generally collect our earnings denominated in foreign currencies using a dedicated foreign currency account located in the local country of operation. In order to do this, we are required to obtain, and have obtained, approval from an authorized dealer, on behalf of the RBI, to maintain a foreign currency account in overseas countries. Our failure to comply with RBI regulations could result in RBI enforcement actions against us.
-We  generate  substantially  all  our  revenues  in  foreign  currencies,  particularly  the  U.S.  dollar,  the  Euro,  the  United Kingdom Pound Sterling,  and the Australian dollar, whereas we incur a significant portion of our expenses in U.S. dollar and Indian rupees. The exchange rate between the Indian rupee and the U.S. dollar has changed substantially in recent years and may fluctuate substantially in the future. Consequently, the results of our operations may be adversely affected  as  the  Indian  rupee  appreciates  against  the  U.S.  dollar.  Foreign  exchange  gains  and  losses  arise  from  the depreciation  and  appreciation  of  the  Indian  rupee  against  other  currencies  in  which  we  transact  business  and  from foreign exchange forward and option contracts.
-The following table sets forth the currencies in which our revenues for fiscal 2026 and fiscal 2025 were denominated:
-| Currency                      | Percentage of Revenues   | Percentage of Revenues   |
-|-------------------------------|--------------------------|--------------------------|
-|                               | Fiscal 2026              | Fiscal 2025              |
-| U.S. dollar                   | 62.9%                    | 64.2%                    |
-| Euro                          | 17.4%                    | 16.8%                    |
-| Australian dollar             | 4.6%                     | 4.6%                     |
-| United Kingdom Pound Sterling | 4.5%                     | 3.8%                     |
-| Others                        | 10.6%                    | 10.6%                    |
-
-The following table sets forth information on the foreign exchange rates in rupees per U.S. dollar, United Kingdom Pound Sterling, Euro and Australian dollar for fiscal 2026 and fiscal 2025:
-Appreciation
-/
-(Depreciation
-)
-of Indian
-Rupee in
-percentage
-(4.7)%
-(13.4)%
-(6.9)%
-(10.0)%
-Average exchange rate during the period:
-U.S. dollar
-Euro
-Australian dollar
-United Kingdom Pound Sterling Fiscal 2026
-(₹)
-88.57
-102.89
-58.85
-118.85
-Fiscal 2025
-(₹)
-84.56
-90.75
-55.07
-108.06
-|                                                                                                                | Fiscal 2026 (₹)   | Fiscal 2025 (₹)   |
-|----------------------------------------------------------------------------------------------------------------|-------------------|-------------------|
-| Exchange rate at the beginning of the period: (a)                                                              |                   |                   |
-| U.S. dollar                                                                                                    | 85.48             | 83.41             |
-| Euro                                                                                                           | 92.09             | 89.88             |
-| Australian dollar                                                                                              | 53.81             | 54.11             |
-| United Kingdom Pound Sterling                                                                                  | 110.70            | 105.03            |
-| Exchange rate at the end of the period: (b)                                                                    |                   |                   |
-| U.S. dollar                                                                                                    | 94.84             | 85.48             |
-| Euro                                                                                                           | 109.00            | 92.09             |
-| Australian dollar                                                                                              | 65.02             | 53.81             |
-| United Kingdom Pound Sterling                                                                                  | 125.51            | 110.70            |
-| Appreciation / (Depreciation) of the Indian rupee against the relevant currency: ((b) / (a) - as a percentage) |                   |                   |
-| U.S. dollar                                                                                                    | (10.9)%           | (2.5)%            |
-| Euro                                                                                                           | (18.4)%           | (2.5)%            |
-| Australian dollar                                                                                              | (20.8)%           | 0.6%              |
-| United Kingdom Pound Sterling                                                                                  | (13.4)%           | (5.4)%            |
-
-The following  table  sets  forth  information  on  the  foreign  exchange  rates  in  U.S.  dollar  per  United  Kingdom  Pound Sterling, Euro and Australian dollar for fiscal 2026 and fiscal 2025:
-|                                          | Fiscal 2026 ($)   | Fiscal 2025 ($)   | Appreciation / (Depreciation) of US dollar in percentage   |
-|------------------------------------------|-------------------|-------------------|------------------------------------------------------------|
-| Average exchange rate during the period: |                   |                   |                                                            |
-| Euro                                     | 1.16              | 1.07              | (8.4)%                                                     |
-| Australian dollar                        | 0.66              | 0.65              | (1.5)%                                                     |
-| United Kingdom Pound Sterling            | 1.34              | 1.28              | (4.7)%                                                     |
-
-|                                                                                                           | Fiscal 2026 ($)   | Fiscal 2025 ($)   |
-|-----------------------------------------------------------------------------------------------------------|-------------------|-------------------|
-| Exchange rate at the beginning of the period: (a)                                                         |                   |                   |
-| Euro                                                                                                      | 1.08              | 1.08              |
-| Australian dollars                                                                                        | 0.63              | 0.65              |
-| United Kingdom Pound Sterling                                                                             | 1.30              | 1.26              |
-| Exchange rate at the end of the period: (b)                                                               |                   |                   |
-| Euro                                                                                                      | 1.15              | 1.08              |
-| Australian dollar                                                                                         | 0.69              | 0.63              |
-| United Kingdom Pound Sterling                                                                             | 1.32              | 1.30              |
-| Appreciation / (Depreciation) of U.S. dollar against the relevant currency: ((b) / (a) - as a percentage) |                   |                   |
-| Euro                                                                                                      | (6.5)%            | 0.0%              |
-| Australian dollar                                                                                         | (9.5)%            | 3.1%              |
-| United Kingdom Pound Sterling                                                                             | (1.5)%            | (3.2)%            |
-
-Depreciation  of  the  Indian  rupee  against  U.S.  dollar  or  other  currencies  affects  our  margins  positively,  whereas appreciation in the Indian rupee against U.S. dollar or other currencies affects our margins negatively. The exchange rate between the Indian rupee, other currencies and the U.S. dollar has fluctuated substantially in recent years and may continue to do so in the future. We are unable to predict the impact that future fluctuations may have on our operating margins. For more discussion on our foreign exchange exposure, see Item 3 in the section titled 'Risk Factors - Risks Related  to  Our  Cost  Structure Currency  fluctuations  and  changes  in  interest  rates  may  affect  the  results  of  our operations and yield on cash balances ' in this Annual Report on Form 20-F.
-We recorded a foreign exchange loss of $274 million and $24 million for fiscal 2026 and fiscal 2025, respectively, on account of foreign exchange forward and option contracts and a foreign exchange gain of $330 million and $55 million on translation of foreign currency assets and liabilities for fiscal 2026 and fiscal 2025, respectively.
+## Introduction of new forms of taxes on distribution of profits or changes to the basis of application of these taxes and/or changes to Buyback regulations could adversely affect the returns to our shareholders.
+As per the Corporate Policy on Capital Allocation, 'Effective from financial year 2025, the Company expects to continue  its  policy  of  returning  approximately  85%  of  the  free  cash  flow  cumulatively  over  a  5-year  period through a combination of semi-annual dividends and/or share buyback/special dividend, subject to applicable laws and requisite approvals, if any.'
+Under this  policy,  the  Company  expects  to  progressively  increase  its  annual  dividend  per  share  (excluding  special dividends, if any). Free cash flow is defined as net cash provided by operating activities less capital expenditure as per the consolidated statement of cash flows prepared under IFRS. Dividend and buyback include applicable taxes . We declare and pay dividends in Indian rupees. The Finance Act, 2020 has replaced the Dividend Distribution Tax with the classical system of dividend taxation wherein dividend income will be taxed in the hands of the shareholders at their  respective  applicable  tax  rates.  In  light  of  the  above  changes  under  the  Income  Tax  Act,  a  company  paying dividends to shareholders is required to withhold tax at the applicable rates prescribed under Indian Income Tax Act read along with the applicable tax treaties with respective countries (together with Multilateral Instrument 'MLI' as applicable), subject to providing various tax forms including a tax residency certificate by non-resident shareholders.
+If the effective rate of tax at source on dividend increases in the future, or new forms of taxes on distribution of profits are introduced, the dividend amount receivable by our shareholders after taxes may decrease.
+Indian listed companies that made a public announcement for a share buyback after July 5, 2019, were required to pay additional income tax on such buyback of shares under section 115QA of the Income Tax Act. As a result, the tax liability arising from buybacks was borne by Indian companies, while shareholders were granted an exemption under section 10(34A) of the Income Tax Act. However, pursuant to the Finance (No. 2) Act 2024, section 115QA of the Income Tax Act will no longer apply to any buyback of shares undertaken on or after October 1, 2024. As a result, the exemption  previously  available  to  shareholders  under  section  10(34A)  of  the  Income  Tax  Act  will  cease  to  be available. Any consideration received by shareholders from a buyback of shares on or after October 1, 2024 under section 2(22)(f) will be treated as dividend income taxed as 'income from other sources'. Such income will be subject to withholding of tax at the applicable rates prescribed under Indian Income Tax Act read along with the applicable tax treaties with respective countries (together with MLI as applicable) subject to providing various tax forms including tax residency certificate by non-resident shareholders. For the purposes of computing the capital gain under the Indian Income Tax Act with respect to the shares bought back, consideration received by the shareholders shall be deemed to be NIL as per section 46A of the Income Tax Act, thus resulting in a capital loss in the hands of the shareholders. Such capital loss shall be eligible for set-off and carry forward as per section 74 of the Income Tax Act.
+Additionally, effective April 1, 2026, Buyback proceeds will be taxed as Capital Gain, rather than dividend income. Promoters will be subject to an additional Income Tax on the capital gain arising from buyback. Accordingly, the total tax payable by a promoter will consist of the regular capital gains tax plus the prescribed additional tax.
+From April 1, 2025, open market buyback (through stock exchanges) is no longer permitted. Open market has been the preferred mode of buyback since it allows the company to buy shares at market price and has higher EPS accretion compared to a tender-offer buyback, as well as ease in execution of the same. Under the new regulation, with open market  buyback  being  phased  out,  our  ability  to  do  buybacks  and  provide  higher  EPS  accretion  for  remaining shareholders may be impacted.
+' EACH INVESTOR OR PROSPECTIVE INVESTOR SHOULD CONSULT HIS, HER OR ITS OWN TAX ADVISORS  WITH  RESPECT  TO  INDIAN  AND  LOCAL  TAX  CONSEQUENCES  OF  ACQUIRING, OWNING OR DISPOSING OF EQUITY SHARES OR ADSs. '
+## Item 4. Information on the Company
+## COMPANY OVERVIEW
+Infosys  Limited  provides  AI-first  business  consulting  and  technology  services,  to  enable  organizations  to  unlock  AI value  at  scale.  With  over  four  decades  of  experience  in  managing  the  systems  and  workings  of  global  enterprises, Infosys accelerates business transformation through its AI-first value framework, deep domain expertise, and unique ability to orchestrate innovations from its AI-native partner ecosystem. Infosys's strategy is to be the navigator for its clients as they ideate, plan and execute on their journey to an AI-first future.
+Our  vision  is  to  build  a  globally  respected  organization  delivering  best-of-breed  business  solutions,  leveraging technology, delivered by best-in-class people. We are guided by our value system which motivates our attitudes and actions. Our core values are Client Value, Leadership by Example, Integrity and Transparency, Fairness and Excellence ('C-LIFE').
+Our primary geographic markets are North America, Europe, Rest of the World, and India, which generated 56.1%, 32.1%,  8.9%  and  2.9%  of  our  revenues  in  fiscal  2026  respectively.  We  serve  clients  in  the  following  industries: financial  services  and  insurance;  retail,  consumer  packaged  goods  and  logistics;  communication;  telecom  original equipment  manufacturer ('OEM') and  media;  energy,  utilities,  resources  and  services;  manufacturing;  hi-tech;  life sciences and health care.
+Our revenues grew from $16,311 million in fiscal 2022 to $20,158 million in fiscal 2026, representing a compound annualized growth rate of 5.4%. Our net profit grew from $2,968 million to $3,316 million during the same period, representing a compound annualized growth rate of 2.8%.
+Between  March  31,  2022,  and  March  31,  2026,  our  total  employees  grew  from  314,015  to  328,594,  representing  a compound annualized growth rate of 1.1%.
+## A. HISTORY AND DEVELOPMENT OF THE COMPANY
+We were incorporated on July 2, 1981, in Pune, Maharashtra, India, as Infosys Consultants Private Limited, a private limited  company  under  the  Indian  Companies  Act,  1956.  We  changed  our  name  to  Infosys  Technologies  Private Limited in April 1992 and to Infosys Technologies Limited in June 1992, when we became a public limited company. In June  2011,  we  changed  our  name  from  Infosys  Technologies  Limited  to  Infosys  Limited,  following  approval  of  the name change by our Board, shareholders, and the Indian regulatory authorities. The name change was intended to reflect our  transition  from  a  provider  of  technology  services  to  a  partner  with  our  clients  solving  business  problems  by leveraging technology. We made an initial public offering of equity shares in India in February 1993 and were listed on stock  exchanges  in  India  in  June  1993.  We  completed  our  initial  public  offering  of  American  Depositary  Shares ('ADSs') in  the  United  States  in  1999.  In  August  2003,  June  2005  and  November  2006,  we  completed  sponsored secondary offerings of ADSs in the United States on behalf of our shareholders. Each of our 2005 and 2006 sponsored secondary offerings also included a Public Offering Without Listing in Japan. In 2008, we were selected as an original component member of 'The Global Dow', a worldwide stock index made up of 150 leading blue-chip stocks. Following our voluntary delisting from the NASDAQ Global Select Market on December 11, 2012, we began trading of our ADSs on  the  NYSE  on  December  12,  2012,  under  the  ticker  symbol  INFY.  We  were  inducted  into  the  Dow  Jones Sustainability Indices in fiscal 2018.
+Refer  to  Note  2.20 'Related party transactions' in  Item  18  of  this  Annual  Report  on  Form  20-F  for  the  list  of  our subsidiaries.
+The  address  of  our  registered  office  is  Electronics  City,  Hosur  Road,  Bengaluru-560  100,  Karnataka,  India.  The telephone number of our registered office is +91-80-2852-0261. Our agent for service of process in the United States is CT  Corporation  System,  1350  Treat  Boulevard,  Suite  100,  Walnut  Creek,  CA  94597-2152.  Our  website  address  is www.infosys.com and the information contained in our website does not constitute a part  of  this  Annual  Report  on Form 20-F.
+## Principal Capital Expenditures and Divestitures
+## Capital expenditure
+In  fiscal  2026,  2025  and  2024,  we  spent  $306  million,  $263  million  and  $266  million,  respectively,  on  capital expenditures. All our capital expenditures were financed out of cash generated from operations. As of March 31, 2026, we had contractual commitments of $141 million for capital expenditure. These commitments included $109 million in domestic purchases and $32 million in overseas commitments.
+Refer to Note 2.10 'Business Combinations' in Item 18 of this Annual Report on Form 20-F for details of acquisitions done by the company.
+## B. BUSINESS OVERVIEW
+## OUR INDUSTRY
+Technology  continues  to  fundamentally  reshape  businesses  across  industries  worldwide.  AI  is  increasingly  being applied to fine -tune domain -specific capabilities and industry -focused use cases. Clients are navigating the challenge of  rapidly  reinventing  their  processes  and  systems  in  the  AI  era,  which  requires  a  strong  understanding  of  emerging technologies,  new  ways  of  working,  and  a  deep  appreciation  of  AI  ecosystems,  business  processes,  and  operational practices.
+We are supporting clients transform in every aspect of their businesses through technology - ranging from building a robust  digital  core  to  reimagining  business  operations - to  enhance  agility,  efficiency,  and  resilience,  while accelerating growth initiatives. Responsible business practices, including the adoption of ESG principles, continue to gain  momentum.  During  the  year,  organizations  increasingly  focused  on  reconfiguring  cost  structures,  improving resilience and agility, delivering personalized experiences for customers and employees, and launching innovative and disruptive products and services.
+Businesses  are  also  seeking  to  address  complex  challenges  using  generative  AI  in  ways  that  deliver  measurable outcomes. These include enhancing and personalizing customer interactions, improving efficiency across marketing and sales functions, strengthening code quality, and boosting workforce and organizational productivity. The emergence of generative  AI,  with  its  potential  for  broader  automation,  and  value  creation,  is  expected  to  significantly  accelerate workforce transformation.
+At the same time, the traditional services market remains intensely competitive, driven by rapid change and the entry of new  players  in  specialized  technology  niches. Infosys' industry  expertise,  end -to -end  service  capabilities,  scalable digital solutions, established platforms, strong quality and process excellence, distributed agile global delivery model, experienced leadership team, skilled workforce, and proven execution track record continue to be recognized as key differentiators.

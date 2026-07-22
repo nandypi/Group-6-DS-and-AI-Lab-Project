@@ -1,274 +1,166 @@
 ---
 document_name: "Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26.md"
 group_id: "Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26__group_006"
-source_section_count: 4
-page_start: 49
-page_end: 58
-estimated_tokens: 11138
+source_section_count: 2
+page_start: 22
+page_end: 27
+estimated_tokens: 5037
 source_section_ids:
-  - "Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26__020"
-  - "Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26__021"
-  - "Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26__022"
-  - "Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26__023"
+  - "Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26__011"
+  - "Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26__012"
 ---
 
-## 3(b) Information as per Rule 5 of Chapter XIII, the Companies (Appointment and Remuneration of Managerial Personnel) Rules, 2014 Top 10 employees in terms of remuneration drawn during the year
-| Employee name          | Designation                                              | Educational qualification   |   Age |   Experience (in years) | Date of joining   | Location   | Remuneration in fiscal 2026 (In ₹) (1)   | No. of RSUs granted in fiscal 2026 (2)   | No. of ESOPs granted in fiscal 2026 (3)   | Previous employment and designation                        |
-|------------------------|----------------------------------------------------------|-----------------------------|-------|-------------------------|-------------------|------------|------------------------------------------|------------------------------------------|-------------------------------------------|------------------------------------------------------------|
-| Salil Parekh           | CEO&MD                                                   | B.Tech,ME                   |    61 |                      38 | Jan 2, 2018       | India      | 82,59,82,399 (4)                         | 3,61,575                                 | -                                         | Capgemini, Director General                                |
-| Karmesh Gul Vaswani    | Segment Head - CPG, Logistics & Retail                   | BE                          |    54 |                      33 | Mar 3, 2003       | UK         | 24,27,32,402 (5)                         | 80,330                                   | 1,39,330                                  | Accenture, Senior Manager                                  |
-| Inderpreet Sawhney     | Chief Legal Officer and Chief Compliance Officer         | BA LLB, LLM                 |    61 |                      35 | Jul 3, 2017       | US         | 21,63,89,374 (6)                         | 74,090                                   | 1,36,060                                  | Wipro, Senior Vice President and General Counsel           |
-| Anand Swaminathan      | Segment Head - Communication, Media and Technology       | ACS, AICWA, MS              |    54 |                      34 | Apr 26, 1999      | US         | 17,90,50,475 (7)                         | 63,640                                   | 1,14,540                                  | Rane Brake Linings Limited, Manager Information Technology |
-| Jasmeet Singh          | Segment Head - Manufacturing                             | B.Tech,MBA                  |    54 |                      30 | May 31, 2011      | US         | 17,56,64,225 (8)                         | 63,640                                   | 1,14,540                                  | HCL America, Vice President                                |
-| Ashiss Kumar Dash      | Segment Head - Energy, Utilities, Resources and Services | B.Tech (H)                  |    54 |                      32 | May 8, 1995       | US         | 17,30,61,049 (9)                         | 63,510                                   | 1,11,690                                  | Indal, Process Engineer                                    |
-| Gavin Sheldon          | Head - Entertainment and Connectivity Platforms          | Diploma A Level             |    50 |                      31 | Nov 6, 2023       | UK         | 13,15,37,893 (10)                        | 9,570                                    | -                                         | Liberty Global, Managing Director                          |
-| Dennis Kantilal Gada   | Segment Head - Banking and Financial Services            | B.Com, CA                   |    46 |                      27 | Nov 7, 2005       | US         | 13,07,64,878 (11)                        | 52,720                                   | 88,920                                    | Accenture, Manager                                         |
-| Jayachandran V Nair    | Industry Head - Banking and Financial Services           | BE, MS, PGD                 |    54 |                      31 | Jan 16, 2012      | UK         | 13,01,05,294 (12)                        | 37,760                                   | 69,180                                    | Cognizant, Managing Client Partner                         |
-| Anant Raghavendra Adya | Service Offering Head                                    | B.Sc                        |    53 |                      31 | Nov 10, 2008      | US         | 10,91,57,004 (13)                        | 37,950                                   | 68,170                                    | Wipro, Project Manager                                     |
-
-Notes: The details in the above table are on accrual basis for better comparability with the KMP remuneration disclosures included in other sections of this Integrated Annual Report.
-The aforementioned employees have / had permanent employment contracts with the Company.
-Employees mentioned above are neither relatives of any directors of the Company, nor hold 2% or more of the paid-up equity share capital of the Company as per Clause (iii) of sub-rule (2) of Rule 5 of the Companies (Appointment and Remuneration of Managerial Personnel) Rules, 2014.
-For employees based overseas, average exchange rates have been used for conversion to INR.
-- (1) Includes fixed pay, variable pay, retiral benefits and the perquisite value of stock incentives exercised during the period, determined in accordance with the provisions of the Income-tax Act, 1961 or relevant overseas tax regulations as applicable. Accordingly, the value of stock incentives granted during the period is not included. The number of stock incentives granted in fiscal 2026 is included in the table above.
-- (2) Includes equity-settled and cash-settled RSUs issued at par under the 2015 and 2019 Plans
-- (3) Includes equity-settled and cash-settled ESOPs issued at market price as on the date of grant under the 2015 Plan
-- (4) Remuneration includes ₹50.75 crore on account of exercise of 2,72,400 RSUs under the 2015 Plan and 64,690 RSUs under the 2019 Plan during fiscal 2026.
-- (5) Remuneration includes ₹9.79 crore on account of exercise of 46,465 RSUs under the 2015 Plan and 15,532 RSUs under the 2019 Plan during fiscal 2026.
-- (6) Remuneration includes ₹9.96 crore on account of exercise of 44,212 RSUs under the 2015 Plan and 19,933 RSUs under the 2019 Plan during fiscal 2026.
-- (7) Remuneration includes ₹8.38 crore on account of exercise of 36,009 RSUs under the 2015 Plan and 15,417 RSUs under the 2019 Plan during fiscal 2026.
-- (8) Remuneration includes ₹7.97 crore on account of exercise of 36,072 RSUs under the 2015 Plan and 15,417 RSUs under the 2019 Plan during fiscal 2026.
-- (9) Remuneration includes ₹7.08 crore on account of exercise of 30,922 RSUs under the 2015 Plan and 14,742 RSUs under the 2019 Plan during fiscal 2026.
-- (10)   Remuneration includes ₹0.78 crore on account of exercise of 5,000 RSUs under the 2015 Plan during fiscal 2026.
-- (11) Remuneration includes ₹5.17 crore on account of exercise of 21,478 RSUs under the 2015 Plan and 11,952 RSUs under the 2019 Plan during fiscal 2026.
-- (12)   Remuneration includes ₹4.25 crore on account of exercise of 19,021 RSUs under the 2015 Plan and 8,181 RSUs under the 2019 Plan during fiscal 2026.
-- (13)   Remuneration includes ₹5.48 crore on account of exercise of 23,459 RSUs under the 2015 Plan and 11,999 RSUs under the 2019 Plan during fiscal 2026.
-
-## Annexure 4: Independent Auditor's certificate on corporate governance
-REF:IL/2026-27/001
-## CERTIFICATE ON CORPORATE GOVERNANCE
-1.  This certificate is issued in accordance with the terms of our engagement letter reference no. IL/2025-26/15 dated July 10, 2025 and addendum IL/2025-26/73 dated February 6, 2026.
-2.  We, Deloitte Haskins &amp; Sells LLP, Chartered Accountants, the Statutory Auditors of Infosys Limited ('the Company'), have examined the compliance of conditions of Corporate Governance by the Company, for the year ended on March 31, 2026, as stipulated in regulations 17 to 27 and clauses (b) to (i) of regulation 46(2) and para C and D of Schedule V of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 (the 'Listing Regulations').
-
-## Managements' Responsibility
-3.  The compliance of conditions of Corporate Governance is the responsibility of the Management. This responsibility includes the design, implementation and maintenance of internal control and procedures to ensure the compliance with the conditions of the Corporate Governance stipulated in Listing Regulations.
-
-## Auditor's Responsibility
-4.  Our responsibility is limited to examining the procedures and implementation thereof, adopted by the Company for ensuring compliance with the conditions of the Corporate Governance. It is neither an audit nor an expression of opinion on the financial statements of the Company.
-5.  We have examined the books of account and other relevant records and documents maintained by the Company for the purposes of providing reasonable assurance on the compliance with Corporate Governance requirements by the Company.
-6.  We have carried out an examination of the relevant records of the Company in accordance with the Guidance Note on Certification of Corporate Governance issued by the Institute of the Chartered Accountants of India (the ICAI), the Standards on Auditing specified under Section 143(10) of the Companies Act 2013, in so far as applicable for the purpose of this certificate and as per the Guidance Note on Reports or Certificates for Special Purposes issued by the ICAI which requires that we comply with the ethical requirements of the Code of Ethics issued by the ICAI.
-7. We have complied with the relevant applicable requirements of the Standard on Quality Control (SQC) 1, Quality Control for Firms that Perform Audits and Reviews of Historical Financial Information, and Other Assurance and Related Services Engagements.
-
-## Opinion
-8.  Based on our examination of the relevant records and according to the information and explanations provided to us and the representations provided by the Management, we certify that the Company has complied with the conditions of Corporate Governance as stipulated in regulations 17 to 27 and clauses (b) to (i) of regulation 46(2) and para C and D of Schedule V of the Listing Regulations during the year ended March 31, 2026.
-9.  We state that such compliance is neither an assurance as to the future viability of the Company nor the efficiency or effectiveness with which the Management has conducted the affairs of the Company.
-
-## For DELOITTE HASKINS &amp; SELLS LLP
-Chartered Accountants (Firm's Registration No. 117366W/W-100018)
-Sd/-
-Vikas Bagaria Partner (Membership No. 060408) UDIN: 26060408VUBMXZ7279
-## INDEPENDENT AUDITOR'S CERTIFICATE TO THE MEMBERS OF INFOSYS LIMITED
-Place: Bengaluru
-Date: April 23, 2026
-## Annexure 5 - Secretarial audit report for the financial year ended March 31, 2026 Form No. MR-3
-[Pursuant to Section 204(1) of the Companies Act, 2013 and Rule No. 9 of the Companies (Appointment and Remuneration of Managerial Personnel) Rules, 2014]
-To, The Members, Infosys Limited Electronics City, Hosur Road Bengaluru-560100, Karnataka, India
-We have conducted the secretarial audit of the compliance of applicable statutory provisions and the adherence to good corporate practices by Infosys Limited ('the Company'). The Secretarial Audit was conducted in a manner that provided us a reasonable basis for evaluating the corporate conducts/ statutory compliances and expressing our opinion thereon.
-## Auditor's responsibility
-Our responsibility is to express an opinion on the compliance of the applicable laws and maintenance of records based on audit. We have conducted the audit in accordance with the applicable Auditing Standards issued by The Institute of Company Secretaries of India. The Auditing Standards require that the Auditor shall comply with statutory and regulatory requirements and plan and perform the audit to obtain reasonable assurance about compliance with applicable laws and maintenance of records.
-Based on our verification of the Company's books, papers, minute books, forms and returns filed and other records maintained by the Company and also the information provided by the Company, its officers, agents and authorized representatives during the conduct of secretarial audit, we hereby report that in our opinion, the Company has, during the audit period from April 01, 2025 to March 31, 2026 ('the audit period') complied with the statutory provisions listed hereunder and also that the Company has proper Board processes and compliance mechanisms in place to the extent and in the manner reporting made hereinafter:
-- (i)  The Companies Act, 2013 ('the Act') and the rules made thereunder;
-- (ii) The Securities Contracts (Regulation) Act, 1956 and the rules made thereunder;
-- (iii) The Depositories Act, 1996 and the Regulations and bye-laws framed there under;
-- (iv)   Foreign Exchange Management Act, 1999 and the rules and regulations made thereunder to the extent of Foreign Direct Investment and Overseas Direct Investment (External Commercial Borrowings are not applicable to the Company during the Audit Period);
-- (v) The following regulations and guidelines prescribed under the Securities and Exchange Board of India Act, 1992 ('the SEBI Act'): -
-- a) The Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011;
-- b) The Securities and Exchange Board of India (Prohibition of Insider Trading) Regulations, 2015;
-- c)   The Securities and Exchange Board of India (Issue of Capital and Disclosure Requirements) Regulations, 2018; (Not applicable to the Company during the audit period)
-- d)  The Securities and Exchange Board of India (Share Based Employee Benefits and Sweat Equity) Regulations, 2021;
-- e)   The Securities and Exchange Board of India (Issue and Listing of Non-Convertible Securities) Regulations, 2021; (Not applicable to the Company during the audit period)
-- f)    The Securities and Exchange Board of India (Registrars to an Issue and Share Transfer Agents) Regulations, 1993 and Securities and Exchange Board of India (Registrars to an Issue and Share Transfer Agents) Regulations, 2025 regarding the Companies Act and dealing with client;
-- g)   The Securities and Exchange Board of India (Delisting of Equity Shares) Regulations, 2021; (Not applicable to the Company during the audit period) and
-- h)   The Securities and Exchange Board of India (Buy-back of Securities) Regulations, 2018.
-
-We have also examined compliance with the applicable clauses of the following:
-- (i)  Secretarial Standards issued by The Institute of Company Secretaries of India.
-- (ii) The Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 and amendments made thereunder ('Listing Regulations').
-
-We further report that, with regard to the compliance system prevailing in the Company and on the examination of the relevant documents and records in pursuance thereof, on test-check basis, the Company has generally complied with the following laws applicable specifically to the Company:
-- The Special Economic Zones Act, 2005 and the rules made thereunder; and
-- Software Technology Parks of India Rules and Regulations
-
-During the audit period, the Company has complied with the provisions of the Act, Rules, Regulations, Guidelines and Standards etc. made thereunder.
-## We further report that
-The Board of Directors of the Company is duly constituted with proper balance of Executive Directors, Non-Executive Directors, and Independent Directors. During the audit period no changes took place in the composition of the Board of Directors.
-Adequate notice was given to all directors to schedule Board meetings, agenda and detailed notes on agenda were sent at least seven days in advance (except in two cases where meetings were convened at a shorter notice for which necessary approvals obtained as per applicable provisions) and a system exists for seeking and obtaining further information and clarifications on the agenda items before the meeting and for meaningful participation at the meeting.
-All decisions at Board meetings and Committee meetings are carried out unanimously as recorded in the minutes of the meetings of the Board of Directors or Committees of the Board, as the case may be.
-We further report that there are adequate systems and processes in the Company commensurate with the size and operations of the Company to monitor and ensure compliance with applicable laws, rules, regulations, and guidelines.
-We further report that during the audit period,
-- a)  the Company has issued and allotted 8,74,856 Equity Shares of face value of ₹ 5/- each pursuant to 2015 Stock Incentive Compensation Plan and 14,53,412 Equity Shares of face value of ₹ 5/- each pursuant the Infosys Expanded Stock Ownership Program 2019.
-- b)  the Company has bought back its 10,00,00,000 (Ten Crore) fully paid-up equity shares of face value of ₹ 5/- (Rupees Five only), for an aggregate consideration of ₹ 18,000 Crore (Rupees Eighteen Thousand Crore only), at a price of ₹ 1,800/- per share.
-
-For Makarand M. Joshi &amp; Co. Company Secretaries ICSI UIN: P2009MH007000 Peer Review Cert. No.: 6832/2025 Sd/-
-Makarand M. Joshi Partner FCS: 5533 CP: 3662 UDIN: F005533H000181819
-Place: Mumbai
-Date: April 23, 2026
-This report is to be read with Annexure A, which forms an integral part of this report.
-To, The Members, Infosys Limited Electronics City, Hosur Road Bengaluru-560100, Karnataka, India
-Our report of even date is to be read along with this letter.
-1.  Maintenance of secretarial record is the responsibility of the Management of the Company. Our responsibility is to express an opinion on these secretarial records based on our audit.
-2.  We have followed the audit practices and processes as were appropriate to obtain reasonable assurance about the correctness of the contents of the secretarial records. The verification was conducted on test basis to ensure that accurate facts are reflected in secretarial records. We believe that the processes and practices we followed provide a reasonable basis for our opinion.
-3.  We have not verified the correctness and appropriateness of financial records and Books of Accounts of the company.
-4.  Wherever required, we have obtained the Management representation about the compliance of laws, rules and regulations and happening of events etc.
-5.  The compliance of the provisions of corporate and other applicable laws, rules, regulations, standards is the responsibility of management. Our examination was limited to the verification of procedures on test basis.
-6.  The Secretarial Audit report is neither an assurance of the future viability of the Company nor of the efficacy or effectiveness with which the Management has conducted the affairs of the Company.
-
-For Makarand M. Joshi &amp; Co. Company Secretaries ICSI UIN: P2009MH007000 Peer Review Cert. No.: 6832/2025
-Sd/-
-Makarand M. Joshi Partner FCS: 5533 CP: 3662 UDIN: F005533H000181819
-Place: Mumbai Date: April 23, 2026
-## Annexure A
-## Annexure 6 - Annual report on CSR activities
-[Pursuant to Section 135 of the Companies Act, 2013 read with Companies (Corporate Social Responsibility Policy) Rules, 2014, as amended.]
-## 1.  Brief outline on CSR Policy of the Company:
-Over the years, we have been focusing on sustainable business practices encompassing economic, environmental, and social imperatives, not only for business but also for the communities around us. Our Corporate Social Responsibility ('CSR') encompasses holistic community development and institution-building, while shaping and sharing solutions that serve the development of businesses and communities. Infosys' CSR Policy aims to contribute to the sustainable development of society and the environment, and to make our planet more livable for future generations. Infosys' CSR activities, amongst others, focus on Education and Skill Development to Enable Sustained Livelihoods, Healthcare, including Preventive Health, Environmental Sustainability and Ecological Balance, Gender Equality and Empowerment of Women, Promotion of National Heritage, Art and Culture, Rural Development, and Disaster Relief and Rehabilitation.
-## CSR activities
-Infosys Limited ('Infosys' or 'the Company') has been an early adopter of CSR initiatives. Infosys undertakes CSR initiatives both directly as well as through Infosys Foundation ('the Foundation'). The Foundation was established in 1996 with a vision to boost our CSR initiatives. This was long before the Companies Act, 2013, mandated CSR activities to be undertaken by the Company.
-Key highlights of the activities during the year are listed below:
-- Continued education to employment initiatives that focus on skilling underserved youth through strategic partnerships and livelihood training programs.
-- Scholarships provided for students who intend to pursue undergraduate studies in the National Institutional Ranking Framework-accredited colleges in the fields of Engineering and other STEM streams, such as nursing, pharmacy, biochemistry, and biotechnology.
-- Infosys Springboard digital literacy program, powered by a tech platform that enabled students to learn core digital and life skills and become lifelong learners.
-- Initiated the Universal Cornea Care Mission at the L.V. Prasad Eye Institute by optimizing, operationalizing, and validating the model and defined an actionable strategy to replicate across the country.
-- Construction of a mother and child healthcare center at the Government Hospital, Kunigal.
-- Promote environmental sustainability, maintain ecological balance, and enhance farmer livelihood/income through tree plantation initiatives.
-- Co-implementing the Gear for Gold program to build sustainable, inclusive, and high-performing sports academies by equipping them with robust systems, expertise, and resources across coaching, infrastructure, sports science, governance, and administration.
-- Supported the rapid operationalization of advance mother and child center by providing high-quality medical equipment at PGIMER Chandigarh.
-
-## 2.  Composition of CSR Committee:
-|   Sl. No. | Nameof the director   | Designation / Nature of directorship   |   Number of meetings of CSR Committee held during the year |   Number of meetings of CSR Committee attended during the year |
-|-----------|-----------------------|----------------------------------------|------------------------------------------------------------|----------------------------------------------------------------|
-|         1 | Govind Iyer           | Chairperson                            |                                                          4 |                                                              4 |
-|         2 | Chitra Nayak          | Member                                 |                                                          4 |                                                              4 |
-|         3 | Michael Gibbs         | Member                                 |                                                          4 |                                                              4 |
-
-## 3.  Web link(s) for composition of CSR Committee, CSR policy and CSR projects approved by the Board:
-- The composition of the CSR committee is available on our website, at https://www.infosys.com/investors/corporate-governance/ documents/committee-composition.pdf.
-- The Committee, with the approval of the Board, has adopted the CSR Policy as required under Section 135 of the Companies Act, which is available on our website, at https://www.infosys.com/investors/corporate-governance/documents/corporate-socialresponsibility-policy.pdf.
-- The Company has also adopted the CSR committee charter, which is available on our website, at https://www.infosys.com/investors/ corporate-governance/Documents/corporate-social-responsibility-committee-charter.pdf.
-- The Board, based on the recommendation of the CSR Committee, at its meeting held on April 23, 2026, has approved the annual action plan / projects for fiscal 2027, the details of which are available on our website, at csr-projects2026-27.pdf.
-
-## 4. Executive summary along with web-link(s) of Impact Assessment of CSR Projects carried out in pursuance of subrule (3) of rule 8:
-The Company has been implementing various CSR projects for holistic community development and institution building to serve the enrichment and evolution of businesses and communities. For fiscal 2026, the Company has engaged an external agency to provide support and assistance for an independent review and impact assessment.
-## Methodology:
-In order to assess the impact of its CSR projects, a mixed-method approach was deployed which involved one of or both the quantitative and qualitative research tools (as relevant) for primary data collection. Using these tools, the team conducted interactions (virtual and on-field) with the project beneficiaries and other relevant stakeholders. Post data collection and analysis, the key insights and findings were collated in the form of a consolidated report for the Management's consideration. This study was guided by the Inclusiveness, Relevance, Effectiveness, Convergence and Sustainability (IRECS) Framework which was used to provide overall feedback on the efficacy of implementation as well as its efficiency in terms of achievement of the desired project outputs with reference to inputs.
-## Summary:
-During the year, impact assessment study was conducted on 12 eligible CSR projects across various states in India. These projects align with the ESG framework and support 13 of the UN SDGs which cover the broad themes of education, healthcare, women empowerment, sustainability and others.
+## Client satisfaction
+At Infosys, delivering value to our clients is at the center of everything we do. We conduct structured Annual Client Value and Quarterly Engagement surveys. These surveys are designed to enhance our understanding of our relationships with client organizations, prioritize areas for improvement, and remain attuned to their evolving needs. The latest annual client survey indicates that overall client experience Infosys is viewed as a trusted longterm partner, differentiated by strong account management, partnership orientation, and consistent delivery excellence supported by experienced subject-matter experts.
+Tenured client relationships reinforce trust and business alignment, while proactive AI, automation, and strategic technology advisory are increasingly recognized as value drivers.
+Clients indicate an expectation for forward-looking, business-led AI advisory to support the evolution of AI roadmaps, identification of high-value use cases, and scalable business outcomes, with Infosys viewed positively in this context.
+## Client satisfaction: Trend of key outcomes (scale 1 to 7)
 <!-- image -->
+## Community
+## Digital skilling at scale
+Infosys Springboard is Infosys' flagship digital learning platform that empowers people with skills to be successful in the 21st century. Till date, we have reached 15 million+ people including employees, client's workforce, students, teachers and communities with digital skilling initiatives.
+## Infosys Foundation
+Infosys Foundation has touched over 7 million lives in the last year alone through its programs in the areas of education, healthcare, women empowerment, and environmental sustainability, among others, to create long-lasting impact. Recognizing that social innovations from the heart could transform societies, the Foundation launched the Aarohan Social Innovation Awards in 2018, which has completed four editions so far.
+## Infosys Springboard Livelihood Program
+In 2024, Infosys Foundation launched the Infosys Springboard Livelihood Program, aligning with the Company's ESG ambition to create employment opportunities for 5,00,000 people by 2030. The program partnered with multiple implementation agencies working across rural belts, tribal regions, aspirational districts, urban slums, ITIs, and colleges. So far, the program has trained over 4,10,000 individuals, and 2,20,000+ individuals have been enabled with job offers across STEM and non-STEM roles.
+## Cornea care initiatives
+Infosys Foundation has partnered with the LV Prasad Eye Institute (LVPEI) for the Universal Cornea Care Mission. It is designed to strengthen cornea care delivery from early detection and treatment / surgery to eye banking and long-term follow-up. During FY26, the initiative reached 1,74,659 beneficiaries, conducted 2,28,334 school screenings, and supported the harvesting of 15,911 corneas. It is being implemented across Andhra Pradesh, Odisha and Telangana. The Foundation is also supporting Project Cornea - Corneal Blindness Screening and Treatment Initiative, implemented by Vivekananda Netralaya, a part of Ramakrishna Mission Ashrama, Dehradun. The initiative that began in August 2025, covering Uttarakhand (Garhwal region) and adjoining districts of Western Uttar Pradesh, Haryana, and Himachal Pradesh, has so far screened 15,270 individuals. Read more in the Foundation's annual reports at https://www.infosys.com/ infosys-foundation/about/reports. html.
+## Infosys Foundation USA
+Infosys Foundation USA is committed to expanding access to inclusive computer science education and digital upskilling opportunities for all learners. Through targeted programs, strategic partnerships, and continued innovation of the Infosys Springboard digital learning platform. The Foundation reached more than 1.26 mn students and 16,000 educators in fiscal 2026 and impacted over 27 mn students and 1.4 mn educators, since its inception in 2015. Read more https://www.infosys.org/ infosys-foundation-usa.html.
+## CSR in EMEA region
+Our CSR charter outlines how Infosys strives to be a force for good across Europe through the five core pillars viz., Digital Inclusion, Transformational &amp; Innovative Partnerships, Education in Emergencies, Employee Engagement and Social Impact
+## Thought Leadership. Read more:
+[https://www.infosys.org/europe.html.](https://www.infosys.org/europe.html)
+## CSR in APAC region
+Our focused CSR strategy in the APAC region prioritizes education, reskilling, and digital inclusion. We collaborate with local partners to deliver impactful programs that support underserved communities, nurture future leaders, and enable employee volunteering. Read more: https:// www.infosys.org/australia.html.
+## Infosys Science Foundation
+The Infosys Science Foundation awards the annual Infosys Prize that endeavors to elevate the prestige of science and research in India. Since 2008, the Prize has been awarded to 104 researchers. Each Prize carries a gold medal, a citation, and a purse of US$100,000.
+The winners of the Infosys Prize 2025 included a scientist working on a new way of producing ammonia with a largely reduced carbon footprint, a scholar of Prakrit and Kannada who is working on translating a seminal text in early Kannada, and an economist working on market design problems around kidney exchange programs. Read more at https://www. infosysprize.org/about-isf.html.
+## Suppliers
+Infosys believes in and is committed to partnering with the highest quality suppliers to ensure that we deliver best- of-breed business and IT solutions to our clients. As a signatory to the United Nations Global Compact (UNGC), Infosys leverages the UNGC principles covering human rights, labor, environment, and anti-corruption as foundational principles for building and improving its sustainable supply chain practices. Read more in the ESG Report 2026.
+62
+## Statutory Reports
+Infosys Integrated Annual Report 2025-26
 <!-- image -->
-<!-- image -->
-<!-- image -->
-<!-- image -->
-<!-- image -->
-## Theme 1: Education and skill development
-Impact: Emphasis on digital education and easy access to the online learning content ensured a positive impact on the students' academic performance and a reduction in the dropout rates.
-|   Sl. No. | CSR project under assessment                                                               | Project location                                                                                                   | Implementation     |
-|-----------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|--------------------|
-|        1. | Sree Guruvayurappan Bhajan Samaj (SGBS) Unnati Foundation - UNXT Youth Training            | Karnataka                                                                                                          | Infosys Foundation |
-|        2. | Bhandarkar Oriental Research Institute (BORI) - Oriental Studies Research and Preservation | Maharashtra                                                                                                        | Infosys Foundation |
-|        3. | eVidyaloka trust - Rural digital and STEM education programme                              | Andhra Pradesh, Karnataka, Maharashtra, Madhya Pradesh, Odisha, Rajasthan, Tamil Nadu, Telangana and Uttar Pradesh | Infosys Foundation |
+## Board's report
+Dear Members,
+The Board of Directors hereby submits the report of the business and operations of your Company ('the Company' or 'Infosys'), along with the audited financial statements, for the financial year ended March 31, 2026. The consolidated performance of the Company and its subsidiaries has been referred to wherever required.
+## 1. Results of our operations and state of affairs
+## Financial performance
+(In ` crore, except per equity share data)
+| Particulars                                                    | Standalone                   | Standalone                   | Standalone   | Consolidated                 | Consolidated                 | Consolidated   |
+|----------------------------------------------------------------|------------------------------|------------------------------|--------------|------------------------------|------------------------------|----------------|
+|                                                                | For the year ended March 31, | For the year ended March 31, | YoY growth   | For the year ended March 31, | For the year ended March 31, | YoY growth     |
+|                                                                | 2026                         | 2025                         | (%)          | 2026                         | 2025                         | (%)            |
+| Revenue from operations                                        | 1,48,819                     | 1,36,592                     | 9.0          | 1,78,650                     | 1,62,990                     | 9.6            |
+| Other income, net* #                                           | 6,491                        | 4,782                        | 35.7         | 4,322                        | 3,600                        | 20.1           |
+| Total income                                                   | 1,55,310                     | 1,41,374                     | 9.9          | 1,82,972                     | 1,66,590                     | 9.8            |
+| Expenses                                                       |                              |                              |              |                              |                              |                |
+| Employee benefit expenses                                      | 73,239                       | 67,466                       | 8.6          | 95,094                       | 85,950                       | 10.6           |
+| Cost of technical sub-contractors                              | 22,388                       | 19,353                       | 15.7         | 15,421                       | 12,937                       | 19.2           |
+| Cost of software packages and others                           | 9,274                        | 9,617                        | (3.6)        | 15,722                       | 15,911                       | (1.2)          |
+| Other operating expenses                                       | 10,299                       | 9,276                        | 11.0         | 15,035                       | 13,768                       | 9.2            |
+| Total expenses                                                 | 1,15,200                     | 1,05,712                     | 9.0          | 1,41,272                     | 1,28,566                     | 9.9            |
+| Profit before finance costs, exceptional items and tax expense | 40,110                       | 35,662                       | 12.5         | 41,700                       | 38,024                       | 9.7            |
+| Finance cost                                                   | 207                          | 221                          | (6.3)        | 416                          | 416                          | -              |
+| Profit before exceptional items and tax expense                | 39,903                       | 35,441                       | 12.6         | 41,284                       | 37,608                       | 9.8            |
+| Exceptional items                                              |                              |                              |              |                              |                              |                |
+| Impact of Labour Codes (1)                                     | 1,146                        | -                            |              | 1,289                        | -                            |                |
+| Profit before tax                                              | 38,757                       | 35,441                       | 9.4          | 39,995                       | 37,608                       | 6.3            |
+| Profit before tax (% of revenue)                               | 26.0                         | 25.9                         |              | 22.4                         | 23.1                         |                |
+| Tax expense* (1)                                               | 9,546                        | 9,873                        | (3.3)        | 10,521                       | 10,858                       | (3.1)          |
+| Profit after tax                                               | 29,211                       | 25,568                       | 14.2         | 29,474                       | 26,750                       | 10.2           |
+| Profit after tax (% of revenue)                                | 19.6                         | 18.7                         |              | 16.5                         | 16.4                         |                |
+| Total other comprehensive income, net of tax                   | 85                           | 105                          |              | 3,337                        | 459                          |                |
+| Total comprehensive income for the year                        | 29,296                       | 25,673                       |              | 32,811                       | 27,209                       |                |
+| Profit attributable to owners of the Company                   | 29,211                       | 25,568                       |              | 29,440                       | 26,713                       |                |
+| Non-controlling interests                                      | NA                           | NA                           |              | 34                           | 37                           |                |
+| Earnings per share (EPS)                                       |                              |                              |              |                              |                              |                |
+| Basic (2)                                                      | 70.87                        | 61.58                        | 15.1         | 71.58                        | 64.50                        | 11.0           |
+| Diluted (3)                                                    | 70.78                        | 61.46                        | 15.2         | 71.46                        | 64.34                        | 11.1           |
 
-## Theme 2: Environment sustainability and ecological balance
-Impact: Improved cookstove projects reported reduction in waste generation, cooking time, indoor air pollution and associated health hazards. Women have been empowered through engagement in social activities within their community.
-|   Sl. No. | CSR project under assessment                                    | Project location   | Implementation      |
-|-----------|-----------------------------------------------------------------|--------------------|---------------------|
-|        1. | Improved cookstoves in Udaipur - Helping women and environment  | Rajasthan          | Self-implementation |
-|        2. | Improved cookstoves in Salumber - Helping women and environment | Rajasthan          | Self-implementation |
+1 crore = 10 million
+Notes: The above figures are extracted from the audited standalone and consolidated financial statements of the Company as per the Indian Accounting Standards (Ind AS). Equity shares are at par value of ` 5 per share.
+- # Includes profit on sale of property plant and equipment amounting to ` 165 crore on standalone and consolidated basis during the year ended March 31, 2026.
+* Includes interest income (pre-tax) of ` 381 crore and ` 327 crore for the years ended March 31, 2026 and March 31, 2025, respectively, and reversal of tax provisions amounting to ` 774 crore and ` 101 crore for the year ended March 31, 2026 and March 31, 2025, respectively, on standalone and consolidated basis. This is on account of orders received under Sections 250 and 254 of the Income-tax Act, 1961 for certain assessment years.
+- (1) The Labour Codes notified by The Government of India on November 21, 2025 which resulted in an increase in gratuity liability, a defined benefit plan (arising out of past service cost relating to plan amendment) and compensated absences by ` 1,146 crore and ` 1,289 crore on standalone and consolidated basis respectively. This also resulted in a lower tax of ` 282 crore and ` 318 crore on standalone and consolidated basis, respectively, for the year ended March 31, 2026.
+- (2) Excluding the effect of Income Tax orders received under Sections 250 and 254 of the Income-tax Act, 1961 and The Labour Codes provisions notified by the Government of India, Basic EPS increase (in ` terms) is 15.9% and 12.1% YoY on standalone and consolidated basis for the year ended March 31, 2026.
+- (3) Excluding the effect of Income Tax orders received under Sections 250 and 254 of the Income-tax Act, 1961 and The Labour Codes provisions notified by the Government of India, Diluted EPS increase (in ` terms) is 16.0% and 12.2% YoY on standalone and consolidated basis for the year ended March 31, 2026.
 
+## Financial position
+(In ` crore)
+| Particulars                                                                    | Standalone As at March 31,   | Standalone As at March 31,   | Consolidated   | Consolidated   |
+|--------------------------------------------------------------------------------|------------------------------|------------------------------|----------------|----------------|
+|                                                                                | 2026                         | 2025                         | 2026           | 2025           |
+| Net current assets                                                             | 40,794                       | 45,406                       | 51,167         | 54,249         |
+| Property, plant and equipment (including capital work-in-progress)             | 11,286                       | 10,848                       | 13,177         | 12,592         |
+| Right-of-use assets                                                            | 2,851                        | 3,078                        | 6,177          | 6,311          |
+| Goodwill and other intangible assets                                           | 211                          | 211                          | 14,942         | 12,872         |
+| Other non-current assets                                                       | 31,912                       | 33,631                       | 18,182         | 20,029         |
+| Total assets                                                                   | 1,26,691                     | 1,24,936                     | 1,55,967       | 1,48,903       |
+| Non-current lease liabilities                                                  | 2,815                        | 2,694                        | 6,016          | 5,772          |
+| Other non-current liabilities                                                  | 3,365                        | 3,148                        | 4,332          | 4,078          |
+| Retained earnings - Opening balance                                            | 71,520                       | 62,551                       | 78,627         | 68,405         |
+| Add:                                                                           |                              |                              |                |                |
+| Profit for the year                                                            | 29,211                       | 25,568                       | 29,440         | 26,713         |
+| Transfer from Special Economic Zone Re-investment Reserve to retained earnings | 1,956                        | 2,999                        | 2,214          | 2,999          |
+| Transfer from Special Economic Zone Re-investment Reserve on utilization       | 1,261                        | 821                          | 1,260          | 881            |
+| Changes in the controlling stake of a subsidiary                               | -                            | -                            | 7              | -              |
+| Less:                                                                          |                              |                              |                |                |
+| Dividends                                                                      | (18,694)                     | (20,345)                     | (18,653)       | (20,295)       |
+| Transfer to Special Economic Zone Re-investment Reserve                        | -                            | (74)                         | -              | (74)           |
+| Transfer to legal reserve                                                      | -                            | -                            | (9)            | (2)            |
+| Buyback of equity shares                                                       | (16,346)                     | -                            | (16,346)       | -              |
+| Transaction cost relating to buyback (net of tax)                              | (27)                         | -                            | (27)           | -              |
+| Financial liability under options arrangement                                  | -                            | -                            | (10)           | -              |
+| Retained earnings - Closing balance                                            | 68,881                       | 71,520                       | 76,503         | 78,627         |
+| Equity share capital                                                           | 2,027                        | 2,076                        | 2,024          | 2,073          |
+| Other reserves and surplus (1)                                                 | 9,753                        | 13,608                       | 8,013          | 12,116         |
+| Other comprehensive income                                                     | 213                          | 128                          | 6,312          | 3,002          |
+| Non-controlling interest                                                       | -                            | -                            | 445            | 385            |
+| Total equity                                                                   | 80,874                       | 87,332                       | 93,297         | 96,203         |
+| Total equity and liabilities                                                   | 1,26,691                     | 1,24,936                     | 1,55,967       | 1,48,903       |
+
+(1) Excluding retained earnings
+## Based on consolidated financial statements
+## Revenue distribution by geographical segments (in %)
 <!-- image -->
+2025
+2026
+## Revenue distribution by business segments (in %)
+Revenue distribution by business segments (in %)
 <!-- image -->
-<!-- image -->
-<!-- image -->
-<!-- image -->
-<!-- image -->
-<!-- image -->
-|   3. | Sustainable impact through improved cookstoves and clean energy solutions   | Meghalaya   | Self-implementation   |
-|------|-----------------------------------------------------------------------------|-------------|-----------------------|
-|   4. | Improved cookstoves in Maharashtra - Helping women and environment          | Maharashtra | Self-implementation   |
-|   5. | Bringing circularity through biogas installation in Karnataka               | Karnataka   | Self-implementation   |
-|   6. | Bringing circularity through biogas installation in Maharashtra             | Maharashtra | Self-implementation   |
+(1) FS - Includes enterprises in Financial Services and Insurance
+(2) MFG - Includes enterprises in Manufacturing
+- (3) EURS - Includes enterprises in Energy, Utilities, Resources and Services
 
-## Theme 3: Promotion of national heritage, art and culture
-Impact: Strengthening the physical, digital, and institutional environments that enable art and heritage to thrive. Renovated and purpose-built performance spaces restored scale, dignity, and accessibility for artists and audiences, while outreach programs expanded visibility, fair support, and participation for under represented practitioners.
-|   Sl. No. | CSR Project under Assessment                                                                                            | Project Location                                                             | Implementation     |
-|-----------|-------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|--------------------|
-|        1. | Bharatiya Vidya Bhavan - Khincha Auditorium Renovation                                                                  | Karnataka                                                                    | Infosys Foundation |
-|        2. | Yakshagana Kalaranga - Construction of Infosys Foundation Yakshagana Development, Training and Research Centre (IYCTRC) | Karnataka                                                                    | Infosys Foundation |
-|        3. | Bharatiya Vidya Bhavan - Indian Arts Cultural Outreach Programme                                                        | Delhi, Karnataka, Kerala, Madhya Pradesh, Maharashtra, Punjab, and Telangana | Infosys Foundation |
-
-Detailed impact assessment reports can be accessed at csr-impact-assessment-reports2025-26.pdf.
-5. (a) Average net profit of the Company as per sub-section (5) of Section 135: ` 28,848.03 crore
-2. (b) Two percent of average net profit of the Company as per sub-section (5) of Section 135: ` 576.96 crore
-3. (c) Surplus arising out of the CSR projects or programs or activities of the previous financial years: ` 0.40 crore*
-4. (d) Amount required to be set-off for the financial year, if any: Nil
-5. (e) Total CSR obligation for the financial year [(b)+(c)-(d)]: ` 577.36 crore
-* The surplus relates to fiscal 2026.
-6. (a) Amount spent on CSR projects (both ongoing project and other than ongoing project): ` 547.50 crore
-8. (b) Amount spent in administrative overheads: ` 9.25 crore
-9. (c) Amount spent on Impact Assessment: ` 1.69 crore
-10. (d) Total amount spent for the financial year [(a)+(b) +(c)]: ` 558.44 crore
-11. (e) CSR amount spent or unspent for the financial year:
-
-| Total amount spent for           | Amount unspent (In ` crore)                                                           | Amount unspent (In ` crore)                                                           | Amount unspent (In ` crore)                                                                                         | Amount unspent (In ` crore)                                                                                         | Amount unspent (In ` crore)                                                                                         |
-|----------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
-| the financial year (in ` Crores) | Total amount transferred to unspent CSR account as per sub-section (6) of Section 135 | Total amount transferred to unspent CSR account as per sub-section (6) of Section 135 | Amount transferred to any fund specified under Schedule VII as per second proviso to sub-section (5) of Section 135 | Amount transferred to any fund specified under Schedule VII as per second proviso to sub-section (5) of Section 135 | Amount transferred to any fund specified under Schedule VII as per second proviso to sub-section (5) of Section 135 |
-|                                  | Amount (In ` crore)                                                                   | Date of transfer                                                                      | Nameof the fund                                                                                                     | Amount                                                                                                              | Date of transfer                                                                                                    |
-| 558.44 (1)                       | 19.00                                                                                 | Refer to Note (2)                                                                     | NA                                                                                                                  | NA                                                                                                                  | NA                                                                                                                  |
-
-## Note:
-(1) Includes surplus of ` 0.40 crore generated and spent during the year.
-(2) The unspent amount will be transferred to unspent CSR account within 30 days from the end of the financial year, in accordance with the Companies Act, 2013 read with the Companies (Corporate Social Responsibility Policy) Rules, 2014, as amended ('CSR Rules').
-## (f) Excess amount for set-off:
-| Sl. No.   | Particulars                                                                                                     | Amount (In ` crore)   |
-|-----------|-----------------------------------------------------------------------------------------------------------------|-----------------------|
-| (i)       | Two percent of average net profit of the company as per sub-section (5) of Section 135                          | 576.96                |
-| (ii)      | Total amount spent for the financial year (1)                                                                   | 558.04                |
-| (iii)     | Excess amount spent for the financial year [(ii)-(i)] (2)                                                       | 0.08                  |
-| (iv)      | Surplus arising out of the CSR projects or programmes or activities of the previous financial years, if any (3) | 0.40                  |
-| (v)       | Amount available for set off in succeeding financial years [(iii)-(iv)]                                         | Nil                   |
-
-## 7.  Details of unspent Corporate Social Responsibility amount for the preceding three financial years:
-| Sl. No.   | Preceding financial year(s)   | Amount transferred to Unspent CSR account under sub-section (6) of Section 135   | Balanceamount in unspent CSR account under sub-section (6) of Section 135 (1)   | Amount spent in the financial year   | Amount transferred to a fund as specified under Schedule VII as per second proviso to sub-section (5) of Section 135, if any   | Amount transferred to a fund as specified under Schedule VII as per second proviso to sub-section (5) of Section 135, if any   | Amount remaining to be spent in succeeding financial years   | (In ` crore) Deficiency, if any   |
-|-----------|-------------------------------|----------------------------------------------------------------------------------|---------------------------------------------------------------------------------|--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|-----------------------------------|
-|           |                               |                                                                                  |                                                                                 |                                      | Amount                                                                                                                         | Date of transfer                                                                                                               |                                                              |                                   |
-| 1         | 2023                          | 45.33                                                                            | 0.08                                                                            | 0.08                                 | NIL                                                                                                                            | NA                                                                                                                             | NIL                                                          | NA                                |
-| 2         | 2024                          | 39.54                                                                            | 0.03                                                                            | 0.03                                 | NIL                                                                                                                            | NA                                                                                                                             | NIL                                                          | NA                                |
-| 3         | 2025                          | 16.15                                                                            | 16.15                                                                           | 9.10                                 | NIL                                                                                                                            | NA                                                                                                                             | 7.05                                                         | NA                                |
-
-## Note:
-(1) Unspent balance as on April 1, 2025
-## 8. Details of capital assets created or acquired through Corporate Social Responsibility amount spent during the financial year:
-Number of Capital assets created / acquired: 24
-Furnish the details relating to such asset(s) so created or acquired through Corporate Social Responsibility amount spent in the financial year:
-| Sl. No.   | Short particulars of the property or asset(s) [including complete address and location of the property]                                                                                                                                                                                                                   | Pin code of the property or asset(s)   | Date of creation   | Amount of CSR amount spent (1) (in `   | Details of entity/ Authority/ beneficiary of the registered owner   | Details of entity/ Authority/ beneficiary of the registered owner   | Details of entity/ Authority/ beneficiary of the registered owner                                   |
-|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|--------------------|----------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-|           |                                                                                                                                                                                                                                                                                                                           |                                        |                    | crore)                                 | CSR Registration Number, if applicable                              | Name                                                                | Registered address                                                                                  |
-| 1.        | Medical equipment and software system for Universal Cornea Care Mission Address: Hyderabad Eye Institute, Road no.2, Banjara hills, L.V. Prasad Marg, Hyderabad - 500034                                                                                                                                                  | 500034                                 | Feb 26, 2026       | 21.08 (2)(i)                           | CSR00001698                                                         | Hyderabad Eye Institute                                             | Hyderabad Eye Institute, Road no.2, Banjara hills, L.V. Prasad marg, Hyderabad - 500034             |
-| 2.        | Setting up the center for cybercrime investigation, training, and research to accelerate and strengthen Karnataka's cybercrime investigation momentum through capacity-building, research, and development Address: Carlton House, No.1, Dr. A Krishna Rao Road, Ambedkar Veedhi, Sampangi Rama Nagar, Bangalore - 560001 | 560001                                 | Mar 23, 2026       | 5.38 (2)(ii)                           | CSR00011848                                                         | Data Security Council of India                                      | Data Security Council of India 4 th Floor, NASSCOM Campus, Plot n. 7-10, Sector-126, Noida - 201303 |
-
-| Sl. No.   | Short particulars of the property or asset(s) [including complete address and location of the property]                                                                                                                                                                                                                                                     | Pin code of the property or asset(s)   | Date of creation             | Amount of CSR amount spent (1) (in `   | Details of entity/ Authority/ beneficiary of the registered owner   | Details of entity/ Authority/ beneficiary of the registered owner   | Details of entity/ Authority/ beneficiary of the registered owner                                                    |
-|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|------------------------------|----------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
-|           |                                                                                                                                                                                                                                                                                                                                                             |                                        |                              | crore)                                 | CSR Registration Number, if applicable                              | Name                                                                | Registered address                                                                                                   |
-| 3.        | Interiors and maintenance of Konappana Agrahara Metro station, Bengaluru Address: Konappana Agrahara Metro station, Bengaluru - 560100                                                                                                                                                                                                                      | 560100                                 | Mar 31, 2026                 | 1.57                                   | Not Applicable                                                      | Bangalore Metro Rail Corporation Ltd (BMRCL)                        | Bangalore Metro Rail Corporation Ltd (BMRCL) 3 rd floor, BMTC complex, Kengal Hanumanthaiah road, Bengaluru - 560027 |
-| 4.        | Promote environmental sustainability and ecological balance while enhancing farmer livelihoods through tree plantation initiatives and the provision of advanced farming equipment and essential infrastructure. Address: Kalinga Kusum Foundation (KKF) Plot No. 152, 2 nd Floor, Near TCS AUMBuilding, Infocity Road, Patia, Bhubaneswar, Odisha - 751024 | 751024                                 | Jul 31, 2025 to Mar 13, 2026 | 1.05                                   | CSR00004313                                                         | Kalinga Kusum Foundation (KKF)                                      | Plot No. 152, 2 nd Floor, Near TCSAUM Building, Infocity Road, Patia, Bhubaneswar, Odisha - 751024                   |
-
-Note :
-1.  The above table includes assets which have been completed in fiscal 2026.
-2.  Amount spent in fiscal 2026 and does not indicate the complete value of the asset.
-3. [ The details of CSR projects less than ` 1 crore will be made available on the website, at https://www.infosys.com/investors/reports-filings/documents/csr-capital-assets2025-26.pdf](https://www.infosys.com/investors/reports-filings/documents/csr-capital-assets2024-25.pdf)
-4.  Amount spent in previous fiscal years:
-5. (i) Medical equipment and software system for Universal Cornea Care: ` 18.60 crore
-6. (ii) Setting up the center for cybercrime investigation, training, and research to accelerate and strengthen Karnataka's cybercrime investigation momentum through capacity-building, research and development: ` 4.37 crore
-7. (iii) Construction of Konappana Agrahara Metro station, Bengaluru : ` 182.39 crore
-8. (iv) Providing medical equipment to Post Graduate Institute of Medical Education &amp; Research (PGIMER): ` 51.45 crore
-9. (v) Construction of skill development training center and other facilities, including hostel rooms, classroom, labs, workshop rooms and a large dining area: ` 10.31 crore
-10. (vi) Construction of a girls' hostel in Pune at Shrimad Rajchandra Aatma Tatva Research Center: ` 9 crore
+(4) Retail - Includes enterprises in Retail, Consumer Packaged Goods and Logistics
+(5) COM - Includes enterprises in Communication, Telecom OEM and Media
+(6) Hi- Tech - Includes enterprises in Hi-Tech
+(7) LS - Includes enterprises in Life Sciences and Healthcare
+(8) Others - Includes operating segments of businesses in India, Japan, China, Infosys Public Services and identified enterprises in public services
+## Capital Allocation Policy
+Effective from financial year 2025, the Company expects to continue its policy of returning approximately 85% of the free cash flow cumulatively over a five-year period through a combination of semi-annual dividends and / or share buyback / special dividends, subject to applicable laws and requisite approvals, if any. Under this policy, the Company expects to progressively increase its annual dividend per share (excluding special dividend, if any). Free cash flow is defined as net cash provided by operating activities less capital expenditure as per the Consolidated Statement of Cash Flows prepared under IFRS. Dividend and buyback include applicable taxes.
+In line with the Capital Allocation Policy, the Board, at its meeting held on September 11, 2025, approved a proposal to buy back fully paid-up equity shares of face value ` 5 each, aggregating up to ` 18,000 crore, which was subsequently approved by shareholders via postal ballot on November 4, 2025.
+The Buyback involved the purchase of 10,00,00,000 equity shares, representing approximately 2.41% of the Company's paid-up equity share capital (standalone) as of June 30, 2025, at a price of ` 1,800 per share. The offer was made to all eligible shareholders as on the record date (November 14, 2025) on a proportionate basis through the tender offer route, including shareholders who became eligible via ADS cancellation. The tender period was open from November 20 to November 26, 2025. The buyback was completed on December 4, 2025, with all shares extinguished, resulting in a cash outflow of ` 18,000 crore (excluding transaction costs), funded from free reserves including securities premium, in accordance with Section 68 of the Companies Act, 2013.
+Further, as required under Section 69, the Company created a Capital Redemption Reserve of ` 50 crore as at March 31, 2026, equivalent to the nominal value of shares bought back, by appropriating from general reserves.
+During the year ended March 31, 2026, the Company paid an interim dividend of ` 23 per equity share and announced a final dividend of ` 25 per share, subject to shareholders' approval in the ensuing Annual General Meeting (AGM), including the final dividend declared above, the Company has returned approximately ` 55,523 crore, which is 82.1% of the free cash flow for fiscal 2025 and 2026 through dividends and buybacks, in line with the Capital Allocation Policy.
+[The Capital Allocation Policy is available on our website, at https://www.infosys.com/investors/corporate-governance/ documents/capital-allocation-policy.pdf.](https://www.infosys.com/investors/corporate-governance/documents/capital-allocation-policy.pdf)
+## Liquidity
+Our principal sources of liquidity are cash and cash equivalents, investments and the cash flow that we generate from our operations. We continue to be debt-free and maintain sufficient cash to meet our strategic and operational requirements. We understand that liquidity in the Balance Sheet has to balance between earning adequate returns and the need to cover financial and business requirements. Liquidity enables us to be agile and ready to meet unforeseen strategic and business needs and opportunities.
+As of March 31, 2026, we had ` 40,794 crore in working capital on a standalone basis, and ` 51,167 crore on a consolidated basis.
+Consolidated cash and investments stand at ` 28,662 crore on a standalone basis and ` 43,075 crore on a consolidated basis as on March 31, 2026, as against ` 35,916 crore on a standalone basis, and ` 47,549 crore on a consolidated basis as on March 31, 2025.
+Consolidated cash and investments, on both standalone and consolidated basis, include deposits with banks with high credit ratings assigned by international and domestic credit rating agencies. As a result, liquidity risk of cash and cash equivalents is limited. Ratings are monitored periodically. Liquid assets also include investments in debt mutual fund units, tax-free bonds, Certificates of Deposit (CDs), Commercial Paper (CP), quoted bonds and securities issued by government and quasi-government organizations, and non-convertible debentures. CDs and CPs represent marketable securities of banks, Non-Banking Financial Companies (NBFCs) and eligible financial institutions for a specified time period with high credit rating given by domestic credit rating agencies. Government securities are highly liquid and marketable instruments issued across tenure, backed by the Government and carrying a sovereign credit. Investments made in non-convertible debentures are issued by government-aided institutions and financial institutions with high credit rating. We invest after considering counterparty risks based on multiple criteria including Tier-I capital, capital adequacy ratio, credit rating, profitability, Non Performing Asset (NPA) levels and deposit base of banks and financial institutions.
+The details of these investments are disclosed under the 'non-current and current investments' section in the Standalone and Consolidated financial statements in this Integrated Annual Report.
+## Capital expenditure on tangible assets
+## Leases
+## Buyback and dividend
+The Company recommended / declared buyback and dividend as under:
+|                                                     | Fiscal 2026                | Fiscal 2026                  | Fiscal 2026          | Fiscal 2025                | Fiscal 2025                  | Fiscal 2025          |
+|-----------------------------------------------------|----------------------------|------------------------------|----------------------|----------------------------|------------------------------|----------------------|
+|                                                     | Dividend per share (in ` ) | Dividend payout (in ` crore) | Buyback (in ` crore) | Dividend per share (in ` ) | Dividend payout (in ` crore) | Buyback (in ` crore) |
+| Interim dividend                                    | 23.00                      | 9,534                        |                      | 21.00                      | 8,698                        |                      |
+| Final dividend                                      | 25.00 (1)                  | 10,117 (1)                   |                      | 22.00                      | 9,116                        |                      |
+| Total dividend                                      | 48.00                      |                              |                      | 43.00                      |                              |                      |
+| Buyback at ` 1,800/-# per share                     |                            |                              | 18,000 #             |                            |                              | -                    |
+| Payout ratio (Buyback, interim and final dividend)* | 113.9% (2)                 |                              |                      | 51.6%                      |                              |                      |

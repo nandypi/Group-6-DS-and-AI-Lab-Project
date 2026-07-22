@@ -1,299 +1,144 @@
 ---
 document_name: "Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26.md"
 group_id: "Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26__group_016"
-source_section_count: 4
-page_start: 132
-page_end: 139
-estimated_tokens: 8643
+source_section_count: 2
+page_start: 69
+page_end: 73
+estimated_tokens: 4476
 source_section_ids:
-  - "Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26__057"
-  - "Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26__058"
-  - "Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26__059"
-  - "Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26__060"
+  - "Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26__029"
+  - "Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26__030"
 ---
 
-## 6. Details of complaints with regard to conflict of interest:
-|                                                                                              | Fiscal 2026   | Fiscal 2026   | Fiscal 2025   | Fiscal 2025   |
-|----------------------------------------------------------------------------------------------|---------------|---------------|---------------|---------------|
-|                                                                                              | Number        | Remarks       | Number        | Remarks       |
-| Number of complaints received in relation to issues of conflict of interest of the Directors | -             |               | -             |               |
-| Number of complaints received in relation to issues of conflict of interest of the KMPs      | -             |               | -             |               |
+## Capital Allocation Policy
+Refer to the Board's report in this Integrated Annual Report for details on our Capital Allocation Policy, reviewed and approved on April 18, 2024.
+## 8.  Related party transactions
+These have been discussed in detail in Note 2.24 to the Standalone Financial Statements in this Integrated Annual Report.
+## 9.  Events occurring after Balance Sheet date
+There were no significant events that occurred after the Balance Sheet date apart from the ones mentioned in 'Material changes and commitments affecting financial position between the end of the fiscal and date of the report' in the Board's report in this Integrated Annual Report.
+## 10. Key financial ratios
+In accordance with the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, the Company is required to give details of significant changes (change of 25% or more as compared to the immediately previous financial year) in key sector-specific financial ratios.
+The Company has identified the following ratios as key financial ratios:
+| Particulars                                   | Standalone   | Standalone   |   Consolidated |   Consolidated |
+|-----------------------------------------------|--------------|--------------|----------------|----------------|
+|                                               | 2026         | 2025         |           2026 |           2025 |
+| Market capitalization to revenues (times)     | NA           | NA           |            2.8 |            4.0 |
+| Price / Earnings (times)                      | NA           | NA           |           17.5 |           24.4 |
+| Days Sales Outstanding (DSO) in USD terms (1) | -            | -            |             67 |             69 |
+| Cash and investment (2) as a %of total assets | 22.6         | 28.7         |           27.6 |           31.9 |
+| Revenue growth (%)                            | 9.0          | 5.9          |            9.6 |            6.1 |
+| Operating margin (%) (5)                      | 21.9         | 22.6         |           20.3 |           21.1 |
+| Net profit margin (%)                         | 19.6         | 18.7         |           16.5 |           16.4 |
+| Current ratio (times)                         | 2.0          | 2.4          |            2.0 |            2.3 |
+| Debt equity ratio (times) (3)                 | 0.0          | 0.0          |            0.1 |            0.1 |
+| Debtors turnover (times)                      | 5.2          | 5.3          |            5.4 |            5.3 |
+| Interest coverage ratio (times) (4)           | 188.2        | 161.4        |           97.1 |           91.4 |
+| Basic EPS (₹) (6)                             | 70.87        | 61.58        |          71.58 |          64.50 |
 
-7. Provide details of any corrective action taken or underway on issues related to fines / penalties / action taken by regulators/ law enforcement agencies/ judicial institutions, on cases of corruption and conflicts of interest.
+(1) The Company does not track DSO at a standalone level.
+(2) Includes cash and cash equivalents and investments, excluding investments in equity, preference shares and others.
+(3) Debt represents only lease liabilities.
+(4) Primarily lease interest.
+- (5) In fiscal 2026, the provisions of The Labour Codes notified by The Government of India on November 21, 2025, has resulted in an increase in gratuity liability, a defined benefit plan (arising out of past service cost relating to plan amendment) and compensated absences by ₹1,146 crore and ₹1,289 crore on a standalone and consolidated basis, respectively. Consequently the operating margin has dropped by 0.8% and 0.7% on a standalone and consolidated basis, respectively.
+- (6) Includes positive impact on Basic EPS of ₹2.81 and ₹2.80, respectively, on account of orders received under Sections 250 and 254 of the Income Tax Act, 1961, from the Income tax authorities in India for certain assessment years, on a consolidated and standalone basis, respectively. This was partially offset by a negative impact on Basic EPS of ₹2.36 and ₹2.10, respectively, attributable to the Labour Codes notified by the Government of India on November 21, 2025, which resulted in an increase in gratuity liability, a defined benefit plan (arising out of past service cost relating to plan amendment) and compensated absences on a consolidated and standalone basis respectively for fiscal 2026.
 
-Not applicable
-## 8. Number of days of accounts payables ((Accounts payable *365) / Cost of goods/services procured) in the following format:
-|                                    |   Fiscal 2026 |   Fiscal 2025 |
-|------------------------------------|---------------|---------------|
-| Number of days of accounts payable |            42 |            41 |
+Includes positive impact on Basic EPS of ₹1.03 on account of orders received under Section 250 of the Income-Tax Act, 1961, from the Income tax authorities in India for certain assessment years on a consolidated and standalone basis respectively for fiscal 2025 ( Refer to Note 2.17 of the Standalone and Consolidated Financial Statements included in this Integrated Annual Report for further details).
+## Return on net worth
+The details of return on net worth at standalone and consolidated levels are as follows:
+| Particulars             |   Standalone |   Standalone |   Consolidated |   Consolidated |
+|-------------------------|--------------|--------------|----------------|----------------|
+|                         |         2026 |         2025 |           2026 |           2025 |
+| Return on net worth (%) |         34.7 |         30.3 |           31.2 |           29.0 |
 
-## 9. Open-ness of business
-Provide details of concentration of purchases and sales with trading houses, dealers, and related parties along-with loans and advances &amp; investments, with related parties, in the following format:
-| Parameter                      | Metrics                                                                                        | Fiscal 2026   | Fiscal 2025   |
-|--------------------------------|------------------------------------------------------------------------------------------------|---------------|---------------|
-| Concentration of Purchases (1) | a. Purchases from trading houses as %of total purchases                                        | -             | -             |
-| Concentration of Purchases (1) | b. Number of trading houses where purchases are made from                                      | -             | -             |
-| Concentration of Purchases (1) | c. Purchases from top 10 trading houses as %of total purchases from trading houses             | -             | -             |
-| Concentration of Sales (2)     | a. Sales to dealers / distributors as %of total sales                                          | -             | -             |
-| Concentration of Sales (2)     | c. Sales to top 10 dealers / distributors as %of total sales to dealers / distributors         | -             | -             |
-| Share of RPTs in (3)           | a. Purchases (Purchases with related parties / Total purchases)                                | -             | -             |
-| Share of RPTs in (3)           | b. Sales (Sales to related parties / Total sales)                                              | -             | -             |
-| Share of RPTs in (3)           | c. Loans and advances (Loans and advances given to related parties / Total loans and advances) | -             | -             |
-| Share of RPTs in (3)           | d. Investments (Investments in related parties / Total investments made)                       | -             | -             |
+Return on net worth is computed as net profit by average net worth. Net profit increased from ₹26,713 crore to ₹29,440 crore on a consolidated basis and increased from ₹25,568 crore to ₹29,211 crore on a standalone basis. Return on net worth has increased in line with the net profit increase and changes in average net worth on account of dividends and buyback.
+## Ratios where there has been a significant change from fiscal 2025 to fiscal 2026
+1.  Revenue growth for fiscal 2026 is more compared to revenue growth for fiscal 2025 and segment-level details have been explained in the relevant section above.
+2.  Market capitalization to revenues (times) reflects the share price decrease by 20% and revenue growth of 9.6% in fiscal 2026.
+3.  Price / Earnings (times) reflects the share price decrease by 20% and EPS growth of 11.0% in fiscal 2026.
 
-## 1. Awareness programmes conducted for value chain partners on any of the Principles during the financial year:
-| Total number of awareness programs held   | Topics / principles covered under the training (1)                                                                                                                                           |   %ageof value chain partners covered (by value of business done with such partners) under the awareness programs (2) |
-|-------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| 5 (1)                                     | • Anti-Corruption and Anti-Bribery • Supplier code of conduct • Environmental footprint and carbon neutrality • Waste water recycling • Business Responsibility and Sustainability Reporting |                                                                                                                 97.19 |
+## V. Outlook, risks and concerns
+We have adopted an integrated ERM framework that is implemented across the organization by the Risk Management Office. Our ERM framework is developed by incorporating the best practices based on COSO and ISO 31000 and then tailored to suit our unique business requirements.
+We have provided the details of the Infosys ERM framework, key and emerging risks along with mitigation in the Risk management report of this Integrated Annual Report. The list of risk factors that we track for our business are covered in our 20-F filing available at https://www.infosys.com/investors/reports-filings/annualreport/annual-reports.html.
+## VI. Internal Financial Control Systems and their adequacy
+Infosys has aligned its current systems of internal financial control with the requirement of the Companies Act, 2013, based on criteria established in the Internal Control - Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO). The Internal Control - Integrated Framework is intended to increase transparency and accountability in an organization's process of designing and implementing a system of internal control. The framework requires a company to identify and analyze risks and manage appropriate responses.
+Internal financial control systems include the design, implementation and maintenance of adequate internal financial controls that are operating effectively for ensuring the orderly and efficient conduct of its business, including adherence to the Company's policies, safeguarding of its assets, prevention and detection of frauds and errors, accuracy and completeness of the accounting records, and the timely preparation of reliable financial information, as required under the Act.
+In designing and evaluating our disclosure controls and procedures, the Management recognizes that any controls and procedures, no matter how well-conceived and operated, can only provide reasonable assurance that the objectives of the disclosure controls and procedures are met. Based on their evaluation as of the end of the period covered by this Integrated Annual Report , our CEO and CFO have concluded that our disclosure controls and procedures were effective to provide reasonable assurance that the information required to be disclosed in filings and submissions, is recorded, processed, summarized, and reported within the time periods specified, and that material information related to us and our consolidated subsidiaries is accumulated and communicated to the Management, including themselves as appropriate to allow timely decisions about required disclosure.
+Deloitte Haskins &amp; Sells LLP, the statutory auditors of Infosys Limited, has audited the financial statements included in this Integrated Annual Report, and as part of their audit, has issued their report on the Company's internal financial controls (as defined in Section 143 of Companies Act, 2013), on the effectiveness of our internal financial controls over Standalone and Consolidated Financial Statemen t as at March 31, 2026.
+Infosys Limited has appointed Ernst &amp; Young LLP to oversee and carry out internal audit of its activities. The audit is based on an internal audit plan, which is reviewed each year in consultation with the statutory auditors and approved by the Audit Committee.
+The CEO and CFO certification provided in the CEO and CFO Certification section of the Integrated Annual Report discusses the adequacy of our internal control systems and procedures.
+## VII.  Material developments in human resources / industrial relations, including number of people employed
+Our culture and reputation as a leader in AI-first business consulting and technology services enable us to attract and retain some of the best talent.
+## Human resources management
+Our employees are our most important assets. We are committed to hiring and retaining the best talent and being among the industry's leading employers. For this, we focus on promoting a collaborative, transparent and participative organizational culture, and rewarding merit and sustained high performance. Our human resources management focuses on allowing our employees to develop their skills, grow in their careers and navigate their next. Infosys remains committed to nurture an inclusive workplace for our diverse talent.
+<!-- image -->
 
-## 2. Does the entity have processes in place to avoid/ manage conflict of interests involving members of the Board? (Yes/No) If Yes, provide details of the same.
-Yes, the Company has established robust processes to avoid and manage conflicts of interest involving members of the Board. These include:
-1.  Declaration of Interest: All Board members are required to disclose their financial interests, affiliations, or relationships that could influence their decision-making at the time of their appointment and periodically thereafter, in compliance with statutory requirements.
-2.  Code of Conduct and Ethics: The Company has adopted a formal Code of Conduct and Ethics that defines what constitutes a conflict of interest and provides clear guidelines for identifying and managing conflicts of interest.
-3.  Recusal procedures: In cases where a potential conflict of interest is identified, the Board member concerned is required to recuse from discussions and voting on the relevant agenda item.
-4.  Approval requirements: Transactions involving entities in which the directors have an interest require the prior approval of the Board. If such transactions exceed the prescribed threshold, the approval of the shareholders is also required.
+## Philosophy
+Infosys is committed to its philosophy of a positive and equal opportunity workplace that is free of discrimination and harassment .
+<!-- image -->
+We strive to create a world-class employee experience, focusing on Experience by Design - designing consistent best-in-class policies, processes, programs and systems, keeping employees at the core of whatever we do.
+Infosys continues to uphold its belief that its people are its greatest strength. Guided by this philosophy, the organization remains committed to harnessing the full potential of technology to deliver world-class employee experience. A range of strategic initiatives has been implemented to empower employees to find purpose in their work, contribute meaningfully through highperforming teams, pursue continuous learning, and shape the future of the enterprise. These initiatives create opportunities for employees at all career stages to advance, supported by the Company's strong culture and values.
+Leadership development remains a key focus area, enabling Infosys to maintain a deep and diverse leadership pipeline. This emphasis ensures that capable leaders from within the organization are consistently prepared to take on expanded roles and emerging challenges.
+In response to evolving workplace dynamics, Infosys has adopted a hybrid work model that balances flexibility with business needs. Through increased deployment of technology and automation, the Company has enhanced workforce productivity, employee engagement, and operational excellence. A strong framework for recognition and rewards, along with the reinforcement of diversity, equity, and inclusion, contributes to a safe, supportive, and collaborative environment. Infosys' best-inclass HR practices have been acknowledged through numerous awards and industry accolades.
+## Resolution hubs
+Infosys is committed to providing a safe and positive work environment. In keeping with this philosophy, the organization envisages an open-door policy. Employees also have access to several forums where they can highlight matters or concerns faced at the workplace. This is achieved through a well-established and robust grievance resolution mechanism comprising resolution hubs.
+Resolution hubs adhere to the principles of natural justice, confidentiality, sensitivity, non-retaliation and fairness while addressing concerns. The concerns are handled with a lot of sensitivity, while delivering timely action and closure. A detailed investigation process ensures fairness for all involved, with an opportunity to present facts and any material evidence.
+## Corner Stones
+The Infosys Human Rights Statement, Global Policy on Anti-harassment / Discrimination and the Code of Conduct &amp; Ethics are the cornerstones to this philosophy.
+<!-- image -->
+## Culture
+Fostering the Speak Up Culture wherein employees are encouraged to report if they have concerns or suspect violations of the Code, Company policies and procedures, or laws.
+## Resolution Hubs at Infosys include
+## HEAR (Hearing Employees And Resolving)
+- Formal forum for resolution of workplace grievances that are unresolved at the Unit HR / Manager levels
+- Multiple layers of grievance redressal with appeal mechanism
+- Neutral panel investigates concerns to arrive at objective outcomes
+- The forum also reviews anonymous concerns in collaboration with the Whistleblower Office
 
-## PRINCIPLE 2: Businesses should provide goods and services in a manner that is sustainable and safe
-## Essential indicators
-1. Percentage of R&amp;D and capital expenditure (capex) investments in specific technologies to improve the environmental and social impacts of product and processes to total R&amp;D and capex investments made by the entity, respectively.
+The HR team implemented many enablement and preventive initiatives across the organization to strengthen awareness, enhance employee responsibility and contribute to building a more engaged and empathetic work culture.
+## HEAR (Hearing Employees and Resolving)
+The HEAR (Hearing Employees and Resolving) is an independent forum that functions as an employee grievance resolution hub under the Human Resources Department. The HEAR office reviews grievances from employees on various workplacerelated aspects that purportedly impede a positive work environment. The HEAR Office adopts a decentralized model with institutionalized presence in business, units, geographies and affiliates, including subsidiaries.
+The HEAR Office works to respond quickly and effectively to the grievances through objective reviews mediated through a neutral panel or through compliance audits that ensure adherence with relevant policies. The HEAR Office also offers advice and guidance to other departments on matters involving policy / process compliance as well as upward feedback to the senior management of the Company on the employee pulse. The mission of the HEAR Office is to serve as a fair, trusted, and effective independent resolution mechanism for the organization. This guide is based on due diligence, insights and experience gained from panel review / investigations facilitated across the organization. To know more about HEAR forum and HEAR Structure, click on ESG report 2025-2026.
+## The Anti Sexual Harassment Initiative (ASHI)
+The Anti Sexual Harassment Initiative (ASHI) is Infosys' enterprisewide framework to prevent, prohibit, and redress sexual harassment at the workplace, in line with the organization's values of integrity, respect, and fairness. ASHI is anchored in the Company's commitment to providing a safe, inclusive, and dignified work environment for all employees, contractors, and associates, with zero tolerance towards harassment and strict non-retaliation for those who raise concerns. ASHI goes beyond statutory compliance by adopting a genderneutral, employee-centric, and globally consistent approach, ensuring procedural fairness, confidentiality, and adherence to principles of natural justice.
+## ASHI (Anti-Sexual Harassment Initiative )
+- This initiative aims at prevention, prohibition and redressal of sexual harassment-related concerns.
+- Grievance Redressal Body (GRB) is the custodian of this initiative
+- Follows an Internal Complaints Committee (ICC) framework for handling and resolution of incidents
+- The scope is gender-neutral and addresses the aspect of sexual harassment at the workplace
 
-|              |   Fiscal 2026 |   Fiscal 2025 | Details of improvements in environmental and social impacts                                                                                                                                                                                                                    |
-|--------------|---------------|---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| R&D (1)(2)   |          19.9 |          16.9 | Education, training and assessment of employees to upskill and reskill, leadership training to build leadership capability and business research to produce novel, distinctive content and insights, and technology to improve environmental and social products and processes |
-| Capex (1)(2) |           3.6 |           1.5 | Efficient equipment for cooling, lighting, renewable energy, water management, waste management and sustainable material                                                                                                                                                       |
-
-- 2a. Does the entity have procedures in place for sustainable sourcing? (Yes/No)
-
-Yes. Infosys has adopted a Responsible Supply Chain &amp; Supplier Diversity Policy as well as a Green Procurement Policy to strengthen its commitment to responsible sourcing. Suppliers are also required to mandatorily sign the Supplier Code of Conduct. Periodic ESG assessments are conducted internally as well as through a third party.
-2b. If yes, what percentage of inputs were sourced sustainably?
-All our procurements follow the principles of sustainable sourcing. We require suppliers to accept the Supplier Code of Conduct, which is based on the UNGC Principles.
-3. Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end of life, for
-2. (a) Plastics (including packaging)
-3. (b) E-waste
-4. (c) Hazardous waste
-5. (d) Other waste
-4.   Whether Extended Producer Responsibility (EPR) is applicable to the entity's activities (Yes / No): No
-
-If yes, whether the waste collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution Control Boards? If not, provide steps taken to address the same.
-Not applicable Not applicable. We don't manufacture any products. We are an IT services company.
-
-## Leadership Indicators
-1. Has the entity conducted Life Cycle Perspective / Assessments (LCA) for any of its products (for manufacturing industry) or for its services (for service industry)? If yes, provide details in the following format?
-
-It is in progress. Infosys is an IT consulting and software services organization. Our life cycle practices include green procurement considerations as part of technical specifications for purchase and end-of-life management to maximize recycling.
-We have mandated Life Cycle Assessment for our new physical infrastructure, which helps in making an informed decision towards environmentally friendly products in the construction and operation of our buildings.
-2.   If there are any significant social or environmental concerns and / or risks arising from production or disposal of your products / services, as identified in the Life Cycle Perspective / Assessments (LCA) or through any other means, briefly describe the same along-with action taken to mitigate the same
-
-No. There are no significant social or environmental concerns and/or risks arising from the production and disposal of our products and services. A detailed account of our environmental footprint is available in Principle 6 of this BRSR report.
-3. Percentage of recycled or reused input material to total material (by value) used in production (for manufacturing industry) or providing services (for service industry).
-
-Not applicable.
-4. Of the products and packaging collected at end of life of products, amount (in metric tonnes) reused, recycled, and safely disposed, as per the following format:
-
-Not applicable. We are an IT services company, we don't manufacture any products.
-5. Reclaimed products and their packaging materials (as percentage of products sold) for each product category.
-
-Not applicable. We are an IT services company, we don't manufacture any products.
-## PRINCIPLE 3: Businesses should respect and promote the well-being of all employees, including those in their value chains
-## Essential indicators
-1a. Details of measures for the well-being of employees:
-| %ofemployees covered by        | %ofemployees covered by        | %ofemployees covered by        | %ofemployees covered by        | %ofemployees covered by        | %ofemployees covered by        | %ofemployees covered by        | %ofemployees covered by        | %ofemployees covered by        | %ofemployees covered by        | %ofemployees covered by        | %ofemployees covered by        |
-|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|
-| Category                       | Total (A)                      | Health insurance               | Health insurance               | Accident insurance             | Accident insurance             | Maternity benefits             | Maternity benefits             | Paternity Benefits             | Paternity Benefits             | Day Care facilities (1)        | Day Care facilities (1)        |
-|                                |                                | Number (B)                     | %(B/ A)                        | Number (C)                     | %(C/ A)                        | Number (D)                     | %(D/A)                         | Number (E)                     | %(E / A)                       | Number (F)                     | %(F / A)                       |
-|                                |                                |                                |                                |                                |                                |                                |                                |                                |                                | Permanent employees            | Permanent employees            |
-| Male                           | 1,98,969                       | 1,98,969                       | 100                            | 1,98,969                       | 100                            | NA                             | NA                             | 1,98,969                       | 100                            | -                              | -                              |
-| Female                         | 1,29,625                       | 1,29,625                       | 100                            | 1,29,625                       | 100                            | 1,29,625                       | 100                            | NA                             | NA                             | -                              | -                              |
-| Total                          | 3,28,594                       | 3,28,594                       | 100                            | 3,28,594                       | 100                            | 1,29,625                       | 100                            | 1,98,969                       | 100                            | -                              | -                              |
-| Other than Permanent employees | Other than Permanent employees | Other than Permanent employees | Other than Permanent employees | Other than Permanent employees | Other than Permanent employees | Other than Permanent employees | Other than Permanent employees | Other than Permanent employees | Other than Permanent employees | Other than Permanent employees | Other than Permanent employees |
-
-Male
-Female
-Total
-(1) We provide onsite, proximity and network (near-home) childcare support options for our employees in India, based on their preference.
-## 1b. Details of measures for the well-being of workers:
-Not applicable
-- 1c. Spending on measures towards well-being of employees and workers (including permanent and other than permanent) in the following format
-
-|                                                                            |   Fiscal 2026 |   Fiscal 2025 |
-|----------------------------------------------------------------------------|---------------|---------------|
-| Cost incurred on well-being measures as a %of total revenue of the company |           1.3 |           1.3 |
-
-Vendors and contractors are required to adhere to statutory compliances as per the respective rules of the state.
-## 2. Details of retirement benefits, for current financial year and previous financial year.
-| Benefits                          | Fiscal 2026                                    | Fiscal 2026                                | Fiscal 2026                                          | Fiscal 2025                                    | Fiscal 2025                                | Fiscal 2025                                          |
-|-----------------------------------|------------------------------------------------|--------------------------------------------|------------------------------------------------------|------------------------------------------------|--------------------------------------------|------------------------------------------------------|
-|                                   | No. of employees coveredasa%of total employees | No. of workers coveredasa%of total workers | Deducted and deposited with the authority (Y/N/N.A.) | No. of employees coveredasa%of total employees | No. of workers coveredasa%of total workers | Deducted and deposited with the authority (Y/N/N.A.) |
-| PF (1)                            | 100                                            | NA                                         | Y                                                    | 100                                            | NA                                         | Y                                                    |
-| Gratuity (1)                      | 100                                            | NA                                         | Y                                                    | 100                                            | NA                                         | Y                                                    |
-| ESI (2)                           | 2.6                                            | NA                                         | Y                                                    | 3.5                                            | NA                                         | Y                                                    |
-| National Pension Scheme (NPS) (3) | 3.7                                            | NA                                         | Y                                                    | 3.7                                            | NA                                         | Y                                                    |
-| Others - superannuation (4)       | 12.8                                           | NA                                         | Y                                                    | 12.9                                           | NA                                         | Y                                                    |
-
-This table represents retirement benefits for the employees working in India. All our employees working outside India are eligible for retirement benefits according to applicable laws in the regions we operate.
-(1) All eligible employees are covered.
-- (2) All eligible employees covered under the Employees State Insurance Act ('ESIC'), 1948 are provided the benefit.
-- (3) Pertains to contribution made by employers for employees who have opted for the same.
-
-(4) Eligible employees are participants to superannuation retirement fund.
-
-## 3. Accessibility of workplaces
-Are the premises / offices of the entity accessible to differently abled employees and workers, as per the requirements of the Rights of Persons with Disabilities Act, 2016? If not, whether any steps are being taken by the entity in this regard.
-Yes. The premises / offices of Infosys in India are accessible to differently-abled employees and workers, as per the requirements of the Rights of Persons with Disabilities Act, 2016.
-4. Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, provide a web-link to the policy.
-
-Yes, the entity has an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016. The policy of the Company is available on the website at https://www.infosys. com/careers/discover/culture/documents/diversity-inclusion-policy.pdf.
-## 5. Return to work and Retention rates of permanent employees and workers that took parental leave.
-| Gender   | Permanent employees (1)    | Permanent employees (1)   | Permanent workers          | Permanent workers     |
-|----------|----------------------------|---------------------------|----------------------------|-----------------------|
-|          | Return to work rate (In %) | Retention rate (In %)     | Return to work rate (In %) | Retention rate (In %) |
-| Male     | 99.9                       | 82.8                      | NA                         | NA                    |
-| Female   | 99.4                       | 79.6                      | NA                         | NA                    |
-| Total    | 99.7                       | 81.1                      | NA                         | NA                    |
-
-Based on the recommendations of GRI standard 401-3.
-(1) 100% of our permanent employees are eligible for parental leaves subject to policy conditions.
-Permanent workers
-Other than permanent
-workers
-Permanent employees
-Other than permanent
-employees NA
-Yes, Infosys is committed to providing a safe and positive work environment as enshrined in our Code of Conduct. Employees and contract staff have
-access to a well-established robust grievance resolution mechanism known as Resolution hubs where they can highlight matters or concerns faced at
-the workplace.
-For more information, refer to Resolution hubs available in the
-Management Discussion and Analysis section
-## 7. Membership of employees and worker in association(s) or Unions recognised by the listed entity:
-| Category                  | Fiscal 2026                                          | Fiscal 2026                                                                                   | Fiscal 2026   | Fiscal 2025                                          | Fiscal 2025                                                                                   | Fiscal 2025   |
-|---------------------------|------------------------------------------------------|-----------------------------------------------------------------------------------------------|---------------|------------------------------------------------------|-----------------------------------------------------------------------------------------------|---------------|
-|                           | Total employees / workers in respective category (A) | No. of employees / workers in respective category, whoare part of association(s) or Union (B) | %(B/ A)       | Total employees / workers in respective category (C) | No. of employees / workers in respective category, whoare part of association(s) or Union (D) | %(D/C)        |
-| Total permanent employees | 3,28,594                                             | 2,989                                                                                         | 0.9           | 3,23,578                                             | 2,713                                                                                         | 0.8           |
-| Male                      | 1,98,969                                             | 2,042                                                                                         | 1.0           | 1,97,246                                             | 1,845                                                                                         | 0.9           |
-| Female                    | 1,29,625                                             | 947                                                                                           | 0.7           | 1,26,332                                             | 868                                                                                           | 0.7           |
-| Total permanent workers   |                                                      |                                                                                               |               |                                                      |                                                                                               |               |
-| Male                      |                                                      |                                                                                               | NA            |                                                      |                                                                                               |               |
-| Female                    |                                                      |                                                                                               |               |                                                      |                                                                                               |               |
-
-## 8. Details of training of employees and worker (% to total no. of employees / workers in the category):
-Category
-Male
-Female
-Total
-Total permanent workers
-Male
-Female Fiscal 2026 (1)
-* Average training hours in fiscal 2026 is 113.3 as compared to 71.3 in fiscal 2025.
-
-(1) Only for permanent employees
-(2) Includes awareness programs
-On health and safety
-measures (2)
-No. (B)
-1,98,969
-1,29,625
-3,28,594
-% (B / A)
-100
-100
-100
-Total (A)
-1,98,969
-1,29,625
-3,28,594
-## Yes/No (If Yes, then give details of the mechanism in brief)
-On skill upgradation*
-No. (C)
-% (C / A)
-1,62,577
-1,06,150
-2,68,727
-81.7
-81.9
-81.8
-NA
-Total (D)
-1,97,246
-1,26,332
-3,23,578
-of this Integrated Annual Report.
-Fiscal 2025 (1)
-On health and safety
-measures (2)
-No. (E)
-1,97,246
-1,26,332
-3,23,578
-% (E / D)
-100
-100
-100
-On skill upgradation
-No. (F)
-% (F / D)
-1,75,377
-1,12,388
-2,87,765
-88.9
-89.0
-88.9
-## 9. Details of performance and career development reviews of employees and workers
-| Category                | Fiscal 2026   | Fiscal 2026   | Fiscal 2026   | Fiscal 2025   | Fiscal 2025   | Fiscal 2025   |
-|-------------------------|---------------|---------------|---------------|---------------|---------------|---------------|
-|                         | Total (A) (1) | No. (B)       | %(B/ A)       | Total (C) (1) | No. (D)       | %(D/C)        |
-| Employees               |               |               |               |               |               |               |
-| Male                    | 1,65,963      | 1,65,963      | 100           | 1,77,052      | 1,77,052      | 100           |
-| Female                  | 1,08,871      | 1,08,871      | 100           | 1,15,011      | 1,15,011      | 100           |
-| Total                   | 2,74,834      | 2,74,834      | 100           | 2,92,063      | 2,92,063      | 100           |
-| Total permanent workers |               |               |               |               |               |               |
-| Male                    |               |               | NA            |               |               |               |
-| Female                  |               |               |               |               |               |               |
-
-## 10. Health and safety management system:
-## 10a. Whether an occupational health and safety management system has been implemented by the entity? (Yes / No). If yes, the coverage of such system?
-Yes. At Infosys, Health, Safety and Environment (HSE) is an integral part of our ESG framework. Our Health, Safety and Environmental Management System (HSEMS), known as 'Ozone', is anchored in strong management commitment, compliance with applicable legal requirements, and the expectations of our stakeholders.
-Ozone has not only enabled assurance of our structured and well-established processes through globally recognized certifications, but it has also cultivated a strong culture of safety and well-being across the organization. Our robust HSEMS has enabled Infosys to achieve ISO 45001:2018 (Occupational Health &amp; Safety) certifications at locations where the system has been in place for over three years. These certifications encompass all India locations and Australia offices, including Infosys Limited and its subsidiaries, in line with our enterprise HSE strategy. Currently, over 85% of Infosys' employees are covered by ISO 45001 certification, highlighting our commitment to employee safety. The HSEMS is globally implemented across locations based on legal requirements and internal benchmarks, and it is included in our internal audit program to ensure consistent governance and performance.
-Infosys provides the highest priority to the health, safety, and well-being of its employees and key stakeholders. Our HSE Policy clearly articulates our philosophy and commitment towards proactively managing significant HSE risks and opportunities. To further strengthen occupational health outcomes, Infosys has introduced various initiatives focused on mental and emotional health, ergonomics, safety, lifestyle diseases, and preventive care. Occupational Health Centers are active across all our India campuses, supporting a comprehensive approach to employee health and well-being.
-
-## 10b. What are the processes used to identify work-related hazards and assess risks on a routine and non-routine basis by the entity?
-Infosys follows a structured approach to identify work-related hazards and assess risks across both routine and non-routine activities. Hazard identification and risk assessments are proactively carried out for existing, new, and modified activities, processes, and services, as well as in response to regulatory updates. Routine risk assessments include periodic workplace and ergonomic evaluations, monitoring utility operations, and reviewing employee commute risks. Non-routine tasks such as construction, infrastructure development, preventive maintenance, and facility modifications undergo specific risk assessments before and during their execution. Incidents and near misses are analyzed quarterly to identify trends and emerging risks. Hazards are prioritized and mitigated using the hierarchy of controls, followed by reassessment of residual risks and updates to the risk control matrix as required. Employee and stakeholder participation is integral to the risk assessment process, and learnings from past projects and current operations are incorporated continuously.
-## 10c. Whether you have processes for workers to report the work-related hazards and to remove themselves from such risks. (Y / N)
-Yes. Infosys has a robust incident reporting and management process to ensure that all work-related incidents - such as accidents, near misses, unsafe acts, and unsafe conditions - are properly reported, investigated, and resolved with suitable corrective actions. Employees can report health and safety concerns via the Infosys Helpdesk (IHD) or designated email addresses. Contract staff without system access inform their supervisors, who then escalate the issue to the local HSE team. All incidents are subject to root cause analysis, and corrective as well as preventive measures are implemented to avoid recurrence or potential injuries and losses. Employee awareness of incident reporting is strengthened through induction programs, online training modules (Lex), and targeted awareness campaigns and mailers. Learnings and corrective actions are actively shared across locations to promote consistent application and prevent future incidents.
-## 10d. Do the employees/ worker of the entity have access to non-occupational medical and healthcare services?
-Yes. Well-equipped Occupational Health Centers (OHCs), including physiotherapy facilities, are located across Infosys campuses in India. All statutory and applicable norms are ensured, with competent medical professionals working through accredited partner hospitals to manage the OHCs and physiotherapy centers. Periodic health risk assessments are performed to monitor health trends, facilitating timely specialist consultations and targeted interventions.
-Infosys proactively addresses employee well-being by offering a broad range of initiatives, including structured workshops, awareness campaigns, regular health check-ups, online chat sessions, counseling services (like Samaritans), and targeted wellness programs. Details of employee visits to OHCs are recorded digitally, adhering to specific data protection and privacy regulations for each region.
-Additionally, Infosys offers extended healthcare benefits through tie-ups with hospitals, granting employees and their dependents access to health screenings and treatments, even for non-occupational illnesses. Employees, including contractual staff, receive comprehensive insurance coverage. For contractual employees, targeted programs, such as mandatory health screenings and specific interventions are carried out, guided by identified risks, hazards, and emerging health trends.
-## 11. Details of safety related incidents, in the following format:
-| Safety Incident/Number                                                        | Category      | Fiscal 2026 (1)   | Fiscal 2025 (1)   |
-|-------------------------------------------------------------------------------|---------------|-------------------|-------------------|
-| Lost Time Injury Frequency Rate (LTIFR) (per one million-person hours worked) | Employees (2) | 0.134             | 0.101 (4)         |
-| Lost Time Injury Frequency Rate (LTIFR) (per one million-person hours worked) | Workers (3)   | NA                | NA                |
-| Total recordable work-related injuries                                        | Employees (2) | 39                | 23 (4)            |
-| Total recordable work-related injuries                                        | Workers (3)   | NA                | NA                |
-| No. of fatalities                                                             | Employees (2) | 0                 | 1                 |
-| No. of fatalities                                                             | Workers (3)   | NA                | NA                |
-| High consequence work-related injury or ill-health (excluding fatalities)     | Employees (2) | 0                 | 0                 |
-| High consequence work-related injury or ill-health (excluding fatalities)     | Workers (3)   | NA                | NA                |
-
-## 12. Describe the measures taken by the entity to ensure a safe and healthy work place.
-Infosys acknowledges that Occupational Health and Safety (OH&amp;S) is one of the key aspects of sustainable business practices. OH&amp;S policies, processes, and practices at Infosys promote the physical, emotional, and social well-being of employees in the workplace. The robust Health and Safety Management system at Infosys has earned us the certification of ISO 45001:2018 for all Indian locations and Australia offices, including Infosys Limited and its subsidiaries, in line with our HSE strategy. The Company has implemented the following measures to ensure a safe and healthy workplace:
-1.  Incident management: Incidents, which include near misses / potential hazards / accidents, are reported through internal applications or email. The causes of incidents are identified, analyzed and appropriate corrective actions are taken to prevent recurrence or occurrence of incidents leading to injuries / losses.
-2.  OH&amp;S Committee: Both employees and other than permanent employees are part of the Infosys OH&amp;S Committee, which helps in ensuring their active participation and consultation. The representation from employees in safety committees is 100%. The Committee brings employees and management together in a non-adversarial, cooperative effort to promote OH&amp;S in the workplace.
-
-3.  Training and awareness: Training includes awareness building, mock drills, classroom sessions and periodic demonstrations. HSEMS training is a part of our employee induction program. To enable continuous learning, an HSE awareness module is available on Lex, our internal learning platform. For contract staff, job-specific and general training is provided during induction and later through refresher training.
-4.  Safety interventions: We have always focused on building a culture of safety at Infosys. The safety systems in place include work permits, training, Lock Out Tag Out (LOTO), safety inspections, audits, operational controls, and monitoring. Policies have been established focusing on specific areas such as women's safety, lone working, transport, travel, construction and others.
-5.  Medical services: We have set up Occupational Health Centers (OHC) on our campuses in India. Majority of our OHCs are operational round the clock based on business requirement. We have ambulance services available or have arrangements for ambulances to be made available at all our India-based locations.
-6.  Health Risk Assessment (HRA): HRA is conducted annually based on inputs from the OHC. Being an IT / ITES company, the prevalent risks include ergonomics, Musculoskeletal Disorders (MSDs), emotional well-being, etc., associated with the workplace, operation of utilities, and commute. Numerous initiatives, interventions, engagement virtual sessions, and process controls are in place to effectively address these risks.
-7.  Programs on ergonomics: These include on-site physiotherapy centers in India, interventions by ergonomic experts and the provision of ergonomic infrastructure. Periodic sessions are conducted on back care, Repetitive Stress Injuries, and seating postures for employees across the globe.
-8.  Physical and emotional well-being: We have nutritionists at our locations in India to provide counseling and guidance. We have also set up state-of-the-art gyms to train physical and mental fitness.
-9.  Programs for mothers: Pregna Care, a professional healthcare program, is specially designed for expectant mothers and aims to provide maximum comfort for the mother, in India.
-10.   Working environment: We continued to focus on improving the working environment by monitoring indoor air quality, lux and noise levels and promoting the use of green seal chemicals.
-
-## 13. Number of complaints on the following made by employees and workers:
-|                    | Fiscal 2026           | Fiscal 2026                           | Fiscal 2026                                                                                                               | Fiscal 2025           | Fiscal 2025                               | Fiscal 2025                                                   |
-|--------------------|-----------------------|---------------------------------------|---------------------------------------------------------------------------------------------------------------------------|-----------------------|-------------------------------------------|---------------------------------------------------------------|
-|                    | Filed during the year | Pending resolution at the end of year | Remarks                                                                                                                   | Filed during the year | Pending resolution at the end of year (1) | Remarks                                                       |
-| Working conditions | 21                    | 1                                     | The resolution of complaints which are in progress relates to modifications in infrastructure which is currently underway | 35                    | 3                                         | All open complaints have been closed during early Fiscal 2026 |
-| Health and safety  | 8                     | 0                                     | -                                                                                                                         | 25                    | 2                                         | All open complaints have been closed during early Fiscal 2026 |
-
-(1) The open issues in fiscal 2025 have been closed
+In accordance with the Prevention of Sexual Harassment (POSH) Act, Internal Committees (ICs) have been established across all development centers falling under regulatory jurisdiction. These committees are responsible for redressal of sexual harassment concerns raised by women employees.
+ASHI places strong emphasis on prevention and early intervention, recognizing that a safe workplace is built through awareness, leadership accountability, and behavioral reinforcement.
+<!-- image -->
+Multiple safe reporting channels
+Continuous awareness, education and enablement
+<!-- image -->
+Monitoring and analytics
+<!-- image -->
+In addition, the Grievance Redressal Body (GRB) comprising external experts, senior internal leaders, and the Investigative Council oversees governance, policy interpretation, and implementation pertaining to prevention of sexual harassment at the workplace.
+Employees can report concerns via the ASHI web application, the InfyMe app, or by writing to GRB@infosys.com. All cases follow a formal process aligned with statutory requirements and Company policies.
+## Behavior Matters
+The Behavior Matters campaign aims to draw attention to the attributes that contribute to a positive work culture, while ensuring that every employee feels valued and respected. Behavior at the workplace matters as it has a direct impact on the work environment. Good behavior from every employee contributes to the overall culture, well-being of teams, and the work environment. Positive behavior fosters a culture of respect, collaboration and productivity. When employees feel valued and respected, they are likely to be engaged, motivated and committed to their work.
+## A GREAT WORKPLACE STARTS WITH EVERYDAY BEHAVIOR
+## #BehaviorMatters
+<!-- image -->
+## Extending the commitment to contract staff
+Infosys extends its commitment of a safe and inclusive workplace to all third-party personnel operating on its campuses. Refresher training sessions, delivered in nine Indian languages, are conducted to reinforce key messages on safety and conduct. Emergency and safety cards with essential contact information are also provided to employees and contracted staff.
+## Whistleblower Policy
+The Company has formulated the Whistleblower Policy in line with the mandated regulatory requirements - SarbanesOxley Act (SOX), 2002 and the Companies Act, 2013 - which mandates listed companies to establish a 'vigil mechanism' for reporting genuine concerns.
+The forum is predominantly for the receipt, retention and treatment of complaints regarding matters of probable discrepancies in accounting, internal accounting controls or auditing, and also enables anonymous reporting by employees. While the Whistleblower Policy and the forum is administered and managed by the Office of Integrity and Compliance, complaints (anonymous or otherwise) pertaining to deviations in workplace policies / processes involving employees are reviewed in tandem by the Employee Relations Department.
+## Human rights
+As a signatory to the 'United Nations Global Compact', Infosys Limited supports the protection and elevation of human rights in accordance with the United Nations Universal Declaration of Human Rights, United Nations Guiding Principles on Business and Human Rights ('UN Guiding Principles') and the International Labor Organization's Declaration on Fundamental Principles and Rights at Work ('ILO Declaration'). We are signatories to the UN Women's Empowerment Principles.
+A fundamental tenet of the Infosys Code of Conduct and Ethics is 'Respecting Each Other.' This articulates our commitment to provide an equal opportunity workplace free of discrimination or harassment. Our Human Rights Statement provides a broad framework to ensure that all employees are treated with respect and dignity and that a common set of principles apply to our business practices to ensure that we do not condone human rights violations or abuses.
+[Further details are available in the Infosys Code of Conduct: https://www.infosys.com/investors/corporate-Governance/ documents/codeofconduct.pdf.](https://www.infosys.com/investors/corporate-Governance/documents/codeofconduct.pdf)
+## Recruitment
+As of March 31, 2026, the Group employed 3,28,594 employees, of which 3,10,887 were professionals involved in service delivery to clients, including trainees.
+We continually seek and employ a diverse workforce across various IT fields. We have established strong connections with leading institutions worldwide and recruit students who consistently demonstrate exceptional performance. Our flagship initiative, HackWithInfy, an online coding competition, has earned international recognition over the years, enabling us to attract top-tier coding talent.
+We remained steadfast in our commitment to the RestartWithInfy initiative to welcome back women who had taken a career break. We were able to hire 947 women into the Infosys ecosystem in Fiscal 2026 through this successful endeavor.
+During fiscal 2026, we received 58,84,480 employment applications, interviewed 4,50,901 applicants and extended offers of employment to 87,286 applicants. These statistics do not include our subsidiaries.
+## Education, training and assessment (ETA)
+Infosys continues to invest in developing human potential for the organization, and the world at large. We are now experiencing the play of Human + AI in multiple fields, including learning. This technology wave gives us the ability to hyper personalize learning, at scale, across all our learning offerings. These efforts have helped us garner recognitions, including from Brandon Hall and ATD Best.
+The Foundation Training Program, enables newly onboarded entry-level hires to transform into corporate professionals. Comprising over 40+ technology streams, the curriculum has kept pace with the dynamic business requirements and the preferred pedagogical approach of the current generation of talent. Generative AI and prompt engineering courses have been introduced to ensure freshers are adept in the new skills fiscal 2026, 10,766 fresh graduates completed the training at the Global Education Center (GEC) campus, Mysuru and were released to delivery units. Many of them are first-generation professionals from diverse geographies.
+Our Continuous Education Program is aimed at reskilling / upskilling our existing employees with the twin objectives of increasing fulfilment of skilled talents in client projects and enriching their expertise in next-generation digital technologies and methodologies, including gen AI technologies. We provide online self-learning, instructor-led virtual training opportunities along with in-person classroom training opportunities to our employees. Bridge programs help employees with training and internship opportunities to switch to a new career field, while retaining them within the organization. In fiscal 2026, 81.8% of our workforce trained with annual employee learning hours averaging at 113 hours. Cumulatively, 84% of our workforce is now AI-aware, reflecting strong progress in future-ready skills.
+Lex, our in-house learning platform, offers over 40,000+ curated courses, which includes over 30,000 courses procured from vendor partners both for enterprise consumption and niche communities with specific knowledge requirements. On an average, 37,000 employees used Lex on weekdays and around 8,000 employees used it on weekends, with an average learning time of 39 minutes.
+Infosys Wingspan, our configurable talent transformation platform for clients, is used by several global organizations for their talent transformation programs.
+Infosys Springboard, led by a dedicated team of experts collaborating globally with curriculum partners, non-profits, and a global network of leading educational institutions. More than 20,000 courses are available and about 11 million learners across the world are actively consuming content on Infosys Springboard.

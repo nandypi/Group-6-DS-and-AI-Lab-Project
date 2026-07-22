@@ -1,324 +1,107 @@
 ---
 document_name: "INFY_15062026210015_Form20F_June152026.md"
 group_id: "INFY_15062026210015_Form20F_June152026__group_026"
-source_section_count: 4
-page_start: 337
-page_end: 349
-estimated_tokens: 10441
+source_section_count: 2
+page_start: 169
+page_end: 175
+estimated_tokens: 4771
 source_section_ids:
-  - "INFY_15062026210015_Form20F_June152026__086"
-  - "INFY_15062026210015_Form20F_June152026__087"
-  - "INFY_15062026210015_Form20F_June152026__088"
-  - "INFY_15062026210015_Form20F_June152026__089"
+  - "INFY_15062026210015_Form20F_June152026__050"
+  - "INFY_15062026210015_Form20F_June152026__051"
 ---
 
-## Infosys Limited Code of Conduct for Prohibition of Insider Trading
-## I. BACKGROUND AND OBJECTIVE
-Infosys Limited (' Company ') is  a  public company whose equity shares are listed on National Stock Exchange of India Limited (' NSE ') and BSE Limited (' BSE ') and subject to the rules and regulations issued by the Securities and Exchange Board of India (' SEBI '). Additionally, the Company's American Depositary Shares (' ADSs ') are listed on the New York Stock Exchange (' NYSE ') and the Company is  a 'Reporting Company' subject to  the  rules  and  regulations  of  the  Securities  Act,  1933  and  the Securities  Exchange  Act  of  1934,  and  the  Securities  and  Exchange  Commission, (' SEC' )  United States of America (' USA/ US '). For avoidance of doubt, ADSs representing Company's equity shares are also considered as Securities / shares of the Company.
-The Board ( as defined below ) of the Company has adopted this code of conduct to regulate, monitor and report trading by the Designated Persons along with their Immediate Relative as defined in this Code (' Code ') to  comply  with  the  SEBI  (Prohibition  of  Insider  Trading)  Regulations,  2015  (as amended from time to time) (' SEBI Regulations ') and the applicable US securities laws.
-This Code shall be applicable to Designated Persons and Immediate Relatives of Designated Persons as defined in this Code.
-The  SEBI  Regulations  prohibits  an  Insider  from  Trading  ( as  defined  below) in  the  Securities  of  a company listed on any stock exchange when in possession of any UPSI ( as defined below ).
-## II. CODE OF CONDUCT
-## 1. Definitions
-- 1) 'Act' shall mean the SEBI Act, 1992 (15 of 1992).
-- 2) 'Audit Committee'' shall mean committee of the Board of the Company constituted pursuant to the provisions of Section 177 of the Companies Act, 2013 read with Regulation 18 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015. (' SEBI LODR ')
-- 3) ' Board ' shall mean the board of Directors of the Company.
-- 4) ' Compliance Officer ' means the Company Secretary of the Company, or such other senior officer designated as such and reporting to the Board, or the head of the organization in case the Board is not there, who is financially literate and is capable of appreciating requirements for    legal    and    regulatory    compliance  under  the  SEBI  Regulations  and  who  shall  be responsible  for  compliance  of  policies,  procedures,  maintenance  of  records,  monitoring adherence to the rules for the preservation of UPSI, monitoring of Trades and implementation
+## Item 11. Quantitative and Qualitative Disclosures about Market Risk
+This information is set forth under the section titled 'Operating and Financial Review and Prospects' is as set out above in this Annual Report on Form 20-F and such information is incorporated herein by reference.
+## Item 12. Description of Securities Other Than Equity Securities
+The fees and charges payable by holders of our ADSs include the following:
+- i. a fee not in excess of U.S.$0.05 per ADS is charged for each issuance of ADSs including issuances resulting from distributions of shares, share splits, and rights distributions;
+- ii. a  fee  not  in  excess  of  U.S.$0.05  per  ADS  is  charged  for  each  surrender  of  ADSs  in  exchange  for  the underlying deposited securities;
+- iii. a fee not in excess of U.S.$0.01 per ADS for each cash distribution;
+- iv. a fee not in excess of U.S.$0.01 per ADS is charged for each stock dividend or other free/bonus distribution of the underlying deposited securities distributed in the form of ADSs;
+- v. an annual fee not in excess of U.S.$0.02 per ADS for the operation and maintenance costs in administering the ADSs; and
+- vi. a  fee  for  the  distribution  of  the  deposited  securities  pursuant  to  the  deposit  agreement,  such  fee  being  an amount equal to the fee for the execution and delivery of ADSs referred to in item (i) above which would have  been  charged  as  a  result  of  the  deposit  of  such  securities,  which  were  instead  distributed  by  the depositary to ADS holders.
 
-of the codes specified under the SEBI Regulations under the overall supervision of the Board.
-- 5) ' Connected Person ' means-
-- i. A Director of the Company;
-- ii. A Key Managerial Personnel of the Company;
-- iii. An Officer of the Company;
-- iv. Any person who is or has been in a contractual, fiduciary or employment relationship at any time  in  the  six-month  period  prior  to  the  date  of  determining  whether  that  person,  as  a result of such relationship, was, directly or indirectly, allowed access to UPSI or reasonably expected to be allowed access to UPSI;
-- v. Any person who is or has been in frequent communication with an Officer of the Company at any time in the six-month period prior to the date of determining whether that person, as a result of such frequent communication, was, directly or indirectly, allowed access to UPSI or reasonably expected to be allowed access to UPSI;
-- vi. An employee of the Company who has access to UPSI or is reasonably expected to have access to UPSI; and
-- vii. Any  person  who  has  a  professional  or  business  relationship  with  the  Company,  whether temporary or permanent, and that relationship directly or indirectly, allows access to UPSI or is reasonably expected to allow access to UPSI;
+Additionally, under the terms of our deposit agreement, the depositary is entitled to charge each registered holder the following:
+- i. taxes and other governmental charges incurred by the depositary or the custodian on any ADS or an equity share underlying an ADS;
+- ii. transfer or registration fees for the registration or transfer of deposited securities on any applicable register in connection with the deposit or withdrawal of deposited securities, including those of a central depository for securities (where applicable);
+- iii. any cable, telex, facsimile transmission and delivery expenses incurred by the depositary;
+- iv. customary  expenses  incurred  by  the  depositary  in  the  conversion  of  foreign  currency,  including,  without limitation,  expenses  incurred  on  behalf  of  registered  holders  in  connection  with  compliance  with  foreign exchange control restrictions and other applicable regulatory requirements;
+- v. fees  and  expenses  of  the  depositary  incurred  in  connection  with  compliance  with  regulatory  requirements applicable to ADSs or the underlying deposited securities; and
+- vi. fees and expenses incurred by the depositary or its agents in connection with the servicing of the ADSs or the underlying deposited securities, the sale of securities, the delivery of the underlying deposited securities or otherwise in connection with the depositary's or the custodian's compliance with applicable laws, rules or regulations.
 
-Without  prejudice  to  the  generality  of  the  foregoing,  the  persons  enumerated  below  shall  be deemed to be Connected Persons unless the contrary is established -
-1. A relative of connected persons as specified above in (i) to (vii);
-2. A holding company, associate company or subsidiary company;
-3. An intermediary as specified in Section 12 of the Act or an employee or director thereof;
-4. An investment company, trustee company, asset management company or an employee or director thereof;
-5. An official of a stock exchange or of clearing house or corporation;
-6. A member of the board of trustees of a mutual fund, a member of the board of directors of the asset management company of a mutual fund or in each case, an employee thereof;
-7. A  member  of  the  board  of  directors  or  an  employee,  of  a  public  financial  institution  as defined in section 2 (72) of the Companies Act, 2013;
-8. An official or an employee of a self-regulatory organization recognized, or authorized by the SEBI;
-9. A banker of the Company; and
-10. A concern, firm, trust, Hindu undivided family, company or association of persons wherein a Director of the Company or his Relative or banker of the Company, has more than ten percent of holding or interest.
-11. a firm or its partner or its employee in which a connected person as specified in (i) to (vii) is also a partner;
-12. a person sharing household or residence with a connected person as specified in (i) to (vii)
+In  the  case  of  cash  distributions,  fees  are  generally  deducted  from  the  cash  being  distributed.  Other  fees  may  be collected from holders of ADSs in a manner determined by the depositary with respect to ADSs registered in the name of investors (whether certificated or in book-entry form) and ADSs held in brokerage and custodian accounts (via DTC). In the case of distributions other than cash (i.e., stock dividends.), the depositary charges the applicable ADS record date holder concurrent with the distribution. In the case of ADSs registered in the name of the investor (whether certificated or in book-entry form), the depositary sends invoices to the applicable record date ADS holders.
+If any tax or other governmental charge is payable by the holders and / or beneficial owners of ADSs to the depositary, the  depositary,  the  custodian  or  we  may  withhold  or  deduct  from  any  distributions  made  in  respect  of  deposited securities and may sell for the account of the holder and / or beneficial owner any or all of the deposited securities and apply  such  distributions  and  sale  proceeds  in  payment  of  such  taxes  (including  applicable  interest  and  penalties)  or charges, with the holder and the beneficial owner thereof remaining fully liable for any deficiency.
+## Fees and other payments made by the depositary
+During fiscal 2026, expenses aggregating approximately $227,413 were incurred by the Depositary in relation to our ADS program towards payment made to proxy processing firms for mailing the notice, proxy card and other interim communications to ADS holders or their brokers including dividend re-investment and transfer fees.
+For  the  year  ended  March  31,  2026,  the  Depositary  has  made  payments  to  Infosys  totaling  to  approximately  $5.04 million  (post  deduction  of  withholding  tax)  which  we  may  use  for  investor  relations  activities  related  to  the  ADR program, including the production of annual reports and Form 20-F filings, listing fees, road shows, investor targeting, peer  analysis,  perception  studies,  postage  for  mailing  annual  and  interim  reports  and  other  communications  to  ADR holders,  broker  conferences,  analyst  events,  etc.  Under  certain  circumstances,  including  termination  of  our  ADS program  or  removal  of  our  Depositary,  we  may  be  required  to  repay  to  the  Depositary  a  portion  of  the  amounts reimbursed in prior periods.
+## Part II
+## Item 13. Defaults, Dividend Arrearages and Delinquencies
+None.
+## Item 14. Material Modifications to the Rights of Security Holders and Use of Proceeds
+None.
+Item 15. Controls and Procedures
+## DISCLOSURE CONTROLS AND PROCEDURES
+As of the end of the period covered by this Annual Report on Form 20-F, our management, with the participation of our CEO and CFO, has carried out an evaluation of the effectiveness of our disclosure controls and procedures, as defined in Rules  13a-15(e)  or  15d-15(e)  promulgated  under  the  Securities  Exchange  Act  of  1934,  as  amended  (the 'Exchange Act'), at March 31, 2026. The term 'disclosure controls and procedures' means controls and other procedures that are designed to ensure that information required to be disclosed in the reports we file or submit under the Exchange Act is recorded,  processed,  summarized and reported, within the time periods specified in the rules and forms of the SEC. Disclosure  controls  and  procedures  include,  without  limitation,  controls  and  procedures  designed  to  ensure  that information required to be disclosed by us in our reports that we file or submit under the Exchange Act is accumulated and communicated to management, including our CEO and CFO, as appropriate to allow timely decisions regarding our required disclosure. In designing and evaluating our disclosure controls and procedures, management recognizes that any controls and procedures, no matter how well conceived and operated, can only provide reasonable assurance that the objectives of the disclosure controls and procedures are met.
+Based on their evaluation as of the end of the period covered by this Annual Report on Form 20-F, our CEO and CFO have  concluded  that  our  disclosure  controls  and  procedures  were  effective  to  provide  reasonable  assurance  that  the information  required  to  be  disclosed  in  filings  and  submissions  under  the  Exchange  Act,  is  recorded,  processed, summarized, and reported within the time periods specified by the SEC's rules and forms, and that material information related to us and our consolidated subsidiaries is accumulated and communicated to management, including the Chief Executive Officer and Chief Financial Officer, as appropriate to allow timely decisions about required disclosure.
+## Management's Annual Report on Internal Control over Financial Reporting
+Our management is responsible for establishing and maintaining adequate internal control over financial reporting as defined  in  Rules  13a-15(f)  and  15d-15(f)  under  the  Exchange  Act.  Our  internal  control  over  financial  reporting  is  a process to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with International Financial Reporting Standards (IFRS), as issued by the  International  Accounting  Standards  Board  (IASB).  Our  internal  control  over  financial  reporting  includes  those policies and procedures that:
+- pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of our assets;
+- provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with IFRS as issued by the IASB, and that our receipts and expenditures are being made only in accordance with authorizations of our management and directors; and
+- provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of our assets that could have a material effect on the financial statements.
 
-- 6) ' Contra trade ' means a Trade or transaction which involves buying or selling Securities of the Company and within six months trading or transacting in an opposite transaction involving sell or buy following the prior transaction.
-- 7) ' Designated Person " shall consist of:
-3. i Promoters of the Company.
-4. ii Directors and Key Managerial Personnel of the Company and its material subsidiaries.
-5. iii Employees  in  the  Finance  and  Accounts,  Corporate  Planning,  Legal,  Enterprise  Risk Management, Corporate Strategy, Investor Relations, Information Security, Data Privacy, Mergers  &amp;  Acquisitions,  Corporate  Secretarial,  Marketing,  Compensation  and  Benefits and any other departments of the Company and its material subsidiaries, if any, on the basis of their functional role or that have access to UPSI, designated from time to time.
-6. iv Chief  Executive  Officer (' CEO ') and  employees  up  to  two  levels  below  CEO  of  the Company and material subsidiaries.
-7. v Executive Secretaries of Directors, Key Managerial Personnel and Executive Officers of the Company, any other support staff of the company, such as IT staff or secretarial staff who are likely to have access to UPSI.
-8. vi Any  other  person  designated  on  the  basis  of  their  functional  role  where  such  function would provide access to UPSI.
-- 8) ' Director ' shall have the meaning assigned under the Companies Act, 2013.
-- 9) 'Generally available information' means information  that  is  accessible  to  the  public  on  a non-discriminatory basis and shall not include unverified event or information reported in print or  electronic  media.  For  example,  information  which  is  published  on  the  website  of  stock exchange(s) where the Securities of the Company are listed or published by way of a press release by the Company, would ordinarily be considered generally available.
-11. 10)' Immediate Relative ' means a spouse of a person, and includes parent, sibling, and child of such  person  or  of  the  spouse,  if  they  are  either  dependent  financially  on  such  person,  or consult such person in taking decisions relating to Trading in Securities.
-12. 11)' Insider ' means any person who is:
-- i. a Connected Person or
-- ii. in possession of or having access to UPSI.
-15. 12)' Key Managerial Personnel ' shall have the meaning assigned to it under the Companies Act, 2013.
-- 13) 'Leak of UPSI' shall refer to such act / circumstance(s) by virtue of which an UPSI is made available or becomes available, by any means or mode to any person, association, body, firm, agency, society, entity or to a group thereof, whether registered or otherwise before becoming generally available and which shall also include any purported attempt thereof.
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate  because  of  changes  in  conditions,  or  that  the  degree  of  compliance  with  the  policies  or  procedures  may deteriorate.
+Management  assessed  the  effectiveness  of  our  internal  control  over  financial  reporting  as  of  March  31,  2026.  In conducting its assessment of internal control over financial reporting, management based its evaluation on the Internal Control  -  Integrated  Framework  (2013)  issued  by  the  Committee  of  Sponsoring  Organizations  of  the  Treadway Commission  (COSO).  Based  on  the  assessment,  management  has  concluded  that  our  internal  control  over  financial reporting was effective as of March 31, 2026.
+Our independent registered public accounting firm, Deloitte Haskins &amp; Sells LLP, has audited the consolidated financial statements included in this Annual Report on Form 20-F, and as part of their audit, has issued their report, included herein, on the effectiveness of our internal control over financial reporting as of March 31, 2026.
+## REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+## To the Shareholders and the Board of Directors of Infosys Limited
+## Opinion on Internal Control over Financial Reporting
+We have audited the internal control over financial reporting of Infosys Limited (the 'Company') and subsidiaries (the 'Group') as  of  March  31,  2026,  based  on  criteria  established  in Internal  Control - Integrated  Framework  (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO). In our opinion, the Group maintained, in all material respects, effective internal control over financial reporting as of March 31, 2026, based on criteria established in Internal Control - Integrated Framework (2013) issued by COSO.
+We have also audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the consolidated financial statements as of and for the year ended March 31, 2026, of the Group and our report dated June 15, 2026, expressed an unqualified opinion on those consolidated financial statements.
 
-Explanation:  It  covers  the  instances  where  the  UPSI  has  been  shared  by  a  person  to  any person,  association,  body,  firm,  agency,  society,  entity  or  to  a  group  thereof  except  in compliance with applicable law.
-- 14)' Legitimate purpose ' shall include sharing of UPSI in the ordinary course of business by an Insider  with  partners,  collaborators,  lenders,  customers,  suppliers,  merchant  bankers,  legal advisors, auditors, insolvency professionals or other advisors or consultants, provided that such sharing has not been carried out to evade or circumvent the prohibitions of these regulations. Annexure 8 provides an illustrative list of 'legitimate purposes'.
-- 15) 'Material financial relationship ' shall mean a relationship in which one person is a recipient of any kind of payment such as by way of a loan or gift from a Designated Person during the immediately preceding twelve months, equivalent to at least 25% of the annual income of such Designated  Person  but  shall  exclude  relationships  in  which  the  payment  is  based  on arm's length transactions.
-- 16)' Officer ' shall have the meaning assigned to it under the Companies Act, 2013.
-- 17) Promoter and Promoter Group :
+## Basis for Opinion
+The Group's management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting, included in the  accompanying Management's Annual Report on Internal Control over Financial Reporting. Our responsibility is to express an opinion on the Group's internal control over financial reporting based on our audit. We are a public accounting firm registered with  the  PCAOB and are required to be independent with respect to the Group in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained  in  all  material  respects.  Our  audit  included  obtaining  an  understanding  of  internal  control  over  financial reporting,  assessing  the  risk  that  a  material  weakness  exists,  testing  and  evaluating  the  design  and  operating effectiveness  of  internal  control  based  on  the  assessed  risk,  and  performing  such  other  procedures  as  we  considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion.
+## Definition and Limitations of Internal Control over Financial Reporting
+A company's internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company's internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions  and  dispositions  of  the  assets  of  the  company;  (2)  provide  reasonable  assurance  that  transactions  are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management  and  directors  of  the  company;  and  (3)  provide  reasonable  assurance  regarding  prevention  or  timely detection of unauthorized acquisition, use, or disposition of the company's assets that could have a material effect on the financial statements.
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate  because  of  changes  in  conditions,  or  that  the  degree  of  compliance  with  the  policies  or  procedures  may deteriorate.
+/s/ Deloitte Haskins &amp; Sells LLP Bengaluru, India June 15, 2026
+## CHANGES IN INTERNAL CONTROL OVER FINANCIAL REPORTING
+During the period covered by this Annual Report on Form 20-F, there were no changes in our internal control over financial reporting that have materially affected or are reasonably likely to materially affect our internal control over financial reporting.
+## Item 16A. Audit Committee Financial Expert
+Mr.  Bobby  Parikh  is  a  member  of  our  Board  and  is  a  member  of  its  Audit  Committee  and  its  Chairperson.  Mr.  D. Sundaram is a member of our Board and is a member of its Audit Committee. Mr. Parikh and Mr. Sundaram are each an 'Audit Committee Financial Expert' as defined in Item 16A of Form 20-F and an independent director under applicable NYSE rules and Rule 10A-3 under the Exchange Act.
+## Item 16B. Code of Ethics
+On  April  23,  2026,  our  Board  adopted  the  revised  Code  of  Conduct  and  Ethics  which  is  applicable  to  all  officers, directors  and  employees,  the  copy  of  which  is  available  for  downloading  free  of  cost  from  our  website  at https://www.infosys.com/investors/corporate-governance/documents/codeofconduct.pdf. The Revised Code of Conduct and Ethics has been filed as an exhibit to the Annual Report on Form 20-F.
+Our Whistleblower Policy is posted on our website at https://www.infosys.com/investors/corporategovernance/Documents/whistleblower-policy.pdf.
+## Item 16C. Principal Accountant Fees and Services
+The following table sets forth fees for professional audit services for the audit of our annual financial statements, and fees for other services rendered by our principal accountant and their associated entities for fiscal 2026 and 2025:
+| Type of Service        |   Fiscal 2026 |   Fiscal 2025 | Description of Services                                                             |
+|------------------------|---------------|---------------|-------------------------------------------------------------------------------------|
+| (a) Audit Fees         |           3.2 |           2.7 | Audit and review of financial statements Certificates, testing service organization |
+| (b) Audit Related Fees |           1.0 |           0.7 | controls and other audit related services                                           |
+| (c) Tax Fees           |           0.4 |           0.3 | Tax returns, filing and advisory services                                           |
+| (d) All Other Fees     |           0.1 |           0.1 | Other advisory services                                                             |
+| Total                  |           4.7 |           3.8 |                                                                                     |
 
-' Promoter ' shall  have  the  meaning  assigned  to  it  under  the  SEBI  (Issue  of  Capital  and Disclosure Requirements) Regulations, 2018 or any modification thereof.
-' Promoter Group ' shall have the meaning assigned to it under the SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018 or any modification thereof.
-- 18) 'Relatives' shall mean the following
-2. (i) spouse of the person;
-3. (ii) parent of the person and of its spouse;
-4. (iii) sibling of the person and of its spouse;
-5. (iv) child of the person and of its spouse;
-6. (v) spouse of the person referred in (iii) and (iv) above
-- 19) ' Securities ' shall have the meaning assigned to it under the Securities Contracts (Regulations) Act, 1956 or any modification thereof and includes ADS.
-- 20) ' Trading ' or  Trade  means  and  includes  subscribing,  redeeming,  switching,  buying,  selling, dealing,  or  agreeing  to  subscribe,  redeem,  switch,  buy,  sell,  pledge  (including  revocation  or invocation  thereof),  deal  in  the Company's Securities  either  directly  or  through  portfolio management services, and 'trade' shall be construed accordingly.
-- 21) ' Trading day ' means a day on which the recognized stock exchanges are open for trading.
-- 22) 'Unpublished Price Sensitive Information' ('UPSI') means any information, relating to a
+Our  Audit  Committee  charter  requires  us  to  take  the  prior  approval  of  our  Audit  Committee  on  every  occasion  we engage our principal accountants or their associated entities to provide us any audit and non-audit services. We disclose to our Audit Committee the nature of services that will be provided and the fees to be paid for the services. The audit and non-audit services provided by our principal accountants or their associated entities in the previous two fiscal years have been pre-approved by our Audit Committee.
+## Item 16D. Exemptions from the Listing Standards for Audit Committees
+Not applicable.
+## Item 16E. Purchases of Equity Securities by the Issuer and Affiliated Purchasers
+## Buyback completed in December 2025
+In line with the capital allocation policy, the Board, at its meeting held on September 11, 2025, approved a proposal for the Company to buyback its fully paid-up equity shares of face value of ₹5/each from the eligible equity shareholders of the Company for an amount of ₹18,000 crore (approximately $2,000 million) subject to shareholders' approval by way of Postal Ballot. The shareholders approved the said proposal of buyback of Equity Shares recommended by its Board of Directors by way of e-voting through postal ballot, the results of which were declared on November 6, 2025. The Buyback offer comprised a purchase of 10,00,00,000 Equity Shares comprising approximately 2.41% of the total paid-up equity share capital of the Company as of June 30, 2025 (on standalone basis) at a price of ₹1,800 ($20) per Equity  share.  The  buyback  was  offered  to  all  eligible  equity  shareholders  (including  those  who  became  equity shareholders  as  on  the  Record  date  by  cancelling  American  Depository  Shares  and  withdrawing  underlying  Equity shares) of the Company as on the Record Date (i.e., November 14, 2025) on a proportionate basis through the "Tender offer" route. The tender period for buyback commenced on November 20, 2025 and was open until November 26, 2025. The Company concluded the buyback procedures on December 4, 2025 and 100,000,000 equity shares were bought back  and  extinguished.  The  buyback  resulted  in  a  cash  outflow  of ₹18,000 crore  (approximately  $2,000  million) (excluding transactions costs). The Company funded the buyback from its free reserves including securities premium as explained in Section 68 of the Companies Act, 2013. In accordance with Section 69 of the Companies Act, 2013, as at March 31, 2026, the Company has created a Capital Redemption Reserve of ₹50 crore (approximately $6 million) equal to the nominal value of the shares bought back as an appropriation from the general reserve.
+Following is the summary of the buyback completed in fiscal 2026:
+| Period           | (a)Total number of shares purchased   | (b)Average price paid per share (in INR)   | (c)Total number of shares purchased as part of publicly announced buyback   | (d)Maximum number of shares that may yet to be purchased under the buyback   |
+|------------------|---------------------------------------|--------------------------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| December 4, 2025 | 100,000,000                           | 1,800.00                                   | 100,000,000                                                                 | NA                                                                           |
+| Total            | 100,000,000                           | 1,800.00                                   | 100,000,000                                                                 | -                                                                            |
 
-Company or its Securities, directly or indirectly, that is not generally available information which upon becoming generally available, is likely to materially affect the price of the Securities and shall, ordinarily including but not restricted to, information relating to the following:
-- i. Financial results, guidance;
-- ii. Dividends;
-- iii. Change in capital structure;
-- iv. Mergers, de-mergers, acquisitions, delisting, disposals and expansion of business, award or termination  of  order/contracts  not  in  the  normal  course  of  business  and  such  other transactions;
-- v. Changes in key managerial personnel (KMP) as defined under the Companies Act, 2013, other than due to superannuation or end of term, and resignation of a Statutory Auditor or Secretarial Auditor;
-- vi. Change in Rating(s) other than ESG rating(s);
-7. vii.Fund raising proposed to be undertaken;
-- viii. Agreements,  by  whatever  name  called,  impacting  the  management  and  control  of  the company;
-- ix. fraud  or  defaults  by  the  company,  its  promoter,  director,  key  managerial  personnel,  or subsidiary  or  arrest  of  key  managerial  personnel,  promoter  or  director  of  the  company, whether occurred within India or abroad;
-- x. Resolution  plan/  Restructuring/one-time  settlement  in  relation  to  loans/borrowings  from banks/financial institutions;
-- xi. admission of winding-up petition filed by any party /creditors and admission of application by the Tribunal filed by the corporate applicant or financial creditors for initiation of corporate insolvency  resolution  process  against  the  company  as  a  corporate  debtor,  approval  of resolution plan or rejection thereof under the Insolvency and Bankruptcy Code, 2016;
-12. xii.Initiation  of  forensic  audit  (by  whatever  name  called)  by  company  or  any  other  entity  for detecting misstatement in financials, misappropriation/ siphoning or diversion of funds and receipt of final forensic audit report;
-- xiii. Action(s)  initiated  or  orders  passed  within  India  or  abroad  by  any  regulatory,  statutory, enforcement authority or judicial body against the listed entity or its directors, key managerial personnel, senior management, promoter or subsidiary, in relation to the listed entity;
-- xiv. Outcome of any litigation(s) or dispute(s) which may have an impact on the listed entity;
-- xv. Giving of guarantees or indemnity or becoming a surety, by whatever named called, for any third party, by the company not in the normal course of business;
-- xvi. Granting,  withdrawal,  surrender,  cancellation  or  suspension  of  key  licenses  or  regulatory approvals;
-17. xvii.Such  other  matters  as  may  be  specified  under  the  SEBI  regulations  or  decided  by  the Company from time to time.
+## Buyback completed in February 2023
+The shareholders, through a special resolution passed through postal ballot concluded on December 2, 2022, the results of which were declared on December 3, 2022, had approved the proposal of the Company to buyback from the open market through Indian stock exchanges its own fully paid-up equity shares of face value of ₹5/each payable in cash, for an amount aggregating up to ₹9,300 crore (maximum buyback size, excluding buyback tax) at a price not exceeding ₹1,850/per  equity  share.  The  buyback  was  offered  to  all  equity  shareholders  of  the  Company  (other  than  the Promoters, the Promoter Group and Persons in Control of the Company) under the open market route through Indian stock exchanges. The buyback of equity shares through Indian stock exchanges commenced on December 7, 2022, and was completed on February 13, 2023. During this buyback period, the Company purchased and extinguished a total of 60,426,348  equity  shares  from  the  stock  exchange  at  a  volume  weighted  average  buyback  price  of ₹1,539.06/per equity share comprising 1.44% of the pre buyback paid-up equity share capital of the Company. The buyback resulted in  a  cash  outflow  of ₹9,300 crore  (excluding  transaction  costs  and  tax  on  buyback)  ($1,130  million).  The  Company funded the buyback from its free reserves including Securities Premium as explained in Section 68 of the Companies Act, 2013.
+Following is the summary of the buyback completed in fiscal 2023:
+| Period                                | (a)Total number of shares purchased   | (b)Average price paid per share (in INR)   | (c)Total number of shares purchased as part of publicly announced buyback   | (d)Maximum number of shares that may yet to be purchased under the buyback   |
+|---------------------------------------|---------------------------------------|--------------------------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| December 7, 2022 to December 31,      | 25,164,000                            | 1,536.18                                   | 25,164,000                                                                  | NA                                                                           |
+| January 1, 2023 to January 31, 2023   | 26,206,500                            | 1,529.03                                   | 26,206,500                                                                  | NA                                                                           |
+| February 1, 2023 to February 10, 2023 | 9,055,848                             | 1,576.12                                   | 9,055,848                                                                   | NA                                                                           |
+| Total                                 | 60,426,348                            | 1,539.06*                                  | 60,426,348                                                                  | -                                                                            |
 
-Explanation 1 - For the purpose of sub-clause (ix):
-- a. 'Fraud' shall have the same meaning as referred to in Regulation 2(1)(c) of Securities and
-
-Exchange  Board  of  India  (Prohibition  of  Fraudulent  and  Unfair  Trade  Practices  relating  to Securities Market) Regulations, 2003.
-b. 'Default' shall have the same meaning as referred to in Clause 6 of paragraph A of Part A
-of Schedule III of Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 ( 'Listing regulations' ).
-Explanation  2For  identification  of  events  enumerated  in  this  clause  as  unpublished  price sensitive  information,  the  guidelines  for  materiality  referred  at  paragraph  A  of  Part  A  of Schedule III of the Listing regulations as may be specified by the Board from time to time and materiality as referred at paragraph B of Part A of Schedule III of the Listing Regulations shall be applicable.'
-Information is 'non-public' or 'unpublished' until it has been widely disseminated to the public (through,  for  example,  a  filing  with  the  NSE,  BSE,  NYSE  or  SEC  a  press  conference  or  a release) or is accessible to the public on a non-discriminatory basis.
-Words and expressions used and not defined in this code but defined in the Act , the Securities Contracts (Regulation) Act, 1956, the Depositories Act, 1996 or the Companies Act, 2013 and rules and regulations made thereunder shall have the meanings respectively assigned to them in those legislations.
-
-## 2. Prohibition on communicating or procuring UPSI
-An Insider shall not -
-- i. communicate, provide, or allow access to any UPSI, relating to the Company or its Securities, to any  person  including  other  Insiders,  except  to  the  extent  allowed  by  this  Code  or  SEBI Regulations; or
-- ii. procure from or cause the communication by an Insider of UPSI, relating to the Company or its Securities.
-
-Provided  that  nothing  contained  above  shall  be  applicable  when  an  UPSI  is  communicated, provided, allowed access to or procured:
-- i. in  furtherance  of  Legitimate  purposes,  performance  of  duties  or  discharge  of  legal  obligations pursuant to appropriate notice, confidentiality and non-disclosure agreements being executed; or
-- ii. in the event the Board directs or causes the public disclosure of UPSI in the best interest of the Company; or
-- iii. within a group of persons if such persons have been identified and secluded within a 'Chinese wall' or  information  barrier  by  the  Compliance  Officer  from  the  rest  of  the  Company  for  a particular  purpose  or  for  a  specified  period  of  time  in  furtherance  of  Legitimate  purposes, performance  of  duties  or  discharge  of  legal  obligations,  and  are  subjected  to,  among  other
-
-conditions, additional confidentiality obligations, information barriers designed to prevent exchanges  of  UPSI  outside  the 'Chinese wall', and  the  execution  of  an  undertaking  by  such persons  to  abstain  and  /  or  forego  Trading  during  such  seclusion  or  till  the  UPSI  no  longer constitutes UPSI and has become Generally available information or such UPSI cease to exists. The  norms  for  appropriate 'Chinese wall' procedures,  and  processes  for  permitting  any designated person to 'cross the wall' shall be as determined by the Company from time to time.
-## 3. Prohibition on Insider Trading
-1. An Insider shall not, directly or indirectly, -
-- i. Trade  in  Securities  of  the  Company  that  are  listed  or  proposed  to  be  listed  when  in possession of UPSI;
-- ii. Trade in Securities of the Company except when the Trading Window is open and the Insider is not in possession of UPSI; and
-- iii. provide advise/ tips to any third party on trading in Company's securities while in possession of UPSI.
-2. Trading  in  Securities  of  other  companies :  No  Designated  Person  while  in  possession  of unpublished price sensitive information about any other public company gained in the course of employment with the Company shall, (a) Trade in the Securities of the other public company, (b) 'tip' or disclose such material non-public information concerning that company to anyone, or (c) give trading advice of any kind to anyone concerning the other public company.
-3. No  Designated  Person  shall  take  positions  in  derivative  transactions  in  the  Securities  of  the Company at any time.
-4. The restriction in 3 (1) above may not apply    to:
-8. (a) a  transaction  that  is  an  off-market  inter-se  transfer  between  insiders  who  were  in possession of the same UPSI without being in breach of this code and both parties had made a conscious and informed trade      decision.
-9. (b) a transaction carried out through block deal window mechanism between persons who were in  possession  of  UPSI  without  being  in  breach  of  this  Code  and  both  parties  made  a conscious and informed trade decision.
-10. (c) a transaction carried out pursuant to a statutory or regulatory obligation;
-11. (d) a transaction undertaken pursuant to exercise of stock options and the exercise price is predetermined with applicable regulations; and
-12. (e) Trades pursuant to a Trading Plan ( as defined below ) set up in accordance with this Code and SEBI Regulations.
-
-The exceptions in paragraph 3(4) above reflect the statutory exceptions in Regulation 4(1) of the SEBI  Regulations,  and  nothing  above  shall  preclude  the  prior  approval  or  other  requirements  in relation to Trading in Company's Securities under the Code, as set out therein.
-## 4. Trading Window
-- 1) The  Compliance  Officer  shall  notify  a 'trading window' during  which  the  Designated Persons  may  Trade  in  the Company's Securities  after  securing  pre-clearance  from  the Compliance Officer in accordance with this Code.
-- 2) Designated  Persons  and  their  Immediate  Relatives  shall  not  Trade  in  the Company's Securities when the trading window is closed.
-- 3) The  trading  window  shall  generally  be  closed  for  all  Designated  Persons  between  the sixteenth day prior to the last day of any financial period for which results are required to be announced by the Company till 48 hours after disclosure of such financial results.
-- 4) Additionally,  the  trading  window  shall  be  closed  in  particular  for  a  Designated  Person  or class of Designated Persons when the Compliance Officer determines that a Designated Person or class of Designated Persons can reasonably be expected to have possession of UPSI, for such periods as determined by the Compliance Officer and as may required by the  SEBI  Regulations.  Designated  Person  or  class  of  Designated  Persons  will  receive  a notification on such special blackout periods.
-- 5) The trading  window  may  be  re-opened  after  closure,  not  earlier  than  48  hours  after  the UPSI  in  question  becomes  generally  available  information  or  is  no  longer  classified  as UPSI.
-- 6) The trading window restriction shall not apply for below cases;
-- i. off-market inter-se transfer between insiders who were in possession of the same UPSI  without  violating  the  Code  and  both  parties  had  made  a  conscious  and informed trade decision.
-- ii. transaction carried out through the block deal window mechanism between persons who were in possession of the UPSI without violating the Code and both parties had made a conscious and informed trade decision.
-- iii. transaction carried out pursuant to a statutory or regulatory obligation to carry out a bona fide transaction.
-- iv. Transaction  undertaken  pursuant  to  the  exercise  of  stock  options  in  respect  of which  the exercise price was  pre-determined  in compliance  with applicable regulations.
-- v. trades executed as per the Trading Plan set up in accordance with the Code.
-
-- vi. pledge of shares for a bona fide purpose such as raising of funds, subject to preclearance by the Compliance Officer.
-- vii. transactions undertaken in accordance with respective regulations made by SEBI, such as acquisition by conversion of warrants or debentures, subscribing to rights issue,  further  public  issue,  preferential  allotment  or  tendering  of  shares  in  a  buyback offer, open offer, delisting offer or transactions which are undertaken through such other mechanism as may be specified by SEBI from time to time.
-
-## viii. Transmission of Securities
-## 5. Pre-clearance of Trading
-- 1) All Designated Persons who intend to Trade in Securities of the Company (either in their own name or through their Immediate Relatives) i.e., buy/ sell/ gift/ transfer/ pledge/ un-pledge etc. in  Securities of the Company during the trading window open period and if the value of the securities likely to be traded, whether in one transaction or a series of transactions over any calendar quarter, aggregates to a Traded value in excess of Rs.5,00,000/- (Rupees Five Lakh Only),  should  pre-clear  the  transactions  by  making  an  application  in  the  format  set  out  in Annexure 1 to the Compliance Officer indicating the estimated number of units of Securities that the Designated Person or Immediate Relative(s) intends to trade and such other details as specified in the form and also declare that the applicant is not in possession of UPSI as per Annexure 2.
-- 2) The Compliance Officer shall not approve any proposed Trade by Designated Person if the Compliance Officer determines that such Designated Person is in possession of UPSI even though the trading window is open.
-- 3) The Compliance Officer may, after being satisfied that the application and undertaking are true and accurate, approve Trading by a Designated Person, on the condition that the Trade so approved shall be executed within seven trading days following the date of approval.
-- 4) The Board of Directors of the Company shall be the approving authority for the pre- clearance application of Compliance Officer.
-- 5) The Designated Person shall, within two days of the execution of the Trade, submit the details of  such  Trade  to  the  Compliance  Officer  as  per  Annexure  3.  In  case  the  transaction  is  not undertaken, a report to that effect shall be filed in the said form.
-- 6) If the pre-cleared Trade is not executed within seven trading days after the approval is given, the Designated Person must secure pre-clearance of the transaction again.
-- 7) Pre-clearance of Trades shall not be required for a trade executed as per an approved trading plan or pursuant to transmission of securities.
-
-- 8) A Designated Person who Trades in securities of the Company without complying with the pre-clearance procedure as envisaged in this Code or gives false undertakings and/or makes misrepresentations  in  the  undertakings  executed  by  him/her  while  complying  with  the  preclearance procedure shall be subjected to the penalties as envisaged in this Code.
-
-## 6. Additional Trading restrictions on Designated Persons
-- 1) No Designated Person shall enter into derivative transactions in respect of Securities of the Company.
-- 2) All Designated Persons who trade in Securities of the Company shall not enter into a Contra Trade during the next six months following the prior transaction. In case any Contra Trade is executed, inadvertently  or  otherwise,  in  violation  of  such  a  restriction,  the  profits  from  such trade shall be liable to be disgorged for remittance to SEBI for credit to the Investor Protection and Education Fund administered by SEBI.
-- 3) The above restriction on Contra Trade shall not apply in case of exercise / sale of Employee Stock Option Plan ('ESOP') securities provided the Designated Persons do not possess UPSI and the sale is executed when the trading window is open and after obtaining pre-clearance.
-- 4) The  above  restriction  on  Contra  Trade  shall  also  not  apply  in  case  of  transmission  of securities.
-
-## 7. Trading Plan
-- 1) A Designated Person shall be entitled to formulate a Trading Plan that complies with the SEBI Regulations ('Trading Plan') and present it to the Compliance Officer for approval and public disclosure.  The  Trading  Plan  can  be  executed  only  after  the  plan  is  approved  by  the Compliance  officer  and  disclosed  to  the  stock  exchanges  on  which  the  Securities  of  the Company are listed.
-- 2) Designated  Person  may  delegate  discretionary  authority  to  his/her  broker,  but  in  no  event Designated Person may consult with the broker regarding executing transactions or otherwise disclose information to the broker concerning the Company, that might influence the execution of transactions under the Trading Plan after it commences.
-
-The  Trading  Plan  once  approved  shall  be  irrevocable  and  the  Designated  Person  shall mandatorily have to implement the plan, without being entitled to either deviate from it or to execute  any  trade  in  the  Securities  outside  the  scope  of  the  Trading  Plan  as  otherwise provided under the SEBI regulations. However, the implementation of the Trading Plan shall not  be  commenced,  if  at  the  time  of  formulation  of  the  plan,  the  Designated  Person  is  in possession of UPSI and the said information has not become generally available information at the time of the commencement of implementation. The commencement of the Trading Plan shall be deferred until such UPSI becomes generally available information.
-
-## 8. Penalty for Insider Trading
-- i. A Designated Person, Officers and employees of the Company who violate this Code shall be subject to disciplinary action by the Company, which may include wage freeze, suspension, recovery etc. and ineligibility  for  future  participation  in  the Company's stock option plans or termination.
-- ii. The stock exchanges or any other appropriate regulatory authority shall also be informed of the violation of this Code / Regulations in such form and such manner as may be specified by SEBI from time to time, so that appropriate action may be taken.
-- iii. Any amount collected as penalty under this Code shall be credited to the Investor Protection and Education Fund administered by SEBI.
-
-## 9. Disclosure requirements
-- i. Initial Disclosure:
-- a. Every  person,  on  appointment  as  a  Key  Managerial  Personnel  or  a  Director  of  the Company  or  upon  becoming  a  Promoter  or  member  of  the  promoter  group,  shall disclose his / her and Immediate Relatives' holding of Securities of the Company as on the date of appointment or becoming a Promoter, to the Company within seven days of such appointment or becoming a promoter, as per Form A set out in Annexure 4.
-- b. Every Designated Person shall disclose details like Permanent Account Number or any other identifier authorized by law, names of educational institutions from which they have graduated and names of their past employers for the following:
-
-(i) Immediate  Relative;  (ii)  persons  with  whom  such  Designated  Person(s)  share  a material financial relationship; (iii) phone and mobile numbers which are used by them.
-- ii. Continual Disclosure:
-- a. Every  Designated  Person  and  member  of  Promoter  Group  of  the  Company  including their Immediate relatives shall disclose the number of Securities acquired or disposed of within two trading days of such transaction if the value of the securities traded, whether in one transaction or a series of transactions over any calendar quarter, aggregates to a Traded  value  in  excess  of  INR  10,00,000  (ten  lakh  rupees)  or  such  other  value prescribed  under  SEBI  Regulations  or  other  applicable  law,  as  per  Form  B  set  out  in Annexure 5.
-
-- b. Every Designated Person shall disclose names and Permanent Account Number or any other identifier authorized by law of the following persons to the Company on an annual basis and as and when the information changes: (i) Immediate Relative; (ii) persons with whom such  Designated  Person(s)  shares  a  material  financial  relationship;  (iii)  Phone and mobile numbers which are used by them.
-- c. Any off-market trade done as per paragraph 4(6)(i) of this Code shall be reported by the Insiders to the company within two working days.
-- iii. Disclosures by other Connected Persons.
-
-The Compliance Officer may, require any other Connected Person to disclose the holdings and  Trading  in  securities  of  the  Company  as  per  Form  C  set  out  in  Annexure  6  at  such frequency as he / she may determine.
-## 10. Mechanism for prevention of Insider Trading
-- 1) The  CEO,  Managing  Director (' MD ') or  such  other  analogous  person  of  the  Company,  in consultation with the Compliance Officer,  Chief Legal Officer and Chief Compliance Officer ( 'CLO' )  and  other  relevant  members  of  the Company's senior  management,  shall  put  in place  and  take  steps  to  maintain  adequate  and  effective  system  of  internal  controls  for compliance  with  SEBI  Regulations,  including  periodic  process  review  to  evaluate  the effectiveness of such internal controls and other matters stated therein.
-- 2) The  Board  shall  ensure  that  the  CEO/MD  and  other  members  of Company's senior management referred  above  have  taken  steps  to  comply  with  requirements  of  Paragraph 10(1) above.
-- 3) The Audit Committee shall review compliance the provisions of SEBI Regulations at least once in a financial year and shall verify that the systems for internal control are adequate and are operating effectively.
-
-## 11. Miscellaneous
-- i. The Board shall be empowered to amend, modify, and interpret this Code of Conduct and such  Code  and  same  shall  be  effective  from  such  date  that  the  Board  may  notify  in  this behalf.
-- ii. The Compliance Officer shall provide the Audit Committee of the Board, on a quarterly basis, an update on compliance under this code, any violations of this Code and other matters as may be directed by the Audit Committee from time to time.
-- iii. The Compliance Officer shall maintain (a) an updated list of Designated Persons, and (b)
-
-records of disclosures and pre-clearance applications and undertakings for a period of eight years;  and  (c)  any  other  information  that  is  required  pursuant  to  SEBI  Regulations.
-- iv. The  Board  is  required  to  ensure  that  a  structured  digital  database  is  maintained  of  every person in possession of UPSI containing (i) the nature of UPSI; (ii) names of such persons who  have  shared  the  information;  (iii)  names  of  such  persons  with  whom  information  is shared  under  SEBI  Regulations  along  with  the  Permanent  Account  Number  or  any  other identifier  authorized  by  law  where  Permanent  Account  Number  is  not  available.  Such database shall be maintained internally with adequate internal controls and checks such as time stamping and audit trails to ensure non- tampering of the database.
-- v. The company may engage such market intermediary or any other person, who is required to handle UPSI and who have formulated a code of conduct as per the requirements of PIT Regulations.  In  case  such  persons  observe  that  there  has  been  a  violation  of  SEBI Regulations, they shall inform the Board promptly.
-- vi. The  Company  has  adopted  the  amended  Infosys  Code  on  Fair  Disclosures  and  Investor Relations available at www.infosys.com to regulate the Company's practices and procedures for fair disclosure of UPSI and comply with the SEC's Regulations.
-- vii. Any  suspected  violation  of  Leak  of  UPSI  or  violation  of  this  Code  can  be  reported  under whistle blower policy.
-
-## How to Report:
-Report your concerns to your manager, Human Resources manager, or the Helpline. The helpline numbers are:
--   U.S. Toll Free #: 1-800-236-6618
--   U.K. Toll Free #: 0-808-189-1043
--   India Toll Free #: 000-800-100-4380
-- -You can also raise a concern on the Infosys Ethics Helpline at https://infosys.speakuptrust.com
-
-- Infosys employees can also raise a ticket here on the Ethics and Compliance Service Portal
-
--   You can also report at oic@infosys.com
-
-You can also write to whistleblower@infosys.com, or to the CLO at complianceoffice@infosys.com. If you have concerns about reaching out to the CLO, your report may be made to the Audit Committee of the Company's Board at: Audit.Committee@infosys.com
-- viii. Retaliation for reporting suspected violations is strictly prohibited under this Code: Employee who reports any alleged violations of insider  trading  laws  in  accordance  with  the  informant mechanism  under  the  Regulations,  will  be  protected  against  any  discharge,  termination, demotion, suspension, threats, harassment, directly or indirectly or discrimination.
-- ix. Intermediary or fiduciary engaged by the Company shall put in place adequate and effective
-
-
-
-system  of  internal  controls  to  ensure  compliance  with  the  requirements  given  in  the  SEBI Regulations to prevent insider trading.
-- x. It is the responsibility of the Connected Persons to ensure compliance with this Code.
-- xi. The policy and procedure for inquiry in case of Leak of UPSI or suspected Leak of UPSI is enclosed as Annexure-7 and forms integral part of this Code.
-
-The  Company  shall  have  a  process  for  how  and  when  persons  are  brought 'inside' on  sensitive transactions, and such process may be determined by the Company from time to time. Individuals should be made aware of the duties and responsibilities attached to the receipt of inside information, and the liability that attaches to misuse or unwarranted use of such information.
-## 12. Limitation, Review and Amendment
-In the event of any conflict between the provisions of this Code and of the SEBI Regulations or any other legal requirement (' Applicable Law '), the provisions of Applicable Law shall prevail over this Code. Any subsequent amendment / modification to the Applicable Law shall automatically apply to this Code.
-The Board may review and amend this Code from time to time, as may be deemed necessary.
-To,
-## Annexure 1
-## APPLICATION FOR PRE-TRADING APPROVAL
-The Compliance Officer, Infosys Limited.
-Pursuant  to  the  SEBI  (Prohibition  of  Insider  Trading)  Regulations,  2015  and  the Company's Internal Code of Conduct for Prohibition of Insider Trading, I seek approval to purchase / sell / subscribe  equity  shares/  American  depositary  shares  of  the  Company  as  per  details  given below:
-| 1.   | Name of the applicant                                                               |                                                           |
-|------|-------------------------------------------------------------------------------------|-----------------------------------------------------------|
-| 2.   | Designation                                                                         |                                                           |
-| 2A   | Relationship with the Applicant (Self/Immediate Relative)                           |                                                           |
-| 3.   | Number of securities held as on date                                                |                                                           |
-| 4.   | Folio No. / DP ID / Client ID No.                                                   |                                                           |
-| 5.   | The proposal is for                                                                 | (a) Purchase of securities (b) Subscription to securities |
-| 6.   | Proposed date of trading in securities                                              |                                                           |
-| 7.   | Estimated number of securities proposed to be purchased/subscribed/sold/pledge      |                                                           |
-| 8.   | Current market price (as on date of application)                                    |                                                           |
-| 9.   | Whether the proposed transaction will be through stock exchange or off-market trade |                                                           |
-| 10   | Folio No. / DP ID / Client ID No. where the securities will be credited / debited   |                                                           |
-
-I enclose herewith the undertaking signed by me.
-Signature :
-Name:
-Date:
-
-## Annexure 2
-## UNDERTAKING TO BE ACCOMPANIED WITH THE APPLICATION FOR PRECLEARANCE
-To, The Compliance Officer, Infosys Limited (' Company ')
-I,  \_\_\_\_\_\_\_\_\_\_being a designated person of the company as per the code for Trading in the securities of the Company residing at  \_\_\_\_\_\_\_\_, am desirous of trading in shares of the
-Company as mentioned in my application dated \_\_\_\_\_\_\_\_\_\_ pre-clearance transaction.
-I  further  declare  that  I  am  not  in  possession  of  any  unpublished  price  sensitive  information (' UPSI ') up to the time of signing this undertaking. In the event that I have access to or receive any  UPSI  after  signing  of  this  undertaking  but  before  executing  the  transaction  for  which approval  is  sought,  I  shall  inform  the  Compliance  Officer  of  the  same  and  shall  completely refrain from trading in the securities of the Company until such information becomes public.
-I  declare  that  I  have  not  contravened  the  provisions  of  this  code  as  notified  by  the  Company from time to time.
-In the event of this transaction being in violation of the code or the applicable laws, (a) I will, unconditionally, release, hold harmless and indemnify to the fullest extent, the Company and its directors  and  officers,  (the 'indemnified persons') for  all  losses,  damages,  fines,  expenses, suffered  by  the  indemnified  persons,  (b)  I  will  compensate  the  indemnified  persons  for  all expenses incurred in any investigation, defense, crisis management or public relations activity in relation  to  this  transaction  and  (c)  I  authorize  the  Company  to  recover  from  me,  the  profits arising from this transaction and remit the same to the Securities and Exchange Board of India (' SEBI ') for credit of the Investor Protection and Education Fund administered by the SEBI.
-I undertake to submit the necessary report within two days of execution of the transaction / a 'Nil' report if the transaction is not undertaken.
-If  approval  is  granted,  I  shall  execute  the  trade  within  seven  days  of  the  receipt  of  approval failing which I shall seek pre-clearance afresh. I declare that I have made full and true disclosure in the matter.
-Signature :
-Name:
-Signature :
-Name:
-Date:
-## Annexure 3
-## DISCLOSURE OF TRANSACTIONS
-(To be submitted within 2 trading days of transaction / trading in securities of the Company)
-To,
-The Compliance Officer,
-Infosys Limited (' Company ')
-I hereby inform that I
-- i) have not bought / sold/ subscribed any securities of the Company
-2. ii)have bought/sold/subscribed to securities as mentioned below on (date) (strike out whichever is not applicable)
-
-| Name of holder   | No. of securities traded   | Bought / sold / subscribed   | DP ID / ClientID / Folio No.   | Price (Rs.)   |
-|------------------|----------------------------|------------------------------|--------------------------------|---------------|
-
-I  declare that the above information is correct and that no provisions of the Company's Code and/or applicable laws/regulations  have  been  contravened  for  effecting  the  above  said Transactions(s).
-Signature: Name:
-Date:
-## Annexure 4
-## FORM A
-SEBI  (Prohibition  of  Insider  Trading)  Regulations,  2015  [Regulation  7  (1)  (b)  read  with Regulation 6(2) - Disclosure on becoming a director/KMP/Promoter/Member of the promoter group]
-Name of the company: ISIN of the company:
-Details of Securities held on appointment of Key Managerial Personnel (KMP) or Director or upon  becoming  a  Promoter  or  member  of  the  promoter  group  of  a  listed  company  and immediate relatives of such persons and by other such persons as mentioned in Regulation 6(2).
-| Name, PAN, Address contact   | Category of Person (Promoter or Member of promoter group/KMP/Directors/ immediate relative to/others   | Date of appointment of Director/ KMP OR Date of becoming Promoter/ member of the promoter group   | Securities held at the time of becoming Promoter or member of the promoter group/appointment of Director/KMP   |     |
-|------------------------------|--------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|-----|
-| CIN/DIN                      |                                                                                                        |                                                                                                   |                                                                                                                |     |
-| nos.                         |                                                                                                        |                                                                                                   |                                                                                                                |     |
-|                              | etc.)                                                                                                  |                                                                                                   | Type of security(For eg:                                                                                       | No. |
-|                              |                                                                                                        |                                                                                                   | Shares,                                                                                                        |     |
-|                              |                                                                                                        |                                                                                                   | Warrants,                                                                                                      |     |
-|                              |                                                                                                        |                                                                                                   | Convertible-                                                                                                   |     |
-|                              |                                                                                                        |                                                                                                   | debentures                                                                                                     |     |
-|                              |                                                                                                        |                                                                                                   | etc.)                                                                                                          |     |
-
-Note: 'Securities' shall have the meaning as defined under regulation 2(1)(i) of SEBI (Prohibition of Insider Trading) Regulations, 2015.
-Details  of  Open  Interest  (OI)  in  derivatives  of  the  company  held  on  appointment  of  Key Managerial  Personnel  (KMP)  or  Director  or  upon  becoming  a  Promoter  or  member  of  the promoter group of a listed company and immediate relatives of such persons and by other such persons as mentioned in Regulation 6(2).
-| Open Interest of the Future contracts held at the time of becoming Promoter/member of the promoter group/appointment of Director/KMP Open Interest of the Option Contracts held at the time of becoming Promoter/member of the promoter group/appointment of   | Open Interest of the Future contracts held at the time of becoming Promoter/member of the promoter group/appointment of Director/KMP Open Interest of the Option Contracts held at the time of becoming Promoter/member of the promoter group/appointment of   | Open Interest of the Future contracts held at the time of becoming Promoter/member of the promoter group/appointment of Director/KMP Open Interest of the Option Contracts held at the time of becoming Promoter/member of the promoter group/appointment of   | Open Interest of the Future contracts held at the time of becoming Promoter/member of the promoter group/appointment of Director/KMP Open Interest of the Option Contracts held at the time of becoming Promoter/member of the promoter group/appointment of   | Open Interest of the Future contracts held at the time of becoming Promoter/member of the promoter group/appointment of Director/KMP Open Interest of the Option Contracts held at the time of becoming Promoter/member of the promoter group/appointment of   | Open Interest of the Future contracts held at the time of becoming Promoter/member of the promoter group/appointment of Director/KMP Open Interest of the Option Contracts held at the time of becoming Promoter/member of the promoter group/appointment of   |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Contract specification s                                                                                                                                                                                                                                       | Number of units (contracts *lot size)                                                                                                                                                                                                                          | Notional value In Rupee terms                                                                                                                                                                                                                                  | Contract specification s                                                                                                                                                                                                                                       | Number of units (contracts * lot size)                                                                                                                                                                                                                         | Notional value In Rupee terms                                                                                                                                                                                                                                  |
-
-Note: In case of Options, notional value shall be calculated based on premium plus strike price of options
-Name &amp;
-Signature:
-Designation:
-Date:
-Place:
+* Represents price for the period between December 7, 2022, to February 10, 2023.

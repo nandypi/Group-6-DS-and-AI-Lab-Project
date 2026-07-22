@@ -1,283 +1,222 @@
 ---
 document_name: "Infosys_16102025160458_BM_Outcome_Oct162025.md"
 group_id: "Infosys_16102025160458_BM_Outcome_Oct162025__group_007"
-source_section_count: 4
-page_start: 57
-page_end: 64
-estimated_tokens: 8989
+source_section_count: 2
+page_start: 31
+page_end: 34
+estimated_tokens: 5411
 source_section_ids:
-  - "Infosys_16102025160458_BM_Outcome_Oct162025__022"
-  - "Infosys_16102025160458_BM_Outcome_Oct162025__023"
-  - "Infosys_16102025160458_BM_Outcome_Oct162025__024"
-  - "Infosys_16102025160458_BM_Outcome_Oct162025__025"
+  - "Infosys_16102025160458_BM_Outcome_Oct162025__012"
+  - "Infosys_16102025160458_BM_Outcome_Oct162025__013"
 ---
 
-## 2.8 Leases
-## The Group as a lessee
-The Group's lease asset classes primarily consist of leases for land, buildings and computers. The group assesses whether a contract contains a lease, at inception of a contract. A contract is, or contains, a lease if the contract conveys the right to control the use of an identified asset for a period of time in exchange for consideration. To assess whether a contract conveys the right to control the use of an identified asset, the group assesses whether: (1) the contract involves the use of an identified asset (2) the group has substantially all of the economic benefits from use of the asset through the period of the lease and (3) the group has the right to direct the use of the asset.
-At the date of commencement of the lease, the Group recognizes a right-of-use asset ('ROU') and a corresponding lease liability for all lease arrangements in which it is a lessee, except for leases with a term of twelve months or less (short-term leases) and low value leases. For these short-term and low value leases, the Group recognizes the lease payments as an operating expense on a straight-line basis over the term of the lease.
-As a lessee, the Group determines the lease term as the non-cancellable period of a lease adjusted with any option to extend or terminate the lease, if the use of such option is reasonably certain. The Group makes an assessment on the expected lease term on a lease-by-lease basis and thereby assesses whether it is reasonably certain that any options to extend or terminate the contract will be exercised. In evaluating the lease term, the Group considers factors such as any significant leasehold improvements undertaken over the lease term, costs relating to the termination of the lease and the importance of the underlying asset to Group's operations taking into account the location of the underlying asset and the availability of suitable alternatives. The lease term in future periods is reassessed to ensure that the lease term reflects the current economic circumstances.
-Certain lease arrangements include the options to extend or terminate the lease before the end of the lease term. ROU assets and lease liabilities includes these options when it is reasonably certain that they will be exercised.
-The right-of-use assets are initially recognized at cost, which comprises the initial amount of the lease liability adjusted for any lease payments made at or prior to the commencement date of the lease plus any initial direct costs less any lease incentives.  They are subsequently measured at cost less accumulated depreciation and impairment losses.
-Right-of-use assets are depreciated from the commencement date on a straight-line basis over the shorter of the lease term and useful life of the underlying asset.
-Right-of-use assets are evaluated for recoverability whenever events or changes in circumstances indicate that their carrying amounts may not be recoverable. For the purpose of impairment testing, the recoverable amount (i.e. the higher of the fair value less cost to sell and the value-in-use) is determined on an individual asset basis unless the asset does not generate cash flows that are largely independent of those from other assets. In such cases, the recoverable amount is determined for the Cash Generating Unit (CGU) to which the asset belongs.
-The lease liability is initially measured at amortized cost at the present value of the future lease payments. The lease payments are discounted using the interest rate implicit in the lease or, if not readily determinable, using the incremental borrowing rates in the country of domicile of these leases. Lease liabilities are remeasured with a corresponding adjustment to the related rightof-use asset if the Group changes its assessment if whether it will exercise an extension or a termination option.
-Lease liability and ROU asset have been separately presented in the Balance Sheet and lease payments have been classified as financing cash flows.
-## The Group as a lessor
-`
-Leases for which the Group is a lessor is classified as a finance or operating lease. Whenever the terms of the lease transfer substantially all the risks and rewards of ownership to the lessee, the contract is classified as a finance lease. All other leases are classified as operating leases.
-When the Group is an intermediate lessor, it accounts for its interests in the head lease and the sublease separately. The sublease is classified as a finance or operating lease by reference to the right-of-use asset arising from the head lease.
-For operating leases, rental income is recognized on a straight-line basis over the term of the relevant lease.
-Following are the changes in the carrying value of right-of-use assets for the three months ended September 30, 2025:
-|                                  |                       |                       |                       |                       | (Dollars in millions)   |
-|----------------------------------|-----------------------|-----------------------|-----------------------|-----------------------|-------------------------|
-| Particulars                      | Category of ROU asset | Category of ROU asset | Category of ROU asset | Category of ROU asset | Total                   |
-|                                  | Land                  | Buildings             | Vehicles              | Computers             |                         |
-| Balance as of July 1, 2025       | 70                    | 392                   | 3                     | 274                   | 739                     |
-| Additions *                      | -                     | 14                    | -                     | 56                    | 70                      |
-| Deletions                        | -                     | -                     | -                     | (20)                  | (20)                    |
-| Depreciation                     | -                     | (21)                  | (1)                   | (35)                  | (57)                    |
-| Translation difference           | (2)                   | (10)                  | 1                     | (1)                   | (12)                    |
-| Balance as of September 30, 2025 | 68                    | 375                   | 3                     | 274                   | 720                     |
+## Press Release
+- Infosys BPM received the 20th Edition Future of L&amp;D Summit and Awards 2025 for ' Best Digital Learning initiative '
+- Infosys  BPM  received  the  Brandon  Hall  HCM  Excellence  Learning  and  Development Awards for ' Best Learning Strategy '
 
-* Net of adjustments on account of modifications
+## · AI and Cloud Services
+- Positioned as a leader in Gartner: Magic Quadrant and Critical Capabilities for Public Cloud IT Transformation Services
+- Positioned as a leader in Gartner: Emerging Market Quadrant for Generative AI Consulting and  Implementation  Services  (Innovation  Guide  for  Generative  AI  Consulting  and Implementation Services)
+- Recognized as a leader in IDC MarketScape: Asia Pacific Oracle Implementation Services 2025 Vendor Assessment
+- Recognized as a leader in IDC MarketScape: Worldwide Artificial  Intelligence  Services 2025
+- Recognized as a leader in IDC MarketScape: Worldwide Life Science R&amp;D AI and GenAI in Clinical Trials 2025
+- Recognized  as  a  leader  in  Constellation  ShortList:  Artificial  Intelligence  and  Machine Learning Best-of-Breed Platforms
+- Recognized as a leader in Constellation ShortList: AI-Driven Cognitive Applications
+- Infosys EdgeVerve recognized as the ' Company of the Year ' with Silver Stevie ®  Awards in two categories: i) Artificial Technology for the flagship platform, Infosys EdgeVerve AI Next, and ii) Business Technology for enterprise transformation
 
-Following are the changes in the carrying value of right-of-use assets for the three months ended September 30, 2024:
-|                                                           |                       |                       |                       |                       | (Dollars in millions)   |
-|-----------------------------------------------------------|-----------------------|-----------------------|-----------------------|-----------------------|-------------------------|
-| Particulars                                               | Category of ROU asset | Category of ROU asset | Category of ROU asset | Category of ROU asset | Total                   |
-|                                                           | Land                  | Buildings             | Vehicles              | Computers             |                         |
-| Balance as of July 1, 2024                                | 72                    | 406                   | 2                     | 301                   | 781                     |
-| Additions *                                               | -                     | 13                    | 1                     | 47                    | 61                      |
-| Addition due to Business Combination (Refer to Note 2.10) | -                     | 19                    | 1                     | -                     | 20                      |
-| Deletions                                                 | -                     | (4)                   | (1)                   | (20)                  | (25)                    |
-| Depreciation                                              | -                     | (20)                  | (1)                   | (26)                  | (47)                    |
-| Translation difference                                    | -                     | 1                     | 1                     | 6                     | 8                       |
-| Balance as of September 30, 2024                          | 72                    | 415                   | 3                     | 308                   | 798                     |
+## · Key Digital Services
+- Recognized as a leader in IDC MarketScape: India IT/Digital Transformation Services for Public Sector 2025 Vendor Assessment
+- Recognized as a leader in IDC MarketScape: Worldwide IT and Engineering Services for Software-Defined Vehicles 2025 Vendor Assessment
+- Recognized  as  a  leader  in  IDC  MarketScape:  Worldwide  Industrial  IoT  End-to-End Engineering and Life-Cycle Services 2025 Vendor Assessment
+- Rated as a leader in Everest Group: Microsoft Business Application Services PEAK Matrix ® Assessment 2025
+- Rated  as  a  leader  in  Everest  Group:  Global  Digital  Workplace  Services  PEAK  Matrix ® Assessments 2025
+- Rated as a leader in Everest Group: 5G Engineering Services PEAK Matrix ®  Assessment 2025
+- Rated  as  a  leader  in  Everest  Group:  Network  Engineering  Services  PEAK  Matrix ® Assessment 2025
+- Rated  as  a  leader  in  Everest  Group:  Net-Zero  Consulting  Services  PEAK  Matrix ® Assessment 2025
+- Recognized as a leader in HFS Horizons: Digital Marketing and Sales Services, 2025
+- Recognized as a leader in HFS Horizons: Cybersecurity Services, 2025
+- Positioned as a leader in NelsonHall: ServiceNow Services 2025 NEAT
+- Recognized as a leader in Constellation ShortList: Customer Experience (CX) Design &amp; Execution Services - Global
 
-* Net of adjustments on account of modifications Following are the changes in the carrying value of right-of-use assets for the six months ended September 30, 2025:
+Press Release
+<!-- image -->
+## Press Release
+- Recognized as a leader in Constellation ShortList: Digital Transformation Services (DTX) Global
+- Recognized as a leader in Constellation ShortList: Customer Experience (CX) Operations Services - Global
+- Recognized as a leader in Constellation ShortList for ER&amp;D
+- Recognized as a leader in Constellation ShortList: AI Services - Global
+- Recognized as leader in Avasant Utilities Digital Services 2025 RadarView ™
+- Recognized  as  leader  in  Avasant  Global  Competency  Center  (GCC)  Services  2025 RadarView ™
+- Infosys China recognized as the 'Leading Digital Service Providers 2025 -Top 100' by China Council for International Investment Promotion
 
-|                                  |                       |                       |                       |                       | (Dollars in millions)   |
-|----------------------------------|-----------------------|-----------------------|-----------------------|-----------------------|-------------------------|
-| Particulars                      | Category of ROU asset | Category of ROU asset | Category of ROU asset | Category of ROU asset |                         |
-|                                  | Land                  | Buildings             | Vehicles              | Computers             | Total                   |
-| Balance as at April 1, 2025      | 70                    | 392                   | 3                     | 273                   | 738                     |
-| Additions *                      | -                     | 34                    | -                     | 99                    | 133                     |
-| Deletions                        | -                     | (2)                   | -                     | (43)                  | (45)                    |
-| Depreciation                     | -                     | (43)                  | (1)                   | (67)                  | (111)                   |
-| Translation difference           | (2)                   | (6)                   | 1                     | 12                    | 5                       |
-| Balance as at September 30, 2025 | 68                    | 375                   | 3                     | 274                   | 720                     |
+## · Industry &amp; Solutions
+- Recognized as a leader in IDC MarketScape: Worldwide Life Sciences Healthcare Provider (HCP) Engagement Services 2025
+- Recognized  as  a  leader  in  HFS  Horizons:  The  Best  Service  Providers  for  Mortgage Reinvention, 2025
+- Positioned as a leader in NelsonHall: Transforming Mortgage &amp; Loan Services 2025 NEAT
+- Infosys  Finacle  recognized  as  a  leader  in  IDC  MarketScape:  Worldwide  Corporate  Loan Origination Systems 2025 Vendor Assessment
+- Infosys  Finacle  recognized  as  a  leader  in  IDC  MarketScape:  Worldwide  Corporate  Loan Lifecycle Management 2025 Vendor Assessment
+- Infosys Finacle along with its customers received three awards at the MEA Finance Leaders in  Payments Awards 2025 for Best Real-Time Payments Implementation - Qatar National Bank,  Best  Real-Time  Payments  Provider  -  Infosys  Finacle,  and  Best  Instant  Payments Technology Solution - Infosys Finacle
+- Infosys  Finacle  along  with  its  customers  received  three  awards  at  the  Finnovex  Awards Saudi Arabia 2025 for Excellence in Digital Transformation - Arab National Bank, Excellence in Digital Corporate Banking - Banque Saudi Fransi, and Excellence in Composable Banking Platforms - Infosys Finacle
 
-*
-Net of adjustments on account of modifications
-Following are the changes in the carrying value of right-of-use assets for the six months ended September 30, 2024:
-|                                                           |                       |                       |                       |                       | (Dollars in millions)   |
-|-----------------------------------------------------------|-----------------------|-----------------------|-----------------------|-----------------------|-------------------------|
-| Particulars                                               | Category of ROU asset | Category of ROU asset | Category of ROU asset | Category of ROU asset | Total                   |
-|                                                           | Land                  | Buildings             | Vehicles              | Computers             |                         |
-| Balance as of April 1, 2024                               | 72                    | 396                   | 2                     | 316                   | 786                     |
-| Additions *                                               | -                     | 46                    | 1                     | 81                    | 128                     |
-| Addition due to Business Combination (Refer to Note 2.10) | -                     | 19                    | 1                     | -                     | 20                      |
-| Deletions                                                 | -                     | (4)                   | (1)                   | (38)                  | (43)                    |
-| Depreciation                                              | -                     | (42)                  | (1)                   | (56)                  | (99)                    |
-| Translation difference                                    | -                     | -                     | 1                     | 5                     | 6                       |
-| Balance as of September 30, 2024                          | 72                    | 415                   | 3                     | 308                   | 798                     |
+Read more about our Awards &amp; Recognitions here.
+Press Release
+<!-- image -->
+## About Infosys
+Infosys is a global leader in next-generation digital services and consulting.  Over  320,000  of  our  people  work  to  amplify  human potential and create the next opportunity for people, businesses and communities. We enable clients in 59 countries to navigate their digital transformation. With over four decades of experience in managing the systems and workings of global enterprises, we expertly steer clients, as they navigate their digital transformation powered by cloud and AI. We enable them with an AI-first core, empower  the  business  with  agile  digital  at  scale  and  drive continuous  improvement  with  always-on  learning  through  the transfer of digital skills, expertise, and ideas from our innovation ecosystem. We are deeply committed to being a well-governed, environmentally  sustainable  organization  where  diverse  talent thrives in an inclusive workplace.
+Visit www.infosys.com to see how Infosys (NSE, BSE, NYSE: INFY) can help your enterprise navigate your next.
+## Safe Harbor
+Certain  statements  in  this  release  concerning  our  future  growth  prospects,  our  future  financial  or  operating performance, the McCamish cybersecurity incident, and the United States H-1B visa program are forward looking statements intended to qualify for the 'safe harbor' under the Private Securities Litigation Reform Act of 1995, which involve a number of risks and uncertainties that could cause actual results or outcomes to differ materially from those in such forward-looking statements. The risks and uncertainties relating to these statements include, but are not limited to, risks and uncertainties regarding the execution of our business strategy, increased competition for talent, our ability to attract and retain personnel, increase in wages, investments  to reskill our employees, our ability to effectively  implement  a  hybrid  working  model,  economic  uncertainties  and  geo-political  situations,  technological disruptions  and  innovations  such  as  Generative  AI,  the  complex  and  evolving  regulatory  landscape  including immigration  regulation  changes,  our  ESG  vision,  our  capital  allocation  policy  and  expectations  concerning  our market position, future operations, margins, profitability, liquidity, capital resources, our corporate actions including acquisitions, the outcome of pending litigation, the amount of any additional costs resulting directly or indirectly from the  McCamish cybersecurity incident, the outcome of the government investigation, the timing,  implementation, duration and effect of the September 19, 2025 proclamation signed by the president of the United States related to the H-1B visa program, and the effect of current and any future tariffs. Important factors that may cause actual results or outcomes to differ from those implied by the forward-looking statements are discussed in more detail in our US Securities and Exchange Commission filings including our Annual Report on Form 20-F for the fiscal year ended March 31, 2025. These filings are available at www.sec.gov. Infosys may, from time to time, make additional written and oral forward-looking statements, including statements contained in the Company's filings with the Securities and Exchange Commission and our reports to shareholders. The Company does not undertake to update any forwardlooking statements that may be made from time to time by or on behalf of the Company unless it is required by law.
+## Contact
+Investor Relations
+Sandeep Mahindroo +91 80 3980 1018
+Sandeep\_Mahindroo@infosys.com
+Media Relations
+Rishi Basu +91 80 4156 3998
+Rajarshi.Basu@infosys.com
+Press Release
+## IFRS -USD Press Release
+## DIGITALNAVIGATION FRAMEWORK
+<!-- image -->
+<!-- image -->
+Infosys Limited and subsidiaries Extracted from the Condensed Consolidated Balance Sheet under IFRS as at:
+## IFRS -USD Press Release
+(Dollars in millions)
+|                                                            | September 30, 2025   | March 31, 2025   |
+|------------------------------------------------------------|----------------------|------------------|
+| ASSETS                                                     |                      |                  |
+| Current assets                                             |                      |                  |
+| Cash and cash equivalents                                  | 3,585                | 2,861            |
+| Current investments                                        | 1,420                | 1,460            |
+| Trade receivables                                          | 3,826                | 3,645            |
+| Unbilled revenue                                           | 1,612                | 1,503            |
+| Other current assets                                       | 1,470                | 1,890            |
+| Total current assets                                       | 11,913               | 11,359           |
+| Non-current assets                                         |                      |                  |
+| Property, plant and equipment and Right-of-use assets      | 2,172                | 2,235            |
+| Goodwill and other Intangible assets                       | 1,652                | 1,505            |
+| Non-current investments                                    | 1,225                | 1,294            |
+| Unbilled revenue                                           | 260                  | 261              |
+| Other non-current assets                                   | 842                  | 765              |
+| Total non-current assets                                   | 6,151                | 6,060            |
+| Total assets                                               | 18,064               | 17,419           |
+| LIABILITIES AND EQUITY                                     |                      |                  |
+| Current liabilities                                        |                      |                  |
+| Trade payables                                             | 432                  | 487              |
+| Unearned revenue                                           | 1,016                | 994              |
+| Employee benefit obligations                               | 375                  | 340              |
+| Other current liabilities and provisions                   | 3,401                | 3,191            |
+| Total current liabilities                                  | 5,224                | 5,012            |
+| Non-current liabilities                                    |                      |                  |
+| Lease liabilities                                          | 674                  | 675              |
+| Other non-current liabilities                              | 479                  | 477              |
+| Total non-current liabilities                              | 1,153                | 1,152            |
+| Total liabilities                                          | 6,377                | 6,164            |
+| Total equity attributable to equity holders of the company | 11,634               | 11,205           |
+| Non-controlling interests                                  | 53                   | 50               |
+| Total equity                                               | 11,687               | 11,255           |
+| Total liabilities and equity                               | 18,064               | 17,419           |
 
-* Net of adjustments on account of modifications
+Extracted from the Condensed Consolidated statement of Comprehensive Income under IFRS for:
+(Dollars in millions except per equity share data)
+|                                             | 3 months ended September 30, 2025   | 3 months ended September 30, 2024   | 6 months ended September 30, 2025   | 6 months ended September 30, 2024   |
+|---------------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|
+| Revenues                                    | 5,076                               | 4,894                               | 10,018                              | 9,608                               |
+| Cost of sales                               | 3,516                               | 3,400                               | 6,933                               | 6,659                               |
+| Gross profit                                | 1,560                               | 1,494                               | 3,085                               | 2,949                               |
+| Operating expenses:                         |                                     |                                     |                                     |                                     |
+| Selling and marketing expenses              | 254                                 | 221                                 | 512                                 | 454                                 |
+| Administrative expenses                     | 241                                 | 240                                 | 480                                 | 469                                 |
+| Total operating expenses                    | 495                                 | 461                                 | 992                                 | 923                                 |
+| Operating profit                            | 1,065                               | 1,033                               | 2,093                               | 2,026                               |
+| Other income, net (3)                       | 100                                 | 72                                  | 210                                 | 160                                 |
+| Profit before income taxes                  | 1,165                               | 1,105                               | 2,303                               | 2,186                               |
+| Income tax expense                          | 325                                 | 327                                 | 654                                 | 644                                 |
+| Net profit (before minority interest)       | 840                                 | 778                                 | 1,649                               | 1,542                               |
+| Net profit (after non-controlling interest) | 839                                 | 777                                 | 1,647                               | 1,540                               |
+| Basic EPS ($)                               | 0.20                                | 0.19                                | 0.40                                | 0.37                                |
+| Diluted EPS ($)                             | 0.20                                | 0.19                                | 0.40                                | 0.37                                |
 
-The aggregate depreciation expense on ROU assets is included in cost of sales in the interim condensed consolidated statement of comprehensive income.
-The following is the break-up of current and non-current lease liabilities as of September 30, 2025 and March 31, 2025:
-|                               | (Dollars in millions)   | (Dollars in millions)   |
-|-------------------------------|-------------------------|-------------------------|
-| Particulars                   | As at                   | As at                   |
-|                               | September 30, 2025      | March 31, 2025          |
-| Current lease liabilities     | 312                     | 287                     |
-| Non-current lease liabilities | 674                     | 675                     |
-| Total                         | 986                     | 962                     |
+Press Release
+<!-- image -->
 
-## 2.9 Goodwill and Intangible assets
-## 2.9.1 Goodwill
-## Accounting Policy
-Goodwill represents purchase consideration in excess of the Group's interest in the net fair value of identifiable assets, liabilities and contingent liabilities of the acquired entity. When the net fair value of the identifiable assets, liabilities and contingent liabilities acquired exceeds the purchase consideration, the fair value of net assets acquired is reassessed and the bargain purchase gain is recognized immediately in the net profit in the Statement of Comprehensive Income. Goodwill is measured at cost less accumulated impairment losses.
-## Impairment
-Goodwill is tested for impairment on an annual basis and whenever there is an indication that the recoverable amount of a cash generating unit (CGU) is less than its carrying amount. For the impairment test, goodwill is allocated to the CGU or groups of CGU's which benefit from the synergies of the acquisition and which represents the lowest level at which goodwill is monitored for internal management purposes. A CGU is the smallest identifiable group of assets that generates cash inflows that are largely independent of the cash inflows from other assets or group of assets. Impairment occurs when the carrying amount of a CGU including the goodwill, exceeds the estimated recoverable amount of the CGU. The recoverable amount of a CGU is the higher of its fair value less cost to sell and its value-in-use. Value-in-use is the present value of future cash flows expected to be derived from the CGU. Key assumptions in the cash flow projections are prepared based on current economic conditions and includes estimated long term growth rates, weighted average cost of capital and estimated operating margins.
-Following is a summary of changes in the carrying amount of goodwill:
-|                                               | (Dollars in millions)   | (Dollars in millions)   |
-|-----------------------------------------------|-------------------------|-------------------------|
-| Particulars                                   | 2025 As at              | March 31, 2025          |
-| Carrying value at the beginning               | 1,182                   | 875                     |
-| Goodwill on acquisitions (Refer to note 2.10) | 52                      | 309                     |
-| Translation differences                       | 61                      | (2)                     |
-| Carrying value at the end                     | 1,295                   | 1,182                   |
+## NOTES:
+1. The above information is extracted from the audited condensed consolidated Balance sheet and Statement of Comprehensive Income for the quarter ended September 30, 2025, which have been taken on record at the Board meeting held on October 16, 2025.
+2. A Fact Sheet providing the operating metrics of the Company can be downloaded from www.infosys.com.
+3. Other income is net of Finance Cost.
+4. As the quarter and six months ended figures are taken from the source and rounded to the nearest digits, the quarter figures in this statement added up to the figures reported for the previous quarter might not always add up to the six months ended figures reported in this statement.
 
-For the purpose of impairment testing, goodwill acquired in a business combination is allocated to the CGU or groups of CGUs, which benefit from the synergies of the acquisition.
-## 2.9.2 Intangible assets
-## Accounting Policy
-Intangible assets are stated at cost less accumulated amortization and impairment. Intangible assets are amortized over their respective individual estimated useful lives on a straight-line basis, from the date that they are available for use. The estimated useful life of an identifiable intangible asset is based on a number of factors including the effects of obsolescence, demand, competition, and other economic factors (such as the stability of the industry and known technological advances), and the level of maintenance expenditures required to obtain the expected future cash flows from the asset. Amortization methods and useful lives are reviewed periodically including at each financial year end.
-Research costs are expensed as incurred. Software product development costs are expensed as incurred unless technical and commercial feasibility of the project is demonstrated, future economic benefits are probable, the Group has an intention and ability to complete and use or sell the software and the costs can be measured reliably. The costs which can be capitalized include the cost of material, direct labour, overhead costs that are directly attributable to prepare the asset for its intended use.
-## Impairment
-Intangible assets are evaluated for recoverability whenever events or changes in circumstances indicate that their carrying amounts may not be recoverable. For the purpose of impairment testing, the recoverable amount (i.e. the higher of the fair value less cost to sell and the value-in-use) is determined on an individual asset basis unless the asset does not generate cash flows that are largely independent of those from other assets. In such cases, the recoverable amount is determined for the CGU to which the asset belongs.
-If such assets are considered to be impaired, the impairment to be recognized in the net profit in the statement of comprehensive income is measured by the amount by which the carrying value of the assets exceeds the estimated recoverable amount of the asset. An impairment loss is reversed in the net profit in the statement of comprehensive income if there has been a change in the estimates used to determine the recoverable amount. The carrying amount of the asset is increased to its revised recoverable amount, provided that this amount does not exceed the carrying amount that would have been determined (net of any accumulated amortization) had no impairment loss been recognized for the asset in prior years.
-X
-1
-3
-A
-O
-## 2.10 Business combinations
-## Accounting policy
-Business combinations have been accounted for using the acquisition method under the provisions of IFRS 3 (Revised), Business Combinations.
-The purchase price in an acquisition is measured at the fair value of the assets transferred, equity instruments issued and liabilities incurred or assumed at the date of acquisition, which is the date on which control is transferred to the Group. The purchase price also includes the fair value of any contingent consideration. Identifiable assets acquired and liabilities and contingent liabilities assumed in a business combination are measured initially at their fair value on the date of acquisition. Contingent consideration is remeasured at fair value at each reporting date and changes in the fair value of the contingent consideration are recognized in the interim condensed Consolidated Statement of Comprehensive Income.
-The interest of non-controlling shareholders is initially measured either at fair value or at the non-controlling interests' proportionate share of the acquiree's identifiable net assets. The choice of measurement basis is made on an acquisition-by-acquisition basis. Subsequent to acquisition, the carrying amount of non-controlling interests is the amount of those interests at initial recognition plus the non-controlling interests' share of subsequent changes in equity of subsidiaries.
-Business combinations between entities under common control is outside the scope of IFRS 3 (Revised), Business Combinations and is accounted for at carrying value of assets acquired and liabilities assumed.
-The payments related to options issued by the Group over the non-controlling interests in its subsidiaries are accounted as financial liabilities and initially recognized at the estimated present value of gross obligations. Such options are subsequently measured at fair value in order to reflect the amount payable under the option at the date at which it becomes exercisable. In the event that the option expires unexercised, the liability is derecognized.
-## Acquisition
-During the six months ended September 30, 2025 the Group, completed two business combinations by acquiring 100% partnership interests/voting interests in:
-1) MRE Consulting Ltd., a leading Energy and business consulting services company, headquartered in Texas, U.S. on April 30, 2025, which is expected to bring newer capabilities for the Group in trading and risk management, especially in the energy sector.
+Press Release
+<!-- image -->
+## TOTHEBOARDOFDIRECTORSOFINFOSYSLIMITED
+## Opinion
+We have audited the accompanying interim condensed consolidated financial statements of INFOsYS LIMITED (the "Company"), and its subsidiaries (the Company and its subsidiaries Sheet as at September 30, 2025, the Condensed Consolidated Statement of Comprehensive Income for the three months and six months ended on that date, the Condensed Consolidated Statement of Changes in Equity, and the Condensed Consolidated Statement of Cash Flows for the six months ended on that date, and notes to the financial statements, including a summary of material accounting policies and other explanatory information (hereinafter referred to as the "Interim Condensed Consolidated Financial Statements").
+Inouropinionandtothebestofourinformationand accordingtotheexplanationsgivento view in conformity with International Accounting Standard 34 "Interim Financial Reporting" ("IAS 34") as issued by the International Accounting Standards Board ("IASB"), of the consolidated state of affairs of the Group as at September 30, 2025, its consolidated profit and its consolidated total comprehensive income for the three months and six months ended on that date, its consolidated changes in equity and its consolidated cash flows for the six months ended on that date.
+## Basis for Opinion
+We conducted our audit of the Interim Condensed Consolidated Financial Statements in accordance with the Standards on Auditing ("SAs") issued by the Institute of Chartered Accountants of India ("ICAI"). Our responsibilities under those Standards are further described intheAuditor'sResponsibilitiesfortheAuditoftheInterimCondensedConsolidatedFinancial Statements section of our report. We are independent of the Group in accordance with the Code of Ethics issued by the ICAI, and we have fulfilled our other ethical responsibilities in accordance with the Code of Ethics. We believe that the audit evidence obtained by us is sufficient and appropriate to provide a basis for our audit opinion on the Interim Condensed Consolidated Financial Statements.
+## Responsibilities of Management and Board of Directors for the Interim Condensed Consolidated Financial Statements
+The Company's Board of Directors is responsible for the preparation and presentation of these InterimCondensedConsolidatedFinancialStatements thatgiveatrueandfairviewofthe consolidated financial position, consolidated financial performance, consolidated total comprehensive income, consolidated changes in equity and consolidated cash flows of the Group in accordance with IAS 34 as issued by the IASB. The respective Boards of Directors of the entities included in the Group are responsible for maintenance of the adequate accounting recordsfor safeguarding assets of the Group and for preventing and detecting frauds and other irregularities; selection and application of appropriate accounting policies; making judgments and estimates that are reasonable and prudent; and design, implementation and maintenance of adequate internal financial controls, that were operating effectively for ensuring the accuracy and completeness of the accounting records, relevant to the preparation and presentation of the respective interim financial statements that give a true and fair view and arefreefrommaterial misstatement,whether due tofraudorerrorwhichhavebeenusedfor the purpose of preparation of the Interim Condensed Consolidated Financial Statements by the Directors of the Company, as aforesaid.
+Chartered Accountants PrestigeTradeTower,Level19 46,Palace Road, High Grounds Bengaluru-560001 Karnataka,India
+Tel: +91 80 6188 6000
+Fax:+9180 6188 6011
+<!-- image -->
+In preparing the Interim Condensed Consolidated Financial Statements, the respective Boards of Directors of the entities included in the Group are responsible for assessing the ability of the respective entities to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless the respective Boards of Directors eitherintend to liquidate theirrespective entitiesor to cease operations,orhave no realistic alternative but to do so.
+The respective Boards of Directors of the entities included in the Group are also responsible for overseeing the financial reporting process of the Group.
+## Statements
+Our objectives are to obtainreasonable assurance about whether theInterim Condensed Consolidated Financial Statements as a whole are free from material misstatement, whether due to fraud or error, and to issue an auditor's report that includes our opinion. Reasonable assurance is a high level of assurance but is not a guarantee that an audit conducted in accordancewithSAswillalwaysdetectamaterialmisstatementwhenitexists.Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basisoftheseInterimCondensedConsolidatedFinancialStatements.
+As part of an audit in accordance with SAs, we exercise professional judgment and maintain professional scepticism throughout the audit. We also:
+- ·Identify and assess the risks of material misstatement of the Interim Condensed Consolidated Financial Statements, whether due to fraud or error, design and perform audit procedures responsive to those risks, and obtain audit evidence that is sufficient and appropriate to provide a basis for our opinion. The risk of not detecting a material misstatement resulting from fraud is higher than for one resulting from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.
+- Obtain an understanding of internal financial controls relevant to the audit in order to design audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on effectiveness of such controls.
+- Evaluate the appropriateness of accounting policies used and the reasonableness of accounting estimates and related disclosures made by management.
+- Conclude on the appropriateness of management's use of the going concern basis of accounting and, based on the audit evidence obtained, whether a material uncertainty exists related to events or conditions that may cast significant doubt on the ability of the Group to continue as a going concern. If we conclude that a material uncertainty exists, we are required to draw attention in our auditor's report to the related disclosures in the Interim Condensed Consolidated Financial Statements or, if such disclosures are inadequate, to modify our opinion. Our conclusions are based on the audit evidence obtained up to the date of our auditor's report. However, future events or conditions may cause the Group to cease to continue as a going concern.
+- Evaluate the overall presentation, structure and content of the Interim Condensed Consolidated Financial Statements, including the disclosures, and whether the Interim Condensed Consolidated Financial Statements represent the underlying transactions and eventsin amanner that achievesfairpresentation.
+- Obtain sufficient appropriate audit evidence regarding the financial information of the entities within the Group to express an opinion on the Interim Condensed Consolidated Financial Statements. We are responsible for the direction, supervision and performance of the audit of financial statements of such entities included in the Interim Condensed Consolidated Financial Statements of which we are independent auditors.
 
-2) The Missing Link Security Pty. Ltd., The Missing Link Security Limited and The Missing Link Automation Pty. Ltd. (collectively known as "The Missing Link"), a leading Cybersecurity service provider headquartered in Australia on April 30, 2025, which is expected to further strengthen the Group's capabilities in the cybersecurity sector and bolster its presence in the fast growing Australian Market.
-
-The provisional purchase price is allocated to assets acquired and liabilities assumed based upon determination of fair values at the date of acquisition as follows:
-| Component                                     | amount   | Fair value adjustments   | (Dollars in million) Purchase price allocated   |
-|-----------------------------------------------|----------|--------------------------|-------------------------------------------------|
-| Net Assets (1)                                | 14       | -                        | 14                                              |
-| Intangible assets:                            |          |                          |                                                 |
-| Customer related #                            | -        | 26                       | 26                                              |
-| Vendor relationship #                         | -        | 7                        | 7                                               |
-| Brand #                                       | -        | 2                        | 2                                               |
-| Deferred tax liabilities on intangible assets | -        | (5)                      | (5)                                             |
-| Total                                         | 14       | 30                       | 44                                              |
-| Goodwill                                      |          |                          | 52                                              |
-| Total purchase price                          |          |                          | 96                                              |
-
-(1) Includes cash and cash equivalents acquired of $12 million.
-
-# The estimated useful life is around 1 year to 7 years
-The excess of the purchase consideration paid over the fair value of assets acquired has been attributed to goodwill. The primary items that generated this goodwill are the value of the acquired assembled workforce and estimated synergies, neither of which qualify as an intangible asset.
-Goodwill amounting to $9 million is expected to be deductible for tax purposes.
-The total purchase consideration of $96 million includes upfront cash consideration of $88 million and contingent consideration with an estimated fair value of $8 million as on the date of acquisition.
-At the acquisition date, the key inputs used in determination of the fair value of contingent consideration are the probabilities assigned towards achievement of financial targets and discount rates ranging from 2% - 3%. The undiscounted value of contingent consideration as of September 30, 2025 was approximately $9 million.
-Additionally, these acquisitions have retention bonus and management incentives payable to the employees of the acquiree over 2-3 years, subject to their continuous employment with the Group and achievement of financial targets for the respective years. Retention bonus and management incentives are recognized in employee benefit expenses in the Statement of Comprehensive Income over the period of service.
-Fair value of trade receivables acquired is $23 million as of acquisition date and as of September 30, 2025, the amounts are substantially collected.
-Transaction costs that the Group incurs in connection with a business combination such as finder's fees, legal fees, due diligence fees, and other professional and consulting fees are expensed as incurred. The transaction costs of $4 million related to the acquisition have been included under administrative expenses in the Consolidated Statement of Comprehensive Income for the three months ended June 30, 2025.
-## Proposed Acquisitions
-On August 13, 2025, Infosys Singapore Pte. Ltd., a wholly owned subsidiary of Infosys Limited, entered into a definitive agreement to acquire 75% of the equity share capital in Telstra Purple Pty Ltd, including some of its subsidiaries (together known as Versent Group), Australia's leading Digital Transformation Solutions Provider for a consideration including earn-outs and deferred consideration amounting up to AUD 233 million (approximately $152 million), excluding retention bonus and management incentives, subject to regulatory approvals and customary closing adjustments.
-X
-1
-4
-A
-O
-## 2.11 Employees' Stock Option Plans (ESOP)
-## Accounting Policy
-The Group recognizes compensation expense relating to share-based payments in net profit based on estimated fair-values of the awards on the grant date. The estimated fair value of awards is recognized as an expense in net profit in the interim condensed consolidated statement of comprehensive income on a straight-line basis over the requisite service period for each separately vesting portion of the award as if the award was in-substance, multiple awards with a corresponding increase to share premium.
-## Infosys Expanded Stock Ownership Program 2019 (the 2019 Plan)
-On June 22, 2019 pursuant to approval by the shareholders in the Annual General Meeting, the Board has been authorized to introduce, offer, issue and provide sharebased incentives to eligible employees of the Company and its subsidiaries under the 2019 Plan. The maximum number of shares under the 2019 plan shall not exceed 50,000,000 equity shares. To implement the 2019 Plan, up to 45,000,000 equity shares may be issued by way of secondary acquisition of shares by Infosys Expanded Stock Ownership Trust. The Restricted Stock Units (RSUs) granted under the 2019 plan shall vest based on the achievement of defined annual performance parameters as determined by the administrator (Nomination and Remuneration Committee). The performance parameters will be based on a combination of relative Total Shareholder Return (TSR) against selected industry peers and certain broader market domestic and global indices and operating performance metrics of the company as decided by administrator. Each of the above performance parameters will be distinct for the purposes of calculation of quantity of shares to vest based on performance. These instruments will generally vest between a minimum of 1 to maximum of 3 years from the grant date.
-## 2015 Stock Incentive Compensation Plan (the 2015 Plan):
-On March 31, 2016, pursuant to the approval by the shareholders through postal ballot, the Board was authorized to introduce, offer, issue and allot share-based incentives to eligible employees of the Company and its subsidiaries under the 2015 Plan. The maximum number of shares under the 2015 plan shall not exceed 24,038,883 equity shares (this includes 11,223,576 equity shares which are held by the trust towards the 2011 Plan as at March 31, 2016). These instruments will generally vest over a period of 4 years  The plan numbers mentioned above are further adjusted with the September 2018 bonus issue.
-The equity settled and cash settled RSUs and stock options would vest generally over a period of 4 years and shall be exercisable within the period as approved by the Nomination and Remuneration Committee (NARC). The exercise price of the RSUs will be equal to the par value of the shares and the exercise price of the stock options would be the market price as on the date of grant.
-Controlled trust holds 9,091,403 and 9,655,927 shares as at September 30, 2025 and March 31, 2025, respectively under the 2015 plan. Out of these shares, 2,00,000 equity shares each have been earmarked for welfare activities of the employees as at September 30, 2025 and March 31, 2025.
-The following is the summary of grants during three months and six months ended September 30, 2025 and September 30, 2024:
-| Particulars                               | Three months ended September 30,   | Three months ended September 30,   | Six months ended September 30,   | Six months ended September 30,   |
-|-------------------------------------------|------------------------------------|------------------------------------|----------------------------------|----------------------------------|
-|                                           | 2025                               | 2024                               | 2025                             | 2024                             |
-| 2015 Plan: RSU                            |                                    |                                    |                                  |                                  |
-| Equity settled RSUs                       |                                    |                                    |                                  |                                  |
-| Key Management Personnel (KMP)            | -                                  | -                                  | 277,077                          | 295,168                          |
-| Employees other than KMP                  | 2,400                              | 32,850                             | 7,400                            | 129,340                          |
-|                                           | 2,400                              | 32,850                             | 284,477                          | 424,508                          |
-| 2015 Plan: Employee Stock Options (ESOPs) |                                    |                                    |                                  |                                  |
-| Equity settled RSUs                       |                                    |                                    |                                  |                                  |
-| Key Management Personnel (KMP)            | -                                  | -                                  | 237,370                          | -                                |
-| Employees other than KMP                  | -                                  | -                                  | 5,412,790                        | -                                |
-|                                           | -                                  | -                                  | 5,650,160                        | -                                |
-| Cash settled RSUs                         |                                    |                                    |                                  |                                  |
-| Key Management Personnel (KMP)            | -                                  | -                                  | -                                | -                                |
-| Employees other than KMP                  | -                                  | -                                  | 108,180                          | -                                |
-|                                           | -                                  | -                                  | 108,180                          | -                                |
-| Total Grants under 2015 Plan              | 2,400                              | 32,850                             | 6,042,817                        | 424,508                          |
-| 2019 Plan: RSU                            |                                    |                                    |                                  |                                  |
-| Equity settled RSUs                       |                                    |                                    |                                  |                                  |
-| Key Management Personnel (KMP)            | -                                  | -                                  | 66,366                           | 70,699                           |
-| Employees other than KMP                  | -                                  | -                                  | -                                | 6,848                            |
-|                                           | -                                  | -                                  | 66,366                           | 77,547                           |
-| Total Grants under 2019 Plan              | -                                  | -                                  | 66,366                           | 77,547                           |
-
-## Under the 2015 plan:
-The Board, on April 17, 2025, based on the recommendations of the Nomination and Remuneration Committee approved the following grants for fiscal 2026. In accordance with such approval the following grants were made effective May 2, 2025.
-- 230,621 performance-based RSUs (Annual performance equity grant) of fair value of ₹34.75 crore. These RSUs will vest in line with the employment agreement based on achievement of certain performance targets.
-
-- 13,273 performance-based grant of RSUs (Annual performance equity ESG grant) of fair value of ₹2 crore. These RSUs will vest in line with the employment agreement based on achievement of certain environment, social and governance milestones as determined by the Board.
-
-- 33,183 performance-based grant of RSUs (Annual performance Equity TSR grant) of fair value of ₹5 crore . These RSUs will vest in line with the employment agreement based on Company's performance on cumulative relative TSR over the years and as determined by the Board.
-
-Though the annual time based grants and annual performance equity TSR grant for the remaining employment term ending on March 31, 2027 have not been granted as of September 30, 2025, since the service commencement date precedes the grant date, the company has recorded employment stock compensation expense in accordance with IFRS 2, Share based payments. The grant date for this purpose in accordance with IFRS 2, Share based payments is July 1, 2022.
-## Under the 2019 plan:
-The Board, on April 17, 2025, based on the recommendations of the Nomination and Remuneration Committee, approved performance-based grant of RSUs amounting to ₹10 crore for fiscal 2026 under the 2019 Plan. These RSUs will vest based on achievement of certain performance targets. Accordingly, 66,366 performance based RSU's were granted effective May 2, 2025.
-## Under the 2015 plan:
-During the six months ended September 30, 2025, based on recommendations of Nomination and Remuneration Committee, the Board approved time based grants of 237,370 ESOPs to Other KMP under the 2015 Plan. These stock options will vest over a period of 4 years and shall be exercisable within the period as approved by the Committee. The exercise price of the stock options would be the market price as on the date of grant.
-## The break-up of employee stock compensation expense is as follows:
-| Particulars                                                       | Three months ended   | Three months ended   | (Dollars in millions) Six months ended September 30,   | (Dollars in millions) Six months ended September 30,   |
-|-------------------------------------------------------------------|----------------------|----------------------|--------------------------------------------------------|--------------------------------------------------------|
-|                                                                   | 2025                 | 2024                 | 2025                                                   | 2024                                                   |
-| Granted to:                                                       |                      |                      |                                                        |                                                        |
-| KMP                                                               | 2                    | 2                    | 4                                                      | 4                                                      |
-| Employees other than KMP                                          | 25                   | 23                   | 50                                                     | 46                                                     |
-| Total (1)                                                         | 27                   | 25                   | 54                                                     | 50                                                     |
-| (1) Cash settled stock compensation expense included in the above | -                    | 1                    | 1                                                      | 1                                                      |
-
-The fair value of the awards are estimated using the Black-Scholes Model for time and non-market performance based options and Monte Carlo simulation model is used for TSR based options.
-The inputs to the model include the share price at date of grant, exercise price, expected volatility, expected dividends, expected term and the risk free rate of interest. Expected volatility during the expected term of the options is based on historical volatility of the observed market prices of the Company's publicly traded equity shares during a period equivalent to the expected term of the options. Expected volatility of the comparative company have been modelled based on historical movements in the market prices of their publicly traded equity shares during a period equivalent to the expected term of the options. Correlation coefficient is calculated between each peer entity and the indices as a whole or between each entity in the peer group.
-
-## The fair value of each equity settled award is estimated on the date of grant using the following assumptions:
-| Particulars                                                | For options granted in          | For options granted in           | For options granted in   | For options granted in          | For options granted in   |
-|------------------------------------------------------------|---------------------------------|----------------------------------|--------------------------|---------------------------------|--------------------------|
-|                                                            | Fiscal 2026- Equity Shares- RSU | Fiscal 2026- Equity Shares- ESOP | Fiscal 2026- ADS-ESOP    | Fiscal 2025- Equity Shares- RSU | Fiscal 2025- ADS-RSU     |
-| Weighted average share price (₹) / ($ ADS)                 | 1,507                           | 1,554                            | 17.93                    | 1,428                           | 18.09                    |
-| Exercise price (₹)/ ($ ADS)                                | 5.00                            | 1,554                            | 17.93                    | 5.00                            | 0.07                     |
-| Expected volatility (%)                                    | 23-25                           | 25-28                            | 26-30                    | 21-26                           | 23-28                    |
-| Expected life of the option (years)                        | 1-4                             | 3-7                              | 3-7                      | 1-4                             | 1-4                      |
-| Expected dividends (%)                                     | 2-3                             | 2-3                              | 2-3                      | 2-3                             | 2-3                      |
-| Risk-free interest rate (%)                                | 6                               | 6                                | 4                        | 7                               | 4-5                      |
-| Weighted average fair value as on grant date (₹) / ($ ADS) | 1,355                           | 390                              | 4.09                     | 1,311                           | 16.59                    |
-
-The expected life of the RSU/ESOP is estimated based on the vesting term and contractual term of the RSU/ESOP, as well as expected exercise behavior of the employee who receives the RSU/ESOP.
-X
-1
-5
-A
-O
-## 2.12 Income Taxes
-## Accounting policy
-Income tax expense comprises current and deferred income tax. Income tax expense is recognized in net profit in the consolidated statement of comprehensive income except to the extent that it relates to items recognized directly in equity, in which case it is recognized in equity or other comprehensive income. Current income tax for current and prior periods is recognized at the amount expected to be paid to or recovered from the tax authorities, using the tax rates and tax laws that have been enacted or substantively enacted by the Balance Sheet date. Deferred income tax assets and liabilities are recognized for all temporary differences arising between the tax bases of assets and liabilities and their carrying amounts in the financial statements except when the deferred income tax arises from the initial recognition of goodwill or an asset or liability in a transaction that is not a business combination and affects neither accounting nor taxable profit or loss at the time of the transaction. Deferred tax assets are reviewed at each reporting date and are reduced to the extent that it is no longer probable that the related tax benefit will be realized.
-Deferred income tax assets and liabilities are measured using tax rates and tax laws that have been enacted or substantively enacted by the Balance Sheet date and are expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled. The effect of changes in tax rates on deferred income tax assets and liabilities is recognized as income or expense in the period that includes the enactment or the substantive enactment date. A deferred income tax asset is recognized to the extent that it is probable that future taxable profit will be available against which the deductible temporary differences and tax losses can be utilized. Deferred income taxes are not provided on the undistributed earnings of subsidiaries and branches where it is expected that the earnings of the subsidiary or branch will not be distributed in the foreseeable future.
-The Group offsets current tax assets and current tax liabilities; deferred tax assets and deferred tax liabilities, where it has a legally enforceable right to set off the recognized amounts and where it intends either to settle on a net basis, or to realize the asset and settle the liability simultaneously. The income tax provision for the interim period is made based on the best estimate of the annual average tax rate expected to be applicable for the full financial year. Tax benefits of deductions earned on exercise of employee share options in excess of compensation charged to income are credited to equity.
-Income tax expense in the interim condensed consolidated statement of comprehensive income comprises:
-|                    | Three months ended September 30,   | Three months ended September 30,   | (Dollars in million)   | (Dollars in million)   |
-|--------------------|------------------------------------|------------------------------------|------------------------|------------------------|
-| Particulars        | 2025                               | 2024                               | 2025 ended             | 2024 30,               |
-| Current taxes      |                                    |                                    |                        |                        |
-| Domestic taxes     | 280                                | 279                                | 550                    | 555                    |
-| Foreign taxes      | 82                                 | 97                                 | 168                    | 180                    |
-|                    | 362                                | 376                                | 718                    | 735                    |
-| Deferred taxes     |                                    |                                    |                        |                        |
-| Domestic taxes     | (23)                               | (31)                               | (39)                   | (59)                   |
-| Foreign taxes      | (14)                               | (18)                               | (25)                   | (32)                   |
-|                    | (37)                               | (49)                               | (64)                   | (91)                   |
-| Income tax expense | 325                                | 327                                | 654                    | 644                    |
-
-Income tax expense for the three months ended September 30, 2024 includes provisions (net of reversals) of $10 million. Income tax expense for the six months ended September 30, 2025 and September 30, 2024 includes provisions (net of reversals) of $13 million and provisions (net of reversals) of of $17 million. These provisions and reversals pertaining to prior periods are primarily on account of adjudication of certain disputed matters, upon filing of tax return and completion of assessments, across various jurisdictions
-Deferred income tax for the three months and six months ended September 30, 2025 and September 30, 2024 substantially relates to origination and reversal of temporary differences.
-The Company's Advanced Pricing Arrangement (APA) with the Internal Revenue Service (IRS) for US branch income tax expired in March 2021. The Company has applied for renewal of APA and currently the US taxable income is based on the Company's best estimate determined based on the expected value method.
-As at September 30, 2025, claims against the Group not acknowledged as debts from the Income tax authorities amounted to $226 million (₹2,003 crore). As at March 31, 2025, claims against the Group not acknowledged as debts from the Income tax authorities amounted to $226 million (₹1,933 crore).
-Amount paid to statutory authorities against the tax claims amounted to $137 million (₹1,213 crore) and $491 million (₹4,199 crore) as at September 30, 2025 and March 31, 2025 respectively.
-The claims against the Group primarily represent demands arising on completion of assessment proceedings under the Income Tax Act, 1961. These claims are on account of issues of disallowance of expenditure towards software being held as capital in nature, payments made to Associated Enterprises held as liable for withholding of taxes, among others. These matters are pending before various Income Tax Authorities and the Management including its tax advisors expect that its position will likely be upheld on ultimate resolution and will not have a material adverse effect on the Group's financial position and results of operations.
-## 2.13 Earnings per equity share
-## Accounting Policy
-Basic earnings per equity share is computed by dividing the net profit attributable to the equity holders of the Group by the weighted average number of equity shares outstanding during the period. Diluted earnings per equity share is computed by dividing the net profit attributable to the equity holders of the Group by the weighted average number of equity shares considered for deriving basic earnings per equity share and also the weighted average number of equity shares that could have been issued upon conversion of all dilutive potential equity shares. The dilutive potential equity shares are adjusted for the proceeds receivable had the equity shares been actually issued at fair value (i.e. the average market value of the outstanding equity shares). Dilutive potential equity shares are deemed converted as at the beginning of the period, unless issued at a later date. Dilutive potential equity shares are determined independently for each period presented.
-The number of equity shares and potentially dilutive equity shares are adjusted retrospectively for all periods presented for any share splits and bonus shares issues including for changes effected prior to the approval of the financial statements by the Board of Directors.
-X
-1
-6
-A
-O
-## 2.14 Related party transactions
-Refer Note 2.20 "Related party transactions" in the Company's 2025 Annual Report on Form 20-F for the full names and other details of the Company's subsidiaries and controlled trusts.
+## Deloitte Haskins &amp; Sells LLP
+Materiality is the magnitude of misstatements in the Interim Condensed Consolidated Financial Statements that, individually or in aggregate, makes it probable that the economic decisions of areasonablyknowledgeable user of the InterimCondensedConsolidatedFinancial Statements may be influenced. We consider quantitative materiality and qualitative factors in (i) planning the scope of our audit work and in evaluating the results of our work; and (ii) to evaluate the effect of any identified misstatements in the Interim Condensed Consolidated FinancialStatements.
+We communicate with those charged with governance of the Company and such other entities includedintheInterimCondensedConsolidated FinancialStatementsofwhichwearethe independent auditors regarding, among other matters, the planned scope and timing of the audit and significant audit findings inciuding any significant deficiencies in internal financial controlsthatweidentifyduring our audit.
+We alsoprovide those charged withgovernancewith a statement thatwe have complied with relevant ethical requirements regarding independence, and to communicate with them all relationships and other matters that may reasonably be thought to bear on our independence, andwhereapplicable,relatedsafeguards.
+<!-- image -->
+ForDELOITTEHASKINS&amp;SELLSLLP
+CharteredAccountants
+(Firm'sRegistrationNo.117366W/W-100018)
+mm
+Vikas Bagaria Partner (Membership No.060408) UDIN:
+<!-- image -->
+Place:Bengaluru
+Date:0ctober 16,2025
+## INFOSYS LIMITED AND SUBSIDIARIES
+Condensed Consolidated Financial Statements under International Financial Reporting Standards (IFRS) in US Dollars for the three months and six months ended September 30, 2025
+| Index                                                                             | Page No.   |
+|-----------------------------------------------------------------------------------|------------|
+| Condensed ConsolidatedBalanceSheet………………………………………………………………………………..                | 1          |
+| Condensed Consolidated Statement of ComprehensiveIncome………………………………………………………..    | 2          |
+| Condensed Consolidated StatementofChangesinEquity……………………………………..…………………………………….. | 3          |
+| Condensed ConsolidatedStatementofCashFlows……………………………………………………………………….            | 5          |
+| Overview and Notes to the Interim Condensed Consolidated Financial Statements     |            |
+| 1. Overview                                                                       |            |
+| 1.1Companyoverview…………………………………………………….…………………………………………………….                      | 6          |
+| 1.2 Basis of preparationoffinancialstatements…………………………………………………….…………………………………   | 6          |
+| 1.3Basisofconsolidation………………………………………………………………………………                             | 6          |
+| 1.4 Use of estimatesandjudgments………………………………………………………………….                        | 6          |
+| 1.5 Critical accountingestimatesandjudgments……………………………………………………                  | 6          |
+| 1.6 Recent accountingpronouncements……………………………………………………………..                      | 7          |
+| 2. Notes to the Interim Condensed Consolidated Financial Statements               |            |
+| 2.1 Cashandcashequivalents………………………………………………………………………..                           | 8          |
+| 2.2Investments……………………………………………………………………………………………..                               | 8          |
+| 2.3Financialinstruments……………………………………………………………………………….                            | 9          |
+| 2.4 Prepaymentsandotherassets……………………………………………………………………….                         | 12         |
+| 2.5Otherliabilities………………………………………………………………………………………..                            | 13         |
+| 2.6 Provisionsandothercontingencies……………………………………………………………………………………………            | 14         |
+| 2.7 Property,plantandequipment………………………………………………………………………..                       | 15         |
+| 2.8Leases……………………..………………………………………………………………………..                                  | 17         |
+| 2.9 Goodwill and Intangible assets...…………………………………………………………….....                 | 20         |
+| 2.10 Businesscombinations………………………………...……………………………………….                          | 21         |
+| 2.11 Employees'StockOptionPlans(ESOP)…………………………………………………………………………                 | 22         |
+| 2.12IncomeTaxes…………………………………………………………………………………….                                  | 24         |
+| 2.13Earningsperequityshare…………………………………………………………………………………….                       | 24         |
+| 2.14 Relatedpartytransactions………………………………………………………………………………………………..               | 25         |
+| 2.15Segmentreporting…………………………………………………………………………………………                            | 26         |
+| 2.16RevenuefromOperations…………………………………………………………………………………..                        | 28         |
+| 2.17UnbilledRevenue………………………………………………………………………………..                               | 29         |
+| 2.18Equity…………………….…………………………………………………………………………                                   | 30         |
+| 2.19 Break-up of expensesandotherincome,net………………...……………………………………………………………       | 32         |

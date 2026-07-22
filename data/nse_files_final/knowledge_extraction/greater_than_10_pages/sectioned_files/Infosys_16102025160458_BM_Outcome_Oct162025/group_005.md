@@ -1,279 +1,218 @@
 ---
 document_name: "Infosys_16102025160458_BM_Outcome_Oct162025.md"
 group_id: "Infosys_16102025160458_BM_Outcome_Oct162025__group_005"
-source_section_count: 4
-page_start: 40
-page_end: 48
-estimated_tokens: 8968
+source_section_count: 2
+page_start: 22
+page_end: 27
+estimated_tokens: 4539
 source_section_ids:
-  - "Infosys_16102025160458_BM_Outcome_Oct162025__015"
-  - "Infosys_16102025160458_BM_Outcome_Oct162025__016"
-  - "Infosys_16102025160458_BM_Outcome_Oct162025__017"
-  - "Infosys_16102025160458_BM_Outcome_Oct162025__018"
+  - "Infosys_16102025160458_BM_Outcome_Oct162025__008"
+  - "Infosys_16102025160458_BM_Outcome_Oct162025__009"
 ---
 
-## Infosys Limited and subsidiaries
-| Condensed Consolidated Statement of Changes in Equity                    |                      |               |               |                   |                    |                            |                         |                            | (Dollars in                                                | millions except equity    | share data)   |
-|--------------------------------------------------------------------------|----------------------|---------------|---------------|-------------------|--------------------|----------------------------|-------------------------|----------------------------|------------------------------------------------------------|---------------------------|---------------|
-|                                                                          | Number of Shares (1) | Share capital | Share premium | Retained earnings | Other reserves (2) | Capital redemption reserve | Cash flow hedge reserve | Other components of equity | Total equity attributable to equity holders of the Company | Non- controlling interest | Total equity  |
-| Balance as at April 1, 2024                                              | 4,139,950,635        | 325           | 425           | 12,557            | 1,623              | 24                         | 1                       | (4,396)                    | 10,559                                                     | 46                        | 10,605        |
-| Changes in equity for the six months ended September 30, 2024            |                      |               |               |                   |                    |                            |                         |                            |                                                            |                           |               |
-| Net profit                                                               | -                    | -             | -             | 1,540             | -                  | -                          | -                       | -                          | 1,540                                                      | 2                         | 1,542         |
-| Remeasurement of the net defined benefit liability/asset, net*           | -                    | -             | -             | -                 | -                  | -                          | -                       | 12                         | 12                                                         | -                         | 12            |
-| Equity instruments through other comprehensive income, net*              | -                    | -             | -             | -                 | -                  | -                          | -                       | 1                          | 1                                                          | -                         | 1             |
-| Fair value changes on derivatives designated as Cash flow hedge, net*    | -                    | -             | -             | -                 | -                  | -                          | (3)                     | -                          | (3)                                                        | -                         | (3)           |
-| Exchange differences on translation of foreign operations                | -                    | -             | -             | -                 | -                  | -                          | -                       | 5                          | 5                                                          | 1                         | 6             |
-| Fair value changes on investments, net*                                  | -                    | -             | -             | -                 | -                  | -                          | -                       | 15                         | 15                                                         | -                         | 15            |
-| Total comprehensive income for the period                                | -                    | -             | -             | 1,540             | -                  | -                          | (3)                     | 33                         | 1,570                                                      | 3                         | 1,573         |
-| Shares issued on exercise of employee stock options (Refer to note 2.11) | 1,958,921            | -             | -             | -                 | -                  | -                          | -                       | -                          | -                                                          | -                         | -             |
-| Employee stock compensation expense (Refer to note 2.11)                 | -                    | -             | 49            | -                 | -                  | -                          | -                       | -                          | 49                                                         | -                         | 49            |
-| Transfer on account of options not exercised                             | -                    | -             | (1)           | 1                 | -                  | -                          | -                       | -                          | -                                                          | -                         | -             |
-| Transferred from other reserves on utilization                           | -                    | -             | -             | 28                | (28)               | -                          | -                       | -                          | -                                                          | -                         | -             |
-| Transferred from other reserves to retained earnings                     | -                    | -             | -             | 358               | (358)              | -                          | -                       | -                          | -                                                          | -                         | -             |
-| Dividends #                                                              | -                    | -             | -             | (1,389)           | -                  | -                          | -                       | -                          | (1,389)                                                    | -                         | (1,389)       |
-| Balance as at September 30, 2024                                         | 4,141,909,556        | 325           | 473           | 13,095            | 1,237              | 24                         | (2)                     | (4,363)                    | 10,789                                                     | 49                        | 10,838        |
+## b) Update on employee stock grants
+The Board,on October16,2025,based on therecommendations of the Nomination and RemunerationCommitee,approved:
+- s
 
-## Infosys Limited and subsidiaries
-| Condensed Consolidated Statement of Changes in Equity                        |                      |               |               |                   |                    |                            |                         |                            | (Dollars in                                                | millions except equity    | share data)   |
-|------------------------------------------------------------------------------|----------------------|---------------|---------------|-------------------|--------------------|----------------------------|-------------------------|----------------------------|------------------------------------------------------------|---------------------------|---------------|
-|                                                                              | Number of Shares (1) | Share capital | Share premium | Retained earnings | Other reserves (2) | Capital redemption reserve | Cash flow hedge reserve | Other components of equity | Total equity attributable to equity holders of the Company | Non- controlling interest | Total equity  |
-| Balance as at April 1, 2025                                                  | 4,143,607,528        | 325           | 500           | 13,766            | 1,171              | 24                         | (2)                     | (4,579)                    | 11,205                                                     | 50                        | 11,255        |
-| Changes in equity for the six months ended September 30, 2025                |                      |               |               |                   |                    |                            |                         |                            |                                                            |                           |               |
-| Net profit                                                                   | -                    | -             | -             | 1,647             | -                  | -                          | -                       | -                          | 1,647                                                      | 2                         | 1,649         |
-| Remeasurement of the net defined benefit liability/asset, net*               | -                    | -             | -             | -                 | -                  | -                          | -                       | (13)                       | (13)                                                       | -                         | (13)          |
-| Equity instruments through other comprehensive income, net*                  | -                    | -             | -             | -                 | -                  | -                          | -                       | 3                          | 3                                                          | -                         | 3             |
-| Fair value changes on derivatives designated as Cash flow hedge, net*        | -                    | -             | -             | -                 | -                  | -                          | 1                       | -                          | 1                                                          | -                         | 1             |
-| Exchange differences on translation of foreign operations                    | -                    | -             | -             | -                 | -                  | -                          | -                       | (211)                      | (211)                                                      | 1                         | (210)         |
-| Fair value changes on investments, net*                                      | -                    | -             | -             | -                 | -                  | -                          | -                       | 10                         | 10                                                         | -                         | 10            |
-| Total comprehensive income for the period                                    | -                    | -             | -             | 1,647             | -                  | -                          | 1                       | (211)                      | 1,437                                                      | 3                         | 1,440         |
-| Shares issued on exercise of employee stock options (Refer to note 2.11)     | 1,702,418            | -             | -             | -                 | -                  | -                          | -                       | -                          | -                                                          | -                         | -             |
-| Financial liability under option arrangements                                | -                    | -             | -             | (1)               | -                  | -                          | -                       | -                          | (1)                                                        | -                         | (1)           |
-| Changes in the controlling stake of a subsidiary                             | -                    | -             | -             | 1                 | -                  | -                          | -                       | -                          | 1                                                          | -                         | 1             |
-| Employee stock compensation expense (Refer to note 2.11)                     | -                    | -             | 53            | -                 | -                  | -                          | -                       | -                          | 53                                                         | -                         | 53            |
-| Transferred on account of options not exercised                              | -                    | -             | (7)           | 7                 | -                  | -                          | -                       | -                          | -                                                          | -                         | -             |
-| Income tax benefit arising on exercise of stock options (Refer to note 2.12) | -                    | -             | 1             | -                 | -                  | -                          | -                       | -                          | 1                                                          | -                         | 1             |
-| Transferred from other reserves on utilization                               | -                    | -             | -             | 47                | (47)               | -                          | -                       | -                          | -                                                          | -                         | -             |
-| Transferred from other reserves to retained earnings                         | -                    | -             | -             | 259               | (259)              | -                          | -                       | -                          | -                                                          | -                         | -             |
-| Dividends #                                                                  | -                    | -             | -             | (1,062)           | -                  | -                          | -                       | -                          | (1,062)                                                    | -                         | (1,062)       |
-| Balance as at September 30, 2025                                             | 4,145,309,946        | 325           | 547           | 14,664            | 865                | 24                         | (1)                     | (4,790)                    | 11,634                                                     | 53                        | 11,687        |
+-Grant ofPerformance Based Stock incentives(PSUs)to eligible employeesunder the Expanded Stock OwnershipProgram 2019(2019Plan)covering the Company's Equity Shares having a market value of 44.20 lakh as on the date of the grant.The number of PSUs willbe calculated based on the market price at the close of trading on November1, 2025
+The grants madeunder the2015Plan would vest equally over a period of three to fouryears and the grantsmade under the 2019Plan wouldvest overaperiod of three years subject to the par value of the share.
+## c)Proposed Buyback
+TheBoard,at itsmeetingonSeptember112025,approvedaproposalfortheCompanytobuybackitsfullypaid-upequity sharesoffacevalueof5-eachfromtheeligibleequity purchaseof10,00,00,000EquitySharescomprisingapproximately2.41%of thetotalpaid-upequity sharecapitalof theCompanyasofJune30,2025（onstandalonebasis）atapriceof 1,800/-perEquityShare.Thebuybackisproposedtobemadefromalleligibleequityshareholders(includingthosewhobecomeequityshareholdersasontheRecord datebycancelling AmericanDepository Sharesandwithdrawing underlying EquityShares)of theCompanyasontheRecordDate（tobedetermined by theBoard/BuybackCommittee)onaproportionate basis through the"Tenderoffer"route.TheCompanyhassent outa notice to its shareholders asof September26,2025seeking the approval of the shareholders throughPostalBallot. Thevoting for thisPostalBallot is expected to end onNovember 4,2025.
+## 2.InformationondividendsforthequarterandhalfyearendedSeptember30,2025
+The Board of Directors declared an interim dividend of 23/- per equity share.The record date for the payment is October 27, 2025.The interim dividend will be paid on November 7, 2025. The interimdividend declared inthepreviousyearwas?21/-per equity share.
+| Particulars                         | Quarter ended September30,   | Quarter ended June30,   | Quarter ended September 30,   | Half-year ended September30,   | Half-year ended September30,   | (in) Year ended March 31,   |
+|-------------------------------------|------------------------------|-------------------------|-------------------------------|--------------------------------|--------------------------------|-----------------------------|
+|                                     | 2025                         | 2025                    | 2024                          | 2025                           | 2024                           | 2025                        |
+| Dividend per share(parvalue5/-each) |                              |                         |                               |                                |                                |                             |
+| Interim dividend                    | 23.00                        |                         | 21.00                         | 23.00                          | 21.00                          | 21.00                       |
+| Final dividend                      |                              |                         |                               |                                |                                | 22.00                       |
 
-* net of tax
+## 3.AuditedStandaloneBalanceSheet
+| Particulars                                                                                            | Asat              | Asat         |
+|--------------------------------------------------------------------------------------------------------|-------------------|--------------|
+| Particulars                                                                                            | September30, 2025 | March31,2025 |
+| ASSETS                                                                                                 |                   |              |
+| Non-current assets                                                                                     |                   |              |
+| Propertyplantandequipment                                                                              | 9,828             | 10,070       |
+| Right of use assets                                                                                    | 3,137             | 3,078        |
+| Capital work-in-progress                                                                               | 1,089             | 778          |
+| Goodwill                                                                                               | 211               | 211          |
+| Otherintangibleassets                                                                                  |                   |              |
+| Financialassets                                                                                        | 28,029            | 27,371       |
+| Investments Loans                                                                                      | 6                 | 26           |
+| Other financial assets                                                                                 | 2,525             | 2,350        |
+| Deferred taxassets(net)                                                                                | 816               | 497          |
+| Income tax assets(net)                                                                                 | 1,485             | 1,164        |
+| Other non-current assets                                                                               | 2,118             | 2,223        |
+| Totalnon-currentassets                                                                                 | 49,247            | 47,768       |
+| Current assets                                                                                         |                   |              |
+| Financial assets                                                                                       |                   |              |
+| Investments                                                                                            | 10,944            | 11,147       |
+| Tradereceivables                                                                                       | 29,215            | 26,413       |
+| Cash and cash equivalents                                                                              | 20,409            | 14,265       |
+| Loans                                                                                                  | 192               | 207          |
+| Other financial assets                                                                                 | 13,647            | 12,569       |
+| Incometaxassets(net)                                                                                   |                   | 2,949        |
+| Othercurrent assets                                                                                    | 9.863             | 9,618        |
+| Total current assets                                                                                   | 84,270            | 77,168       |
+| Total assets                                                                                           | 133,517           | 124,936      |
+| EQUITYANDLIABILITIES                                                                                   |                   |              |
+| Equity                                                                                                 |                   |              |
+| Equity share capital                                                                                   | 2,077             | 2,076        |
+| Otherequity                                                                                            | 90,481            | 85.256       |
+| Total equity                                                                                           | 92,558            | 87,332       |
+| LIABILITIES                                                                                            |                   |              |
+| Non-current liabilities                                                                                |                   |              |
+| Financialliabilities                                                                                   |                   |              |
+| Lease liabilities                                                                                      | 2,950             | 2,694        |
+| Otherfinancial liabilities                                                                             | 2,008             | 1,991        |
+| Deferred taxliabilities(net)                                                                           | 914               | 1,062        |
+| Other non-current liabilities                                                                          | 153               | 95           |
+| Total non-current liabilities                                                                          | 6,025             | 5,842        |
+| Current liabilities                                                                                    |                   |              |
+| Financial liabilities                                                                                  |                   |              |
+| Lease liabilities                                                                                      | 849               | 765          |
+| Tradepayables                                                                                          |                   | 8            |
+| Totaloutstandingduesofmicroenterprisesandsmallenterprises                                              | 4                 | 2,720        |
+| Totaloutstandingduesofcreditorsotherthanmicroenterprisesandsmallenterprises Otherfinancial liabilities | 2,808 15.346      | 14,101       |
+| Other current liabilities                                                                              | 9,819             | 9,159        |
+| Provisions                                                                                             | 1.121             |              |
+| Income tax liabilities(net)                                                                            | 4,987             | 4,016        |
+| Total current liabilities                                                                              | 34,934            | 31,762       |
+| Totalequityand liabilities                                                                             | 133,517           | 124,936      |
 
-# net of treasury shares
-(1) excludes treasury shares of 9,091,403 as at September 30, 2025, 9,655,927 as at April 1, 2025, 10,237,261 as at September 30, 2024 and 10,916,829 as at April 1, 2024 held by consolidated trust.
-(2) Represents the Special Economic Zone Re-investment reserve created out of the profit of the eligible SEZ unit in terms of the provisions of Sec 10AA(1)(ii) of Income Tax Act,1961. The reserve should be utilized by the Group for acquiring new plant and machinery for the purpose of its business in terms of the provisions of the Sec 10AA(2) of the Income Tax Act, 1961.
-The accompanying notes form an integral part of the interim condensed consolidated financial statements.
-As per our report of even date attached
-Chartered Accountants Firm's Registration No: 117366W/ W-100018 for Deloitte Haskins &amp; Sells LLP
-| Vikas Bagaria Partner   | Nandan M. Nilekani Chairman       | Salil Parekh Chief Executive Officer   | Bobby Parikh   |
-|-------------------------|-----------------------------------|----------------------------------------|----------------|
-|                         |                                   |                                        | Director       |
-| Membership No. 060408   |                                   | and Managing Director                  |                |
-| Bengaluru               | Jayesh Sanghrajka Chief Financial | A.G.S. Manikantha Company Secretary    |                |
-| October 16, 2025        | Officer                           |                                        |                |
+(Incrore)
+The disclosure is an extract of the audited BalanceSheetas at September30,2025and March 31,2025prepared in compliance with the IndianAccounting Standards(Ind-AS).
+## 4.AuditedStandaloneStatementofCashflows
+| Particulars                                                                                       | Half-yearended September30, 2025   |           |
+|---------------------------------------------------------------------------------------------------|------------------------------------|-----------|
+| Cashflowfrom operating activities:                                                                |                                    | 2024      |
+| Profit fortheperiod                                                                               | 13,874                             | 12,581    |
+| Adjustmentstoreconcilenetprofit tonetcashprovidedbyoperating activities:                          |                                    |           |
+| Depreciation and Amortization                                                                     | 1,209                              | 1,368     |
+| Income taxexpense                                                                                 | 5,256                              | 4,954     |
+| Impairment lossrecognized/(reversed)underexpected credit lossmodel                                | 64                                 | 67        |
+| Finance cost                                                                                      | 108                                | 120       |
+| Interestanddividend income                                                                        | (2,702)                            | (2,196)   |
+| Stock compensation expense                                                                        | 419                                | 370       |
+| Provisionforpost sale client support                                                              | (103)                              | 193       |
+| Exchange differenceson translationof assets and liabilities,net                                   | 324                                |           |
+| Other adjustments                                                                                 | 370                                | (75)      |
+| Changes in assets and liabilities                                                                 |                                    |           |
+| Tradereceivables and unbilledrevenue                                                              | (4,047)                            | (3,047)   |
+| Loans,other financial assets and otherassets                                                      | (438)                              | (568)     |
+| Tradepayables                                                                                     | 84                                 | 328       |
+| Otherfinancial liabilities,otherliabilitiesandprovisions                                          | 2.191                              | 1,688     |
+| Cashgeneratedfromoperations                                                                       | 16,609                             | 15,662    |
+| Income taxes(paid)/received                                                                       | (2.145)                            | (1,703)   |
+| Net cash generated by operating activities                                                        | 14,464                             | 13,959    |
+| Cashflowfrom investing activities:                                                                |                                    |           |
+| Expenditure onproperty,plantandequipment                                                          | (1,108)                            | (651)     |
+| Depositsplaced withcorporation                                                                    | (515)                              | (467)     |
+| Redemptionofdepositsplacedwithcorporation                                                         | 313                                | 284       |
+| Interestanddividendreceived                                                                       | 1,324                              | 1,014     |
+| Dividendreceivedfromsubsidiary                                                                    | 1,398                              | 1,123     |
+| Loan given to subsidiaries                                                                        |                                    | (10)      |
+| Loanrepaidbysubsidiaries                                                                          | 10                                 |           |
+| Payment of contingentconsiderationpertaining toacquisition ofbusiness                             | (13)                               |           |
+| Investmentinsubsidiaries                                                                          | (785)                              | (4,348)   |
+| Payment towardsacquisition                                                                        |                                    | (181)     |
+| Receipttowardsbusinesstransferforentitiesundercommoncontrol                                       |                                    | 1         |
+| Payments toacquire investments Liquidmutual fund units                                            | (32,639)                           | (30,198)  |
+| Commercial papers                                                                                 | (2,331）                           | (2,077)   |
+| Certificates of deposit                                                                           | (6,457)                            | (1,811)   |
+| Government Securities                                                                             | (531)                              |           |
+| Non-convertible debentures                                                                        | (2,360)                            | (1,051)   |
+| Otherinvestments                                                                                  | (1)                                | (1)       |
+| Proceeds on sale of investments                                                                   |                                    |           |
+| Liquid mutual fund units                                                                          | 29,792                             | 30,707    |
+| Commercialpapers                                                                                  | 4,300                              | 6,660     |
+| Certificates of deposit                                                                           | 5,207                              | 3,845     |
+| Non-convertible debentures                                                                        | 1,360                              | 890       |
+| Government Securities                                                                             | 3,165                              | 200       |
+| Taxfreebonds andgovernment bonds                                                                  | 1,269 1,398                        | 3,929     |
+| Netcash(used in)/from investing activities Cashflowfromfinancingactivities:                       |                                    |           |
+| Payment of lease liabilities                                                                      | (445)                              | (461)     |
+| Sharesissuedonexerciseofemployeestockoptions                                                      | 1                                  | 3         |
+| Other payments                                                                                    | (93)                               | (75)      |
+| Paymentofdividends                                                                                | (9.142)                            | (11,620)  |
+| Net cash used in financing activities                                                             | (9,679)                            | (12,153)  |
+| Netincrease/(decrease) in cashand cashequivalents                                                 | 6,183                              | 5,735     |
+| Effect of exchange ratechanges on cashand cash equivalents                                        | (39)                               | (9) 8.191 |
+| Cashandcashequivalentsat thebeginningof theperiod Cash andcash equivalents at the endof theperiod | 14.265 20,409                      | 13,917    |
+| Supplementaryinformation:                                                                         |                                    |           |
+| Restricted cashbalance                                                                            | 56                                 | 61        |
 
-for and on behalf of the Board of Directors of Infosys Limited
-## Accounting Policy
-Cash flows are reported using the indirect method, whereby profit for the period is adjusted for the effects of transactions of a non-cash nature, any deferrals or accruals of past or future operating cash receipts or payments and item of income or expenses associated with investing or financing cash flows. The cash flows from operating, investing and financing activities of the Group are segregated. The Group considers all highly liquid investments that are readily convertible to known amounts of cash to be cash equivalents.
-(Dollars in millions)
-| Particulars                                                                      | Note   | Six months ended   | Six months ended   |
-|----------------------------------------------------------------------------------|--------|--------------------|--------------------|
-|                                                                                  |        | September 30, 2025 | September 30, 2024 |
-| Operating activities                                                             |        |                    |                    |
-| Net Profit                                                                       |        | 1,649              | 1,542              |
-| Adjustments to reconcile net profit to net cash provided by operating activities |        |                    |                    |
-| Depreciation and amortization                                                    |        | 268                | 276                |
-| Interest and dividend income                                                     |        | (72)               | (73)               |
-| Finance cost                                                                     |        | 24                 | 26                 |
-| Income tax expense                                                               | 2.12   | 654                | 644                |
-| Exchange differences on translation of assets and liabilities, net               |        | 67                 | (35)               |
-| Impairment loss recognized/(reversed) under expected credit loss model           |        | 4                  | 11                 |
-| Stock compensation expense                                                       |        | 54                 | 50                 |
-| Provision for post sale client support                                           |        | (12)               | 3                  |
-| Other adjustments                                                                |        | 77                 | 105                |
-| Changes in working capital                                                       |        |                    |                    |
-| Trade receivables and unbilled revenue                                           |        | (506)              | (327)              |
-| Prepayments and other assets                                                     |        | (8)                | (25)               |
-| Trade payables                                                                   |        | (52)               | (18)               |
-| Unearned revenue                                                                 |        | 59                 | (16)               |
-| Other liabilities and provisions                                                 |        | 279                | 146                |
-| Cash generated from operations                                                   |        | 2,485              | 2,309              |
-| Income taxes (paid) / received                                                   |        | (345)              | (259)              |
-| Net cash generated by operating activities                                       |        | 2,140              | 2,050              |
-| Investing activities                                                             |        |                    |                    |
-| Expenditure on property, plant and equipment and intangibles                     |        | (155)              | (117)              |
-| Deposits placed with Corporation                                                 |        | (79)               | (69)               |
-| Redemption of deposits placed with Corporation                                   |        | 45                 | 43                 |
-| Interest and dividend received                                                   |        | 65                 | 65                 |
-| Payment for acquisition of business, net of cash acquired                        | 2.10   | (76)               | (377)              |
-| Payment of contingent consideration pertaining to acquisition of business        |        | (1)                | -                  |
-| Other receipts                                                                   |        | 1                  | -                  |
-| Payments to acquire Investments                                                  |        |                    |                    |
-| Liquid mutual funds units                                                        |        | (4,161)            | (4,010)            |
-| Certificates of deposit                                                          |        | (824)              | (225)              |
-| Quoted debt securities                                                           |        | (367)              | (126)              |
-| Commercial paper                                                                 |        | (310)              | (266)              |
-| Other investments                                                                |        | (3)                | (2)                |
-| Proceeds on sale of investments                                                  |        |                    |                    |
-| Liquid mutual funds units                                                        |        | 3,801              | 4,069              |
-| Certificates of deposit                                                          |        | 675                | 475                |
-| Quoted debt securities                                                           |        | 711                | 148                |
-| Commercial paper                                                                 |        | 539                | 854                |
-| Net cash generated from investing activities                                     |        | (139)              | 462                |
-| Financing activities                                                             |        |                    |                    |
-| Payment of lease liabilities                                                     |        | (159)              | (142)              |
-| Payment of dividends                                                             |        | (1,063)            | (1,386)            |
-| Loan repayment of in-tech Holding GmbH                                           |        | -                  | (118)              |
-| Other payments                                                                   |        | (21)               | (32)               |
-| Net cash used in financing activities                                            |        | (1,243)            | (1,678)            |
-| Net increase/(decrease) in cash and cash equivalents                             |        | 758                | 834                |
-| Effect of exchange rate changes on cash and cash equivalents                     |        | (34)               | (6)                |
-| Cash and cash equivalents at the beginning of the period                         | 2.1    | 2,861              | 1,773              |
-| Cash and cash equivalents at the end of the period                               | 2.1    | 3,585              | 2,601              |
-| Supplementary information:                                                       |        |                    |                    |
-| Restricted cash balance                                                          | 2.1    | 46                 | 49                 |
+Thedisclosureisanextractof theauditedStatementofCashflowsforthehalfyearendedSeptember30,2025andSeptember30,2024preparedincompliancewithIndianAccounting Standard (Ind AS) 34 Interim Financial Reporting.
 
-The accompanying notes form an integral part of the interim condensed consolidated financial statements.
-As per our report of even date attached
-for Deloitte Haskins &amp; Sells LLP Chartered Accountants Firm's Registration No: 117366W/ W-100018
-for and on behalf of the Board of Directors of Infosys Limited
-| Vikas Bagaria Partner      | Nandan M. Nilekani Chairman               | Salil Parekh Chief Executive Officer and Managing Director   | Bobby Parikh Director   |
-|----------------------------|-------------------------------------------|--------------------------------------------------------------|-------------------------|
-| Membership No. 060408      |                                           |                                                              |                         |
-| Bengaluru October 16, 2025 | Jayesh Sanghrajka Chief Financial Officer | A.G.S. Manikantha Company Secretary                          |                         |
+## 5.Segment Reporting
+The Company publishes standalone financial statements along with the consolidated financial statements.Inaccordancewith Ind AS108,OperatingSegments,theCompany has disclosed the segment informationin the audited interim consolidatedfinancial statements.Accordingly,the segment informationis given in the audited consolidated financialresults of Infosys Limited and its subsidiaries for the quarter and half-year ended September 30, 2025.
+By order of the for Infosys Limited
+Salil Parekh ChiefExecutiveOficerandManagingDirector
+Bengaluru, India October 16,2025
+<!-- image -->
+CertainstatementsinthisreleaseconcerningourfuturegrowthprospectsourfuturefinancialoroperatingperformancetheMcCamishcybersecurityincidentandthenitedStatesH1 visaprogramareforwardlooking statements intendedtoqualifyfor the'safeharbor'under thePrivateSecuritiesLitigationReformActof1995,which involveanumberofrisks and uncertaintiesthatcouldcauseactualresultsoroutcomestodiffermateriallyfromthose insuchforward-lookingstatements.Therisksand uncertaintiesrelating tothesestatementsinclude, butarenotlimited torisksand uncertaintiesregarding theexecutionofourbusinessstrategy,increasedcompetitionfortalentourabilitytoatractandretainpersonnelincreaseinwages, investmentstoreskillour employees,our abilitytoeffectively implementahybridworkingmodeleconomicuncertaintiesandgeo-political situationstechnologicaldisruptionsand concerning our marketposition,futureoperations,margins,profitabilityliquidity，capitalresources，our corporateactionsincludingacquisitions,the outcome ofpending litigation,the amountofany additional costsresulting directly orindirectlyfrom the McCamish cybersecurityincident,theoutcome of thegovernmentinvestigation,thetiming,implementation,duration andeffectof theSeptember19,2025proclamationsignedbythepresidentof theUnitedStatesrelatedtotheH-1Bvisaprogram,andtheeffectofcurrentandanyfuture tariffs.mportant factorsthatmaycause actualresultsoroutcomestodiferfrom thoseimpliedby theforward-looking statements are discussedinmoredetailinourUsSecuritiesandExchange CommissionfilingsincludingourAnnualReportonForm20-FforthefiscalyearendedMarch31，2025.Thesefilingsareavailableatwww.sec.gov.Infosysmay,fromtimetotime,make additional written and oral forward-looking statements,including statements contained intheCompany'sfilingswith theSecuritiesandExchange Commission andourreports to shareholders.The Company does not undertake to update anyforward-looking statements thatmaybe made from time to time by or on behalf of the Companyunlessit isrequired by law.
+<!-- image -->
+<!-- image -->
+1\
+## IFRS -INR IFRS -INR Press Release
+## Press Release
+Quarterly revenue crosses $5 bn mark; Second consecutive quarter of strong performance Revenue growth of 2.2% sequentially in Q2 and 3.3% in H1 in CC; Large deal TCV at $3.1 Bn and FCF at $1.1 Bn FY26 revenue guidance revised to 2%-3% and margin guidance retained at 20%-22%
+Bengaluru, India -October  16,  2025: Infosys  (NSE,  BSE,  NYSE:  INFY),  a  global  leader  in  nextgeneration digital services and consulting, delivered $5,076 million in Q2 revenues, year on year growth of 2.9% and sequential growth of 2.2% in constant currency. Operating margin was at 21.0%. Free cash flow generation was strong at $1.1 billion, 131.1% of net profit. TCV of large deal wins was $3.1 billion, with net new of 67%. Employee headcount increased by 8,203.
+H1 revenues grew at 3.3% year over year in constant currency. Operating margin for H1 was at 20.9%.
+'We have now delivered two consecutive quarters of strong growth, demonstrating our unique market positioning  and  client  relevance.  Strong  deal  wins,  with  67%  net  new  in  Q2,  reflect  our  deep understanding of clients' priorities to deliver value from AI in this environment', said Salil Parekh, CEO and MD . 'Our proactive investments, over the last three years, in embracing an AI -first culture within Infosys has ensured that our people are reskilled to thrive in a human+AI workplace.  Infosys Topaz's different iated value proposition is unlocking value at scale in every transformation program' he added .
+2.2% QoQ 2.9% YoY CC Growth
+## Guidance for FY26:
+- Revenue growth of 2%-3% in constant currency
+- Operating margin of 20%-22%
 
-## 1.1 Company overview
-Infosys Limited ('the Company' or Infosys) provides consulting, technology, outsourcing and next-generation digital services, to enable clients to execute strategies for their digital transformation. Infosys strategic objective is to build a sustainable organization that remains relevant to the agenda of clients, while creating growth opportunities for employees and generating profitable returns for investors. Infosys strategy is to be a navigator for our clients as they ideate, plan and execute on their journey to a digital future.
-Infosys together with its subsidiaries and controlled trusts is herein after referred to as the "Group".
-The company is a public limited company incorporated and domiciled in India and has its registered office at Electronics city, Hosur Road, Bengaluru 560100, Karnataka, India. The company has its primary listings on the BSE Ltd. and National Stock Exchange of India Limited. The company's American Depositary Shares (ADS) representing equity shares are listed on the New York Stock Exchange (NYSE).
-The Group's interim condensed consolidated financial statements are approved for issue by the company's Board of Directors on October 16, 2025.
-## 1.2 Basis of preparation of financial statements
-The interim condensed consolidated financial statements have been prepared in compliance with IAS 34, Interim Financial Reporting as issued by International Accounting Standards Board, under the historical cost convention on accrual basis except for certain financial instruments which are measured at fair values and defined benefit liability/(asset) which is recognized at the present value of defined benefit obligation less fair value of plan assets. Accordingly, these interim condensed consolidated financial statements do not include all the information required for a complete set of financial statements. These interim condensed consolidated financial statements should be read in conjunction with the consolidated financial statements and related notes included in the company's Annual Report on Form 20-F for the year ended March 31, 2025. Accounting policies have been consistently applied except where a newly issued accounting standard is initially adopted or a revision to an existing accounting standard requires a change in the accounting policy hitherto in use.
-The material accounting policy information used in preparation of the audited interim condensed consolidated financial statements have been discussed in the respective notes.
-As the quarter and year to date figures are taken from the source and rounded to the nearest digits, the quarter figures in this statement added up to the figures reported for the previous quarters might not always add up to the year to date figures reported in this statement.
-## 1.3 Basis of consolidation
-Infosys consolidates entities which it owns or controls. The interim condensed consolidated financial statements comprise the financial statements of the company, its controlled trusts and its subsidiaries. Control exists when the parent has power over the entity, is exposed, or has rights to variable returns from its involvement with the entity and has the ability to affect those returns by using its power over the entity. Power is demonstrated through existing rights that give the ability to direct relevant activities, those which significantly affect the entity's returns. Subsidiaries are consolidated from the date control commences until the date control ceases.
-The financial statements of the Group companies are consolidated on a line-by-line basis and intra-group balances and transactions including unrealized gain / loss from such transactions are eliminated upon consolidation. These financial statements are prepared by applying uniform accounting policies in use at the Group. Non-controlling interests which represent part of the net profit or loss and net assets of subsidiaries that are not, directly or indirectly, owned or controlled by the company, are excluded.
-## 1.4 Use of estimates and judgments
-The preparation of the Interim condensed consolidated financial statements in conformity with IFRS requires Management to make estimates, judgments and assumptions. These estimates, judgments and assumptions affect the application of accounting policies and the reported amounts of assets and liabilities, the disclosures of contingent assets and liabilities at the date of the interim condensed consolidated financial statements and reported amounts of revenues and expenses during the period. The application of accounting policies that require critical accounting estimates involving complex and subjective judgments and the use of assumptions in these financial statements have been disclosed in Note 1.5. Accounting estimates could change from period to period. Actual results could differ from those estimates. Appropriate changes in estimates are made as Management becomes aware of changes in circumstances surrounding the estimates. Changes in estimates and judgements are reflected in the financial statements in the period in which changes are made and, if material, their effects are disclosed in the notes to the interim condensed consolidated financial statements.
+## Key highlights:
+## For the quarter ended September 30, 2025
+- Revenues in CC terms grew by 2.9% YoY and 2.2% QoQ
+- Reported revenues at ₹ 44,490 crore, growth of 8.6% YoY
+- Operating  margin  at  21.0%,  decline  of  0.1% YoY and growth of 0.2% QoQ
+- Basic EPS at ₹ 17.76, growth of 13.1% YoY
+- FCF at ₹ 9,677 crore, growth of 38.0% YoY; FCF conversion at 131.2% of net profit
 
-## a. Revenue recognition
-The Group's contracts with customers include promises to transfer multiple products and services to a customer. Revenues from customer contracts are considered for recognition and measurement when the contract has been approved, in writing, by the parties to the contract, the parties to contract are committed to perform their respective obligations under the contract, and the contract is legally enforceable. The Group assesses the services promised in a contract and identifies distinct performance obligations in the contract. Identification of distinct performance obligations to determine the deliverables and the ability of the customer to benefit independently from such deliverables, and allocation of transaction price to these distinct performance obligations involves significant judgement.
-Fixed price maintenance revenue is recognized ratably on a straight-line basis when services are performed through an indefinite number of repetitive acts over a specified period. Revenue from fixed price maintenance contract is recognized ratably using a percentage of completion method when the pattern of benefits from the services rendered to the customer and Group's costs to fulfil the contract is not even through the period of the contract because the services are generally discrete in nature and not repetitive. The use of method to recognize the maintenance revenues requires judgment and is based on the promises in the contract and nature of the deliverables.
-The Group uses the percentage-of-completion method in accounting for other fixed-price contracts. Use of the percentage-of-completion method requires the Group to determine the actual efforts or costs expended to date as a proportion of the estimated total efforts or costs to be incurred. Efforts or costs expended have been used to measure progress towards completion as there is a direct relationship between input and productivity. The estimation of total efforts or costs involves significant judgement and is assessed throughout the period of the contract to reflect any changes based on the latest available information.
-Contracts with customers includes subcontractor services or third-party vendor equipment or software in certain integrated services arrangements. In these types of arrangements, revenue from sales of third-party vendor products or services is recorded net of costs when the Group is acting as an agent between the customer and the vendor, and gross when the Group is the principal for the transaction. In doing so, the Group first evaluates whether it obtains control of the specified goods or services before they are transferred to the customer. The Group considers whether it is primarily responsible for fulfilling the promise to provide the specified goods or services, inventory risk, pricing discretion and other factors to determine whether it controls the specified goods or services and therefore, is acting as a principal or an agent.
-Provisions for estimated losses, if any, on incomplete contracts are recorded in the period in which such losses become probable based on the estimated efforts or costs to complete the contract.
-## b. Income taxes
-The Group's two major tax jurisdictions are India and the United States, though the company also files tax returns in other overseas jurisdictions.
-Significant judgments are involved in determining the provision for income taxes, including amount expected to be paid/recovered for uncertain tax positions.
-In assessing the realizability of deferred income tax assets, Management considers whether some portion or all of the deferred income tax assets will not be realized. The ultimate realization of deferred income tax assets is dependent upon the generation of future taxable income during the periods in which the temporary differences become deductible. Management considers the scheduled reversals of deferred income tax liabilities, projected future taxable income and tax planning strategies in making this assessment. Based on the level of historical taxable income and projections for future taxable income over the periods in which the deferred income tax assets are deductible, Management believes that the group will realize the benefits of those deductible differences. The amount of the deferred income tax assets considered realizable, however, could be reduced in the near term if estimates of future taxable income during the carry forward period are reduced. (Refer to note 2.12)
-## c. Business combinations and intangible assets
-Business combinations are accounted for using IFRS 3 (Revised), Business Combinations. IFRS 3 requires us to fair value identifiable intangible assets and contingent consideration to ascertain the net fair value of identifiable assets, liabilities and contingent liabilities of the acquiree. These valuations are conducted by external valuation experts. Estimates are required to be made in determining the value of contingent consideration, value of option arrangements and intangible assets. These measurements are based on information available at the acquisition date and are based on expectations and assumptions that have been deemed reasonable by Management. (Refer to note 2.10 and 2.9.2)
-## d. Property, plant and equipment
-Property, plant and equipment represent a significant proportion of the asset base of the Group. The charge in respect of periodic depreciation is derived after determining an estimate of an asset's expected useful life and the expected residual value at the end of its life. The useful lives and residual values of Group's assets are determined by Management at the time the asset is acquired and reviewed periodically, including at each financial year end. The lives are based on historical experience with similar assets as well as anticipation of future events, which may impact their life, such as changes in technology (Refer to note 2.7)
-## e. Impairment of Goodwill
-Goodwill is tested for impairment on an annual basis and whenever there is an indication that the recoverable amount of a cash generating unit (CGUs) is less than it's carrying amount. For the impairment test, goodwill is allocated to the CGU or groups of CGUs which benefit from the synergies of the acquisition and which represent the lowest level at which goodwill is monitored for internal management purposes.
-The recoverable amount of CGUs is determined based on higher of value-in-use and fair value less cost to sell. Key assumptions in the cash flow projections are prepared based on current economic conditions and comprises estimated long term growth rates, weighted average cost of capital and estimated operating margins. (Refer to note 2.9.1)
-## 1.6 Recent accounting pronouncements
-## New and revised IFRS Standards in issue but not yet effective:
-| IFRS 18 Presentation and Disclosures in Financial Statements                             | Presentation and Disclosures in Financial Statements                      |
-|------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
-| Amendments to IFRS 9 Financial Instruments and IFRS 7 Financial Instruments: Disclosures | Amendments to the Classification and Measurement of Financial Instruments |
-| Amendments to IFRS 9 Financial Instruments and IFRS 7 Financial Instruments: Disclosures | Contracts Referencing Nature-dependent Electricity                        |
+## For the six months ended September 30, 2025
+- Revenues in CC terms grew by 3.3% YoY
+- Reported revenues at ₹ 86,769 crore, growth of 8.1% YoY
+- Operating  margin  at  20.9%,  decline  of  0.2% YoY
+- Basic EPS at ₹ 34.47, growth of 10.9% YoY
+- FCF at ₹ 17,210 crore, growth of 6.5% YoY; FCF conversion at 120.4% of net profit
 
-## IFRS 18 - Presentation and Disclosures in Financial Statements
-On April 9, 2024, IASB has issued IFRS 18 -Presentation and Disclosures in Financial Statements that will replace IAS 1 Presentation of Financial Statements from its effective date. IFRS 18 introduces new requirements for information presented in the primary financial statements and disclosed in the notes. The new requirements are focused on the statement of profit or loss. IFRS 18 introduces three categories for income and expenses, that is, operating, investing and financing to improve the structure of the income statement. IFRS 18 is effective for annual reporting periods beginning on or after January 1, 2027, although early adoption is permitted. The Group is yet to evaluate the impact of the amendment.
-## Amendments to IFRS 9 Financial Instruments and IFRS 7 Financial Instruments: Disclosures
-On May 30, 2024, IASB has issued amendments to IFRS 9 Financial Instruments and IFRS 7 Financial Instruments: Disclosures, which clarifies the classification of financial assets with environmental, social and corporate governance (ESG) and similar features, derecognition of financial liability settled through electronic payment systems and also introduces additional disclosure requirements to enhance transparency for investors regarding investments in equity instruments designated at fair value through other comprehensive income and financial instruments with contingent features.
-The effective date for adoption of these amendments is annual reporting periods beginning on or after January 1, 2026, although early adoption is permitted. The Group is yet to evaluate the impact of these amendments.
-On December 18, 2024, IASB has issued amendments to IFRS 9 Financial Instruments and IFRS 7 Financial Instruments: Disclosures, relating to factors an entity is required to consider in assessing the own-use requirements for contracts to buy and take delivery of nature-dependent renewable electricity; hedge accounting treatment for nature-dependent renewable electricity and related disclosures.
-The effective date for adoption of these amendments is annual reporting periods beginning on or after January 1, 2026, although early adoption is permitted. The Group has evaluated the amendment and there is no impact on its consolidated financial statements.
-## 2.1 Cash and cash equivalents
-Cash and cash equivalents consist of the following:
-|                                 | (Dollars in millions)   | (Dollars in millions)   |
-|---------------------------------|-------------------------|-------------------------|
-| Particulars                     | As at                   | As at                   |
-|                                 | September 30, 2025      | March 31, 2025          |
-| Cash and bank deposits          | 3,585                   | 2,861                   |
-| Total Cash and cash equivalents | 3,585                   | 2,861                   |
+We had robust all-round performance in Q2 - strong growth, resilient margins, very high cash generation and  13.1%  EPS  growth  year  on  year  in  rupee  terms.  We  continue  to  make  strategic  investments  to futureproof  the  business  with  a  tight  focus  on  execution,  amidst  high uncertainty', said  Jayesh Sanghrajka, CFO . 'In line with our Capital Allocation Policy, we have announced a share buyback for ₹ 18,000 crores during the quarter and an interim dividend of ₹ 23 per share, an increase of 9.5% over last fiscal ', he added .
+Press Release
+21.0% Operating Margin
+13.1% YoY EPS Increase (₹ terms)
+$3.1 Bn Large Deal TCV (67% Net New)
+$1.1 Bn Free Cash Flow
+e
+<!-- image -->
+## Client Wins &amp; Testimonials
+- Infosys transformed ABN AMRO's lending process with nCino platform implementation by consolidating multiple legacy systems into a single, unified platform. Hans-Willem Giesen, IT Lead -Credits, ABN AMRO , said, 'The transition to the nCino Platform, facilitated by our partners like Infosys, has brought about a significant shift in how we manage our lending process. This solution will improve operational efficiency, enhance our collateral management  capabilities,  and  provide  our  customers  with  a  faster,  more  transparent experience. As we look to the future, this platform will be a cornerstone of our continued growth and transformation.'
+- Infosys  collaborated  with  Mastercard  to  offer  financial  institutions  enhanced  access to Mastercard Move, its portfolio of money movement capabilities, and thereby scale crossborder  payments. Pratik  Khowala,  EVP  and  Global  Head  of  Transfer  Solutions, Mastercard ,  said,  'Through  Mastercard  Move's  cutting -edge  solutions,  we  empower individuals  and  organizations  to  move  money  quickly  and  securely  across  borders.  The strategic collaboration with Infosys provides financial institutions with easy access to these capabilities, enabling them to facilitate fast, secure and reliable cross-border payments for their  customers  while  enhancing  control  of  risk,  operations,  costs  and  liquidity  for themselves. Together with Infosys, we're helping financial institutions delive r the seamless digital payments experiences today's customers expect.'
+- Infosys extended its strategic collaboration with Sunrise to accelerate its IT transformation, with  a  strong  focus  on  data  security,  operational  agility,  and  future  AI  integration. Anna Maria Blengino, CIO, Sunrise , said, "Through our strategic collaboration with Infosys, we are  consolidating  our  technology  landscape  and  infusing  it  with  AI,  putting  enhanced customer  experience  at  the  heart  of  this  transition.  The  Sunrise  and  Infosys  teams  are working side by side with a true one-team mindset to design and deliver platforms that are more agile, predictive, and scalable.'
+- Infosys  announced  a  joint  venture  with  Telstra,  in  Australia,  by  acquiring  75%  of  the shareholding in Versent Group, a wholly owned subsidiary of Telstra Group, to propel AIenabled cloud and digital solutions for enterprises. Vicki Brady, Chief Executive Officer, Telstra ,  said, 'Our collaboration with Infosys reflects our confidence in the value we can unlock together. Their global scale, deep industry knowledge, and culture of innovation and service excellence will be instrumental in accelerating Versent Group's growth and impact across the region.'
+- Infosys collaborated with RWE AG to drive automated digital workplace transformation and improve operational efficiency. Gülnaz Öneş, Group CIO of RWE ,  said,  'By  leveraging modern technologies and aligning them with our sustainability and efficiency goals, we are streamlining  operations,  empowering  our  people,  and  creating  value  across  RWE.  Our collaboration with trusted partners like Infosys underscores our commitment to a resilient, agile digital workplace that drives sustainable growth.'
+- Infosys  collaborated  with  HanesBrands  Inc  to  unlock  hyper  productivity  and  AI-driven efficiency in the digital, business applications, and data landscape. Scott Pleiman, Chief Strategy, Transformation, Analytics and Technology Officer, HanesBrands , said, 'As we continue to evolve our operational model, we sought an experienced collaborator with deep domain expertise and advanced capabilities in AIdriven transformation. Infosys' AI -first approach and proven ability to scale innovation aligned with our long-term vision for agility, efficiency and customercentricity.'
+- Infosys  collaborated  with  AGCO to deliver  IT  and  HR  operations transformation  with  an efficient and future-ready operational framework for growth. Viren Shah, Chief Digital &amp;
 
-Cash and cash equivalents as at September 30, 2025 and March 31, 2025 include restricted cash and bank balances of $46 million and $50 million, respectively. The restrictions are primarily on account of bank balances held by irrevocable trusts controlled by the company.
-The deposits maintained by the Group with banks comprise of time deposits, which can be withdrawn by the Group at any point without prior notice or penalty on the principal.
+Press Release Information Officer, AGCO Corporation , said, "At AGCO, we're committed to delivering excellence in everything we do, always putting Farmers First. Collaborating with Infosys is intended  to  enable  us  to  create  a  responsive,  streamlined  and  innovative  operational ecosystem  within  IT  and  other  functions  that  allows  our  teams  to  focus  on  critical  and strategic initiatives that center on the farmer.'
+<!-- image -->
+- Uniting Financial Services (UFS), Australia, subscribed to Infosys Finacle's Digital Banking SaaS suite on AWS cloud, in a move that was completed in less than five months. John McComb, Chief Risk Officer and Acting CEO, Uniting Financial Services , said, 'We are delighted  to  announce  the  successful  go-live  of  the  Finacle  platform.  Our  goal  was  to modernise our core banking and digital capabilities to enhance the experience for clients. With Infosys Finacle, we have found a long-term technology partner, with the ability to deliver a  future-ready  platform  that  meets  the  needs  of  our  operations  today  and  supports  our ambitions for tomorrow in a rapidly evolving financial services landscape.'
+- Infosys collaborated with Glion Arena Kobe as their official digital innovation and GX partner to power smart and sustainable entertainment experiences . Jun Shibuya, President and Representative Director, One Bright KOBE Corporation ,  said, 'Glion Kobe Arena is a new landmark commemorating the 30th anniversary of the Great Hanshin-Awaji Earthquake.  Our  vision for the arena  is to  become  a  pioneering  next-generation entertainment venue, offering spectacular events while operating sustainably. We are happy to announce our agreement with Infosys as our official digital innovation and GX partner. Leveraging  Infosys' innovative solutions will help us aggregate  data, utilize cloud technologies, explore new revenue opportunities, and deliver a seamless experience for all our fans and visitors.'
 
-## 2.2 Investments
-The carrying value of the investments are as follows:
-| Particulars                                                          | (Dollars in millions)   | (Dollars in millions)   |
-|----------------------------------------------------------------------|-------------------------|-------------------------|
-| Particulars                                                          | September 30, 2025      | March 31, 2025          |
-| (i) Current Investments                                              |                         |                         |
-| Amortized Cost                                                       |                         |                         |
-| Quoted debt securities                                               | 8                       | 20                      |
-| Fair Value through other comprehensive income                        |                         |                         |
-| Quoted Debt Securities                                               | 81                      | 375                     |
-| Certificates of deposits                                             | 551                     | 410                     |
-| Commercial Paper                                                     | 195                     | 426                     |
-| Fair Value through profit or loss                                    |                         |                         |
-| Liquid mutual fund units                                             | 585                     | 229                     |
-| Total current investments                                            | 1,420                   | 1,460                   |
-| (ii) Non-current Investments                                         |                         |                         |
-| Amortized Cost                                                       |                         |                         |
-| Quoted debt securities                                               | 49                      | 173                     |
-| Fair Value through other comprehensive income                        |                         |                         |
-| Quoted debt securities                                               | 1,065                   | 1,014                   |
-| Quoted equity securities                                             | 9                       | 7                       |
-| Unquoted equity and preference securities                            | 20                      | 20                      |
-| Fair Value through profit or loss                                    |                         |                         |
-| Target maturity fund units                                           | 54                      | 54                      |
-| Unquoted equity and preference securities                            | 3                       | 3                       |
-| Others (1)                                                           | 25                      | 23                      |
-| Total Non-current investments                                        | 1,225                   | 1,294                   |
-| Total investments                                                    | 2,645                   | 2,754                   |
-| Investments carried at amortized cost                                | 57                      | 193                     |
-| Investments carried at fair value through other comprehensive income | 1,921                   | 2,252                   |
-| Investments carried at fair value through profit or loss             | 667                     | 309                     |
+## Recognitions &amp; Awards
+- Brand &amp; Corporate
+- Infosys honored with awards at 'The Asset Corporate Sustainability Leadership Awards 2025'. Categories include the 'Platinum Award for Excellence' and 'Best Investor Relations Team'
+- Recognized  as  one  of  the  World's  Best  Companies  2025  by  TIME  and  Statista  for  its excellence in employee satisfaction, revenue growth, and sustainability transparency
+- Recognized  among the World's  Most  Trustworthy  Companies  2025  by  Newsweek  and Statista
+- Recognized as one of the Best Companies for Women in India in the Hall of Fame for the seventh consecutive year and the 2025 Avtar &amp; Seramount Best Companies for Women in India in the IT sector
+- Honored with the Exemplars of Inclusion in the Most Inclusive Companies Index 2025 by Avtar &amp; Seramount
+- Recognized among the top 10 in the newly launched category of Best Companies for ESG in India in 2025 by Avtar &amp; Seramount
+- Infosys  Foundation  &amp;  Infosys  ESG  Annual  Report  FY24-25  received  the  Gold  Stevie ® Award in  the  categories  of  'Best  Annual  Report -  NonProfit  Organizations'  and  'Other Publication - Company ' .  Infosys Integrated Report secured the Silver Stevie ®  Award for 'Best  Annual  Report -  PubliclyHeld  Corporations'  at  the 22nd  Annual  International Business Awards ®
+- Infosys BPM received the 9th Edition Women Empowerment Summit and GIWL Awards for ' Best Organization for Women Empowerment '
 
-(1) Uncalled capital commitments outstanding as on September 30, 2025 and March 31, 2025 was $12 million and $14 million, respectively.
-Refer to note 2.3 for accounting policies on financial instruments.
-| Method of fair valuation:                                                                            |                                                                             | (Dollars in millions)   | (Dollars in millions)   |
-|------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|-------------------------|-------------------------|
-| Class of Investment                                                                                  | Method                                                                      | Fair value as at        | Fair value as at        |
-|                                                                                                      |                                                                             | September 30, 2025      | March 31, 2025          |
-| Liquid mutual fund units - carried at fair value through profit or loss                              | Quoted price                                                                | 585                     | 229                     |
-| Target maturity fund units - carried at fair value through profit or loss                            | Quoted price                                                                | 54                      | 54                      |
-| Quoted debt securities- carried at amortized cost                                                    | Quoted price and market observable inputs                                   | 58                      | 213                     |
-| Quoted debt securities- carried at fair value through other comprehensive income                     | Quoted price and market observable inputs                                   | 1,146                   | 1,389                   |
-| Commercial Paper - carried at fair value through other comprehensive income                          | Market observable inputs                                                    | 195                     | 426                     |
-| Certificates of Deposit - carried at fair value through other comprehensive income                   | Market observable inputs                                                    | 551                     | 410                     |
-| Unquoted equity and preference securities - carried at fair value through profit or loss             | Discounted cash flows method, Market multiples method, Option pricing model | 3                       | 3                       |
-| Unquoted equity and preference securities - carried at fair value through other comprehensive income | Discounted cash flows method, Market multiples method, Option pricing model | 20                      | 20                      |
-| Quoted equity securities - carried at fair value through other comprehensive income                  | Quoted price                                                                | 9                       | 7                       |
-| Others - carried at fair value through profit or loss                                                | Discounted cash flows method, Market multiples method, Option pricing model | 25                      | 23                      |
-| Total                                                                                                |                                                                             | 2,646                   | 2,774                   |
-
-Note: Certain quoted investments are classified as Level 2 in the absence of active market for such investments.
-## 2.3 Financial instruments
-## 2.3.1 Initial recognition
-The Group recognizes financial assets and financial liabilities when it becomes a party to the contractual provisions of the instrument. All financial assets and liabilities are recognized at fair value on initial recognition, except for trade receivables which are initially measured at transaction price. Transaction costs that are directly attributable to the acquisition or issue of financial assets and financial liabilities, which are not at fair value through profit or loss, are added to the fair value on initial recognition. Regular way purchase and sale of financial assets are accounted for at trade date.
-## 2.3.2 Subsequent measurement
-## (i) Financial assets carried at amortized cost
-A financial asset is subsequently measured at amortized cost if it is held within a business model whose objective is to hold the asset in order to collect contractual cash flows and the contractual terms of the financial asset give rise on specified dates to cash flows that are solely payments of principal and interest on the principal amount outstanding.
-## (ii) Financial assets carried at fair value through other comprehensive income (FVOCI)
-A financial asset is subsequently measured at fair value through other comprehensive income if it is held within a business model whose objective is achieved by both collecting contractual cash flows and selling financial assets and the contractual terms of the financial asset give rise on specified dates to cash flows that are solely payments of principal and interest on the principal amount outstanding. The Group has made an irrevocable election for certain investments which are classified as equity instruments to present the subsequent changes in fair value in other comprehensive income based on its business model.
-## (iii) Financial assets carried at fair value through profit or loss (FVTPL)
-A financial asset which is not classified in any of the above categories is subsequently fair valued through profit or loss.
-## (iv) Financial liabilities
-Financial liabilities are subsequently carried at amortized cost using the effective interest method, except for contingent consideration and financial liability under option arrangements recognized in a business combination which is subsequently measured at fair value through profit or loss.
-## b. Derivative financial instruments
-The Group holds derivative financial instruments such as foreign exchange forward and option contracts to mitigate the risk of changes in exchange rates on foreign currency exposures. The counterparty for such contracts is generally a bank.
-## (i) Financial assets or financial liabilities, carried at fair value through profit or loss
-This category includes derivative financial assets or liabilities which are not designated as hedges.
-Although the Group believes that these derivatives constitute hedges from an economic perspective, they may not qualify for hedge accounting under IFRS 9, Financial Instruments. Any derivative that is either not designated as hedge, or is so designated but is ineffective as per IFRS 9, is categorized as a financial asset or financial liability carried at fair value through profit or loss.
-Derivatives not designated as hedges are recognized initially at fair value and attributable transaction costs are recognized in net profit in the consolidated statement of comprehensive income when incurred. Subsequent to initial recognition, these derivatives are measured at fair value through profit or loss and the resulting exchange gains or losses are included in other income. Assets/ liabilities in this category are presented as current assets/current liabilities if they are either held for trading or are expected to be realized within 12 months after the balance sheet date.
-## (ii) Cash flow hedge
-Primarily the Group designates certain foreign exchange forward and options contracts as cash flow hedges to mitigate the risk of foreign exchange exposure on highly probable forecast cash transaction.
-When a derivative is designated as a cash flow hedging instrument, the effective portion of changes in the fair value of the derivative is recognized in other comprehensive income and accumulated in the cash flow hedging reserve. Any ineffective portion of changes in the fair value of the derivative is recognized immediately in the net profit in the interim consolidated statement of comprehensive income. If the hedging instrument no longer meets the criteria for hedge accounting, then hedge accounting is discontinued prospectively. If the hedging instrument expires or is sold, terminated or exercised, the cumulative gain or loss on the hedging instrument recognized in cash flow hedging reserve till the period the hedge was effective remains in cash flow hedging reserve until the forecasted transaction occurs. The cumulative gain or loss previously recognized in the cash flow hedging reserve is transferred to the net profit in the consolidated statement of comprehensive income upon the occurrence of the related forecasted transaction. If the forecasted transaction is no longer expected to occur, then the amount accumulated in cash flow hedging reserve is reclassified to net profit in the interim condensed consolidated statement of comprehensive income.
-## 2.3.3 Derecognition of financial instruments
-The Group derecognizes a financial asset when the contractual rights to the cash flows from the financial asset expire or it transfers the financial asset and the transfer qualifies for derecognition under IFRS 9. A financial liability (or a part of a financial liability) is derecognized from the group's balance sheet when the obligation specified in the contract is discharged or cancelled or expires.
-## 2.3.4 Fair value of financial instruments
-In determining the fair value of its financial instruments, the Group uses a variety of methods and assumptions that are based on market conditions and risks existing at each reporting date. The methods used to determine fair value include discounted cash flow analysis, option pricing model, market multiples, available quoted market prices and dealer quotes. All methods of assessing fair value result in general approximation of value, and such value may never actually be realized.
-Refer to table 'Financial instruments by category' below for the disclosure on carrying value and fair value of financial assets and liabilities. For financial assets and liabilities maturing within one year from the Balance Sheet date and which are not carried at fair value, the carrying amounts approximate fair value due to the short maturity of these instruments.
+Press Release
+<!-- image -->

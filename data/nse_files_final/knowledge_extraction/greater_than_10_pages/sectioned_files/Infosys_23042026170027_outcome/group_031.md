@@ -1,313 +1,235 @@
 ---
 document_name: "Infosys_23042026170027_outcome.md"
 group_id: "Infosys_23042026170027_outcome__group_031"
-source_section_count: 4
-page_start: 239
-page_end: 248
-estimated_tokens: 9818
+source_section_count: 1
+page_start: 125
+page_end: 129
+estimated_tokens: 5482
 source_section_ids:
-  - "Infosys_23042026170027_outcome__100"
-  - "Infosys_23042026170027_outcome__101"
-  - "Infosys_23042026170027_outcome__102"
-  - "Infosys_23042026170027_outcome__103"
+  - "Infosys_23042026170027_outcome__055"
 ---
 
-## 2.10.5 Impairment
-The Company recognizes loss allowances using the expected credit loss (ECL) model for the financial assets and unbilled revenues which are not fair valued through profit or loss. Loss allowance for trade receivables and unbilled revenues with no significant financing component is measured at an amount equal to lifetime ECL. For all other financial assets, expected credit losses are measured at an amount equal to the 12-month ECL, unless there has been a significant increase in credit risk from initial recognition in which case those are measured at lifetime ECL.
-The Company determines the allowance for credit losses based on historical loss experience adjusted to reflect current and estimated future economic conditions. The Company considers current and anticipated future economic conditions relating to industries the Company deals with and the countries where it operates.
-The amount of ECLs (or reversal) that is required to adjust the loss allowance at the reporting date to the amount that is required to be recorded is recognized as an impairment loss or gain in statement of profit and loss.
-## Financial instruments by category
-The carrying value and fair value of financial instruments by categories as at March 31, 2026 were as follows:
-| Particulars                                         | Amortized cost   | Financial assets/ liabilities at fair value through profit or loss   | Financial assets/ liabilities at fair value through profit or loss   | Financial assets/liabilities at fair value through OCI   | Financial assets/liabilities at fair value through OCI   | Total Total carrying value   | (In ₹ crore) fair value   |
-|-----------------------------------------------------|------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|------------------------------|---------------------------|
-|                                                     |                  | Designated upon initial recognition                                  | Mandatory                                                            | Equity instruments designated upon initial recognition   | Mandatory                                                |                              |                           |
-| Assets:                                             |                  |                                                                      |                                                                      |                                                          |                                                          |                              |                           |
-| Cash and cash equivalents (Refer to note 2.8)       | 8,727            | -                                                                    | -                                                                    | -                                                        | -                                                        | 8,727                        | 8,727                     |
-| Investments (Refer to note 2.4)                     |                  |                                                                      |                                                                      |                                                          |                                                          |                              |                           |
-| Preference securities, Equity securities and others | -                | 52                                                                   | 59                                                                   | 691                                                      | -                                                        | 802                          | 802                       |
-| Tax free bonds and government bonds                 | 508              | -                                                                    | -                                                                    | -                                                        | -                                                        | 508                          | 529                       |
-| Mutual fund units                                   | -                | -                                                                    | 2,191                                                                | -                                                        | -                                                        | 2,191                        | 2,191                     |
-| Commercial Papers                                   | -                | -                                                                    | -                                                                    | -                                                        | 1,180                                                    | 1,180                        | 1,180                     |
-| Certificates of deposit                             | -                | -                                                                    | -                                                                    | -                                                        | 7,546                                                    | 7,546                        | 7,546                     |
-| Non convertible debentures                          | -                | -                                                                    | -                                                                    | -                                                        | 4,060                                                    | 4,060                        | 4,060                     |
-| Government Securities                               | -                | -                                                                    | -                                                                    | -                                                        | 4,450                                                    | 4,450                        | 4,450                     |
-| Trade receivables (Refer to note 2.7)               | 30,337           | -                                                                    | -                                                                    | -                                                        | -                                                        | 30,337                       | 30,337                    |
-| Loans (Refer to note 2.5)                           | 194              | -                                                                    | -                                                                    | -                                                        | -                                                        | 194                          | 194                       |
-| Other financial assets (Refer to note 2.6)          | 16,525           | -                                                                    | 24                                                                   | -                                                        | 56                                                       | 16,605                       | 16,585                    |
-| Total                                               | 56,291           | 52                                                                   | 2,274                                                                | 691                                                      | 17,292                                                   | 76,600                       | 76,601                    |
-| Liabilities:                                        |                  |                                                                      |                                                                      |                                                          |                                                          |                              |                           |
-| Trade payables (Refer to note 2.13)                 | 3,539            | -                                                                    | -                                                                    | -                                                        | -                                                        | 3,539                        | 3,539                     |
-| Lease liabilities (Refer to note 2.3)               | 3,749            | -                                                                    | -                                                                    | -                                                        | -                                                        | 3,749                        | 3,749                     |
-| Other financial liabilities (Refer to note 2.12)    | 15,306           | -                                                                    | 512                                                                  | -                                                        | 55                                                       | 15,873                       | 15,873                    |
-| Total                                               | 22,594           | -                                                                    | 512                                                                  | -                                                        | 55                                                       | 23,161                       | 23,161                    |
-
-(1) On account of fair value changes including interest accrued
-(2) Excludes interest accrued on tax free bonds and government bonds carried at amortized cost of ₹20 crore
-The carrying value and fair value of financial instruments by categories as at March 31, 2025 were as follows:
-| Particulars                                         | Amortized cost   | Financial assets/ liabilities at fair value through profit or loss   | Financial assets/ liabilities at fair value through profit or loss   | Financial assets/liabilities at fair value through OCI   | Financial assets/liabilities at fair value through OCI   | Total Total carrying value   | (In ₹ crore) fair value   |
-|-----------------------------------------------------|------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|------------------------------|---------------------------|
-|                                                     |                  | Designated upon initial recognition                                  | Mandatory                                                            | Equity instruments designated upon initial recognition   | Mandatory                                                |                              |                           |
-| Assets:                                             |                  |                                                                      |                                                                      |                                                          |                                                          |                              |                           |
-| Cash and cash equivalents (Refer to note 2.8)       | 14,265           | -                                                                    | -                                                                    | -                                                        | -                                                        | 14,265                       | 14,265                    |
-| Investments (Refer to note 2.4)                     |                  |                                                                      |                                                                      |                                                          |                                                          |                              |                           |
-| Preference securities, Equity securities and others | -                | 25                                                                   | 61                                                                   | 226                                                      | -                                                        | 312                          | 312                       |
-| Tax free bonds and government bonds                 | 1,633            | -                                                                    | -                                                                    | -                                                        | -                                                        | 1,633                        | 1,796                     |
-| Target maturity fund units                          | -                | -                                                                    | 465                                                                  | -                                                        | -                                                        | 465                          | 465                       |
-| Mutual fund units                                   | -                | -                                                                    | 1,185                                                                | -                                                        | -                                                        | 1,185                        | 1,185                     |
-| Commercial Papers                                   | -                | -                                                                    | -                                                                    | -                                                        | 3,442                                                    | 3,442                        | 3,442                     |
-| Certificates of deposit                             | -                | -                                                                    | -                                                                    | -                                                        | 3,257                                                    | 3,257                        | 3,257                     |
-| Non convertible debentures                          | -                | -                                                                    | -                                                                    | -                                                        | 4,869                                                    | 4,869                        | 4,869                     |
-| Government Securities                               | -                | -                                                                    | -                                                                    | -                                                        | 6,800                                                    | 6,800                        | 6,800                     |
-| Trade receivables (Refer to note 2.7)               | 26,413           | -                                                                    | -                                                                    | -                                                        | -                                                        | 26,413                       | 26,413                    |
-| Loans (Refer to note 2.5)                           | 233              | -                                                                    | -                                                                    | -                                                        | -                                                        | 233                          | 233                       |
-| Other financial assets (Refer to note 2.6)          | 14,748           | -                                                                    | 143                                                                  | -                                                        | 28                                                       | 14,919                       | 14,839                    |
-| Total                                               | 57,292           | 25                                                                   | 1,854                                                                | 226                                                      | 18,396                                                   | 77,793                       | 77,876                    |
-| Liabilities:                                        |                  |                                                                      |                                                                      |                                                          |                                                          |                              |                           |
-| Trade payables (Refer to note 2.13)                 | 2,728            | -                                                                    | -                                                                    | -                                                        | -                                                        | 2,728                        | 2,728                     |
-| Lease Liabilities (Refer to note 2.3)               | 3,459            | -                                                                    | -                                                                    | -                                                        | -                                                        | 3,459                        | 3,459                     |
-| Other financial liabilities (Refer to note 2.12)    | 13,593           | -                                                                    | 54                                                                   | -                                                        | 33                                                       | 13,680                       | 13,680                    |
-| Total                                               | 19,780           | -                                                                    | 54                                                                   | -                                                        | 33                                                       | 19,867                       | 19,867                    |
-
-(1) On account of fair value changes including interest accrued
-(2) Excludes interest accrued on tax free bonds and government bonds carried at amortized cost of ₹80 crore
-(1)
-(1)
-(2)
-For trade receivables, trade payables, other assets and payables maturing within one year from the Balance Sheet date, the carrying amounts approximate the fair value due to the short maturity of these instruments.
-
-## Fair value hierarchy
-Level 1 - Quoted prices (unadjusted) in active markets for identical assets or liabilities.
-Level 2 - Inputs other than quoted prices included within Level 1 that are observable for the asset or liability, either directly (i.e. as prices) or indirectly (i.e. derived from prices).
-Level 3 - Inputs for the assets or liabilities that are not based on observable market data (unobservable inputs).
-The fair value hierarchy of assets and liabilities measured at fair value on a recurring basis as at March 31, 2026 is as follows:
-|                                                                     |                      |                                                             |                                                             | (In ₹ crore)                                                |
-|---------------------------------------------------------------------|----------------------|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|
-| Particulars                                                         | As at March 31, 2026 | Fair value measurement at end of the reporting period using | Fair value measurement at end of the reporting period using | Fair value measurement at end of the reporting period using |
-|                                                                     |                      | Level 1                                                     | Level 2                                                     | Level 3                                                     |
-| Assets                                                              |                      |                                                             |                                                             |                                                             |
-| Investments (Refer to note 2.4)                                     |                      |                                                             |                                                             |                                                             |
-| Investments in tax free bonds                                       | 428                  | 428                                                         | -                                                           | -                                                           |
-| Investments in government bonds                                     | 101                  | 101                                                         | -                                                           | -                                                           |
-| Investments in mutual fund units                                    | 2,191                | 2,191                                                       | -                                                           | -                                                           |
-| Investments in certificates of deposit                              | 7,546                | -                                                           | 7,546                                                       | -                                                           |
-| Investments in commercial papers                                    | 1,180                | -                                                           | 1,180                                                       | -                                                           |
-| Investments in non convertible debentures                           | 4,060                | 3,572                                                       | 488                                                         | -                                                           |
-| Investments in government securities                                | 4,450                | 4,282                                                       | 168                                                         | -                                                           |
-| Investments in equity securities                                    | 63                   | 61                                                          | -                                                           | 2                                                           |
-| Investments in preference securities                                | 680                  | -                                                           | -                                                           | 680                                                         |
-| Other investments                                                   | 59                   | -                                                           | -                                                           | 59                                                          |
-| Others                                                              |                      |                                                             |                                                             |                                                             |
-| Derivative financial instruments - gains (Refer to note 2.6)        | 80                   | -                                                           | 80                                                          | -                                                           |
-| Liabilities                                                         |                      |                                                             |                                                             |                                                             |
-| Derivative financial instruments - loss (Refer to note 2.12)        | 547                  | -                                                           | 547                                                         | -                                                           |
-| Liability towards contingent consideration (Refer to note 2.12) (1) | 20                   | -                                                           | -                                                           | 20                                                          |
-
-(1) Discount rate - 6 %
-During the year ended March 31, 2026, tax free bonds of ₹57 crore and government securities ₹36 crore was transferred from Level 2 to Level 1 of fair value hierarchy, since these were valued based on quoted price. Further, non-convertible debentures of ₹ 487 crore were transferred from Level 1 to Level 2 of fair value hierarchy, since these were valued based on market observable inputs.
-The fair value hierarchy of assets and liabilities measured at fair value on a recurring basis as at March 31, 2025 was as follows:
-|                                                                     | As at March 31, 2025   | (In ₹ crore)   | (In ₹ crore)   | (In ₹ crore)   |
-|---------------------------------------------------------------------|------------------------|----------------|----------------|----------------|
-|                                                                     |                        | Level 1        | Level 2        | Level 3        |
-| Assets                                                              |                        |                |                |                |
-| Investments (Refer to note 2.4)                                     |                        |                |                |                |
-| Investments in tax free bonds                                       | 1,781                  | 1,227          | 554            | -              |
-| Investments in target maturity fund units                           | 465                    | 465            | -              | -              |
-| Investments in government bonds                                     | 15                     | 15             | -              | -              |
-| Investments in mutual fund units                                    | 1,185                  | 1,185          | -              | -              |
-| Investments in certificates of deposit                              | 3,257                  | -              | 3,257          | -              |
-| Investments in commercial papers                                    | 3,442                  | -              | 3,442          | -              |
-| Investments in non convertible debentures                           | 4,869                  | 4,869          | -              | -              |
-| Investments in government securities                                | 6,800                  | 6,763          | 37             | -              |
-| Investments in equity securities                                    | 59                     | 57             | -              | 2              |
-| Investments in preference securities                                | 192                    | -              | -              | 192            |
-| Other investments                                                   | 61                     | -              | -              | 61             |
-| Others                                                              |                        |                |                |                |
-| Derivative financial instruments - gains (Refer to note 2.6)        | 171                    | -              | 171            | -              |
-| Liabilities                                                         |                        |                |                |                |
-| Derivative financial instruments - loss (Refer note 2.12)           | 56                     | -              | 56             | -              |
-| Liability towards contingent consideration (Refer to note 2.12) (1) | 31                     | -              | -              | 31             |
-
-(1) Discount rate - 6 %
-During the year ended March 31, 2025, government securities and non-convertible debentures of ₹36 crore and ₹261 crore were transferred from Level 2 to Level 1 of fair value hierarchy since these were valued based on quoted price. Further Tax free bond of ₹554 crore were transferred from Level 1 to Level 2 of fair value hierarchy, since these were valued based on market observable inputs.
-A one percentage point change in the unobservable inputs used in fair valuation of Level 3 assets and liabilities does not have a significant impact in its value.
-Majority of investments of the Company are fair valued based on Level 1 or Level 2 inputs. These investments primarily include investment in mutual fund units, target maturity fund units, tax free bonds, certificates of deposit, commercial papers, treasury bills, government securities, non-convertible debentures, quoted bonds issued by government and quasi-government organizations. The Company invests after considering counterparty risks based on multiple criteria including Tier I capital, Capital Adequacy Ratio, Credit Rating, Profitability, NPA levels and Deposit base of banks and financial institutions. These risks are monitored regularly as per Company's risk management program.
-## 2.11 EQUITY
-## Ordinary Shares
-Ordinary shares are classified as equity share capital. Incremental costs directly attributable to the issuance of new ordinary shares, share options and buyback are recognized as a deduction from equity, net of any tax effects.
-## Capital redemption reserve
-In accordance with section 69 of the Indian Companies Act, 2013, the Company creates capital redemption reserve equal to the nominal value of the shares bought back as an appropriation from general reserve / retained earnings.
-## Retained earnings
-Retained earnings represent the amount of accumulated earnings of the Company.
-## Securities premium
-The amount received in excess of the par value of equity shares has been classified as securities premium. Amounts have been utilized for bonus issue and share buyback from share premium account.
-## Share options outstanding account
-The Share options outstanding account is used to record the fair value of equity-settled share based payment transactions with employees. The amounts recorded in share options outstanding account are transferred to securities premium upon exercise of stock options and transferred to general reserve on account of stock options not exercised by employees.
-## Special Economic Zone Re-investment reserve
-The Special Economic Zone Re-investment reserve has been created out of the profit of the eligible SEZ unit in terms of the provisions of Sec 10AA (1)(ii) of Income Tax Act, 1961. The reserve should be utilized by the Company for acquiring new plant and machinery for the purpose of its business in terms of the provisions of the Sec 10AA (2) of the Income Tax Act, 1961.
-## Other components of equity
-Other components of equity include remeasurement of net defined benefit liability / asset, equity instruments fair valued through other comprehensive income, changes on fair valuation of investments and changes in fair value of derivatives designated as cash flow hedges, net of taxes.
-## Cash flow hedge reserve
-When a derivative is designated as a cash flow hedging instrument, the effective portion of changes in the fair value of the derivative is recognized in other comprehensive income and accumulated in the cash flow hedge reserve. The cumulative gain or loss previously recognized in the cash flow hedging reserve is transferred to the condensed standalone Statement of Profit and Loss upon the occurrence of the related forecasted transaction.
-## 2.11.1 EQUITY SHARE CAPITAL
-|                                                           | (In ₹ crore, except as otherwise stated)   | (In ₹ crore, except as otherwise stated)   |
-|-----------------------------------------------------------|--------------------------------------------|--------------------------------------------|
-| Particulars                                               | As at                                      | As at                                      |
-|                                                           | March 31, 2026                             | March 31, 2025                             |
-| Authorized                                                |                                            |                                            |
-| Equity shares, ₹5/- par value                             |                                            |                                            |
-| 480,00,00,000 (480,00,00,000) equity shares               | 2,400                                      | 2,400                                      |
-| Issued, Subscribed and Paid-Up                            |                                            |                                            |
-| Equity shares, ₹5/- par value (1)                         | 2,027                                      | 2,076                                      |
-| 405,55,91,723 (415,32,63,455) equity shares fully paid-up |                                            |                                            |
-|                                                           | 2,027                                      | 2,076                                      |
-
-(1) Refer to note 2.20 for details of basic and diluted shares
-Forfeited shares amounted to ₹1,500/- (₹1,500/-)
-The Company has only one class of shares referred to as equity shares having a par value of ₹5/-. Each holder of equity shares is entitled to one vote per share. The equity shares represented by American Depository Shares (ADS) carry similar rights to voting and dividends as the other equity shares. Each ADS represents one underlying equity share.
-In the event of liquidation of the Company, the holders of equity shares will be entitled to receive any of the remaining assets of the company in proportion to the number of equity shares held by the shareholders, after distribution of all preferential amounts. However, no such preferential amounts exist currently.
-There are no voting, dividend or liquidation rights to the holders of options issued under the company's share option plans.
-For details of shares reserved for issue under the employee stock option plan of the Company, refer to the note below.
-The reconciliation of the number of shares outstanding and the amount of share capital as at March 31, 2026 and March 31, 2025 is set out below:
-| Particulars                                              | As at March 31, 2026   | As at March 31, 2026   | (in ₹ crore, except as stated otherwise) As at March 31, 2025   | (in ₹ crore, except as stated otherwise) As at March 31, 2025   |
-|----------------------------------------------------------|------------------------|------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|
-|                                                          | Number of shares       | Amount                 | Number of shares                                                | Amount                                                          |
-| As at the beginning of the period                        | 4,15,32,63,455         | 2,076                  | 4,15,08,67,464                                                  | 2,075                                                           |
-| Add: Shares issued on exercise of employee stock options | 2,328,268              | 1                      | 2,395,991                                                       | 1                                                               |
-| Less: Shares bought back                                 | 100,000,000            | 50                     | -                                                               | -                                                               |
-| As at the end of the period                              | 4,05,55,91,723         | 2,027                  | 4,15,32,63,455                                                  | 2,076                                                           |
-
-## Capital allocation policy
-Effective fiscal 2025, the Company expects to continue its policy of returning approximately 85% of the free cash flow cumulatively over a 5-year period through a combination of semi-annual dividends and/or share buyback/ special dividends subject to applicable laws and requisite approvals, if any.
-Under this policy, the Company expects to progressively increase its annual dividend per share (excluding special dividend if any).
-Free cash flow is defined as net cash provided by operating activities less capital expenditure as per the consolidated statement of cash flows prepared under IFRS. Dividend and buyback include applicable taxes.
-## Buyback completed in December 2025
-In line with the capital allocation policy, the Board, at its meeting held on September 11, 2025, approved a proposal for the Company to buyback its fully paid-up equity shares of face value of ₹5/each from the eligible equity shareholders of the Company for an amount of ₹18,000 crore subject to shareholders' approval by way of Postal Ballot. The shareholders approved the said proposal of buyback of Equity Shares recommended by its Board of Directors by way of e-voting through postal ballot, the results of which were declared on November 6, 2025. The Buyback offer comprised a purchase of 10,00,00,000 Equity Shares comprising approximately 2.41% of the total paid-up equity share capital of the Company as of June 30, 2025 (on standalone basis) at a price of ₹1,800 per Equity share. The buyback was offered to all eligible equity shareholders (including those who became equity shareholders as on the Record date by cancelling American Depository Shares and withdrawing underlying Equity shares) of the Company as on the Record Date (i.e. November 14, 2025) on a proportionate basis through the "Tender offer" route. The tender period for buyback commenced on November 20, 2025 and was open until November 26, 2025. The Company concluded the buyback procedures on December 4, 2025 and 10,00,00,000 equity shares were bought back and extinguished. The buyback resulted in cash outflow of ₹18,000 crore (excluding transaction costs). The Company funded the buyback from its free reserves including securities premium as explained in Section 68 of the Companies Act, 2013. In accordance with Section 69 of the Companies Act, 2013, as at March 31, 2026, the Company has created a Capital Redemption Reserve of ₹50 crore equal to the nominal value of the shares bought back as an appropriation from the general reserve.
-The Company's objective when managing capital is to safeguard its ability to continue as a going concern and to maintain an optimal capital structure so as to maximize shareholder value. In order to maintain or achieve an optimal capital structure, the Company may adjust the amount of dividend payment, return capital to shareholders, issue new shares or buy back issued shares. As of March 31, 2026, the Company has only one class of equity shares and has no debt. Consequent to the above capital structure there are no externally imposed capital requirements.
-## 2.11.2 DIVIDEND
-The final dividend on shares is recorded as a liability on the date of approval by the shareholders and interim dividends are recorded as a liability on the date of declaration by the Company's Board of Directors. Income tax consequences of dividends on financial instruments classified as equity will be recognized according to where the entity originally recognized those past transactions or events that generated distributable profits.
-The Company declares and pays dividends in Indian rupees. Companies are required to pay/distribute dividend after deducting applicable taxes. The remittance of dividends outside India is governed by Indian law on foreign exchange and is also subject to withholding tax at applicable rates.
-The amount of per share dividend recognized as distribution to equity shareholders in accordance with Companies Act 2013 is as follows:-
-|                                  | Three months   | Three months   |       |       |
-|----------------------------------|----------------|----------------|-------|-------|
-|                                  | 2026           | 2025           | 2026  | 2025  |
-| Interim dividend for fiscal 2026 | -              | -              | 23.00 | -     |
-| Final dividend for fiscal 2025   | -              | -              | 22.00 | -     |
-| Interim dividend for fiscal 2025 | -              | -              | -     | 21.00 |
-| Special dividend for fiscal 2024 | -              | -              | -     | 8.00  |
-| Final dividend for fiscal 2024   | -              | -              | -     | 20.00 |
-
-During the year ended March 31, 2026, on account of the final dividend for fiscal 2025 and interim dividend for fiscal 2026, the Company has incurred a net cash outflow of ₹18,694 crore.
-The Board of Directors in their meeting held on April 23, 2026 recommended a final dividend of ₹25/per equity share for the financial year ended March 31, 2026. The payment is subject to approval of shareholders in the Annual General Meeting (AGM) of the Company to be held on June 23, 2026 and if approved, would result in a net cash outflow of approximately ₹10,139 crore.
-## 2.11.3 Employee Stock Option Plan (ESOP):
+## 2.13 Earnings per equity share
 ## Accounting Policy
-The Company recognizes compensation expense relating to share-based payments in net profit based on estimated fair-values of the awards on the grant date. The estimated fair value of awards is recognized as an expense in the statement of profit and loss on a straight-line basis over the requisite service period for each separately vesting portion of the award as if the award was in-substance, multiple awards with a corresponding increase to share options outstanding account.
-## Infosys Expanded Stock Ownership Program 2019 (the 2019 Plan):
-On June 22, 2019 pursuant to approval by the shareholders in the Annual General Meeting, the Board has been authorized to introduce, offer, issue and provide share-based incentives to eligible employees of the Company and its subsidiaries under the 2019 Plan. The maximum number of shares under the 2019 plan shall not exceed 5,00,00,000 equity shares. To implement the 2019 Plan, up to 4,50,00,000 equity shares may be issued by way of secondary acquisition of shares by Infosys Expanded Stock Ownership Trust. The Restricted Stock Units (RSUs) granted under the 2019 plan shall vest based on the achievement of defined annual performance parameters as determined by the administrator (Nomination and Remuneration Committee). The performance parameters will be based on a combination of relative Total Shareholder Return (TSR) against selected industry peers and certain broader market domestic and global indices and operating performance metrics of the company as decided by administrator. Each of the above performance parameters will be distinct for the purposes of calculation of quantity of shares to vest based on performance. These instruments will generally vest between a minimum of 1 to maximum of 3 years from the grant date.
-## 2015 Stock Incentive Compensation Plan (the 2015 Plan):
-On March 31, 2016, pursuant to the approval by the shareholders through postal ballot, the Board was authorized to introduce, offer, issue and allot share-based incentives to eligible employees of the Company and its subsidiaries under the 2015 Plan. The maximum number of shares under the 2015 plan shall not exceed 2,40,38,883 equity shares (this includes 1,12,23,576 equity shares which are held by the trust towards the 2011 Plan as at March 31, 2016). These instruments will generally vest over a period of 4 years. The plan numbers mentioned above are further adjusted with the September 2018 bonus issue.
-The equity settled and cash settled RSUs and stock options would vest generally over a period of 4 years and shall be exercisable within the period as approved by the Nomination and Remuneration Committee (NARC). The exercise price of the RSUs will be equal to the par value of the shares and the exercise price of the stock options (ESOPs) would be the market price as on the date of grant.
-Controlled trust holds 86,50,911 and 96,55,927 shares as at March 31, 2026 and March 31, 2025, respectively under the 2015 plan. Out of these shares, 200,000 equity shares each have been earmarked for welfare activities of the employees as at March 31, 2026 and March 31, 2025.
-The following is the summary of grants made during the three months and year ended March 31, 2026 and March 31, 2025:
-| Particulars                               | Three months ended March 31,   | Three months ended March 31,   | Year ended March 31,   | Year ended March 31,   |
-|-------------------------------------------|--------------------------------|--------------------------------|------------------------|------------------------|
-|                                           | 2026                           | 2025                           | 2026                   | 2025                   |
-| 2015 Plan: RSU                            |                                |                                |                        |                        |
-| Equity settled RSUs                       |                                |                                |                        |                        |
-| Key Management Personnel (KMP)            | 100,532                        | 85,674                         | 377,609                | 380,842                |
-| Employees other than KMP                  | 2,137,048                      | 1,722,470                      | 2,254,341              | 1,874,690              |
-|                                           | 2,237,580                      | 1,808,144                      | 2,631,950              | 2,255,532              |
-| Cash settled RSUs                         |                                |                                |                        |                        |
-| Key Management Personnel (KMP)            | -                              | -                              | -                      | -                      |
-| Employees other than KMP                  | 119,800                        | 94,050                         | 119,800                | 94,050                 |
-|                                           | 119,800                        | 94,050                         | 119,800                | 94,050                 |
-| 2015 Plan: Employee Stock Options (ESOPs) |                                |                                |                        |                        |
-| Equity settled RSUs                       |                                |                                |                        |                        |
-| Key Management Personnel (KMP)            | -                              | -                              | 237,370                | -                      |
-| Employees other than KMP                  | -                              | -                              | 5,412,790              | -                      |
-|                                           | -                              | -                              | 5,650,160              | -                      |
-| Cash settled RSUs                         |                                |                                |                        |                        |
-| Key Management Personnel (KMP)            | -                              | -                              | -                      | -                      |
-| Employees other than KMP                  | -                              | -                              | 108,180                | -                      |
-|                                           | -                              | -                              | 108,180                | -                      |
-| Total Grants under 2015 Plan              | 2,357,380                      | 1,902,194                      | 8,510,090              | 2,349,582              |
-| 2019 Plan: RSU                            |                                |                                |                        |                        |
-| Equity settled RSUs                       |                                |                                |                        |                        |
-| Key Management Personnel (KMP)            | 60,600                         | 49,000                         | 126,966                | 119,699                |
-| Employees other than KMP                  | 4,419,325                      | 3,617,798                      | 4,422,390              | 3,624,646              |
-|                                           | 4,479,925                      | 3,666,798                      | 4,549,356              | 3,744,345              |
-| Total Grants under 2019 Plan              | 4,479,925                      | 3,666,798                      | 4,549,356              | 3,744,345              |
+Basic earnings per equity share is computed by dividing the net profit attributable to the equity holders of the Group by the weighted average number of equity shares outstanding during the period. Diluted earnings per equity share is computed by dividing the net profit attributable to the equity holders of the Group by the weighted average number of equity shares considered for deriving basic earnings per equity share and also the weighted average number of equity shares that could have been issued upon conversion of all dilutive potential equity shares. The dilutive potential equity shares are adjusted for the proceeds receivable had the equity shares been actually issued at fair value (i.e. the average market value of the outstanding equity shares). Dilutive potential equity shares are deemed converted as at the beginning of the period, unless issued at a later date. Dilutive potential equity shares are determined independently for each period presented.
+The number of equity shares and potentially dilutive equity shares are adjusted retrospectively for all periods presented for any share splits and bonus shares issues including for changes effected prior to the approval of the financial statements by the Board of Directors.
+| Particulars                                                                                | Three months ended March 31,   | Three months ended March 31,   | Year ended March 31,   | Year ended March 31,   |
+|--------------------------------------------------------------------------------------------|--------------------------------|--------------------------------|------------------------|------------------------|
+|                                                                                            | 2026                           | 2025                           | 2026                   | 2025                   |
+| Profit attributable to equity holders of the Company (In ₹ Crores)                         | 8,501                          | 7,033                          | 29,440                 | 26,713                 |
+| Basic earnings per equity share - weighted average number of equity shares outstanding (1) | 4,046,019,309                  | 4,142,429,577                  | 4,112,814,745          | 4,141,611,738          |
+| Basic earnings per equity share (₹)                                                        | 21.01                          | 16.98                          | 71.58                  | 64.50                  |
 
-## Under the 2015 plan:
-The Board, on April 17, 2025, based on the recommendations of the Nomination and Remuneration Committee approved the following grants for fiscal 2026. In accordance with such approval the following grants were made effective May 2, 2025.
-- 2,30,621 performance-based RSUs (Annual performance equity grant) of fair value of ₹34.75 crore. These RSUs will vest in line with the employment agreement based on achievement of certain performance targets.
+The following is a reconciliation of the equity shares used in the computation of basic and diluted earnings per equity share:
+| Particulars                                                                                                           | Three months ended March 31,   | Three months ended March 31,   | Year ended March 31,   | Year ended March 31,   |
+|-----------------------------------------------------------------------------------------------------------------------|--------------------------------|--------------------------------|------------------------|------------------------|
+|                                                                                                                       | 2026                           | 2025                           | 2026                   | 2025                   |
+| Profit attributable to equity holders of the Company (In ₹ Crores)                                                    | 8,501                          | 7,033                          | 29,440                 | 26,713                 |
+| Basic earnings per equity share - weighted average number of equity shares outstanding (1)                            | 4,046,019,309                  | 4,142,429,577                  | 4,112,814,745          | 4,141,611,738          |
+| Effect of dilutive common equivalent shares - share options outstanding                                               | 6,150,138                      | 9,107,744                      | 7,293,423              | 10,439,446             |
+| Diluted earnings per equity share - weighted average number of equity shares and common equivalent shares outstanding | 4,052,169,447                  | 4,151,537,321                  | 4,120,108,168          | 4,152,051,184          |
+| Diluted earnings per equity share (₹)                                                                                 | 20.98                          | 16.94                          | 71.46                  | 64.34                  |
 
-- 13,273 performance-based grant of RSUs (Annual performance equity ESG grant) of fair value of ₹2 crore. These RSUs will vest in line with the employment agreement based on achievement of certain environment, social and governance milestones as determined by the Board.
+(1) excludes treasury shares
+For the three months ended March 31, 2026 and March 31, 2025, there were 2,598,498 and 14,270 options to purchase equity shares which had an anti-dilutive effect.
+For the years ended March 31, 2026 and March 31, 2025, there were 1,235,321 and 13,931 options to purchase equity shares which had an anti-dilutive effect.
+## 2.14 Related party transactions
+## List of related parties:
+| Name of subsidiaries                                                      | Country      | Holdings as at          | Holdings as at   |
+|---------------------------------------------------------------------------|--------------|-------------------------|------------------|
+| Name of subsidiaries                                                      | Country      | 31, 2026 March 31, 2025 |                  |
+| Infosys Technologies (China) Co. Limited (Infosys China) (1)              | China        | 100%                    | 100%             |
+| Infosys Technologies S. de R. L. de C. V. (Infosys Mexico) (1)            | Mexico       | 100%                    | 100%             |
+| Infosys Technologies (Sweden) AB (Infosys Sweden) (1)                     | Sweden       | 100%                    | 100%             |
+| Infosys Technologies (Shanghai) Company Limited (Infosys Shanghai) (1)    | China        | 100%                    | 100%             |
+| EdgeVerve Systems Limited (EdgeVerve) (1)                                 | India        | 100%                    | 100%             |
+| Infosys Austria GmbH (1)                                                  | Austria      | 100%                    | 100%             |
+| Skava Systems Private Limited (Skava Systems) (1)(28)                     | India        | -                       | -                |
+| Infosys Chile SpA (1)                                                     | Chile        | 100%                    | 100%             |
+| Infosys Arabia Limited (2)                                                | Saudi Arabia | 70%                     | 70%              |
+| Infosys Consulting Ltda. (1)                                              | Brazil       | 100%                    | 100%             |
+| Infosys Luxembourg S.a.r.l (1)                                            | Luxembourg   | 100%                    | 100%             |
+| Infosys Consulting S.R.L. (2)(45)                                         | Argentina    | -                       | 100%             |
+| Infosys Romania S.r.l. (formerly Infosys Consulting S.R.L. (Romania)) (1) | Romania      | 100%                    | 100%             |
+| Infosys Limited Bulgaria EOOD (1)                                         | Bulgaria     | 100%                    | 100%             |
+| Infosys Turkey Bilgi Teknolojileri Limited Sirketi (1)                    | Turkey       | 100%                    | 100%             |
+| Infosys Germany Holding Gmbh (1)                                          | Germany      | 100%                    | 100%             |
+| Infosys Automotive and Mobility GmbH &Co. KG (1)                          | Germany      | 100%                    | 100%             |
+| Infosys Green Forum (1)                                                   | India        | 100%                    | 100%             |
+| Infosys Business Solutions LLC (1)                                        | Qatar        | 100%                    | 100%             |
 
-- 33,183 performance-based grant of RSUs (Annual performance Equity TSR grant) of fair value of ₹5 crore . These RSUs will vest in line with the employment agreement based on Company's performance on cumulative relative TSR over the years and as determined by the Board.
+| WongDoody Inc. (1)(30)                                          | U.S.            | -    | -         |
+|-----------------------------------------------------------------|-----------------|------|-----------|
+| IDUNN Information Technology Private Limited (1)                | India           | 100% | 100%      |
+| Infosys Public Services, Inc. USA (Infosys Public Services) (1) | U.S.            | 100% | 100%      |
+| Infosys Public Services Canada Inc. (11)                        | Canada          | 100% | 100%      |
+| Infosys BPM Limited (1)                                         | India           | 100% | 100%      |
+| Infosys BPM UKLimited (3)                                       | U.K.            | 100% | 100%      |
+| Infosys (Czech Republic) Limited s.r.o. (3)                     | Czech Republic  | 100% | 100%      |
+| Infosys Poland Sp z.o.o (3)                                     | Poland          | 100% | 100%      |
+| Infosys McCamish Systems LLC (3)                                | U.S.            | 100% | 100%      |
+| Portland Group Pty Ltd (3)                                      | Australia       | 100% | 100%      |
+| Infosys BPO Americas LLC. (3)                                   | U.S.            | 100% | 100%      |
+| Panaya Inc. (Panaya) (1)                                        | U.S.            | 100% | 100%      |
+| Panaya Ltd. (4)                                                 | Israel          | 100% | 100%      |
+| Panaya Germany GmbH (4)                                         | Germany         | 100% | 100%      |
+| Brilliant Basics Holdings Limited (Brilliant Basics) (1)(20)    | U.K.            | 100% | 100%      |
+| Brilliant Basics Limited (5)(20)                                | U.K.            | 100% | 100%      |
+| Infosys Consulting Holding AG (1)                               | Switzerland     | 100% | 100%      |
+| Infosys Management Consulting Pty Limited (6)                   | Australia       | 100% | 100%      |
+| Infosys Consulting AG (6)                                       | Switzerland     | 100% | 100%      |
+| Infosys Consulting GmbH (6)                                     | Germany         | 100% | 100%      |
+| Infosys Consulting SAS (6)                                      | France          | 100% | 100%      |
+| Infy Consulting B.V. (6)                                        | The Netherlands | 100% | 100%      |
+| Infosys Consulting (Belgium) NV (6)                             | Belgium         | 100% | 100%      |
+| Infy Consulting Company Ltd (6)                                 | U.K.            | 100% | 100%      |
+| GuideVision s.r.o. (7)                                          | Czech Republic  | 100% | 100%      |
+| GuideVision Deutschland GmbH (8)                                | Germany         | 100% | 100%      |
+| GuideVision Suomi Oy (8)                                        | Finland         | 100% | 100%      |
+| GuideVision Magyarország Kft (8)                                | Hungary         | 100% | 100%      |
+| GuideVision Polska Sp. z.o.o (8)                                | Poland          | 100% | 100%      |
+| GuideVision UKLtd (8)(20)                                       | U.K.            | 100% | 100%      |
+| Infosys Nova Holdings LLC. (Infosys Nova) (1)                   | U.S.            | 100% | 100%      |
+| Outbox systems Inc. dba Simplus (US) (9)(31)                    | U.S.            | -    | -         |
+| Simplus ANZ Pty Ltd. (9)                                        | Australia       | 100% | 100%      |
+| Simplus Australia Pty Ltd (10)                                  | Australia       | 100% | 100%      |
+| Simplus Philippines, Inc. (9)                                   | Philippines     | 100% | 100%      |
+| Kaleidoscope Animations, Inc. (9)(31)                           | U.S.            | -    | -         |
+| Blue Acorn iCi Inc (9)(31)                                      | U.S.            | -    | -         |
+| Infosys Singapore Pte. Ltd. (1)(41)                             | Singapore       | 100% | 100%      |
+| Infosys Financial Services GmbH. (12)                           | Germany         | 100% | 100%      |
+| Infosys South Africa (Pty) Ltd (12)                             | South Africa    | 100% | 100%      |
+| Infosys (Malaysia) SDN. BHD. (12)                               | Malaysia        | 100% | 100%      |
+| Infosys Middle East FZ LLC (12)                                 | U.A.E           | 100% | 100% 100% |
+| Infosys Norway                                                  | Norway          | 100% |           |
+| Infosys Compaz Pte. Ltd (13) (13)(41)                           | Singapore       | 60%  | 60%       |
+| HIPUS Co., Ltd                                                  | Japan           | 79%  | 81%       |
+| Fluido Oy (12)                                                  | Finland         | 100% | 100%      |
+| Fluido Sweden AB (14)                                           | Sweden          | 100% | 100%      |
+| Fluido Norway A/S (14)                                          | Norway          | 100% | 100%      |
+| Fluido Denmark A/S (14)                                         | Denmark         | 100% | 100%      |
+| Fluido Slovakia s.r.o (14)                                      | Slovakia        | 100% | 100%      |
+| Infosys Fluido UK, Ltd. (14)                                    | U.K.            | 100% | 100%      |
+| Infosys Fluido Ireland, Ltd. (15)                               | Ireland         | 100% | 100%      |
+| Stater N.V. (16)                                                | The Netherlands | 75%  | 75%       |
+| Stater Nederland B.V. (16)                                      | The Netherlands | 75%  | 75%       |
+| HypoCasso B.V. (16) Stater XXLB.V.                              | The Netherlands | 75%  | 75%       |
+| Stater Belgium N.V./S.A. (16)                                   | Belgium         | 75%  | 75%       |
+| Stater Gmbh (16)                                                | Germany         | 75%  | 75%       |
 
-Further, in accordance with the employee agreement which has been approved by the shareholders, the CEO is eligible to receive an annual grant of RSUs of fair value ₹3 crore which will vest overtime in three equal annual installments upon the completion of each year of service from the respective grant date. Accordingly, annual time-based grant of 18,132 RSUs was made effective February 1, 2026 for fiscal 2026.
-Though the annual time based grants and annual performance equity TSR grant for the remaining employment term ending on March 31, 2027 have not been granted as of March 31, 2026, since the service commencement date precedes the grant date, the company has recorded employment stock compensation expense in accordance with Ind AS 102, Share based payment. The grant date for this purpose in accordance with Ind AS 102, Share based payment is July 1, 2022.
-## Under the 2019 plan:
-The Board, on April 17, 2025, based on the recommendations of the Nomination and Remuneration Committee, approved performance-based grant of RSUs amounting to ₹10 crore for fiscal 2026 under the 2019 Plan. These RSUs will vest based on achievement of certain performance targets. Accordingly, 66,366 performance based RSU's were granted effective May 2, 2025.
-## Under the 2015 plan:
-During the year ended March 31, 2026, based on recommendations of Nomination and Remuneration Committee, the Board approved time based grants of 2,37,370 ESOPs to Other KMP under the 2015 Plan. These ESOPs will vest over a period of 4 years and shall be exercisable within the period as approved by the Committee. The exercise price of the ESOPs would be the market price as on the date of grant.
-Further, during the year ended March 31, 2026, based on recommendations of Nomination and Remuneration Committee, the Board approved 82,400 time based RSUs to Other KMPs under the 2015 Plan. Time based RSUs will vest over four years.
-## Under the 2019 plan:
-During the year ended March 31, 2026, based on recommendations of Nomination and Remuneration Committee, the Board approved performance based grants of 60,600 RSUs to other KMPs under the 2019 plan. These RSUs will vest over three years based on achievement of certain performance targets.
-## The break-up of employee stock compensation expense is as follows:
-|                          |                              |                              |                      | (in ₹ crore)         |
-|--------------------------|------------------------------|------------------------------|----------------------|----------------------|
-| Particulars              | Three months ended March 31, | Three months ended March 31, | Year ended March 31, | Year ended March 31, |
-|                          | 2026                         | 2025                         | 2026                 | 2025                 |
-| Granted to:              |                              |                              |                      |                      |
-| KMP                      | 18                           | 18                           | 70                   | 70                   |
-| Employees other than KMP | 207                          | 158                          | 776                  | 642                  |
-| Total (1)                | 225                          | 176                          | 846                  | 712                  |
+| Infosys Germany GmbH (12)(43)                                   | Germany         | -    | 100%   |
+|-----------------------------------------------------------------|-----------------|------|--------|
+| Wongdoody Gmbh (18)(43)                                         | Germany         | 100% | 100%   |
+| WongDoody (Shanghai) Co. Limited (19)                           | China           | 100% | 100%   |
+| WongDoody limited (Taipei) (19)                                 | Taiwan          | 100% | 100%   |
+| WongDoody d.o.o (19)                                            | Serbia          | 100% | 100%   |
+| BASE life science A/S (12)                                      | Denmark         | 100% | 100%   |
+| BASE life science AG (21)                                       | Switzerland     | 100% | 100%   |
+| BASE life science GmbH (21)                                     | Germany         | 100% | 100%   |
+| BASE life science S.A.S (21)                                    | France          | 100% | 100%   |
+| BASE life science Ltd. (21)                                     | U.K.            | 100% | 100%   |
+| BASE life science S.r.l. (21)                                   | Italy           | 100% | 100%   |
+| Innovisor Inc. (21)                                             | U.S.            | 100% | 100%   |
+| BASE life science Inc. (17)                                     | U.S.            | 100% | 100%   |
+| BASE life science S.L. (21)                                     | Spain           | 100% | 100%   |
+| InSemi Technology Services Private Limited (23)                 | India           | 100% | 100%   |
+| Elbrus Labs Private Limited (23)(22)                            | India           | 100% | 100%   |
+| Infosys Services (Thailand) Limited (1)(25)                     | Thailand        | 100% | 100%   |
+| Infy tech SAS (12)(24)                                          | France          | 100% | 100%   |
+| in-tech Holding GmbH (26)(32)                                   | Germany         | -    | -      |
+| in-tech GmbH (26)                                               | Germany         | 100% | 100%   |
+| Friedrich &Wagner Asia Pacific GmbH (26)(32)                    | Germany         | -    | -      |
+| drivetech Fahrversuch GmbH (26)                                 | Germany         | 100% | 100%   |
+| in-tech Engineering S.R.L. (formerly known as ProIT) (26)(44)   | Romania         | 100% | 100%   |
+| in-tech Automotive Engineering de R.L. de C.V (26)(40)          | Mexico          | -    | 100%   |
+| Friedrich Wagner Holding Inc. (26)(20)                          | U.S.            | 100% | 100%   |
+| in-tech Automotive Engineering SL (26)                          | Spain           | 100% | 100%   |
+| in-tech Automotive Engineering LLC (26)(29)                     | U.S.            | -    | -      |
+| in-tech Services LLC (26)(29)                                   | U.S.            | -    | -      |
+| in-tech Engineering s.r.o (26)                                  | Czech Republic  | 100% | 100%   |
+| in-tech Engineering GmbH (26)                                   | Austria         | 100% | 100%   |
+| in-tech Engineering services S.R.L (26)(44)                     | Romania         | -    | 100%   |
+| in-tech Group Ltd (26)                                          | U.K.            | 100% | 100%   |
+| In-tech Automotive Engineering Shenyang Co. Ltd (26)            | China           | 100% | 100%   |
+| in-tech Group India Private Ltd (26)                            | India           | 100% | 100%   |
+| In-tech Automotive Engineering Beijing Co., Ltd (26)            | China           | 100% | 100%   |
+| Infosys Germany SE (formerly known as Blitz 24-893 SE) (27)(43) | Germany         | 100% | 100%   |
+| Infosys Limited SPC (1)(33)                                     | Oman            | 100% | 100%   |
+| Infosys BPM Netherlands B.V. (17)(34)                           | The Netherlands | 100% | 100%   |
+| Infosys Energy Consulting Services LLC (9)(35)                  | U.S.            | 100% | -      |
+| Infosys Saudi Arabia LLC (1)(36)                                | Saudi Arabia    | 100% | -      |
+| Infosys Australia Technology Service Pty Ltd (12)(37)           | Australia       | 100% | -      |
+| MRE Consulting Ltd (38)                                         | U.S.            | 100% | -      |
+| MRE Technology Services, LLC (38)                               | U.S.            | 100% | -      |
+| The Missing Link Automation Pty Ltd (39)                        | Australia       | 100% | -      |
+| The Missing Link Network Integration Pty Ltd (39)               | Australia       | 100% | -      |
+| The Missing Link Security Pty Ltd (39)                          | Australia       | 100% | -      |
+| The Missing Link Security Ltd (39)                              | U.K.            | 100% | -      |
+| Infosys Enterprise Business Services Pty Ltd (12)(46)           |                 |      | -      |
+|                                                                 | Australia       | 100% |        |
 
-The fair value of the awards are estimated using the Black-Scholes Model for time and non-market performance-based options and Monte Carlo simulation model is used for TSR based options.
-The inputs to the model include the share price at date of grant, exercise price, expected volatility, expected dividends, expected term and the risk free rate of interest. Expected volatility during the expected term of the options is based on historical volatility of the observed market prices of the Company's publicly traded equity shares during a period equivalent to the expected term of the options. Expected volatility of the comparative company have been modelled based on historical movements in the market prices of their publicly traded equity shares during a period equivalent to the expected term of the options. Correlation coefficient is calculated between each peer entity and the indices as a whole or between each entity in the peer group.
-The fair value of each equity settled award is estimated on the date of grant using the following assumptions:
-| Particulars                                                | For options granted in         | For options granted in   | For options granted in           | For options granted in   | For options granted in         | For options granted in   |
-|------------------------------------------------------------|--------------------------------|--------------------------|----------------------------------|--------------------------|--------------------------------|--------------------------|
-|                                                            | Fiscal 2026- Equity Shares-RSU | Fiscal 2026- ADR RSU     | Fiscal 2026- Equity Shares- ESOP | Fiscal 2026- ADS-ESOP    | Fiscal 2025- Equity Shares-RSU | Fiscal 2025- ADS-RSU     |
-| Weighted average share price (₹) / ($ ADS)                 | 1,641                          | 17.55                    | 1,554                            | 17.93                    | 1,808                          | 21.44                    |
-| Exercise price (₹) / ($ ADS)                               | 5.00                           | 0.10                     | 1,554                            | 17.93                    | 5.00                           | 0.07                     |
-| Expected volatility (%)                                    | 23-26                          | 25-29                    | 25-28                            | 26-30                    | 21-26                          | 23-28                    |
-| Expected life of the option (years)                        | 1-4                            | 1-4                      | 3-7                              | 3-7                      | 1-4                            | 1-4                      |
-| Expected dividends (%)                                     | 2-3                            | 2-3                      | 2-3                              | 2-3                      | 2-3                            | 2-3                      |
-| Risk-free interest rate (%)                                | 6                              | 4                        | 6                                | 4                        | 7                              | 4-5                      |
-| Weighted average fair value as on grant date (₹) / ($ ADS) | 1,331                          | 14.16                    | 390                              | 4.09                     | 1,555                          | 18.20                    |
+(1) Wholly-owned subsidiary of Infosys Limited
+(2) Majority owned and controlled subsidiary of Infosys Limited
+(3) Wholly-owned subsidiary of Infosys BPM Limited
+(4) Wholly-owned subsidiary of Panaya Inc .
+(5) Wholly-owned subsidiary of Brilliant Basics Holding Limited.
+(6) Wholly-owned subsidiary of Infosys Consulting Holding AG
+(7) Wholly-owned subsidiary of Infy Consulting Company Limited
+(8) Wholly-owned subsidiary of GuideVision s.r.o.
+(9) Wholly-owned subsidiary of  Infosys Nova Holdings LLC
+(10) Wholly-owned subsidiary of Simplus ANZ Pty Ltd
+(11) Wholly-owned subsidiary of Infosys Public Services, Inc.
+- (12) Wholly-owned subsidiary of Infosys Singapore Pte. Ltd.
 
-The expected life of the RSU/ESOP is estimated based on the vesting term and contractual term of the RSU/ESOP, as well as expected exercise behavior of the employee who receives the RSU/ESOP.
-## 2.12 OTHER FINANCIAL LIABILITIES
-|                                                                                  |                   | (In ₹ crore)   |
-|----------------------------------------------------------------------------------|-------------------|----------------|
-| Particulars                                                                      | March 31, 2026 As | March 31, 2025 |
-| Non-current                                                                      |                   |                |
-| Others                                                                           |                   |                |
-| Compensated absences                                                             | 105               | 90             |
-| Accrued compensation to employees (1)                                            | 3                 | 5              |
-| Accrued expenses (1)                                                             | 1,709             | 1,876          |
-| Payable for acquisition of business - Contingent consideration (2)               | -                 | 20             |
-| Other payables (1)                                                               | 63                | -              |
-| Total non-current other financial liabilities                                    | 1,880             | 1,991          |
-| Current                                                                          |                   |                |
-| Unpaid dividends (1)                                                             | 45                | 45             |
-| Others                                                                           |                   |                |
-| Accrued compensation to employees (1)                                            | 4,365             | 3,781          |
-| Accrued expenses (1)(4)                                                          | 7,423             | 6,210          |
-| Capital creditors (1)                                                            | 254               | 470            |
-| Compensated absences                                                             | 2,714             | 2,322          |
-| Payable for acquisition of business - Contingent consideration (2)               | 20                | 11             |
-| Other payables (1)(5)                                                            | 1,444             | 1,206          |
-| Foreign currency forward and options contracts (2)(3)                            | 547               | 56             |
-| Total current other financial liabilities                                        | 16,812            | 14,101         |
-| Total other financial liabilities                                                | 18,692            | 16,092         |
-| (1) Financial liability carried at amortized cost                                | 15,306            | 13,593         |
-| (2) Financial liability carried at fair value through profit or loss             | 512               | 54             |
-| (3) Financial liability carried at fair value through other comprehensive income | 55                | 33             |
-| (4) Includes dues to subsidiaries                                                | 60                | 56             |
-| (5) Includes dues to subsidiaries                                                | 1,232             | 669            |
-| Financial liability towards contingent consideration on an undiscounted basis    | 20                | 33             |
+(13) Majority owned and controlled subsidiary of Infosys Singapore Pte. Ltd.
+(14) Wholly-owned subsidiary of Fluido Oy
+(15) Wholly-owned subsidiary of Infosys Fluido UK, Ltd.
+(16) Wholly-owned subsidiary of  Stater N.V
+(17) Wholly-owned subsidiary of Infosys BPM UK Ltd.
+(18) Wholly-owned subsidiary of Infosys Germany GmbH
+(19) Wholly-owned subsidiary of Wongdoody Gmbh
+(20) Under liquidation
+(21) Wholly-owned subsidiary of BASE life science A/S
+(22) Wholly-owned subsidiary of InSemi Technology Services Private Limited
+(23) On May 10, 2024 Infosys Ltd. acquired 100% of voting interests in InSemi Technology Services Private Limited along with its subsidiary Elbrus Labs Private Limited
+(24) Incorporated on July 03, 2024
+(25) Incorporated on July 26, 2024
+(26) On July 17, 2024, Infosys Germany GmbH, a wholly owned subsidiary of Infosys Singapore Pte. Limited, acquired 100% of voting interests in in-tech Holding GmbH along with its subsidiary in-tech GmbH along with its six subsidiaries in-tech Automotive Engineering SL, in-tech Engineering S.R.L. (formerly known as ProIT), in-tech Automotive Engineering de R.L. de C.V, drivetech Fahrversuch GmbH, Friedrich Wagner Holding Inc along with its two subsidiaries (in-tech Automotive Engineering LLC and in-tech Services LLC) and Friedrich &amp; Wagner Asia Pacific GmbH along with its five subsidiaries in-tech engineering s.r.o, in-tech engineering GmbH, in-tech engineering services S.R.L, in-tech Group Ltd along with its subsidiary (in-tech Group India Private Limited) and In-tech Automotive Engineering Shenyang Co., Ltd along with its subsidiary (In-tech Automotive Engineering Beijing Co., Ltd). Subsequently on September 01, 2024 in-tech Group India Private Limited became a wholly-owned subsidiary of Infosys limited.
+(27) On October 17, 2024, Infosys Singapore Pte Ltd. acquired 100% of voting interests in Infosys Germany SE (formerly known as Blitz 24-893 SE)
+(28) Liquidated effective November 14, 2024
+(29) Liquidated effective November 30, 2024
+(30) WongDoody Inc, a wholly-owned subsidiary of Infosys limited merged into Infosys Nova Holdings LLC effective January 1, 2025
+(31) Kaleidoscope Animations, Blue Acorn iCi Inc and Outbox systems Inc. dba Simplus (US) merged into Infosys Nova Holdings LLC effective January 1,2025
+(32) in-tech Holding GmbH and Friedrich &amp; Wagner Asia Pacific GmbH merged into in-tech GmbH effective January 1,2025
+- (33) Incorporated on December 12, 2024
+- (34) Incorporated on March 20, 2025
+- (35) Incorporated on April 16, 2025
+- (36) Incorporated on April 21, 2025
 
-Accrued expenses primarily relate to cost of technical sub-contractors, telecommunication charges, legal and professional charges, brand building expenses, overseas travel expenses, office maintenance and cost of third party software and hardware.
+(37) Incorporated on April 23, 2025
+(38) On April 30, 2025, Infosys Nova Holdings LLC, a wholly-owned subsidiary of Infosys Limited, acquired 98.21% of partnership interests in MRE Consulting Ltd along with its subsidiary MRE Technology Services, LLC.The remaining 1.79% was acquired by Infosys Energy Consulting Services LLC, a Wholly-owned subsidiary of Infosys Nova Holdings LLC
+(39) On April 30, 2025, Infosys Australia Technology Service Pty Ltd, a wholly owned subsidiary of Infosys Singapore Pte. Limited, acquired 100% of voting interests in The Missing Link Automation Pty Ltd, The Missing Link Network Integration Pty Ltd and The Missing Link Security Pty Ltd along with its subsidiary The Missing Link Security Ltd
+(40) Liquidated effective May 07, 2025
+(41) On May 13, 2025,  Infosys Singapore Pte Ltd diluted 2% stake of HIPUS Co., Ltd to Mitsubishi Heavy Industries, Ltd.
+(42) Incorporated on July 28, 2025
+(43) Infosys Germany Gmbh, a Wholly-owned subsidiary of Infosys Singapore Pte Ltd merged into Infosys Germany SE (formerly known as Blitz 24-893 SE) effective September 24, 2025
+(44) in-tech Engineering services S.R.L, (Wholly-owned subsidiary of  in-tech GmbH) merged into in-tech Engineering S.R.L. (formerly known as ProIT and whollyowned subsidiary of in-tech GmbH) effective November 30, 2025
+(45) Infosys Consulting S.R.L. (Argentina) (formerly a majority owned and controlled subsidiary of Infosys Limited) became the majority owned and controlled subsidiary of Infosys Nova Holdings LLC with effect from January 28, 2026
+(46) Incorporated on March 19, 2026
+| Particulars                                                    | Country   | Nature of relationship                      |
+|----------------------------------------------------------------|-----------|---------------------------------------------|
+| Infosys Limited Employees' Gratuity Fund Trust                 | India     | Post-employment benefit plan of Infosys     |
+| Infosys Limited Employees' Provident Fund Trust                | India     | Post-employment benefit plan of Infosys     |
+| Infosys Limited Employees' Superannuation Fund Trust           | India     | Post-employment benefit plan of Infosys     |
+| Infosys BPM Limited Employees' Superannuation Fund Trust       | India     | Post-employment benefit plan of Infosys BPM |
+| Infosys BPM Limited Employees' Gratuity Fund Trust             | India     | Post-employment benefit plan of Infosys BPM |
+| EdgeVerve Systems Limited Employees' Gratuity Fund Trust       | India     | Post-employment benefit plan of EdgeVerve   |
+| EdgeVerve Systems Limited Employees' Superannuation Fund Trust | India     | Post-employment benefit plan of EdgeVerve   |
+| Infosys Employees Welfare Trust                                | India     | Controlled trust                            |
+| Infosys Employee Benefits Trust                                | India     | Controlled trust                            |
+| Infosys Science Foundation                                     | India     | Controlled trust                            |
+| Infosys Expanded Stock Ownership Trust                         | India     | Controlled trust                            |
+| Infosys Foundation (1)                                         | India     | Trust jointly controlled by KMPs            |
+
+Refer to Note 2.20 for information on transactions with post-employment benefit plans mentioned above.
+(1) During the year ended March 31, 2026 and March 31, 2025, the Group contributed ₹395 crore and ₹434 crore, respectively towards CSR.

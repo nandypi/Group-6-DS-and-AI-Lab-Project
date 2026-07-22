@@ -1,280 +1,231 @@
 ---
 document_name: "Infosys_23042026170027_outcome.md"
 group_id: "Infosys_23042026170027_outcome__group_047"
-source_section_count: 3
-page_start: 371
-page_end: 379
-estimated_tokens: 8650
+source_section_count: 2
+page_start: 190
+page_end: 196
+estimated_tokens: 6597
 source_section_ids:
-  - "Infosys_23042026170027_outcome__152"
-  - "Infosys_23042026170027_outcome__153"
-  - "Infosys_23042026170027_outcome__154"
+  - "Infosys_23042026170027_outcome__083"
+  - "Infosys_23042026170027_outcome__084"
 ---
 
-## Provident fund
-Eligible employees of Infosys receive benefits from a provident fund, which is a defined benefit plan. Both the eligible employee and the Company make monthly contributions to the provident fund plan equal to a specified percentage of the covered employee's salary. The Company contributes a portion to the Infosys Limited Employees' Provident Fund Trust. The trust invests in specific designated instruments as permitted by Indian law. The remaining portion is contributed to the government administered pension fund. The rate at which the annual interest is payable to the beneficiaries by the trust is being administered by the Government of India. The Company has an obligation to make good the shortfall, if any, between the return from the investments of the trust and the notified interest rate.
-In respect of Indian subsidiaries, eligible employees receive benefits from a provident fund, which is a defined contribution plan. Both the eligible employee and the respective companies make monthly contributions to this provident fund plan equal to a specified percentage of the covered employee's salary. Amounts collected under the provident fund plan are deposited in a government administered provident fund. The Companies have no further obligation to the plan beyond its monthly contributions.
-## Superannuation
-Certain employees of Infosys, Infosys BPM and EdgeVerve are participants in a defined contribution plan. The Group has no further obligations to the plan beyond its monthly contributions which are periodically contributed to a trust fund, the corpus of which is invested with the Life Insurance Corporation of India.
-## Compensated absences
-The Group has a policy on compensated absences which are both accumulating and non-accumulating in nature. The expected cost of accumulating compensated absences is determined by actuarial valuation performed by an external actuary at each Balance Sheet date using projected unit credit method on the additional amount expected to be paid/availed as a result of the unused entitlement that has accumulated at the Balance Sheet date. Expense on non-accumulating compensated absences is recognized in the period in which the absences occur.
-|                                                                          |                              |                              |                      | (In ₹ crore)         |
-|--------------------------------------------------------------------------|------------------------------|------------------------------|----------------------|----------------------|
-| Particulars                                                              | Three months ended March 31, | Three months ended March 31, | Year ended March 31, | Year ended March 31, |
-|                                                                          | 2026                         | 2025                         | 2026                 | 2025                 |
-| Employee benefit expenses                                                |                              |                              |                      |                      |
-| Salaries including bonus                                                 | 23,538                       | 21,059                       | 90,837               | 82,232               |
-| Contribution to provident and other funds                                | 750                          | 599                          | 2,707                | 2,338                |
-| Share based payments to employees (Refer to Note 2.11)                   | 250                          | 198                          | 952                  | 802                  |
-| Staff welfare                                                            | 150                          | 159                          | 598                  | 578                  |
-|                                                                          | 24,688                       | 22,015                       | 95,094               | 85,950               |
-| Cost of software packages and others                                     |                              |                              |                      |                      |
-| For own use                                                              | 759                          | 655                          | 2,846                | 2,467                |
-| Third party items bought for service delivery to clients                 | 3,210                        | 3,244                        | 12,876               | 13,444               |
-|                                                                          | 3,969                        | 3,899                        | 15,722               | 15,911               |
-| Other expenses                                                           |                              |                              |                      |                      |
-| Repairs and maintenance                                                  | 409                          | 322                          | 1,531                | 1,320                |
-| Power and fuel                                                           | 54                           | 50                           | 223                  | 222                  |
-| Brand and marketing                                                      | 363                          | 344                          | 1,351                | 1,223                |
-| Rates and taxes                                                          | 64                           | 77                           | 308                  | 346                  |
-| Consumables                                                              | 64                           | 66                           | 248                  | 227                  |
-| Insurance                                                                | 82                           | 73                           | 335                  | 301                  |
-| Provision for post-sales client support and others                       | (106)                        | (228)                        | (167)                | (110)                |
-| Commission to non-whole time directors                                   | 5                            | 5                            | 18                   | 18                   |
-| Impairment loss recognized / (reversed) under expected credit loss model | (55)                         | (53)                         | 33                   | 48                   |
-| Contributions towards Corporate Social Responsibility                    | 177                          | 92                           | 623                  | 585                  |
-| Others                                                                   | 235                          | 145                          | 840                  | 607                  |
-|                                                                          | 1,292                        | 893                          | 5,343                | 4,787                |
+## 2.13 OTHER FINANCIAL LIABILITIES
+|                                                                                  |                | (In ₹ crore)   |
+|----------------------------------------------------------------------------------|----------------|----------------|
+| Particulars                                                                      | As at          | As at          |
+|                                                                                  | March 31, 2026 | March 31, 2025 |
+| Non-current                                                                      |                |                |
+| Others                                                                           |                |                |
+| Compensated absences                                                             | 105            | 90             |
+| Accrued compensation to employees (1)                                            | 3              | 5              |
+| Accrued expenses (1)                                                             | 1,709          | 1,876          |
+| Payable for acquisition of business - Contingent consideration (2)               | -              | 20             |
+| Other payables (1)                                                               | 63             | -              |
+| Total non-current other financial liabilities                                    | 1,880          | 1,991          |
+| Current                                                                          |                |                |
+| Unpaid dividends (1)                                                             | 45             | 45             |
+| Others                                                                           |                |                |
+| Accrued compensation to employees (1)                                            | 4,365          | 3,781          |
+| Accrued expenses (1)(4)                                                          | 7,423          | 6,210          |
+| Capital creditors (1)                                                            | 254            | 470            |
+| Compensated absences                                                             | 2,714          | 2,322          |
+| Payable for acquisition of business - Contingent consideration (2)               | 20             | 11             |
+| Other payables (1)(5)                                                            | 1,444          | 1,206          |
+| Foreign currency forward and options contracts (2)(3)                            | 547            | 56             |
+| Total current other financial liabilities                                        | 16,812         | 14,101         |
+| Total other financial liabilities                                                | 18,692         | 16,092         |
+| (1) Financial liability carried at amortized cost                                | 15,306         | 13,593         |
+| (2) Financial liability carried at fair value through profit or loss             | 512            | 54             |
+| (3) Financial liability carried at fair value through other comprehensive income | 55             | 33             |
+| (4) Includes dues to subsidiaries                                                | 60             | 56             |
+| (5) Includes dues to subsidiaries                                                | 1,232          | 669            |
+| Financial liability towards contingent consideration on an undiscounted basis    | 20             | 33             |
 
-## 2.18.1 Impact of Labour Codes
-On November 21, 2025, the Government of India notified provisions of the Code on Wages, 2019, the Industrial Relations Code, 2020, the Code on Social Security, 2020 and the Occupational Safety, Health and Working Conditions Code, 2020, ('Labour Codes') which consolidate twenty-nine existing labour laws into a unified framework governing employee benefits during employment and post-employment. The Labour Codes, amongst other things introduces changes, including a uniform definition of wages and enhanced benefits relating to leave. The Group has assessed the financial implications of these changes which has resulted in increase in gratuity liability arising out of past service cost and increase in leave liability by ₹1,289 crore. Considering the impact arising out of an enactment of the new legislation is an event of non-recurring nature, the Group has presented this incremental amount as 'Impact of Labour Codes' under 'Exceptional Item' in the Condensed Consolidated Statement of Profit and Loss for the year ended March 31, 2026. The Group continues to monitor the developments pertaining to Labour Codes and will evaluate impact if any on the measurement of the employee benefits liability.
-## 2.19 Leases
-## The Group as a lessee
-The Group's lease asset classes primarily consist of leases for land, buildings and computers. The Group assesses whether a contract contains a lease, at inception of a contract. A contract is, or contains, a lease if the contract conveys the right to control the use of an identified asset for a period of time in exchange for consideration. To assess whether a contract conveys the right to control the use of an identified asset, the group assesses whether: (1) the contract involves the use of an identified asset (2) the Group has substantially all of the economic benefits from use of the asset through the period of the lease and (3) the Group has the right to direct the use of the asset.
-At the date of commencement of the lease, the Group recognizes a right-of-use asset ('ROU') and a corresponding lease liability for all lease arrangements in which it is a lessee, except for leases with a term of twelve months or less (short-term leases) and low value leases. For these short-term and low value leases, the Group recognizes the lease payments as an operating expense on a straight-line basis over the term of the lease.
-As a lessee, the Group determines the lease term as the non-cancellable period of a lease adjusted with any option to extend or terminate the lease, if the use of such option is reasonably certain. The Group makes an assessment on the expected lease term on a lease-by-lease basis and thereby assesses whether it is reasonably certain that any options to extend or terminate the contract will be exercised. In evaluating the lease term, the Group considers factors such as any significant leasehold improvements undertaken over the lease term, costs relating to the termination of the lease and the importance of the underlying asset to Group's operations taking into account the location of the underlying asset and the availability of suitable alternatives. The lease term in future periods is reassessed to ensure that the lease term reflects the current economic circumstances.
-Certain lease arrangements includes the options to extend or terminate the lease before the end of the lease term. ROU assets and lease liabilities includes these options when it is reasonably certain that they will be exercised.
-The right-of-use assets are initially recognized at cost, which comprises the initial amount of the lease liability adjusted for any lease payments made at or prior to the commencement date of the lease plus any initial direct costs less any lease incentives. They are subsequently measured at cost less accumulated depreciation and impairment losses.
-Right-of-use assets are depreciated from the commencement date on a straight-line basis over the shorter of the lease term and useful life of the underlying asset.
-Right-of-use assets are evaluated for recoverability whenever events or changes in circumstances indicate that their carrying amounts may not be recoverable. For the purpose of impairment testing, the recoverable amount (i.e. the higher of the fair value less cost to sell and the value-in-use) is determined on an individual asset basis unless the asset does not generate cash flows that are largely independent of those from other assets. In such cases, the recoverable amount is determined for the Cash Generating Unit (CGU) to which the asset belongs.
-The lease liability is initially measured at amortized cost at the present value of the future lease payments. The lease payments are discounted using the interest rate implicit in the lease or, if not readily determinable, using the incremental borrowing rates in the country of domicile of these leases. Lease liabilities are remeasured with a corresponding adjustment to the related right-of-use asset if the Group changes its assessment if whether it will exercise an extension or a termination option.
-Lease liability and ROU asset have been separately presented in the Balance Sheet and lease payments have been classified as financing cash flows.
-## The Group as a lessor
-Leases for which the Group is a lessor is classified as a finance or operating lease. Whenever the terms of the lease transfer substantially all the risks and rewards of ownership to the lessee, the contract is classified as a finance lease. All other leases are classified as operating leases.
-When the Group is an intermediate lessor, it accounts for its interests in the head lease and the sublease separately. The sublease is classified as a finance or operating lease by reference to the right-of-use asset arising from the head lease.
-For finance lease, finance income is recognised over the lease term based on a pattern reflecting a constant periodic rate of return on the lessor's net investment in the lease and for operating leases, rental income is recognized on a straight line basis over the term of the relevant lease.
-Following are the changes in the carrying value of right-of-use assets for the three months ended March 31, 2026:
-|                               |                       |                       |                       |                       | (In ₹ crore)   |
-|-------------------------------|-----------------------|-----------------------|-----------------------|-----------------------|----------------|
-| Particulars                   | Category of ROU asset | Category of ROU asset | Category of ROU asset | Category of ROU asset |                |
-|                               | Land                  | Buildings             | Vehicles              | Computers             | Total          |
-| Balance as at January 1, 2026 | 548                   | 3,270                 | 24                    | 2,273                 | 6,115          |
-| Additions *                   | -                     | 161                   | 5                     | 677                   | 843            |
-| Deletions                     | -                     | (18)                  | (1)                   | (383)                 | (402)          |
-| Depreciation                  | (1)                   | (186)                 | (4)                   | (281)                 | (472)          |
-| Translation difference        | 3                     | 23                    | 2                     | 65                    | 93             |
-| Balance as at March 31, 2026  | 550                   | 3,250                 | 26                    | 2,351                 | 6,177          |
+Accrued expenses primarily relate to cost of technical sub-contractors, telecommunication charges, legal and professional charges, brand building expenses, overseas travel expenses, office maintenance and cost of third party software and hardware.
+## 2.14 TRADE PAYABLES
+|                                                                                      | (In ₹ crore)   | (In ₹ crore)   |
+|--------------------------------------------------------------------------------------|----------------|----------------|
+| Particulars                                                                          | As at          | As at          |
+|                                                                                      | March 31, 2026 | March 31, 2025 |
+| Outstanding dues of micro enterprises and small enterprises (MSME)                   | 9              | 8              |
+| Outstanding dues of creditors other than micro enterprises and small enterprises (1) | 3,530          | 2,720          |
+| Total trade payables                                                                 | 3,539          | 2,728          |
+| (1) Includes dues to subsidiaries                                                    | 1,079          | 900            |
 
-* Net of adjustments on account of modifications.
+The information as required to be disclosed pursuant under the Micro, Small and Medium Enterprises Development Act, 2006 (MSMED Act, 2006) has been determined to the extent such parties have been identified on the basis of information available with the Company Trade payables ageing schedule for the year ended as on March 31, 2026 and March 31, 2025:
+| Particulars                                                                                                                                                                                                                                                | As at          | As at          |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|----------------|
+|                                                                                                                                                                                                                                                            | March 31, 2026 | March 31, 2025 |
+| Amount remaining unpaid :                                                                                                                                                                                                                                  |                |                |
+| Principal                                                                                                                                                                                                                                                  | 9              | 8              |
+| Interest                                                                                                                                                                                                                                                   | -              | -              |
+| Interest paid by the Company under MSMED Act, 2006 along with the amounts of the payment made to the supplier beyond the appointed day                                                                                                                     | 19             | 9              |
+| Interest due and payable for the period of delay in making payment (which has been paid but beyond the appointed day during the year) but without adding the interest specified under the MSMED Act, 2006);                                                | -              | -              |
+| Interest accrued and remaining unpaid at the end of the year                                                                                                                                                                                               | -              | -              |
+| Interest remaining due and payable (pertaining to prior years), until such date when the interest dues as above are actually paid to the small enterprise, for the purpose of disallowance as a deductible expenditure under section 23 of MSMED Act 2006. | -              | -              |
 
-Following are the changes in the carrying value of right-of-use assets for the three months ended March 31, 2025:
-|                               |                       |                       |                       |                       | (In ₹ crore)   |
-|-------------------------------|-----------------------|-----------------------|-----------------------|-----------------------|----------------|
-| Particulars                   | Category of ROU asset | Category of ROU asset | Category of ROU asset | Category of ROU asset |                |
-|                               | Land                  | Buildings             | Vehicles              | Computers             | Total          |
-| Balance as of January 1, 2025 | 601                   | 3,339                 | 24                    | 2,381                 | 6,345          |
-| Additions *                   | -                     | 284                   | 2                     | 370                   | 656            |
-| Deletions                     | -                     | (104)                 | -                     | (192)                 | (296)          |
-| Depreciation                  | (1)                   | (180)                 | (3)                   | (223)                 | (407)          |
-| Translation difference        | -                     | 9                     | 1                     | 3                     | 13             |
-| Balance as of March 31, 2025  | 600                   | 3,348                 | 24                    | 2,339                 | 6,311          |
+|                          |         |                                                            |                                                            |                                                            |                                                            | (In ₹ crore)                                               |
+|--------------------------|---------|------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|
+| Particulars              |         | Outstanding for following periods from due date of payment | Outstanding for following periods from due date of payment | Outstanding for following periods from due date of payment | Outstanding for following periods from due date of payment | Outstanding for following periods from due date of payment |
+|                          | Not Due | Less than 1 year                                           | 1-2 years                                                  | 2-3 years                                                  | More than 3 years                                          | Total                                                      |
+| Outstanding dues to MSME | 9       | -                                                          | -                                                          | -                                                          | -                                                          | 9                                                          |
+|                          | 8       | -                                                          | -                                                          | -                                                          | -                                                          | 8                                                          |
+| Others                   | 3,429   | 101                                                        | -                                                          | -                                                          | -                                                          | 3,530                                                      |
+|                          | 1,557   | 1,163                                                      | -                                                          | -                                                          | -                                                          | 2,720                                                      |
+| Total trade payables     | 3,438   | 101                                                        | -                                                          | -                                                          | -                                                          | 3,539                                                      |
+|                          | 1,565   | 1,163                                                      | -                                                          | -                                                          | -                                                          | 2,728                                                      |
 
-Net of adjustments on account of modifications
-*
-Following are the changes in the carrying value of right-of-use assets for the year ended March 31, 2026:
-|                              |                       |                       |                       |                       | (In ₹ crore)   |
-|------------------------------|-----------------------|-----------------------|-----------------------|-----------------------|----------------|
-| Particulars                  | Category of ROU asset | Category of ROU asset | Category of ROU asset | Category of ROU asset |                |
-|                              | Land                  | Buildings             | Vehicles              | Computers             | Total          |
-| Balance as of April 1, 2025  | 600                   | 3,348                 | 24                    | 2,339                 | 6,311          |
-| Additions *                  | -                     | 585                   | 12                    | 1,940                 | 2,537          |
-| Deletions                    | (54)                  | (50)                  | (3)                   | (1,072)               | (1,179)        |
-| Depreciation                 | (6)                   | (748)                 | (12)                  | (1,124)               | (1,890)        |
-| Translation difference       | 10                    | 115                   | 5                     | 268                   | 398            |
-| Balance as of March 31, 2026 | 550                   | 3,250                 | 26                    | 2,351                 | 6,177          |
+## Relationship with struck off companies
+There are no transactions with struck off companies for the year ending March 31, 2026 and March 31,2025.
+## 2.15 OTHER LIABILITIES
+| Particulars                           | March 31, 2026   | March 31, 2025   |
+|---------------------------------------|------------------|------------------|
+| Non-current                           |                  |                  |
+| Others                                |                  |                  |
+| Accrued defined benefit liability     | 464              | 74               |
+| Others                                | 31               | 21               |
+| Total non - current other liabilities | 495              | 95               |
+| Current                               |                  |                  |
+| Unearned revenue                      | 9,493            | 6,713            |
+| Others                                |                  |                  |
+| Withholding taxes and others          | 2,972            | 2,433            |
+| Accrued defined benefit liability     | 3                | 3                |
+| Others                                | 10               | 10               |
+| Total current other liabilities       | 12,478           | 9,159            |
+| Total other liabilities               | 12,973           | 9,254            |
 
-Net of adjustments on account of modifications.
-*
-Following are the changes in the carrying value of right-of-use assets for the year ended March 31, 2025:
-|                                                          |                       |                       |                       |                       | (In ₹ crore)   |
-|----------------------------------------------------------|-----------------------|-----------------------|-----------------------|-----------------------|----------------|
-| Particulars                                              | Category of ROU asset | Category of ROU asset | Category of ROU asset | Category of ROU asset |                |
-|                                                          | Land                  | Buildings             | Vehicles              | Computers             | Total          |
-| Balance as of April 1, 2024                              | 605                   | 3,298                 | 17                    | 2,632                 | 6,552          |
-| Additions *                                              | -                     | 816                   | 13                    | 1,306                 | 2,135          |
-| Addition due to Business Combination (Refer to Note 2.1) | -                     | 155                   | 5                     | -                     | 160            |
-| Deletions                                                | -                     | (236)                 | (6)                   | (652)                 | (894)          |
-| Depreciation                                             | (6)                   | (714)                 | (11)                  | (965)                 | (1,696)        |
-| Translation difference                                   | 1                     | 29                    | 6                     | 18                    | 54             |
-| Balance as of March 31, 2025                             | 600                   | 3,348                 | 24                    | 2,339                 | 6,311          |
+## 2.16 PROVISIONS
+## Accounting Policy
+A provision is recognized if, as a result of a past event, the Company has a present legal or constructive obligation that is reasonably estimable, and it is probable that an outflow of economic benefits will be required to settle the obligation. Provisions are determined by discounting the expected future cash flows at a pre-tax rate that reflects current market assessments of the time value of money and the risks specific to the liability. The Company recognizes a reimbursement asset when, and only when, it is virtually certain that the reimbursement will be received if the Company settles the obligation.
+## a. Post-sales client support
+The Company provides its clients with a fixed-period post sales support on its fixed-price, fixed-timeframe contracts. Costs associated with such support services are accrued at the time related revenues are recorded and included in the Statement of Profit and Loss. The Company estimates such costs based on historical experience and estimates are reviewed on a periodic basis for any material changes in assumptions and likelihood of occurrence.
+## b. Onerous contracts
+Provisions for onerous contracts are recognized when the expected benefits to be derived by the Company from a contract are lower than the unavoidable costs of meeting the future obligations under the contract. Provisions for estimated losses, if any, on incomplete contracts are recorded in the period in which such losses become probable based on the estimated efforts or costs to complete the contract. The provision is measured at the present value of the lower of the expected cost of terminating the contract and the expected net cost of continuing with the contract. Before a provision is established, the Company recognizes any impairment loss on the assets associated with that contract.
+## Provision for post-sales client support and other provisions
+|                                                                             | (In ₹ crore)   | (In ₹ crore)   |
+|-----------------------------------------------------------------------------|----------------|----------------|
+| Particulars                                                                 | As at          | As at          |
+|                                                                             | March 31, 2026 | March 31, 2025 |
+| Current                                                                     |                |                |
+| Others                                                                      |                |                |
+| Post-sales client support and other provisions                              | 1,064          | 993            |
+| Total provisions                                                            | 1,064          | 993            |
+| The movement in the provision for post-sales client support is as follows : |                | (In ₹ crore)   |
+| Particulars                                                                 | Year ended     | Year ended     |
+|                                                                             | March 31, 2026 | March 31, 2025 |
+| Balance at the beginning                                                    | 993            | 1,464          |
+| Provision recognized/(reversed)                                             | 310            | 119            |
+| Provision utilized                                                          | (344)          | (618)          |
+| Translation difference                                                      | 105            | 28             |
+| Balance at the end                                                          | 1,064          | 993            |
 
-* Net of adjustments on account of modifications
+Provision for post sales client support majorly represents costs associated with providing post sales support services which are accrued at the time of recognition of revenues and are expected to be utilized over a period of 1 year.
+## 2.17 INCOME TAXES
+## Accounting Policy
+Income tax expense comprises current and deferred income tax. Income tax expense is recognized in net profit in the Statement of Profit and Loss except to the extent that it relates to items recognized directly in equity, in which case it is recognized in equity or other comprehensive income. Current income tax for current and prior periods is recognized at the amount expected to be paid to or recovered from the tax authorities, using the tax rates and tax laws that have been enacted or substantively enacted by the Balance Sheet date. Deferred income tax assets and liabilities are recognized for all temporary differences arising between the tax bases of assets and liabilities and their carrying amounts in the financial statements. Deferred tax assets are reviewed at each reporting date and are reduced to the extent that it is no longer probable that the related tax benefit will be realized.
+Deferred income tax assets and liabilities are measured using tax rates and tax laws that have been enacted or substantively enacted by the Balance Sheet date and are expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled. The effect of changes in tax rates on deferred income tax assets and liabilities is recognized as income or expense in the period that includes the enactment or the substantive enactment date. A deferred income tax asset is recognized to the extent that it is probable that future taxable profit will be available against which the deductible temporary differences and tax losses can be utilized. Deferred income taxes are not provided on the undistributed earnings of subsidiaries and branches where it is expected that the earnings of the subsidiary or branch will not be distributed in the foreseeable future.
+The Company offsets current tax assets and current tax liabilities; deferred tax assets and deferred tax liabilities, where it has a legally enforceable right to set off the recognized amounts and where it intends either to settle on a net basis, or to realize the asset and settle the liability simultaneously. The income tax provision for the interim period is made based on the best estimate of the annual average tax rate expected to be applicable for the full financial year. Tax benefits of deductions earned on exercise of employee share options in excess of compensation charged to income are credited to equity.
+Income tax expense in the statement of Profit and Loss comprises:
+| Particulars        | (In ₹ crore) Year ended March 31,   | (In ₹ crore) Year ended March 31,   |
+|--------------------|-------------------------------------|-------------------------------------|
+|                    | 2026                                | 2025                                |
+| Current taxes      | 10,459                              | 10,836                              |
+| Deferred taxes     | (913)                               | (963)                               |
+| Income tax expense | 9,546                               | 9,873                               |
 
-The aggregate depreciation expense on ROU assets is included under depreciation and amortization expense in the interim condensed Consolidated Statement of Profit and Loss.
-The following is the break-up of current and non-current lease liabilities as at March 31, 2026 and March 31, 2025:
-|                               | As at          | As at          |
-|-------------------------------|----------------|----------------|
-|                               | March 31, 2026 | March 31, 2025 |
-| Current lease liabilities     | 3,160          | 2,455          |
-| Non-current lease liabilities | 6,016          | 5,772          |
-| Total                         | 9,176          | 8,227          |
+A reconciliation of the income tax provision to the amount computed by applying the statutory income tax rate to the income before income taxes is summarized below:
+|                                       | (In ₹ crore)          | (In ₹ crore)   |
+|---------------------------------------|-----------------------|----------------|
+| Particulars                           | 2026 Year ended March | 2025           |
+| Profit before income taxes            | 38,757                | 35,441         |
+| Enacted tax rates in India            | 25.17%                | 25.17%         |
+| Computed expected tax expense         | 9,754                 | 8,920          |
+| Overseas taxes                        | 1,080                 | 1,064          |
+| Tax provision (reversals)             | (779)                 | 97             |
+| Effect of exempt non-operating income | (687)                 | (413)          |
+| Effect of non-deductible expenses     | 254                   | 168            |
+| Others                                | (76)                  | 37             |
+| Income tax expense                    | 9,546                 | 9,873          |
 
-## 2.20 EARNINGS PER EQUITY SHARE
-X
-1
-7
-A
-O
-## Accounting policy
-Basic earnings per equity share is computed by dividing the net profit attributable to the equity holders of the Group by the weighted average number of equity shares outstanding during the period. Diluted earnings per equity share is computed by dividing the net profit attributable to the equity holders of the Group by the weighted average number of equity shares considered for deriving basic earnings per equity share and also the weighted average number of equity shares that could have been issued upon conversion of all dilutive potential equity shares. The dilutive potential equity shares are adjusted for the proceeds receivable had the equity shares been actually issued at fair value (i.e. the average market value of the outstanding equity shares). Dilutive potential equity shares are deemed converted as at the beginning of the period, unless issued at a later date. Dilutive potential equity shares are determined independently for each period presented.
-The number of equity shares and potentially dilutive equity shares are adjusted retrospectively for all periods presented for any share splits and bonus shares issues including for changes effected prior to the approval of the financial statements by the Board of Directors.
-## 2.21 CONTINGENT LIABILITIES AND COMMITMENTS
-## Accounting policy
-Contingent liability is a possible obligation arising from past events and whose existence will be confirmed only by the occurrence or non-occurrence of one or more uncertain future events not wholly within the control of the entity or a present obligation that arises from past events but is not recognized because it is not probable that an outflow of resources embodying economic benefits will be required to settle the obligation or the amount of the obligation cannot be measured with sufficient reliability.
-## 2.21.1 Contingent liability
-| Particulars                                                          | As at   | (In ₹ crore)   |
-|----------------------------------------------------------------------|---------|----------------|
-| Contingent liabilities                                               |         | March 31, 2025 |
-| :                                                                    |         |                |
-| Claims against the Group, not acknowledged as debts (1)              | 3,117   | 2,953          |
-| [Amount paid to statutory authorities ₹ 2,621 crore (₹4,207 crore) ] |         |                |
+The applicable Indian corporate statutory tax rate for the year ended March 31, 2026 is 25.17% and for the year ended March 31, 2025 is 25.17%.
+Income tax expense for the year ended March 31, 2026 and March 31, 2025 includes reversal (net of provisions) of ₹779 crore and provisions (net of reversals) of ₹97 crore, respectively. These provisions and reversals pertaining to prior periods are primarily on account of adjudication of certain disputed matters, upon filing of tax return and completion of assessments, across various jurisdictions.
+During the year ended March 31, 2026, the Company received orders under section 250 and Section 254 of the Income Tax Act, 1961, from the Income Tax Authorities in India for the assessment years, 2013-14 and assessment years 2017-18 to 2021-22. These orders confirmed the Company's position with respect to tax treatment of certain matters. As a result interest income (pre-tax) of ₹381 crore was recognized and provision for income tax aggregating ₹869 crore was reversed with a corresponding credit to the Statement of Profit and Loss. Also, upon resolution of the disputes, an amount aggregating to ₹86 crore has been reduced from contingent liabilities.
+During the quarter ended March 31, 2025, the Company received orders under section 250 of the Income Tax Act, 1961, from the Income Tax Authorities in India for the assessment years, 2016-17 and 2019-20. These orders confirmed the Company's position with respect to tax treatment of certain matters. As a result interest income (pre-tax) of ₹327 crore was recognised and provision for income tax aggregating ₹183 crore was reversed with a corresponding credit to the Statement of Profit and Loss. Also, upon resolution of the disputes, an amount aggregating to ₹1,068 crore has been reduced from contingent liabilities.
+The foreign tax expense is due to income taxes payable overseas, principally in the United States.
+In India, the Company has benefited from certain income tax incentives that the Government of India had provided for export of software and services from the units registered under the Special Economic Zones Act (SEZs), 2005 in the prior years. SEZ units which began the provision of services on or after April 1, 2005 are eligible for a deduction of 100% of profits or gains derived from the export of services for the first five years from the financial year in which the unit commenced the provision of services and 50% of such profits or gains for further five years. Up to 50% of such profits or gains is also available for a further five years subject to creation of a Special Economic Zone re-investment Reserve out of the profit for the eligible SEZ units and utilization of such reserve by the Company for acquiring new plant and machinery for the purpose of its business as per the provisions of the Income Tax Act, 1961. (Refer to Special Economic Zone Re-investment reserve under Note 2.12 Equity).
+Deferred income tax for the year ended March 31, 2026 and March 31, 2025 substantially relates to origination and reversal of temporary differences.
+Infosys is subject to a 15% Branch Profit Tax (BPT) in the U.S. to the extent its U.S. branch's net profit during the year is greater than the increase in the net assets of the U.S. branch during the year, computed in accordance with the Internal Revenue Code. As at March 31, 2026, Infosys' U.S. branch net assets amounted to approximately ₹7,736 crore. As at March 31, 2026, the Company has a deferred tax liability for branch profit tax of ₹207 crore (net of credits), as the Company estimates that these branch profits are expected to be distributed in the foreseeable future.
+Deferred income tax liabilities have not been recognized on temporary differences amounting to ₹19,270 crore and ₹16,593 crore as at March 31, 2026 and March 31, 2025, respectively, associated with investments in subsidiaries and branches as the Company is able to control the timing of reversal of the temporary difference and it is probable that the temporary differences will not reverse in the foreseeable future. The Company majorly intends to repatriate earnings from subsidiaries and branches only to the extent these can be distributed in a tax free manner.
+Deferred income tax assets have not been recognized on accumulated losses of ₹1,310 crore and ₹1,466 crore as at March 31, 2026 and March 31, 2025, respectively as it is probable that future taxable profit will not be available against which the unused tax losses can be utilized in the foreseeable future. Majority of the accumulated losses as at March 31, 2026 will expire between financial years 2028 to 2033.
+The following table provides details of income tax assets and income tax liabilities as at March 31, 2026 and March 31, 2025:
+|                                                        | (In ₹ crore)   | (In ₹ crore)   |
+|--------------------------------------------------------|----------------|----------------|
+| Particulars                                            | As at          | As at          |
+|                                                        | March 31, 2026 | March 31, 2025 |
+| Income tax assets                                      | 1,844          | 4,113          |
+| Current income tax liabilities                         | 4,810          | 4,016          |
+| Net current income tax assets/(liabilities) at the end | (2,966)        | 97             |
 
-(1) As at March 31, 2026 and March 31, 2025, claims against the Group not acknowledged as debts in respect of income tax matters amounted to ₹ 1,964 crore and ₹1,933 crore, respectively.
-The claims against the Group primarily represent demands arising on completion of assessment proceedings under the Income Tax Act, 1961. These claims are on account of issues of disallowance of expenditure towards software being held as capital in nature, payments made to Associated Enterprises held as liable for withholding of taxes, among others. These matters are pending before various Income Tax Authorities and the Management including its tax advisors expect that its position will likely be upheld on ultimate resolution and will not have a material adverse effect on the Group's financial position and results of operations.
-Amount paid to statutory authorities against the tax claims amounted to ₹2,594 crore and ₹4,199 crore as at March 31, 2026 and March 31, 2025, respectively.
-## 2.21.2 Legal Proceedings
-## McCamish Cybersecurity incident
-In November 2023, certain systems of Infosys McCamish Systems LLC ('McCamish'), a subsidiary of Infosys BPM Limited (a wholly owned subsidiary of Infosys Limited), were encrypted by ransomware, resulting in the non-availability of certain applications and systems. McCamish initiated its incident response and engaged cybersecurity and other specialists to assist in its investigation of and response to the incident and remediation and restoration of impacted applications and systems. By December 31, 2023, McCamish, with external specialists' assistance, substantially remediated and restored the affected applications and systems. McCamish in coordination with its third-party eDiscovery vendor has identified corporate customers and individuals whose information was subject to unauthorized access and exfiltration. McCamish processes personal data on behalf of its corporate customers.
-From March 6, 2024 through July 25, 2024, six actions were filed in the U.S. District Court for the Northern District of Georgia against McCamish. The actions arise out of the cybersecurity incident at McCamish initially disclosed on November 3, 2023. All six actions have since been consolidated, and the consolidated class action complaint was filed on November 7, 2024, purportedly on behalf of all persons residing in the United States whose personally identifiable information was compromised in the incident, including all who were sent a notice of the incident. On March 13, 2025, McCamish and the plaintiffs engaged in mediation, resulting in an in-principle agreement that sets forth the terms of a proposed settlement of the class action lawsuits against McCamish, as well as seven class action lawsuits arising out of the incident that have been filed against McCamish's customers. Under the settlement terms, McCamish agreed to pay $17.5 million (approximately ₹150 crore) into a fund to settle these matters. McCamish had accrued for the settlement amount along with the insurance reimbursement receivable during the quarter ended March 31, 2025. On December 18, 2025, the Court granted final approval of the class action lawsuit settlement. The settlement amount has since been paid. The settlement has become effective and resolves all allegations made in the class action lawsuits filed against Infosys and certain of its customers without admission of any liability.
-McCamish may incur additional costs including from indemnities or damages/claims, which are indeterminable at this time.
-## Government Investigation
-The U.S. Department of Justice ('DOJ') is conducting an investigation regarding how the Company classified certain H-1B visa-recipient employees working for one of its clients in immigration documents filed with certain U.S. government authorities. The Company is engaged in discussions with the DOJ regarding its ongoing investigation and continues its own inquiry regarding the matter. At this stage, the Company is unable to predict the outcome of this matter, including whether such outcome could have a material adverse effect on the Company's business and results of operations.
-## Others
-Apart from the foregoing, the Group is subject to legal proceedings and claims which have arisen in the ordinary course of business. The Group's management reasonably expects that such ordinary course legal actions, when ultimately concluded and determined, will not have a material and adverse effect on the Group's results of operations or financial condition.
-## 2.21.3 Commitments
-| Particulars                                                                                                                         | As at   |   March 31, 2025 |
-|-------------------------------------------------------------------------------------------------------------------------------------|---------|------------------|
-| Estimated amount of contracts remaining to be executed on capital contracts and not provided for (net of advances and deposits) (1) | 1,341   |              935 |
-| Other commitments*                                                                                                                  | 93      |              122 |
+The gross movement in the current income tax assets/ (liabilities) for the year ended March 31, 2026 and March 31, 2025 is as follows:
+|                                                              | (In ₹ crore)   | (In ₹ crore)   |
+|--------------------------------------------------------------|----------------|----------------|
+| Particulars                                                  | 31, 2026 As at | March 31, 2025 |
+| Net current income tax assets/(liabilities) at the beginning | 97             | 5,950          |
+| Income tax paid *                                            | 7,172          | 4,601          |
+| Interest income on income tax refund                         | 381            | 327            |
+| Current income tax expense                                   | (10,459)       | (10,836)       |
+| Income tax benefit arising on exercise of stock options      | 44             | 39             |
+| Tax impact on buyback expenses                               | 15             | -              |
+| Income tax on other comprehensive income                     | (3)            | 13             |
+| Transfer on account of liquidation of subsidiary             | -              | 3              |
+| Translation differences                                      | (213)          | -              |
+| Net current income tax assets/ (liabilities) at the end      | (2,966)        | 97             |
 
-(1) Capital contracts primarily comprises of commitments for infrastructure facilities and computer equipment.
-* Uncalled capital pertaining to investments
+* net of refund The movement in gross deferred income tax assets and liabilities (before set off) for the year ended March 31, 2026 is as follows:
 
-X
-1
-8
-A
-O
-## 2.22  RELATED PARTY TRANSACTIONS
-Refer Note 2.20 "Related party transactions" in the Company's 2026 Annual Report for the full names and other details of the Company's subsidiaries and controlled trusts.
-## Changes in Subsidiaries
-During the year ended March 31, 2026, the following are the changes in the subsidiaries:
-- . Infosys Energy Consulting Services LLC , a wholly-owned subsidiary of Infosys Nova Holdings LLC was incorporated on April 16, 2025.
-- . Infosys Saudi Arabia LLC, a wholly-owned subsidiary of Infosys Limited was incorporated on April 21, 2025.
-- . Infosys Australia Technology Service Pty Ltd, a wholly-owned subsidiary of Infosys Singapore Pte. Limited was incorporated on April 23, 2025.
-- . On April 30, 2025, Infosys Nova Holdings LLC , a wholly owned subsidiary of Infosys Limited, acquired 98.21% of voting interests in MRE Consulting Ltd along with its subsidiary MRE Technology Services, LLC. The remaining 1.79% was acquired by Infosys Energy Consulting Services LLC , a Wholly-owned subsidiary of Infosys Nova Holdings LLC.
-- . On April 30, 2025, Infosys Australia Technology Service Pty Ltd, a wholly owned subsidiary of Infosys Singapore Pte. Limited, acquired 100% of voting interests in The Missing Link Automation Pty Ltd, The Missing Link Network Integration Pty Ltd and The Missing Link Security Pty Ltd along with its subsidiary The Missing Link Security Ltd.
-- . in-tech Automotive Engineering de. R L de. C V, a wholly-owned subsidiary of in-tech GmbH has been liquidated effective May 07, 2025.
-- . On May 13, 2025,  Infosys Singapore Pte Ltd diluted 2% stake of HIPUS Co., Ltd to Mitsubishi Heavy Industries, Ltd.
-- . Infosys BPM Canada Inc, a Wholly-owned subsidiary of Infosys BPM UK Limited was incorporated on July 28, 2025
-- . Infosys Germany Gmbh, a Wholly-owned subsidiary of Infosys Singapore Pte Ltd merged into Infosys Germany SE (formerly known as Blitz 24-893 SE) effective September 24, 2025
-- . in-tech Engineering services S.R.L, (Wholly-owned subsidiary of  in-tech GmbH) merged into ProIT (Wholly-owned subsidiary of  in-tech GmbH) effective November 30, 2025
-- . Infosys Consulting S.R.L. (Argentina) (formerly a majority owned and controlled subsidiary of Infosys Limited) became the majority owned and controlled subsidiary of Infosys Nova Holdings LLC with effect from January 28, 2026
-- . Infosys Enterprise Business Services Pty Ltd , a wholly-owned subsidiary of Infosys Singapore Pte Ltd was incorporated on March 19, 2026.
+| Particulars                                    | Carrying value as of April 1, 2025   | Changes through profit and loss   | Changes through OCI   | Translation difference   | (In ₹ crore) Carrying value as of March 31, 2026   |
+|------------------------------------------------|--------------------------------------|-----------------------------------|-----------------------|--------------------------|----------------------------------------------------|
+| Deferred income tax assets/(liabilities)       |                                      |                                   |                       |                          |                                                    |
+| Property, plant and equipment                  | 296                                  | (62)                              | -                     | -                        | 234                                                |
+| Lease liabilities                              | 120                                  | 87                                | -                     | -                        | 207                                                |
+| Trade receivables                              | 176                                  | 5                                 | -                     | -                        | 181                                                |
+| Compensated absences                           | 607                                  | 102                               | -                     | -                        | 709                                                |
+| Post sales client support                      | 33                                   | (13)                              | -                     | -                        | 20                                                 |
+| Derivative financial instruments               | (24)                                 | 148                               | 1                     | -                        | 125                                                |
+| Credits related to branch profits              | 791                                  | (59)                              | -                     | 51                       | 783                                                |
+| Intangibles through business transfer          | -                                    | (1)                               | -                     | -                        | (1)                                                |
+| Branch profit tax                              | (1,062)                              | 146                               | -                     | (74)                     | (990)                                              |
+| SEZ reinvestment reserve                       | (1,385)                              | 495                               | -                     | -                        | (890)                                              |
+| Interest receivable on income tax refund       | (71)                                 | 66                                | -                     | -                        | (5)                                                |
+| Others                                         | (46)                                 | (1)                               | 31                    | -                        | (16)                                               |
+| Total deferred income tax assets/(liabilities) | (565)                                | 913                               | 32                    | (23)                     | 357                                                |
 
-## Transaction with key management personnel:
-The table below describes the compensation to key management personnel which comprise directors and executive officers:
-|                                                                                                       |   Three months ended |   Three months ended |   (In ₹ crore) |   (In ₹ crore) |
-|-------------------------------------------------------------------------------------------------------|----------------------|----------------------|----------------|----------------|
-|                                                                                                       |                 2026 |                 2025 |           2026 |           2025 |
-| Salaries and other short term employee benefits to whole-time directors and executive officers (1)(2) |                   35 |                   33 |            124 |            118 |
-| Commission and other benefits to non-executive/independent directors                                  |                    5 |                    5 |             20 |             19 |
-| Total                                                                                                 |                   40 |                   38 |            144 |            137 |
+The movement in gross deferred income tax assets and liabilities (before set off) for the year ended March 31, 2025 is as follows:
+| Particulars                                    | Carrying value as of April 1, 2024   | Changes through profit and loss   | Changes through OCI   | Translation difference   | (In ₹ crore) Carrying value as of March 31, 2025   |
+|------------------------------------------------|--------------------------------------|-----------------------------------|-----------------------|--------------------------|----------------------------------------------------|
+| Deferred income tax assets/(liabilities)       |                                      |                                   |                       |                          |                                                    |
+| Property, plant and equipment                  | 280                                  | 15                                | -                     | 1                        | 296                                                |
+| Lease liabilities                              | 173                                  | (53)                              | -                     | -                        | 120                                                |
+| Trade receivables                              | 181                                  | (5)                               | -                     | -                        | 176                                                |
+| Compensated absences                           | 542                                  | 65                                | -                     | -                        | 607                                                |
+| Post sales client support                      | 19                                   | 14                                | -                     | -                        | 33                                                 |
+| Derivative financial instruments               | (11)                                 | (21)                              | 8                     | -                        | (24)                                               |
+| Credits related to branch profits              | 811                                  | (37)                              | -                     | 17                       | 791                                                |
+| Intangibles through business transfer          | 1                                    | (1)                               | -                     | -                        | -                                                  |
+| Branch profit tax                              | (1,080)                              | 41                                | -                     | (23)                     | (1,062)                                            |
+| SEZ reinvestment reserve                       | (1,939)                              | 554                               | -                     | -                        | (1,385)                                            |
+| Interest receivable on income tax refund       | (487)                                | 416                               | -                     | -                        | (71)                                               |
+| Others                                         | 1                                    | (25)                              | (21)                  | (1)                      | (46)                                               |
+| Total deferred income tax assets/(liabilities) | (1,509)                              | 963                               | (13)                  | (6)                      | (565)                                              |
 
-(1) Total employee stock compensation expense for the three months ended March 31, 2026 and March 31, 2025 includes a charge of ₹18 crore and ₹18 crore, respectively, towards key management personnel. For the year ended March 31, 2026 and March 31, 2025 includes a charge of ₹70 crore and ₹70 crore, respectively, towards key management personnel. (Refer to Note 2.11)
-(2) Does not include post-employment benefits and other long-term benefits based on actuarial valuation as these are done for the Company as a whole.
-X
-1
-9
-A
-O
-8
-## 2.23 SEGMENT REPORTING
-Ind AS 108, Operating segments, establishes standards for the way that public business enterprises report information about operating segments and related disclosures about products and services, geographic areas, and major customers. The Group's operations predominantly relate to providing end-to-end business solutions to enable clients to enhance business performance. The Chief Operating Decision Maker (CODM) evaluates the Group's performance and allocates resources based on an analysis of various performance indicators by business segments. Accordingly, information has been presented along business segments. The accounting principles used in the preparation of the financial statements are consistently applied to record revenue and expenditure in individual segments, and are as set out in the accounting policies.
-Business segments of the Group are primarily enterprises in Financial Services and Insurance, enterprises in Manufacturing, enterprises in Retail, Consumer Packaged Goods and Logistics, enterprises in the Energy, Utilities, Resources and Services, enterprises in Communication, Telecom OEM and Media, enterprises in Hi-Tech, enterprises in Life Sciences and Healthcare and all other segments. The Financial services reportable segments has been aggregated to include the Financial Services operating segment and Finacle operating segment because of the similarity of the economic characteristics. All other segments represent the operating segments of businesses in India, Japan, China, Infosys Public Services &amp; identified enterprises in Public Services.
-Revenue and identifiable operating expenses in relation to segments are categorized based on items that are individually identifiable to that segment. Revenue for 'all other segments' represents revenue generated by Infosys Public services and revenue generated from customers located in India, Japan and China and other enterprises in Public services. Allocated expenses of segments include expenses incurred for rendering services from the Group's offshore software development centers and on-site expenses, which are categorized in relation to the associated efforts of the segment. Certain expenses such as depreciation and amortization, which form a significant component of total expenses, are not specifically allocable to specific segments as the underlying assets are used interchangeably. The Management believes that it is not practical to provide segment disclosures relating to those costs and expenses, and accordingly these expenses are separately disclosed as "unallocated" and adjusted against the total income of the Group.
-Assets and liabilities used in the Group's business are not identified to any of the reportable segments, as these are used interchangeably between segments. The Management believes that it is currently not practicable to provide segment disclosures relating to total assets and liabilities since a meaningful segregation of the available data is onerous.
-Business segment revenue information is collated based on individual customers invoiced or in relation to which the revenue is otherwise recognized.
-Disclosure of revenue by geographic locations is given in note 2.16 Revenue from operations.
-## Business Segments
-Three months ended March 31, 2026 and March 31, 2025:
-| Particulars                                                | Financial Services (1)   | Manufacturing   | Energy, Utilities, and Services   | Retail (2) Communication   | (3)   | Hi-Tech   | Life Sciences (4) segments   | All other (5)   | (In ₹ crore) Total   |
-|------------------------------------------------------------|--------------------------|-----------------|-----------------------------------|----------------------------|-------|-----------|------------------------------|-----------------|----------------------|
-|                                                            |                          |                 | Resources                         |                            |       |           |                              |                 |                      |
-| Revenue from operations                                    | 12,976                   | 7,358           | 6,114                             | 5,958                      | 5,752 | 3,558     | 3,393                        | 1,293           | 46,402               |
-|                                                            | 11,614                   | 6,527           | 5,308                             | 5,440                      | 4,798 | 3,397     | 2,765                        | 1,076           | 40,925               |
-| Identifiable operating expenses                            | 6,977                    | 4,501           | 3,349                             | 2,952                      | 3,635 | 1,974     | 2,148                        | 769             | 26,305               |
-|                                                            | 6,665                    | 4,182           | 2,771                             | 2,736                      | 3,074 | 2,005     | 1,639                        | 613             | 23,685               |
-| Allocated expenses                                         | 2,589                    | 1,316           | 1,217                             | 1,195                      | 1,090 | 654       | 586                          | 283             | 8,930                |
-|                                                            | 2,001                    | 1,149           | 960                               | 1,064                      | 888   | 597       | 509                          | 198             | 7,366                |
-| Segment Profit                                             | 3,410                    | 1,541           | 1,548                             | 1,811                      | 1,027 | 930       | 659                          | 241             | 11,167               |
-|                                                            | 2,948                    | 1,196           | 1,577                             | 1,640                      | 836   | 795       | 617                          | 265             | 9,874                |
-| Unallocable expenses                                       |                          |                 |                                   |                            |       |           |                              |                 | 1,424                |
-|                                                            |                          |                 |                                   |                            |       |           |                              |                 | 1,299                |
-| Other income, net                                          |                          |                 |                                   |                            |       |           |                              |                 | 1,159                |
-|                                                            |                          |                 |                                   |                            |       |           |                              |                 | 1,190                |
-| Finance cost                                               |                          |                 |                                   |                            |       |           |                              |                 | 105                  |
-|                                                            |                          |                 |                                   |                            |       |           |                              |                 | 102                  |
-| Profit before tax                                          |                          |                 |                                   |                            |       |           |                              |                 | 10,797               |
-|                                                            |                          |                 |                                   |                            |       |           |                              |                 | 9,663                |
-| Income tax expense                                         |                          |                 |                                   |                            |       |           |                              |                 | 2,288                |
-|                                                            |                          |                 |                                   |                            |       |           |                              |                 | 2,625                |
-| Net Profit                                                 |                          |                 |                                   |                            |       |           |                              |                 | 8,509                |
-|                                                            |                          |                 |                                   |                            |       |           |                              |                 | 7,038                |
-| Depreciation and amortization                              |                          |                 |                                   |                            |       |           |                              |                 | 1,424                |
-|                                                            |                          |                 |                                   |                            |       |           |                              |                 | 1,299                |
-| Non-cash expenses other than depreciation and amortization |                          |                 |                                   |                            |       |           |                              |                 | -                    |
-|                                                            |                          |                 |                                   |                            |       |           |                              |                 | -                    |
+The tax effects of significant temporary differences that resulted in deferred income tax assets and liabilities are as follows:
+|                                               | (In ₹ crore)   | (In ₹ crore)   |
+|-----------------------------------------------|----------------|----------------|
+| Particulars                                   | As at          | As at          |
+|                                               | March 31, 2026 | March 31, 2025 |
+| Deferred income tax assets after set off      | 1,347          | 497            |
+| Deferred income tax liabilities after set off | (990)          | (1,062)        |
 
-Year ended March 31, 2026 and March 31, 2025:
-| Particulars                                            | Financial Services (1)   | Manufacturing   | Energy, Utilities, Resources and Services   | Retail (2) Communication   | (3)    | Hi-Tech   | Life Sciences (4) segments   | All other (5)   | (In ₹ crore) Total   |
-|--------------------------------------------------------|--------------------------|-----------------|---------------------------------------------|----------------------------|--------|-----------|------------------------------|-----------------|----------------------|
-| Revenue from operations                                | 49,908                   | 29,078          | 23,818                                      | 23,077                     | 21,765 | 13,928    | 12,267                       | 4,809           | 178,650              |
-|                                                        | 45,175                   | 25,207          | 21,710                                      | 22,059                     | 19,108 | 13,090    | 11,831                       | 4,810           | 162,990              |
-| Identifiable operating expenses                        | 27,877                   | 17,797          | 13,327                                      | 11,529                     | 13,908 | 8,286     | 7,667                        | 2,956           | 103,347              |
-|                                                        | 25,871                   | 16,167          | 11,882                                      | 10,931                     | 12,420 | 7,592     | 7,166                        | 2,986           | 95,015               |
-| Allocated expenses                                     | 9,353                    | 4,837           | 4,507                                       | 4,459                      | 3,996  | 2,414     | 2,156                        | 1,136           | 32,858               |
-|                                                        | 8,205                    | 4,184           | 3,731                                       | 3,995                      | 3,347  | 2,278     | 2,002                        | 997             | 28,739               |
-| Segment Profit                                         | 12,678                   | 6,444           | 5,984                                       | 7,089                      | 3,861  | 3,228     | 2,444                        | 717             | 42,445               |
-|                                                        | 11,099                   | 4,856           | 6,097                                       | 7,133                      | 3,341  | 3,220     | 2,663                        | 827             | 39,236               |
-| Unallocable expenses*                                  |                          |                 |                                             |                            |        |           |                              |                 | 6,191                |
-| Other income, net                                      |                          |                 |                                             |                            |        |           |                              |                 | 4,157                |
-| Finance cost                                           |                          |                 |                                             |                            |        |           |                              |                 | 3,600 416            |
-| Profit before tax                                      |                          |                 |                                             |                            |        |           |                              |                 | 416 39,995           |
-|                                                        |                          |                 |                                             |                            |        |           |                              |                 | 37,608               |
-| Income tax expense                                     |                          |                 |                                             |                            |        |           |                              |                 | 10,521 10,858        |
-| Net Profit                                             |                          |                 |                                             |                            |        |           |                              |                 | 29,474               |
-|                                                        |                          |                 |                                             |                            |        |           |                              |                 | 26,750               |
-| Depreciation and amortization                          |                          |                 |                                             |                            |        |           |                              |                 |                      |
-| expense                                                |                          |                 |                                             |                            |        |           |                              |                 | 4,902                |
-|                                                        |                          |                 |                                             |                            |        |           |                              |                 | 4,812                |
-|                                                        | and                      |                 |                                             |                            |        |           |                              |                 | -                    |
-| Non-cash expenses other than depreciation amortization |                          |                 |                                             |                            |        |           |                              |                 |                      |
-|                                                        |                          |                 |                                             |                            |        |           |                              |                 | -                    |
-
-(1) Financial Services include enterprises in Financial Services and Insurance
-(2) Retail includes enterprises in Retail, Consumer Packaged Goods and Logistics
-(3) Communication includes enterprises in Communication, Telecom OEM and Media
-(4) Life Sciences includes enterprises in Life sciences and Health care
-(5) Others include operating segments of businesses in India, Japan, China, Infosys Public Services &amp; identified enterprises in Public Services
-*Unallocable expense includes impact of ₹ 1289 crore towards impact of Labour Codes for the year ended March 31, 2026 (refer to note 2.18.1)
+In assessing the realizability of deferred income tax assets, the management considers whether some portion or all of the deferred income tax assets will not be realized. The ultimate realization of deferred income tax assets is dependent upon the generation of future taxable income during the periods in which the temporary differences become deductible. The management considers the scheduled reversals of deferred income tax liabilities, projected future taxable income, and tax planning strategies in making this assessment. Based on the level of historical taxable income and projections for future taxable income over the periods in which the deferred income tax assets are deductible, management believes that the Company will realize the benefits of those deductible differences. The amount of the deferred income tax assets considered realizable, however, could be reduced in the near term if estimates of future taxable income during the carry forward period are reduced.
+The Company's Advanced Pricing Arrangement (APA) with the Internal Revenue Service (IRS) for US branch income tax expired in March 2021. The Company has applied for renewal of APA and currently the US taxable income is based on the Company's best estimate determined based on the expected value method.

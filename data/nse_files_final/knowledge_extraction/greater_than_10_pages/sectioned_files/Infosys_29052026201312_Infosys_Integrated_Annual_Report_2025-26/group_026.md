@@ -1,314 +1,91 @@
 ---
 document_name: "Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26.md"
 group_id: "Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26__group_026"
-source_section_count: 3
-page_start: 217
-page_end: 225
-estimated_tokens: 10171
+source_section_count: 2
+page_start: 113
+page_end: 116
+estimated_tokens: 4784
 source_section_ids:
-  - "Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26__089"
-  - "Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26__090"
-  - "Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26__091"
+  - "Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26__049"
+  - "Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26__050"
 ---
 
-## Credit risk
-Credit risk refers to the risk of default on its obligation by the counterparty resulting in a financial loss. The maximum exposure to the credit risk at the reporting date is primarily from trade receivables amounting to ` 30,337 crore and ` 26,413 crore as at March 31, 2026 and March 31, 2025, respectively and unbilled revenue amounting to ` 13,706 crore and ` 11,988 crore as at March 31, 2026 and March 31, 2025, respectively. Trade receivables and unbilled revenue are typically unsecured and are derived from revenue from customers majorly located in the United States of America and Europe. Credit risk has always been managed by the Company through credit approvals, establishing credit limits and continuously monitoring the creditworthiness of the customers to which the Company grants credit terms in the normal course of business. The Company uses the expected credit loss model to assess any required allowances and uses a provision matrix to compute the expected credit loss allowance for trade receivables and unbilled revenues. This matrix takes into account credit reports and other related credit information to the extent available.
-The Company's exposure to credit risk is influenced mainly by the individual characteristic of each customer and the concentration of risk from the top few customers. Exposure to customers is diversified and there is no single customer contributing more than 10% of outstanding trade receivables and unbilled revenues.
-The details in respect of percentage of revenues generated from top five customers and top ten customers are as follows:
-| Particulars                     |   2026 |   2025 |
-|---------------------------------|--------|--------|
-| Revenue from top five customers |   12.7 |   12.0 |
-| Revenue from top ten customers  |   20.5 |   19.9 |
+## Risk management report
+| Key / Emerging risks                        | Impact on Company                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Mitigation / Opportunity                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|---------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Contractual liabilities                     | • Risk of clients demanding more favorable terms, including onerous clauses related to the liability and our inability to adhere to contractual obligations with customers may lead to litigations, fines, and may adversely impact our reputation, revenue and profitability. • Impacted capitals : Social & Relationship and Financial                                                                                                                                                 | • Engaging clients on contractual terms through dedicated in-house team • Contract legal playbook with risk framework to identify the high-risk clauses and plan appropriate controls to mitigate the risks • Multi-layered governance process for contract approval • Dedicated teams to adhere to, monitor and audit contractual obligations • Comprehensive Board-level monitoring, reporting and governance of contractual risks                                                                                                                                                                                                                                       |
+| Complex and evolving regulatory environment | • If we are not able to comply with the existing complex regulatory landscape (e.g., immigration, wages, tax, sanctions), it could result in investigations, regulatory inquiries, litigation, fines, and negative client sentiments. • Emerging risk aspect: Evolving regulatory compliance, corporate governance and public disclosure requirements add uncertainty to our compliance policies. • Impacted capitals: Financial, Human, Intellectual, Social & Relationship and Natural | • Dedicated in-house compliance team working with external partners to monitor changes to the regulatory landscape • Comprehensive compliance framework, policies, controls and programs to identify changes to regulatory landscape, assess their impact and implement appropriate actions • Regular connect with regulatory authorities and compliance experts to identify and assess changes to the regulatory landscape • Contract awareness programs and trainings for employees and vendors • Periodic compliance certification with clear accountability and responsibility defined • Comprehensive monitoring, reporting and governance, including Board oversight |
 
-## Credit risk exposure
-The Company's credit period generally ranges from 30-75 days.
-The allowance for lifetime expected credit loss on customer balances recognized for the year ended March 31, 2026 and March 31, 2025 is ` 113 crore and ` 63 crore, respectively.
-The movement in credit loss allowance on customer balance is as follows:
-|                                              | (In                  | (In                  |
-|----------------------------------------------|----------------------|----------------------|
-| Particulars                                  | Year ended March 31, | Year ended March 31, |
-|                                              | 2026                 | 2025                 |
-| Balance at the beginning                     | 702                  | 721                  |
-| Impairment loss recognized / (reversed), net | 113                  | 63                   |
-| Amounts written off                          | (165)                | (69)                 |
-| Translation differences                      | 71                   | (13)                 |
-| Balance at the end                           | 721                  | 702                  |
+## Cybersecurity risk management
+Cyber risks, being one of the key risks, is managed through multi-layered controls with a defence-in-depth approach starting from the cybersecurity strategy, supplemented by policies, processes and controls (preventive, detective, and corrective). Our strategy is focused on four areas: Transparency and experience; continual improvement and compliance; cyber resilience; and building and maintaining a positive cybersecurity culture within the organization. A high-level working group, the enterprise Information Security Council (ISC), has been established, which is responsible for governing and overseeing the Information Security Management System (ISMS) at Infosys. ISC focuses on establishing, directing, monitoring, and executing the information security program with representation from various departments and business units at Infosys and reports to the Operational Risk Council highlighting key risks to the executive leadership.
+## INDEPENDENT PRACTITIONER'S REASONABLE ASSURANCE REPORT ON IDENTIFIED SUSTAINABILITY INFORMATION IN INFOSYS LIMITED'S BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT
+## To the Board of Directors of INFOSYS LIMITED
+1.  We have undertaken to perform reasonable assurance engagement, for INFOSYS LIMITED (the 'Company') vide our engagement letter dated January 16, 2026 in respect of the agreed Sustainability Information listed below (the 'Identified Sustainability Information' or 'BRSR Core indicators') in accordance with the Criteria stated in paragraph 3 below. This Sustainability Information is included in the Business Responsibility and Sustainability Report (the 'BRSR' or the 'Report') included within the Integrated Annual Report (the 'IAR') of the Company for the year ended March 31, 2026. This engagement was conducted by a multidisciplinary team including assurance practitioners, environmental engineers and specialists.
 
-The gross carrying amount of a financial asset is written off (either partially or in full) when there is no realistic prospect of recovery.
-## Credit exposure
-|                   | (In ` crore)          | (In ` crore)   |
-|-------------------|-----------------------|----------------|
-| Particulars       | Year ended March 2026 | 31, 2025       |
-| Trade receivables | 30,337                | 26,413         |
-| Unbilled revenues | 13,706                | 11,988         |
+## 2. Identified Sustainability Information
+Our scope of reasonable assurance consists of the BRSR Core indicators listed in the Appendix I to our report. The reporting boundary of the BRSR is as disclosed in Question 13 of Section A: General Disclosure of the BRSR with exceptions disclosed by way of note under respective questions of the BRSR, where applicable.
+Our reasonable assurance engagement was with respect to the year ended March 31, 2026 information only unless otherwise stated and we have not performed any procedures with respect to any other elements included in the BRSR and, therefore, do not express any opinion thereon.
+## 3. Criteria
+The Criteria used by the Company to prepare the Identified Sustainability Information is as under:
+- Regulation 34(2)(f) of the Securities and Exchange Board of India (the 'SEBI') (Listing Obligations and Disclosure Requirements), Regulations, 2015 as amended; and
+- Business Responsibility and Sustainability Reporting Requirements for listed entities per Master Circular No. HO/49/14/14(7)2025CFD-POD2/I/3762/2026 dated January 30, 2026 (the 'SEBI Master Circular').
 
-Credit risk on cash and cash equivalents is limited as the Company generally invest in deposits with banks with high ratings assigned by international and domestic credit rating agencies. Ratings are monitored periodically, and the Company has considered the latest available credit ratings as at the date of approval of these financial statements.
-The investments of the Company primarily include investment in mutual fund units, target maturity fund units, tax-free bonds, certificates of deposit, commercial paper, treasury bills, government securities, non-convertible debentures, quoted bonds issued by government and quasi government organizations. The Company invests after considering counterparty risks based on multiple criteria, including Tier I Capital, Capital Adequacy Ratio, credit rating, profitability, NPA levels and deposit base of banks and financial institutions. These risks are monitored regularly as per Group's risk management program.
-## Liquidity risk
-Liquidity risk is defined as the risk that the Company will not be able to settle or meet its obligations on time.
-The Company's principal sources of liquidity are cash and cash equivalents and the cash flow that is generated from operations. The Company has no outstanding borrowings. The Company believes that the working capital is sufficient to meet its current requirements.
-As at March 31, 2026, the Company had a working capital of ` 40,794 crore, including cash and cash equivalents of ` 8,727 crore and current investments of ` 12,039 crore. As at March 31, 2025, the Company had a working capital of ` 45,406 crore, including cash and cash equivalents of ` 14,265 crore and current investments of ` 11,147 crore.
-As at March 31, 2026 and March 31, 2025, the outstanding compensated absences were  2,819 crore and  2,412 crore, respectively, which have been substantially funded. Accordingly, no liquidity risk is perceived.
-Refer to Note 2.3 for remaining contractual maturities of lease liabilities.
-The details regarding the contractual maturities of significant financial liabilities as at March 31, 2026 are as follows:
-| Particulars                                                                              | Less than 1 year   | 1-2 years   | 2-4 years   | 4-7 years   | (In ` crore) Total   |
-|------------------------------------------------------------------------------------------|--------------------|-------------|-------------|-------------|----------------------|
-| Trade payables                                                                           | 3,539              | -           | -           | -           | 3,539                |
-| Other financial liabilities on an undiscounted basis (Refer to Note 2.13)                | 13,531             | 1,582       | 191         | 2           | 15,306               |
-| Liability towards contingent consideration on an undiscounted basis (Refer to Note 2.13) | 20                 | -           | -           | -           | 20                   |
+## 4. Management's Responsibility
+The Company's management is responsible for selecting or establishing suitable criteria for preparing the Sustainability Information including the reporting boundary of the BRSR, taking into account applicable laws and regulations, if any, related to reporting on the Sustainability Information, identification of key aspects, engagement with stakeholders, content, preparation and presentation of the Identified Sustainability Information in accordance with the Criteria. This responsibility includes design, implementation and maintenance of internal controls relevant to the preparation of the BRSR and the measurement of Identified Sustainability Information, which is free from material misstatement, whether due to fraud or error.
+## 5. Inherent limitations
+The absence of a significant body of established practice on which to draw to evaluate and measure non-financial information allows for different, but acceptable, measures and measurement techniques and can affect comparability between companies.
+## 6. Our Independence and Quality Control
+We have maintained our independence and confirm that we have met the requirements of the Code of Ethics issued by the Institute of Chartered Accountants of India (the 'ICAI') and the SEBI Master Circular and its clarifications thereto and have the required competencies and experience to conduct this assurance engagement.
+We apply Standard on Quality Control ('SQC') 1, 'Quality Control for Firms that Perform Audits and Reviews of Historical Financial Information, and Other Assurance and Related Services Engagements', and accordingly maintain a comprehensive system of quality control including documented policies and procedures regarding compliance with ethical requirements, professional standards, and applicable legal and regulatory requirements.
+## 7. Our Responsibility
+Our responsibility is to express a reasonable assurance opinion on the Identified Sustainability Information listed in Appendix I based on the procedures we have performed and evidence we have obtained.
+We conducted our engagement in accordance with the Standard on Sustainability Assurance Engagements (SSAE) 3000, 'Assurance Engagements on Sustainability Information', and Standard on Assurance Engagements (SAE) 3410 'Assurance Engagements on Greenhouse Gas Statements' (together the 'Standards'), both issued by the Sustainability Reporting Standards Board (the 'SRSB') of the ICAI.
+These standards require that we plan and perform our engagement to obtain reasonable assurance about whether the Identified Sustainability Information listed in Appendix I and included in the BRSR are prepared, in all material respects, in accordance with the Criteria.
+As part of a reasonable assurance engagement in accordance with the Standards, we exercise professional judgment and maintain professional skepticism throughout the engagement.
+A reasonable assurance engagement involves identifying and assessing the risks of material misstatement of the Identified Sustainability Information whether due to fraud or error, responding to the assessed risks as necessary in the circumstances.
+The procedures we performed were based on our professional judgment and included inquiries, observation of processes performed, inspection of documents, evaluating the appropriateness of quantification methods and reporting policies, analytical procedures and agreeing or reconciling with underlying records.
+Given the circumstances of the engagement, in performing the procedures listed above, we:
+- Obtained an understanding of the Identified Sustainability Information and related disclosures;
+- Obtained an understanding of the assessment criteria and their suitability for the evaluation and/or measurements of the Identified Sustainability Information;
+- Made inquiries of Company's management, including environment team, compliance team, human resource team amongst others and those with the responsibility for preparation of the Report;
+- Obtained an understanding and performed an evaluation of the design of the key systems, processes and controls for recording, processing and reporting on the Identified Sustainability Information at the corporate office and at other locations/offices on a sample basis. This included evaluating the design of those controls relevant to the engagement and determining whether they have been implemented by performing procedures in addition to inquiry of the personnel responsible for the Identified Sustainability Information;
+- Based on the above understanding and the risks that the Identified Sustainability Information may be materially misstated, determined the nature, timing and extent of further procedures;
+- Tested the key assumptions, emission factors and methodologies used for calculation of the Greenhouse Gas (the 'GHG') emissions;
+- Tested the Company's process for collating the sustainability information through agreeing or reconciling the Identified Sustainability Information with the underlying records on a sample basis; and
+- Tested the consolidation for locations/offices on a sample basis and corporate office under the reporting boundary for ensuring the completeness of data being reported.
 
-The details regarding the contractual maturities of significant financial liabilities as at March 31, 2025 are as follows:
-| Particulars                                                                                                                        | Less than 1 year   | 1-2 years   | 2-4 years   | 4-7 years   | (In ` crore) Total   |
-|------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|-------------|-------------|----------------------|
-| Trade payables                                                                                                                     | 2,728              | -           | -           | -           | 2,728                |
-| Other financial liabilities (excluding liability towards contingent consideration) on an undiscounted basis ( Refer to Note 2.13 ) | 11,712             | 1,732       | 138         | 11          | 13,593               |
-| Liability towards contingent consideration on an undiscounted basis ( Refer to Note 2.13 )                                         | 11                 | 20          | -           | -           | 31                   |
+We believe that the evidence we have obtained is sufficient and appropriate to provide a basis for our reasonable assurance opinion.
+## 8. Exclusions
+Our assurance scope excludes the following and therefore we do not express an opinion on:
+- Operations of the Company other than Reporting Boundary set out in Question 13 of Section A: General Disclosures of the BRSR, for the Identified Sustainability Information listed in Appendix I;
+- Aspects of the Report and the data/information (qualitative or quantitative) other than the Identified Sustainability Information;
+- Data and information outside the defined reporting period i.e. the financial year ended March 31, 2026; and
+- The statements that describe expression of opinion, belief, aspiration, expectation, aim, or future intentions provided by the Company.
 
-## 2.12 Equity
-Accounting policy
-## Ordinary shares
-Ordinary shares are classified as equity share capital. Incremental costs directly attributable to the issuance of new ordinary shares, share options and buyback are recognized as a deduction from equity, net of any tax effects.
-## Description of reserves
-## Capital redemption reserve
-In accordance with Section 69 of the Indian Companies Act, 2013, the Company creates capital redemption reserve equal to the nominal value of the shares bought back as an appropriation from general reserve / retained earnings.
-## Retained earnings
-Retained earnings represent the amount of accumulated earnings of the Company.
-## Securities premium
-The amount received in excess of the par value of equity shares has been classified as securities premium. Amounts have been utilized for bonus issue and share buyback from share premium account.
-## Share options outstanding account
-The Share options outstanding account is used to record the fair value of equity-settled share based payment transactions with employees. The amounts recorded in share options outstanding account are transferred to securities premium upon exercise of stock options and transferred to general reserve on account of stock options not exercised by employees.
-
-## Special Economic Zone Re-investment reserve
-The Special Economic Zone Re-investment reserve has been created out of the profit of the eligible SEZ unit in terms of the provisions of Section 10AA (1)(ii) of Income Tax Act, 1961. The reserve should be utilized by the Company for acquiring new plant and machinery for the purpose of its business in terms of the provisions of the Section 10AA (2) of the Income Tax Act, 1961.
-## Other components of equity
-Other components of equity include remeasurement of net defined benefit liability / asset, equity instruments fair valued through other comprehensive income, changes on fair valuation of investments and changes in fair value of derivatives designated as cash flow hedges, net of taxes.
-## Cash flow hedge reserve
-When a derivative is designated as a cash flow hedging instrument, the effective portion of changes in the fair value of the derivative is recognized in other comprehensive income and accumulated in the cash flow hedge reserve. The cumulative gain or loss previously recognized in the cash flow hedging reserve is transferred to the Statement of Profit and Loss upon the occurrence of the related forecasted transaction.
-## 2.12.1 Equity share capital
-| Particulars                                                 | Year ended March 31,   | Year ended March 31,   |
-|-------------------------------------------------------------|------------------------|------------------------|
-|                                                             | 2026                   | 2025                   |
-| Authorized                                                  |                        |                        |
-| Equity shares, ` 5/- par value                              |                        |                        |
-| 4,80,00,00,000 (4,80,00,00,000) equity shares               | 2,400                  | 2,400                  |
-| Issued, Subscribed and Paid-Up                              |                        |                        |
-| Equity shares, ` 5/- par value (1)                          | 2,027                  | 2,076                  |
-| 4,05,55,91,723 (4,15,32,63,455) equity shares fully paid-up |                        |                        |
-|                                                             | 2,027                  | 2,076                  |
-
-(In ` crore, except as otherwise stated)
-(1) Refer to Note 2.22 for details of basic and diluted shares
-## Forfeited shares amounted to ` 1,500/- ( ` 1,500/-)
-The Company has only one class of shares referred to as equity shares having a par value of ` 5/-. Each holder of equity shares is entitled to one vote per share. The equity shares represented by American Depository Shares (ADS) carry similar rights to voting and dividends as the other equity shares. Each ADS represents one underlying equity share.
-In the event of liquidation of the Company, the holders of equity shares will be entitled to receive any of the remaining assets of the company in proportion to the number of equity shares held by the shareholders, after distribution of all preferential amounts. However, no such preferential amounts exist currently.
-There are no voting, dividend or liquidation rights to the holders of options issued under the Company's share option plans.
-For details of shares reserved for issue under the employee stock option plan of the Company, Refer to Note below.
-## In the period of five years immediately preceding March 31, 2026:
-## Buyback
-In the period of five years immediately preceding March 31, 2026, the Company had purchased and extinguished a total of 21,62,33,685 fully paid-up equity shares of face value ` 5/- each from the stock exchange. The Company has only one class of equity shares.
-## Capital allocation policy
-Effective fiscal 2025, the Company expects to continue its policy of returning approximately 85% of the free cash flow cumulatively over a 5-year period through a combination of semi-annual dividends and / or share buyback / special dividends subject to applicable laws and requisite approvals, if any.
-Under this policy, the Company expects to progressively increase its annual dividend per share (excluding special dividend if any).
-Free cash flow is defined as net cash provided by operating activities less capital expenditure as per the consolidated statement of cash flows prepared under IFRS. Dividend and buyback include applicable taxes.
-## Buyback completed in December 2025
-In line with the capital allocation policy, the Board, at its meeting held on September 11, 2025, approved a proposal for the Company to buyback its fully paid-up equity shares of face value of ` 5/- each from the eligible equity shareholders of the Company for an amount of ` 18,000 crore subject to shareholders' approval by way of Postal Ballot. The shareholders approved the said proposal of buyback of Equity Shares recommended by its Board of Directors by way of e-voting through postal ballot, the results of which were declared on November 6, 2025. The Buyback offer comprised a purchase of 10,00,00,000 Equity Shares comprising approximately 2.41% of the total paid-up equity share capital of the Company as of June 30, 2025 (on standalone basis) at a price of ` 1,800 per Equity share. The buyback was offered to all eligible equity shareholders (including those who became equity shareholders as on the Record date by cancelling American Depository Shares and withdrawing underlying Equity shares) of the Company as on the Record Date (i.e. November 14, 2025) on a proportionate basis through the "Tender offer" route. The tender period for buyback commenced on November 20, 2025, and was open until November 26, 2025. The Company concluded the buyback procedures on December 4, 2025, and 10,00,00,000 equity shares were bought back and extinguished. The buyback resulted in cash outflow of ` 18,000 crore (excluding transaction costs). The Company funded the buyback from its free reserves including securities premium as explained in Section 68 of the Companies Act, 2013. In accordance with Section 69 of the Companies Act, 2013, as at March 31, 2026, the Company has created a Capital Redemption Reserve of ` 50 crore equal to the nominal value of the shares bought back as an appropriation from the general reserve.
-The Company's objective when managing capital is to safeguard its ability to continue as a going concern and to maintain an optimal capital structure so as to maximize shareholder value. In order to maintain or achieve an optimal capital structure, the Company may adjust the amount of dividend payment, return capital to shareholders, issue new shares or buy back issued shares. As of March 31, 2026, the Company has only one class of equity shares and has no debt. Consequent to the above capital structure there are no externally imposed capital requirements.
-## 2.12.2 Shareholding of promoter
-The details of shares held by promoters as at March 31, 2026 and the change during the year ended March 31, 2026:
-| Promoter name                 | No. of shares   | %of total shares   | %change during the year   |
-|-------------------------------|-----------------|--------------------|---------------------------|
-| Sudha Gopalakrishnan          | 9,53,57,000     | 2.35               | -                         |
-| Rohan Murty                   | 6,08,12,892     | 1.50               | -                         |
-| S. Gopalakrishnan             | 3,18,53,808     | 0.79               | -                         |
-| Nandan M. Nilekani            | 4,07,83,162     | 1.01               | -                         |
-| Akshata Murty                 | 3,89,57,096     | 0.96               | -                         |
-| Asha Dinesh                   | 3,85,79,304     | 0.95               | -                         |
-| Sudha N. Murty                | 3,45,50,626     | 0.85               | -                         |
-| Rohini Nilekani               | 3,43,35,092     | 0.85               | -                         |
-| Dinesh Krishnaswamy           | 3,24,79,590     | 0.80               | -                         |
-| Shreyas Shibulal              | 1,79,37,000     | 0.44               | (10.00)                   |
-| N. R. Narayana Murthy         | 1,51,45,638     | 0.37               | -                         |
-| Nihar Nilekani                | 1,26,77,752     | 0.31               | -                         |
-| Janhavi Nilekani              | 85,89,721       | 0.21               | -                         |
-| Kumari Shibulal               | 49,45,935       | 0.12               | -                         |
-| Deeksha Dinesh                | 76,46,684       | 0.19               | -                         |
-| Divya Dinesh                  | 76,46,684       | 0.19               | -                         |
-| Meghana Gopalakrishnan        | 1,48,34,928     | 0.37               | -                         |
-| Shruti Shibulal               | 87,05,651       | 0.21               | -                         |
-| S. D. Shibulal                | 52,08,673       | 0.13               | -                         |
-| Promoters Group               |                 |                    |                           |
-| Ekagrah Rohan Murty           | 15,00,000       | 0.04               | -                         |
-| Gaurav Manchanda              | 57,73,233       | 0.14               | -                         |
-| Milan Shibulal Manchanda      | 61,06,302       | 0.15               | -                         |
-| Nikita Shibulal Manchanda     | 61,06,302       | 0.15               | -                         |
-| Bhairavi Madhusudhan Shibulal | 48,85,500       | 0.12               | (9.99)                    |
-| Shray Chandra                 | 7,19,424        | 0.02               | -                         |
-| Tanush Nilekani Chandra       | 33,56,017       | 0.08               | -                         |
-
-## 2.12.3 Dividend
-The final dividend on shares is recorded as a liability on the date of approval by the shareholders and interim dividends are recorded as a liability on the date of declaration by the Company's Board of Directors. Income tax consequences of dividends on financial instruments classified as equity will be recognized according to where the entity originally recognized those past transactions or events that generated distributable profits.
-The Company declares and pays dividends in Indian rupees. Companies are required to pay / distribute dividend after deducting applicable taxes. The remittance of dividends outside India is governed by Indian law on foreign exchange and is also subject to withholding tax at applicable rates.
-The amount of per share dividend recognized as distribution to equity shareholders in accordance with Companies Act 2013 is as follows:-
-|                                  |                      | (In ` )              |
-|----------------------------------|----------------------|----------------------|
-| Particulars                      | Year ended March 31, | Year ended March 31, |
-|                                  | 2026                 | 2025                 |
-| Interim dividend for fiscal 2026 | 23.00                | -                    |
-| Final dividend for fiscal 2025   | 22.00                | -                    |
-| Interim dividend for fiscal 2025 | -                    | 21.00                |
-| Special dividend for fiscal 2024 | -                    | 8.00                 |
-| Final dividend for fiscal 2024   | -                    | 20.00                |
-
-During the year ended March 31, 2026, on account of the final dividend for fiscal 2025 and interim dividend for fiscal 2026, the Company has incurred a net cash outflow of ` 18,694 crore.
-The Board of Directors in their meeting held on April 23, 2026, recommended a final dividend of ` 25/- per equity share for the financial year ended March 31, 2026. The payment is subject to approval of shareholders in the Annual General Meeting (AGM) of the Company to be held on June 23, 2026, and if approved, would result in a net cash outflow of approximately ` 10,139 crore.
-The details of shareholders holding more than 5% shares as at March 31, 2026 and March 31, 2025 are as follows:
-| Nameof the shareholder                                                       | As at March 31, 2026   | As at March 31, 2026   | As at March 31, 2025   | As at March 31, 2025   |
-|------------------------------------------------------------------------------|------------------------|------------------------|------------------------|------------------------|
-|                                                                              | Number of shares       | %held                  | Number of shares       | %held                  |
-| Deutsche Bank Trust Company Americas (Depository of ADR's - legal ownership) | 30,50,54,064           | 7.52                   | 43,98,60,715           | 10.59                  |
-| Life Insurance Corporation of India                                          | 43,27,82,872           | 10.67                  | 38,81,12,531           | 9.34                   |
-
-The reconciliation of the number of shares outstanding and the amount of share capital as at March 31, 2026 and March 31, 2025 is as follows:
-(In ` crore, except as stated otherwise)
-| Nameof the shareholder                                   | As at March 31, 2026   | As at March 31, 2026   | As at March 31, 2025   | As at March 31, 2025   |
-|----------------------------------------------------------|------------------------|------------------------|------------------------|------------------------|
-|                                                          | Number of shares       | Amount                 | Number of shares       | Amount                 |
-| As at the beginning of the period                        | 4,15,32,63,455         | 2,076                  | 4,15,08,67,464         | 2,075                  |
-| Add: Shares issued on exercise of employee stock options | 23,28,268              | 1                      | 23,95,991              | 1                      |
-| Less: Shares bought back                                 | 10,00,00,000           | 50                     | -                      | -                      |
-| As at the end of the period                              | 4,05,55,91,723         | 2,027                  | 4,15,32,63,455         | 2,076                  |
-
-## 2.12.4 Employee Stock Option Plan (ESOP) Accounting policy
-The Company recognizes compensation expense relating to share-based payments in net profit based on estimated fairvalues of the awards on the grant date. The estimated fair value of awards is recognized as an expense in the statement of profit and loss on a straight-line basis over the requisite service period for each separately vesting portion of the award as if the award was in-substance, multiple awards with a corresponding increase to share options outstanding account.
-## Infosys Expanded Stock Ownership Program 2019 (the 2019 Plan):
-On June 22, 2019, pursuant to approval by the shareholders in the Annual General Meeting, the Board has been authorized to introduce, offer, issue and provide share-based incentives to eligible employees of the Company and its subsidiaries under the 2019 Plan. The maximum number of shares under the 2019 plan shall not exceed 5,00,00,000 equity shares. To implement the 2019 Plan, up to 4,50,00,000 equity shares may be issued by way of secondary acquisition of shares by Infosys Expanded Stock Ownership Trust. The Restricted Stock Units (RSUs) granted under the 2019 plan shall vest based on the achievement of defined annual performance parameters as determined by the administrator (Nomination and Remuneration Committee). The performance parameters will be based on a combination of relative Total Shareholder Return (TSR) against selected industry peers and certain broader market domestic and global indices and operating performance metrics of the Company as decided by administrator. Each of the above performance parameters will be distinct for the purposes of calculation of quantity of shares to vest based on performance. These instruments will generally vest between a minimum of one to maximum of three years from the grant date.
-## 2015 Stock Incentive Compensation Plan (the 2015 Plan):
-On March 31, 2016, pursuant to the approval by the shareholders through postal ballot, the Board was authorized to introduce, offer, issue and allot share-based incentives to eligible employees of the Company and its subsidiaries under the 2015 Plan. The maximum number of shares under the 2015 plan shall not exceed 2,40,38,883 equity shares (this includes 1,12,23,576 equity shares which are held by the trust towards the 2011 Plan as at March 31, 2016). These instruments will generally vest over a period of 4 years. The plan numbers mentioned above are further adjusted with the September 2018 bonus issue.
-The equity settled and cash settled RSUs and stock options would vest generally over a period of 4 years and shall be exercisable within the period as approved by the Nomination and Remuneration Committee (NARC). The exercise price of the RSUs will be equal to the par value of the shares and the exercise price of the stock options (ESOPs) would be the market price as on the date of grant.
-Controlled trust holds 86,50,911 and 96,55,927 shares as at March 31, 2026 and March 31, 2025, respectively under the 2015 plan. Out of these shares, 2,00,000 equity shares each have been earmarked for welfare activities of the employees as at March 31, 2026 and March 31, 2025.
-The summary of grants during the year ended March 31, 2026 and March 31, 2025 is as follows:
-| Particulars                               | Year ended March 31,   | Year ended March 31,   |
-|-------------------------------------------|------------------------|------------------------|
-|                                           | 2026                   | 2025                   |
-| 2015 Plan: RSU                            |                        |                        |
-| Equity settled RSUs                       |                        |                        |
-| Key Management Personnel (KMP)            | 3,77,609               | 3,80,842               |
-| Employees other than KMP                  | 22,54,341              | 18,74,690              |
-|                                           | 26,31,950              | 22,55,532              |
-| Cash settled RSUs                         |                        |                        |
-| Key Management Personnel (KMP)            | -                      | -                      |
-| Employees other than KMP                  | 1,19,800               | 94,050                 |
-|                                           | 1,19,800               | 94,050                 |
-| 2015 Plan: Employee Stock Options (ESOPs) |                        |                        |
-| Equity settled RSUs                       |                        |                        |
-| Key Management Personnel (KMP)            | 2,37,370               | -                      |
-| Employees other than KMP                  | 54,12,790              | -                      |
-|                                           | 56,50,160              | -                      |
-| Cash settled RSUs                         |                        |                        |
-| Key Management Personnel (KMP)            | -                      | -                      |
-| Employees other than KMP                  | 1,08,180               | -                      |
-|                                           | 1,08,180               | -                      |
-| Total Grants under 2015 Plan              | 85,10,090              | 23,49,582              |
-| 2019 Plan: RSU                            |                        |                        |
-| Equity settled RSUs                       |                        |                        |
-| Key Management Personnel (KMP)            | 1,26,966               | 1,19,699               |
-| Employees other than KMP                  | 44,22,390              | 36,24,646              |
-|                                           | 45,49,356              | 37,44,345              |
-| Total Grants under 2019 Plan              | 45,49,356              | 37,44,345              |
-
-## Notes on grants to KMP:
-## CEO &amp; MD Under the 2015 Plan:
-The Board, on April 17, 2025, based on the recommendations of the Nomination and Remuneration Committee approved the following grants for fiscal 2026. In accordance with such approval the following grants were made effective May 2, 2025.
-- 2,30,621 performance-based RSUs (Annual performance equity grant) of fair value of ` 34.75 crore. These RSUs will vest in line with the employment agreement based on achievement of certain performance targets.
-
-- 13,273 performance-based grant of RSUs (Annual performance equity ESG grant) of fair value of ` 2 crore. These RSUs will vest in line with the employment agreement based on achievement of certain environment, social and governance milestones as determined by the Board.
-- 33,183 performance-based grant of RSUs (Annual performance Equity TSR grant) of fair value of ` 5 crore. These RSUs will vest in line with the employment agreement based on Company's performance on cumulative relative TSR over the years and as determined by the Board.
-
-Further, in accordance with the employee agreement which has been approved by the shareholders, the CEO is eligible to receive an annual grant of RSUs of fair value ` 3 crore which will vest overtime in three equal annual installments upon the completion of each year of service from the respective grant date. Accordingly, annual time-based grant of 18,132 RSUs was made effective February 1, 2026, for fiscal 2026.
-Though the annual time based grants and annual performance equity TSR grant for the remaining employment term ending on March 31, 2027, have not been granted as of March 31, 2026, since the service commencement date precedes the grant date, the Company has recorded employment stock compensation expense in accordance with Ind AS 102, Share based payment. The grant date for this purpose in accordance with Ind AS 102, Share based payment is July 1, 2022.
-## Under the 2019 Plan:
-The Board, on April 17, 2025, based on the recommendations of the Nomination and Remuneration Committee, approved performance-based grant of RSUs amounting to ` 10 crore for fiscal 2026 under the 2019 Plan. These RSUs will vest based on achievement of certain performance targets. Accordingly, 66,366 performance-based RSUs were granted effective May 2, 2025.
-## Other KMP
-## Under the 2015 Plan:
-During the year ended March 31, 2026, based on recommendations of Nomination and Remuneration Committee, the Board approved time based grants of 2,37,370 ESOPs to Other KMP under the 2015 Plan. These ESOPs will vest over a period of 4 years and shall be exercisable within the period as approved by the Committee. The exercise price of the ESOPs would be the market price as on the date of grant.
-Further, during the year ended March 31, 2026, based on recommendations of Nomination and Remuneration Committee, the Board approved 82,400 time based RSUs to Other KMPs under the 2015 Plan. Time-based RSUs will vest over four years.
-## Under the 2019 Plan:
-During the year ended March 31, 2026, based on recommendations of Nomination and Remuneration Committee, the Board approved performance based grants of 60,600 RSUs to other KMPs under the 2019 plan. These RSUs will vest over three years based on achievement of certain performance targets.
-The break-up of employee stock compensation expense is as follows:
-|                                                                   |                      | (In ` crore)         |
-|-------------------------------------------------------------------|----------------------|----------------------|
-|                                                                   | Year ended March 31, | Year ended March 31, |
-| Particulars                                                       | 2026                 | 2025                 |
-| Granted to:                                                       |                      |                      |
-| KMP                                                               | 70                   | 70                   |
-| Employees other than KMP                                          | 776                  | 642                  |
-| Total (1)                                                         | 846                  | 712                  |
-| (1) Cash-settled stock compensation expense included in the above | 5                    | 8                    |
-
-The activity in the 2015 and 2019 Plan for equity-settled share based payment transactions during the year ended March 31, 2026 and March 31, 2025 is as follows:
-| Particulars                               | Year ended March 31, 2026     | Year ended March 31, 2026             | Year ended March 31, 2025     | Year ended March 31, 2025             |
-|-------------------------------------------|-------------------------------|---------------------------------------|-------------------------------|---------------------------------------|
-|                                           | Shares arising out of options | Weighted average exercise price ( ` ) | Shares arising out of options | Weighted average exercise price ( ` ) |
-| 2015 Plan: RSUs                           |                               |                                       |                               |                                       |
-| Outstanding at the beginning              | 72,59,464                     | 5.00                                  | 80,76,058                     | 5.00                                  |
-| Granted                                   | 26,31,950                     | 5.00                                  | 22,55,532                     | 5.00                                  |
-| Exercised                                 | 18,65,144                     | 5.00                                  | 20,80,865                     | 5.00                                  |
-| Forfeited and expired                     | 6,46,821                      | 5.00                                  | 9,91,261                      | 5.00                                  |
-| Outstanding at the end                    | 73,79,449                     | 5.00                                  | 72,59,464                     | 5.00                                  |
-| Exercisable at the end                    | 10,43,401                     | 4.98                                  | 6,29,138                      | 4.97                                  |
-| 2015 Plan: Employee Stock Options (ESOPs) |                               |                                       |                               |                                       |
-| Outstanding at the beginning              | 17,554                        | 499                                   | 82,050                        | 551                                   |
-| Granted                                   | 56,50,160                     | 1,580                                 | -                             | -                                     |
-| Exercised                                 | 14,728                        | 499                                   | 61,672                        | 573                                   |
-
-| Particulars                  | Year ended March 31, 2026     | Year ended March 31, 2026             | Year ended March 31, 2025     | Year ended March 31, 2025             |
-|------------------------------|-------------------------------|---------------------------------------|-------------------------------|---------------------------------------|
-|                              | Shares arising out of options | Weighted average exercise price ( ` ) | Shares arising out of options | Weighted average exercise price ( ` ) |
-| Forfeited and expired        | 2,91,820                      | 1,586                                 | 2,824                         | 499                                   |
-| Outstanding at the end       | 53,61,166                     | 1,663                                 | 17,554                        | 499                                   |
-| Exercisable at the end       | 28,096                        | 1,448                                 | 17,554                        | 499                                   |
-| 2019 Plan: RSUs              |                               |                                       |                               |                                       |
-| Outstanding at the beginning | 80,72,635                     | 5.00                                  | 80,23,855                     | 5.00                                  |
-| Granted                      | 45,49,356                     | 5.00                                  | 37,44,345                     | 5.00                                  |
-| Exercised                    | 14,53,412                     | 5.00                                  | 15,14,356                     | 5.00                                  |
-| Forfeited and expired        | 7,45,697                      | 5.00                                  | 21,81,209                     | 5.00                                  |
-| Outstanding at the end       | 1,04,22,882                   | 5.00                                  | 80,72,635                     | 5.00                                  |
-| Exercisable at the end       | 23,53,433                     | 5.00                                  | 7,70,321                      | 5.00                                  |
-
-The weighted average share price of option exercised is as follows:
-(In ` )
-| Particulars                                       | 2019 Plan Year ended March 31,   | 2019 Plan Year ended March 31,   | 2015 Plan Year ended March 31,   | 2015 Plan Year ended March 31,   |
-|---------------------------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|
-|                                                   | 2026                             | 2025                             | 2026                             | 2025                             |
-| Weighted average share price of options exercised | 1,471                            | 1,587                            | 1,488                            | 1,601                            |
-
-The summary of information about equity settled RSUs and ESOPs outstanding as at March 31, 2026 is as follows:
-| Range of exercise prices per share ( ` )   | 2019 Plan - Options outstanding      | 2019 Plan - Options outstanding             | 2019 Plan - Options outstanding       | 2015 Plan - Options outstanding      | 2015 Plan - Options outstanding             | 2015 Plan - Options outstanding       |
-|--------------------------------------------|--------------------------------------|---------------------------------------------|---------------------------------------|--------------------------------------|---------------------------------------------|---------------------------------------|
-| Range of exercise prices per share ( ` )   | No. of shares arising out of options | Weighted average remaining contractual life | Weighted average exercise price ( ` ) | No. of shares arising out of options | Weighted average remaining contractual life | Weighted average exercise price ( ` ) |
-| 0 - 5 (RSU)                                | 1,04,22,882                          | 1.19                                        | 5.00                                  | 73,79,449                            | 1.37                                        | 5.00                                  |
-| 490 - 1,700 (ESOP)                         | -                                    | -                                           | -                                     | 53,61,166                            | 7.17                                        | 1,663                                 |
-
-The summary of information about equity settled RSUs and ESOPs outstanding as at March 31, 2025 was as follows:
-| Range of exercise prices per share ( ` )   | 2019 Plan - Options outstanding      | 2019 Plan - Options outstanding             | 2019 Plan - Options outstanding       | 2015 Plan - Options outstanding      | 2015 Plan - Options outstanding             | 2015 Plan - Options outstanding       |
-|--------------------------------------------|--------------------------------------|---------------------------------------------|---------------------------------------|--------------------------------------|---------------------------------------------|---------------------------------------|
-| Range of exercise prices per share ( ` )   | No. of shares arising out of options | Weighted average remaining contractual life | Weighted average exercise price ( ` ) | No. of shares arising out of options | Weighted average remaining contractual life | Weighted average exercise price ( ` ) |
-| 0 - 5 (RSU)                                | 80,72,635                            | 1.23                                        | 5.00                                  | 72,59,464                            | 1.51                                        | 5.00                                  |
-| 450 - 640 (ESOP)                           | -                                    | -                                           | -                                     | 17,554                               | 0.58                                        | 499                                   |
-
-As at March 31, 2026 and March 31, 2025, 3,87,949 and 2,88,384 cash settled options were outstanding respectively. The carrying value of liability towards cash settled share based payments was ` 5 crore and ` 8 crore as at March 31, 2026 and March 31, 2025, respectively.
-The fair value of the awards are estimated using the Black-Scholes Model for time and non-market performance-based options and Monte Carlo simulation model is used for TSR based options.
-The inputs to the model include the share price at date of grant, exercise price, expected volatility, expected dividends, expected term and the risk free rate of interest. Expected volatility during the expected term of the options is based on historical volatility of the observed market prices of the Company's publicly traded equity shares during a period equivalent to the expected term of the options. Expected volatility of the comparative company have been modelled based on historical movements in the market prices of their publicly traded equity shares during a period equivalent to the expected term of the options. Correlation coefficient is calculated between each peer entity and the indices as a whole or between each entity in the peer group.
-The fair value of each equity settled award is estimated on the date of grant using the following assumptions:
-| Particulars                                                  | For options granted in         | For options granted in   | For options granted in           | For options granted in   | For options granted in         | For options granted in   |
-|--------------------------------------------------------------|--------------------------------|--------------------------|----------------------------------|--------------------------|--------------------------------|--------------------------|
-|                                                              | Fiscal 2026- Equity Shares-RSU | Fiscal 2026- ADS-RSU     | Fiscal 2026- Equity Shares- ESOP | Fiscal 2026- ADS-ESOP    | Fiscal 2025- Equity Shares-RSU | Fiscal 2025- ADS-RSU     |
-| Weighted average share price ( ` ) / ($ ADS)                 | 1,641                          | 17.55                    | 1,554                            | 17.93                    | 1,808                          | 21.44                    |
-| Exercise price ( ` ) / ($ ADS)                               | 5.00                           | 0.10                     | 1,554                            | 17.93                    | 5.00                           | 0.07                     |
-| Expected volatility (%)                                      | 23-26                          | 25-29                    | 25-28                            | 26-30                    | 21-26                          | 23-28                    |
-| Expected life of the option (years)                          | 1-4                            | 1-4                      | 3-7                              | 3-7                      | 1-4                            | 1-4                      |
-| Expected dividends (%)                                       | 2-3                            | 2-3                      | 2-3                              | 2-3                      | 2-3                            | 2-3                      |
-| Risk-free interest rate (%)                                  | 6                              | 4                        | 6                                | 4                        | 7                              | 4-5                      |
-| Weighted average fair value as on grant date ( ` ) / ($ ADS) | 1,331                          | 14.16                    | 390                              | 4.09                     | 1,555                          | 18.20                    |
-
-The expected life of the RSU / ESOP is estimated based on the vesting term and contractual term of the RSU / ESOP, as well as expected exercise behavior of the employee who receives the RSU / ESOP.
+## 9. Other information
+The Company's management is responsible for the other information. The other information comprises the information included within the BRSR, the IAR and the Environment Social and Governance (the 'ESG') Report, other than Identified Sustainability Information and our independent assurance reports dated May 27, 2026 thereon.
+Our opinion on the Identified Sustainability Information does not cover the other information and we do not express any form of assurance thereon.
+In connection with our assurance engagement of the Identified Sustainability Information, our responsibility is to read the other information and, in doing so, consider whether the other information is materially inconsistent with the Identified Sustainability Information or otherwise appears to be materially misstated.
+If, based on the work we have performed, we conclude that there is a material misstatement of this other information, we are required to report that fact. We have nothing to report in this regard.
+## 10. Reasonable Assurance Opinion
+Based on the procedures we have performed and the evidence we have obtained, the BRSR Core indicators for the year ended March 31, 2026 listed in Appendix I and presented in the BRSR are prepared in all material respects, in accordance with the Criteria as stated in paragraph 3 above.
+## 11. Restriction on use
+Our Reasonable Assurance report has been prepared and addressed to the Board of Directors of the Company at the request of the Company solely, to assist the Company in reporting on Company's sustainability performance and activities. Accordingly, we accept no liability to anyone, other than the Company. Our Reasonable Assurance report should not be used for any other purpose or by any person other than the addressees of our report. We neither accept nor assume any duty of care or liability for any other purpose or to any other party to whom our report is shown or into whose hands it may come without our prior consent in writing.
+## For Deloitte Haskins &amp; Sells LLP
+Chartered Accountants (Firm's Registration No. 117366W / W-100018)
+## Pratiq Shah
+Partner Membership No. 111850
+UDIN: 26111850KUSBYW7076
+Place: Ahmedabad
+Date: May 27, 2026
+APPENDIX I
+## Identified Sustainability Information subject to Reasonable Assurance
+| Sr. No.                                                                         | Reporting Standard Reference                                                                                                       | Indicator number and description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|---------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Section C: Principle [P] Wise Performance Disclosures- Essential Indicators [E] | Section C: Principle [P] Wise Performance Disclosures- Essential Indicators [E]                                                    | Section C: Principle [P] Wise Performance Disclosures- Essential Indicators [E]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| 1                                                                               | P-1: Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, Transparent and Accountable. | E-8: Number of days of accounts payables ((Accounts payable *365) / Cost of goods/services procured). E-9: Details of concentration of purchases and sales with trading houses, dealers, and related parties along-with loans and advances and investments, with related parties.                                                                                                                                                                                                                                                                                                                             |
+| 2                                                                               | P-3: Businesses should respect and promote the well- being of all employees, including those in their value chains.                | E-1c: Spending on measures towards well-being of employees and workers (including permanent and other than permanent). E-11: Details of safety related incidents.                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| 3                                                                               | P-5: Businesses should respect and promote human rights.                                                                           | E-3b: Gross wages paid to females as %of total wages paid by the entity. E-7: Complaints filed under the Sexual Harassment of Womenat Workplace (Prevention, Prohibition and Redressal) Act, 2013.                                                                                                                                                                                                                                                                                                                                                                                                            |
+| 4                                                                               | P-6: Businesses should respect and make efforts to protect and restore the environment.                                            | E-1: Details of total energy consumption (in Joules or multiples) and energy intensity. E-3: Disclosures related to water withdrawal and consumption (in Kilo litres) and its intensity. E-4: Details related to water discharged (in Kilo litres). E-7: Details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) (in tCo2e) and its intensity. E-9: Details of waste generated (in metric tonnes), and its intensity, total waste recovered through recycling, re-using or other recovery operations (in metric tonnes) and total waste disposed by nature of disposal method (in metric tonnes). |
+| 5                                                                               | P-8: Businesses should promote inclusive growth and equitable development.                                                         | E-4: Percentage of input material (inputs to total inputs by value) sourced from suppliers. E-5: Job creation wages paid to persons employed (including employees or workers employed on a permanent or non-permanent / on contract basis), as %of total wage cost.                                                                                                                                                                                                                                                                                                                                           |
+| 6                                                                               | P-9: Businesses should engage with and provide value to their consumers in a responsible manner.                                   | E-7: Information relating to data breaches.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |

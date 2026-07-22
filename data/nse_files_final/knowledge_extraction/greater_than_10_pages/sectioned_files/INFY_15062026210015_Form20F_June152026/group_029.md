@@ -1,186 +1,137 @@
 ---
 document_name: "INFY_15062026210015_Form20F_June152026.md"
 group_id: "INFY_15062026210015_Form20F_June152026__group_029"
-source_section_count: 3
-page_start: 369
-page_end: 375
-estimated_tokens: 4661
+source_section_count: 2
+page_start: 198
+page_end: 205
+estimated_tokens: 4190
 source_section_ids:
-  - "INFY_15062026210015_Form20F_June152026__098"
-  - "INFY_15062026210015_Form20F_June152026__099"
-  - "INFY_15062026210015_Form20F_June152026__100"
+  - "INFY_15062026210015_Form20F_June152026__056"
+  - "INFY_15062026210015_Form20F_June152026__057"
 ---
 
-## Industrial Espionage
-Our commitment to fairness includes respecting the rights of our competitors and abiding by all applicable laws. As a lawful competitor and to help ensure the integrity of the competitive marketplace, we must respect our competitors. Take care that we do not appropriate or unlawfully use the information, material, products, intellectual property, or proprietary or confidential information of anyone including suppliers, customers, business partners or competitors.
-## Governmental Relations
-While all our clients are treated with respect, we should be especially careful while dealing with government clients. There are significant penalties in many countries, including debarment and monetary penalties for organizations that fail to follow the law while working for government clients. The principles set out in Section B of this Code of Conduct 'Ethics in Our Business Activities' and Anti-Bribery and Anti-Corruption Policy of the Company must be strictly followed by all who interact with government officials especially with respect to gifts and entertainment. We should not attempt to influence government employees in any manner other than what is agreed in our contractual arrangement with the government. Employment opportunities for former government officials must not be discussed without first seeking guidance and approval of the Office of Integrity and Compliance. Similarly, we should not initiate discussions for any contract with any business in which a government official or employee holds a significant interest, without the prior approval of the Office of Integrity and Compliance. Reach out to OIC@infosys.com for approvals.
-## Selecting Suppliers
-The Company's suppliers make significant contributions to our success. We strive to create an environment where our suppliers are confident that they will be treated with respect. We select our significant suppliers or enter into significant supplier agreements though a competitive bid process where possible. For more information, read our Supplier Code of Conduct.
-## E. RECORDS, DISCLOSURES AND AUDITS
-## Maintaining Accurate Records
-The integrity of our financial transactions and records is critical to the operation of our business. Our shareholders' trust is based on their confidence in the accurate recording of our financial transactions. Additionally, as a listed company, we are bound by certain standards for accurate financial reporting and we are required to have appropriate internal controls and procedures. If we have responsibility for or any involvement in financial reporting or accounting, we should have an appropriate understanding of, and you should seek in good faith to adhere to, relevant accounting and financial reporting principles, standards, laws, rules and regulations and the company's financial and accounting policies, controls and procedures.
-If we are a senior officer, we should seek to ensure that the internal controls and procedures in your business area are in place, understood and followed.
-Additionally we should take every precaution, whether we are otherwise required to be familiar with finance or accounting matters or not, to ensure that every business record or report with which we deal is honestly filled in, accurate, complete and reliable. For more information, refer to the Policies on Reimbursement of Official Expenses. Additional policies may be applicable, based on your location.
-## Ensuring Accurate Public Disclosures
-Infosys is committed to provide full, fair, accurate, timely and clear disclosures in reports and documents that we file with, or submit to our regulators and in our other public communications. To enable this, we must ensure that we comply with our disclosure controls and procedures, and our internal control over financial reporting.
-## Auditors
-Our outside auditors have a duty to review our records in a fair and accurate manner. We must cooperate with them in good faith and in accordance with law. We must never mislead them in any manner regarding financial records, processes, controls or procedures or other matters which they may enquire about.
-## Interacting with Regulators
-We must fully and truthfully cooperate with any examination or request for information from a regulator or law enforcement agency. Any contact with law enforcement agencies or regulators must be coordinated through the Legal Department.
-## Records on Legal Hold
-In certain circumstances, such as litigation or government investigations, we may be informed by the Legal Department that a legal hold is placed on records for which we are responsible. A legal hold prevents the destruction of documents which may be required for such investigations. We must all comply with instructions of the Legal Department if a legal hold is placed.
-Unless released in writing by the Legal Department, a legal hold remains effective. If you have any questions about a legal hold, contact the person who has sent you the notice of legal hold.
-## Record Retention
-All Company records shall be maintained in accordance with our Document Retention and Archival Policy.
-## Do Not
--  Enter information in the Company's records that hides the true nature of any financial or non-financial transaction or result.
--  Establish any undisclosed or unrecorded fund, account, asset or liability for any improper purpose.
--  Enter into any transaction or agreement that could affect the accurate and timely recording of revenues or expenses.
+#       net of treasury shares
+(1) excludes treasury shares of  8,650,911 as of March 31, 2026, 9,655,927 as of March 31, 2025, 10,916,829  as of March 31, 2024, and 12,172,119 as of April 1, 2023, held by consolidated trust.
+(2) Represents the Special Economic Zone Re-investment reserve created out of the profit of the eligible SEZ unit in terms of the provisions of Sec 10AA(1)(ii) of Income Tax Act,1961.
+The reserve should be utilized by the Group for acquiring new plant and machinery for the purpose of its business in terms of the provisions of the Sec 10AA(2) of the Income Tax Act,
+1961.
+The accompanying notes form an integral part of the consolidated financial statements.
+## Infosys Limited and subsidiaries Consolidated Statements of Cash Flows Accounting policy
+Cash flows are reported using the indirect method, whereby profit for the year is adjusted for the effects of transactions of a non-cash  nature,  any  deferrals  or  accruals  of  past  or  future  operating  cash  receipts  or  payments  and  item  of  income  or expenses associated with investing or financing cash flows. The cash flows from operating, investing and financing activities of the Group are segregated. The Group considers all highly liquid investments that are readily convertible to known amounts of cash to be cash equivalents.
+| For the years ended March 31,                                                      | Note             | 2026    | 2025    | (Dollars in millions) 2024   |
+|------------------------------------------------------------------------------------|------------------|---------|---------|------------------------------|
+| Operating activities:                                                              |                  |         |         |                              |
+| Net profit                                                                         |                  | 3,316   | 3,162   | 3,169                        |
+| Adjustments to reconcile net profit to net cash provided by operating activities:  |                  |         |         |                              |
+| Depreciation and amortization                                                      | 2.7, 2.8 and 2.9 | 552     | 569     | 565                          |
+| Interest and dividend income                                                       |                  | (127)   | (139)   | (138)                        |
+| Finance cost                                                                       |                  | 47      | 49      | 56                           |
+| Income tax expense                                                                 | 2.18             | 1,190   | 1,285   | 1,177                        |
+| Exchange differences on translation of assets and liabilities, net                 |                  | 106     | 9       | 11                           |
+| Impairment loss recognized/(reversed) under expected credit loss model             |                  | 4       | 6       | 15                           |
+| Stock compensation expense                                                         |                  | 108     | 95      | 79                           |
+| Provision for post-sales client support and other provisions                       |                  | (19)    | (13)    | 9                            |
+| Interest receivable on income tax refund                                           |                  | (7)     | (39)    | (234)                        |
+| Other adjustments                                                                  |                  | 101     | 99      | 176                          |
+| Changes in working capital                                                         |                  |         |         |                              |
+| Trade receivables and unbilled revenues                                            |                  | (583)   | (209)   | (322)                        |
+| Prepayments and other assets                                                       |                  | (260)   | (157)   | (151)                        |
+| Trade payables                                                                     |                  | (3)     | 21      | 11                           |
+| Unearned revenues                                                                  |                  | 349     | 135     | 21                           |
+| Other liabilities and provisions                                                   |                  | 238     | 140     | (182)                        |
+| Cash generated from operations                                                     |                  | 5,012   | 5,013   | 4,262                        |
+| Income taxes paid                                                                  | 2.18             | (973)   | (662)   | (1,114)                      |
+| Net cash generated by operating activities                                         |                  | 4,039   | 4,351   | 3,148                        |
+| Investing activities:                                                              |                  |         |         |                              |
+| Expenditure on property, plant and equipment and intangibles, net of sale proceeds | 2.7              | (306)   | (263)   | (266)                        |
+| Deposits placed with corporation                                                   |                  | (106)   | (145)   | (102)                        |
+| Redemption of deposits placed with corporation                                     |                  | 82      | 92      | 86                           |
+| Interest and dividend received                                                     |                  | 98      | 113     | 110                          |
+| Payment for acquisition of business, net of cash acquired                          | 2.10             | (76)    | (377)   | -                            |
+| Payment of contingent consideration pertaining to acquisition of business          |                  | (1)     | -       | (12)                         |
+| Escrow and other deposits pertaining to Buyback                                    |                  | (204)   | -       | -                            |
+| Redemption of escrow and other deposits pertaining to Buyback                      |                  | 204     | -       | -                            |
+| Other receipts                                                                     |                  | 1       | 1       | 16                           |
+| Payments to acquire Investments                                                    |                  |         |         |                              |
+| Mutual fund units                                                                  |                  | (8,200) | (8,636) | (7,990)                      |
+| Certificates of deposit                                                            |                  | (1,579) | (825)   | (1,027)                      |
+| Quoted debt securities                                                             |                  | (726)   | (383)   | (184)                        |
+| Commercial paper                                                                   |                  | (366)   | (757)   | (1,254)                      |
+| Other investments                                                                  |                  | (4)     | (7)     | (2)                          |
+| Proceeds on sale of Investments                                                    |                  |         |         |                              |
+| Mutual fund units                                                                  |                  | 8,178   | 8,747   | 7,818                        |
+| Target maturity fund units                                                         |                  | 56      | -       | -                            |
+| Certificates of deposit                                                            |                  | 1,099   | 791     | 1,111                        |
+| Quoted debt securities                                                             |                  | 1,206   | 373     | 203                          |
+| Commercial paper                                                                   |                  | 654     | 914     | 782                          |
+| Other investments                                                                  |                  | -       | 1       | 3                            |
+| Net cash used in investing activities                                              |                  | 10      | (361)   | (708)                        |
+| Financing activities:                                                              |                  |         |         |                              |
+| Payment of lease liabilities                                                       |                  | (318)   | (278)   | (245)                        |
+| Payment of dividends                                                               |                  | (2,133) | (2,416) | (1,777)                      |
+| Payment of dividends to non-controlling interests of subsidiary                    |                  | -       | -       | (5)                          |
+| Shares issued on exercise of employee stock options                                |                  | -       | 1       | 1                            |
+| Payment towards purchase of non-controlling interest                               |                  | -       | -       | (2)                          |
+| Loan repayment of in-tech Holding GmbH (Refer to note 2.10)                        |                  | -       | (118)   | -                            |
+| Other payments                                                                     |                  | (28)    | (64)    | (88)                         |
+| Buyback of equity shares including transaction costs                               |                  | (2,006) | -       | -                            |
+| Net cash used in financing activities                                              |                  | (4,485) | (2,875) | (2,116)                      |
+| Net increase/(decrease) in cash and cash equivalents                               |                  | (436)   | 1,115   | 324                          |
+| Effect of exchange rate changes on cash and cash equivalents                       |                  | (84)    | (27)    |                              |
+|                                                                                    |                  |         |         | (32)                         |
+| Cash and cash equivalents at the beginning                                         | 2.1              | 2,861   | 1,773   | 1,481 1,773                  |
+| Cash and cash equivalents at the end                                               | 2.1              | 2,341   | 2,861   |                              |
+| Supplementary information:                                                         |                  |         |         |                              |
+| Restricted cash balance                                                            | 2.1              | 44      | 50      | 42                           |
 
-## F. ADMINISTERING OUR CODE
-The Office of Integrity and Compliance is responsible for administering the Code and reports to the General Counsel and the Audit Committee of the Company.
-## Investigations
-We investigate all potential legal or Code violations. Investigations are conducted in confidence and with fairness and respect. We are required to maintain strict confidentiality and must refrain from sharing details unless necessary. We must also fully cooperate with investigations and provide accurate information when requested. If at the conclusion of an investigation, the Company determines that a violation has occurred, it will take effective remedial action commensurate with the nature of the violation. We are encouraged to report a potential violation in good faith, and assist in investigations and related processes. We will be protected from any retaliation. If we are the subject of an external criminal investigation, we must promptly inform our manager unless it is prohibited by law.
-## Amendments/Modifications to Our Code
-Our Company's Board is responsible for approving and issuing the Code. The Code was first effective on April 10, 2003, with revisions through July 12, 2019, October 13, 2021, October 13, 2022, July 18, 2024 and April 23, 2026. Our Code is reviewed annually to determine whether revisions may be required due to changes in the law or regulations, or changes in our business or the business environment. The Board of Directors must approve any changes to our Code.
-## Acknowledgement
-Employees and our Board of Directors are required to acknowledge that they have read and understood the Code. Our Independent directors may be required to acknowledge acceptance of the Code for Independent Directors as well. We must remember that under no circumstances does our failure to read our Code, sign an acknowledgement or certify online exempt us from our obligation to comply with our Code.
-## Waivers
-Any waiver of our Code requires the prior written approval of the Office of Integrity and Compliance or, in certain circumstances, the Board of Directors or a committee thereof. Waivers will be promptly disclosed as required by applicable law.
-## Disciplinary Actions
-If we violate our Code, the Company will take appropriate disciplinary action.
-The matters covered in this Code are of the utmost importance to the Company, its shareholders and its business partners, and are essential to the Company's ability to conduct its business in accordance with its stated values. We expect all of our directors, officers, employees and third party agents to adhere to these rules in carrying out their duties for the Company
-We take violations of this Code, Company policies and applicable laws seriously. Where appropriate, the Company takes prompt corrective action, up to and including termination of employment. We strive for consistency and fairness in discipline for Code violations. Discipline may include a verbal or written warning; suspension with or without pay; loss or reduction of bonus or stock options; or, for the most serious offenses or repeated misconduct, termination of employment.
-Any disciplinary action depends on the nature, severity, and frequency of the violation. It may vary depending upon local law. Please understand that those who violate the laws or regulations mentioned in the Code could expose themselves and the Company to substantial civil damages and criminal penalties.
-Corrective action may be taken if we:
--  Violate the Code, Company policies and procedures, or applicable laws.
--  Direct others to violate the Code, Company policies and procedures, or applicable laws.
--  Are aware of a violation or potential violation, and fail to report it.
--  Fail to effectively monitor the actions of people you manage.
--  Do not cooperate in a Company audit or investigation.
--  Fail to participate in required training.
--  Retaliate against someone for reporting a concern in good faith or for participating in an investigation of such a report.
--  Disclose information learned during an internal investigation.
+The accompanying notes form an integral part of the consolidated financial statements
+## Overview and Notes to the Consolidated Financial Statements
+## 1. Overview
+## 1.1 Company overview
+Infosys  Limited  ('the  Company'  or  'Infosys')  provides  AI-first  business  consulting  and  technology  services,  to  enable organizations to unlock AI value at scale. With over four decades of experience in managing the systems and workings of global enterprises, Infosys accelerates business transformation through its AI-first value framework, deep domain expertise, and unique ability to orchestrate innovations from its AI-native partner ecosystem. Infosys' strategy is to be the navigator for its clients as they ideate, plan and execute on their journey to an AI-first future.
+Infosys together with its subsidiaries and controlled trusts is herein after referred to as the 'Group'.
+The Company is a public limited company incorporated and domiciled in India and has its registered office at Bengaluru, Karnataka, India. The Company has its primary listings on the BSE Limited and National Stock Exchange of India Limited in India. The Company's American Depositary Shares ('ADS') representing equity shares are listed on the New York Stock Exchange ('NYSE').
+The Group's consolidated financial statements are authorized for issue by the Company's Board of Directors on June 15, 2026.
+## 1.2 Basis of preparation of financial statements
+These  consolidated  financial  statements  are  prepared  in  compliance  with  International  Financial  Reporting  Standards ('IFRS') as  issued  by  the  International  Accounting  Standards  Board ('IASB'),  under  the  historical  cost  convention  on accrual basis except for certain financial instruments which are measured at fair value and defined benefit liability/(asset) which is recognized at the present value of defined benefit obligation less fair value of plan assets. Accounting policies are consistently  applied  except  where  a  newly  issued  accounting  standard  is  initially  adopted  or  a  revision  to  an  existing accounting standard requires a change in the accounting policy hitherto in use.
+The material accounting policy information used in preparation of the consolidated financial statements have been discussed in the respective notes.
+## 1.3 Basis of consolidation
+Infosys  consolidates  entities  which  it  owns  or  controls.  The  consolidated  financial  statements  comprise  the  financial statements of the Company, its controlled trusts and its subsidiaries. Control exists when the parent has power over the entity, is exposed, or has rights, to variable returns from its involvement with the entity and has the ability to affect those returns by using its power over the entity. Power is demonstrated through existing rights that give the ability to direct relevant activities, those which significantly affect the entity's returns. Subsidiaries are consolidated from the date control commences until the date control ceases.
+The  financial  statements  of  the  Group  companies  are  consolidated  on  a  line-by-line  basis  and  intra-group  balances  and transactions  including  unrealized  gain  /  loss  from  such  transactions  are  eliminated  upon  consolidation.  These  financial statements  are  prepared  by  applying  uniform  accounting  policies  in  use  at  the  Group.  Non-controlling  interests  which represent part of the net profit or loss and net assets of subsidiaries that are not, directly or indirectly, owned or controlled by the company, are excluded.
+Refer to Note 2.20 for the list of subsidiaries and controlled trusts of the Company.
 
-## SPEAK UP
-Report your concerns to your manager, skip-level manager, Human Resources , or the Helpline. The helpline numbers are :
--  U.S. Toll Free #: 1-800-236-6618
--  U.K. Toll Free #: 0-808-189-1043
--  India Toll Free #: 000-800-100-4380
--  You can also report at http://oic.infosys.com
--  Local helpline numbers are available at http://oic.infosys.com
-
-Use the helpline to report:
--  Inaccuracy of financial records
--  Accounting and auditing irregularities
--  Bribery, corruption or illegal payments
--  Criminal conduct and violations of law
--  Discrimination and harassment
--  Conflicts of interest
--  You can also write to whistleblower@infosys.com, or to the Chief Compliance Officer at complianceoffice@infosys.com.
-
-You can also write to whistleblower@infosys.com, or to the Chief Compliance Officer at complianceoffice@infosys.com. If you have concerns about reaching out to the Chief Compliance Officer, your report may be made to the Audit Committee of Infosys at Audit.Committee@infosys.com.
-For more details, read the Company's Whistleblower Policy available on the Infosys intranet and on the Infosys website at: https://www.infosys.com/investors/corporate-governance/documents/whistleblower    policy.pdf.
--  If you have concerns relating to your fellow employees' behavior, you can also reach out to HEAR@infosys.com.
--  Grievances relating to sexual harassment may be raised by writing to GRB@infosys.com.
-
-## Retaliation is against our values
-If you observe violations of Infosys values and principles, you are encouraged to report such incidents to the Helpline.  Infosys does not tolerate any form of threat, retribution or retaliation (whether by a manager, co-worker or otherwise) against any person because of any good faith report that is raised. This protection also extends to anyone who assists with or cooperates in an investigation. We support those who support our values.
-## Form of Acknowledgment of Receipt of Code of Conduct and Ethics
-I have received and read the Company's Code of Conduct and Ethics. I understand the standards and policies contained in the Company Code of Conduct and Ethics and understand that there may be additional policies or laws specific to my job and/or the location of my posting. I further agree to follow the values of the Company in all that I do and comply with the Company Code of Conduct and Ethics.
-If I have questions concerning the meaning or application of the Company Code of Conduct and Ethics, any Company policies, or the legal and regulatory requirements applicable to my job, I know I can consult my manager, the Office of Integrity &amp; Compliance, the Human Resources Department or the Legal Department, knowing that my questions or reports to these sources will be maintained in confidence.
-| EmployeeName   | Signature   |
-|----------------|-------------|
-| Employee No.   | Date        |
-
-Please sign and return this form to the Human Resources Department.
-| INDEX                   |                        |                         |                            |                       |                            |
-|-------------------------|------------------------|-------------------------|----------------------------|-----------------------|----------------------------|
-| Anti-competitive        | 19, 40                 | Facilitation Payment    | 19, 20, 23                 | Non Retaliation       | 14                         |
-| Anti-corruption         | 19, 21, 22, 23, 24, 42 | FamilyandFriends        | 25, 29                     | Outside Directorships | 29                         |
-| Books and Records       | 22                     | Financial Records       | 44, 49                     | OutsideEmployment     | 29                         |
-| Boycott                 | 27                     | Gifts and Entertainment | 16, 22, 42                 | Political Activities  | 16,31,37                   |
-| Bribery                 | 19, 20, 21, 22,42, 49  | GovernmentOfficials     | 19,20,22,23,24,31, 42      | Record Retention      | 45                         |
-| Business Partners       | 42, 48                 | Harassment              | 16, 17,18, 49              | Related Party         | 29                         |
-| Cash                    | 21, 22, 23, 37         | InsiderTrading          | 23, 24, 25                 | Reporting             | 29, 43, 44, 48             |
-| CompanyAssets           | 16,33,36,37            | IntellectualProperty    | 16,35,37, 42               | Retaliation           | 5,14, 47, 49               |
-| CompanyRecords          | 45                     | Internet                | 36                         | SafeWork              | 18                         |
-| ConfidentialInformation | 16,33,34,36,37,39,42   | Intimidation            | 18                         | Environment           | 5,6,14,17,18,42,47         |
-| Confidentiality         | 33,34,37,39            | Inventions              | 35                         | Security              | 18,25,34,36,37             |
-| ConflictsofInterest     | 28,29,30,41, 49        | Investigations          | 9,14,16,45,47,48,49        | SexualHarassment      | 49                         |
-| Copyrights              | 35, 37                 | Investments             | 21, 29                     | Social Media          | 30                         |
-| Corruption              | 16, 19, 20             | Invoices                | 23, 27                     | Subsidiaries          | 14                         |
-| Data                    | 26, 34, 37             | Kickbacks               | 19, 20                     | Suppliers             | 14,16,20,29,34,38,39,40,42 |
-| Discrimination          | 16, 17,18, 49          | Legal Hold              | 45                         | Third Parties         | 16,20,23,24,34,39          |
-| Diversity               | 17                     | Loans                   | 21, 29                     | Trademarks            | 35,37                      |
-| Emails                  | 34                     | Manager                 | 10,13,14,15,29,37,41,47,49 | Violence              | 18                         |
-| ExportControls          | 26                     | MediaInquiries          | 35,36                      |                       |                            |
-
-## INDEXOFPOLICIES
-- Anti-Bribery andAnti-CorruptionPolicy
-- AcceptableUsagePolicy
-- InfosysCodeonFairDisclosuresand InvestorRelations
-- DocumentRetentionandArchivalPolicy
-- HumanRightsStatement
-- InformationSecurityPolicy
-- InsiderTradingPolicy
-- Anti-TrustPolicy
-- Exportcontrolpolicy
-- PolicyonReimbursementofOfficial Expensesin India
-- PrivacyPolicy
-- ReimbursementofOfficial ExpensesoutsideIndia
-- SupplierCodeofConduct
-- U.S.Equal OpportunityStatement
-- WhistleblowerPolicy
-- CodeofConductand Ethics（Digital)
-- PolicyonPreventionandRedressal of HarassmentatInfosys
-
-<!-- image -->
-## CERTIFICATION OF CHIEF EXECUTIVE OFFICER PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002
-- I, Salil Parekh, certify that:
-1. I have reviewed this Annual Report on Form 20-F of Infosys Limited;
-2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;
-3. Based on my knowledge, the  financial  statements,  and  other  financial  information  included  in  this report,  fairly  present  in  all  material  respects  the  financial  condition,  results  of  operations  and  cash flows of the company as of, and for, the periods presented in this report;
-4. The  company's  other  certifying  officer  and  I  are  responsible  for  establishing  and  maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the company and have:
-- (a) Designed  such  disclosure  controls  and  procedures,  or  caused  such  disclosure  controls  and procedures to be designed under our supervision, to ensure that material information relating to the company, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;
-- (b) Designed  such  internal  control  over  financial  reporting,  or  caused  such  internal  control  over financial  reporting  to  be  designed  under  our  supervision,  to  provide  reasonable  assurance regarding  the  reliability  of  financial  reporting  and  the  preparation  of  financial  statements  for external purposes in accordance with generally accepted accounting principles;
-- (c) Evaluated the effectiveness of the company's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and
-- (d) Disclosed in this report any change in the company's internal control over financial reporting that occurred  during  the  period  covered  by  the  annual  report  that  has  materially  affected,  or  is reasonably likely to materially affect, the company's internal control over financial reporting; and
-5. The company's other certifying officer and I have disclosed, based on our most recent evaluation of internal  control  over  financial  reporting,  to  the  company's  auditors  and  the  audit  committee  of  the company's board of directors (or persons performing the equivalent functions):
-- (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial  reporting  which  are  reasonably  likely  to  adversely  affect  the  company's  ability  to record, process, summarize and report financial information; and
-- (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the company's internal control over financial reporting.
-
-/s/ Salil Parekh
-Salil Parekh Chief Executive Officer and Managing Director
-## CERTIFICATION OF CHIEF FINANCIAL OFFICER PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002
-I, Jayesh Sanghrajka, certify that:
-1. I have reviewed this Annual Report on Form 20-F of Infosys Limited;
-2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;
-3. Based on my knowledge, the  financial  statements,  and  other  financial  information  included  in  this report,  fairly  present  in  all  material  respects  the  financial  condition,  results  of  operations  and  cash flows of the company as of, and for, the periods presented in this report;
-4. The  company's  other  certifying  officer  and  I  are  responsible  for  establishing  and  maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the company and have:
-5. (a) Designed  such  disclosure  controls  and  procedures,  or  caused  such  disclosure  controls  and procedures to be designed under our supervision, to ensure that material information relating to the company, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;
-6. (b) Designed  such  internal  control  over  financial  reporting,  or  caused  such  internal  control  over financial  reporting  to  be  designed  under  our  supervision,  to  provide  reasonable  assurance regarding  the  reliability  of  financial  reporting  and  the  preparation  of  financial  statements  for external purposes in accordance with generally accepted accounting principles;
-7. (c) Evaluated the effectiveness of the company's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and
-8. (d) Disclosed in this report any change in the company's internal control over financial reporting that occurred  during  the  period  covered  by  the  annual  report  that  has  materially  affected,  or  is reasonably likely to materially affect, the company's internal control over financial reporting; and
-5. The company's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the company's auditors and the audit committee of the company's board of directors (or persons performing the equivalent functions):
-10. (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial  reporting  which  are  reasonably  likely  to  adversely  affect  the  company's  ability  to record, process, summarize and report financial information; and
-11. (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the company's internal control over financial reporting.
-
-/s/ Jayesh Sanghrajka
-Jayesh Sanghrajka Chief Financial Officer
-
-## CERTIFICATION OF CHIEF EXECUTIVE OFFICER PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
-I,  Salil  Parekh, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that the Annual Report on Form 20-F of Infosys Limited for the year ended March 31, 2026, fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act  of  1934,  as  amended,  and  that  information  contained  in  such  Annual  Report  on  Form  20-F  fairly presents in all material respects the financial condition and results of operations of Infosys Limited.
-/s/ Salil Parekh
-Salil Parekh
-Chief Executive Officer and Managing Director
-Date: June 15, 2026
-## CERTIFICATION OF CHIEF FINANCIAL OFFICER PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
-I, Jayesh Sanghrajka, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that the Annual Report on Form 20-F of Infosys Limited for the year ended March 31, 2026, fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, and that information contained in such Annual Report on Form 20-F fairly presents in all material respects the financial condition and results of operations of Infosys Limited.
-/s/ Jayesh Sanghrajka
-Jayesh Sanghrajka Chief Financial Officer
-Date: June 15, 2026
-## CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
-We consent to the incorporation by reference in the Registration Statement No. 333-212767 and 333236753 on Form S-8 of our reports dated June 15, 2026 relating to the financial statements of Infosys Limited and the effectiveness of Infosys Limited's internal control over financial reporting appearing in the Annual Report on Form 20-F for the year ended March 31, 2026.
-/s/Deloitte Haskins &amp; Sells LLP Bengaluru, India June 15, 2026
+## 1.4 Use of estimates and judgments
+The preparation of the consolidated financial statements in conformity with IFRS requires management to make estimates, judgments and assumptions. These estimates, judgments and assumptions affect the application of accounting policies and the reported amounts of assets and liabilities, the disclosures of contingent assets and liabilities at the date of the consolidated financial statements and reported amounts of revenues and expenses during the period. Application of accounting policies that require critical accounting estimates involving complex and subjective judgments and the use of assumptions in these consolidated financial statements have been disclosed in Note 1.5. Critical Accounting estimates and judgments could change from  period  to  period.  Actual  results  could  differ  from  those  estimates.  Appropriate  changes  in  estimates  are  made  as management becomes aware of changes in circumstances surrounding the estimates. Changes in estimates and judgments are reflected in the consolidated financial statements in the period in which changes are made and, if material, their effects are disclosed in the notes to the consolidated financial statements.
+## 1.5 Critical accounting estimates and judgements
+## a. Revenue recognition
+The Group's contracts with customers include promises to transfer multiple products and services to a customer. Revenues from customer contracts are considered for recognition and measurement when the contract has been approved, in writing, by the parties to the contract, the parties to the contract are committed to perform their respective obligations under the contract, and  the  contract  is  legally  enforceable.  The  Group  assesses  the  services  promised  in  a  contract  and  identifies  distinct performance obligations in the contract. Identification of distinct performance obligations to determine the deliverables and the  ability  of  the  customer  to  benefit  independently  from  such  deliverables,  and  allocation  of  transaction  price  to  these distinct performance obligations involves significant judgement.
+Fixed  price  maintenance  revenue  is  recognized  ratably  on  a  straight-line  basis  when  services  are  performed  through  an indefinite number of repetitive acts over a specified period. Revenue from a fixed price maintenance contract is recognized ratably using a percentage of completion method when the pattern of benefits from the services rendered to the customer and Group's costs to fulfil the contract is not even through the period of the contract because the services are generally discrete in nature and not repetitive. The use of methods to recognize the maintenance revenues requires judgment and is based on the promises in the contract and nature of the deliverables.
+The Group uses the percentage-of-completion method in accounting for other fixed-price contracts. Use of the percentage-ofcompletion  method  requires  the  Group  to  determine  the  actual  efforts  or  costs  expended  to  date  as  a  proportion  of  the estimated  total  efforts  or  costs  to  be  incurred.  Efforts  or  costs  expended  have  been  used  to  measure  progress  towards completion as there is a direct relationship between input and productivity. The estimation of total efforts or costs involves significant judgement and is assessed throughout the period of the contract to reflect any changes based on the latest available information.
+Contracts with customers includes subcontractor services or third-party vendor equipment or software in certain integrated services  arrangements.  In  these  types  of  arrangements,  revenue  from  sales  of  third-party  vendor  products  or  services  is recorded net of costs when the Group is acting as an agent between the customer and the vendor, and gross when the Group is the principal for the transaction. In doing so, the Group first evaluates whether it obtains control of the specified goods or services before they are transferred to the customer. The Group considers whether it is primarily responsible for fulfilling the promise to provide the specified goods or services, inventory risk, pricing discretion and other factors to determine whether it controls the specified goods or services and therefore, is acting as a principal or an agent.
+Provisions  for  estimated  losses,  if  any,  on  incomplete  contracts  are  recorded  in  the  period  in  which  such  losses  become probable based on the estimated efforts or costs to complete the contract.
+## b. Income taxes
+The Group's two major tax jurisdictions are India and the United States, though the company also files tax returns in other overseas jurisdictions.
+Significant  judgments  are  involved  in  determining  the  provision  for  income  taxes,  including  amount  expected  to  be paid/recovered for uncertain tax positions.
+In assessing the realizability of deferred income tax assets, management considers whether some portion or all of the deferred income tax assets will not be realized. The ultimate realization of deferred income tax assets is dependent upon the generation of future taxable income during the periods in which the temporary differences become deductible. Management considers the  scheduled  reversals  of  deferred  income  tax  liabilities,  projected  future  taxable  income  and  tax  planning  strategies  in making this assessment. Based on the level of historical taxable income and projections for future taxable income over the periods in which the deferred income tax assets are deductible, management believes that the Group will realize the benefits of  those  deductible  differences.  The  amount  of  the  deferred  income  tax  assets  considered  realizable,  however,  could  be reduced in the near term if estimates of future taxable income during the carry forward period are reduced (Refer to Note 2.18).
+## c. Business combinations and intangible assets
+Business combinations are accounted for using IFRS 3 (Revised), Business Combinations. IFRS 3 requires us to fair value identifiable intangible assets and contingent consideration to ascertain the net fair value of identifiable assets, liabilities and contingent liabilities of the acquiree. These valuations are conducted by external valuation experts. Estimates are required to be  made  in  determining  the  value  of  contingent  consideration,  value  of  option  arrangements  and  intangible  assets.  These measurements are based on information available at the acquisition date and are based on expectations and assumptions that have been deemed reasonable by management (Refer to Note 2.9 and 2.10).
+## d. Property, plant and equipment
+Property, plant and equipment represent a significant proportion of the asset base of the Group. The charge in respect of periodic depreciation is derived after determining an estimate of an asset's expected useful life and the expected residual value at the end of its life. The useful lives and residual values of the Group's assets are determined by management at the time the asset is acquired and reviewed periodically, including at each financial year end. The lives are based on historical experience  with  similar  assets  as  well  as  anticipation  of  future  events,  which  may  impact  their  life,  such  as  changes  in technology (Refer to Note 2.7).
+## e. Impairment of Goodwill
+Goodwill is tested for impairment on an annual basis and whenever there is an indication that the recoverable amount of a cash generating unit ('CGU') is less than its carrying amount. For the impairment test, goodwill is allocated to the CGU or groups of CGUs which benefit from the synergies of the acquisition and which represent the lowest level at which goodwill is monitored for internal management purposes.
+The  recoverable  amount  of  CGUs  is  determined  based  on  higher  of  value-in-use  and  fair  value  less  cost  to  sell.  Key assumptions in the cash flow projections are prepared based on current economic conditions and comprises estimated long term growth rates, weighted average cost of capital and estimated operating margins (Refer to Note 2.9).
+## 1.6 Recent accounting pronouncements
+## New and revised IFRS Standards in issue but not yet effective:
+IFRS 18 Presentation and Disclosures in Financial Statements
+Presentation and Disclosures in Financial Statements : Amendments to the Classification and Measurement of Financial Instruments
+Amendments to IFRS 9 Financial Instruments and IFRS 7 Financial
+Instruments: Disclosures
+Amendments to IFRS 9 Financial Instruments and IFRS 7 Financial Instruments: Disclosures : Contracts Referencing Nature-dependent Electricity
+## IFRS 18 - Presentation and Disclosures in Financial Statements
+On April 9, 2024, IASB has issued IFRS 18- Presentation and Disclosures in Financial Statements that will replace IAS 1 Presentation of Financial Statements from its effective date. IFRS 18 introduces new requirements for information presented in the primary financial statements and disclosed in the notes. The new requirements are focused on the statement of profit or loss. IFRS 18 introduces three categories for income and expenses, that is, operating, investing and financing to improve the structure of the income statement. The standard also requires disclosure of newly defined management-defined performance measures, subtotals of income and expenses, and includes new requirements for aggregation and disaggregation of financial information  based  on  the  identified 'roles' of  the  primary  financial  statements  and  the  notes. In  addition,  narrow-scope amendments have been made to IAS 7 Statement of Cash Flows, which include changing the starting point for determining cash flows from operations under the indirect method, from 'profit or loss' to 'operating profit or loss' and removing the optionality around classification of cash flows from dividends and interest. In addition, there are consequential amendments to several other standards. IFRS 18 is effective for annual reporting periods beginning on or after January 1, 2027, although early adoption is permitted. The Group is in the process of evaluating the impact of adopting IFRS 18 and other amendments on the consolidated financial statements.
+## Amendments to IFRS 9 Financial Instruments and IFRS 7 Financial Instruments: Disclosures
+On  May  30,  2024,  IASB  has  issued  amendments  to  IFRS  9  Financial  Instruments  and  IFRS  7  Financial  Instruments: Disclosures,  which  clarifies  the  classification  of  financial  assets  with  environmental,  social  and  governance  (ESG)  and similar features, derecognition of financial liability settled through electronic payment systems and also introduces additional disclosure requirements to enhance transparency for investors regarding investments in equity instruments designated at fair value  through  other  comprehensive  income  and  financial  instruments  with  contingent  features.  Further,  the  amendments enhance the description of the term 'non-recourse', in particular to specify that a financial asset has non-recourse features if an entity's ultimate right to receive cash flows is contractually limited to the cash flows generated by specified assets.
+The effective date for adoption of this amendment is annual reporting periods beginning on or after January 1, 2026, although early adoption is permitted. The Group has evaluated the amendment and concluded there is no impact on its consolidated financial statements.
+On December 18, 2024, IASB has issued amendments to IFRS 9 Financial Instruments and IFRS 7 Financial Instruments: Disclosures, relating to factors an entity is required to consider in assessing the own-use requirements for contracts to buy and  take  delivery  of  nature-dependent  renewable  electricity;  hedge  accounting  treatment  for  nature-dependent  renewable electricity and related disclosures.
+The  effective  date  for  adoption  of  these  amendments  is  annual  reporting  periods  beginning  on  or  after  January  1,  2026, although early adoption is permitted. The Group has evaluated the amendment and there is no impact on its consolidated financial statements.
+## 2 Notes to the consolidated financial statements

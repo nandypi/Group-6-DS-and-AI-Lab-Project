@@ -1,260 +1,130 @@
 ---
 document_name: "INFY_15062026210015_Form20F_June152026.md"
 group_id: "INFY_15062026210015_Form20F_June152026__group_020"
-source_section_count: 3
-page_start: 248
-page_end: 261
-estimated_tokens: 9633
+source_section_count: 2
+page_start: 127
+page_end: 133
+estimated_tokens: 4348
 source_section_ids:
-  - "INFY_15062026210015_Form20F_June152026__068"
-  - "INFY_15062026210015_Form20F_June152026__069"
-  - "INFY_15062026210015_Form20F_June152026__070"
+  - "INFY_15062026210015_Form20F_June152026__038"
+  - "INFY_15062026210015_Form20F_June152026__039"
 ---
 
-## Goodwill is not tax-deductible.
-The  total  purchase  consideration  of  $385  million  comprises  the  cash  consideration  paid  to  selling  shareholders  at  the acquisition date.
-Additionally, this acquisition has retention bonus and management incentive payable to the employees of the acquiree over two  to  five  years,  subject  to  their  continuous  employment  with  the  Group  and  achievement  of  financial  targets  for  the respective  years.  Bonus  and  incentives  are  recognized  in  employee  benefit  expenses  in  the  Consolidated  Statement  of Comprehensive Income over the period of service.
-Fair value of trade receivables acquired is $17 million as of acquisition date and as of March 31, 2026 the amounts are fully collected.
-Transaction  costs  that  the  Group  incurs  in  connection  with  a  business  combination  such  as finder's fees,  legal  fees,  due diligence fees, and other professional and consulting fees are expensed as incurred. The transaction costs of $1 million related to the acquisition have been included under administrative expenses in the Consolidated Statement of Comprehensive Income for the year ended March 31, 2025.
-## Proposed acquisitions
-On August 13, 2025, Infosys Singapore Pte. Ltd., a wholly owned subsidiary of Infosys Limited, entered into a definitive agreement to acquire 75% of the equity share capital in Telstra Purple Pty Ltd, including some of its subsidiaries (together known as Versent Group), Australia's leading Digital Transformation Solutions Provider for a consideration including earnouts and deferred consideration amounting up to AUD 233 million (approximately $152 million), excluding retention bonus and management incentives, subject to regulatory approvals and customary closing adjustments.
-## Update on acquisition completed after the end of the reporting period
-On March 25, 2026, Infosys Nova Holdings LLC a wholly-owned subsidiary of Infosys Limited, entered into a definitive agreement to acquire 100% of the partnership interests of Stratus Global LLC, a leading insurance technology partner serving P&amp;C  insurers  and  managing  general  agents  (MGAs),  headquartered  in  USA,  for  a  consideration  including  earn-outs amounting  up  to  $95  million,  excluding  management  incentives,  and  retention  bonus,  subject  to  customary  closing adjustments. Subsequently in April 2026, as on the date these financial statements were authorized for issuance, Infosys Nova Holdings LLC has completed its acquisition of Stratus Global LLC.
-On March 25, 2026, Infosys Nova Holdings LLC , a wholly-owned subsidiary of Infosys Limited, entered into a definitive agreement  to  acquire  100%  of  the  equity  share  capital  of  Optimum  Achieve  Holdings  Inc.,  a  leading  healthcare  digital transformation and consulting firm headquartered in USA, along with its other subsidiaries including Optimum Healthcare IT,  LLC,  for  a  consideration  including  earn-outs  amounting  up  to  $465  million,  excluding  management  incentives  and retention  bonus,  subject  to  customary  closing  adjustments.  Subsequently  in  May  2026,  as  on  the  date  these  financial statements were authorized for issuance, Infosys Nova Holdings LLC has completed its acquisition of Optimum Achieve Holdings Inc.
-Given the recent timing of these acquisitions and pending completion of the valuations for identifiable net assets acquired and liabilities  assumed,  at  the  time  these  financial  statements  were  authorized  for  issuance,  the  initial  accounting  for  these business combinations is incomplete. Accordingly, all the required disclosures for these business combinations have not been made.
-## 2.11 Revenue from operations
-## Accounting policy
-The Group derives revenues primarily from IT services comprising software development and related services, cloud and infrastructure services, maintenance, consulting and package implementation, licensing of software products and platforms across  the Group's core  and  digital  offerings  (together  called  as 'software related services') and  business  process management services. Contracts with customers are either on a time-and-material, unit of work, fixed-price or on a fixedtimeframe basis.
-Revenues from customer contracts are considered for recognition and measurement when the contract has been approved in writing, by the parties, to the contract, the parties to the contract are committed to perform their respective obligations under the contract, and the contract is legally enforceable. Revenue is recognized upon transfer of control of promised products or services ('performance obligations') to  customers  in  an  amount  that  reflects  the  consideration  the  Group  has  received  or expects  to  receive  in  exchange  for  these  products  or  services ('transaction price'). When  there  is  uncertainty  as  to collectability, revenue recognition is postponed until such uncertainty is resolved.
-The Group assesses the services promised in a contract and identifies distinct performance obligations in the contract. The Group allocates the transaction price to each distinct performance obligation based on the relative standalone selling price. The price that is regularly charged for an item when sold separately is the best evidence of its standalone selling price. In the absence of such evidence, the primary method used to estimate standalone selling price is the expected cost plus a margin, under which the Group estimates the cost of satisfying the performance obligation and then adds an appropriate margin based on similar services.
-The Group's contracts  may  include  variable  consideration  including  rebates,  volume  discounts  and  penalties.  The  Group includes variable consideration as part of transaction price when there is a basis to reasonably estimate the amount of the variable consideration and when it is probable that a significant reversal of cumulative revenue recognized will not occur when the uncertainty associated with the variable consideration is resolved.
-Revenue on time-and-material and unit of work-based contracts, are recognized as the related services are performed. Fixed price  maintenance  revenue  is  recognized  ratably  either  on  a  straight-line  basis  when  services  are  performed  through  an indefinite number of repetitive acts over a specified period or ratably using a percentage of completion method when the pattern of benefits from the services rendered to the customer and Group's costs to fulfil the contract is not even through the period of contract because the services are generally discrete in nature and not repetitive. Revenue from other fixed-price, fixed-timeframe contracts, where the performance obligations are satisfied over time is recognized using the percentage-ofcompletion  method.  Efforts  or  costs  expended  are  used  to  determine  progress  towards  completion  as  there  is  a  direct relationship between input and productivity. Progress towards completion is measured as the ratio of costs or efforts incurred to date (representing work performed) to the estimated total costs or efforts. Estimates of transaction price and total costs or efforts are continuously monitored over the term of the contracts and are recognized in net profit in the period when these estimates change or when the estimates are revised. Revenues and the estimated total costs or efforts are subject to revision as the contract progresses. Provisions for estimated losses, if any, on incomplete contracts are recorded in the period in which such losses become probable based on the estimated efforts or costs to complete the contract.
-The billing schedules agreed with customers include periodic performance-based billing and / or milestone-based progress billings. Revenues in excess of billing are classified as unbilled revenue while billing in excess of revenues are classified as contract liabilities (which we refer to as unearned revenues).
-In  arrangements  for  software  development  and  related  services  and  maintenance  services,  by  applying  the  revenue recognition criteria for each distinct performance obligation, the arrangements with customers generally meet the criteria for considering  software  development  and  related  services  as  distinct  performance  obligations.  For  allocating  the  transaction price, the Group measures the revenue in respect of each performance obligation of a contract at its relative standalone selling price. The price that is regularly charged for an item when sold separately is the best evidence of its standalone selling price. In cases where the Group is unable to determine the standalone selling price, the Group uses the expected cost-plus margin approach  in  estimating  the  standalone  selling  price.  For  software  development  and  related  services,  the  performance obligations are satisfied as and when the services are rendered since the customer generally obtains control of the work as it progresses.
-Certain  cloud  and  infrastructure  services  contracts  include  multiple  elements  which  may  be  subject  to  other  specific accounting guidance, such as leasing guidance. These contracts are accounted in accordance with such specific accounting guidance. In such arrangements where the Group is able to determine that hardware and services are distinct performance obligations, it allocates the consideration to these performance obligations on a relative standalone selling price basis. In the absence  of  standalone  selling  price,  the  Group  uses  the  expected  cost-plus  margin  approach  in  estimating  the  standalone selling  price.  When  such  arrangements  are  considered  as  a  single  performance  obligation,  revenue  is  recognized  over  the period and measure of progress is determined based on promise in the contract.
-Revenue from licenses where the customer obtains a 'right to use' the licenses is recognized at the time the license is made available to the customer. Revenue from licenses where the customer obtains a 'right to access' is recognized over the access period.
-Arrangements  to  deliver  software  products  generally  have  three  elements:  license,  implementation  and  Annual  Technical Services (ATS). When implementation services are provided in conjunction with the licensing arrangement and the license and  implementation  have  been  identified  as  two  distinct  separate  performance  obligations,  the  transaction  price  for  such contracts are allocated to each performance obligation of the contract based on their relative standalone selling prices. In the absence of standalone selling price for implementation, the Group uses the expected cost-plus margin approach in estimating the  standalone  selling  price.  Where  the  license  is  required  to  be  substantially  customized  as  part  of  the  implementation service the entire arrangement fee for license and implementation is considered to be a single performance obligation and the revenue is recognized using the percentage-of-completion method as the implementation is performed. Revenue from client training, support and other services arising due to the sale of software products is recognized as the performance obligations are satisfied. ATS revenue is recognized ratably on a straight-line basis over the period in which the services are rendered.
-Contracts with customers includes subcontractor services or third-party vendor equipment or software in certain integrated services  arrangements.  In  these  types  of  arrangements,  revenue  from  sales  of  third-party  vendor  products  or  services  is recorded net of costs when the Group is acting as an agent between the customer and the vendor, and gross when the Group is the principal for the transaction. In doing so, the Group first evaluates whether it obtains control of the specified goods or services before they are transferred to the customer. The Group considers whether it is primarily responsible for fulfilling the promise to provide the specified goods or services, inventory risk, pricing discretion and other factors to determine whether it controls the specified goods or services and therefore, is acting as a principal or an agent.
-A contract modification is a change in the scope or price or both of a contract that is approved by the parties to the contract. A contract modification that results in the addition of distinct performance obligations are accounted for either as a separate contract if the additional services are priced at the standalone selling price or as a termination of the existing contract and creation of a new contract if they are not priced at the standalone selling price. If the modification does not result in a distinct performance obligation, it is accounted for as part of the existing contract on a cumulative catch-up basis.
-The  incremental  costs  of  obtaining  a  contract  (i.e.,  costs  that  would  not  have  been  incurred  if  the  contract  had  not  been obtained) are recognized as an asset if the Group expects to recover them.
-Certain  eligible,  nonrecurring  costs  (e.g.,  set-up  or  transition  or  transformation  costs)  that  do  not  represent  a  separate performance obligation are recognized as an asset when such costs (a) relate directly to the contract; (b) generate or enhance resources of the Group that will be used in satisfying the performance obligation in the future; and (c) are expected to be recovered.
-Capitalized contract costs relating to upfront payments to customers are amortized to revenue and other capitalized costs are amortized  to  cost  of  sales  over  the  respective  contract  life  on  a  systematic  basis  consistent  with  the  transfer  of  goods  or services to customer to which the asset relates. Capitalized costs are monitored regularly for impairment. Impairment losses are recorded when present value of projected remaining operating cash flows is not sufficient to recover the carrying amount of the capitalized costs.
-The Group presents revenues net of indirect taxes in its statement of comprehensive income.
+## AWARDS
+- Infosys has been recognized as the 'Global Top Employer 2026' for the 6th consecutive year.
+- Infosys has been recognized as a top 5 global employer across all regions and top ranked in 19 of the 20 participating countries.
+- #1 in APAC &amp; Middle East
+- #2 in North America
+- #4 in Europe
+- Infosys has been recognized among LinkedIn's Top Companies 2025 in India
+- Infosys has been recognized as a Great Place to Work and certified across China, the UK and Germany.
+- Infosys  Limited  recognized  among  the  Top  100  India's  Best Workplaces™ for  Women  2025,  Large Category.
 
-## Revenues for fiscal 2026, 2025, and 2024 are as follows:
-|                                     | (Dollars in millions)   | (Dollars in millions)   | (Dollars in millions)   |
-|-------------------------------------|-------------------------|-------------------------|-------------------------|
-|                                     | Year ended March 31,    | Year ended March 31,    | Year ended March 31,    |
-|                                     | 2026                    | 2025                    | 2024                    |
-| Revenue from software services      | 19,196                  | 18,379                  | 17,549                  |
-| Revenue from products and platforms | 962                     | 898                     | 1,013                   |
-| Total Revenue from Operations       | 20,158                  | 19,277                  | 18,562                  |
 
-## Products &amp; platforms
-The Group also derives revenues from the sale of products and platforms like Finacle - core banking solution, Edge Suite of products, Panaya platform, Stater digital platform and Infosys McCamish - insurance platform.
-## Disaggregated revenue information
-Revenue  disaggregation  by  business  segments  has  been  included  in  segment  information  (Refer  to  note  2.21).  The  table below presents disaggregated revenues from contracts with customers by geography and contract type. The Group believes this disaggregation best depicts how the nature, amount, timing and uncertainty of revenues and cash flows are affected by industry, market and other economic factors.
-## Year ended March 31, 2026, March 31, 2025 and March 31, 2024
-|                        | (Dollars in millions)   | (Dollars in millions)   | (Dollars in millions)   |
-|------------------------|-------------------------|-------------------------|-------------------------|
-| Particulars            | Year ended March 31     | Year ended March 31     | Year ended March 31     |
-|                        | 2026                    | 2025                    | 2024                    |
-| Revenues by Geography* |                         |                         |                         |
-| North America          | 11,304                  | 11,166                  | 11,163                  |
-| Europe                 | 6,480                   | 5,745                   | 5,105                   |
-| India                  | 576                     | 593                     | 469                     |
-| Rest of the world      | 1,798                   | 1,773                   | 1,825                   |
-| Total                  | 20,158                  | 19,277                  | 18,562                  |
 
-*Geographical revenues are based on the domicile of customer The percentage of revenue from fixed price contracts for each of fiscal 2026, 2025 and 2024 is 54%, 54% and 53%, respectively.
-## Trade Receivables and Contract Balances
-The timing of revenue recognition, billings and cash collections results in Receivables, Unbilled Revenue, and Unearned Revenue on the Group's Consolidated Balance Sheet. Amounts are billed as work progresses in accordance with agreed-upon contractual terms, either at periodic intervals (e.g., monthly or quarterly) or upon achievement of contractual milestones.
-The Group's Receivables are rights to consideration that are unconditional. Unbilled revenues comprising revenues in excess of billings from time &amp; material contracts and fixed price maintenance contracts are classified as a financial asset when the right to consideration is unconditional and is due only after a passage of time.
-Invoicing to the clients for other fixed price contracts is based on milestones as defined in the contract and therefore, the timing of revenue recognition is different from the timing of invoicing to the customers. Therefore, Unbilled Revenues for other fixed price contracts (contract asset) are classified as non-financial asset because the right to consideration is dependent on completion of contractual milestones.
-Invoicing in excess of earnings are classified as unearned revenue.
-Trade receivable and unbilled revenues are presented net of impairment in the consolidated statements of financial position.
-During  fiscal  2026,  2025  and  2024,  the  Group  recognized  revenue  of  $747  million,  $671  million  and  $656  million, respectively, arising from opening unearned revenue as of April 1, 2025, April 1, 2024, and April 1, 2023.
-During fiscal 2026, 2025 and 2024, $547 million, $579 million and $850 million of unbilled revenue pertaining to other fixed price, fixed time frame contracts as of April 1, 2025, April 1, 2024, and April 1, 2023, respectively, has been reclassified to trade receivables upon billing to customers on completion of milestones.
-## Remaining performance obligations
-The remaining performance obligation disclosure provides the aggregate amount of the transaction price yet to be recognized as of the end of the reporting period and an explanation as to when the Group expects to recognize these amounts in revenue. Applying the practical expedient as given in IFRS 15, the Group has not disclosed the remaining performance obligation related  disclosures  for  contracts  where  the  revenue  recognized  corresponds  directly  with  the  value  to  the  customer  of  the entity's performance completed to date, typically those contracts where invoicing is on time &amp; material basis and unit of work based  contracts.  Remaining  performance  obligation  estimates  are  subject  to  change  and  are  affected  by  several  factors, including  terminations,  changes  in  the  scope  of  contracts,  periodic  revalidation,  adjustment  for  revenue  that  has  not materialized and adjustments for currency fluctuations.
-The aggregate value of performance obligations that are completely or partially unsatisfied as at March 31, 2026, other than those meeting the exclusion criteria mentioned above, is $13,709 million. Out of this, the Group expects to recognize revenue of around 49.7% within the next one year and the remaining thereafter. The aggregate value of performance obligations that are completely or partially unsatisfied as at March 31, 2025 was $12,258 million. The contracts can generally be terminated by the customers and typically includes an enforceable termination penalty payable by them. Generally, customers have not terminated contracts without cause.
-## 2.12 Unbilled revenue
-|                                  | (Dollars in millions)   | (Dollars in millions)   |
-|----------------------------------|-------------------------|-------------------------|
-|                                  | As of                   | As of                   |
-|                                  | March 31, 2026          | March 31, 2025          |
-| Unbilled financial asset (1)     | 1,211                   | 1,195                   |
-| Unbilled non-financial asset (2) | 605                     | 569                     |
-|                                  | 1,816                   | 1,764                   |
+- Infosys won the Employee Experience Award by ET HR World in the Exceptional Employee Experience Large Enterprises category
+- Infosys has been recognized as one of the Best Companies for Women in India in 2025, earning a place in the Hall of Fame for the 8th consecutive year.
+- Infosys was ranked #1 for ASHI practices and was recognized among the 2025 Avtar &amp; Seramount Best Companies for Women in India (IT sector).
+- Infosys improved its Top Employer EMEA ranking, moving from #5 in FY25 to #4 in FY26.
+- Infosys won the Economic Times 'Company with Great Managers' award for the sixth year.
+- Infosys has been recognized as one of the Top 10 Best Companies for Women in India 2025, by Avtar and Seramount.
+- Infosys has been recognized by Great Place to Work among India's Top 100 Best Workplaces for Women 2025, Large category.
 
-(1) Right to consideration is unconditional and is due only after a passage of time.
-(2) Right to consideration is dependent on completion of contractual milestones.
-## 2.13 Expenses by nature
-|                                                                                 |                      |                      | (Dollars in millions)   |
-|---------------------------------------------------------------------------------|----------------------|----------------------|-------------------------|
-|                                                                                 | Year ended March 31, | Year ended March 31, |                         |
-|                                                                                 | 2026                 | 2025                 | 2024                    |
-| Employee benefit costs                                                          | 10,882               | 10,165               | 9,981                   |
-| Depreciation and amortization charges (Refer to Notes 2.7, 2.8 and 2.9)         | 552                  | 569                  | 565                     |
-| Travelling costs                                                                | 237                  | 224                  | 213                     |
-| Cost of technical sub-contractors                                               | 1,740                | 1,530                | 1,477                   |
-| Cost of software packages for own use                                           | 321                  | 292                  | 259                     |
-| Third party items bought for service delivery to clients                        | 1,453                | 1,589                | 1,372                   |
-| Consultancy and professional charges                                            | 235                  | 197                  | 210                     |
-| Communication costs                                                             | 68                   | 73                   | 81                      |
-| Repairs and maintenance                                                         | 200                  | 183                  | 175                     |
-| Rates and Taxes                                                                 | 35                   | 41                   | 39                      |
-| Provision for post-sales client support                                         | (19)                 | (13)                 | 9                       |
-| Power and fuel                                                                  | 25                   | 27                   | 24                      |
-| Commission to non-whole time directors                                          | 2                    | 2                    | 2                       |
-| Branding and marketing expenses                                                 | 153                  | 144                  | 122                     |
-| Impairment loss recognized / (reversed) under expected credit loss model        | 4                    | 6                    | 15                      |
-| Insurance charges                                                               | 38                   | 36                   | 25                      |
-| Contribution towards Corporate Social Responsibility                            | 70                   | 69                   | 64                      |
-| Others                                                                          | 77                   | 72                   | 95                      |
-| Total cost of sales, selling and marketing expenses and administrative expenses | 16,073               | 15,206               | 14,728                  |
+## RECRUITMENT
+As of March 31, 2026, we had 328,594 employees, of which 310,887 were professionals involved in service delivery to clients, including trainees.
+We attract and hire a multi-dimensional workforce across all IT specializations. We have built robust relationships with top institutions globally and recruit students who have consistently shown high levels of achievement. We also have been globally recognized for our HackWithInfy initiative, an online coding contest, which also helps us attract the best coders into our organization. We have continued upscaling our InfyTQ platform, which brings the best of our Mysuru training to the hands of the learners across the country.
+We  evolved  from  a  virtual-only  mode  to  a  hybrid  model  of  virtual  and  in-person  recruitment  and  have  further strengthened  our  recruitment  process  by  introducing  AI.  During  fiscal  2026,  we  received  5,884,480  employment applications, interviewed 450,901 applicants and extended offers of employment to 87,286 applicants. These statistics do not include our subsidiaries.
+## EDUCATION, TRAINING AND ASSESSMENT (ETA)
+Infosys  continues  to  invest  in  developing  human  potential  for  the  organization,  and  the  world  at  large.  We  are  now experiencing the play of Human + AI in multiple fields, including learning. This technology wave gives us the ability to hyper  personalize  learning,  at  scale,  across  all  our  learning  offerings.  These  efforts  have  helped  us  garner  external accolades from Brandon Hall and ATD Best.
+The Foundation Training Program, anchored across India and multiple other countries enables newly onboarded entrylevel hires to transform into corporate professionals. Comprising over 40+ technology streams, the curriculum has kept pace with the dynamic business requirements and the preferred pedagogical approach of the current generation of talent. Generative AI and prompt engineering courses have been introduced to ensure freshers are adept in the new skills. In FY26, 10,766 fresh  graduates  completed  the  training  at  Global  Education  Center  (  GEC)  campus,  Mysore  and  were released to delivery units, many of whom are first-generation professionals from diverse geographies.
+Our Continuous Education Program is aimed at reskilling / upskilling our existing employees with the twin objectives of increasing  fulfilment  of  skilled  talents  in  client  projects  and  enriching  their  expertise  in  next-generation  digital technologies and methodologies, including gen AI technologies. We provide online self-learning, instructor-led virtual training opportunities along with in-person classroom training opportunities to our employees. Bridge programs help employees with training and internship opportunities to switch to a new career field, while retaining them within the organization. In FY26, 81.8% of our workforce trained with annual employee learning hours averaging at 113.3 hours. Cumulatively, 84% of our workforce is now AI -aware, reflecting strong progress in future -ready skills.
+Lex, our in-house learning platform, offers over 40,000+ curated courses, which includes over 30,000 courses procured from vendor partners both for enterprise consumption and niche communities with specific knowledge requirements. On an  average,  37,000 employees  used  Lex  on  weekdays and  around  8,000 employees  used  it  on  weekends,  with  an average learning time of 39 minutes. Infosys Wingspan, our configurable talent transformation platform for clients, is used by several global organizations for their talent transformation programs.
+Infosys Springboard, led by a dedicated team of experts collaborating globally with curriculum partners, non-profits, and a global network of leading educational institutions. More than 20,000 courses are available and about 11 million learners across the world are actively consuming content on Infosys Springboard.
+## INFOSYS LEADERSHIP INSTITUTE
+The  Infosys  Leadership  Institute  (ILI),  is  deeply  committed  to  develop  both  individual  and  collective  leadership capabilities  that  align  seamlessly  with  our  organizational  strategy  and  objectives.  The  key  objective  of  Infosys Leadership Institute is to help Infosys and its leaders to lead effectively in an AI-infused future and to reflect, reframe, and  rearchitect  the  leadership  imperatives  for  realizing  this  future.  To  fulfill  these  imperatives,  we  focus  on  four strategic areas viz., Succession Planning, Strengthen Leadership Bench Strength, Leadership Capability Development and Inclusive Leadership.
+ILI  curates  immersive,  experience-led  programs  that  combine  reflection,  renewal,  and  rigor.  These  programs  bring together  world-class  faculty,  AI  immersion  workshops,  and  real  industry  projects  to  help  leaders  reimagine Infosys' future in an AI-infused world-strengthening their ability to lead through ambiguity, inspire people with purpose, and architect large-scale transformation.
+ILI's focus on development has translated into more than 10,000 leadership learning days for the year, a doubling of average learning days per senior leader, and close to 2,000 personalized one-on-one advisory conversations supporting leaders on their development journeys. Consistently high experience scores, including a 96%+ Net Promoter Score and top-unit  internal  partner  rankings  for  three  consecutive  years,  reflect  the  depth,  relevance,  and  impact  of ILI's offerings-reinforcing leadership  development  as  a  powerful  contributor  to  leader  well-being,  experience,  and  longterm value creation for Infosys.
+## Visas
+As of March 31, 2026, less than 50% of our employees in the United States held either H-1B visas, which allow the employee to remain in the United States for up to six years as specialty occupation professionals, and L-1 visas, which allow the employee to stay in the United States for up to five years (for specialized knowledge experts) or seven years (for managers and executives).
+## SHARE OWNERSHIP
+The following table sets forth as of May 20, 2026, for each director and executive officer, the total number of equity shares,  ADSs  and  options  to  purchase  equity  shares  and  ADSs  exercisable  within  60  days  from  May  20,  2026. Beneficial ownership is determined in accordance with rules of the SEC. All information with respect to the beneficial ownership of any principal shareholder has been furnished by such shareholder and, unless otherwise indicated below, we believe that persons named in the table have sole voting and sole investment power with respect to all the shares shown as beneficially owned, subject to community property laws, where applicable. The shares beneficially owned by the directors and executive officers include the equity shares owned by their family members to which such directors disclaim beneficial ownership.
+The share numbers and percentages listed below are based on 4,056,360,091 equity shares outstanding as of May 20, 2026. Percentage of shareholders representing less than 1% are indicated with '*':
+| Name beneficially owned                      | Equity Shares beneficially owned   | %of equity Shares   |
+|----------------------------------------------|------------------------------------|---------------------|
+| Nandan M. Nilekani (1)                       | 100,461,168                        | 2.48                |
+| Salil Parekh                                 | 1,580,865                          | 0.04                |
+| Bobby Parikh (2)                             | 7,747                              | '*'                 |
+| Inderpreet Sawhney (3)                       | 252,098                            | '*'                 |
+| Shaji Mathew (4)                             | 288,638                            | 0.01                |
+| Jayesh Sanghrajka (5)                        | 140,776                            | '*'                 |
+| Total (all directors and executive officers) | 102,731,292                        | 2.53                |
 
-## Operating profit
-Operating profit for the Group is computed considering the revenues, net of cost of sales, selling and marketing expenses and administrative expenses.
-## Impact of Labour Codes
-On November 21, 2025, the Government of India notified provisions of the Code on Wages, 2019, the Industrial Relations Code, 2020, the Code on Social Security, 2020, and the Occupational Safety, Health and Working Conditions Code, 2020 (collectively  referred  to  as  the 'Labour Codes'), which  consolidate  twenty -nine  existing  labour  laws  into  a  unified framework  governing  employee  benefits  during  employment  and  post -employment.  The  Labour  Codes,  amongst  other things, introduce changes including a uniform definition of wages and enhanced benefits relating to leave. The Group has assessed the financial implications of these changes, which has resulted in an increase in gratuity liability, a defined benefit plan arising out of past service cost relating to plan amendments and an increase in compensated absences by $143 million, which  is  recognized  under  employee  benefit  costs  in  the  Consolidated  Statement  of  Comprehensive  Income  for  the  year ended March 31, 2026. The Group continues to monitor developments pertaining to the Labour Codes and will evaluate the impact, if any, on the measurement of employee benefits liability.
+Note: No other material changes subsequently till June 15, 2026.
+- (1) Shares  beneficially  owned  by  Nandan  M.  Nilekani  include  59,678,006  Equity  Shares  owned  by  members  of  his immediate family. Nandan M. Nilekani disclaims beneficial ownership of such shares.
+- (2) Includes 3,614 equity shares jointly held by Bobby Parikh with his spouse as the first holder.
+- (3) Includes 13,606 ESOPs vested on June 5, 2026 of Inderpreet Sawhney which are yet to be exercised.
+- (4) Includes 4,219 ESOPs vested on June 5, 2026 of Shaji Mathew which are yet to be exercised.
+- (5) Includes 5,302 ESOPs vested on June 5, 2026 of Jayesh Sanghrajka which are yet to be exercised.
 
-## 2.14 Employee benefits
-## Gratuity and Pensions
-The Group provides for gratuity, a defined benefit retirement plan ('the Gratuity Plan') covering eligible employees, primarily of Infosys and its Indian subsidiaries. The Gratuity Plan provides a lump-sum payment to vested employees at retirement, death, incapacitation or termination of employment, of an amount based on the respective employee's salary and the tenure of employment with the Group. The Company contributes gratuity liabilities to the Infosys Limited Employees' Gratuity Fund Trust (the Trust). In case of Infosys BPM and EdgeVerve, contributions are made to the Infosys BPM Employees' Gratuity Fund Trust and EdgeVerve Systems Limited Employees' Gratuity Fund Trust, respectively. Trustees administer contributions made to the  Trusts  and  contributions  are  invested  in  a  scheme  with  Life  Insurance  Corporation  of  India  as  permitted  by Indian Law.
-The Group operates defined benefit pension plan in certain overseas jurisdictions, in accordance with the local laws. These plans are managed by third party fund managers. The plans provide for periodic payouts after retirement and/or a lumpsum payment  as  set  out  in  rules  of  each  fund  and  includes  death  and  disability  benefits.  The  defined  benefit  plans  require contributions which are based on a percentage of salary that varies depending on the age of the respective employees.
-Liabilities with regard to these defined benefit plans are determined by actuarial valuation, performed by an external actuary, at each Balance Sheet date using the projected unit credit method. These defined benefit plans expose the Group to actuarial risks, such as longevity risk, interest rate risk and market risk.
-The Group recognizes the net obligation of a defined benefit plan in its Balance sheet as an asset or liability. Gains and losses through re-measurements of the net defined benefit liability/(asset) are recognized in other comprehensive income and not reclassified to profit or loss in subsequent periods. The actual return of the portfolio of plan assets, in excess of the yields computed by applying the discount rate used to measure the defined benefit obligation is recognized in other comprehensive income. The effect of any plan amendments are recognized in net profits in the consolidated statement of comprehensive income.
-## Provident fund
-Eligible  employees  of  Infosys  receive  benefits  from  a  provident  fund,  which  is  a  defined  benefit  plan.  Both  the  eligible employee and the Company make monthly contributions to the provident fund plan equal to a specified percentage of the covered employee's salary. The Company contributes a portion to the Infosys Limited Employees' Provident Fund Trust. The trust  invests  in  specific  designated  instruments  as  permitted  by  Indian  law.  The  remaining  portion  is  contributed  to  the government administered pension fund. The rate at which the annual interest is payable to the beneficiaries by the trust is being administered by the Government of India. The Company has an obligation to make good the shortfall, if any, between the return from the investments of the trust and the notified interest rate.
-In respect of Indian subsidiaries, eligible employees receive benefits from a provident fund, which is a defined contribution plan. Both the eligible employee and the respective companies make monthly contributions to this provident fund plan equal to a specified percentage of the covered employee's salary. Amounts collected under the provident fund plan are deposited in a  government  administered  provident  fund.  The  Companies  have  no  further  obligation  to  the  plan  beyond  its  monthly contributions.
-## Superannuation
-Certain employees of Infosys, Infosys BPM and EdgeVerve are participants in a defined contribution plan. The Group has no further obligations to the plan beyond its monthly contributions which are periodically contributed to a trust fund, the corpus of which is invested with the Life Insurance Corporation of India.
-## Compensated absences
-The  Group  has  a  policy  on  compensated  absences  which  are  both  accumulating  and  non-accumulating  in  nature.  The expected cost of accumulating compensated absences is determined by actuarial valuation performed by an external actuary at each Balance Sheet date using projected unit credit method on the additional amount expected to be paid/availed as a result of  the  unused  entitlement  that  has  accumulated  at  the  Balance  Sheet  date.  Expense  on  non-accumulating  compensated absences is recognized in the period in which the absences occur.
-## 2.14.1 Gratuity and Pensions
-The following table sets out the details of the defined benefit retirement plans and the amounts recognized in the Group's financial statements as of March 31, 2026, and March 31, 2025:
-|                                                                                       |                |                |                | (Dollars in millions)   |
-|---------------------------------------------------------------------------------------|----------------|----------------|----------------|-------------------------|
-|                                                                                       | Gratuity As of | Gratuity As of | Pension As of  | Pension As of           |
-|                                                                                       | March 31, 2026 | March 31, 2025 | March 31, 2026 | March 31, 2025          |
-| Change in benefit obligations                                                         |                |                |                |                         |
-| Benefit obligations at the beginning                                                  | 294            | 253            | 138            | 122                     |
-| Transfer                                                                              | -              | 1              | -              | -                       |
-| Service cost                                                                          | 49             | 40             | 6              | 6                       |
-| Interest expense                                                                      | 20             | 17             | 2              | 2                       |
-| Remeasurements - Actuarial losses / (gains)                                           | (3)            | 12             | 9              | 8                       |
-| Past service cost - plan amendments (Refer to note 2.13)                              | 136            | -              | -              | -                       |
-| Employee contribution                                                                 | -              | -              | 5              | 4                       |
-| Benefits paid                                                                         | (24)           | (22)           | 10             | (7)                     |
-| Translation differences                                                               | (39)           | (7)            | 14             | 3                       |
-| Benefit obligations at the end                                                        | 433            | 294            | 184            | 138                     |
-| Change in plan assets                                                                 |                |                |                |                         |
-| Fair value of plan assets at the beginning                                            | 319            | 249            | 133            | 119                     |
-| Interest Income                                                                       | 21             | 18             | 2              | 2                       |
-| Remeasurements - Returns on plan assets excluding amounts included in interest income | 6              | 2              | 8              | 7                       |
-| Employer contribution                                                                 | 163            | 77             | 7              | 5                       |
-| Employee contribution                                                                 | -              | -              | 5              | 4                       |
-| Benefits paid                                                                         | (23)           | (21)           | 10             | (7)                     |
-| Translation differences                                                               | (42)           | (6)            | 12             | 3                       |
-| Fair value of plan assets at the end                                                  | 444            | 319            | 177            | 133                     |
-| Funded status                                                                         | 11             | 25             | (7)            | (5)                     |
-| Defined benefit plan asset                                                            | 20             | 33             | 1              | 2                       |
-| Defined benefit plan liability                                                        | (9)            | (8)            | (8)            | (7)                     |
+Note:
+Among directors, D. Sundaram, Michael Gibbs, Chitra Nayak, Govind Iyer, Helene Auriol Potier, Nitin Paranjpe and Diane Enberg Jurgens do not hold shares / ADRs of the Company.
+## Option plans
+## 2015 Plan
+On March 31, 2016, pursuant to the approval by the shareholders through postal ballot, the Board has been authorized to introduce, offer, issue and allot share-based incentives to eligible employees of the Company and its subsidiaries under the 2015 Plan. The maximum number of shares under the 2015 Plan shall not exceed 24,038,883 equity shares (this includes  11,223,576  equity  shares  which  are  held  by  the  trust  towards  the  2011  Plan  as  of  March  31,  2016).  These instruments will generally vest over a period of four years. The plan numbers are further adjusted with the September 2018 bonus issue.
+Controlled trust holds 8,650,911 and 9,655,927 shares as of March 31, 2026, and March 31, 2025, respectively, under the 2015 Plan, out of which 200,000 equity shares each have been earmarked for welfare activities of the employees as of March 31, 2026, and March 31, 2025.
 
-Amount for fiscal 2026, 2025 and 2024 recognized in the consolidated statement of comprehensive income under employee benefit expense:
-|                                                             |      |      |      | (Dollars in millions)   | (Dollars in millions)   | (Dollars in millions)   |
-|-------------------------------------------------------------|------|------|------|-------------------------|-------------------------|-------------------------|
-|                                                             | 2026 | 2025 | 2024 | 2026                    | 2025                    | 2024                    |
-| Service cost                                                | 49   | 40   | 37   | 6                       | 6                       | 6                       |
-| Net interest on the net defined benefit liability / (asset) | (1)  | (1)  | -    | -                       | -                       | -                       |
-| Past service cost - plan amendments (Refer to note 2.13)    | 136  | -    | -    | -                       | -                       | (4)                     |
-| Net cost                                                    | 184  | 39   | 37   | 6                       | 6                       | 2                       |
+## 2019 Plan
+In continuation of our philosophy of aligning employee interests with shareholder value creation and in line with global practices,  the  Board,  at  its  meeting  held  on  May  15,  2019,  on  the  recommendations  of  the  Nomination  and Remuneration  Committee  and  subject  to  the  approval  of  shareholders,  approved  the  2019  Plan.  This  plan  sets  out challenging performance criteria aligned to shareholder value creation to deepen employee ownership of the Company. By inclusion of leading market benchmarked performance criteria like relative TSR in the 2019 Plan, we adopted bestin-class global corporate governance practices. Further the 2019 Plan intends to incentivize, retain, and attract key talent through this performance-based stock incentive plan amongst an expanded employee base.
+On June 22, 2019, pursuant to approval by the shareholders at our AGM, the Board has been authorized to introduce, offer,  issue  and  provide  share-based  incentives  to  eligible  employees  of  the  Company  and  its  subsidiaries  under  the 2019  Plan.  The  maximum  number  of  shares  under  the  2019  Plan  shall  not  exceed  50,000,000  equity  shares.  To implement the 2019 Plan, up to 45,000,000 equity shares may be issued by way of secondary acquisition of shares by Infosys Expanded Stock Ownership Trust. The RSUs granted under the 2019 Plan shall vest based on the achievement of  defined  annual  performance  parameters  as  determined  by  the  administrator  (Nomination  and  Remuneration Committee). The performance parameters will be based on a combination of relative Total Shareholder Return against selected industry peers and certain broader market domestic and global indices and operating performance metrics of the Company as decided by administrator. Each of the above performance parameters will be distinct for the purposes of calculation  of  quantity  of  shares  to  vest  based  on  performance.  These  instruments  will  generally  vest  between  a minimum of one and a maximum of three years from the grant date.
+Further,  based  on  the  recommendation  of  the  Nomination  and  Remuneration  Committee,  the  board  approved amendments to the 2019 Plan related to the duration of the plan, the vesting parameters for grants thereunder and certain administrative amendments. The amendments are subject to shareholder approval, and the details of the amendments are available in the Explanatory Statement of the Notice of the 45th Annual General Meeting of the Company.
+The following is the summary of grants made during fiscal 2026, 2025 and 2024 under the 2015 Plan and 2019 Plan:
+| Particulars                                    | Fiscal 2026   | Fiscal 2025   | Fiscal 2024   |
+|------------------------------------------------|---------------|---------------|---------------|
+| 2015 Plan: RSUs                                |               |               |               |
+| RSU - Equity settled                           | 2,631,950     | 2,255,532     | 5,139,370     |
+| RSU - Incentive units (cash settled)           | 119,800       | 94,050        | 176,990       |
+| 2015 Plan: Employee Stock Options (ESOPs)      |               |               |               |
+| RSU - Equity settled                           | 5,650,160     | -             | -             |
+| RSU - Stock appreciation rights (cash settled) | 108,180       | -             | -             |
+| 2019 Plan                                      |               |               |               |
+| Equity settled Performance based RSU           | 4,549,356     | 3,744,345     | 4,187,902     |
+| Total grants                                   | 13,059,446    | 6,093,927     | 9,504,262     |
 
-Amount for fiscal 2026, 2025 and 2024 recognized in consolidated statement of other comprehensive income:
-|                                                                                                                              | Year   |      |      | (Dollars in millions)   | (Dollars in millions)   | (Dollars in millions)   |
-|------------------------------------------------------------------------------------------------------------------------------|--------|------|------|-------------------------|-------------------------|-------------------------|
-|                                                                                                                              |        |      |      | Year ended March 31,    | Year ended March 31,    | Year ended March 31,    |
-|                                                                                                                              | 2026   | 2025 | 2024 | 2026                    | 2025                    | 2024                    |
-| Re-measurements of the net defined benefit liability / (asset)                                                               |        |      |      |                         |                         |                         |
-| Actuarial (gains) / losses                                                                                                   | (3)    | 12   | 4    | 9                       | 8                       | 3                       |
-| (Return) / loss on plan assets excluding amounts included in the net interest on the net defined benefit liability / (asset) | (6)    | (2)  | (2)  | (8)                     | (7)                     | (2)                     |
-| Total                                                                                                                        | (9)    | 10   | 2    | 1                       | 1                       | 1                       |
+Refer to the compensation table of this Annual Report on Form 20-F for details on grants to individual KMPs.
+The equity awards granted under the 2015 Plan would generally vest over a period of four years and shall be exercisable within the period as approved by the Nomination and Remuneration Committee.
+The RSUs granted under the 2019 Plan would generally vest over a period of three years and shall be exercisable within the period as approved by the Nomination and Remuneration Committee.
+During fiscal 2026, 2025 and 2024, we recorded an employee stock compensation expense of $108 million, $95 million and  $79  million,  respectively,  in  the  statement  of  comprehensive  income.  This  comprises  of  expense  pertaining  to employee stock compensation of the CEO, other executive officers, and other employees.
+The following table gives the details of outstanding RSUs and stock options under the 2019 Plan and 2015 Plan as of March 31, 2026:
+|       | Stock incentives outstanding   | Stock incentives outstanding   |
+|-------|--------------------------------|--------------------------------|
+|       | 2019 Plan                      | 2015 Plan                      |
+| RSUs  | 10,422,882                     | 7,379,449                      |
+| ESOPs | -                              | 5,361,166                      |
 
-Breakup of actuarial (gains) / losses for fiscal 2026, 2025 and 2024 is as follows:
-|                                                      | Gratuity             |                      |                      | (Dollars in millions)   | (Dollars in millions)   | (Dollars in millions)   |
-|------------------------------------------------------|----------------------|----------------------|----------------------|-------------------------|-------------------------|-------------------------|
-|                                                      | Year ended March 31, | Year ended March 31, | Year ended March 31, | Year ended March 31,    | Year ended March 31,    | Year ended March 31,    |
-|                                                      | 2026                 | 2025                 | 2024                 | 2026                    | 2025                    | 2024                    |
-| (Gain) / loss from change in demographic assumptions | -                    | -                    | -                    | (4)                     | -                       | -                       |
-| (Gain) / loss from change in financial assumptions   | (1)                  | 5                    | 1                    | 3                       | 5                       | 3                       |
-| (Gain) / loss from experience adjustments            | (2)                  | 7                    | 3                    | 10                      | 3                       | -                       |
-|                                                      | (3)                  | 12                   | 4                    | 9                       | 8                       | 3                       |
+Grants made under the 2015 Plan have been adjusted for the September 2018 bonus issue.
+For additional information on our stock incentive compensation plans, see Note 2.17 Employees' Stock Options Plans under Item 18 of this Annual Report on Form 20-F.
+## Item 7. Major Shareholders and Related Party Transactions
+## MAJOR SHAREHOLDERS
+The following table sets forth as of May 20, 2026, certain information with respect to beneficial ownership of equity shares held by each shareholder or group known by us to be the beneficial owner of 5% or more of our outstanding equity shares.
+Beneficial ownership is determined in accordance with rules of the SEC, which generally attribute beneficial ownership of securities to persons who possess sole or shared voting power or investment power with respect to those securities and  includes  equity  shares  issuable  pursuant  to  the  exercise  of  stock  options  or  warrants  that  are  immediately exercisable  or  exercisable  within  60  days  of  May  20,  2026.  These  shares  are  deemed  to  be  outstanding  and  to  be beneficially  owned  by  the  person  holding  those  options  or  warrants  for  the  purpose  of  computing  the  percentage ownership of that person but are not treated as outstanding for the purpose of computing the percentage ownership of any other person. Unless otherwise indicated, all information with respect to the beneficial ownership of any principal shareholder has been furnished by such shareholder and, unless otherwise indicated, we believe that persons named in the table have sole voting and sole investment power with respect to all the equity shares shown as beneficially owned, subject  to  community  property  laws  where  applicable.  The  shares  beneficially  owned  by  the  directors  and  officers include  equity  shares  owned  by  their  family  members  to  which  such  directors  and  officers  disclaim  beneficial ownership.
+|                                                       | Class of security   | No. of shares beneficially held   | %of class of shares   | No. of shares beneficially held   | %of class of shares   | No. of shares beneficially held   | class shares   | %of of         |
+|-------------------------------------------------------|---------------------|-----------------------------------|-----------------------|-----------------------------------|-----------------------|-----------------------------------|----------------|----------------|
+| Name of the beneficial owner                          | Equity              | May 20, 2026                      | May 20, 2026          | March 31,                         | 2025                  | March 31, 2024                    | March 31, 2024 | March 31, 2024 |
+| Shareholding of all directors and officers as a group | Equity              | 102,731,29 2                      | 2.53                  | 102,532,60 0                      | 2.47                  | 102,414,32 1                      | (3)            | 2.46           |
+| Life Insurance Corporation of                         |                     | 438,350,37                        |                       | 388,112,5                         |                       | 385,952,9                         |                |                |
+| India                                                 | Equity              | 2                                 | 10.81                 | 31                                | 9.34                  | 41                                |                | 9.30           |
 
-The  gratuity  and  pension  cost  recognized  in  the  statement  of  comprehensive  income  apportioned  between  cost  of  sales, selling and marketing expenses and administrative expenses on the basis of direct employee cost is as follows:
-|                                |   Gratuity |   Gratuity |   Gratuity | (Dollars in millions) Pension Year ended March 31,   | (Dollars in millions) Pension Year ended March 31,   | (Dollars in millions) Pension Year ended March 31,   |
-|--------------------------------|------------|------------|------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
-|                                |       2026 |       2025 |       2024 | 2026                                                 | 2025                                                 | 2024                                                 |
-| Cost of sales                  |        165 |         35 |         34 | 6                                                    | 6                                                    | 2                                                    |
-| Selling and marketing expenses |         13 |          3 |          2 | -                                                    | -                                                    | -                                                    |
-| Administrative expenses        |          6 |          1 |          1 | -                                                    | -                                                    | -                                                    |
-|                                |        184 |         39 |         37 | 6                                                    | 6                                                    | 2                                                    |
+1) Comprised 102,731,292 shares owned by directors and officers and includes stock options which have vested and yet to be exercised.
 
-The weighted-average assumptions used to determine benefit obligations as of March 31, 2026, and March 31, 2025 are set out below:
-|                                                          | Gratuity As of   | Gratuity As of   | Pension As of   | Pension As of   |
-|----------------------------------------------------------|------------------|------------------|-----------------|-----------------|
-|                                                          | March 31, 2026   | March 31, 2025   | March 31, 2026  | March 31, 2025  |
-| Discount rate                                            | 6.5%             | 6.5%             | 1.1%-4.2%       | 0.9%-3.7%       |
-| Weighted average rate of increase in compensation levels | 6.0%             | 6.0%             | 1%-3.3%         | 1%-3%           |
-| Weighted average duration of defined benefit obligation  | 5.7 years        | 5.7 years        | 12 years        | 13 years        |
+(a) Includes 3,614 Equity shares jointly held by Bobby Parikh with his spouse as the first holder.
+(b) Includes 13,606 ESOPs vested on June 5, 2026 of Inderpreet Sawhney which are yet to be exercised.
+(c) Includes 4,219 ESOPs vested on June 5, 2026 of Shaji Mathew which are yet to be exercised.
+(d) Includes 5,302 ESOPs vested on June 5, 2026 of Jayesh Sanghrajka which are yet to be exercised
+The percentage of ownership is calculated on 4,056,360,091 equity shares.
+2) Comprised of 102,532,600 shares owned by directors and officers. The percentage of ownership is calculated on 4,153,263,455 equity shares.
 
-The weighted-average assumptions used to determine net periodic benefit cost for fiscal 2026, 2025 and 2024 are set out below:
-Gratuity
-Year ended March 31,
-2026
-2025
-6.5%
-6.0%
-Discount rate for the year
-Weighted average rate of increase in
-compensation levels
-7.0%
-6.0%
-2024
-7.1%
-6.0%
-2026
-0.9%-3.7%
-1%-3.3%
-Pension
-Year ended March 31,
-2025
-1.5%-3.4%
-1.0%-3.0%
-2024
-1.8%-3.8%
-1.0%-3.0%
-| Discount rate                                            | For domestic defined benefit plan in India, the market for high quality corporate bonds being not developed, the yield of government bonds is considered as the discount rate. For most of our overseas defined benefit plan, given that the market for high quality corporate bonds is not developed, the Government bond rate adjusted for corporate spreads is used.   |
-|----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Weighted average rate of increase in compensation levels | The average rate of increase in compensation levels is determined by the Company, considering factors such as, the Company's past compensation revision trends, inflation in respective markets and management's estimate of future salary increases.                                                                                                                     |
-| Attrition rate                                           | Attrition rate considered is the management's estimate based on the past long-term trend of employee turnover in the Company. The tenure has been considered taking into account the past long-term trend of employees' average remaining service life which reflects the average estimated term of post-employment benefit obligation.                                   |
+3) Comprised of 102,414,321 shares owned by directors and officers. The percentage of ownership is calculated on 4,150,867,464 equity shares.
 
-For domestic defined benefit plan in India, assumptions regarding future mortality experience are set in accordance with the published statistics by the Life Insurance Corporation of India. For overseas defined benefit plan, the assumptions regarding future mortality experience are set with regard to the latest statistics in life expectancy, plan experience and other relevant data.
-The Group assesses these assumptions with its projected long-term plans of growth and prevalent industry standards.
-Actual return on assets (including remeasurements) of the gratuity plan for fiscal 2026, 2025 and 2024 were $27 million, $20 million, and $17 million, respectively, and for the pension plan were $10 million, $9 million and $4 million, respectively.
-The Company contributes all ascertained liabilities towards gratuity to the Infosys Limited Employees' Gratuity Fund Trust. In case of Infosys BPM and EdgeVerve, contributions are made to the Infosys BPM Employees' Gratuity Fund Trust and EdgeVerve Systems Limited Employees Gratuity Fund Trust, respectively. Trustees administer contributions made to the trust  as  of  March  31,  2026,  and  March  31,  2025,  and  contributions  for  gratuity  are  invested  in  a  scheme  with  the  Life Insurance Corporation of India as permitted by Indian law. The plan assets of the overseas defined benefit plan have been primarily invested in insurer managed funds and the asset allocation for plan assets is determined based on the investment criteria  prescribed  under  the  relevant  regulations  applicable  to  pension  funds  and  the  insurer  managers.  The  insurers' investments are diversified and provide for guaranteed interest rates arrangements.
-The contributions for gratuity are invested in a scheme with the Life Insurance Corporation of India as permitted by Indian law. The table below sets out the details of major plan assets into various categories as of March 31, 2026 and March 31, 2025:
-| Particulars               | Pension As of   | Pension As of   |
-|---------------------------|-----------------|-----------------|
-|                           | March 31, 2026  | March 31, 2025  |
-| Equity                    | 37%             | 34%             |
-| Bonds                     | 21%             | 30%             |
-| Real Estate/Property      | 23%             | 26%             |
-| Cash and Cash Equivalents | 1%              | 1%              |
-| Other                     | 18%             | 9%              |
-
-These defined benefit plans expose the Group to actuarial risk which are set out below:
-| Interest rate risk:                  | The present value of the defined benefit plan liability is generally calculated using a discount rate determined by reference to government bond yields and in certain overseas jurisdictions, it is calculated in reference to government bond yield adjusted for a corporate spread. If bond yields fall, the defined benefit obligation will tend to increase.                                                                                      |
-|--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Life expectancy and investment risk: | The pension fund offers the choice between a lifelong pension and a cash lump sum upon retirement. The pension fund has defined rates for converting the lump sum to a pension and there is the risk that the members live longer than implied by these conversion rates and that the pension assets don't achieve the investment return implied by these conversion rates.                                                                            |
-| Asset volatility:                    | A proportion of the pension fund is held in equities, which is expected to outperform corporate bonds in the long term but give exposure to volatility and risk in the short term. The pension fund board of insurer is responsible for the investment strategy and equity allocation is justified given the long-term investment horizon of the pension fund and the objective to provide a reasonable long term return on members' account balances. |
+Our ADSs are listed on the NYSE. Each ADS currently represents one equity share of par value ₹5/per share. ADSs are registered pursuant to Section 12(b) of the Exchange Act and as of May 20, 2026, held by 121,599 holders of record in the United States.
+Our equity shares can be held by Foreign Institutional Investors ("FIIs"), Foreign Portfolio Investors ("FPIs") and NonResident Indians ("NRIs"). As of May 20, 2026, 26.10% of our equity shares were held by these FIIs, FPIs and NRIs, some of which may be residents or bodies corporate registered in the United States and elsewhere. We are not aware of which FIIs, FPIs and NRIs hold our equity shares as residents or as corporate entities registered in the United States.
+Major shareholders do not have differential voting rights with respect to the equity shares. To the best of our knowledge, we are  not  owned  or  controlled  directly  or  indirectly  by  any  government,  by  any  other  corporation  or  by  any  other natural or legal person. We are not aware of any arrangement, the operation of which may at a subsequent date result in a change in control.

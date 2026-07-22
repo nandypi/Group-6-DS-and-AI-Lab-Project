@@ -1,245 +1,247 @@
 ---
 document_name: "Infosys_23042026170027_outcome.md"
 group_id: "Infosys_23042026170027_outcome__group_026"
-source_section_count: 3
-page_start: 196
-page_end: 202
-estimated_tokens: 8274
+source_section_count: 2
+page_start: 103
+page_end: 108
+estimated_tokens: 7296
 source_section_ids:
-  - "Infosys_23042026170027_outcome__085"
-  - "Infosys_23042026170027_outcome__086"
-  - "Infosys_23042026170027_outcome__087"
+  - "Infosys_23042026170027_outcome__048"
+  - "Infosys_23042026170027_outcome__049"
 ---
 
-## 2.18 REVENUE FROM OPERATIONS
+## Liquidity risk
+Liquidity risk is defined as the risk that the Group will not be able to settle or meet its obligations on time.
+The Group's principal sources of liquidity are cash and cash equivalents and investments and the cash flow that is generated from operations. The Group has no outstanding borrowings. The Group believes that the working capital is sufficient to meet its current requirements.
+As at March 31, 2025, the Group had a working capital of ₹51,167 crore including cash and cash equivalents of ₹22,201 crore and current investments of ₹12,950 crore. As at March 31, 2025, the Group had a working capital of ₹54,249 crore including cash and cash equivalents of ₹24,455 crore and current investments of ₹12,482 crore.
+As at March 31, 2026 and March 31, 2025, the outstanding employee benefit obligations were ₹3,641 crore and ₹3,007 crore, respectively, which have been substantially funded. Accordingly, no liquidity risk is perceived.
+Refer to Note 2.8 for remaining contractual maturities of lease liabilities.
+The table below provides details regarding the contractual maturities of significant financial liabilities as at March 31, 2026:
+| Particulars                                                                                                                                              | Less than 1 year   | 1-2 years   | 2-4 years   | 4-7 years   | (In ₹ crore) Total   |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|-------------|-------------|----------------------|
+| Trade payables                                                                                                                                           | 4,744              | -           | -           | -           | 4,744                |
+| Financial liability under option arrangements on an undiscounted basis (Refer to Note 2.5)                                                               | 839                | -           | 142         | -           | 981                  |
+| Liability towards contingent consideration on an undiscounted basis (Refer to Note 2.5)                                                                  | 75                 | 33          | -           | -           | 108                  |
+| Other financial liabilities (excluding liability towards contingent consideration and option arrangements ) on an undiscounted basis (Refer to Note 2.5) | 16,539             | 1,617       | 201         | 4           | 18,361               |
+
+The table below provides details regarding the contractual maturities of significant financial liabilities as at March 31, 2025:
+| Particulars                                                                                                                                               | Less than 1 year   | 1-2 years   | 2-4 years   | 4-7 years   | (In ₹ crore) Total   |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|-------------|-------------|----------------------|
+| Trade payables                                                                                                                                            | 4,164              | -           | -           | -           | 4,164                |
+| Financial liability under option arrangements on an undiscounted basis (Refer to Note 2.5)                                                                | 612                | -           | 149         | -           | 761                  |
+| Liability towards contingent consideration on an undiscounted basis (Refer to Note 2.5)                                                                   | 12                 | 21          | -           | -           | 33                   |
+| Other financial liabilities (excluding liability towards contingent consideration and options arrangements ) on an undiscounted basis (Refer to Note 2.5) | 14,606             | 1,750       | 145         | 12          | 16,513               |
+
+## 2.4 Prepayments and other assets
+Prepayments and other assets consist of the following:
+|                                                     | (In ₹ crore)      | (In ₹ crore)   |
+|-----------------------------------------------------|-------------------|----------------|
+| Particulars                                         | March 31, 2026 As | March 31, 2025 |
+| Current                                             |                   |                |
+| Security deposits (1)                               | 75                | 65             |
+| Loans to employees (1)                              | 234               | 249            |
+| Prepaid expenses (2)                                | 4,265             | 3,080          |
+| Interest accrued and not due (1)                    | 448               | 842            |
+| Withholding taxes and others (2)(4)                 | 3,901             | 2,841          |
+| Advance payments to vendors for supply of goods (2) | 474               | 413            |
+| Deposit with corporations (1)(3)                    | 3,170             | 2,949          |
+| Deferred contract cost                              |                   |                |
+| Cost of obtaining a contract (2)                    | 285               | 343            |
+| Cost of fulfillment (2)                             | 667               | 504            |
+| Net investment in lease (1)                         | 1,613             | 1,139          |
+| Other non financial assets (2)                      | 134               | 91             |
+| Other financial assets (1)                          | 437               | 470            |
+| Total Current prepayment and other assets           | 15,703            | 12,986         |
+| Non-current                                         |                   |                |
+| Security deposits (1)                               | 281               | 273            |
+| Loans to employees (1)                              | 6                 | 16             |
+| Prepaid expenses (2)                                | 775               | 282            |
+| Withholding taxes and others (2)(4)                 | 626               | 534            |
+| Deposit with corporations (1)(3)                    | 79                | 82             |
+| Deferred contract cost                              |                   |                |
+| Cost of obtaining a contract (2)                    | 491               | 312            |
+| Cost of fulfillment (2)                             | 968               | 879            |
+| Defined benefit plan assets (2)                     | 205               | 297            |
+| Net investment in lease (1)                         | 957               | 1,106          |
+| Other financial assets (1)                          | 42                | 19             |
+| Total Non- current prepayment and other assets      | 4,430             | 3,800          |
+| Total prepayment and other assets                   | 20,133            | 16,786         |
+| (1) Financial assets carried at amortized cost      | 7,342             | 7,210          |
+
+(2) Non financial assets
+(3) Deposit with corporation represents amounts deposited to settle certain employee-related obligations as and when they arise during the normal course of business.
+(4) Withholding taxes and others primarily consist of input tax credits and VAT recoverable from tax authorities.
+## 2.5 Other liabilities
+Other liabilities comprise the following:
+| Particulars                                                                   | March 31, 2026 As   | March 31, 2025   |
+|-------------------------------------------------------------------------------|---------------------|------------------|
+| Current                                                                       |                     |                  |
+| Accrued compensation to employees (1)                                         | 5,898               | 4,924            |
+| Accrued defined benefit liability (3)                                         | 49                  | 6                |
+| Accrued expenses (1)                                                          | 9,683               | 8,467            |
+| Withholding taxes and others (3)                                              | 3,881               | 3,256            |
+| Liabilities of controlled trusts (1)                                          | 173                 | 173              |
+| Liability towards contingent consideration (2)                                | 73                  | 11               |
+| Capital Creditors (1)                                                         | 284                 | 520              |
+| Financial liability under option arrangements (2)(4)                          | 754                 | 552              |
+| Other non-financial liabilities (3)                                           | 11                  | 11               |
+| Other financial liabilities (1)                                               | 501                 | 520              |
+| Total current other liabilities                                               | 21,307              | 18,440           |
+| Non-current                                                                   |                     |                  |
+| Accrued expenses (1)                                                          | 1,725               | 1,890            |
+| Accrued defined benefit liability (3)                                         | 473                 | 115              |
+| Accrued compensation to employees (1)                                         | 10                  | 12               |
+| Liability towards contingent consideration (2)                                | 31                  | 20               |
+| Financial liability under option arrangements (2)(4)                          | 122                 | 115              |
+| Other financial liabilities (1)                                               | 87                  | 5                |
+| Other non-financial liabilities (3)                                           | 88                  | 100              |
+| Total non-current other liabilities                                           | 2,536               | 2,257            |
+| Total other liabilities                                                       | 23,843              | 20,697           |
+| (1) Financial liability carried at amortized cost                             | 18,361              | 16,511           |
+| (2) Financial liability carried at fair value through profit or loss          | 980                 | 698              |
+| Financial liability under option arrangements on an undiscounted basis        | 981                 | 761              |
+| Financial liability towards contingent consideration on an undiscounted basis | 108                 | 33               |
+
+(3) Non financial liabilities
+(4) Represents liability related to options issued by the Group over the non-controlling interests in its subsidiaries
+Accrued expenses primarily relates to cost of technical sub-contractors, telecommunication charges, legal and professional charges, brand building expenses, overseas travel expenses and office maintenance and cost of third party software and hardware.
+
+## 2.6 Provisions and other contingencies
+## 2.6.1 Provisions
+A provision is recognized if, as a result of a past event, the Group has a present legal or constructive obligation that is reasonably estimable, and it is probable that an outflow of economic benefits will be required to settle the obligation. Provisions are determined by discounting the expected future cash flows at a pre-tax rate that reflects current market assessments of the time value of money and the risks specific to the liability. The Group recognizes a reimbursement asset when, and only when, it is virtually certain that the reimbursement will be received if the Group settles the obligation.
+Contingent liability is a possible obligation arising from past events and whose existence will be confirmed only by the occurrence or non-occurrence of one or more uncertain future events not wholly within the control of the entity or a present obligation that arises from past events but is not recognized because it is not probable that an outflow of resources embodying economic benefits will be required to settle the obligation or the amount of the obligation cannot be measured with sufficient reliability.
+## a. Post sales client support
+The Group provides its clients with a fixed-period post sales support on its fixed-price, fixed-timeframe contracts. Costs associated with such support services are accrued at the time related revenues are recorded and included in cost of sales. The Group estimates such costs based on historical experience and estimates are reviewed on a periodic basis for any material changes in assumptions and likelihood of occurrence.
+## b. Onerous contracts
+Provisions for onerous contracts are recognized when the expected benefits to be derived by the Group from a contract are lower than the unavoidable costs of meeting the future obligations under the contract. Provisions for estimated losses, if any, on incomplete contracts are recorded in the period in which such losses become probable based on the estimated efforts or costs to complete the contract. The provision is measured at the present value of the lower of the expected cost of terminating the contract and the expected net cost of continuing with the contract. Before a provision is established the Group recognizes any impairment loss on the assets associated with that contract.
+## Provision for post sales client support and other provisions
+|                                                           | As at    | As at          |
+|-----------------------------------------------------------|----------|----------------|
+| Particulars                                               | 31, 2026 | March 31, 2025 |
+| Post sales client support and other provisions            | 1,512    | 1,325          |
+| Provisions pertaining to settlement (refer to note 2.6.2) | -        | 150            |
+| Total provisions                                          | 1,512    | 1,475          |
+
+## The movement in the provision for post sales client support is as follows:
+| Particulars                       | Three months ended March 31, 2026 Year ended March   | (In ₹ crore) 31, 2026   |
+|-----------------------------------|------------------------------------------------------|-------------------------|
+| Balance at the beginning          | 1,618                                                | 1,325                   |
+| Provision recognized / (reversed) | (68)                                                 | 482                     |
+| Provision utilized                | (97)                                                 | (445)                   |
+| Exchange difference               | 59                                                   | 150                     |
+| Balance at the end                | 1,512                                                | 1,512                   |
+
+Provision for post sales client support majorly represents cost associated with providing post sales support services which are accrued at the time of recognition of revenues and are expected to be utilized over a period of 1 year.
+Provision for post sales client support and other provisions is included in cost of sales in the consolidated statement of comprehensive income.
+As at March 31, 2026 and March 31, 2025 claims against the Group, not acknowledged as debts, (excluding demands from income tax authorities Refer to note 2.12) amounted to ₹1,153 crore and ₹1,020 crore respectively.
+The amount paid to statutory authorities against the claims (excluding demands from income tax authorities-Refer to note 2.12) amounted to ₹27 crore and ₹8 crore as at March 31, 2026 and March 31, 2025, respectively.
+## 2.6.2 Legal proceedings
+## McCamish Cybersecurity incident
+In November 2023, certain systems of Infosys McCamish Systems LLC ('McCamish'), a subsidiary of Infosys BPM Limited (a wholly owned subsidiary of Infosys Limited), were encrypted by ransomware, resulting in the non-availability of certain applications and systems. McCamish initiated its incident response and engaged cybersecurity and other specialists to assist in its investigation of and response to the incident and remediation and restoration of impacted applications and systems. By December 31, 2023, McCamish, with external specialists' assistance, substantially remediated and restored the affected applications and systems. McCamish in coordination with its third-party eDiscovery vendor has identified corporate customers and individuals whose information was subject to unauthorized access and exfiltration. McCamish processes personal data on behalf of its corporate customers.
+From March 6, 2024 through July 25, 2024, six actions were filed in the U.S. District Court for the Northern District of Georgia against McCamish. The actions arise out of the cybersecurity incident at McCamish initially disclosed on November 3, 2023. All six actions have since been consolidated, and the consolidated class action complaint was filed on November 7, 2024, purportedly on behalf of all persons residing in the United States whose personally identifiable information was compromised in the incident, including all who were sent a notice of the incident. On March 13, 2025, McCamish and the plaintiffs engaged in mediation, resulting in an in-principle agreement that sets forth the terms of a proposed settlement of the class action lawsuits against McCamish, as well as seven class action lawsuits arising out of the incident that have been filed against McCamish's customers. Under the settlement terms, McCamish agreed to pay $17.5 million (approximately ₹150 crore) into a fund to settle these matters. McCamish had accrued for the settlement amount along with the insurance reimbursement receivable during the quarter ended March 31, 2025. On December 18, 2025, the Court granted final approval of the class action lawsuit settlement. The settlement amount has since been paid. The settlement has become effective and resolves all allegations made in the class action lawsuits filed against Infosys and certain of its customers without admission of any liability.
+McCamish may incur additional costs including from indemnities or damages/claims, which are indeterminable at this time.
+## Government Investigation
+The U.S. Department of Justice ('DOJ') is conducting an investigation regarding how the Company classified certain H-1B visa-recipient employees working for one of its clients in immigration documents filed with certain U.S. government authorities. The Company is engaged in discussions with the DOJ regarding its ongoing investigation and continues its own inquiry regarding the matter. At this stage, the Company is unable to predict the outcome of this matter, including whether such outcome could have a material adverse effect on the Company's business and results of operations.
+## Others
+Apart from the foregoing, the Group is subject to legal proceedings and claims which have arisen in the ordinary course of business. The Group's management reasonably expects that such ordinary course legal actions, when ultimately concluded and determined, will not have a material and adverse effect on the Group's results of operations or financial condition.
+X
+1
+0
+A
+O
+## 2.7 Property, plant and equipment
 ## Accounting Policy
-The Company derives revenues primarily from IT services comprising software development and related services, cloud and infrastructure services, maintenance, consulting and package implementation, licensing of software products and platforms across the Company's core and digital offerings (together called as 'software related services'). Contracts with customers are either on a time-and-material, unit of work, fixed-price or on a fixed-timeframe basis.
-Revenues from customer contracts are considered for recognition and measurement when the contract has been approved in writing, by the parties, to the contract, the parties to contract are committed to perform their respective obligations under the contract, and the contract is legally enforceable. Revenue is recognized upon transfer of control of promised products or services ('performance obligations') to customers in an amount that reflects the consideration the Company has received or expects to receive in exchange for these products or services ('transaction price'). When there is uncertainty as to collectability, revenue recognition is postponed until such uncertainty is resolved.
-The Company assesses the services promised in a contract and identifies distinct performance obligations in the contract. The Company allocates the transaction price to each distinct performance obligation based on the relative standalone selling price. The price that is regularly charged for an item when sold separately is the best evidence of its standalone selling price. In the absence of such evidence, the primary method used to estimate standalone selling price is the expected cost plus a margin, under which the Company estimates the cost of satisfying the performance obligation and then adds an appropriate margin based on similar services.
-The Company's contracts may include variable consideration including rebates, volume discounts and penalties. The Company includes variable consideration as part of transaction price when there is a basis to reasonably estimate the amount of the variable consideration and when it is probable that a significant reversal of cumulative revenue recognized will not occur when the uncertainty associated with the variable consideration is resolved.
-Revenue on time-and-material and unit of work based contracts, are recognized as the related services are performed. Fixed price maintenance revenue is recognized ratably either on a straight-line basis when services are performed through an indefinite number of repetitive acts over a specified period or ratably using a percentage of completion method when the pattern of benefits from the services rendered to the customer and Company's costs to fulfil the contract is not even through the period of contract because the services are generally discrete in nature and not repetitive. Revenue from other fixed-price, fixed-timeframe contracts, where the performance obligations are satisfied over time is recognized using the percentage-of-completion method. Efforts or costs expended are used to determine progress towards completion as there is a direct relationship between input and productivity. Progress towards completion is measured as the ratio of costs or efforts incurred to date (representing work performed) to the estimated total costs or efforts. Estimates of transaction price and total costs or efforts are continuously monitored over the term of the contracts and are recognized in net profit in the period when these estimates change or when the estimates are revised. Revenues and the estimated total costs or efforts are subject to revision as the contract progresses. Provisions for estimated losses, if any, on incomplete contracts are recorded in the period in which such losses become probable based on the estimated efforts or costs to complete the contract.
-The billing schedules agreed with customers include periodic performance based billing and / or milestone based progress billings. Revenues in excess of billing are classified as unbilled revenue while billing in excess of revenues are classified as contract liabilities (which we refer to as "unearned revenues").
-In arrangements for software development and related services and maintenance services, by applying the revenue recognition criteria for each distinct performance obligation, the arrangements with customers generally meet the criteria for considering software development and related services as distinct performance obligations. For allocating the transaction price, the Company measures the revenue in respect of each performance obligation of a contract at its relative standalone selling price. The price that is regularly charged for an item when sold separately is the best evidence of its standalone selling price. In cases where the Company is unable to determine the standalone selling price, the Company uses the expected cost plus margin approach in estimating the standalone selling price. For software development and related services, the performance obligations are satisfied as and when the services are rendered since the customer generally obtains control of the work as it progresses.
-Certain cloud and infrastructure services contracts include multiple elements which may be subject to other specific accounting guidance, such as leasing guidance. These contracts are accounted in accordance with such specific accounting guidance. In such arrangements where the Company is able to determine that hardware and services are distinct performance obligations, it allocates the consideration to these performance obligations on a relative standalone selling price basis. In the absence of standalone selling price, the Company uses the expected cost-plus margin approach in estimating the standalone selling price. When such arrangements are considered as a single performance obligation, revenue is recognized over the period and measure of progress is determined based on promise in the contract.
-Revenue from licenses where the customer obtains a 'right to use' the licenses is recognized at the time the license is made available to the customer. Revenue from licenses where the customer obtains a 'right to access' is recognized over the access period.
-Arrangements to deliver software products generally have three elements: license, implementation and Annual Technical Services (ATS). When implementation services are provided in conjunction with the licensing arrangement and the license and implementation have been identified as two distinct separate performance obligations, the transaction price for such contracts are allocated to each performance obligation of the contract based on their relative standalone selling prices. In the absence of standalone selling price for implementation, the Company uses the expected cost plus margin approach in estimating the standalone selling price. Where the license is required to be substantially customized as part of the implementation service the entire arrangement fee for license and implementation is considered to be a single performance obligation and the revenue is recognized using the percentage-of-completion method as the implementation is performed. Revenue from client training, support and other services arising due to the sale of software products is recognized as the performance obligations are satisfied. ATS revenue is recognized ratably on a straight line basis over the period in which the services are rendered.
-Contracts with customers includes subcontractor services or third-party vendor equipment or software in certain integrated services arrangements. In these types of arrangements, revenue from sales of third-party vendor products or services is recorded net of costs when the Company is acting as an agent between the customer and the vendor, and gross when the Company is the principal for the transaction. In doing so, the Company first evaluates whether it obtains control of the specified goods or services before they are transferred to the customer. The Company considers whether it is primarily responsible for fulfilling the promise to provide the specified goods or services, inventory risk, pricing discretion and other factors to determine whether it controls the specified goods or services and therefore, is acting as a principal or an agent.
-A contract modification is a change in the scope or price or both of a contract that is approved by the parties to the contract. A contract modification that results in the addition of distinct performance obligations are accounted for either as a separate contract if the additional services are priced at the standalone selling price or as a termination of the existing contract and creation of a new contract if they are not priced at the standalone selling price. If the modification does not result in a distinct performance obligation, it is accounted for as part of the existing contract on a cumulative catch-up basis.
-The incremental costs of obtaining a contract (i.e., costs that would not have been incurred if the contract had not been obtained) are recognized as an asset if the Company expects to recover them.
-Certain eligible, nonrecurring costs (e.g. set-up or transition or transformation costs) that do not represent a separate performance obligation are recognized as an asset when such costs (a) relate directly to the contract; (b) generate or enhance resources of the Company that will be used in satisfying the performance obligation in the future; and (c) are expected to be recovered.
-Capitalized contract costs relating to upfront payments to customers are amortized to revenue and other capitalized costs are amortized to expenses over the respective contract life on a systematic basis consistent with the transfer of goods or services to customer to which the asset relates. Capitalized costs are monitored regularly for impairment. Impairment losses are recorded when present value of projected remaining operating cash flows is not sufficient to recover the carrying amount of the capitalized costs.
-The Company presents revenues net of indirect taxes in its Statement of Profit and Loss.
-Revenue from operations for the year ended March 31, 2026 and March 31, 2025 is as follows:
-| Particulars                         | (In ₹ crore) Year ended March 31,   | (In ₹ crore) Year ended March 31,   |
-|-------------------------------------|-------------------------------------|-------------------------------------|
-|                                     | 2026                                | 2025                                |
-| Revenue from software services      | 147,806                             | 135,525                             |
-| Revenue from products and platforms | 1,013                               | 1,067                               |
-| Total revenue from operations       | 148,819                             | 136,592                             |
+Property, plant and equipment are stated at cost, less accumulated depreciation and impairment, if any. Costs directly attributable to acquisition are capitalized until the property, plant and equipment are ready for use, as intended by the Management. The charge in respect of periodic depreciation is derived at after determining an estimate of an asset's expected useful life and the expected residual value at the end of its life. The Group depreciates property, plant and equipment over their estimated useful lives using the straight-line method. The estimated useful lives of assets are as follows:
+| Building                | 22-25 years                                     |
+|-------------------------|-------------------------------------------------|
+| Plant and machinery (1) | 5 years                                         |
+| Computer equipment      | 3-5 years                                       |
+| Furniture and fixtures  | 5 years                                         |
+| Vehicles                | 5 years                                         |
+| Leasehold improvements  | Lower of useful life of the asset or lease term |
 
-## Products &amp; platforms
-The Company derives revenues from the sale of products and platforms including Infosys Applied AI which applies next-generation AI and machine learning.
-The percentage of revenue from fixed-price contracts for each of the year ended March 31, 2026 and March 31, 2025 is 58%.
-## Trade receivables and Contract Balances
-The timing of revenue recognition, billings and cash collections results in receivables, unbilled revenue, and unearned revenue on the Company's Balance Sheet. Amounts are billed as work progresses in accordance with agreed-upon contractual terms, either at periodic intervals (e.g., monthly or quarterly) or upon achievement of contractual milestones.
-The Company's receivables are rights to consideration that are unconditional. Unbilled revenues comprising revenues in excess of billings from time and material contracts and fixed price maintenance contracts are classified as financial asset when the right to consideration is unconditional and is due only after a passage of time.
-Invoicing to the clients for other fixed price contracts is based on milestones as defined in the contract and therefore the timing of revenue recognition is different from the timing of invoicing to the customers. Therefore unbilled revenues for other fixed price contracts (contract asset) are classified as non-financial asset because the right to consideration is dependent on completion of contractual milestones.
-Invoicing in excess of earnings are classified as unearned revenue.
-Trade receivables and unbilled revenues are presented net of impairment in the Balance Sheet.
-During the year ended March 31, 2026 and March 31, 2025 , the company recognized revenue of ₹5,276 crore and ₹4,404 crore arising from opening unearned revenue as of April 1, 2025 and April 1, 2024 respectively.
-During the year ended March 31, 2026 and March 31, 2025, ₹4,413 crore and ₹4,448 crore of unbilled revenue pertaining to other fixed price and fixed time frame contracts as of April 1, 2025 and April 1, 2024, respectively has been reclassified to Trade receivables upon billing to customers on completion of milestones.
+(1) Includes solar plant with a useful life of 25 years
+Depreciation methods, useful lives and residual values are reviewed periodically, including at each financial year end. The useful lives are based on historical experience with similar assets as well as anticipation of future events, which may impact their life, such as changes in technology.
+Advances paid towards the acquisition of property, plant and equipment outstanding at each balance sheet date and the cost of assets not ready to use before such date are disclosed under 'Capital work-in-progress'. Subsequent expenditures relating to property, plant and equipment is capitalized only when it is probable that future economic benefits associated with these will flow to the Group and the cost of the item can be measured reliably. The cost and related accumulated depreciation are eliminated from the financial statements upon sale or retirement of the asset.
+## Impairment
+Property, plant and equipment are evaluated for recoverability whenever events or changes in circumstances indicate that their carrying amounts may not be recoverable. For the purpose of impairment testing, the recoverable amount (i.e. the higher of the fair value less cost to sell and the value-in-use) is determined on an individual asset basis unless the asset does not generate cash flows that are largely independent of those from other assets. In such cases, the recoverable amount is determined for the Cash Generating Unit (CGU) to which the asset belongs.
+If such assets are considered to be impaired, the impairment to be recognized in net profit in the interim consolidated statement of comprehensive income is measured by the amount by which the carrying value of the assets exceeds the estimated recoverable amount of the asset. An impairment loss is reversed in net profit in the consolidated statement of comprehensive income if there has been a change in the estimates used to determine the recoverable amount. The carrying amount of the asset is increased to its revised recoverable amount, provided that this amount does not exceed the carrying amount that would have been determined (net of any accumulated depreciation) had no impairment loss been recognized for the asset in prior years.
+The changes in the carrying value of property, plant and equipment for the three months ended March 31, 2026 are as follows:
+|                                                | Land   | Buildings   | Plant and machinery   | Computer Furniture and   | Computer Furniture and   |          | (In ₹ crore)   |
+|------------------------------------------------|--------|-------------|-----------------------|--------------------------|--------------------------|----------|----------------|
+| Particulars                                    |        |             |                       | equipment                | fixtures                 | Vehicles | Total          |
+| Gross carrying value as at January 1, 2026     | 1,438  | 11,825      | 5,544                 | 9,495                    | 3,325                    | 45       | 31,672         |
+| Additions                                      | -      | 684         | 284                   | 486                      | 140                      | -        | 1,594          |
+| Deletions**                                    | -      | (2)         | (35)                  | (402)                    | (39)                     | (1)      | (479)          |
+| Translation difference                         | -      | 67          | 13                    | 28                       | 23                       | -        | 131            |
+| Gross carrying value as at March 31, 2026      | 1,438  | 12,574      | 5,806                 | 9,607                    | 3,449                    | 44       | 32,918         |
+| Accumulated depreciation as at January 1, 2026 | -      | (5,721)     | (4,616)               | (6,949)                  | (2,795)                  | (40)     | (20,121)       |
+| Depreciation                                   | -      | (113)       | (91)                  | (279)                    | (60)                     | -        | (543)          |
+| Accumulated depreciation on deletions**        | -      | 1           | 35                    | 395                      | 38                       | 1        | 470            |
+| Translation difference                         | -      | (23)        | (11)                  | (17)                     | (22)                     | -        | (73)           |
+| Accumulated depreciation as at March 31, 2026  | -      | (5,856)     | (4,683)               | (6,850)                  | (2,839)                  | (39)     | (20,267)       |
+| Capital work-in progress as at January 1, 2026 |        |             |                       |                          |                          |          | 1,459          |
+| Carrying value as at January 1, 2026           | 1,438  | 6,104       | 928                   | 2,546                    | 530                      | 5        | 13,010         |
+| Capital work-in progress as at March 31, 2026  |        |             |                       |                          |                          |          | 680            |
+| Carrying value as at March 31, 2026            | 1,438  | 6,718       | 1,123                 | 2,757                    | 610                      | 5        | 13,331         |
 
-## Remaining performance obligation disclosure
-The remaining performance obligation disclosure provides the aggregate amount of the transaction price yet to be recognized as at the end of the reporting period and an explanation as to when the Company expects to recognize these amounts in revenue. Applying the practical expedient as given in Ind AS 115, the Company has not disclosed the remaining performance obligation related disclosures for contracts where the revenue recognized corresponds directly with the value to the customer of the entity's performance completed to date, typically those contracts where invoicing is on time-and-material and unit of work-based contracts. Remaining performance obligation estimates are subject to change and are affected by several factors, including terminations, changes in the scope of contracts, periodic revalidations, adjustment for revenue that has not materialized and adjustments for currency fluctuations.
-The aggregate value of performance obligations that are completely or partially unsatisfied as at March 31, 2026, other than those meeting the exclusion criteria mentioned above, is ₹113,675 crore. Out of this, the Company expects to recognize revenue of around 50.1% within the next one year and around 21.6% between one and two years and remaining thereafter. The aggregate value of performance obligations that are completely or partially unsatisfied as at March 31, 2025 is ₹90,815 crore. The contracts can generally be terminated by the customers and typically includes an enforceable termination penalty payable by them. Generally, customers have not terminated contracts without cause.
-## 2.19 OTHER INCOME, NET
-## 2.19.1 Other income
-## Accounting Policy
-Other income is comprised primarily of interest income, dividend income, gain / loss on investments and exchange gain/loss on forward and options contracts and on translation of foreign currency assets and liabilities. Interest income is recognized using the effective interest method. Dividend income is recognized when the right to receive payment is established.
-## 2.19.2 Foreign currency
-## Functional currency
-The functional currency of the Company is the Indian rupee. These financial statements are presented in Indian rupees (rounded off to crore; one crore equals ten million).
-## Transactions and translations
-Foreign-currency denominated monetary assets and liabilities are translated into the relevant functional currency at exchange rates in effect at the Balance Sheet date. The gains or losses resulting from such translations are recognized in the standalone Statement of Profit and Loss and reported within exchange gains/(losses) on translation of assets and liabilities, net, except when deferred in Other Comprehensive Income as qualifying cash flow hedges. Non-monetary assets and non-monetary liabilities denominated in a foreign currency and measured at fair value are translated at the exchange rate prevalent at the date when the fair value was determined. Non-monetary assets and non-monetary liabilities denominated in a foreign currency and measured at historical cost are translated at the exchange rate prevalent at the date of the transaction. The related revenue and expense are recognized using the same exchange rate.
-Transaction gains or losses realized upon settlement of foreign currency transactions are included in determining net profit for the period in which the transaction is settled. Revenue, expense and cash-flow items denominated in foreign currencies are translated into the relevant functional currencies using the exchange rate in effect on the date of the transaction.
-Other Comprehensive Income, net of taxes includes translation differences on non-monetary financial assets measured at fair value at the reporting date, such as equities classified as financial instruments and measured at fair value through other comprehensive income (FVOCI).
-## Government grant
-The Company recognizes government grants only when there is reasonable assurance that the conditions attached to them shall be complied with, and the grants will be received. Government grants related to assets are treated as deferred income and are recognized in the net profit in the Statement of Profit and Loss on a systematic and rational basis over the useful life of the asset. Government grants related to revenue are recognized on a systematic basis in the net profit in the Statement of Profit and Loss over the periods necessary to match them with the related costs which they are intended to compensate.
-Other income for the year ended March 31, 2026 and March 31, 2025 is as follows:
-|                                                                                                  | (In ₹ crore)          | (In ₹ crore)   |
-|--------------------------------------------------------------------------------------------------|-----------------------|----------------|
-| Particulars                                                                                      | 2026 Year ended March | 2025 31,       |
-| Interest income on financial assets carried at amortized cost                                    |                       |                |
-| Tax free bonds and government bonds                                                              | 55                    | 121            |
-| Deposit with Bank and others                                                                     | 1,125                 | 1,051          |
-| Interest income on financial assets carried at fair value through other comprehensive income     |                       |                |
-| Non-convertible debentures, commercial papers, certificates of deposit and government securities | 1,029                 | 1,005          |
-| Gain / (loss) on mutual funds and other investments                                              | 240                   | 242            |
-| Gain/(loss) on investments carried at fair value through other comprehensive income              | 16                    | 2              |
-| Gain/(loss) on investments carried at amortized cost                                             | 81                    | 4              |
-| Interest on income tax refund                                                                    | 381                   | 340            |
-| Dividend received from subsidiary                                                                | 2,676                 | 1,522          |
-| Exchange gains/(losses) on foreign currency forward and options contracts                        | (2,397)               | (206)          |
-| Exchange gains/(losses) on translation of other assets and liabilities                           | 2,842                 | 478            |
-| Miscellaneous income, net*                                                                       | 443                   | 223            |
-| Total other income                                                                               | 6,491                 | 4,782          |
+The changes in the carrying value of property, plant and equipment for the three months ended March 31, 2025 are as follows:
+|                                                | Land   | Buildings   | Plant and machinery   | Computer Furniture and   | Computer Furniture and   |          | (In ₹ crore)   |
+|------------------------------------------------|--------|-------------|-----------------------|--------------------------|--------------------------|----------|----------------|
+| Particulars                                    |        |             |                       | equipment                | fixtures                 | Vehicles | Total          |
+| Gross carrying value as at January 1, 2025     | 1,430  | 11,716      | 5,458                 | 8,734                    | 3,433                    | 48       | 30,819         |
+| Additions                                      | 47     | 5           | 55                    | 697                      | 39                       | -        | 843            |
+| Deletions*                                     | -      | (6)         | (77)                  | (140)                    | (180)                    | -        | (403)          |
+| Translation difference                         | -      | 6           | 2                     | 15                       | 8                        | -        | 31             |
+| Gross carrying value as at March 31, 2025      | 1,477  | 11,721      | 5,438                 | 9,306                    | 3,300                    | 48       | 31,290         |
+| Accumulated depreciation as at January 1, 2025 | -      | (5,247)     | (4,390)               | (6,846)                  | (2,804)                  | (43)     | (19,330)       |
+| Depreciation                                   | -      | (109)       | (86)                  | (292)                    | (62)                     | -        | (549)          |
+| Accumulated depreciation on deletions*         | -      | 1           | 76                    | 133                      | 177                      | -        | 387            |
+| Translation difference                         | -      | (3)         | (2)                   | (8)                      | (7)                      | -        | (20)           |
+| Accumulated depreciation as at March 31, 2025  | -      | (5,358)     | (4,402)               | (7,013)                  | (2,696)                  | (43)     | (19,512)       |
+| Capital work-in progress as at January 1, 2025 |        |             |                       |                          |                          |          | 858            |
+| Carrying value as at January 1, 2025           | 1,430  | 6,469       | 1,068                 | 1,888                    | 629                      | 5        | 12,347         |
+| Capital work-in progress as at March 31, 2025  |        |             |                       |                          |                          |          | 1,022          |
+| Carrying value as at March 31, 2025            | 1,477  | 6,363       | 1,036                 | 2,293                    | 604                      | 5        | 12,800         |
 
-*Includes profit on sale of property plant and equipment amounting to ₹165 crore during the year ended March 31, 2026.
-## 2.20 EXPENSES
-|                                                                            | (In ₹ crore)         | (In ₹ crore)         |
-|----------------------------------------------------------------------------|----------------------|----------------------|
-| Particulars                                                                | Year ended March 31, | Year ended March 31, |
-|                                                                            | 2026                 | 2025                 |
-| Employee benefit expenses                                                  |                      |                      |
-| Salaries including bonus                                                   | 69,633               | 64,296               |
-| Contribution to provident and other funds                                  | 2,383                | 2,080                |
-| Share based payments to employees (Refer to note 2.12)                     | 846                  | 712                  |
-| Staff welfare                                                              | 377                  | 378                  |
-|                                                                            | 73,239               | 67,466               |
-| Cost of software packages and others                                       |                      |                      |
-| For own use                                                                | 2,217                | 1,947                |
-| Third party items bought for service delivery to clients                   | 7,057                | 7,670                |
-|                                                                            | 9,274                | 9,617                |
-| Other expenses                                                             |                      |                      |
-| Power and fuel                                                             | 196                  | 196                  |
-| Brand and Marketing                                                        | 1,170                | 1,067                |
-| Rates and taxes                                                            | 209                  | 257                  |
-| Repairs and Maintenance                                                    | 1,138                | 965                  |
-| Consumables                                                                | 32                   | 32                   |
-| Insurance                                                                  | 266                  | 242                  |
-| Provision for post-sales client support and others                         | (191)                | (114)                |
-| Commission to non-whole time directors                                     | 18                   | 18                   |
-| Impairment loss recognized / (reversed) under expected credit loss model   | 71                   | (7)                  |
-| Auditor's remuneration                                                     |                      |                      |
-| Statutory audit fees                                                       | 9                    | 8                    |
-| Contributions towards Corporate Social Responsibility (Refer to note 2.25) | 577                  | 540                  |
-| Others                                                                     | 549                  | 293                  |
-|                                                                            | 4,044                | 3,497                |
+The changes in the carrying value of property, plant and equipment for the year ended March 31, 2026 are as follows:
+|                                                       | Land   | Buildings   | Plant and machinery   |                    |                        |          | (In ₹ crore)   |
+|-------------------------------------------------------|--------|-------------|-----------------------|--------------------|------------------------|----------|----------------|
+| Particulars                                           |        |             |                       | Computer equipment | Furniture and fixtures | Vehicles | Total          |
+| Gross carrying value as at April 1, 2025              | 1,477  | 11,721      | 5,438                 | 9,306              | 3,300                  | 48       | 31,290         |
+| Additions                                             | 27     | 713         | 427                   | 1,524              | 239                    | 1        | 2,931          |
+| Additions - Business Combination (Refer to Note 2.10) | -      | -           | -                     | 3                  | -                      | -        | 3              |
+| Deletions** #                                         | (66)   | (13)        | (94)                  | (1,325)            | (163)                  | (5)      | (1,666)        |
+| Translation difference                                | -      | 153         | 35                    | 99                 | 73                     | -        | 360            |
+| Gross carrying value as at March 31, 2026             | 1,438  | 12,574      | 5,806                 | 9,607              | 3,449                  | 44       | 32,918         |
+| Accumulated depreciation as at April 1, 2025          | -      | (5,358)     | (4,402)               | (7,013)            | (2,696)                | (43)     | (19,512)       |
+| Depreciation                                          | -      | (449)       | (345)                 | (1,079)            | (239)                  | (1)      | (2,113)        |
+| Accumulated depreciation on deletions** #             | -      | 2           | 93                    | 1,302              | 161                    | 5        | 1,563          |
+| Translation difference                                | -      | (51)        | (29)                  | (60)               | (65)                   | -        | (205)          |
+| Accumulated depreciation as at March 31, 2026         | -      | (5,856)     | (4,683)               | (6,850)            | (2,839)                | (39)     | (20,267)       |
+| Capital work-in progress as at April 1, 2025          |        |             |                       |                    |                        |          | 1,022          |
+| Carrying value as at April 1, 2025                    | 1,477  | 6,363       | 1,036                 | 2,293              | 604                    | 5        | 12,800         |
+| Capital work-in progress as at March 31, 2026         |        |             |                       |                    |                        |          | 680            |
+| Carrying value as at March 31, 2026                   | 1,438  | 6,718       | 1,123                 | 2,757              | 610                    | 5        | 13,331         |
 
-## 2.20.1 Impact of Labour Codes
-On November 21, 2025, the Government of India notified provisions of the Code on Wages, 2019, the Industrial Relations Code, 2020, the Code on Social Security, 2020 and the Occupational Safety, Health and Working Conditions Code, 2020, ('Labour Codes') which consolidate twenty-nine existing labour laws into a unified framework governing employee benefits during employment and post-employment. The Labour Codes, amongst other things introduces changes, including a uniform definition of wages and enhanced benefits relating to leave. The Company has assessed the financial implications of these changes which has resulted in increase in gratuity liability arising out of past service cost and increase in leave liability by ₹ 1,146 crore. Considering the impact arising out of an enactment of the new legislation is an event of nonrecurring nature, the Company has presented this incremental amount as 'Impact of Labour Codes' under 'Exceptional Item' in the Standalone Statement of Profit and Loss for the year ended March 31, 2026. The Company continues to monitor the developments pertaining to Labour Codes and will evaluate impact if any on the measurement of the employee benefits liability.
-## 2.21 EMPLOYEE BENEFITS
-## 2.21.1 Gratuity and Pensions
-The Company provides for gratuity, a defined benefit retirement plan ('the Gratuity Plan') covering eligible Indian employees of Infosys. The Gratuity Plan provides a lump-sum payment to vested employees at retirement, death, incapacitation or termination of employment, of an amount based on the respective employee's salary and the tenure of employment with the Company. The Company contributes Gratuity liabilities to the Infosys Limited Employees' Gratuity Fund Trust (the Trust). Trustees administer contributions made to the Trusts and contributions are invested in a scheme with the Life Insurance Corporation of India as permitted by Indian law.
-The Company operates defined benefit pension plan in certain overseas jurisdictions, in accordance with the local laws. These plans are managed by third party fund managers. The plans provide for periodic payouts after retirement and/or a lumpsum payment as set out in rules of each fund and includes death and disability benefits. The defined benefit plans require contributions which are based on a percentage of salary that varies depending on the age of the respective employees.
-Liabilities with regard to these defined benefit plans are determined by actuarial valuation, performed by an external actuary, at each Balance Sheet date using the projected unit credit method. These defined benefit plans expose the Company to actuarial risks, such as longevity risk, interest rate risk and market risk.
-The Company recognizes the net obligation of a defined benefit plan in its Balance Sheet as an asset or liability. Gains and losses through re-measurements of the net defined benefit liability/(asset) are recognized in other comprehensive income and are not reclassified to profit or loss in subsequent periods. The actual return of the portfolio of plan assets, in excess of the yields computed by applying the discount rate used to measure the defined benefit obligation is recognized in other comprehensive income. The effect of any plan amendments is recognized in net profit in the Statement of Profit and Loss.
+** During the three months and year ended March 31, 2026, certain assets which were not in use having gross book value of ₹ 323 crore (net book value: Nil) and ₹ 1,165 crore (net book value: Nil), respectively were retired.
+The changes in the carrying value of property, plant and equipment for the year ended March 31, 2025 are as follows:
+| Particulars                                           | Land   | Buildings   | Plant and machinery   | Computer equipment Furniture and   | fixtures   | Vehicles   | (In ₹ crore) Total   |
+|-------------------------------------------------------|--------|-------------|-----------------------|------------------------------------|------------|------------|----------------------|
+| Gross carrying value as at April 1, 2024              | 1,430  | 11,770      | 5,341                 | 8,611                              | 3,390      | 45         | 30,587               |
+| Additions                                             | 47     | 43          | 250                   | 1,317                              | 184        | 2          | 1,843                |
+| Additions - Business Combination (Refer to Note 2.10) | -      | 1           | 11                    | 6                                  | 23         | 2          | 43                   |
+| Deletions** #                                         | -      | (113)       | (167)                 | (633)                              | (307)      | (1)        | (1,221)              |
+| Translation difference                                | -      | 20          | 3                     | 5                                  | 10         | -          | 38                   |
+| Gross carrying value as at March 31, 2025             | 1,477  | 11,721      | 5,438                 | 9,306                              | 3,300      | 48         | 31,290               |
+| Accumulated depreciation as at April 1, 2024          | -      | (4,921)     | (4,182)               | (6,380)                            | (2,692)    | (42)       | (18,217)             |
+| Depreciation                                          | -      | (444)       | (372)                 | (1,249)                            | (293)      | (2)        | (2,360)              |
+| Accumulated depreciation on deletions** #             | -      | 13          | 155                   | 616                                | 297        | 1          | 1,082                |
+| Translation difference                                | -      | (6)         | (3)                   | -                                  | (8)        | -          | (17)                 |
+| Accumulated depreciation as at March 31, 2025         | -      | (5,358)     | (4,402)               | (7,013)                            | (2,696)    | (43)       | (19,512)             |
+| Capital work-in progress as at April 1, 2024          |        |             |                       |                                    |            |            | 448                  |
+| Carrying value as at April 1, 2024                    | 1,430  | 6,849       | 1,159                 | 2,231                              | 698        | 3          | 12,818               |
+| Capital work-in progress as at March 31, 2025         |        |             |                       |                                    |            |            | 1,022                |
+| Carrying value as at March 31, 2025                   | 1,477  | 6,363       | 1,036                 | 2,293                              | 604        | 5          | 12,800               |
 
-## 2.21.2 Provident fund
-Eligible employees of Infosys receive benefits from a provident fund, which is a defined benefit plan. Both the eligible employee and the Company make monthly contributions to the provident fund plan equal to a specified percentage of the covered employee's salary. The Company contributes a portion to the Infosys Limited Employees' Provident Fund Trust. The trust invests in specific designated instruments as permitted by Indian law. The remaining portion is contributed to the government administered pension fund. The rate at which the annual interest is payable to the beneficiaries by the trust is being administered by the Government of India. The Company has an obligation to make good the shortfall, if any, between the return from the investments of the Trust and the notified interest rate.
-## 2.21.3 Superannuation
-Certain employees of Infosys are participants in a defined contribution plan. The Company has no further obligations to the Plan beyond its monthly contributions which are periodically contributed to a trust fund, the corpus of which is invested with the Life Insurance Corporation of India.
-## 2.21.4 Compensated absences
-The Company has a policy on compensated absences which are both accumulating and non-accumulating in nature. The expected cost of accumulating compensated absences is determined by actuarial valuation performed by an external actuary at each Balance Sheet date using projected unit credit method on the additional amount expected to be paid / availed as a result of the unused entitlement that has accumulated at the Balance Sheet date. Expense on non-accumulating compensated absences is recognized in the period in which the absences occur.
-## a. Gratuity and Pension
-The following table sets out the details of the defined benefit retirement plans and the amounts recognized in the standalone financial statements as at March 31, 2026 and March 31, 2025:
-| Particulars                                                                         | Gratuity   | Gratuity   | Pension   |      |
-|-------------------------------------------------------------------------------------|------------|------------|-----------|------|
-|                                                                                     | 2026       | 2025       | 2026      | 2025 |
-| Change in benefit obligations                                                       |            |            |           |      |
-| Benefit obligations at the beginning                                                | 2,177      | 1,830      | 825       | 686  |
-| Service cost                                                                        | 397        | 305        | 34        | 28   |
-| Interest expense                                                                    | 157        | 122        | 9         | 11   |
-| Past service cost - plan amendments (Refer to Note 2.20.1)                          | 1,088      | -          | -         | -    |
-| Transfer                                                                            | 3          | 4          | 1         | -    |
-| Remeasurements - Actuarial (gains)/ losses                                          | (43)       | 73         | 94        | 57   |
-| Employee contribution                                                               | -          | -          | 33        | 24   |
-| Benefits paid                                                                       | (187)      | (158)      | 161       | (18) |
-| Translation difference                                                              | 3          | 1          | 199       | 37   |
-| Benefit obligations at the end                                                      | 3,595      | 2,177      | 1,356     | 825  |
-| Change in plan assets                                                               |            |            |           |      |
-| Fair value of plan assets at the beginning                                          | 2,407      | 1,817      | 775       | 650  |
-| Interest income                                                                     | 168        | 132        | 9         | 11   |
-| Transfer                                                                            | 5          | 4          | 1         | -    |
-| Remeasurements- Return on plan assets excluding amounts included in interest income | 47         | 20         | 76        | 48   |
-| Employee contribution                                                               | -          | -          | 33        | 24   |
-| Employer contribution                                                               | 1,281      | 590        | 41        | 28   |
-| Benefits paid                                                                       | (178)      | (155)      | 161       | (18) |
-| Translation difference                                                              | (1)        | (1)        | 190       | 32   |
-| Fair value of plan assets at the end                                                | 3,729      | 2,407      | 1,286     | 775  |
-| Funded status                                                                       | 134        | 230        | (70)      | (50) |
-| Defined benefit plan asset (Refer note 2.10)                                        | 168        | 257        | -         | -    |
-| Defined benefit plan liability                                                      | (34)       | (27)       | (70)      | (50) |
-
-The amount for the year ended March 31, 2026 and March 31, 2025 recognized in the Statement of Profit and Loss under employee benefit expense are as follows:
-| Particulars                                             | Gratuity Year ended March 31,   |      | Pension Year ended March 31,   | (In ₹ crore)   |
-|---------------------------------------------------------|---------------------------------|------|--------------------------------|----------------|
-|                                                         | 2026                            | 2025 | 2026                           | 2025           |
-| Service cost                                            | 397                             | 305  | 34                             | 28             |
-| Net interest on the net defined benefit liability/asset | (11)                            | (10) | -                              | -              |
-| Plan amendments                                         | 1,088                           | -    | -                              | -              |
-| Net cost                                                | 1,474                           | 295  | 34                             | 28             |
-
-The amount for the year ended March 31, 2026 and March 31, 2025 recognized in the statement of other comprehensive income are as follows:
-| Particulars                                                                                                                | Gratuity ended March   |      | Pension Year ended   | (In ₹ crore)   |
-|----------------------------------------------------------------------------------------------------------------------------|------------------------|------|----------------------|----------------|
-|                                                                                                                            | 2026 Year 31,          | 2025 | 2026                 | 2025 31,       |
-| Remeasurements of the net defined benefit liability/ (asset)                                                               |                        |      |                      |                |
-| Actuarial (gains) / losses                                                                                                 | (43)                   | 73   | 94                   | 57             |
-| (Return) / loss on plan assets excluding amounts included in the net interest on the net defined benefit liability/(asset) | (47)                   | (20) | (76)                 | (48)           |
-|                                                                                                                            | (90)                   | 53   | 18                   | 9              |
-
-Break up of actuarial (gains)/losses for year ended March 31, 2026 and March 31, 2025 is as follows:
-| Particulars                                         | Gratuity Year ended March 31,   |      | Pension Year ended   | ₹ crore)   |
-|-----------------------------------------------------|---------------------------------|------|----------------------|------------|
-|                                                     | 2026                            | 2025 | 2026                 | 2025       |
-| (Gain)/loss from change in demographic assumptions  | -                               | -    | (29)                 | -          |
-| (Gain)/loss from change in financial assumptions    | (5)                             | 39   | 25                   | 36         |
-| (Gain) / loss from change in experience assumptions | (38)                            | 34   | 98                   | 21         |
-|                                                     | (43)                            | 73   | 94                   | 57         |
-
-The weighted-average assumptions used to determine benefit obligations as at March 31, 2026 and March 31, 2025 are set out below:
-| Particulars                                                  | Gratuity As at March 31,   | Gratuity As at March 31,   | Pension As at March 31,   | Pension As at March 31,   |
-|--------------------------------------------------------------|----------------------------|----------------------------|---------------------------|---------------------------|
-|                                                              | 2026                       | 2025                       | 2026                      | 2025                      |
-| Discount Rate (1)                                            | 6.50%                      | 6.5%                       | 1.1%-4.1%                 | 0.9%-3.4%                 |
-| Weighted average rate of increase in compensation levels (2) | 6%                         | 6%                         | 1%-3%                     | 1%-3%                     |
-| Weighted average duration of defined benefit obligation (3)  | 5.7 years                  | 5.7 years                  | 12 years                  | 13 years                  |
-
-The weighted-average assumptions used to determine net periodic benefit cost for the year ended March 31, 2026 and March 31, 2025 are set out below:
-| Particulars                                              | Gratuity Year ended March 31,   | Gratuity Year ended March 31,   | Pension Year ended March 31,   | Pension Year ended March 31,   |
-|----------------------------------------------------------|---------------------------------|---------------------------------|--------------------------------|--------------------------------|
-|                                                          | 2026                            | 2025                            | 2026                           | 2025                           |
-| Discount rate                                            | 6.5%                            | 7.0%                            | 0.9%-3.4%                      | 1.5%-3.4%                      |
-| Weighted average rate of increase in compensation levels | 6%                              | 6%                              | 1%-3%                          | 1%-3%                          |
-
-(1) For domestic defined benefit plan in India, the market for high quality corporate bonds being not developed, the yield of government bonds is considered as the discount rate. For most of our overseas defined benefit plan, given that the market for high quality corporate bonds is not developed, the Government bond rate adjusted for corporate spreads is used.
-(2) The average rate of increase in compensation levels is determined by the Company, considering factors such as, the Company's past compensation revision trends, inflation in respective markets and management's estimate of future salary increases.
-(3) Attrition rate considered is the management's estimate based on the past long-term trend of employee turnover in the Company. The tenure has been considered taking into account the past long-term trend of employees' average remaining service life which reflects the average estimated term of post-employment benefit obligation.
-For domestic defined benefit plan in India, assumptions regarding future mortality experience are set in accordance with the published statistics by the Life Insurance Corporation of India. For overseas defined benefit plan, the assumptions regarding future mortality experience are set with regard to the latest statistics in life expectancy, plan experience and other relevant data.
-The Company assesses all the above assumptions with its projected long-term plans of growth and prevalent industry standards.
-The Company contributes all ascertained liabilities towards gratuity to the Infosys Limited Employees' Gratuity Fund Trust. Trustees administer contributions made to the trust. The plan assets of the overseas defined benefit plan have been primarily invested in insurer managed funds and the asset allocation for plan assets is determined based on the investment criteria prescribed under the relevant regulations applicable to pension funds and the insurer managers. The insurers' investment are diversified and provide for guaranteed interest rates arrangements.
-Actual return on assets (including remeasurement) of the gratuity plan for the year ended March 31, 2026 and March 31, 2025 were ₹215 crore and ₹152 crore, respectively and for the pension plan were ₹80 crore and ₹59 crore, respectively.
-The contributions for gratuity are invested in a scheme with the Life Insurance Corporation of India as permitted by Indian law. The table below sets out the details of major plan assets into various categories as at March 31, 2026 and  March 31, 2025:
-| Particulars               | Pension As at March 31,   | Pension As at March 31,   |
-|---------------------------|---------------------------|---------------------------|
-|                           | 2026                      | 2025                      |
-| Equity                    | 38%                       | 34%                       |
-| Bonds                     | 22%                       | 30%                       |
-| Real Estate/Property      | 24%                       | 26%                       |
-| Cash and Cash Equivalents | 1%                        | 1%                        |
-| Other                     | 15%                       | 9%                        |
-
-These defined benefit plans expose the Company to actuarial risk which are set out below:
-Interest rate risk:  The present value of the defined benefit plan liability is generally calculated using a discount rate determined by reference to government bond yields and in certain overseas jurisdictions, it is calculated in reference to government bond yield adjusted for a corporate spread.  If bond yields fall, the defined benefit obligation will tend to increase.
-Life expectancy and investment risk: The pension fund offers the choice between a lifelong pension and a cash lump sum upon retirement. The pension fund has defined rates for converting the lump sum to a pension and there is the risk that the members live longer than implied by these conversion rates and that the pension assets don't achieve the investment return implied by these conversion rates.
-Asset volatility: A proportion of the pension fund is held in equities, which is expected to outperform corporate bonds in the long term but give exposure to volatility and risk in the short term. The pension fund board of insurer is responsible for the investment strategy and equity allocation is justified given the long-term investment horizon of the pension fund and the objective to provide a reasonable long term return on members' account balances.
-The sensitivity of significant assumptions used for valuation of defined benefit obligation is as follows :
-|                                                         | (in ₹ crore)                            | (in ₹ crore)       |
-|---------------------------------------------------------|-----------------------------------------|--------------------|
-| Impact from                                             | Gratuity As at March 31, 2026           | Pension increase / |
-|                                                         | 1% point increase / decrease 0.5% point | decrease           |
-| Discount Rate                                           | 185                                     | 56                 |
-| Weighted average rate of increase in compensation level | 199                                     | 9                  |
-
-Sensitivity for significant actuarial assumptions is computed by varying one actuarial assumption used for the valuation of defined benefit obligation, keeping all other actuarial assumptions constant. In practice, this is not probable, and changes in some of the assumptions may be correlated.
-The Company expects to contribute ₹490 crore to gratuity and ₹48 crore to pension during the fiscal 2027.
-Maturity profile of defined benefit obligation:
-|               | Gratuity   |   (in ₹ crore) Pension |
-|---------------|------------|------------------------|
-| Within 1 year | 591        |                     88 |
-| 1-2 year      | 491        |                     99 |
-| 2-3 year      | 464        |                     95 |
-| 3-4 year      | 429        |                     86 |
-| 4-5 year      | 399        |                     94 |
-| 5-10 years    | 1,507      |                    407 |
+* During the three months and year ended March 31, 2025, certain assets which were not in use having gross book value of ₹113 crore (net book value: Nil) and ₹513 crore (net book value: Nil), respectively were retired.

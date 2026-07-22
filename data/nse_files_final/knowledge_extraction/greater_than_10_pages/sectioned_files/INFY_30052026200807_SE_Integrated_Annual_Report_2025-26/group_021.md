@@ -1,152 +1,243 @@
 ---
 document_name: "INFY_30052026200807_SE_Integrated_Annual_Report_2025-26.md"
 group_id: "INFY_30052026200807_SE_Integrated_Annual_Report_2025-26__group_021"
-source_section_count: 3
-page_start: 169
-page_end: 178
-estimated_tokens: 8004
+source_section_count: 2
+page_start: 93
+page_end: 98
+estimated_tokens: 4774
 source_section_ids:
-  - "INFY_30052026200807_SE_Integrated_Annual_Report_2025-26__072"
-  - "INFY_30052026200807_SE_Integrated_Annual_Report_2025-26__073"
-  - "INFY_30052026200807_SE_Integrated_Annual_Report_2025-26__074"
+  - "INFY_30052026200807_SE_Integrated_Annual_Report_2025-26__039"
+  - "INFY_30052026200807_SE_Integrated_Annual_Report_2025-26__040"
 ---
 
-## Independent Auditor's Report
-To The Members Of Infosys Limited
-## Report on the Audit of the Standalone Financial Statements
-## Opinion
-We have audited the accompanying Standalone Financial Statements of INFOSYS LIMITED (the 'Company'), which comprise the Balance Sheet as at March 31, 2026, the Statement of Profit and Loss (including Other Comprehensive Income), the Statement of Changes in Equity and the Statement of Cash Flows for the year ended on that date and notes to the financial statements, including a summary of material accounting policies and other explanatory information (hereinafter referred to as the 'Standalone Financial Statements').
-In our opinion and to the best of our information and according to the explanations given to us, the aforesaid Standalone Financial Statements give the information required by the Companies Act, 2013 (the 'Act') in the manner so required and give a true and fair view in conformity with the Indian Accounting Standards prescribed under section 133 of the Act, ('Ind AS') and other accounting principles generally accepted in India, of the state of affairs of the Company as at March 31, 2026, its profit, and it's other comprehensive income, changes in equity and its cash flows for the year ended on that date.
-## Basis for Opinion
-We conducted our audit of the Standalone Financial Statements in accordance with the Standards on Auditing ('SAs') specified under section 143(10) of the Act. Our responsibilities under those Standards are further described in the Auditor's Responsibilities for the Audit of the Standalone Financial Statements section of our report. We are independent of the Company in accordance with the Code of Ethics issued by the Institute of Chartered Accountants of India ('ICAI') together with the ethical requirements that are relevant to our audit of the Standalone Financial Statements under the provisions of the Act and the rules made thereunder, and we have fulfilled our other ethical responsibilities in accordance with these requirements and the ICAI's Code of Ethics. We believe that the audit evidence obtained by us is sufficient and appropriate to provide a basis for our audit opinion on the Standalone Financial Statements.
-## Key Audit Matters
-Key audit matters are those matters that, in our professional judgment, were of most significance in our audit of the Standalone Financial Statements of the current period. These matters were addressed in the context of our audit of the Standalone Financial Statements as a whole, and in forming our opinion thereon, and we do not provide a separate opinion on these matters. We have determined the matters described below to be the key audit matters to be communicated in our report.
-| Sr. No.   | Key Audit Matter                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1         | Revenue recognition                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-|           | The Company's contracts with customers include contracts with multiple products and services. The Company derives revenues from IT services comprising software development and related services, maintenance, consulting and package implementation, licensing of software products and platforms across the Company's core and digital offerings and business process management services. The Company assesses the services promised in a contract and identifies distinct performance obligations in the contract. Identification of distinct performance obligations to determine the deliverables and the ability of the customer to benefit independently from such deliverables involves significant judgement.                                                                                                                                                  |
-|           | In certain integrated services arrangements, contracts with customers include subcontractor services or third-party vendor equipment or software. In these types of arrangements, revenue from sales of third-party vendor products or services is recorded net of costs when the Company is acting as an agent between the customer and the vendor, and gross when the Company is the principal for the transaction. In doing so, the Company first evaluates whether it obtains control of the specified goods or service before it is transferred to the customer. The Company considers whether it is primarily responsible for fulfilling the promise to provide the specified goods or service, inventory risk, pricing discretion and other factors to determine whether it controls the products or service and therefore, is acting as a principal or an agent. |
-|           | Fixed price maintenance revenue is recognized ratably either on (1) a straight-line basis when services are performed through an indefinite number of repetitive acts over a specified period or (2) using a percentage of completion method when the pattern of benefits from the services rendered to the customer and the Company's costs to fulfil the contract is not even through the period of contract because the services are generally discrete in nature and not repetitive. The use of method to recognize the maintenance revenues requires judgment and is based on the promises in the contract and nature of the deliverables.                                                                                                                                                                                                                          |
-|           | As certain contracts with customers involve management's judgment in (1) identifying distinct performance obligations, (2) determining whether the Company is acting as a principal or an agent and (3) whether fixed price maintenance revenue is recognized on a straight-line basis or using the percentage of completion method, revenue recognition from these judgments were identified as a key audit matter and required a higher extent of audit effort.                                                                                                                                                                                                                                                                                                                                                                                                        |
-|           | Refer Notes 1.4 and 2.18 to the Standalone Financial Statements.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-|           | Auditor's Response                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-|           | Principal Audit Procedures Performed included the following: Our audit procedures related to the (1) identification of distinct performance obligations, (2) determination of whether the Company is acting as a principal or agent and (3) whether fixed price maintenance revenue is recognized on a straight-line basis or using the percentage of completion method included the following, among others:                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-|           | • Wetested the effectiveness of controls relating to the (a) identification of distinct performance obligations, (b) determination of whether the Company is acting as a principal or an agent and (c) determination of whether fixed price maintenance revenue for certain contracts is recognized on a straight-line basis or using the percentage of completion method.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-|           | • Weselected a sample of contracts with customers and performed the following procedures:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-|           | - Obtained and read contract documents for each selection, including master service agreements, and other documents that were part of the agreement. - Identified significant terms and deliverables in the contract to assess management's conclusions regarding the (i) identification of distinct performance obligations (ii) whether the Company is acting as a principal or an agent and (iii) whether fixed price maintenance revenue is recognized on a straight-line basis or using the percentage of completion method.                                                                                                                                                                                                                                                                                                                                        |
+## Cybersecurity Risk Sub-committee
+Michael Gibbs Chairperson and Cybersecurity expert
+<!-- image -->
+The Cybersecurity Risk Sub-committee ('the Sub-committee') comprises only independent directors. As on March 31, 2026, the Sub-committee comprised:
+1.  Michael Gibbs, Chairperson and Cybersecurity expert
+2.  D. Sundaram
+3.  Govind Iyer
 
-| Sr. No.   | Key Audit Matter                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2         | Revenue recognition - Fixed price contracts using the percentage of completion method                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-|           | Fixed price maintenance revenue is recognized ratably either (1) on a straight-line basis when services are performed through an indefinite number of repetitive acts over a specified period or (2) using a percentage of completion method when the pattern of benefits from services rendered to the customer and the Company's costs to fulfil the contract is not even through the period of contract because the services are generally discrete in nature and not repetitive. Revenue from other fixed-price, fixed-timeframe contracts, where the performance obligations are satisfied over time is recognized using the percentage- of-completion method. |
-|           | Use of the percentage-of-completion method requires the Company to determine the actual efforts or costs expended to date as a proportion of the estimated total efforts or costs to be incurred. Efforts or costs expended have been used to measure progress towards completion as there is a direct relationship between input and productivity. The estimation of total efforts or costs involves significant judgement and is assessed throughout the period of the contract to reflect any changes based on the latest available information. Provisions for estimated losses, if any, on uncompleted contracts are recorded in the                           |
-|           | Weidentified the estimate of total efforts or costs to complete fixed price contracts measured using the percentage of completion method as a key audit matter as the estimation of total efforts or costs involves significant judgement and is assessed throughout the period of the contract to reflect any changes based on the latest available information. This estimate has a high inherent uncertainty and requires consideration of progress of the contract, efforts or costs incurred to-date and estimates of efforts or costs required to complete the remaining contract performance obligations over the term of the contracts.                     |
-|           | This required a high degree of auditor judgment in evaluating the audit evidence and a higher extent of audit effort to evaluate the reasonableness of the total estimated amount of revenue recognized on fixed-price contracts.                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-|           | Refer Notes 1.4 and 2.18 to the Standalone Financial Statements.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-|           | Auditor's Response                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-|           | Principal Audit Procedures Performed included the following: Our audit procedures related to estimates of total expected costs or efforts to complete for fixed-price contracts included the following, among others:                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-|           | • Wetested the effectiveness of controls relating to (1) recording of efforts or costs incurred and estimation of efforts or costs required to complete the remaining contract performance obligations and (2) access and application controls pertaining to time recording, allocation and budgeting systems which prevents unauthorised changes to recording of efforts incurred.                                                                                                                                                                                                                                                                                 |
-|           | • Weselected a sample of fixed price contracts with customers measured the using percentage-of-completion method and performed the following: - Evaluated management's ability to reasonably estimate the progress towards satisfying the performance obligation by comparing actual efforts or costs incurred to prior year estimates of efforts or costs budgeted for performance                                                                                                                                                                                                                                                                                 |
-|           | obligations that have been fulfilled.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-|           | - Compared efforts or costs incurred with Company's estimate of efforts or costs incurred to date to identify significant variations and evaluate whether those variations have been considered appropriately in estimating the remaining costs or efforts to complete the contract. - Tested the estimate for consistency with the status of delivery of milestones and customer acceptances and sign off from customers to identify possible delays in achieving milestones, which require changes in estimated costs or efforts to complete the remaining performance obligations.                                                                               |
+## Committee governance
+The Risk Management Committee constituted a Cybersecurity Risk Sub-committee in April 2019. This Sub-committee was voluntarily constituted to focus on cybersecurity-related threats. The objective of the Sub-committee is to assess
+## Composition and attendance
+<!-- image -->
+| 100% Independence   | 5 Members   | 4 Meetings   | 100% Attendance   |
+|---------------------|-------------|--------------|-------------------|
 
-## Information Other than the Financial Statements and Auditor's Report Thereon
-The Company's Board of Directors is responsible for the other information. The other information comprises the information included in the Management Discussion and Analysis, Board's Report including Annexures to Board's Report, Business Responsibility and Sustainability Report, Corporate Governance and Shareholder's Information, but does not include the Consolidated Financial Statements, Standalone Financial Statements and our auditor's report thereon.
-Our opinion on the Standalone Financial Statements does not cover the other information and we do not express any form of assurance conclusion thereon.
-In connection with our audit of the Standalone Financial Statements, our responsibility is to read the other information and, in doing so, consider whether the other information is materially inconsistent with the Standalone Financial Statements or our knowledge obtained during the course of our audit or otherwise appears to be materially misstated.
-If, based on the work we have performed, we conclude that there is a material misstatement of this other information, we are required to report that fact. We have nothing to report in this regard.
-## Responsibilities of Management and Board of Directors for the Standalone Financial Statements
-The Company's Board of Directors is responsible for the matters stated in section 134(5) of the Act with respect to the preparation of these Standalone Financial Statements that give a true and fair view of the financial position, financial performance, including other comprehensive income, changes in equity and cash flows of the Company in accordance with the accounting principles generally accepted in India, including Ind AS specified under section 133 of the Act. This responsibility also includes maintenance of adequate accounting records in accordance with the provisions of the Act for safeguarding the assets of the Company and for preventing and detecting frauds and other irregularities; selection and application of appropriate accounting policies; making judgments and estimates that are reasonable and prudent; and design, implementation and maintenance of adequate internal financial controls, that were operating effectively for ensuring the accuracy and completeness of the accounting records, relevant to the preparation and presentation of the Standalone Financial Statements that give a true and fair view and are free from material misstatement, whether due to fraud or error.
-In preparing the Standalone Financial Statements, management and Board of Directors are responsible for assessing the Company's ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless the Board of Directors either intends to liquidate the Company or to cease operations, or has no realistic alternative but to do so.
-The Company's Board of Directors are also responsible for overseeing the Company's financial reporting process.
-## Auditor's Responsibilities for the Audit of the Standalone Financial Statements
-Our objectives are to obtain reasonable assurance about whether the Standalone Financial Statements as a whole are free from material misstatement, whether due to fraud or error, and to issue an auditor's report that includes our opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with SAs will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these Standalone Financial Statements.
-As part of an audit in accordance with SAs, we exercise professional judgment and maintain professional scepticism throughout the audit. We also:
-- Identify and assess the risks of material misstatement of the Standalone Financial Statements, whether due to fraud or error, design and perform audit procedures responsive to those risks, and obtain audit evidence that is sufficient and appropriate to provide a basis for our opinion. The risk of not detecting a material misstatement resulting from fraud is higher than for one resulting from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.
-- Obtain an understanding of internal financial control relevant to the audit in order to design audit procedures that are appropriate in the circumstances. Under section 143(3)(i) of the Act, we are also responsible for expressing our opinion on whether the Company has adequate internal financial controls with reference to Standalone Financial Statements in place and the operating effectiveness of such controls.
-- Evaluate the appropriateness of accounting policies used and the reasonableness of accounting estimates and related disclosures made by the management.
-- Conclude on the appropriateness of management's use of the going concern basis of accounting and, based on the audit evidence obtained, whether a material uncertainty exists related to events or conditions that may cast significant doubt on the Company's ability to continue as a going concern. If we conclude that a material uncertainty exists, we are required to draw attention in our auditor's report to the related disclosures in the Standalone Financial Statements or, if such disclosures are inadequate, to modify our opinion. Our conclusions are based on the audit evidence obtained up to the date of our auditor's report. However, future events or conditions may cause the Company to cease to continue as a going concern.
+<!-- image -->
+## Attendance details of the Cybersecurity Risk Sub-committee
+<!-- image -->
+<!-- image -->
+<!-- image -->
+| Cybersecurity Risk Sub-committee meeting   | Cybersecurity Risk Sub-committee meeting   | Cybersecurity Risk Sub-committee meeting   | Cybersecurity Risk Sub-committee meeting   | Cybersecurity Risk Sub-committee meeting   | Cybersecurity Risk Sub-committee meeting   | Cybersecurity Risk Sub-committee meeting   | Cybersecurity Risk Sub-committee meeting   |
+|--------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|
+|                                            | Committee meeting details                  | Committee meeting details                  | Committee meeting details                  | Committee meeting details                  | Held during tenure                         | Attended                                   |                                            |
+| Name of the member                         | 1                                          | 2                                          | 3                                          | 4                                          |                                            |                                            | %                                          |
+| Name of the member                         | April 9, 2025                              | July 16, 2025                              | October 14, 2025                           | January 7, 2026                            |                                            |                                            |                                            |
+| Michael Gibbs                              |                                            |                                            |                                            |                                            | 4                                          | 4                                          | 100                                        |
+| D. Sundaram                                |                                            |                                            |                                            |                                            | 4                                          | 4                                          | 100                                        |
+| Govind Iyer                                |                                            |                                            |                                            |                                            | 4                                          | 4                                          | 100                                        |
+| Chitra Nayak                               |                                            |                                            |                                            |                                            | 4                                          | 4                                          | 100                                        |
+| Helene Auriol Potier (1)                   | NA                                         | NA                                         |                                            |                                            | 2                                          | 2                                          | 100                                        |
+| %Attendance                                | 100                                        | 100                                        | 100                                        | 100                                        |                                            |                                            |                                            |
 
-- Evaluate the overall presentation, structure and content of the Standalone Financial Statements, including the disclosures, and whether the Standalone Financial Statements represent the underlying transactions and events in a manner that achieves fair presentation.
+<!-- image -->
+Present
+<!-- image -->
+<!-- image -->
+<!-- image -->
+<!-- image -->
+<!-- image -->
+<!-- image -->
+<!-- image -->
+<!-- image -->
+<!-- image -->
+<!-- image -->
+<!-- image -->
+<!-- image -->
+<!-- image -->
+<!-- image -->
+<!-- image -->
+4.  Chitra Nayak
+5.  Helene Auriel Potier  (1)
+- (1)  Appointed as member of the Committee effective August 1, 2025
 
-Materiality is the magnitude of misstatements in the Standalone Financial Statements that, individually or in aggregate, makes it probable that the economic decisions of a reasonably knowledgeable user of the Standalone Financial Statements may be influenced. We consider quantitative materiality and qualitative factors in (i) planning the scope of our audit work and in evaluating the results of our work; and (ii) to evaluate the effect of any identified misstatements in the Standalone Financial Statements.
-We communicate with those charged with governance regarding, among other matters, the planned scope and timing of the audit and significant audit findings, including any significant deficiencies in internal financial controls that we identify during our audit.
-We also provide those charged with governance with a statement that we have complied with relevant ethical requirements regarding independence, and to communicate with them all relationships and other matters that may reasonably be thought to bear on our independence, and where applicable, related safeguards.
-From the matters communicated with those charged with governance, we determine those matters that were of most significance in the audit of the Standalone Financial Statements of the current period and are therefore the key audit matters. We describe these matters in our auditor's report unless law or regulation precludes public disclosure about the matter or when, in extremely rare circumstances, we determine that a matter should not be communicated in our report because the adverse consequences of doing so would reasonably be expected to outweigh the public interest benefits of such communication.
-## Report on Other Legal and Regulatory Requirements
-1. As required by Section 143(3) of the Act, based on our audit we report that:
-- a) We have sought and obtained all the information and explanations which to the best of our knowledge and belief were necessary for the purposes of our audit.
-- b) In our opinion, proper books of account as required by law have been kept by the Company so far as it appears from our examination of those books.
-- c) The Balance Sheet, the Statement of Profit and Loss including Other Comprehensive Income, Statement of Changes in Equity and the Statement of Cash Flows dealt with by this Report are in agreement with the books of account.
-- d) In our opinion, the aforesaid Standalone Financial Statements comply with the Ind AS specified under Section 133 of the Act.
-- e) On the basis of the written representations received from the directors as on March 31, 2026 taken on record by the Board of Directors, none of the directors is disqualified as on March 31, 2026 from being appointed as a director in terms of Section 164(2) of the Act.
-- f) With respect to the adequacy of the internal financial controls with reference to Standalone Financial Statements of the Company and the operating effectiveness of such controls, refer to our separate report in 'Annexure A'. Our report expresses an unmodified opinion on the adequacy and operating effectiveness of the Company's internal financial controls with reference to Standalone Financial Statements.
-- g) With respect to the other matters to be included in the Auditor's Report in accordance with the requirements of section 197(16) of the Act, as amended, in our opinion and to the best of our information and according to the explanations given to us, the remuneration paid by the Company to its directors during the year is in accordance with the provisions of section 197 of the Act.
-- h) With respect to the other matters to be included in the Auditor's Report in accordance with Rule 11 of the Companies (Audit and Auditors) Rules, 2014, as amended, in our opinion and to the best of our information and according to the explanations given to us:
-- i. The Company has disclosed the impact of pending litigations on its financial position in its Standalone Financial Statements. Refer Note 2.23 to the Standalone Financial Statements.
-- ii. The Company has made provision as required under applicable law or accounting standards for material foreseeable losses. Refer Note 2.16 to the Standalone Financial Statements. The Company did not have any long-term derivative contracts.
-- iii. There has been no delay in transferring amounts, required to be transferred, to the Investor Education and Protection Fund by the Company.
+cybersecurity-related risks and the preparedness of the Company to mitigate and react to such risks. The Sub-committee meets periodically and recommends its findings, if any, to the Risk Management Committee.
+The Sub-committee met four times during fiscal 2026.
+## Cybersecurity Risk Sub-committee report for the year ended March 31, 2026
+| Key highlights of the activities of the Committee during the year                                                                                                                                                            | Frequency   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| Reviewed the security awareness initiatives, including targeted phishing mails, cybersecurity week, bootcamps, etc., along with consequence management for violations                                                        | P           |
+| Reviewed the access control for SaaS applications, progress of tech stack modernization and deployment, cloud security governance, subsidiary landscape, Security for AI and quantum computing                               | P           |
+| Reviewed the external threat landscape and environment, emerging threats, vulnerability management, incident metrics, global ransomware attacks and Infosys' preparedness, including crisis management and scenario analysis | P           |
+| Reviewed the details of cybersecurity incidents and the progress of mitigation actions                                                                                                                                       | P           |
+| Reviewed the key performance indicators (KPIs) pertaining to the cybersecurity posture of the Company                                                                                                                        | P           |
 
+<!-- image -->
+<!-- image -->
+<!-- image -->
+Frequency
+A Annually
+Q Quarterly
+P Periodically
+<!-- image -->
+<!-- image -->
+<!-- image -->
+<!-- image -->
+<!-- image -->
+<!-- image -->
+Dallas
+Michael Gibbs Chairperson
+April 15, 2026
+DIN: 08177291
+Sd/-
+Michael Gibbs Chairperson
+DIN: 08177291
+## Stakeholders Relationship Committee
+Michael Gibbs Chairperson
+<!-- image -->
+The Stakeholders Relationship Committee ('the Committee') comprises only independent directors. As on March 31, 2026, the Committee comprised:
+1.  Michael Gibbs, Chairperson
+2.  D. Sundaram
+3.  Bobby Parikh
+4.  Chitra Nayak
 
+The Board has appointed A.G.S. Manikantha, Company Secretary, as the Compliance Officer, as required under the Listing Regulations and the Nodal Officer to ensure compliance with the IEPF rules.
+## Purpose of the Committee
+The purpose of the Committee is to assist the Board and the Company to oversee the various aspects of interests of stakeholders of the Company. The term 'stakeholder' includes shareholders and other security holders.
+## Objectives and responsibilities of the Committee
+The primary objectives of the Committee are to:
+1.  Consider and resolve the security holders' concerns or complaints
+2.  Monitor and review the investor service standards of the Company
+3.  Take steps to develop an understanding of the views of shareholders about the Company, either through direct face-to-face interaction, analysts' briefings or survey of shareholders
+4.  Oversee and review the engagement and communication plan with shareholders and ensure that the views and concerns of the shareholders are highlighted to the Board at the appropriate time and that steps are taken to address such concerns
 
-- iv. (a) The Management has represented that, to the best of its knowledge and belief, no funds have been advanced or loaned or invested (either from borrowed funds or share premium or any other sources or kind of funds) by the Company to or in any other person or entity, including foreign entity ('Intermediaries'), with the understanding, whether recorded in writing or otherwise, that the Intermediary shall, whether, directly or indirectly lend or invest in other persons or entities identified in any manner whatsoever by or on behalf of the Company ('Ultimate Beneficiaries') or provide any guarantee, security or the like on behalf of the Ultimate Beneficiaries;
+## Committee governance
+The Committee comprises four independent directors and performs the functions as required by:
+- Section 178 of the Companies Act, 2013 and rules framed thereunder
+- Regulation 20 of the Listing Regulations and other regulations and laws, as applicable
+- NYSE guidelines, as applicable
+- Stakeholders Relationship Committee Charter
 
-(b) The Management has represented, that, to the best of its knowledge and belief, no funds have been received by the Company from any person or entity, including foreign entity ('Funding Parties'), with the understanding, whether recorded in writing or otherwise, that the Company shall, whether, directly or indirectly, lend or invest in other persons or entities identified in any manner whatsoever by or on behalf of the Funding Party ('Ultimate Beneficiaries') or provide any guarantee, security or the like on behalf of the Ultimate Beneficiaries;
-(c) Based on the audit procedures that have been considered reasonable and appropriate in the circumstances, nothing has come to our notice that has caused us to believe that the representations under sub-clause (i) and (ii) of Rule 11(e), as provided under (a) and (b) above, contain any material misstatement.
-- v. As stated in Note 2.12.3 to the Standalone Financial Statements
+## Committee Charter
+The Stakeholders Relationship Committee Charter is available on the Company's website, at https://www.infosys.com/ investors/corporate-governance/documents/stakeholdersrelationship-committee.pdf.
+<!-- image -->
+## Attendance details of the Stakeholders Relationship Committee
+<!-- image -->
+<!-- image -->
+<!-- image -->
+<!-- image -->
+| Stakeholders Relationship Committee meeting   | Stakeholders Relationship Committee meeting   | Stakeholders Relationship Committee meeting   | Stakeholders Relationship Committee meeting   | Stakeholders Relationship Committee meeting   | Stakeholders Relationship Committee meeting   | Stakeholders Relationship Committee meeting   | Stakeholders Relationship Committee meeting   |
+|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
+|                                               | Committee meeting details                     | Committee meeting details                     | Committee meeting details                     | Committee meeting details                     | Held during tenure                            | Attended                                      |                                               |
+| Name of the member                            | 1                                             | 2                                             | 3                                             | 4                                             |                                               |                                               | %                                             |
+|                                               | April 15, 2025                                | July 16, 2025                                 | October 14, 2025                              | January 7, 2026                               |                                               |                                               |                                               |
+| Michael Gibbs                                 |                                               |                                               |                                               |                                               | 4                                             | 4                                             | 100                                           |
+| D. Sundaram                                   |                                               |                                               |                                               |                                               | 4                                             | 4                                             | 100                                           |
+| Bobby Parikh                                  |                                               |                                               |                                               |                                               | 4                                             | 4                                             | 100                                           |
+| Chitra Nayak                                  |                                               |                                               |                                               |                                               | 4                                             | 4                                             | 100                                           |
+| %Attendance                                   | 100                                           | 100                                           | 100                                           | 100                                           |                                               |                                               |                                               |
 
-(a) The final dividend proposed in the previous year, declared and paid by the Company during the year is in accordance with Section 123 of the Act, as applicable.
-(b) The interim dividend declared and paid by the Company during the year and until the date of this report is in compliance with Section 123 of the Act.
-(c) The Board of Directors of the Company have proposed final dividend for the year which is subject to the approval of the members at the ensuing Annual General Meeting. The amount of dividend proposed is in accordance with section 123 of the Act, as applicable.
-- vi. Based on our examination, which included test checks, the Company has used accounting software systems for maintaining its books of account for the financial year ended March 31, 2026 which have the feature of recording audit trail (edit log) facility and the same has operated throughout the year for all relevant transactions recorded in the software systems. Further, during the course of our audit we did not come across any instance of the audit trail feature being tampered with and the audit trail has been preserved by the Company as per the statutory requirements for record retention.
-2. As required by the Companies (Auditor's Report) Order, 2020 (the 'Order') issued by the Central Government in terms of Section 143(11) of the Act, we give in 'Annexure B' a statement on the matters specified in paragraphs 3 and 4 of the Order.
+<!-- image -->
+Present
+<!-- image -->
+<!-- image -->
+<!-- image -->
+<!-- image -->
+<!-- image -->
+<!-- image -->
+<!-- image -->
+<!-- image -->
+<!-- image -->
 
-For DELOITTE HASKINS &amp; SELLS LLP Chartered Accountants (Firm Registration No. 117366W/W-100018)
+## Complaints received and resolved during the year ended March 31, 2026
+<!-- image -->
+## Stakeholders Relationship Committee report for the year ended March 31, 2026
+<!-- image -->
+<!-- image -->
+| Key highlights of the activities of the Committee during the year                                                                                                                                     | Frequency   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| Monitored and reviewed the Company's performance in dealing with stakeholder grievances                                                                                                               | A           |
+| Reviewed various measures and initiatives taken for reducing the quantum of unclaimed dividends and timely receipt of dividend warrants / annual reports / notices by the shareholders of the Company | P           |
+| Reviewed the unclaimed dividend and equity shares transferred to the Investor Education and Protection Fund (IEPF) pursuant to the IEPF Rules                                                         | P           |
+| Reviewed the annual audit report submitted by the Registrar & Share Transfer Agent's (RTA) independent auditors on the annual internal audit conducted on the RTA operations as mandated by SEBI      | A           |
+| Reviewed the measures taken for effective exercise of voting rights by shareholders                                                                                                                   | A           |
+| Reviewed the adherence to service standards and security assessments adopted in respect of various services being rendered by the RTA                                                                 | P           |
+| Undertook an annual performance evaluation of its own effectiveness                                                                                                                                   | A           |
+| Reviewed the Management's investor / analyst interactions                                                                                                                                             | Q           |
+| Reviewed the key investor relations updates                                                                                                                                                           | Q           |
+| Noted the investor awareness sessions conducted for employees by the Company in collaboration with National Stock Exchange and SEBI                                                                   | P           |
+| Reviewed and recommended to the Board the amendments to Dividend Distribution Policy and Committee Charter                                                                                            | P           |
+| Frequency A Annually Q Quarterly P Periodically                                                                                                                                                       |             |
 
-## Vikas Bagaria
-Partner (Membership No.060408) UDIN: 26060408CPRNQV5105
-Place: Bengaluru Date: April 23, 2026
-## Annexure 'A' to the Independent Auditor's Report
-(Referred to in paragraph 1(f) under 'Report on Other Legal and Regulatory Requirements' section of our report to the Members of Infosys Limited of even date)
-## Report on the Internal Financial Controls with reference to Standalone Financial Statements under Clause (i) of sub-section 3 of Section 143 of the Companies Act, 2013 (the 'Act')
-We have audited the internal financial controls with reference to Standalone Financial Statements of INFOSYS LIMITED (the 'Company') as of March 31, 2026 in conjunction with our audit of the Standalone Financial Statements of the Company for the year ended on that date.
-## Management's and Board of Directors' Responsibilities for Internal Financial Controls
-The Company's Management and Board of Directors are responsible for establishing and maintaining internal financial controls with reference to Standalone Financial Statements based on the internal control over financial reporting criteria established by the Company considering the essential components of internal control stated in the Guidance Note on Audit of Internal Financial Controls Over Financial Reporting issued by the Institute of Chartered Accountants of India (the 'ICAI'). These responsibilities include the design, implementation and maintenance of adequate internal financial controls that were operating effectively for ensuring the orderly and efficient conduct of its business, including adherence to company's policies, the safeguarding of its assets, the prevention and detection of frauds and errors, the accuracy and completeness of the accounting records, and the timely preparation of reliable financial information, as required under the Act.
-## Auditor's Responsibility
-Our responsibility is to express an opinion on the Company's internal financial controls with reference to Standalone Financial Statements based on our audit. We conducted our audit in accordance with the Guidance Note on Audit of Internal Financial Controls Over Financial Reporting (the 'Guidance Note') issued by the ICAI and the Standards on Auditing prescribed under Section 143(10) of the Act, to the extent applicable to an audit of internal financial controls with reference to Standalone Financial Statements. Those Standards and the Guidance Note require that we comply with ethical requirements and plan and perform the audit to obtain reasonable assurance about whether adequate internal financial controls with reference to Standalone Financial Statements was established and maintained and if such controls operated effectively in all material respects.
-Our audit involves performing procedures to obtain audit evidence about the adequacy of the internal financial controls with reference to Standalone Financial Statements and their operating effectiveness. Our audit of internal financial controls with reference to Standalone Financial Statements included obtaining an understanding of internal financial controls with reference to Standalone Financial Statements, assessing the risk that a material weakness exists, and testing and evaluating the design and operating effectiveness of internal control based on the assessed risk. The procedures selected depend on the auditor's judgement, including the assessment of the risks of material misstatement of the financial statements, whether due to fraud or error.
-We believe that the audit evidence we have obtained, is sufficient and appropriate to provide a basis for our audit opinion on the Company's internal financial controls with reference to Standalone Financial Statements.
-## Meaning of Internal Financial Controls with reference to Standalone Financial Statements
-A company's internal financial control with reference to Standalone Financial Statements is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company's internal financial control with reference to Standalone Financial Statements includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorisations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorised acquisition, use, or disposition of the company's assets that could have a material effect on the financial statements.
-## Inherent Limitations of Internal Financial Controls with reference to Standalone Financial Statements
-Because of the inherent limitations of internal financial controls over financial reporting, including the possibility of collusion or improper management override of controls, material misstatements due to error or fraud may occur and not be detected. Also, projections of any evaluation of the internal financial controls with reference to Standalone Financial Statements to future periods are subject to the risk that the internal financial control with reference to Standalone Financial Statements may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
-## Opinion
-In our opinion, to the best of our information and according to the explanations given to us, the Company has, in all material respects, an adequate internal financial controls with reference to Standalone Financial Statements and such internal financial controls with reference to Standalone Financial Statements were operating effectively as at March 31, 2026, based on the criteria for internal financial control with reference to Standalone Financial Statements established by the Company considering the essential components of internal control stated in the Guidance Note on Audit of Internal Financial Controls Over Financial Reporting issued by the ICAI.
-For DELOITTE HASKINS &amp; SELLS LLP Chartered Accountants (Firm Registration No. 117366W/W-100018)
-Vikas Bagaria Partner (Membership No.060408) UDIN: 26060408CPRNQV5105
-Place: Bengaluru
-Date: April 23, 2026
-## Annexure 'B' to the Independent Auditor's Report
-(Referred to in paragraph 2 under 'Report on Other Legal and Regulatory Requirements' section of our report to the Members of Infosys Limited of even date)
-To the best of our information and according to the explanations provided to us by the Company and the books of account and records examined by us in the normal course of audit, we state that:
-- i. In respect of the Company's property, plant and equipment, right-of-use assets and intangible assets:
-2. (a) (A) The Company has maintained proper records showing full particulars, including quantitative details and situation of property, plant and equipment and relevant details of right-of-use assets.
-3. (B) The Company has maintained proper records showing full particulars of intangible assets.
-4. (b) The Company has a program of physical verification of property, plant and equipment and right-of-use assets so to cover all the assets once every three years which, in our opinion, is reasonable having regard to the size of the Company and the nature of its assets. Pursuant to the program, certain property, plant and equipment and right-of-use assets were due for verification during the year and were physically verified by the Management during the year. According to the information and explanations given to us, no material discrepancies were noticed on such verification.
-5. (c) Based on our examination of the property tax receipts and lease agreement for land on which building is constructed, registered sale deed / transfer deed / conveyance deed provided to us, we report that, the title in respect of selfconstructed buildings and title deeds of all other immovable properties (other than properties where the company is the lessee and the lease agreements are duly executed in favour of the lessee), disclosed in the financial statements included under Property, Plant and Equipment are held in the name of the Company as at the balance sheet date.
-6. (d) The Company has not revalued any of its property, plant and equipment (including right-of-use assets) and intangible assets during the year.
-7. (e) No proceedings have been initiated during the year or are pending against the Company as at March 31, 2026 for holding any benami property under the Benami Transactions (Prohibition) Act, 1988 (as amended in 2016) and rules made thereunder.
-- ii. (a) The Company does not have any inventory and hence reporting under clause 3(ii)(a) of the Order is not applicable.
-9. (b) The Company has not been sanctioned working capital limits in excess of ` 5 crore, in aggregate, at any points of time during the year, from banks or financial institutions on the basis of security of current assets and hence reporting under clause 3(ii)(b) of the Order is not applicable.
-- iii. The Company has made investments in, Companies and granted unsecured loans to other parties, during the year, in respect of which:
-11. (a) The Company has not provided any loans or advances in the nature of loans or stood guarantee, or provided security to any other entity during the year, and hence reporting under clause 3(iii)(a) of the Order is not applicable.
-12. (b) In our opinion, the investments made and the terms and conditions of the grant of loans, during the year are, prima facie, not prejudicial to the Company's interest.
-13. (c) In respect of loans granted by the Company, the schedule of repayment of principal and payment of interest has been stipulated and the repayments of principal amounts and receipts of interest are generally regular as per stipulation.
-14. (d) In respect of loans granted by the Company, there is no overdue amount remaining outstanding as at the balance sheet date.
-15. (e) No loan granted by the Company which has fallen due during the year, has been renewed or extended or fresh loans granted to settle the overdue of existing loans given to the same parties.
-16. (f) The Company has not granted any loans or advances in the nature of loans either repayable on demand or without specifying any terms or period of repayment during the year. Hence, reporting under clause 3(iii)(f) is not applicable.
+Sd/-
+Bengaluru
+Michael Gibbs Chairperson DIN: 08177291
+April 16, 2026
+<!-- image -->
+<!-- image -->
+<!-- image -->
+<!-- image -->
+<!-- image -->
+<!-- image -->
+<!-- image -->
+<!-- image -->
+<!-- image -->
+<!-- image -->
+<!-- image -->
+<!-- image -->
+<!-- image -->
+<!-- image -->
+<!-- image -->
+## Fairness and excellence
+## Two of the core values of our C-LIFE, fairness and excellence, are evident in the workings of the Board, its evaluation, and the compensation paid to the directors and the executive leadership.
+## Board member evaluation
+One of the key functions of the Board is to monitor and review the Board evaluation framework. The Board works with the Nomination and Remuneration Committee to lay down the evaluation criteria for the performance of the Chairman, the Board, Board committees, and executive / non-executive / independent directors through peer evaluation, excluding the director being evaluated.
+Independent directors have three key roles - governance, control, and guidance. Some performance indicators, based on which the independent directors are evaluated, include:
+- The ability to contribute to and monitor our corporate governance practices
+- The ability to contribute by introducing international best practices to address business challenges and risks
+- Active participation in long-term strategic planning
+- Commitment to the fulfillment of a director's obligations and fiduciary responsibilities; these include participation in Board and committee meetings.
+- To undertake a formal and rigorous Board review annually, in order to improve the effectiveness of the Board; its committees; and that of each individual director.
 
-The Company has not made investments in Firms and Limited Liability Partnerships during the year. Further the Company has not provided any guarantee or security or granted any advances in the nature of loans, secured or unsecured, to Companies, Firms, Limited Liability Partnerships or any other parties.
-- iv. The Company has complied with the provisions of Sections 185 and 186 of the Companies Act, 2013 in respect of loans granted, investments made and guarantees and securities provided, as applicable.
-- v. The Company has not accepted any deposit or amounts which are deemed to be deposits. Hence, reporting under clause 3(v) of the Order is not applicable.
-- vi. The maintenance of cost records has not been specified by the Central Government under sub-section (1) of section 148 of the Companies Act, 2013 for the business activities carried out by the Company. Hence, reporting under clause (vi) of the Order is not applicable to the Company.
+The Board had engaged Egon Zehnder, a leadership advisory firm on board matters, to conduct the Board evaluation for fiscal 2026. The evaluation process focused on Board dynamics, softer aspects, committee effectiveness, and information flow to the Board or its committees, among other matters. The methodology included various techniques, such as questionnaires, and oneon-one discussions, etc. The aspects of succession planning and committee composition were also considered. The Board evaluation process was completed during fiscal 2026. During the year, the recommendations of the previous year's Board evaluation were discussed with the Board, and individual feedback was provided. Progress on recommendations from last year and the current year's recommendations were discussed.
+Further, the evaluation process was based on the affirmation received from the independent directors that they met the independence criteria as required under the Act, the Listing Regulations, and the NYSE listing manual.
+## Board and executive leadership compensation
+## Executive leadership compensation
+Our executive compensation programs encourage reward for performance. A significant portion of the executives' total rewards is tied to the delivery of long-term corporate performance goals to align with the interests of the shareholders.
+As required under the Listing Regulations, the Nomination and Remuneration Committee recommends to the Board the payment of remuneration to the directors, KMP, and senior management. The Nomination and Remuneration Policy of the Company is available on our website, at
+[https://www.infosys.com/investors/corporate-governance/ documents/nomination-remuneration-policy.pdf.](https://www.infosys.com/investors/corporate-governance/documents/nomination-remuneration-policy.pdf)
+## Non-executive and non-independent chairman's compensation
+Nandan M. Nilekani, Chairman, voluntarily chose not to receive any remuneration for his services rendered to the Company.
+## Independent directors' compensation
+The compensation payable to the independent directors is limited to a fixed amount per year as determined and approved by the Board, the sum of which does not exceed 1% of net profit for the year, calculated as per the provisions of the Companies Act, 2013. The Board reviews the performance of independent directors on an annual basis.
+The Board, while deciding the basis for determining the compensation of the independent directors, takes various things into consideration. These include global board compensation benchmarking, participation of individual directors in Board and committee meetings, other responsibilities, such as membership or chairmanship of committees, time spent in carrying out other duties, roles, and functions as prescribed in Schedule IV of the Companies Act, 2013, Listing Regulations, and such other factors as the Board deems fit.
+Shareholders at the 34 th  AGM held on June 22, 2015 approved a sum not exceeding 1% of the net profit of the Company per annum, calculated in accordance with the provisions of Section 198 of the Companies Act, 2013, to be paid and distributed among some or all of the non-executive directors of the Company in a manner decided by the Board. This payment will be made with respect to the profits of the Company for each year.
+## Corporate governance report
+The amount payable to the independent directors for the year ended March 31, 2026 is ₹ 19.91 crore. Additionally, independent directors are also reimbursed for expenses incurred in the performance of their official duties. We confirm that none of the non-executive directors received remuneration amounting to 50% of the total remuneration paid to non-executive directors during the year ended March 31, 2026.
+The aggregate amount of remuneration (commission) was arrived at using the following criteria:
+| Particulars                          |   in ` crore | in US$   |
+|--------------------------------------|--------------|----------|
+| Fixed Board fee                      |         1.42 | 150,000  |
+| Board / committee attendance fee (1) |         0.24 | 25,000   |
+| Non-executive chairman fee           |         2.85 | 300,000  |
+| Chairperson - Audit Committee        |         0.47 | 50,000   |
+| Members - Audit Committee            |         0.28 | 30,000   |
+| Chairperson - other committees       |         0.28 | 30,000   |
+| Members - other committees           |         0.19 | 20,000   |
+| Travel fee (per meeting) (2)         |         0.09 | 10,000   |
+| Incidental fees (per meeting) (3)    |         0.01 | 1,000    |
+| Lead Independent Director            |         0.28 | 30,000   |
+
+Notes: 1 US$ = ` 94.84 as on March 31, 2026
+The payment is subject to deduction of tax at source (TDS) as required by applicable tax laws.
+- (1) The Company normally has five regular Board meetings in a year. Independent directors are expected to attend at least four quarterly Board meetings and the AGM.
+- (2) For directors based overseas, the travel fee shown is per Board meeting. This is based on the fact that additional travel time of two days will have to be accommodated for independent directors to attend Board meetings in India.
+- (3) For directors based overseas, incidental fees shown is per Board meeting. This fee is paid to independent directors for expenses incurred during their travel to attend Board meetings in India.
+
+The Board believes that the above compensation structure is commensurate with global best practices in terms of remunerating nonexecutive / independent directors of a company of similar size, and adequately compensates for the time and contribution made by our non-executive / independent directors.
+## Indemnification agreements
+We have also entered into agreements to indemnify our directors and officers for claims brought against them to the fullest extent permitted under applicable law. These agreements, among other things, indemnify our directors and officers for certain expenses, judgments, fines and settlement amounts incurred by any such person in any action or proceedings, including any action by or in the right of the Company, arising out of such persons' services as our director or officer, expenses in relation to public relations consultation, if required.
+## Agreements binding listed entities
+Pursuant to Regulation 30A of the Listing Regulations, no agreement has been entered or executed by the shareholders, promoters, promoter group entities, related parties, directors, key managerial personnel and employees of the Company and its subsidiaries during fiscal 2026.

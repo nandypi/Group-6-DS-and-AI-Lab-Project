@@ -1,354 +1,132 @@
 ---
 document_name: "Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26.md"
 group_id: "Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26__group_023"
-source_section_count: 4
-page_start: 189
-page_end: 198
-estimated_tokens: 9829
+source_section_count: 2
+page_start: 102
+page_end: 104
+estimated_tokens: 4603
 source_section_ids:
-  - "Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26__079"
-  - "Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26__080"
-  - "Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26__081"
-  - "Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26__082"
+  - "Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26__043"
+  - "Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26__044"
 ---
 
-## As per our report of even date attached
-| for Deloitte Haskins & Sells LLP Chartered Accountants Firm Registration No: 117366W/W-100018   | for and on behalf of the Board of Directors of Infosys Limited   | for and on behalf of the Board of Directors of Infosys Limited           | for and on behalf of the Board of Directors of Infosys Limited   |
-|-------------------------------------------------------------------------------------------------|------------------------------------------------------------------|--------------------------------------------------------------------------|------------------------------------------------------------------|
-| Vikas Bagaria Partner Membership No. 060408                                                     | Nandan M. Nilekani Chairman DIN: 00041245                        | Salil Parekh Chief Executive Officer and Managing Director DIN: 01876159 | Bobby Parikh Director DIN: 00019437                              |
-| Bengaluru April 23, 2026                                                                        | Jayesh Sanghrajka Chief Financial Officer                        | A.G.S. Manikantha CompanySecretary Membership No. A21918                 |                                                                  |
+## Dividend remitted to the IEPF during the last three years
+| Year    | Type of dividend   | Dividend declared on   | Date of transfer to IEPF   | Amount transferred to IEPF   |
+|---------|--------------------|------------------------|----------------------------|------------------------------|
+| 2025-26 | Special 2018-19    | January 11, 2019       | February 17, 2026          | 89,19,064                    |
+| 2025-26 | Interim 2018-19    | October 16, 2018       | December 01, 2025          | 1,49,81,470                  |
+| 2025-26 | Final 2017-18      | June 23, 2018          | August 02, 2025            | 3,73,62,592                  |
+| 2024-25 | Interim 2017-18    | October 24, 2017       | January 02, 2025           | 1,86,24,606                  |
+| 2024-25 | Final 2016-17      | June 24, 2017          | December 19, 2024          | 1,68,26,033                  |
+| 2023-24 | Interim 2016-17    | October 14, 2016       | November 20, 2023          | 1,08,18,665                  |
+| 2023-24 | Final 2015-16      | June 18, 2016          | July 17, 2023              | 1,42,14,062                  |
 
-## Standalone Statement of Cash Flows
-## Accounting Policy
-Cash flows are reported using the indirect method, whereby profit for the year is adjusted for the effects of transactions of a non-cash nature, any deferrals or accruals of past or future operating cash receipts or payments and item of income or expenses associated with investing or financing cash flows. The cash flows from operating, investing and financing activities of the Company are segregated. The Company considers all highly liquid investments that are readily convertible to known amounts of cash to be cash equivalents.
-|                                                                                                          |                      | (In ` crore)         |
-|----------------------------------------------------------------------------------------------------------|----------------------|----------------------|
-| Particulars                                                                                              | Year ended March 31, | Year ended March 31, |
-|                                                                                                          | 2026                 | 2025                 |
-| Cash flow from operating activities:                                                                     |                      |                      |
-| Profit for the year                                                                                      | 29,211               | 25,568               |
-| Adjustments to reconcile net profit to net cash provided by operating activities:                        |                      |                      |
-| Depreciation and Amortization                                                                            | 2,394                | 2,619                |
-| Income tax expense                                                                                       | 9,546                | 9,873                |
-| Impairment loss recognized / (reversed) under expected credit loss model                                 | 71                   | (7)                  |
-| Finance cost                                                                                             | 207                  | 221                  |
-| Interest and dividend income                                                                             |                      | (3,699)              |
-|                                                                                                          | (4,885)              |                      |
-| Stock compensation expense                                                                               | 846                  | 712                  |
-| Exchange differences on translation of assets and liabilities, net                                       | 777                  | 170                  |
-| Interest receivable on income tax refund                                                                 | (63)                 | (327)                |
-| Other adjustments                                                                                        | 169                  | 165                  |
-| Changes in assets and liabilities                                                                        |                      |                      |
-| Trade receivables and unbilled revenue                                                                   | (6,018)              | (2,994)              |
-| Loans, other financial assets and other assets                                                           | (3,870)              | (1,942)              |
-| Trade payables                                                                                           | 812                  | 236                  |
-| Other financial liabilities, other liabilities and provisions                                            | 6,330                | 3,529                |
-| Cash generated from operations                                                                           | 35,336               | 34,010               |
-| Income taxes paid                                                                                        | (7,172)              | (4,601)              |
-| Net cash generated by operating activities                                                               | 28,164               | 29,409               |
-| Cash flow from investing activities:                                                                     |                      |                      |
-| Expenditure on property, plant and equipment and intangibles, net of sale proceeds ( Refer to Note 2.1 ) | (2,170)              | (1,587)              |
-| Deposits placed with corporation                                                                         | (660)                | (1,026)              |
-| Redemption of deposits placed with corporation                                                           | 459                  | 593                  |
-| Interest and dividend received                                                                           | 2,269                | 1,672                |
-| Dividend received from subsidiary                                                                        | 2,676                | 1,522                |
-| Loan given to subsidiaries                                                                               | -                    | (10)                 |
-| Loan repaid by subsidiaries                                                                              | 10                   | -                    |
-| Payment of contingent consideration pertaining to acquisition of business                                | (13)                 | -                    |
-| Investment in subsidiaries                                                                               | (781)                | (4,361)              |
-| Proceeds from sale of investment in subsidiaries                                                         | 4                    | -                    |
-| Payment towards acquisition                                                                              | -                    | (184)                |
-| Other receipts                                                                                           | -                    | 2                    |
+## Shares transferred to the IEPF
+During the financial year, the Company transferred shares (given below) to the Investor Education and Protection Fund (IEPF) in accordance with the applicable Rules, due to dividends remaining unclaimed for seven consecutive years.
+- 82,811 shares on October 10, 2025
+- 6,34,785 shares on January 09, 2026
+- 6,124 shares on March 20, 2026
 
-| Particulars                                                   | Note   | Year ended March 31,   | Year ended March 31,   |
-|---------------------------------------------------------------|--------|------------------------|------------------------|
-|                                                               |        | 2026                   | 2025                   |
-| Payments to acquire investments                               |        |                        |                        |
-| Mutual fund units                                             |        | (67,178)               | (66,637)               |
-| Commercial papers                                             |        | (2,875)                | (6,058)                |
-| Certificates of deposit                                       |        | (12,665)               | (6,138)                |
-| Tax-free bonds and government bonds                           |        | (126)                  | -                      |
-| Government Securities                                         |        | (2,859)                | -                      |
-| Non-convertible debentures                                    |        | (3,031)                | (3,240)                |
-| Other investments                                             |        | (2)                    | (25)                   |
-| Proceeds on sale of investments                               |        |                        |                        |
-| Mutual fund units                                             |        | 66,362                 | 67,597                 |
-| Target maturity fund                                          |        | 487                    | -                      |
-| Commercial papers                                             |        | 5,250                  | 7,260                  |
-| Certificates of deposit                                       |        | 8,592                  | 5,984                  |
-| Non-convertible debentures                                    |        | 3,818                  | 2,376                  |
-| Government securities                                         |        | 5,159                  | 200                    |
-| Tax-free bonds and government bonds                           |        | 1,356                  | 105                    |
-| Other investments                                             |        | 4                      | 12                     |
-| Escrow and deposits pertaining to buyback                     |        | (1,815)                | -                      |
-| Redemption of escrow and other deposits pertaining to buyback |        | 1,815                  | -                      |
-| Net cash (used in) / generated from investing activities      |        | 4,086                  | (1,943)                |
-| Cash flow from financing activities:                          |        |                        |                        |
-| Payment of lease liabilities                                  | 2.3    | (912)                  | (859)                  |
-| Shares issued on exercise of employee stock options           |        | 2                      | 3                      |
-| Other (payments) / receipts                                   |        | (125)                  | (186)                  |
-| Payment of dividends                                          |        | (18,694)               | (20,337)               |
-| Buyback of equity shares including transaction cost           |        | (18,058)               | -                      |
-| Net cash used in financing activities                         |        | (37,787)               | (21,379)               |
-| Net increase / (decrease) in cash and cash equivalents        |        | (5,537)                | 6,087                  |
-| Effect of exchange rate changes on cash and cash equivalents  |        | (1)                    | (13)                   |
-| Cash and cash equivalents at the beginning of the year        | 2.9    | 14,265                 | 8,191                  |
-| Cash and cash equivalents at the end of the year              | 2.9    | 8,727                  | 14,265                 |
-| Supplementary information:                                    |        |                        |                        |
-| Restricted cash balance                                       | 2.9    | 52                     | 45                     |
+The Company also received applications from shareholders seeking to reclaim shares previously transferred to the IEPF. In response, the IEPF processed and settled claims relating to 1,20,193 shares, returning them to the respective shareholders. As of March 31, 2026, the IEPF holds a total of 14,35,117 shares transferred under the said Rules. Additionally, during the year, the Company transferred an amount of ₹ 3,39,64,248 to the IEPF, representing corporate benefits (dividends) accrued on shares already transferred.
+## Schedule of events
+## 45 th  Annual General Meeting
+<!-- image -->
+## Financial calendar
+The Company's financial year begins on April 1 and ends on March 31. Our tentative calendar for declaration of results for the financial year 2026-27 are as follows:
+| Jun 30, 2026                 | Sep 30, 2026                 | Dec 31, 2026                 | Mar 31, 2027                 | Quarter ending                          |
+|------------------------------|------------------------------|------------------------------|------------------------------|-----------------------------------------|
+| Jul 23, 2026                 | Oct 23, 2026                 | Jan 13, 2027                 | Apr 22, 2027                 | Board meeting and earnings release date |
+| Jun 16, 2026 to Jul 26, 2026 | Sep 16, 2026 to Oct 25, 2026 | Dec 16, 2026 to Jan 17, 2027 | Mar 16, 2027 to Apr 25, 2027 | Trading window closure                  |
 
-The accompanying notes form an integral part of the Standalone financial statements .
-As per our report of even date attached
-for Deloitte Haskins &amp; Sells LLP Chartered Accountants Firm Registration No : 117366W/W-100018
-for and on behalf of the Board of Directors of Infosys Limited
-| Vikas Bagaria         | Nandan M. Nilekani        | Salil Parekh Chief Executive and Managing DIN: 01876159   | Bobby Parikh   |
-|-----------------------|---------------------------|-----------------------------------------------------------|----------------|
-| Partner               | Chairman                  | Officer                                                   | Director       |
-| Membership No. 060408 | DIN: 00041245             | Director                                                  | DIN: 00019437  |
-| Bengaluru             | Jayesh Sanghrajka Officer | A.G.S. Manikantha CompanySecretary Membership No. A21918  |                |
-| April 23, 2026        | Chief Financial           |                                                           |                |
+## Investor awareness
+We have provided a synopsis of the rights and responsibilities of shareholders on our website, at https://www.infosys.com/ investors/shareholder-services/pages/faqs.aspx.
+## Share transfer system
+SEBI, effective April 01, 2019, barred physical transfer of shares of listed companies and mandated transfers only through demat. However, investors are not barred from holding shares in physical form. We request shareholders whose shares are in physical mode to dematerialize their shares. Shareholders holding shares in dematerialized mode have been requested to register their email address, bank account details and mobile number with their depository participants. Those holding shares in physical mode have been requested to furnish PAN, nomination,
+## Investor conferences / events held in fiscal 2026
+Infosys holds press meets and investor / analyst calls after every quarterly results announcement, which is accessible to all the shareholders and general public. The Company also holds its Annual General Meeting, which is accessible to all the shareholders. The details of these are sent to the stock exchanges and updated on the website. Infosys also participates in various sell-side / brokerarranged investor conferences and roadshows where the Management / Company representatives interact with investors in one-on-one or group meetings. The details of such participation are sent to the exchanges and updated on the website.
+<!-- image -->
+## Investor grievances and investor contacts
+We have a Board-level Stakeholders Relationship Committee to examine and redress complaints by shareholders and investors. The status of complaints is reported to the entire Board. The Stakeholders Relationship Committee meets as often as required to resolve shareholder grievances.
+We attended to most of the investors' grievances and postal / electronic communications within a period of seven days from the date of receipt of such grievances. The exceptions have been for cases constrained by disputes or legal impediments.
+<!-- image -->
+Shareholders may note that the share transfers, dividend payments and all other investor-related activities are attended to and processed at the office of the Company's RTA.
+For any grievances / complaints, shareholders may contact the RTA, KFin Technologies Limited at einward.ris@kfintech.com. For any escalations, shareholders may write to the Company at investors@infosys.com and for queries on dividend tax, write to us on dividend.tax@infosys.com. For addresses and contact details for investor queries, RTA, depositary banks, depositories for equity shares in India and stock exchanges, refer to the Investor contacts .
+contact details, bank account details and specimen signature for their corresponding folios. Shareholders may contact the RTA at, einward.ris@kfintech.com and also refer details at https://www.infosys.com/investors/shareholder-services/ investors-service.html.
+Pursuant to SEBI Circular dated July 2, 2025, a special window was provided from July 7, 2025 to January 6, 2026 for re-lodgement of transfer requests lodged prior to April 1, 2019 and pending due to deficiencies. This facility has been extended vide SEBI Circular dated January 30, 2026 until February 4, 2027. Eligible shareholders may submit requisite documents within the extended timeline. Securities will be credited only in demat form and will be subject to a one-year lock-in, during which they cannot be transferred, pledged, or encumbered. Further details are available at: https://www.infosys.com/investors/shareholderservices/investors-service.html.
+## Company shares-related disputes / litigation
+There are certain pending civil cases involving rival claims made by parties seeking declaration of title and accrued benefits of the Company's disputed shares. Since the disputed shares relate to the Company, Infosys Limited and the Company's RTA, KFin Technologies Limited are made pro forma defendants in these litigation matters. However, these matters are not material in nature.
+## Share capital
+| 415,32,63,455 As on March 31, 2025   | 10,00,00,000 Shares bought back   | 405,32,63,455   | 23,28,268 Shares Allotment (ESOPs)   | 405,55,91,723 As on March 31, 2026   |
+|--------------------------------------|-----------------------------------|-----------------|--------------------------------------|--------------------------------------|
 
-## Overview and Notes to the Standalone Financial Statements
-## 1. Overview
-## 1.1 Company overview
-Infosys Limited ("the Company" or Infosys) provides AI-first business consulting and technology services, to enable organizations to unlock AI value at scale. With over four decades of experience in managing the systems and workings of global enterprises, Infosys accelerates business transformation through its AI-first value framework, deep domain expertise, and unique ability to orchestrate innovations from its AI-native partner ecosystem. Infosys' strategy is to be the navigator for its clients as they ideate, plan and execute on their journey to an AI-first future.
-The Company is a public limited company incorporated and domiciled in India and has its registered office at Electronics City, Hosur Road, Bengaluru 560100, Karnataka, India. The Company has its primary listings on the BSE Ltd. and National Stock Exchange of India Limited. The Company's American Depositary Shares (ADS) representing equity shares are listed on the New York Stock Exchange (NYSE).
-The Standalone financial statements are approved for issue by the Company's Board of Directors on April 23, 2026.
-## 1.2 Basis of preparation of financial statements
-These Standalone Financial Statements are prepared in accordance with the provisions of the Companies Act, 2013 (''the Act''), guidelines issued by the Securities and Exchange Board of India (SEBI) and Indian Accounting Standard (Ind AS) under the historical cost convention on accrual basis except for certain financial instruments which are measured at fair values, defined benefit liability / (asset) which is recognized at the present value of defined benefit obligation less fair value of plan assets. The Ind AS are prescribed under Section 133 of the Act read with Rule 3 of the Companies (Indian Accounting Standards) Rules, 2015 and relevant amendment rules issued thereafter.
-Accounting policies have been consistently applied except where a newly-issued accounting standard is initially adopted or a revision to an existing accounting standard requires a change in the accounting policy hitherto in use. The material accounting policy information used in preparation of the audited Standalone Financial Statements have been discussed in the respective notes.
-As the year-end figures are taken from the source and rounded to the nearest digits, the figures reported for the previous quarters might not always add up to the year-end figures reported in this statement.
-## 1.3 Use of estimates and judgments
-The preparation of the financial statements in conformity with Ind AS requires the management to make estimates, judgments and assumptions. These estimates, judgments and assumptions affect the application of accounting policies and the reported amounts of assets and liabilities, the disclosures of contingent assets and liabilities at the date of the financial statements and reported amounts of revenues and expenses during the period. The application of accounting policies that require critical accounting estimates involving complex and subjective judgments and the use of assumptions in these financial statements have been disclosed in Note no. 1.4. Critical accounting estimates and judgments could change from period to period. Actual results could differ from those estimates. Appropriate changes in estimates are made as management becomes aware of changes in circumstances surrounding the estimates. Changes in estimates and judgements are reflected in the financial statements in the period in which changes are made and, if material, their effects are disclosed in the notes to the Standalone Financial Statements.
-## 1.4 Critical accounting estimates and judgments
-## a. Revenue recognition
-The Company's contracts with customers include promises to transfer multiple products and services to a customer. Revenues from customer contracts are considered for recognition and measurement when the contract has been approved, in writing, by the parties to the contract, the parties to contract are committed to perform their respective obligations under the contract, and the contract is legally enforceable. The Company assesses the services promised in a contract and identifies distinct performance obligations in the contract. Identification of distinct performance obligations to determine the deliverables and the ability of the customer to benefit independently from such deliverables, and allocation of transaction price to these distinct performance obligations involves significant judgement.
-Fixed-price maintenance revenue is recognized ratably on a straight-line basis when services are performed through an indefinite number of repetitive acts over a specified period. Revenue from fixed-price maintenance contract is recognized ratably using a percentage-of-completion method when the pattern of benefits from the services rendered to the customer and Company's costs to fulfil the contract is not even through the period of the contract because the services are generally discrete in nature and not repetitive. The use of method to recognize the maintenance revenues requires judgment and is based on the promises in the contract and nature of the deliverables.
-The Company uses the percentage-of-completion method in accounting for other fixed-price contracts. Use of the percentage-of-completion method requires the Company to determine the actual efforts or costs expended to date as a proportion of the estimated total efforts or costs to be incurred. Efforts or costs expended have been used to measure progress towards completion as there is a direct relationship between input and productivity. The estimation of total efforts or costs involves significant judgement and is assessed throughout the period of the contract to reflect any changes based on the latest available information.
-Contracts with customers includes subcontractor services or third-party vendor equipment or software in certain integrated services arrangements. In these types of arrangements, revenue from sales of third-party vendor products or services is recorded net of costs when the Company is acting as an agent between the customer and the vendor, and gross when the Company is the principal for the transaction. In doing so, the Company first evaluates whether it obtains control of the specified goods or services before they are transferred to the customer. The Company considers whether it is primarily responsible for fulfilling the promise to provide the specified goods or services, inventory risk, pricing discretion and other factors to determine whether it controls the specified goods or services and therefore, is acting as a principal or an agent.
-Provisions for estimated losses, if any, on incomplete contracts are recorded in the period in which such losses become probable based on the estimated efforts or costs to complete the contract.
-## b. Income taxes
-The Company's two major tax jurisdictions are India and the United States, though the Company also files tax returns in other overseas jurisdictions.
-Significant judgments are involved in determining the provision for income taxes, including amount expected to be paid / recovered for uncertain tax positions.
-In assessing the realizability of deferred income tax assets, the Management considers whether some portion or all of the deferred income tax assets will not be realized. The ultimate realization of deferred income tax assets is dependent upon the generation of future taxable income during the periods in which the temporary differences become deductible. Management considers the scheduled reversals of deferred income tax liabilities, projected future taxable income and tax planning strategies in making this assessment. Based on the level of historical taxable income and projections for future taxable income over the periods in which the deferred income tax assets are deductible, the Management believes that the Company will realize the benefits of those deductible differences. The amount of the deferred income tax assets considered realizable, however, could be reduced in the near term if estimates of future taxable income during the carry forward period are reduced. ( Refer to Note 2.17 ).
-## c. Property, plant and equipment
-Property, plant and equipment represent a significant proportion of the asset base of the Company. The charge in respect of periodic depreciation is derived after determining an estimate of an asset's expected useful life and the expected residual value at the end of its life. The useful lives and residual values of Company's assets are determined by the management at the time the asset is acquired and reviewed periodically, including at each financial year end. The lives are based on historical experience with similar assets as well as anticipation of future events, which may impact their life, such as changes in technology. ( Refer to Note 2.1 ).
-## 2. Notes to the Standalone Financial Statements
-## 2.1 Property, plant and equipment
-## Accounting Policy
-Property, plant and equipment are stated at cost, less accumulated depreciation and impairment, if any. Costs directly attributable to acquisition are capitalized until the property, plant and equipment are ready for use, as intended by the Management. The charge in respect of periodic depreciation is derived after determining an estimate of an asset's expected useful life and the expected residual value at the end of its life. The Company depreciates property, plant and equipment over their estimated useful lives using the straight-line method.
-The estimated useful lives of assets are as follows:
-| Building (1)               | 22-25 years                                     |
-|----------------------------|-------------------------------------------------|
-| Plant and machinery (1)    | 5 years                                         |
-| Office equipment           | 5 years                                         |
-| Computer equipment (1)     | 3-5 years                                       |
-| Furniture and fixtures (1) | 5 years                                         |
-| Vehicles (1)               | 5 years                                         |
-| Leasehold improvements     | Lower of useful life of the asset or lease term |
+## Category-wise shareholding as on March 31, 2026
+<!-- image -->
+## Listing on stock exchanges
+| Codes     | India   | India   | Global   |
+|-----------|---------|---------|----------|
+|           | NSE     | BSE     | NYSE     |
+| Exchange  | INFY    | INFY    | INFY     |
+| Reuters   | INFY.NS | INFY.BO | INFY.K   |
+| Bloomberg | INFO IS | INFO IB | INFY US  |
 
-(1) Based on technical evaluation, the Management believes that the useful lives as given above best represent the period over which the Management expects to use these assets. Hence, the useful lives for these assets is different from the useful lives as prescribed under Part C of Schedule II of the Companies Act 2013.
-Depreciation methods, useful lives and residual values are reviewed periodically, including at each financial year end. The useful lives are based on historical experience with similar assets as well as anticipation of future events, which may impact their life, such as changes in technology.
-Advances paid towards the acquisition of property, plant and equipment outstanding at each Balance Sheet date is classified as capital advances under other non-current assets and the cost of assets not ready to use before such date are disclosed under 'Capital work-in-progress'. Subsequent expenditures relating to property, plant and equipment is capitalized only when it is probable that future economic benefits associated with these will flow to the Company and the cost of the item can be measured reliably. The cost and related accumulated depreciation are eliminated from the financial statements upon sale or retirement of the asset.
+The listing fees for fiscal 2026 have been paid for all of the stock exchanges in India and overseas.
+ISIN Code for ADS: US4567881085
+ISIN Code for Indian equity shares: INE009A01021
+## Dematerialization of shares and liquidity
+<!-- image -->
+<!-- image -->
+## Commodity price risk or foreign exchange risk and hedging activities
+The Company does not deal in commodities and hence the disclosure pursuant to SEBI Master Circular No. SEBI/HO/CFD/ PoD2/CIR/P/0155 dated November 11, 2024 is not applicable. For details of foreign exchange risk and hedging activities, refer to Form 20-F which is available at
+https://www.infosys.com/investors/reports-filings/annualreport/annual-reports.html.
 
-## Impairment
-Property, plant and equipment are evaluated for recoverability whenever events or changes in circumstances indicate that their carrying amounts may not be recoverable. For the purpose of impairment testing, the recoverable amount (i.e. the higher of the fair value less cost to sell and the value-in-use) is determined on an individual asset basis unless the asset does not generate cash flows that are largely independent of those from other assets. In such cases, the recoverable amount is determined for the Cash Generating Unit (CGU) to which the asset belongs.
-If such assets are considered to be impaired, the impairment to be recognized in the Statement of Profit and Loss is measured by the amount by which the carrying value of the assets exceeds the estimated recoverable amount of the asset. An impairment loss is reversed in the Statement of Profit and Loss if there has been a change in the estimates used to determine the recoverable amount. The carrying amount of the asset is increased to its revised recoverable amount, provided that this amount does not exceed the carrying amount that would have been determined (net of any accumulated depreciation) had no impairment loss been recognized for the asset in prior years.
-The changes in the carrying value of property, plant and equipment for the year ended March 31, 2026 are as follows:
-|                                               |       |         |         |         | Computer equipment (2)   |         |       |      | (In ` crore)   |
-|-----------------------------------------------|-------|---------|---------|---------|--------------------------|---------|-------|------|----------------|
-| Gross carrying value as at April 1, 2025      | 1,477 | 10,621  | 3,238   | 1,423   | 7,917                    | 2,126   | 781   | 46   | 27,629         |
-| Additions                                     | 27    | 704     | 260     | 116     | 1,218                    | 174     | 49    | 1    | 2,549          |
-| Deletions** #                                 | (66)  | (13)    | (24)    | (42)    | (1,092)                  | (100)   | (40)  | (5)  | (1,382)        |
-| Gross carrying value as at March 31, 2026     | 1,438 | 11,312  | 3,474   | 1,497   | 8,043                    | 2,200   | 790   | 42   | 28,796         |
-| Accumulated depreciation as at April 1, 2025  | -     | (4,964) | (2,888) | (1,195) | (6,062)                  | (1,796) | (611) | (43) | (17,559)       |
-| Depreciation                                  | -     | (401)   | (161)   | (95)    | (872)                    | (142)   | (76)  | (1)  | (1,748)        |
-| Accumulated depreciation on deletions** #     | -     | 1       | 24      | 41      | 1,074                    | 100     | 40    | 5    | 1,285          |
-| Accumulated depreciation as at March 31, 2026 | -     | (5,364) | (3,025) | (1,249) | (5,860)                  | (1,838) | (647) | (39) | (18,022)       |
-| Carrying value as at April 1, 2025            | 1,477 | 5,657   | 350     | 228     | 1,855                    | 330     | 170   | 3    | 10,070         |
-| Carrying value as at March 31, 2026           | 1,438 | 5,948   | 449     | 248     | 2,183                    | 362     | 143   | 3    | 10,774         |
+## Shareholders holding more than 1% of the shares as on March 31, 2026
+The details of shareholders (non-promoters and non-ADR holders) holding more than 1% (PAN-based) of the equity as on March 31, 2026 are as follows:
+<!-- image -->
+## Distribution of shareholding as on March 31, 2026
+<!-- image -->
+## Outstanding ADSs / GDRs / warrants or any convertible instruments
+Our ADSs, as evidenced by ADRs, are traded in the US on the NYSE under the ticker symbol 'INFY'. The currency of trade of ADS in the US is USD. Each ADS is represented by one equity share. The ADRs evidencing ADSs began trading on the NYSE, New York, from December 12, 2012. As on March 31, 2026, there were 1,34,734 record holders of ADRs evidencing 30,50,54,064 ADSs. The Company does not have any outstanding GDRs / warrants or any convertible instruments as on March 31, 2026.
+## Credit ratings
+There has been no change in the credit ratings of Infosys from any of the agencies during the year.
+| Rating agency     | Rating   | Outlook           |
+|-------------------|----------|-------------------|
+| Moody's           | Baa1     | Stable            |
+| Standard & Poor's | A        | Stable            |
+| Dun & Bradstreet  | 5A1      | Condition: Strong |
+| CRISIL            | AAA      | Stable            |
 
-** During the year ended March 31, 2026, certain assets which were not in use having gross book value of ` 1,022 crore (net book value: ` Nil) were retired.
-# Proceeds from sale of property, plant and equipment amounted to ` 267 crore for the year ended March 31, 2026.
-The changes in the carrying value of property, plant and equipment for the year ended March 31, 2025 are as follows:
-| Particulars                                   | Land - Freehold   | Buildings (1)(2)   | Plant and machinery (2)   | Office equipment (2)   | Computer equipment (2)   | Furniture and fixtures (2)   | Leasehold improvements   | Vehicles   | (In ` crore) Total   |
-|-----------------------------------------------|-------------------|--------------------|---------------------------|------------------------|--------------------------|------------------------------|--------------------------|------------|----------------------|
-| Gross carrying value as at April 1, 2024      | 1,430             | 10,679             | 3,214                     | 1,370                  | 7,379                    | 2,160                        | 963                      | 45         | 27,240               |
-| Additions                                     | 47                | 32                 | 45                        | 97                     | 1,013                    | 47                           | 68                       | 2          | 1,351                |
-| Deletions* #                                  | -                 | (90)               | (21)                      | (44)                   | (475)                    | (81)                         | (250)                    | (1)        | (962)                |
-| Gross carrying value as at March 31, 2025     | 1,477             | 10,621             | 3,238                     | 1,423                  | 7,917                    | 2,126                        | 781                      | 46         | 27,629               |
-| Accumulated depreciation as at April 1, 2024  | -                 | (4,575)            | (2,732)                   | (1,139)                | (5,497)                  | (1,709)                      | (733)                    | (42)       | (16,427)             |
-| Depreciation                                  | -                 | (402)              | (176)                     | (99)                   | (1,034)                  | (166)                        | (125)                    | (2)        | (2,004)              |
-| Accumulated depreciation on deletions* #      | -                 | 13                 | 20                        | 43                     | 469                      | 79                           | 247                      | 1          | 872                  |
-| Accumulated depreciation as at March 31, 2025 | -                 | (4,964)            | (2,888)                   | (1,195)                | (6,062)                  | (1,796)                      | (611)                    | (43)       | (17,559)             |
-| Carrying value as at April 1, 2024            | 1,430             | 6,104              | 482                       | 231                    | 1,882                    | 451                          | 230                      | 3          | 10,813               |
-| Carrying value as at March 31, 2025           | 1,477             | 5,657              | 350                       | 228                    | 1,855                    | 330                          | 170                      | 3          | 10,070               |
+## Shareholders
+## Communication to the shareholders
+The Company ensures that the following filings and reports are available on its website:
+- The quarterly report, along with additional information and official news releases, are posted on our website, at https://www.infosys.com/investors/reports-filings/. The reports contain select financial data extracted from the audited consolidated financial statements under the IFRS and Ind AS. The quarterly / annual results are generally published in at least one English language national daily newspaper circulating in the whole or substantially the whole of India ( Business Standard ) and in one regional daily newspaper circulating in Karnataka ( Prajavani ).
+- Quarterly and annual financial statements, standalone and consolidated, along with segmental information, are also posted on our website, at https://www.infosys.com/investors/reports-filings/.
+- Earnings calls with analysts and investors are broadcast live on our website and their transcripts are also published on the website. The proceedings of the AGM are webcast live for shareholders across the world. The AGM presentations, transcripts and video archives are available on our website, at https://www.infosys.com/investors/reports-filings/.
+- Form 20-F, filed annually with the SEC, also contains detailed disclosures and is made available on our website, at https://www.infosys.com/investors/reports-filings/annualreport.html.
+- Other information, such as press releases, stock exchange disclosures and presentations made to investors and analysts, etc., is regularly updated on the Company's website. The shareholders can also visit www.sec.gov where the investors can view statutory filings of the Company with the SEC.
 
-* During the year ended March 31, 2025, certain assets which were not in use having gross book value of ` 411 crore (net book value: Nil), were retired.
+## Registered office and global locations
+The address of our registered office is Electronics City, Hosur Road, Bengaluru 560100, Karnataka, India.
+Our operations are spread across 290 locations in 59 countries. We do not have any manufacturing plants, but have development centers and offices in India and overseas. Visit https://www.infosys.com/investors/reports-filings/ documents/global-presence2026.pdf for details related to our global locations.
+## Subsidiaries
+As on March 31, 2026, we have 30 direct subsidiaries and 84 step-down subsidiaries. The Company does not have any material subsidiary.
+## General body meetings
+The details of the special resolutions passed during the last three Annual and / or Extraordinary General Meetings are as follows:
+| Year ended     | Date and time                          | Venue                                                      | Special resolution passed                                                                                                                    | Weblink for webcast / transcripts                                                                     |
+|----------------|----------------------------------------|------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| March 31, 2025 | 44 th AGM: June 25, 2025 at 4 p.m. IST | Held through video conferencing / other audio-visual means | Nil                                                                                                                                          | https://www.infosys. com/investors/news- events/annual-general- meeting/2025/agm-2025- transcript.pdf |
+| March 31, 2024 | 43 rd AGM: June 26, 2024 at 4 p.m. IST | Held through video conferencing / other audio-visual means | Nil                                                                                                                                          | https://www.infosys. com/investors/news- events/annual-general- meeting/2024/agm-2024- transcript.pdf |
+| March 31, 2023 | 42 nd AGM: June 28, 2023 at 4 p.m. IST | Held through video conferencing / other audio-visual means | 1. Appointment of Helene Auriol Potier as an Independent Director of the Company 2. Reappointment of Bobby Parikh as an Independent Director | https://www.infosys. com/investors/news- events/annual-general- meeting/2023/agm-2023- transcript.pdf |
 
-# Proceeds from sale of property, plant and equipment amounted to ` 121 crore for the year ended March 31, 2025.
-(1) Buildings include ` 250/- being the value of five shares of ` 50/- each in Mittal Towers Premises Co-operative Society Limited.
-(2) Includes certain assets provided on cancellable operating lease to subsidiaries.
-The aggregate depreciation has been included under depreciation and amortization expense in the Statement of Profit and Loss.
-Repairs and maintenance costs are recognized in the Statement of Profit and Loss when incurred.
-Tangible assets provided on operating lease to subsidiaries as at March 31, 2026 and March 31, 2025 are as follows:
-| Particulars            |   Cost | Accumulated depreciation   |   (In ` crore) Net book value |
-|------------------------|--------|----------------------------|-------------------------------|
-| Land                   |     32 | -                          |                            32 |
-|                        |     32 | -                          |                            32 |
-| Buildings              |    333 | 162                        |                           171 |
-|                        |    333 | 150                        |                           183 |
-| Plant and machinery    |     36 | 35                         |                             1 |
-|                        |     36 | 34                         |                             2 |
-| Furniture and fixtures |     28 | 26                         |                             2 |
-|                        |     28 | 25                         |                             3 |
+## Extraordinary General Meeting
+No extraordinary general meeting of the members was held during fiscal 2026.
+## Postal ballot
+During the financial year, the following Special resolution was passed by the shareholders by the requisite majority through postal ballot conducted via e-voting:
+| Date of postal ballot notice   | Resolution(s)                                            | Voting results                                | Approval date    | Scrutinizer                                                                                   |
+|--------------------------------|----------------------------------------------------------|-----------------------------------------------|------------------|-----------------------------------------------------------------------------------------------|
+| September 25, 2025             | Approval for the buyback of equity shares of the Company | Voting in favor: 98.81% Voting against: 1.19% | November 4, 2025 | Hemanth, Holla & Co., (Membership No. FCS 6374) (CP No. 6519) Practicing Company Secretaries. |
 
-| Particulars           |   Cost |   Accumulated depreciation | Net book value   |
-|-----------------------|--------|----------------------------|------------------|
-| Computer equipment    |      2 |                          2 | -                |
-|                       |      2 |                          2 | -                |
-| Leasehold improvement |     40 |                         33 | 7                |
-|                       |     40 |                         30 | 10               |
-| Office equipment (1)  |     21 |                         20 | 1                |
-|                       |     22 |                         20 | 2                |
-
-(1) During the year ended March 31, 2026 and March 31, 2025, certain assets provided on operating lease which were not in use having gross book value of ` 1 crore (net book value: Nil) and ` 2 crore (net book value: Nil), respectively were retired.
-|                                                | (In ` crore)   | (In ` crore)   |
-|------------------------------------------------|----------------|----------------|
-| Particulars                                    | ended 2026     | 31, 2025       |
-| Aggregate depreciation charged on above assets | 18             | 21             |
-
-The rental income from subsidiary in current year is ` 83 crore and in last year, it was ` 75 crore.
-## 2.2 Goodwill and other intangible assets
-## 2.2.1 Goodwill
-The summary of changes in the carrying amount of goodwill is as follows:
-(In ` crore)
-| Particulars                     |   Year ended March 31, |   Year ended March 31, |
-|---------------------------------|------------------------|------------------------|
-|                                 |                   2026 |                   2025 |
-| Carrying value at the beginning |                    211 |                    211 |
-| Carrying value at the end       |                    211 |                    211 |
-
-The allocation of goodwill to operating segments as at March 31, 2026 and March 31, 2025 is as follows:
-(In ` crore)
-| Segment                                         |   As at March 31, 2026 |   2025 |
-|-------------------------------------------------|------------------------|--------|
-| Financial services                              |                     64 |     64 |
-| Retail                                          |                     34 |     34 |
-| Communication                                   |                     28 |     28 |
-| Energy, Utilities, Resources and Services       |                     27 |     27 |
-| Manufacturing                                   |                     21 |     21 |
-|                                                 |                    174 |    174 |
-| Operating segments without significant goodwill |                     37 |     37 |
-| Total                                           |                    211 |    211 |
-
-## 2.2.2 Other intangible assets
-## Accounting policy
-Intangible assets are stated at cost less accumulated amortization and impairment. Intangible assets are amortized over their respective individual estimated useful lives on a straightline basis, from the date that they are available for use. The estimated useful life of an identifiable intangible asset is based on a number of factors, including the effects of obsolescence, demand, competition, and other economic factors (such as the stability of the industry, and known technological advances), and the level of maintenance expenditures required to obtain the expected future cash flows from the asset. Amortization methods and useful lives are reviewed periodically, including at each financial year end.
-Research costs are expensed as incurred. Software product development costs are expensed as incurred unless technical and commercial feasibility of the project is demonstrated, future economic benefits are probable, the Company has an intention and ability to complete and use or sell the software and the costs can be measured reliably. The costs which can be capitalized include the cost of material, direct labor and overhead costs that are directly attributable to prepare the asset for its intended use.
-During the year ended March 31, 2026, the intangible assets having carrying value of zero were derecognized.
-The changes in the carrying value of acquired intangible assets for the year ended March 31, 2025 are as follows:
-| Particulars                                   | Customer- related   | Software- related   | Trade name- related   | Others   | (In ` crore) Total   |
-|-----------------------------------------------|---------------------|---------------------|-----------------------|----------|----------------------|
-| Gross carrying value as at April 1, 2024      | 113                 | 54                  | 26                    | 26       | 219                  |
-| Deletions                                     | -                   | -                   | -                     | -        | -                    |
-| Gross carrying value as at March 31, 2025     | 113                 | 54                  | 26                    | 26       | 219                  |
-| Accumulated amortization as at April 1, 2024  | (113)               | (54)                | (26)                  | (26)     | (219)                |
-| Amortization expense                          | -                   | -                   | -                     | -        | -                    |
-| Accumulated amortization on deletions         | -                   | -                   | -                     | -        | -                    |
-| Accumulated amortization as at March 31, 2025 | (113)               | (54)                | (26)                  | (26)     | (219)                |
-| Carrying value as at March 31, 2025           | -                   | -                   | -                     | -        | -                    |
-| Carrying value as at April 1, 2024            | -                   | -                   | -                     | -        | -                    |
-| Estimated Useful Life (in years)              | -                   | -                   | -                     | -        |                      |
-| Estimated Remaining Useful Life (in years)    | -                   | -                   | -                     | -        |                      |
-
-Research and Development Expenditure
-Research and Development expense recognized in net profit in the Statement of Profit and Loss for the year ended March 31, 2026 and March 31, 2025, are ` 1,093 crore and ` 850 crore, respectively.
-## 2.3 Leases
-## Accounting policy
-The Company as a lessee
-The Company's lease asset classes primarily consist of leases for land, buildings and computers. The Company assesses whether a contract contains a lease, at inception of a contract. A contract is, or contains, a lease if the contract conveys the right to control the use of an identified asset for a period of time in exchange for consideration. To assess whether a contract conveys the right to control the use of an identified asset, the Company assesses whether: (i) the contract involves the use of an identified asset (ii) the Company has substantially all of the economic benefits from use of the asset through the period of the lease and (iii) the Company has the right to direct the use of the asset.
-At the date of commencement of the lease, the Company recognizes a right-of-use asset ('ROU') and a corresponding lease liability for all lease arrangements in which it is a lessee, except for leases with a term of twelve months or less (short-term leases) and low-value leases. For these short-term and low-value leases, the Company recognizes the lease payments as an operating expense on a straight-line basis over the term of the lease.
-As a lessee, the Company determines the lease term as the noncancellable period of a lease adjusted with any option to extend or terminate the lease, if the use of such option is reasonably certain. The Company makes an assessment on the expected lease term on a lease-by-lease basis and thereby assesses whether it is reasonably certain that any options to extend or terminate the contract will be exercised. In evaluating the lease term, the Company considers factors, such as any significant leasehold improvements undertaken over the lease term, costs relating to the termination of the lease and the importance of the underlying asset to Infosys' operations taking into account the location of the underlying asset and the availability of suitable alternatives. The lease term in future periods is reassessed to ensure that the lease term reflects the current economic circumstances.
-Certain lease arrangements include the options to extend or terminate the lease before the end of the lease term. ROU assets and lease liabilities includes these options when it is reasonably certain that they will be exercised.
-The ROU assets are initially recognized at cost, which comprises the initial amount of the lease liability adjusted for any lease payments made at or prior to the commencement date of the lease plus any initial direct costs less any lease incentives. They are subsequently measured at cost less accumulated depreciation and impairment losses.
-ROU assets are depreciated from the commencement date on a straight-line basis over the shorter of the lease term and useful life of the underlying asset.
-ROU assets are evaluated for recoverability whenever events or changes in circumstances indicate that their carrying amounts may not be recoverable. For the purpose of impairment testing, the recoverable amount (i.e. the higher of the fair value less cost to sell and the value-in-use) is determined on an individual asset basis unless the asset does not generate cash flows that are largely independent of those from other assets. In such cases, the recoverable amount is determined for the Cash Generating Unit (CGU) to which the asset belongs.
-The lease liability is initially measured at amortized cost at the present value of the future lease payments. The lease payments are discounted using the interest rate implicit in the lease or, if not readily determinable, using the incremental borrowing rates in the country of domicile of these leases. Lease liabilities are remeasured with a corresponding adjustment to the related right of use asset if the Company changes its assessment if whether it will exercise an extension or a termination option.
-Lease liability and ROU asset have been separately presented in the Balance Sheet and lease payments have been classified as financing cash flows.
-## The Company as a lessor
-Leases for which the Company is a lessor is classified as a finance or operating lease. Whenever the terms of the lease transfer substantially all the risks and rewards of ownership to the lessee, the contract is classified as a finance lease. All other leases are classified as operating leases.
-When the Company is an intermediate lessor, it accounts for its interests in the head lease and the sublease separately. The sublease is classified as a finance or operating lease by reference to the right-of-use asset arising from the head lease.
-For finance lease, finance income is recognised over the lease term based on a pattern reflecting a constant periodic rate of return on the lessor's net investment in the lease and for operating leases, rental income is recognized on a straight-line basis over the term of the relevant lease.
-The changes in the carrying value of right-of-use assets for the year ended March 31, 2026 are as follows:
-|                              |                      |                      | (In ` crore)   |
-|------------------------------|----------------------|----------------------|----------------|
-| Particulars                  | Category of ROUasset | Category of ROUasset | Total          |
-|                              | Land                 | Buildings            |                |
-| Balance as at April 1, 2025  | 530                  | 2,105                | 3,078          |
-| Additions *                  | -                    | 318                  | 775            |
-| Deletions                    | (53)                 | (22)                 | (346)          |
-| Depreciation                 | (4)                  | (420)                | (656)          |
-| Balance as at March 31, 2026 | 473                  | 1,981                | 2,851          |
-
-* Net of adjustments on account of modifications The changes in the carrying value of right-of-use assets for the year ended March 31, 2025 are as follows:
-
-|                              |                      |                      | (In ` crore)   |
-|------------------------------|----------------------|----------------------|----------------|
-| Particulars                  | Category of ROUasset | Category of ROUasset | Total          |
-|                              | Land                 | Buildings            |                |
-| Balance as at April 1, 2024  | 534                  | 2,266                | 3,303          |
-| Additions *                  | -                    | 430                  | 783            |
-| Deletions                    | -                    | (181)                | (388)          |
-| Depreciation                 | (4)                  | (410)                | (620)          |
-| Balance as at March 31, 2025 | 530                  | 2,105                | 3,078          |
-
-* Net of adjustments on account of modifications
-
-The aggregate depreciation expense on ROU assets is included under depreciation and amortization expense in the Statement of Profit and Loss.
-The following is the break-up of current and non-current lease liabilities as at March 31, 2026 and March 31, 2025:
-|                               | (In ` crore)    | (In ` crore)    |
-|-------------------------------|-----------------|-----------------|
-| Particulars                   | As at March 31, | As at March 31, |
-|                               | 2026            | 2025            |
-| Current lease liabilities     | 934             | 765             |
-| Non-current lease liabilities | 2,815           | 2,694           |
-| Total                         | 3,749           | 3,459           |
-
-The movement in lease liabilities during the year ended March 31, 2026 and March 31, 2025 is as follows:
-|                                        | (In ` crore)    | (In ` crore)    |
-|----------------------------------------|-----------------|-----------------|
-| Particulars                            | As at March 31, | As at March 31, |
-|                                        | 2026            | 2025            |
-| Balance at the beginning               | 3,459           | 3,766           |
-| Additions                              | 762             | 718             |
-| Finance cost accrued during the period | 169             | 162             |
-| Deletions                              | (68)            | (394)           |
-| Payment of lease liabilities           | (912)           | (859)           |
-| Translation Difference                 | 339             | 66              |
-| Balance at the end                     | 3,749           | 3,459           |
-
-The table below provides details regarding the contractual maturities of lease liabilities as at March 31, 2026 and March 31, 2025 on an undiscounted basis:
-|                      | (In ` crore)    | (In ` crore)    |
-|----------------------|-----------------|-----------------|
-| Particulars          | As at March 31, | As at March 31, |
-|                      | 2026            | 2025            |
-| Less than one year   | 1,063           | 812             |
-| One to five years    | 2,555           | 2,152           |
-| More than five years | 646             | 990             |
-| Total                | 4,264           | 3,954           |
-
-The Company does not face a significant liquidity risk with regard to its lease liabilities as the current assets are sufficient to meet the obligations related to lease liabilities as and when they fall due.
-Rental expense recorded for short-term leases was ` 23 crore and ` 19 crore for the year ended March 31, 2026 and March 31, 2025, respectively.
-Leases not yet commenced to which the Company is committed to ` 87 crore for a lease term up to 5 years.
-The movement in the net investment in lease during the years ended March 31, 2026 and March 31, 2025 is as follows:
-(In ` crore)
-| Particulars                               | As at March 31, 2026   | 2025   |
-|-------------------------------------------|------------------------|--------|
-| Balance at the beginning                  | 469                    | 319    |
-| Addition                                  | 325                    | 268    |
-| Interest income accrued during the period | 23                     | 11     |
-| Others                                    | 3                      | (5)    |
-| Lease receipts                            | (245)                  | (133)  |
-| Translation difference                    | 14                     | 9      |
-| Balance at the end                        | 589                    | 469    |
+The voting results are made available on our website at https://www.infosys.com/investors/shareholder-services/postal-ballot.html.
+The following Special resolution(s) are proposed to be placed before the shareholders for approval through a postal ballot being conducted via e-voting:
+| Date of postal ballot notice   | Resolution(s)                                                                                                                                                     | Voting results Approval date                                                                                                                                                                           | Scrutinizer                                                                                  |
+|--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| April 23, 2026                 | Appointment of Diane Enberg Jurgens (DIN: 11585200), as an Independent Director Reappointment of Helene Auriol Potier (DIN: 10166891), as an Independent Director | The postal ballot will be circulated to the shareholders, and the results thereof will be made available on our website at https://www.infosys. com/investors/shareholder-services/postal-ballot. html | Hemanth, Holla & Co., (Membership No. FCS 6374) (CP No. 6519 Practicing Company Secretaries. |

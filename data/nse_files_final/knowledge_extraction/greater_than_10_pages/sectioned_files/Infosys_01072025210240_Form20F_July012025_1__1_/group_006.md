@@ -1,344 +1,63 @@
 ---
 document_name: "Infosys_01072025210240_Form20F_July012025_1__1_.md"
 group_id: "Infosys_01072025210240_Form20F_July012025_1__1___group_006"
-source_section_count: 4
-page_start: 57
-page_end: 67
-estimated_tokens: 9552
+source_section_count: 2
+page_start: 28
+page_end: 34
+estimated_tokens: 4528
 source_section_ids:
-  - "Infosys_01072025210240_Form20F_July012025_1__1___021"
-  - "Infosys_01072025210240_Form20F_July012025_1__1___022"
-  - "Infosys_01072025210240_Form20F_July012025_1__1___023"
-  - "Infosys_01072025210240_Form20F_July012025_1__1___024"
+  - "Infosys_01072025210240_Form20F_July012025_1__1___011"
+  - "Infosys_01072025210240_Form20F_July012025_1__1___012"
 ---
 
-## Item 4 A. Unresolved Staff Comments
-None.
-## Item 5. Operating and Financial Review and Prospects
-The consolidated financial statements of the Company included in this Annual Report on Form 20-F have been prepared in accordance with IFRS as issued by IASB. The discussion, analysis and information presented in this section should be read in conjunction with our consolidated financial statements included herein and the notes thereto.
-## OPERATING RESULTS
-This  information  is  set  forth  under  the  caption  entitled  'Management's  Discussion  and  Analysis  of  Financial Condition and Results of Operations' below and is incorporated herein by reference.
-## LIQUIDITY AND CAPITAL RESOURCES
-This  information  is  set  forth  under  the  caption  entitled  'Management's  Discussion  and  Analysis  of  Financial Condition and Results of Operations' below and is incorporated herein by reference.
-## RESEARCH AND DEVELOPMENT, PATENTS AND LICENSES, ETC.
-We have committed, and expect to continue to commit in the future, a portion of our resources to research and development. Efforts towards research and development are focused on refinement of methodologies, tools and techniques, implementation of metrics, improvement in estimation process and the adoption of new technologies.
-## TREND INFORMATION
-This  information  is  set  forth  under  the  caption  entitled  'Management's  Discussion  and  Analysis  of  Financial Condition and Results of Operations' below and is incorporated herein by reference.
-## MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
-The following discussion and analysis should be read in conjunction with our financial statements and related notes included elsewhere in this Annual Report on Form 20-F. This discussion and other parts of this Annual Report on Form 20-F contain forward-looking statements based upon current expectations that involve risks and uncertainties. Our actual results and the timing of selected events could differ materially from those anticipated in these forward-looking statements as a result of several factors, including those set forth under 'Risk Factors' and elsewhere in this Annual Report on Form 20-F. Please also see 'Special Note Regarding Forward-Looking Statements.' For a comparison of our results of operations for the fiscal years ended March 31, 2024, and 2023, see the section 'Results for Fiscal 2024 compared to Fiscal 2023' under 'Management's Discussion and Analysis of Financial Condition and Results of Operations' of Item 5 in our Annual Report on Form 20-F for fiscal 2024, filed with the SEC on June 24, 2024, and incorporated herein by reference.
-## Overview
-Infosys is a leading provider of consulting, technology, outsourcing and next-generation digital services, enabling clients across 59 countries to create and execute strategies for their digital transformation.
-Our vision is to build a globally respected organization delivering best-of-breed business solutions, leveraging technology, delivered by best-in-class people. We are guided by our value system which motivates our attitudes and actions. Our core values are Client Value, Leadership by Example, Integrity and Transparency, Fairness and Excellence (C-LIFE). Our strategic objective is to build a sustainable organization that remains relevant to the agenda of our clients, while creating growth opportunities for our employees and generating profitable returns for our investors and contributing to the communities that we operate in.
-Our clients and prospective clients are faced with transformative business opportunities powered by advances in software and computing technology, especially in AI. These organizations are dealing with the challenge of having to reinvent their core offerings, processes and systems rapidly and position themselves as 'AI enabled'. Our strategy is to be a navigator for our clients as they ideate, plan and execute on their journey to an AI future  by building  strong  data  foundations  with  robust  cloud  capabilities.  We  are  progressing  well  on  our  journey  to leverage AI to deliver business value to our clients. At the same time, we are also cognizant of the need to build adequate safeguards around privacy, ethics, and controls through responsible AI practices, which we are trying to evangelize not only within the Group, but across the industry.
-Beginning  in  2018,  we  embraced  a  four-pronged  strategy  to  strengthen  our  relevance  with  clients  and  drive accelerated value creation:
-1. Scale Agile Digital
-2. Energize the core
-3. Reskill our people
-4. Expand localization
+## Negative media coverage and public scrutiny may divert the time and attention of our board and management and adversely affect our reputation and the prices of our equity shares and ADSs.
+There is media coverage and public scrutiny of our business practices, policies and actions including negative, and in some cases, inaccurate posts or comments. Any future negative media coverage in relation to our business, our Board or senior management, regardless of the factual basis for the assertions being made, may adversely impact our reputation. In addition, responding to allegations made in the media can significantly divert the time and attention of our Board and senior management away from our business and disrupt our operations. We may not be able to respond publicly to certain comments in the media due to the obligations, we have with our employees, clients  and  other  stakeholders.  Any  unfavorable  publicity  may  also  adversely  impact  investor  confidence  and directly or indirectly cause the price of our equity shares and ADSs to decline.
+If  any of our employees, as independent individuals, engage in any acts that are perceived to be against the interests of the communities we operate in or that violate local regulations, and if such acts become the subject of mainstream and social media attention or regulatory scrutiny, our reputation may be negatively impacted.
+Regulatory requirements that obligate our management to respond to rumors within a specified time may put strain on board and management bandwidth, digress their attention from business-critical strategic work and can also adversely impact our reputation.
+## VII. Risks related to legislation and regulatory compliance
+There  is  a  great  deal  of  political  uncertainty  owing  to  geopolitical  tension,  changes  in  tariff  or  trade restrictions, and we could see an increase in restrictive legislation and regulations in the immigration space, which could adversely affect our ability to service our clients in these geographies.
+A number of countries have newly elected governments and a number of countries will hold national elections in the next few months, thereby increasing the political uncertainty for us and our clients operating in these countries. Many of these countries are also facing economic uncertainties, which can lead to a protectionist sentiment with respect to immigration by those governments. A change in administration in key geographies that we operate in could result in more restrictive immigration laws or interpretations. Potential changes could include higher wage requirements, more restrictive application of immigration laws, and more complex processes. This could result in increased costs associated with immigration sponsorship and/or lead to our inability to execute our global delivery model effectively, thereby affecting our results of operations and financial condition.
+## New and changing regulatory compliance, corporate governance and public disclosure requirements add uncertainty to our compliance efforts and increase our costs of compliance.
+We are subject to a variety of laws, regulations and industry standards in the countries in which we operate. These laws, regulations, and standards govern numerous areas that are important to our business, including, but not limited to, privacy, information security, labor and employment, immigration, data protection, import and export practices, marketing and communication practices. Such laws, regulations and standards are subject to changes and evolving interpretations and applications, and it can be difficult to predict how they may be applied to our business and the way we conduct our operations, especially as we introduce new solutions and services and expand into new jurisdictions. Any perceived or actual breach of laws, regulations and standards could result in  investigations,  regulatory  inquiries,  litigation,  fines,  tax  demands,  injunctions,  negative  client  sentiment, impairment of our existing or planned solutions and services, or otherwise negatively impact our business.
+Changing laws, regulations and standards relating to accounting, corporate governance and public disclosure create uncertainty for our compliance efforts and may result in added compliance costs. India has witnessed sweeping changes to its corporate law regime over the past few years. The changes introduced by the Indian Companies Act, 2013, the Securities and Exchange Board of India ('SEBI'), (Listing Obligations and Disclosure Requirements), Regulations, 2015 (Listing Regulations) and the SEBI's Insider Trading Regulations as amended from time to time are far-reaching and often untested and have added complexity to our corporate compliance regime. We are also increasingly subject to social regulations such as Modern Slavery legislations around the world including in the UK and Australia, and the UK Corporate Criminal Offence Act. Should there be any failure by our suppliers to abide by applicable regulations, including but not limited to those relating to human trafficking, we may face sanctions which could affect our reputation and our ability to provide services to our clients.
+In  connection  with  this  Annual  Report  on  Form  20-F,  our  management  assessed  our  internal  controls  over financial  reporting,  and  determined  that  our  internal  controls  were  effective  as  of  March  31,  2025.  We  will continue to undertake management assessments of our internal control over financial reporting in connection with each annual report, and any deficiencies uncovered by these assessments or any inability of our auditors to issue an unqualified opinion regarding our internal control over financial reporting could harm our reputation and the price of our equity shares and ADSs.
+We are committed to maintaining high standards of corporate governance and public disclosure, and our efforts to comply with evolving laws, regulations and standards in this regard have resulted in, and are likely to continue to result in, increased general and administrative expenses and an increasing amount of time and attention of management in ensuring compliance related activities.
+In  addition,  it  may  become  more  expensive  or  more  difficult  for  us  to  obtain  director  and  officer  liability insurance. Further, our Board members and executive officers could face an increased risk of personal liability in connection with their performance of duties and our regulatory reporting obligations. As a result, we may face difficulties  attracting  and  retaining  qualified  Board  members  and  executive  officers,  which  could  harm  our business. If we fail to comply with new or changed laws or regulations, our business and reputation may be harmed.
+The intellectual property (IP) laws of India may not give sufficient protection to software and the related IP rights to the same extent as those in the United States. We may be unsuccessful in protecting our IP rights. We may also be subject to third party claims of IP infringement.
+We  rely  on  a  combination  of  patent,  copyright,  trademark  and  design  laws,  trade  secrets,  confidentiality procedures and contractual provisions to protect our intellectual property. However, the laws of India do not protect proprietary rights to the same extent as laws in the United States. While we take utmost care in protecting our  intellectual  property,  our  competitors  may  independently  develop  similar  technology  or  duplicate  our products  or  services.  Unauthorized  parties  may  infringe  upon  or  misappropriate  our  products,  services  or proprietary information.
+The misappropriation or duplication of our intellectual property could disrupt our ongoing business, distract our management and employees, reduce our revenues and increase our expenses. We may need to litigate to enforce our intellectual property rights or to determine the validity and scope of the proprietary rights of others. Any such litigation could be time consuming and costly. As the number of patents, copyrights and other intellectual property rights in our industry increases, and as the coverage of these rights increases, we believe that companies in our industry will face more frequent infringement claims. Defense against these claims, even if such claims are not meritorious, could be expensive and time consuming and may divert our management's attention and resources from operations. The growing use of AI in our industry introduces novel intellectual property risks for which the law is still evolving, including with respect to the ownership of AI-generated output, the legality of using someone else's intellectual property as a training dataset to train AI systems, and the memorization of training  datasets  by  the  AI  system.  We  will  need  to  adequately  manage  these  risks  in  our  contractual arrangements with our clients and partners.
+From time to time, third parties, including companies with greater resources than us, have asserted, and may in the future assert, patent, copyright, trademark, trade secret and other intellectual property rights against us or against our clients or business partners. For example, on August 23, 2024, Cognizant TriZetto Software Group, Inc. ('TriZetto') filed a lawsuit against us in the United States District Court for the Northern District of Texas. The lawsuit asserts claims for misappropriation of TriZetto trade secrets relating to its Facets and QNXT software products, breach of contract, and unfair competition. The lawsuit seeks unspecified damages, as well as, among other things, an injunction against us to stop us from using any of TriZetto's trade secrets. Third parties also have in the past and may in the future assert patent or other intellectual property rights to technologies that we utilize in our business. If we become liable to third parties for infringing or misappropriating their intellectual property rights, we could be required to pay a substantial damage award and be forced to develop alternative technology, obtain  a  license  or  cease  selling  the  applications  or  products  that  contain  the  infringing  or  misappropriated technology.  We  may  be  unable  to  develop  alternative  technology  or  to  obtain  a  license  on  commercially reasonable terms, or at all. An unfavorable outcome in connection with any infringement or misappropriation claim against us as a result of litigation, other proceeding or settlement, could have a material and adverse impact on our business, results of operations and financial position.
+In addition, litigation initiated by non-practicing entities continues in the software industry. The non-practicing entities are business establishments that hold the patents, and they seek monetary damages by alleging that a product feature  infringes  a  patent.  These  non-practicing  entities  are  also  becoming  more  aggressive  in  their monetary demands and requests for court-issued injunctions. We intend to defend such claims. However, as with most  litigation,  the  outcome  is  difficult  to  predict.  Such  lawsuits  or  claims  may  increase  our  cost  of  doing business and may be extremely disruptive if the plaintiffs succeed in blocking the sales of our products and services.
+We cannot be sure that the services and solutions that we offer to our clients do not infringe on or misappropriate the intellectual property rights of third parties. With increased working from home, the risk that some of our employees  may  reuse  intellectual  property  of  different  clients  may  increase  notwithstanding  the  significant safeguards and policies preventing reuse. Any such instances may give rise to third party claims. These claims could harm our reputation, cause us to incur substantial costs or prevent us from offering some services or solutions in the future. Any related proceedings could require us to expend significant resources over an extended period of time. In most of our contracts, we agree to indemnify our clients for expenses and liabilities resulting from claimed infringements or misappropriations of the intellectual property rights of third parties. In some instances, the amount of these indemnities could be greater than the revenues we receive from the client.
+Any claims or litigation in this area could be time-consuming and costly, damage our reputation and/or require us to incur additional costs to obtain the right to continue to offer a service or solution to our clients. If we cannot secure this right at all or on reasonable terms, or we cannot substitute alternative technology, our results of operations could be materially adversely affected. The risk of infringement and misappropriation claims against us may increase as we expand our industry software solutions and platforms and continue to develop and license our software to multiple clients.
+In addition, we rely on third-party software in providing some of our services and solutions. If we lose our ability to continue using such software for any reason, including because it is found to infringe the rights of others, we will  need  to  obtain  substitute  software  or  seek  alternative  means  of  obtaining  the  technology  necessary  to continue  to  provide  such  services  and  solutions.  Our  inability  to  replace  such  software,  or  to  replace  such software in a timely or cost- effective manner, could adversely affect our results of operations.
+The  software  industry  is  making  increased  use  of  open-source  software  in  its  development  work.  We  also incorporate open-source technology in our services and in our proprietary products and platforms which may expose us to liability and have a material impact on our product development and sales. The open-source license may require that the software code in those components or the software into which they are integrated be freely accessible under open- source terms and security vulnerabilities in open-source software may adversely expose our product and result in financial claims against us. While we take appropriate measures to comply with opensource terms and assess the known security vulnerabilities, there is a possibility that third-party claims may require us to disclose our own source code to the public, to make the same freely accessible under open-source terms or may result in potential financial impact if there is a claim due to unknown vulnerabilities. Any such requirement to disclose our source code or other confidential information related to our products could adversely affect our competitive position, results of business operations, financial condition and our relationships with clients.
 
-Our primary geographic markets are North America, Europe, Rest of the World and India. We serve clients in financial services and insurance; retail, consumer packaged goods and logistics; communication, telecom OEM and media; energy, utilities, resource and services; manufacturing; hi-tech; life sciences and healthcare.
-There are numerous risks and challenges affecting the business. These risks and challenges are discussed in detail in the section entitled 'Risk Factors' and elsewhere in this Annual Report on Form 20-F.
-We were founded in 1981 and are headquartered in Bengaluru, India. We completed our initial public offering of equity shares in India in 1993 and our initial public offering of ADSs in the United States in 1999. We completed three sponsored secondary ADS offerings in the United States in August 2003, June 2005 and November 2006. We did not receive any of the proceeds from any of our sponsored secondary offerings.
-## ESG Vision and Ambitions
-In October 2020, we launched our ESG Vision 2030 to 'shape and share solutions that serve the development of businesses and communities.'   Our vision continues to reflect our commitment to responsible business.  In fiscal 2025, at the mid-point of our journey towards our 2030 goals, we had an opportunity to refresh our ESG ambitions and launch our ESG Vision 2030 Refresh, to address the changing priorities of our stakeholders.
-After 6 consecutive years of remaining carbon neutral, our ESG Vision 2030 Refresh articulates our continuing ambition to become climate positive in 2030, by implementing initiatives across scope 1, 2 and 3 GHG emissions to reduce our own carbon footprint, sequester more carbon from the atmosphere than our emissions, and move beyond net zero. Further ,our digital skilling programs aim to empower more than 18 million people and enable employment opportunities for more than 500,000 people.  Our commitment to transform and create sustainable communities through new tech for good initiatives, CSR efforts, including employee volunteering, healthcare and women's  empowerment  is  designed  to  amplify  communities.   We  will  continue  to  bring  the  interests  of  all stakeholders to the fore through an empowered, diverse and inclusive board while we shape and embrace leading data privacy and information management practices.
-## Industry structure and developments
-Fiscal 2025 saw uncertainties related to interest rates, geopolitical conditions and elections across major economies compounding the ongoing transformation within the Tech services industry. The year has been another year of major  uncertainties  in  the  economy,  some  geopolitical  flux,  and  novel  concerns  around  protectionism  led disruption of global balances. The high inflation and interest rates are driving down discretionary spending. The year has been a year of subdued growth, pockets of economic green shoots that have kept technology-led growth active.  Artificial  Intelligence  (AI)  has  unified  perspectives  of  the  industry  as  well  as  government  across geographies and sectors alike.
-Global GDP is estimated to have grown at 3.2% in CY 2024 (1) , down 10bps compared to the previous year. The IT services growth during the same period has remained flat at 4.7% (2) . We expect client spending and investments to continue to move towards AI in the near term. These investments are expected to be crucial during this period of economic uncertainty.
-The dynamism in technologies continues and the industry is feeling the pressure to build AI strategies and stay ahead. We saw AI starting to reshape the industry in fiscal 2025. We continued to witness businesses attempting to reimagine their cost structures, increase business resilience and agility, personalize experiences for customers and employees, and launch new and disruptive products and services, aided by enterprise AI. With our leadership position in AI, we believe we are well-positioned to take advantage of these market opportunities.
-(1)  NASSCOM Annual Strategic review, 2025
-(2)  IDC - Technology Spend Forecast
-## Results of Operations
-The following table illustrates our compounded annual growth rate in revenues, net profit, earnings per equity share and number of employees from fiscal 2021 to fiscal 2025:
-|                                                   | (Dollars in millions except per share and employee data)   | (Dollars in millions except per share and employee data)   | (Dollars in millions except per share and employee data)   |
-|---------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|
-|                                                   | Fiscal 2025                                                | Fiscal 2021                                                | Compounded annual growth rate                              |
-| Revenues                                          | 19,277                                                     | 13,561                                                     | 9.2%                                                       |
-| Operating profit                                  | 4,071                                                      | 3,325                                                      | 5.2%                                                       |
-| Net profit                                        | 3,162                                                      | 2,623                                                      | 4.8%                                                       |
-| Net profit attributable to Owners of the company  | 3,158                                                      | 2,613                                                      | 4.8%                                                       |
-| Earnings per equity share (Basic)                 | 0.76                                                       | 0.62                                                       | 5.2%                                                       |
-| Earnings per equity share (Diluted)               | 0.76                                                       | 0.61                                                       | 5.7%                                                       |
-| Number of employees at the end of the fiscal year | 323,578                                                    | 259,619                                                    | 5.7%                                                       |
+## Our net income would decrease if the Government of India reduces or withdraws tax benefits and other incentives it provides to us.
+Many of our development centers in India are registered as Special Economic Zones unit ('SEZ unit') under the Special Economic Zone Act, 2005 ('SEZ Act').As per the section 10AA of the Income Tax Act, 1961 (the 'Income Tax Act'), SEZ unit who began to provide services on or after April 1, 2005, are eligible for an income tax deduction of 100% of profits or gains derived from the export of services for the first five years beginning with the assessment year relevant to the previous year in which the SEZ unit begins to provide services and 50% of such profits or gains for the five years thereafter. Up to 50% of such profits or gains is also available for a further five years, subject to the creation of a Special Economic Zone Re-investment Reserve out of the profit of the eligible SEZ units and our utilization of such reserve to acquire new plants and machinery for the purpose of our business as per the provisions of the Income Tax Act.
+If the government of India changes its policies regarding SEZs in a manner that adversely impacts the incentives for establishing or operating facilities in SEZs, our results of operations and financial condition may be adversely affected. In the event, where we are not able to utilize the SEZ Re-investment reserve for investment in plant and  machinery  within  the  timeline  specified  under  the  Income  Tax  Act,  we  will  have  to  pay  taxes  on  the unutilized reserve following the expiry of year specified. This would result in an increase to our effective tax rate.
+## In the event that the government of India or the government of another country changes its tax policies in a manner that is adverse to us, our tax expense may materially increase, reducing our profitability.
+The  General  Anti  Avoidance  Rules  ('GAAR')  provisions  to  deal  with  the  Organisation  for  Economic  Cooperation and Development's ('OECD')'s Base Erosion and Profit Shifting project of which India is an active participant was applicable from fiscal 2018. Pursuant to GAAR, an arrangement in which the main purpose, or one  of  the  main  purposes,  is  to  obtain  a  tax  benefit  and  may  be  declared  as  an  'impermissible  avoidance arrangement' if it also satisfies at least one of the following four tests:
+- The arrangement creates rights and obligations, which are not normally created between parties dealing at arm's length.
+- It results in misuse or abuse of provisions of tax laws.
+- It lacks commercial substance or is deemed to lack commercial substance.
+- It is carried out in a manner, which is normally not employed for a bona fide purpose.
 
-The following table sets forth certain financial information as a percentage of revenues:
-|                                                  | Fiscal 2025   | Fiscal 2024   | Fiscal 2023   |
-|--------------------------------------------------|---------------|---------------|---------------|
-| Revenues                                         | 100.0         | 100.0         | 100.0         |
-| Cost of sales                                    | 69.5          | 69.9          | 69.8          |
-| Gross margin                                     | 30.5          | 30.1          | 30.2          |
-| Operating expenses:                              |               |               |               |
-| Selling and marketing expenses                   | 4.7           | 4.5           | 4.3           |
-| Administrative expenses                          | 4.7           | 4.9           | 4.9           |
-| Total operating expenses                         | 9.4           | 9.4           | 9.2           |
-| Operating margin                                 | 21.1          | 20.7          | 21.0          |
-| Other income, net                                | 2.2           | 3.0           | 1.8           |
-| Finance cost                                     | (0.2)         | (0.3)         | (0.2)         |
-| Profit before income taxes                       | 23.1          | 23.4          | 22.6          |
-| Income tax expense                               | 6.7           | 6.3           | 6.2           |
-| Net margin                                       | 16.4          | 17.1          | 16.4          |
-| Non-controlling interests                        | -             | -             | -             |
-| Net margin attributable to owners of the company | 16.4          | 17.1          | 16.4          |
-
-## Results for Fiscal 2025 compared to Fiscal 2024
-During fiscal 2025, the company continued running Project Maximus, a comprehensive margin expansion program structured across 5 pillars:
-- Value Based Selling A focused strategy to identify opportunities to align pricing to the value clients received for the services we provide to them.
-- Efficient Pyramid Bringing in efficiencies to reduce effort costs by improving utilization, reducing sub-contractors, improving role mix, location mix, etc.
-- Lean, Automation &amp; Gen AI Strategic initiative to combine productivity and process improvement using automation technologies including Generative AI to enhance efficiency.
-- Improving critical portfolios A targeted approach to improve margins on large client engagements and service lines.
-- Reducing indirect cost s - Optimization of General and Administrative expenses.
-
-## Revenues
-Our revenues are generated principally from services provided either on a time-and-material, unit of work, fixedprice, or fixed-timeframe basis. Many of our client contracts, including those that are on a fixed-price, fixedtimeframe basis can be terminated by clients with or without cause and with short notice periods of 0 to 90 days. Generally, we collect revenues as milestones in the contracts are completed, therefore terminated contracts are only subject to collection for portions of the contract completed through the time of termination. In order to manage and anticipate the risk of early or abrupt contract terminations, we monitor the progress of contracts and change orders according to their characteristics and the circumstances in which they occur. This includes a review of our ability and our client's ability to perform on the contract, a review of extraordinary conditions that may lead to a contract termination and a review of the historical client performance considerations. Since we also bear the risk of cost overruns and inflation with respect to fixed-price, fixed-timeframe projects, our operating results could be adversely affected by inaccurate estimates of contract completion costs and dates, including wage inflation rates and currency exchange rates that may affect cost projections. Although we revise our project completion estimates from time to time, such revisions have not, to date, had a material adverse effect on our operating results or financial condition.
-We experience from time to time, pricing pressure from our clients. For example, clients often expect that as we do more business with them, they will receive volume discounts. Additionally, clients may ask for fixed-price, fixed-timeframe arrangements, or reduced rates. We attempt to use fixed-price arrangements for engagements where the specifications are complete.
-The following table sets forth the growth in our revenues in fiscal 2025 from fiscal 2024:
-|          |             | Fiscal 2024   | (Dollars in millions)   | (Dollars in millions)   |
-|----------|-------------|---------------|-------------------------|-------------------------|
-|          | Fiscal 2025 |               | Change                  | Percentage Change       |
-| Revenues | 19,277      | 18,562        | 715                     | 3.9%                    |
-
-Revenue growth in fiscal 2025 was primarily attributable to an increase in realization on account of Value Based Selling (VBS), productivity benefit from Lean &amp; Automation, acquisition and revenue mix partially offset by decline in volumes and currency impact.
-Refer to the 'Our Strategy' section under Item 4 of this Annual Report on Form 20-F for further details.
-The following table sets forth our revenues by business segments for fiscal 2025 and fiscal 2024:
-| Business Segments                         | Percentage of Revenues   | Percentage of Revenues   |
-|-------------------------------------------|--------------------------|--------------------------|
-|                                           | Fiscal 2025              | Fiscal 2024              |
-| Financial Services                        | 27.7%                    | 27.4%                    |
-| Retail                                    | 13.5%                    | 14.7%                    |
-| Communication                             | 11.7%                    | 11.7%                    |
-| Energy, Utilities, Resources and Services | 13.3%                    | 13.0%                    |
-| Manufacturing                             | 15.5%                    | 14.5%                    |
-| Hi-Tech                                   | 8.0%                     | 8.1%                     |
-| Life Sciences                             | 7.3%                     | 7.5%                     |
-| All other Segments                        | 3.0%                     | 3.1%                     |
-
-There  were  significant  currency  movements  during  fiscal  2025  as  compared  to  fiscal  2024.  The  U.S.  dollar depreciated by 1.6% against the United Kingdom Pound Sterling. The U.S. dollar appreciated by 1.5% against the Australian Dollar and by 0.9% against the Euro.
-Constant currency (non-IFRS measure): We report revenue growth both in reported currency terms and in constant currency  terms.  Revenue  growth  in  reported  currency  terms  includes  impact  of  currency  fluctuations.  We, therefore, additionally report the revenue growth in constant currency terms which represents the real growth in revenue  excluding  the  impact  of  currency  fluctuations.  We  calculate  constant  currency  growth  by  comparing current period revenues in respective local currencies converted to US$ using prior-period exchange rates and comparing the same to our prior period reported revenues. Our revenues in reported currency terms for fiscal 2025 is  $19,277  million,  a  growth  of  3.9%  in  comparison  to  fiscal  2024.  As  against  this,  our  revenues  in  constant currency terms for fiscal 2025 grew by 4.2% in comparison to fiscal 2024.
-The following table  sets  forth  our  business  segment  profit  (revenues  less  identifiable  operating  expenses  and allocated expenses) as a percentage of business segment revenue for fiscal 2025 and fiscal 2024 (see Note 2.21.1, under Item 18 of this Annual Report on Form 20-F for additional information):
-| Business Segments                         | Business segment profit%   | Business segment profit%   |
-|-------------------------------------------|----------------------------|----------------------------|
-|                                           | Fiscal 2025                | Fiscal 2024                |
-| Financial Services                        | 24.6%                      | 22.1%                      |
-| Retail                                    | 32.3%                      | 30.6%                      |
-| Communication                             | 17.5%                      | 20.5%                      |
-| Energy, Utilities, Resources and Services | 28.1%                      | 27.5%                      |
-| Manufacturing                             | 19.3%                      | 18.9%                      |
-| Hi-Tech                                   | 24.6%                      | 25.3%                      |
-| Life Sciences                             | 22.5%                      | 25.2%                      |
-| All other Segments                        | 17.2%                      | 16.0%                      |
-
-Overall segment profitability has increased primarily on account of an increase in foreign currency translation benefits,  a benefit  from  Project  Maximus  arising  from  Value  Based  Selling  (VBS)  and  Lean  &amp;  Automation, improved  utilization,  and  insurance  claim  pertaining  to  fiscal  2024,  partially  offset  by  higher  employee compensation, higher cost of third-party items bought for service delivery to clients and acquisition impact.
-Financial service profitability was higher in fiscal 2025 mainly on account of improved margins in large deals and insurance claim pertaining to fiscal 2024.
-Retail profitability was higher in fiscal 2025 mainly on account of higher realization in pricing and lower cost of third-party items bought for service delivery to clients as part of deals.
-Communication profitability was lower in fiscal 2025 mainly due to ramp up of large deals and higher cost of technical sub-contractors. Large deals typically have lower margins in the initial deal period.
-Life sciences profitability was lower in fiscal 2025 mainly on account of lower realization, higher cost of thirdparty items bought for service delivery to clients as part of deals and higher onsite mix.
-Our revenues are also segmented into onsite and offshore revenues. The table below sets forth the percentage of our revenues by location from billable IT services professionals for fiscal 2025 and fiscal 2024:
-|                  | Percentage of revenues   | Percentage of revenues   |
-|------------------|--------------------------|--------------------------|
-|                  | Fiscal 2025              | Fiscal 2024              |
-| Onsite revenue   | 52.3%                    | 52.4%                    |
-| Offshore revenue | 47.7%                    | 47.6%                    |
-
-We typically assume full project management responsibility for each project that we undertake. We divide projects into components that we execute simultaneously at client sites and our Development Centers located outside India ('onsite') and at our Global Development Centers in India ('offshore'). The proportion of work performed at our facilities and at client sites varies from period-to-period. We charge higher rates and incur higher compensation and other expenses for work performed onsite. The services performed onsite typically generate higher revenues per-capita, but at lower gross margins in percentage as compared to the services performed at our own facilities in India. As a result, our total revenues, cost of sales and gross profit in absolute terms and as a percentage of revenues fluctuate from period-to-period.
-The  table  below  sets  forth  details  of  billable  hours  expended  for  onsite  and  offshore  on  our  IT  services professionals for fiscal 2025 and fiscal 2024:
-|                 | Fiscal 2025   | Fiscal 2024   |
-|-----------------|---------------|---------------|
-| Onsite effort   | 23.9%         | 24.5%         |
-| Offshore effort | 76.1%         | 75.5%         |
-
-Revenues from software services including BPM services represented 95.3% and 94.5% of total revenues for fiscal 2025 and fiscal 2024, respectively. We also generate revenue from products and platforms, which represented 4.7% and 5.5% of our total revenues for fiscal 2025 and fiscal 2024, respectively.
-The percentage of revenue from fixed price contracts for fiscal 2025 and fiscal 2024 was approximately 54% and 53%, respectively.
-Revenues and gross profits are also affected by employee utilization rates. We define employee utilization for IT services  as  the  proportion  of  total  billed  person  months  to  total  available  person  months,  excluding  sales, administrative and support personnel. We manage utilization by monitoring project requirements and timetables. The number of technology professionals that we assign to a project will vary according to the size, complexity, duration, and demands of the project. An unanticipated termination of a significant project could also cause lower utilization. In addition, we do not utilize our technology professionals when they are enrolled in training programs, particularly during our training course for new employees.
-The following table sets forth the utilization rates of billable IT services professionals:
-|                    | Fiscal 2025   | Fiscal 2024   |
-|--------------------|---------------|---------------|
-| Including trainees | 83.4%         | 80.7%         |
-| Excluding trainees | 85.5%         | 82.2%         |
-
-The following table sets forth our revenues by geography for fiscal 2025 and fiscal 2024:
-| Geography         | Percentage of revenues   | Percentage of revenues   |
-|-------------------|--------------------------|--------------------------|
-|                   | Fiscal 2025              | Fiscal 2024              |
-| North America     | 57.9%                    | 60.1%                    |
-| Europe            | 29.8%                    | 27.6%                    |
-| Rest of the World | 9.2%                     | 9.8%                     |
-| India             | 3.1%                     | 2.5%                     |
-
-## Cost of sales
-The following table sets forth our cost of sales for fiscal 2025 and fiscal 2024:
-|                            |             |             | (Dollars in millions)   | (Dollars in millions)   |
-|----------------------------|-------------|-------------|-------------------------|-------------------------|
-|                            | Fiscal 2025 | Fiscal 2024 | Change                  | Percentage Change       |
-| Cost of sales              | 13,405      | 12,975      | 430                     | 3.3%                    |
-| As a percentage of revenue | 69.5%       | 69.9%       |                         |                         |
-
-|                                                          |             | (Dollars in millions)   | (Dollars in millions)   |
-|----------------------------------------------------------|-------------|-------------------------|-------------------------|
-|                                                          | Fiscal 2025 | Fiscal 2024             | Change                  |
-| Employee benefit costs                                   | 9,151       | 8,998                   | 153                     |
-| Depreciation and amortization                            | 569         | 565                     | 4                       |
-| Travelling costs                                         | 149         | 150                     | (1)                     |
-| Cost of technical sub-contractors                        | 1,530       | 1,477                   | 53                      |
-| Cost of Software packages for own use                    | 278         | 245                     | 33                      |
-| Third party items bought for service delivery to clients | 1,589       | 1,372                   | 217                     |
-| Consultancy and professional charges                     | 11          | 36                      | (25)                    |
-| Communication costs                                      | 34          | 40                      | (6)                     |
-| Provision for post-sales client support                  | (13)        | 9                       | (22)                    |
-| Repairs and maintenance                                  | 59          | 54                      | 5                       |
-| Other expenses                                           | 48          | 29                      | 19                      |
-| Total cost of sales                                      | 13,405      | 12,975                  | 430                     |
-
-The cost of sales has decreased as a percentage of revenue by 0.4% during fiscal 2025 from fiscal 2024, mainly on  account  of  reduction  of  cost  of  efforts  (comprising  of  employee  and technical  subcontractors  cost)  as  a percentage of revenue mainly on account of reduced onsite mix, improved utilization and increase in third party costs. Third party items bought for service delivery to clients include software and hardware which are integral to our overall service delivery to clients.
-## Gross profit
-The following table sets forth our gross profit for fiscal 2025 and fiscal 2024:
-|                            |             | (Dollars in millions)   | (Dollars in millions)   |
-|----------------------------|-------------|-------------------------|-------------------------|
-|                            | Fiscal 2025 | Fiscal 2024             | Change                  |
-| Gross profit               | 5,872       | 5,587                   | 285                     |
-| As a percentage of revenue | 30.5%       | 30.1%                   |                         |
-
-The gross margins for fiscal 2025 benefited by a decrease in cost of efforts as a percentage of revenue (comprising of employee and technical subcontractors cost) primarily offset by an increase in the third party items bought for service delivery to clients.
-## Selling and marketing expenses
-The following table sets forth our selling and marketing expenses for fiscal 2025 and fiscal 2024:
-|                                |             | Fiscal 2024   | (Dollars in millions)   | (Dollars in millions)   |
-|--------------------------------|-------------|---------------|-------------------------|-------------------------|
-|                                | Fiscal 2025 |               | Change                  | Percentage Change       |
-| Selling and marketing expenses | 898         | 842           | 56                      | 6.7%                    |
-| As a percentage of revenue     | 4.7%        | 4.5%          |                         |                         |
-
-|                                      |             | (Dollars in millions)   | (Dollars in millions)   |
-|--------------------------------------|-------------|-------------------------|-------------------------|
-|                                      | Fiscal 2025 | Fiscal 2024             | Change                  |
-| Employee benefit costs               | 677         | 656                     | 21                      |
-| Travelling costs                     | 48          | 38                      | 10                      |
-| Branding and marketing               | 144         | 121                     | 23                      |
-| Consultancy and professional charges | 19          | 17                      | 2                       |
-| Communication costs                  | 1           | 1                       | -                       |
-| Other expenses                       | 9           | 9                       | -                       |
-| Total selling and marketing expenses | 898         | 842                     | 56                      |
-
-The selling and marketing expenses have increased as a percentage of revenue by 0.2% during fiscal 2025 from fiscal 2024, primarily due to an increase in branding and marketing expenses as a percentage of revenue.
-## Administrative expenses
-The following table sets forth our administrative expenses for fiscal 2025 and fiscal 2024:
-|                            |             | Fiscal 2024   | (Dollars in millions)   | (Dollars in millions)   |
-|----------------------------|-------------|---------------|-------------------------|-------------------------|
-|                            | Fiscal 2025 |               | Change                  | Percentage Change       |
-| Administrative expenses    | 903         | 911           | (8)                     | (0.9)%                  |
-| As a percentage of revenue | 4.7%        | 4.9%          |                         |                         |
-
-|                                                            |             | (Dollars in millions)   | (Dollars in millions)   |
-|------------------------------------------------------------|-------------|-------------------------|-------------------------|
-|                                                            | Fiscal 2025 | Fiscal 2024             | Change                  |
-| Employee benefit costs                                     | 337         | 327                     | 10                      |
-| Consultancy and professional charges                       | 167         | 157                     | 10                      |
-| Repairs and maintenance                                    | 123         | 121                     | 2                       |
-| Power and fuel                                             | 26          | 24                      | 2                       |
-| Communication costs                                        | 38          | 40                      | (2)                     |
-| Travelling costs                                           | 27          | 25                      | 2                       |
-| Rates and taxes                                            | 41          | 39                      | 2                       |
-| Insurance charges                                          | 35          | 25                      | 10                      |
-| Impairment loss recognized/(reversed) on financial assets  | 6           | 15                      | (9)                     |
-| Commission to non-whole-time directors                     | 2           | 2                       | -                       |
-| Contribution towards Corporate Social Responsibility (CSR) | 69          | 64                      | 5                       |
-| Other expenses                                             | 32          | 72                      | (40)                    |
-| Total administrative expenses                              | 903         | 911                     | (8)                     |
-
-There are no material movements in administrative expenses as percentage of revenue in fiscal 2025 as compared to fiscal 2024.
-In  accordance  with  the  requirements  of  the  Indian  Companies  Act,  2013,  $69  million  and  $64  million,  were contributed towards Corporate Social Responsibility during fiscal 2025 and fiscal 2024, respectively.
-## Operating profit
-The following table sets forth our operating profit for fiscal 2025 and fiscal 2024:
-|                            |             | (Dollars in millions)   | (Dollars in millions)   |
-|----------------------------|-------------|-------------------------|-------------------------|
-|                            | Fiscal 2025 | Fiscal 2024             | Change                  |
-| Operating profit           | 4,071       | 3,834                   | 237                     |
-| As a percentage of revenue | 21.1%       | 20.7%                   |                         |
-
-The  increase  in  operating  profit  as  a  percentage  of  revenue  for  fiscal  2025  from  fiscal  2024  was  primarily attributable to decrease in cost of sales by 0.4% as a percentage of revenue and a decrease in administrative expense of 0.2% as a percentage of revenue which was partially offset by an increase in selling and marketing expense of 0.2% as a percentage of revenue.
-
-## Other income and Finance cost
-The following table sets forth our other income and finance cost for fiscal 2025 and fiscal 2024:
-|                   |             |             | (Dollars in millions)   | (Dollars in millions)   |
-|-------------------|-------------|-------------|-------------------------|-------------------------|
-|                   | Fiscal 2025 | Fiscal 2024 | Change                  | Percentage Change       |
-| Other income, net | 425         | 568         | (143)                   | (25.2)%                 |
-| Finance cost      | 49          | 56          | (7)                     | (12.5)%                 |
-
-Other income for fiscal 2025 primarily includes income from investments of $304 million, interest income on income tax refund of $41 million, foreign exchange gain of $55 million on translation of foreign currency assets and liabilities and foreign exchange loss of $24 million on forward and option contracts. Income tax refund for fiscal 2025, includes interest income (pre-tax) on income tax refund of $38 million recognized by the Company based on orders received under section 250 of the Income Tax Act, 1961, from the Income Tax Authorities in India for the assessment years, 2016-17 and 2019-20.
-Other income for fiscal 2024 primarily includes income from investments of $250 million, interest income on income tax refund of $237 million, foreign exchange gain of $11 million on translation of foreign currency assets and liabilities and foreign exchange gain of $12 million on forward and option contracts. Income tax refund for fiscal 2024, includes interest income (pre tax) on income tax refund of $232 million recognized by the Company based  on  orders  received  under  sections  250  and  254  of  the  Income  Tax  Act,  1961,  from  the  Income  Tax Authorities in India for the assessment years, 2007-08 to 2015-16, 2017-18 and 2018-19.
-Finance cost is primarily on account of leases. The lease payments are discounted using the interest rate implicit in the lease or, if not readily determinable, using the incremental borrowing rates in the country of domicile of these leases.
-## Functional currency, presentation currency and foreign exchange
-The functional currency of Infosys, its Indian subsidiaries and controlled trusts is the Indian rupee. The functional currencies for all the other subsidiaries are the respective local currencies. The consolidated financial statements included in this Annual Report on Form 20-F are presented in U.S. dollars (rounded off to the nearest million) to facilitate the investors' ability to evaluate Infosys' performance and financial position in comparison to similar companies domiciled in other geographic locations. The translation of functional currencies of foreign subsidiaries to U.S. dollars is performed for assets and liabilities using the exchange rate at the Balance Sheet date, and for revenue, expenses and cash flow items using a monthly average exchange rate for the respective periods. The gains or losses resulting from such translation are included in other comprehensive income and presented as currency translation reserves under other components of equity.
-Generally, Indian law requires residents of India to repatriate any foreign currency earnings to India to control the exchange of foreign currency. More specifically, Section 8 of the Foreign Exchange Management Act, or FEMA, requires an Indian company to take all reasonable steps to realize and repatriate into India all foreign currency earned by the company outside India, within such time periods and in the manner specified by the RBI. The RBI has promulgated guidelines that require the company to repatriate any realized foreign currency back to a foreign currency account such as an Exchange Earners Foreign Currency, or EEFC account with an authorized dealer in India, subject to the condition that the sum total of the accruals in the account during a calendar month should be converted into rupees on or before the last day of the succeeding calendar month, after adjusting for utilization of the balances for approved purposes or forward commitments.
-We generally collect our earnings denominated in foreign currencies using a dedicated foreign currency account located in the local country of operation. In order to do this, we are required to obtain, and have obtained, approval from an authorized dealer, on behalf of the RBI, to maintain a foreign currency account in overseas countries. Our failure to comply with RBI regulations could result in RBI enforcement actions against us.
-We generate substantially all our revenues in foreign currencies, particularly the U.S. dollar, the United Kingdom Pound Sterling, the Euro and the Australian dollar, whereas we incur a significant portion of our expenses in U.S. dollar and Indian rupees. The exchange rate between the Indian rupee and the U.S. dollar has changed substantially in recent years and may fluctuate substantially in the future. Consequently, the results of our operations may be adversely affected as the Indian rupee appreciates against the U.S. dollar. Foreign exchange gains and losses arise from the depreciation and appreciation of the Indian rupee against other currencies in which we transact business and from foreign exchange forward and option contracts.
-The  following  table  sets  forth  the  currencies  in  which  our  revenues  for  fiscal  2025  and  fiscal  2024  were denominated:
-| Currency                      | Percentage of Revenues   | Percentage of Revenues   |
-|-------------------------------|--------------------------|--------------------------|
-|                               | Fiscal 2025              | Fiscal 2024              |
-| U.S. dollar                   | 64.2%                    | 66.2%                    |
-| Euro                          | 16.8%                    | 14.8%                    |
-| Australian dollar             | 4.6%                     | 5.0%                     |
-| United Kingdom Pound Sterling | 3.8%                     | 4.1%                     |
-| Others                        | 10.6%                    | 9.9%                     |
-
-The following table sets forth information on the foreign exchange rates in rupees per U.S. dollar, United Kingdom Pound Sterling, Euro and Australian dollar for fiscal 2025 and fiscal 2024:
-|                                                                                                       | Fiscal 2025 ( ₹ )   | Fiscal 2024 ( ₹ )   | Appreciation / (Depreciation) of Indian Rupee in percentage   |
-|-------------------------------------------------------------------------------------------------------|---------------------|---------------------|---------------------------------------------------------------|
-| Average exchange rate during the period:                                                              |                     |                     |                                                               |
-| U.S. dollar                                                                                           | 84.56               | 82.78               | (2.2)%                                                        |
-| Euro                                                                                                  | 90.75               | 89.81               | (1.0)%                                                        |
-| Australian dollar                                                                                     | 55.07               | 54.38               | (1.3)%                                                        |
-| United Kingdom Pound Sterling                                                                         | 108.06              | 104.05              | (3.9)%                                                        |
-|                                                                                                       | Fiscal              | Fiscal              | Fiscal 2024 ( ₹ )                                             |
-| Exchange rate at the beginning of the period: (a)                                                     |                     |                     |                                                               |
-| U.S. dollar                                                                                           |                     | 83.41               | 82.17                                                         |
-| Euro                                                                                                  |                     | 89.88               | 89.44                                                         |
-| Australian dollar                                                                                     |                     | 54.11               | 55.03                                                         |
-| United Kingdom Pound Sterling                                                                         |                     | 105.03              | 101.65                                                        |
-| Exchange rate at the end of the period: (b)                                                           |                     |                     |                                                               |
-| U.S. dollar                                                                                           |                     | 85.48               | 83.41                                                         |
-| Euro                                                                                                  |                     | 92.09               | 89.88                                                         |
-| Australian dollar                                                                                     |                     | 53.81               | 54.11                                                         |
-| United Kingdom Pound Sterling                                                                         |                     | 110.70              | 105.03                                                        |
-| Appreciation / (Depreciation) of the Indian rupee against the currency: ((b) / (a) - as a percentage) | relevant            |                     |                                                               |
-| U.S. dollar                                                                                           |                     | (2.5)%              | (1.5)%                                                        |
-| Euro                                                                                                  |                     | (2.5)%              | (0.5)%                                                        |
-| Australian dollar                                                                                     |                     | 0.6%                | 1.7%                                                          |
-| United Kingdom Pound Sterling                                                                         |                     | (5.4)%              | (3.3)%                                                        |
-
-The following table sets forth information on the foreign exchange rates in U.S. dollar per United Kingdom Pound Sterling, Euro and Australian dollar for fiscal 2025 and fiscal 2024:
-Appreciation /
-(Depreciation)
-of US dollar in
-percentage
-0.9%
-1.5%
-(1.6)%
-Average exchange rate during the period:
-Euro
-Australian dollar
-United Kingdom Pound Sterling Fiscal 2025 ($)
-1.07
-0.65
-1.28
-Fiscal 2024 ($)
-1.08
-0.66
-1.26
-|                                                                                                           | Fiscal 2025 ($)   | Fiscal 2024 ($)   |
-|-----------------------------------------------------------------------------------------------------------|-------------------|-------------------|
-| Exchange rate at the beginning of the period: (a)                                                         |                   |                   |
-| Euro                                                                                                      | 1.08              | 1.09              |
-| Australian dollars                                                                                        | 0.65              | 0.67              |
-| United Kingdom Pound Sterling                                                                             | 1.26              | 1.24              |
-| Exchange rate at the end of the period: (b)                                                               |                   |                   |
-| Euro                                                                                                      | 1.08              | 1.08              |
-| Australian dollar                                                                                         | 0.63              | 0.65              |
-| United Kingdom Pound Sterling                                                                             | 1.30              | 1.26              |
-| Appreciation / (Depreciation) of U.S. dollar against the relevant currency: ((b) / (a) - as a percentage) |                   |                   |
-| Euro                                                                                                      | 0.0%              | 0.9%              |
-| Australian dollar                                                                                         | 3.1%              | 3.0%              |
-| United Kingdom Pound Sterling                                                                             | (3.2)%            | (1.6)%            |
-
-Depreciation of the Indian rupee against U.S. dollar or other currencies affects our margins positively, whereas appreciation  in  the  Indian  rupee  against  U.S.  dollar  or  other  currencies  affects  our  margins  negatively.  The exchange rate between the Indian rupee, other currencies and the U.S. dollar has fluctuated substantially in recent years and may continue to do so in the future. We are unable to predict the impact that future fluctuations may have on our operating margins. For more discussion on our foreign exchange exposure, see Item 3 in the section titled 'Risk Factors - Risks Related to Our Cost Structure Currency fluctuations and changes in interest rates may affect the results of our operations and yield on cash balances ' in this Annual Report on Form 20-F.
-We recorded a foreign exchange loss of $24 million and a foreign exchange gain of $12 million for fiscal 2025 and fiscal 2024, respectively, on account of foreign exchange forward and option contracts and a foreign exchange gain of $55 million and $11 million on translation of foreign currency assets and liabilities for fiscal 2025 and fiscal 2024, respectively.
+If any of our transactions are found to be impermissible avoidance arrangements under GAAR, our business, financial condition and results of operations may be adversely affected.
+The Finance Act, 2023, effective April 1, 2023, increased the tax withholding rate on payment made to nonresidents towards 'royalty' and/or 'fees for technical services' to 20% from 10% (plus applicable surcharge and cess), subject to furnishing of an Indian Permanent Account Number ('PAN') or alternative documents in the absence  of  PAN  by  such  non-residents.  However,  a  lower  rate  may  apply  if  a  Double  Taxation  Avoidance Agreement read along with Multi-lateral Instrument ('MLI') exists. Further, based on a Supreme Court ruling, payment to non-residents for purchase of software are not taxable as royalties as long as such payments are not characterized as royalties under a Double Taxation Avoidance Agreement and will not be subject to withholding as long as relevant tax documents are furnished by such non-residents. As we procure various software licenses and technical services from non-residents in the course of delivering our products and services to our clients, the cost of withholding tax on such purchase of software and services may be of additional cost to us as the Company may have to gross up for such withholding taxes in case relevant tax documents for availing the benefit under the Double Taxation Avoidance Agreement are not furnished.
+We  have  entered  into  Advance  Pricing  Agreements  ('APAs')  in  multiple  jurisdictions  to  provide  greater predictability  regarding  our  tax  obligations  for  our  overseas  operations.  Any  material  changes  to  the  critical assumptions underlying these APAs may have an impact on taxes. When the APAs expire or are under renewal, there is no certainty that they will be renewed. If they are renewed, there is no certainty that they will be on the same or similar terms.
+We operate in various countries and changes in the tax rates or taw laws of any country could have an impact on our taxes. There could be changes in international tax laws and practices as a result of the OECD Pillars of the Inclusive Framework on Base Erosion and Profit Shifting ('BEPS') (including 'global minimum tax' and taxes on digital services), which may impact our tax cost.
+## We operate in jurisdictions that impose transfer pricing and other tax-related regulations on us, and any failure to comply could adversely affect our profitability.
+We are required to adhere to various transfer pricing regulations in India and other countries, as applicable. Additionally, we might be required to comply with the local and municipal tax regime in several jurisdictions wherein we operate, and any failure might have repercussions viz. additional taxes, penalties and enforcement actions  from  such  authorities.  In  the  event  that  we  do  not  comply  with  the  transfer  pricing  and  tax-related regulations diligently, our profitability might get adversely affected.
+## Changes  in  the  policies  of  the  government  of  India  or  political  instability  may  adversely  affect  economic conditions in India generally, which could impact our business and prospects.
+The  Government  of  India  could  change  specific  laws  and  policies  affecting  technology  companies,  foreign investment, currency exchange and other matters affecting investment in our securities which could adversely affect business and economic conditions in India generally, and our business in particular. We are dependent on RBI to pay all our forex expenses and dividend. Any exchange controls regime impacting ability to remit monies will severely impact ability to deliver services and stock prices (dividend). If the Government of India changes its  policies  affecting  SEZs  in  a  manner  that  adversely  impact  the  incentives  for  establishing  and  operating facilities in SEZs, our business, results of operations and financial condition may be adversely affected. Any political instability could delay any further reforms and could adversely affect the market for securities of Indian companies, including our equity shares and our ADSs, and the market for our services.
+## Attempts to fully address concerns of activist shareholders may divert the time and attention of our management and Board of Directors and may impact the prices of our equity shares and ADSs.
+Attempts to respond to activist shareholder queries and concerns in a timely manner and to their full satisfaction may divert the attention of our Board and management and require us to incur significant costs. Such shareholder interactions may also impact our reputation, affect client and investor sentiments and cause volatility in the price of our equity shares and ADSs.
+## Our international expansion plans subject us to risks inherent to doing business internationally.
+Because of our global presence, we are subject to additional risks related to our international expansion strategy, including risks related to compliance with a wide variety of treaties, national and local laws, including multiple and possibly overlapping tax regimes, privacy laws and laws dealing with data protection, export control laws, restrictions  on  the  import  and  export  of  certain  technologies  and  national  and  local  labor  laws  dealing  with immigration, employee health and safety, and wages and benefits, applicable to our employees located in our various international offices and facilities. We may from time to time be subject to litigation or administrative actions resulting from claims against us by current or former employees, individually or as part of a class action, including for claims of wrongful termination, discrimination (including on grounds of nationality, ethnicity, race, faith,  gender,  marital  status,  age  or  disability),  misclassification,  redundancy  payments  under  Transfer  of Undertakings - Protection of Employment (TUPE)-type legislation, or other violations of labor laws, or other alleged conduct. If we are held liable for unpaid compensation, redundancy payments, statutory penalties, and other damages arising out of such actions and litigations, our operating profitability could be adversely affected.
+## Our ability to acquire companies organized outside India may depend on the approval of the RBI and the Government of India and failure to obtain this approval could negatively impact our business.
+The RBI permits acquisitions of companies organized outside of India by an Indian party under the automatic route and without approval if inter alia, the transaction consideration is paid in cash, the transaction value does not exceed 400% of the net worth of the acquiring company as of the date of the acquiring company's latest audited  balance  sheet,  if  the  acquisition  is  funded  with  cash  from  the  acquiring  company's  existing  foreign currency accounts or with cash proceeds from the issuance of ADRs or GDRs, or if the proposed acquisition structure falls under the permitted list. However, any financial commitment exceeding $1 billion or its equivalent in a financial year, or certain types of acquisition structures requires prior approval of the RBI under the approval route, even when the total financial commitment of the Indian company is within 400% of the net worth of the acquiring company as per the last audited balance sheet.
+If we fail to obtain any required approval from the RBI or any other government agency for such acquisitions of companies organized outside India, our international growth may become restricted, which could negatively affect our business and prospects.
+## Indian laws limit our ability to raise capital outside India, which could prevent us from operating our business or entering into a transaction that is in the best interests of our shareholders.
+Indian law relating to foreign exchange management constrains our ability to raise capital outside India through the issuance of equity or convertible debt securities. Generally, any foreign investment in, or acquisition of, an Indian company does not require the approval from relevant government authorities in India, including the RBI.
+However, in a number of industrial sectors, there are restrictions on foreign investment in Indian companies. Changes to the policies may create restrictions on our capital raising abilities. For example, a limit on the foreign equity ownership of Indian technology companies or pricing restrictions on the issuance of ADRs / GDRs may constrain our ability to seek and obtain additional equity investment by foreign investors. In addition, these restrictions, if applied to us, may prevent us from entering into certain transactions, such as an acquisition by a non-Indian company, which might otherwise be beneficial for us and the holders of our equity shares and ADSs.

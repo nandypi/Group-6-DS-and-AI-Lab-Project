@@ -1,341 +1,271 @@
 ---
 document_name: "INFY_30052026201240_SE_Integrated_Annual_Report_2025-26.md"
 group_id: "INFY_30052026201240_SE_Integrated_Annual_Report_2025-26__group_003"
-source_section_count: 4
-page_start: 17
-page_end: 26
-estimated_tokens: 9328
+source_section_count: 2
+page_start: 9
+page_end: 13
+estimated_tokens: 4192
 source_section_ids:
-  - "INFY_30052026201240_SE_Integrated_Annual_Report_2025-26__009"
-  - "INFY_30052026201240_SE_Integrated_Annual_Report_2025-26__010"
-  - "INFY_30052026201240_SE_Integrated_Annual_Report_2025-26__011"
-  - "INFY_30052026201240_SE_Integrated_Annual_Report_2025-26__012"
+  - "INFY_30052026201240_SE_Integrated_Annual_Report_2025-26__005"
+  - "INFY_30052026201240_SE_Integrated_Annual_Report_2025-26__006"
 ---
 
-## Intellectual Capital
-## Material topics
-- Innovation and Intellectual Property
-- Products, platforms and solutions
-- Responsible AI
-
-## Performance highlights
-100 + Client Living Labs 7 Applied Research Centers
-973 Patents (granted / pending)
-2,000 + Infosys Knowledge Institute assets
-## Trademark for Infosys in India
-## 'Well Known'
-## Rating for iCETS platforms by
-analysts
-## Industry leader
-#1 Rating in AI 430 + startups Accounted for 1,300+ client impressions by Our Intellectual Capital is driven by agility, flexibility, and innovation. We are committed to working with experts, partners, academia, and other stakeholders to develop new products and services that meet the needs of our customers and communities. We are also focused on strengthening our Tech for Good solutions and providing an environment to incubate new businesses and scale startup-led offerings.
-With iCETS, Living Labs, Infosys Innovation Network, and Infosys Business Incubator, we have a broad portfolio of offerings across industry segments, while the Infosys Prize and the Aarohan Social Innovation Awards provide a platform for innovators and social entrepreneurs, respectively.
-## Infosys Center for Emerging Technology Solutions (iCETS)
-iCETS is the emerging technology incubation unit for Infosys, delivering next-generation platforms and innovation-as-a-service powered by New Emerging and eXploratory Technologies (NEXT).
-Driving next-generation innovation: As AI adoption accelerates, generative AI is scaling from experiments to enterprise deployment, transforming how businesses operate and innovate. iCETS leads this shift by enabling enterprises to apply emerging technologies through a structured, outcome-driven approach.
-A structured innovation journey: Now, Near, and Next: iCETS innovation framework is grounded in a clear and scalable model that balances long-term vision with immediate business impact:
-## Now
-Platforms and ecosystems: Driving enterprise-scale value through reusable platforms, accelerators, and integration capabilities that operationalize AI at scale. Together, these pillars form a cohesive approach that transforms ideas into measurable business outcomes. At the core of our 'Now' strategy is Infosys Topaz Fabric - composable and interoperable AI agents, tools, services, and models. The stack enables organizations to optimize existing IT processes and eliminate or automate manual tasks. It helps enterprises build on existing investments through a platform-ofplatforms approach, unlocking value across the enterprise landscape.
-## Near
-Living Labs: Bringing innovation to reality through co-creation, rapid prototyping, and real-world validation, Living Labs enable clients to contextualize, experiment, iterate, and de-risk innovations in controlled environments.
-Infosys Living Labs are global innovation hubs where clients, partners, startups, and academia co-create solutions using emerging technologies.
-## Client Living Labs deliver
-Innovation-as-a-Service, enabled by three flagship programs: IncubateNext for scalable, real-world innovation; ImagineNext for future opportunity discovery; and SenseNext for converting early market and technology signals into action.
-## Next
-## Applied Research Centers (ARC):
-We innovate across Advanced AI, New Interaction Models, Cybersecurity, Autonomous Machines, Humanoids, and Quantum - bringing research-driven emerging technologies into enterprises for real client impact.
-## Nurturing innovation
-Be The Navigator (BTN) empowers our teams to develop innovative solutions for our valued clients with a structured framework for ideation, prototyping and incubation. 12,435 BTN ideas were submitted, 2,429 implementations have been completed and 1,101 are in progress.
-## Infosys Innovation Network (IIN)
-is a well-orchestrated partnership of select startups, universities, hyperscalers and Infosys to incubate and bring the best of innovations in emerging tech areas such as AI, gen AI, data, fintech, cloud, cybersecurity, InsurTech and more, from across the globe. Today, IIN boasts of 430+ startups that have generated 1,300+ client impressions.
-## Infosys Business Incubator (IBI)
-is designed to create and scale entrepreneurship capabilities within Infosys with next-generation micro platform and micro service line-led businesses for Infosys. The incubator curates new cohorts of businesses each year to sustain and nurture talent. IBI has engaged with 1,000+ entrepreneurs and five ventures have been selected for incubation from cohort 1 and three from cohort 2.
-Be A Maker program offers opportunities for showcasing creative expressions of ideas in a phygital mode. This program, mentored by ENGG, Kaleidoscope, and iCETS, enables rapid innovation and iterative learning through direct feedback from experts. 200+ ideas have been generated and five phygital showcases have been created for clients.
-## Infosys Knowledge Institute (IKI)
-IKI is the business research and thought leadership arm of Infosys. IKI harnesses the intellectual capital of Infosys' experts and client collaborations to produce novel, distinctive content and insights on the business impact that technology can drive for enterprises. IKI also develops proprietary data and insights through primary research, including large-scale surveys and quantitative analysis. These are published through its flagship Radar maturity reports, the annual Tech Navigator report and ongoing TechCompass tech trends series, and industry-focused market outlooks and executive journals. IKI has collaborated with over 1,000 clients and created over 2,000 assets since inception. For more information, visit https://infosys.com/iki.
-## Product innovation
-Infosys Topaz AI Next: Infosys Topaz AI Next is a unified AI platform designed to enable AI-driven orchestration of complex, multiagent enterprise workflows across humans, AI agents, and enterprise systems. It combines EdgeVerve's product innovation with Infosys' global scale to transform both enterprise operations and core business functions. Read more at https://www.edgeverve.com/ai-next.
-## IP , patents and trademarks
-Infosys actively innovates and develops platforms, products and tools that constitute its collection of IP assets. These assets, available on the Infosys Marketplace, are used to differentiate ourselves in the market or as productivity-enhancing tools. We have 973 patents (granted / pending) in the portfolio. Over 900 trademarks registered (or pending) across 51 countries underscore the strength of our brand.
-'Well Known': Infosys is regarded by Indian authorities as a 'Well Known' trademark.
-Most valuable brand: Infosys is the fastest growing IT services brand globally with a CAGR of 15% in brand value and maintains leadership as a global Top 3 IT services brand.
-## #1 rating in AI
-We have been identified as a global leader in 16 AI rankings by various industry analysts. We have successfully delivered over 400 generative AI projects with Infosys Topaz. Our AI work spans a wide spectrum of priority areas, including process improvement, engineering, customer service, cybersecurity, and employee productivity. We have built four small language models for banking, IT operations, cyber and enterprises broadly.
-## ESG solutions
-Anchored in sustainable governance and enterprise-wide advisory, the Infosys Sustainability offerings span ESG strategy, data management, and reporting; sustainable operations and responsible value chains; Green IT; smart and green buildings; energy transition and decarbonization; sustainable finance; and sustainability adoption through digital skills. Our sustainability revenues stood at 36% in FY26. Read more in the ESG report.
-## Natural Capital
-## Material topics
-- Carbon neutrality
-- Renewable energy
-- Offsets for community development
-- Advocacy for climate action
-- Water stewardship
-- Zero waste to landfill
-
-## Carbon neutral for 7 years in a row
-Share of renewables in our India operations
-81.8 %
-Number of saplings planted through agroforestry program
-~ 14 mn
-Rural families benefited through carbon offset programs
-3,00,000 +
-Wastewater recycled within our campuses Long before climate change emerged as a global boardroom priority, Infosys recognized that natural capital is integral to long-term value creation. Our approach to environmental stewardship is holistic, science-driven, and anchored in responsible growth.
+## Letter to the Shareholder Performance overview
+## Salil Parekh
+Chief Executive Officer and Managing Director
+## Dear shareholder,
+Last year marked an inflection point as AI began evolving from experimentation to enterprise-scale adoption. At Infosys, we acted early and decisively to lead this transition - shifting our portfolio, investing in talent, and scaling partnerships to help clients unlock value from AI at speed and scale. Infosys is emerging as a leader in AI services, with AI-led programs now deployed across 90% of our top 200 clients and rapidly scaling across industries .
+Infosys is well-positioned as the leading company for AI services.
+Our AI strategy is built on six core pillars of our AI-First value framework - strategy &amp; engineering, data, process, legacy modernization, physical AI, and trust - together addressing a US$300 billion opportunity, based on market estimates. These capabilities enable clients to accelerate growth programs and reimagine their legacy systems landscape, support data and process readiness, and deploy AI responsibly.
+For Q3, we shared that our revenue from these six areas was 5.5% of our total revenue and growing at a significantly faster pace than the company. We are executing on our strategy of pivoting to AI services at speed. We have built strong partnerships with leading AI native companies and have a large base of employees trained on their foundation models. This is resulting in accelerated enterprise deployment helping our clients to unlock AI value at scale. Our focus is to continuously re-skill our over 3,25,000 employees on AI .
+We are advising clients across a wide range of AI powered transformation programs. Some of the key areas of interest from our clients include rapid AI adoption for coding and code modernization as well as for building agents across business functions .
+We are harnessing the power of our industry-leading AI Suite, Infosys Topaz to help enterprises accelerate growth and productivity from AI. Our purpose-built composable stack of services and agents in Topaz Fabric enables our clients to leverage the full benefit of different foundation models in a token-efficient manner maximizing value while minimizing cost and risk.
+Our clients' trust in Infosys, our deep knowledge of their technology landscape, our market leading offerings, our innovation track record, and our comprehensive understanding of AI, make us an ideal partner and a navigator for our clients' AI programs.
+Our disciplined execution delivered over US$20 billion in revenue, a strong adjusted operating margin of 21%, and US$3.7 billion in free cash flow - enabling us to return over US$4 billion to shareholders through dividends (US$2.1 billion) and share buybacks (US$2 billion). We announced a total dividend of ₹ 48 per share. Last year we recruited over 20,000 college graduates.
+Infosys continues to be the leading partner for some of the largest business transformation programs worldwide. Last year we had large deals of US$14.9 billion enabling us to set-up a growth foundation for the coming year.
+We also launched a focused growth program on working with large global companies where Infosys has a smaller share of the client spend. This program has delivered remarkable results already and is rapidly developing into a key growth driver for the company.
+Cloud and Data expertise continue to be the key foundation for AI powered transformation. Our early investments in Cobalt and our Data and Analytics portfolio have positioned us well to capture the rapidly expanding market opportunity.
+In the past year we were recognized as the fastest-growing IT services brand in the world by Brand Finance, for the sixth year. We were recognized as one of the most ethical companies in the world by Ethisphere. LinkedIn named us the number one employer in India.
+Our commitment to society remains integral to our strategy. Our focus remains on skilling and livelihoods, healthcare, and sustainability. In the past year the Infosys Foundation impacted over seven million people in India. Springboard, our education platform, provided free digital learning programs for 10 million people across the world.
+Our over 3,25,000 employees are the foundation of our success. My thanks to them for their absolute commitment in making our clients successful.
+As I look ahead, I firmly believe that AI will create massive impact - and confident that Infosys is uniquely positioned to help our clients lead this transformation. With a clear strategy, strong execution, and deep client trust, we are well placed to unlock value for our clients.
+With my warmest regards, Sd/-
+Bengaluru May 23, 2026
+Salil Parekh Chief Executive Officer and Managing Director
+## Awards and recognitions Performance overview
 <!-- image -->
-We are advancing decisively towards climate positivity through our Reduce and Restore strategy.
-## Advancing climate positivity
-In FY26, Infosys continued to advance its journey from carbon neutrality to climate positivity. By integrating efficiency, clean energy, and carbon sequestration with regenerative, nature-based solutions, we are moving beyond emissions reduction to creating net positive environmental outcomes. The initiatives that follow reflect our commitment to Reduce and Restore - strengthening resilience across operations, value chains, and ecosystems.
-## 1. Energy efficiency and lowcarbon approach
-Infosys continues to lead in energy efficient, low-carbon infrastructure, embedding efficiency across the full life cycle of our buildings. Our campuses leverage advanced technologies such as radiant cooling, radiant heating, innovative climateadaptive cooling, intelligent controls, and climate-responsive design, enabling sustained reductions in operational energy demand.
-Today, 84% of our office space is certified to the highest green building standards.
-## 2. Renewable energy
-Infosys continued to accelerate its clean energy journey, strengthening resilience while navigating an evolving regulatory and policy landscape. We have installed 62.42 MWp of solar photovoltaic capacity through a mix of rooftop- and ground-mounted systems, reducing dependence on conventional energy sources and enhancing onsite generation.
-Complementing this, we increasingly procure renewable power through third-party power purchase agreements and green tariff mechanisms, adapting our sourcing strategy to align with changing regulations across geographies.
-## 3. Decarbonizing the supply chain
-We are working closely with our supplier ecosystem to decarbonize the value chain. We have prioritized engagement with high-emission IT hardware suppliers through onsite assessments and seniorlevel dialogues to strengthen alignment on decarbonization roadmaps. We supported suppliers in improving Scope 1, 2, and 3 emissions measurement, establishing robust baselines, and adopting verified Environmental Product Declarations. Ongoing handholding and performance tracking continue to help embed climate action into supplier operations, reinforcing a resilient, future-ready, and responsible supply chain.
-## 4. Carbon offsets and regeneration
-We address unavoidable emissions through community-centric, highquality carbon offset programs, including clean cookstove initiatives in Rajasthan and biogas projects in Maharashtra and Karnataka. Complementing offsets, Infosys has built one of India's largest corporate agroforestry programs, with around 14 million saplings planted across multiple states. These long-term plantations enhance carbon sequestration, improve soil and water resilience, and strengthen rural livelihoods - marking a decisive shift from compensation to ecological restoration at scale.
-To date, these initiatives have benefited over 3,00,000 rural families and created more than 4,800 local jobs, delivering climate action with strong social benefits.
-## Water stewardship
-Water stewardship continues to be a core pillar of our environmental strategy, with sustained progress in reducing freshwater withdrawal and strengthening local water ecosystems. As a UN CEO Water Mandate signatory, we remain focused on minimizing consumption, maximizing reuse, and enhancing water availability in the communities where we operate.
-100% of wastewater across our campuses is recycled, supported by large-scale rainwater harvesting systems and demand-side efficiency measures. Together, these interventions have further reduced our reliance on external water sources and strengthened resilience to increasing water stress. Our Bangalore campus is certified as water positive. In continuation of our efforts on achieving water positive / neutral status based on NITI AAYOG guidelines in our campuses, we achieved Scope 1 certification at nine of our campuses in India this year reflecting consistent performance over time.
+Recognized as one of the World's Most Ethical Companies by Ethisphere for the 6 th  consecutive year
+## ESG
+- Infosys recognized as one of the World's Most Ethical Companies in 2026 for sixth consecutive year by Ethisphere
+- Recognized as a Silver Employer in the India Workplace Equality Index (IWEI) 2025 for championing inclusion and being a strong ally of the LGBTQIA+ community
+-  Awarded the Compliance Leader Verification™ by Ethisphere for its commitment to fostering a strong culture of integrity, accountability, and responsible governance across its global operations
+- Infosys Foundation &amp; Infosys ESG Annual Report FY2425 received the Gold Stevie® Award in the categories of Best Annual Report - Non-Profit Organizations and Other Publication - Company . Infosys Integrated Report secured the Silver Stevie® Award for Best Annual Report - PubliclyHeld Corporations at the 22nd Annual International Business Awards®
+- Recognized among the top 10 in the newly launched category of Best Companies for ESG in India in 2025 by Avtar &amp; Seramount
+- Recognized as one of the Best Companies for Women in India in the Hall of Fame for the seventh consecutive year and the 2025 Avtar &amp; Seramount Best Companies for Women in India in the IT sector
+- Honored with the Exemplars of Inclusion in the Most Inclusive Companies Index 2025 by Avtar &amp; Seramount
+- Placed in the leadership category in the Indian Corporate Governance Scorecard Assessment undertaken by Institutional Investor Advisory Services (IiAS) for the 10th year in a row
 
-## Lake rejuvenation
-Extending our water stewardship beyond campus boundaries, we continue to implement lake rejuvenation projects in partnership with local stakeholders. Till date, our lake rejuvenation efforts increased cumulative storage capacity from 6 bn liters to 10.3 bn liters, adding 4.3 bn liters of freshwater capacity contributing to urban resilience, biodiversity revival, and community water security. This effort remains central to our goal of climate positivity, restoring more water than we consume.
-## Waste management
-At Infosys, our waste management strategy continues to be anchored in the principles of reduce, reuse, refurbish, repurpose, and recycle with steady progress toward our ambition of zero waste to landfill. We continue to strengthen segregation, onsite processing, and material recovery across our campuses, further embedding circularity into daily operations.
-Organic waste continues to be treated onsite through biogas plants, composting and recycling mechanisms, minimizing offsite disposal and associated emissions, and also replacing a part of cooking gas requirements in our campuses. These sustained efforts have enabled consistent improvements in diversion rates and operational efficiency
-Our e-waste includes IT equipment, mobile phones, printers, cartridges, electrical and electronic equipment such as refrigerators, microwaves, and air conditioners, lithium ion batteries, and cables, among others. We strive to extend asset life through hardware upgrades, component replacements, and re-imaging. Our progress is aligned with the TRUE
-Zero Waste certification framework, reinforcing transparency and best-inclass waste management practices. 11 campuses across Infosys India have achieved TRUE Zero Waste certification, reflecting the scale and consistency of our circular economy approach across geographies.
-## Biodiversity
-We are strengthening biodiversity stewardship across campuses through native plantation, habitat enrichment, and knowledge sharing through our annual event BioConserve. In FY26, we launched the BioConserve platform - a digital, open repository designed to share resources, best practices, and research on biodiversity conservation.
-## ASSURE
-Launched in partnership with the Indian Institute for Human Settlements (IIHS) in April 2024, Accelerating Sustainable Super Efficient Real Estate (ASSURE) is a multi-stakeholder platform that enables the replication of climate resilient, energy-efficient buildings across India, with a target of 100 million sq.ft. by 2030.
-This year, ASSURE progressed from concept to on-ground impact, with over 15 million sq.ft. of commercial buildings across India onboarded as lighthouse projects, demonstrating scalable pathways for super-efficient real estate in high-energy-intensity sectors. In addition, over 1,250 students and practitioners were upskilled on high performance buildings through webinars, inperson workshops and site visits. The initiative brings together policymakers, developers, experts, and industry leaders to advance performance measurement, skills, policy, and financing mechanisms. Read more in the ESG report.
-## Manufactured Capital Delivering value
-## Material topics
-- Green buildings / infra / data center efficiency
-- Workplace transformation
+One of the top 10 best companies for ESG in India
+-  Recognized among the Most Inclusive Organizations for Women in Tech in the IT Service category at the Wequity Award
+- Won two bronze awards at the 39th International ARC Awards for its Annual Reports FY24-25 in the categories of Integrated AR &amp; ESG: India and ESG - Environmental, Social &amp; Governance Report: Other Countries . Infosys Foundation won gold for its Annual Report FY24-25 in the category of Non-Profit Organization (Online A.R.): CSR - Corporate Social Responsibility Report.
+-  Infosys BPM received the 9th Edition Women Empowerment Summit and GIWL Awards for Best Organization for Women Empowerment
+- Infosys ranked number 1 on LinkedIn Top Companies India 2026.
 
-Our Manufactured Capital includes our energy-efficient offices, data centers, innovation hubs, digital studios, and our technology infrastructure across the globe. Our infrastructure is modeled taking into consideration stakeholder expectations of our commitments towards climate change mitigation, judicious use of natural resources and preserving our environment.
-- Green IT
+## BUSINESS
+- Infosys recognized as a Top 100 most valuable brand in the world by Kantar BrandZ and ranked among the mosttrusted brands in India and the US
+- Recognized as a Top 3 IT services brand and the fastest growing IT services brand globally in the Brand Finance Global 500 2026 report
+- Recognized as one of the World's Best Companies 2025 by TIME and Statista for its excellence in employee satisfaction, revenue growth, and sustainability transparency
+- Recognized among the World's Most Trustworthy Companies 2025 by Newsweek and Statista
+- Recognized as a Global Top Employer 2026 for the sixth consecutive year by the Top Employer Institute
+- Recognized among LinkedIn's Top Companies 2025 in India, USA, and Canada
+- Honored with awards at The Asset Corporate Sustainability Leadership Awards 2025. Categories include the Platinum Award for Excellence and Best Investor Relations Team
+- Recognized as one of the top 3 companies (on combined basis) in 5 categories - Best CEO, Best IR Professional, Best IR Program, Best IR Team and Best ESG Program - at the 2025 Asia Executive Team Survey by Extel (formerly Institutional Investor Research)
+- Won multiple awards from FinanceAsia, including Best CFO, Best Investor Relations, and Best Large Cap Company
+- Recognized for its people-first approach at the SHRM India HR Excellence Awards 2025
+- Recognized among India's Best Employers Among Nation Builders 2025 by Great Place To Work®
+- Infosys China recognized as one of the Best Workplaces™ in Greater China 2025 by Great Place To Work™
+- Infosys China recognized as the Leading Digital Service Providers 2025 - Top 100 by China Council for International Investment Promotion
+- Infosys BPM recognized as a Global Top Employer 2026 by the Top Employers Institute
+- Infosys BPM won the PeopleFirst HR Excellence Awards 2025 for Leading Practices in Learning &amp; Development
+- Infosys BPM received the 20th Edition Future of L&amp;D Summit and Awards 2025 for Best Digital Learning initiative
+- Infosys BPM received the Brandon Hall HCM Excellence Learning and Development Awards for Best Learning Strategy
+- Awarded the Gold Shield in CategoryVIII - Service Sector (Other than financial services sector) at the ICAI Awards for Excellence in Financial Reporting 2024-25 for its commitment to excellence in financial reporting, transparency and adherence to the highest standards of accounting practices
+- Infosys has been awarded the Bronze Stevie® Award for Innovation in Investor Relations.
 
-## Performance highlights
-Radiant cooling solution patented in Europe and India
-## Radiflux
-Avoided plastic and thermocol in IT equipment purchase this year
-5.7 tons
-## Office area certified with highest green building rating
-84 %
-Office space monitored through Infosys command center
-## 40 mn sq.ft.
-Building sector decarbonization initiative
-## ASSURE
-With a growing portfolio of highest-rated green buildings and accelerated investments in intelligent, collaborative workplace technologies, we are elevating the quality of our hybrid work environments. We continue to lead from the front, redefining benchmarks in environmental sustainability and future-ready infrastructure.
-## Advancing the frontiers of energy performance
-Through progressive design strategies, enhanced building envelopes, intelligent HVAC systems, and seamless integration of renewable energy, we continue to expand what high-performance buildings can achieve. The use of high-performance materials with recycled content, passive design principles, and real-time monitoring enables reduced energy intensity while improving occupant well-being.
-Guided by our six core principles - health and wellness, social connect, sustainability, inclusivity, and technology enablement - our campuses are transforming into dynamic ecosystems that cater to varied work patterns, emerging capabilities, and an enhanced employee journey. Environmental stewardship is integrated through efficient interior solutions, sustainable materials, enhanced lighting and air quality, along with intelligent digital systems that minimize ecological footprint while improving usability and comfort, ensuring accessibility for all.
-Infosys campuses, known for their world-class infrastructure and green spaces, offer a distinctive workplace experience for employees. With
-84% of our office spaces certified as green buildings, we strive to redefine benchmarks in sustainable infrastructure, while delivering worldclass, sustainable workplaces.
-## Embedding circularity and innovation in design
-As a key participant in the built environment, we recognize the importance of addressing embodied carbon, which remains a significant contributor to the life cycle emissions of buildings. We continue to integrate Life Cycle Assessment (LCA) into early-stage decision-making to support responsible material selection and design optimization.
-Steel and cement, which account for nearly 70% of embodied carbon in office buildings, have been primary focus areas. We have prioritized the procurement of secondary steel produced from recycled scrap, which has a significantly lower emission intensity (1-1.5 tCO2e/t compared to 2.5-3.5 tCO2e/t for primary steel). Further, we have optimized cement use through blending with industrial by-products such as fly ash and ground granulated blast furnace slag.
-While advancing thermal management in our office buildings through innovative technologies such as radiant heating and free cooling under favorable climatic conditions, we have standardized the procurement of air-conditioning equipment using refrigerants with very low global warming potential as a regular practice.
-We strengthened our circularity efforts by eliminating plastic and thermocol-based packaging for IT equipment and embedding sustainable packaging criteria into our procurement processes. Partnering closely with suppliers, we transitioned to paper-based, recycled, and biodegradable fibre alternatives, including materials derived from agricultural waste - demonstrating a shift from operational waste management to design-led circularity.
-## Resource circularity in operations
-Our Circular Economy initiatives focus on responsible utilization of IT assets, ensuring maximum value extraction across the asset lifecycle while minimizing environmental impact. We adopt a structured approach to extend asset life through reuse, redeployment, and refurbishment, thereby reducing e-waste generation and the demand for new resources.
-A strong emphasis is placed on repurposing and reuse of IT assets across functions and delivery centers, enabling optimal utilization and avoiding premature disposals. Assets that reach the end of their usable life are handled through responsible end-of-life management.
-## Green IT
-InfosysIT has embedded sustainable practices across the life cycles of service design, operations, and disposal of IT assets.
-## Data center efficiency
-InfosysIT has positioned data center modernization as one of the key pillars of its sustainability and responsible growth strategy. Recognizing the environmental impact of traditional infrastructure models, the organization has architected its data center ecosystem to prioritize efficiency, scalability, and long-term resource optimization.
-This transformation is enabled through the adoption of density-optimized hyperscale platforms that enable cloud-scale agility and high-density server virtualization. This approach has significantly reduced infrastructure sprawl while maximizing utilization of compute resources, embedding sustainability principles directly into core IT operations.
-Building on this modernized platform, InfosysIT rationalized and consolidated data centers and server rooms across development centers. This consolidation effort reduced redundancy, optimized space usage, and enabled a more sustainable operating footprint.
-To ensure sustainability gains are continuously improved, InfosysIT has made focused investments in Data Center Infrastructure Management (DCIM) capabilities. These tools provide integrated, real-time visibility across both IT and facilities infrastructure, enabling data-driven decisions, proactive optimization, and informed consolidation planning. By embedding observability and governance into the operating model, InfosysIT ensures that sustainability outcomes are measurable, repeatable, and scalable over time.
-## Infrastructure as code
-Infrastructure as a code is a transformational initiative towards enabling continuous deployment, integration, and touch-less life cycle management of infrastructure components. This methodology enabled us to overcome common challenges associated with traditional infrastructure management, demand at scale, speed and consistency of deployment with interdependence between teams. As a result of this transformational initiative, a substantial number of playbooks are developed to automate platformrelated processes.
-## AIOps-powered digital operations
-InfosysIT leverages a modern AIOps platform with intelligent noise suppression and context driven notifications. The solution delivers unified observability across infrastructure landscape, while enabling visibility into capacity usage and cost efficiency. It processes high volume data from diverse IT sources to support proactive and informed operations.
-## Public cloud adoption
-The organization has largely transitioned its internal IT applications to the public cloud, enabling scalable, on-demand infrastructure and reducing reliance on on premises data centers. Employees are empowered with cloud based collaboration and secure access solutions that enhance hybrid work experiences.
-The IT Service Management (ITSM) landscape adopts a standardized, AI enabled service-desk on a SaaS hosted platform. This advancement has delivered standardization in operational processes, enhanced automation, and improved overall user experience across all support services, enabled the use of AIassisted agents to further strengthen the employee experience, effeciency and effectiveness.
-## Social and Relationship Capital Delivering value
-## Material topics
-- Client value
-- Inclusive development
-- Digital skilling
-
-## UN SDG mapping
-Our Social and Relationship Capital guides us to bring the interests of our stakeholders to the fore. As enterprises focus on reshaping their businesses in the digital era, we are helping our clients drive transformation. Our social ambition focuses on serving the development of people by shaping a future with meaningful opportunities for all. We deliver on expectations of nurturing social innovations and enabling employability through skill training of communities.
 <!-- image -->
-## Performance highlights
-104 Infosys Prize winners since 2008
-Corneas harvested as part of our cornea care program in FY26
-15,000 +
-## Learners enabled in digital skills
-mn +
-15
-## Global CSR spends
+## ARTIFICIAL INTELLIGENCE
+- Infosys positioned as a leader in Gartner® Emerging Market Quadrant TM  for -
+- -Generative AI Consulting and Implementation Services
+- -Innovation Guide for Generative AI Consulting and Implementation Services
+- Recognized as a leader in The Forrester Wave TM  for -
+- -AI Technical Services, Q4 2025
+- Rated as a leader in IDC MarketScape for -
+- -Worldwide Artificial Intelligence Services 2025
+- -Worldwide Life Science R&amp;D AI and GenAI in Clinical Trials 2025
+- Featured by Constellation Research in
+- -Cross Platform Agentic AI 2025
+- -Artificial Intelligence and Machine Learning Best-of-Breed Platforms
+- -AI-Driven Cognitive Applications
+- -AI Services: Global
+- -Cross-Platform Agentic AI 2026
+- Recognized as a leader in HFS Horizons for -
+- -Agentic Services, 2026
+- Positioned as a leader by Everest Group in -
+- -Data and Analytics (D&amp;A) Services PEAK Matrix® Assessment 2025
+- Rated as a leader by NelsonHall in -
+- -GenAI and Process Automation in Banking 2025
+- -Quality Engineering 2025
+- Rated as a leader by PAC -
+- -INNOVATION RADAR SAP Business AI and Joule-related Service Worldwide 2026
+- -INNOVATION RADAR SAP Business AI and Joule-related Service in Europe 2026
+
 <!-- image -->
-Suppliers (by value of business) assessed on ESG
-91.64 %
-Our global CSR efforts address challenges across education, skilling and livelihood training, healthcare, women empowerment, science and research, environmental sustainability and more.
-## Creating value for our customers
-remains strong, with 91% of clients reporting high satisfaction scores and responses from 86% of accounts.
-## AI-first digital transformation
-We help our clients accelerate their business transformation through our AI-first value framework. Our suite of services and solutions can deliver meaningful and sustainable business impact across six strategic pillars - Orchestrate, Insight, Transform, Modernize, Innovate and Assure. The pillars are deeply integrated and together, they provide a structured path to orchestrate data, technology, and operations at scale. Our approach enables clients to navigate the full AI journey with confidence, speed, and value realization. Details of our key customer services and solutions are available at
-https://www.infosys.com/industries/.
+## Awards and recognitions
+- Infosys EdgeVerve recognized as the Company of the Year with Silver Stevie® Awards in two categories: i) Artificial Technology for the flagship platform, Infosys EdgeVerve AI Next, and ii) Business Technology for enterprise transformation
 
-## Client satisfaction
-At Infosys, delivering value to our clients is at the center of everything we do. We conduct structured Annual Client Value and Quarterly Engagement surveys. These surveys are designed to enhance our understanding of our relationships with client organizations, prioritize areas for improvement, and remain attuned to their evolving needs. The latest annual client survey indicates that overall client experience Infosys is viewed as a trusted longterm partner, differentiated by strong account management, partnership orientation, and consistent delivery excellence supported by experienced subject-matter experts.
-Tenured client relationships reinforce trust and business alignment, while proactive AI, automation, and strategic technology advisory are increasingly recognized as value drivers.
-Clients indicate an expectation for forward-looking, business-led AI advisory to support the evolution of AI roadmaps, identification of high-value use cases, and scalable business outcomes, with Infosys viewed positively in this context.
-## Client satisfaction: Trend of key outcomes (scale 1 to 7)
+## CLOUD
+- Infosys positioned as a leader in Gartner® Magic Quadrant TM for -
+- -Public Cloud IT Transformation Services
+- Recognized as a leader in IDC MarketScape for -
+- -Asia/Pacific Professional and Managed Services for Microsoft Azure 2025 Vendor Assessment
+- -Asia Pacific Oracle Implementation Services 2025 Vendor Assessment
+- Rated as a leader by Everest Group in -
+- -Microsoft Modern Work Services and Talent Readiness for Next-generation Application Services PEAK Matrix® Assessment 2025
+
+## Rated as leader by Gartner, IDC and Everest
+## DIGITAL
+- Infosys positioned as a leader in Gartner® Magic Quadrant TM for -
+- -Custom Software Development Services
+- Recognized as a leader in IDC MarketScape for -
+- -Asia/Pacific Application Modernization Services to AWS 2025 Vendor Assessment
+- -European Human First Digital Workplace Services 2025 Vendor Assessment
+- -India IT/Digital Transformation Services for Public Sector 2025 Vendor Assessment
+- -Worldwide IT and Engineering Services for SoftwareDefined Vehicles 2025 Vendor Assessment
+- -Worldwide Industrial IoT End-to-End Engineering and Life-Cycle Services 2025 Vendor Assessment
+- -Intelligent Supply Chain Services, 2025
+- -Worldwide Supply Chain SAP Ecosystem Services 20252026 Vendor Assessment
+- -Worldwide Supply Chain Oracle Ecosystem Services 20252026 Vendor Assessment
+- -Worldwide Supply Chain Blue Yonder Ecosystem Services 2025-2026 Vendor Assessment
+- -Worldwide Supply Chain Overall Ecosystem Services 2025-2026 Vendor Assessment
+
 <!-- image -->
-## Community
-## Digital skilling at scale
-Infosys Springboard is Infosys' flagship digital learning platform that empowers people with skills to be successful in the 21st century. Till date, we have reached 15 million+ people including employees, client's workforce, students, teachers and communities with digital skilling initiatives.
-## Infosys Foundation
-Infosys Foundation has touched over 7 million lives in the last year alone through its programs in the areas of education, healthcare, women empowerment, and environmental sustainability, among others, to create long-lasting impact. Recognizing that social innovations from the heart could transform societies, the Foundation launched the Aarohan Social Innovation Awards in 2018, which has completed four editions so far.
-## Infosys Springboard Livelihood Program
-In 2024, Infosys Foundation launched the Infosys Springboard Livelihood Program, aligning with the Company's ESG ambition to create employment opportunities for 5,00,000 people by 2030. The program partnered with multiple implementation agencies working across rural belts, tribal regions, aspirational districts, urban slums, ITIs, and colleges. So far, the program has trained over 4,10,000 individuals, and 2,20,000+ individuals have been enabled with job offers across STEM and non-STEM roles.
-## Cornea care initiatives
-Infosys Foundation has partnered with the LV Prasad Eye Institute (LVPEI) for the Universal Cornea Care Mission. It is designed to strengthen cornea care delivery from early detection and treatment / surgery to eye banking and long-term follow-up. During FY26, the initiative reached 1,74,659 beneficiaries, conducted 2,28,334 school screenings, and supported the harvesting of 15,911 corneas. It is being implemented across Andhra Pradesh, Odisha and Telangana. The Foundation is also supporting Project Cornea - Corneal Blindness Screening and Treatment Initiative, implemented by Vivekananda Netralaya, a part of Ramakrishna Mission Ashrama, Dehradun. The initiative that began in August 2025, covering Uttarakhand (Garhwal region) and adjoining districts of Western Uttar Pradesh, Haryana, and Himachal Pradesh, has so far screened 15,270 individuals. Read more in the Foundation's annual reports at https://www.infosys.com/ infosys-foundation/about/reports. html.
-## Infosys Foundation USA
-Infosys Foundation USA is committed to expanding access to inclusive computer science education and digital upskilling opportunities for all learners. Through targeted programs, strategic partnerships, and continued innovation of the Infosys Springboard digital learning platform. The Foundation reached more than 1.26 mn students and 16,000 educators in fiscal 2026 and impacted over 27 mn students and 1.4 mn educators, since its inception in 2015. Read more https://www.infosys.org/ infosys-foundation-usa.html.
-## CSR in EMEA region
-Our CSR charter outlines how Infosys strives to be a force for good across Europe through the five core pillars viz., Digital Inclusion, Transformational &amp; Innovative Partnerships, Education in Emergencies, Employee Engagement and Social Impact
-## Thought Leadership. Read more:
-[https://www.infosys.org/europe.html.](https://www.infosys.org/europe.html)
-## CSR in APAC region
-Our focused CSR strategy in the APAC region prioritizes education, reskilling, and digital inclusion. We collaborate with local partners to deliver impactful programs that support underserved communities, nurture future leaders, and enable employee volunteering. Read more: https:// www.infosys.org/australia.html.
-## Infosys Science Foundation
-The Infosys Science Foundation awards the annual Infosys Prize that endeavors to elevate the prestige of science and research in India. Since 2008, the Prize has been awarded to 104 researchers. Each Prize carries a gold medal, a citation, and a purse of US$100,000.
-The winners of the Infosys Prize 2025 included a scientist working on a new way of producing ammonia with a largely reduced carbon footprint, a scholar of Prakrit and Kannada who is working on translating a seminal text in early Kannada, and an economist working on market design problems around kidney exchange programs. Read more at https://www. infosysprize.org/about-isf.html.
-## Suppliers
-Infosys believes in and is committed to partnering with the highest quality suppliers to ensure that we deliver best- of-breed business and IT solutions to our clients. As a signatory to the United Nations Global Compact (UNGC), Infosys leverages the UNGC principles covering human rights, labor, environment, and anti-corruption as foundational principles for building and improving its sustainable supply chain practices. Read more in the ESG Report 2026.
-62
-## Statutory Reports
-Infosys Integrated Annual Report 2025-26
+## Leader in worldwide supply chain ecosystem services
+- Featured by Constellation ShortList TM  in
+- -Customer Experience (CX) Design &amp; Execution Services - Global
+- -Digital Transformation Services (DTX) - Global
+- -Customer Experience (CX) Operations Services Global
+- -ER&amp;D
+- -Microsoft End-to-End Service Providers
+- -Innovation Services and Engineering
+- -Cybersecurity Services
+- -Custom Software Development Services
+- -Learning Marketplaces
+- Rated as leader by Avasant in -
+- -Utilities Digital Services 2025 RadarView™
+- -Global Competency Center (GCC) Services 2025 RadarView™
+- Positioned as a leader in HFS Horizons for -
+- -The Best of Engineering Research and Development Service Providers, 2025
+- -Legacy Application Modernization Services, 2025
+- -Enterprise Blockchain Services, 2025
+- -Digital Marketing and Sales Services, 2025
+- -Cybersecurity Services, 2025
+- -Next-gen IT Infrastructure Services, 2026
+- Recognized as a leader by Everest Group in -
+- -Marketing Services PEAK Matrix® Assessment 2025
+- -Life Sciences Digital Services PEAK Matrix® Assessment 2025
+- -Adobe Services PEAK Matrix® Assessment 2025
+- -IT Service Management (ITSM) and Service Integration and Management (SIAM) Services PEAK Matrix® Assessment 2025
+- -Enterprise Quality Engineering (QE) Services PEAK Matrix Assessment 2025
+- -Global Capability Center (GCC) Setup Capabilities in India - PEAK Matrix® Assessment 2025
+- -ServiceNow Services PEAK Matrix® Assessment 2025
+- -Microsoft Business Application Services PEAK Matrix® Assessment 2025
+
+## Infosys BPM awarded ISG Star of Excellence   2025
+- -Global Digital Workplace Services PEAK Matrix® Assessments 2025
+- -5G Engineering Services PEAK Matrix® Assessment 2025
+- -Network Engineering Services PEAK Matrix® Assessment 2025
+- -Private Equity (PE) Services PEAK Matrix® Assessment 2026
+- -Software Product Engineering Services PEAK Matrix® Assessment 2026 - Global
+- -Net-Zero Consulting Services PEAK Matrix® Assessment 2025
+- Rated as a leader by NelsonHall in -
+- -Advanced Digital Workplace Services 2025
+- -Quality Engineering 2025
+- -ServiceNow Services 2025 NEAT
+- Infosys BPM received the 2025 ISG Star of Excellence TM  award for BPO Services Excellence
+- Infosys BPM recognized as a Leader in ISG Provider Lens TM Procurement Services 2025 Study and Global Capability Center (GCC) Services 2025 Study
+
+## INDUSTRIES
+- Infosys positioned as a leader in IDC MarketScape for:
+- -Worldwide Life Sciences Healthcare Provider (HCP) Engagement Services 2025
+- -Worldwide Manufacturing Intelligence Transformation Strategic Consulting 2025 Vendor Assessment
+- -Worldwide Life Science R&amp;D AI and GenAI in Clinical Trials 2025
+- -Worldwide Energy Transition Professional Services 2025
+- Recognized as a leader in HFS Horizons for:
+- -Semiconductor Horizons: The Best of Service Providers across the Value Chain, 2025
+- -Life Sciences Service Providers 2025
+- -Travel and Hospitality Service Provider Ecosystem, 2025
+- -The Best Service Providers for Mortgage Reinvention, 2025
+- -Energy and Utilities Service Providers, 2025
+- -Insurance Services, 2025
+- -Intelligent Retail and CPG Ecosystems, 2025
+- Recognized as a leader by Everest Group in:
+- -Retail Services PEAK Matrix® Assessment 2025
+- -Life Sciences Enterprise Platform Services PEAK Matrix® Assessment 2025
+
 <!-- image -->
-## Board's report Statutory reports
-Dear Members,
-The Board of Directors hereby submits the report of the business and operations of your Company ('the Company' or 'Infosys'), along with the audited financial statements, for the financial year ended March 31, 2026. The consolidated performance of the Company and its subsidiaries has been referred to wherever required.
-## 1. Results of our operations and state of affairs
-## Financial performance
-(In ` crore, except per equity share data)
-| Particulars                                                    | Standalone                   | Standalone                   | Standalone   | Consolidated                 | Consolidated                 | Consolidated   |
-|----------------------------------------------------------------|------------------------------|------------------------------|--------------|------------------------------|------------------------------|----------------|
-|                                                                | For the year ended March 31, | For the year ended March 31, | YoY growth   | For the year ended March 31, | For the year ended March 31, | YoY growth     |
-|                                                                | 2026                         | 2025                         | (%)          | 2026                         | 2025                         | (%)            |
-| Revenue from operations                                        | 1,48,819                     | 1,36,592                     | 9.0          | 1,78,650                     | 1,62,990                     | 9.6            |
-| Other income, net* #                                           | 6,491                        | 4,782                        | 35.7         | 4,322                        | 3,600                        | 20.1           |
-| Total income                                                   | 1,55,310                     | 1,41,374                     | 9.9          | 1,82,972                     | 1,66,590                     | 9.8            |
-| Expenses                                                       |                              |                              |              |                              |                              |                |
-| Employee benefit expenses                                      | 73,239                       | 67,466                       | 8.6          | 95,094                       | 85,950                       | 10.6           |
-| Cost of technical sub-contractors                              | 22,388                       | 19,353                       | 15.7         | 15,421                       | 12,937                       | 19.2           |
-| Cost of software packages and others                           | 9,274                        | 9,617                        | (3.6)        | 15,722                       | 15,911                       | (1.2)          |
-| Other operating expenses                                       | 10,299                       | 9,276                        | 11.0         | 15,035                       | 13,768                       | 9.2            |
-| Total expenses                                                 | 1,15,200                     | 1,05,712                     | 9.0          | 1,41,272                     | 1,28,566                     | 9.9            |
-| Profit before finance costs, exceptional items and tax expense | 40,110                       | 35,662                       | 12.5         | 41,700                       | 38,024                       | 9.7            |
-| Finance cost                                                   | 207                          | 221                          | (6.3)        | 416                          | 416                          | -              |
-| Profit before exceptional items and tax expense                | 39,903                       | 35,441                       | 12.6         | 41,284                       | 37,608                       | 9.8            |
-| Exceptional items                                              |                              |                              |              |                              |                              |                |
-| Impact of Labour Codes (1)                                     | 1,146                        | -                            |              | 1,289                        | -                            |                |
-| Profit before tax                                              | 38,757                       | 35,441                       | 9.4          | 39,995                       | 37,608                       | 6.3            |
-| Profit before tax (% of revenue)                               | 26.0                         | 25.9                         |              | 22.4                         | 23.1                         |                |
-| Tax expense* (1)                                               | 9,546                        | 9,873                        | (3.3)        | 10,521                       | 10,858                       | (3.1)          |
-| Profit after tax                                               | 29,211                       | 25,568                       | 14.2         | 29,474                       | 26,750                       | 10.2           |
-| Profit after tax (% of revenue)                                | 19.6                         | 18.7                         |              | 16.5                         | 16.4                         |                |
-| Total other comprehensive income, net of tax                   | 85                           |                              |              | 3,337                        | 459                          |                |
-| Total comprehensive income for the year                        | 29,296                       | 25,673                       |              | 32,811                       | 27,209                       |                |
-| Profit attributable to owners of the Company                   | 29,211                       | 25,568                       |              | 29,440                       | 26,713                       |                |
-| Non-controlling interests                                      | NA                           | NA                           |              | 34                           | 37                           |                |
-| Earnings per share (EPS)                                       |                              |                              |              |                              |                              |                |
-| Basic (2)                                                      | 70.87                        | 61.58                        | 15.1         | 71.58                        | 64.50                        | 11.0           |
-| Diluted (3)                                                    | 70.78                        | 61.46                        | 15.2         | 71.46                        | 64.34                        | 11.1           |
-
-1 crore = 10 million
-Notes: The above figures are extracted from the audited standalone and consolidated financial statements of the Company as per the Indian Accounting Standards (Ind AS). Equity shares are at par value of ` 5 per share.
-- # Includes profit on sale of property plant and equipment amounting to ` 165 crore on standalone and consolidated basis during the year ended March 31, 2026.
-* Includes interest income (pre-tax) of ` 381 crore and ` 327 crore for the years ended March 31, 2026 and March 31, 2025, respectively, and reversal of tax provisions amounting to ` 774 crore and ` 101 crore for the year ended March 31, 2026 and March 31, 2025, respectively, on standalone and consolidated basis. This is on account of orders received under Sections 250 and 254 of the Income-tax Act, 1961 for certain assessment years.
-
-(1) The Labour Codes notified by The Government of India on November 21, 2025 which resulted in an increase in gratuity liability, a defined benefit plan (arising out of past service cost relating to plan amendment) and compensated absences by ` 1,146 crore and ` 1,289 crore on standalone and consolidated basis respectively. This also resulted in a lower tax of ` 282 crore and ` 318 crore on standalone and consolidated basis, respectively, for the year ended March 31, 2026.
-(2) Excluding the effect of Income Tax orders received under Sections 250 and 254 of the Income-tax Act, 1961 and The Labour Codes provisions notified by the Government of India, Basic EPS increase (in ` terms) is 15.9% and 12.1% YoY on standalone and consolidated basis for the year ended March 31, 2026.
-- (3) Excluding the effect of Income Tax orders received under Sections 250 and 254 of the Income-tax Act, 1961 and The Labour Codes provisions notified by the Government of India, Diluted EPS increase (in ` terms) is 16.0% and 12.2% YoY on standalone and consolidated basis for the year ended March 31, 2026.
-
-## Financial position
-(In ` crore)
-| Particulars                                                                    | Standalone As at March 31,   | Standalone As at March 31,   | Consolidated   | Consolidated   |
-|--------------------------------------------------------------------------------|------------------------------|------------------------------|----------------|----------------|
-|                                                                                | 2026                         | 2025                         | 2026           | 2025           |
-| Net current assets                                                             | 40,794                       | 45,406                       | 51,167         | 54,249         |
-| Property, plant and equipment (including capital work-in-progress)             | 11,286                       | 10,848                       | 13,177         | 12,592         |
-| Right-of-use assets                                                            | 2,851                        | 3,078                        | 6,177          | 6,311          |
-| Goodwill and other intangible assets                                           | 211                          | 211                          | 14,942         | 12,872         |
-| Other non-current assets                                                       | 31,912                       | 33,631                       | 18,182         | 20,029         |
-| Total assets                                                                   | 1,26,691                     | 1,24,936                     | 1,55,967       | 1,48,903       |
-| Non-current lease liabilities                                                  | 2,815                        | 2,694                        | 6,016          | 5,772          |
-| Other non-current liabilities                                                  | 3,365                        | 3,148                        | 4,332          | 4,078          |
-| Retained earnings - Opening balance                                            | 71,520                       | 62,551                       | 78,627         | 68,405         |
-| Add:                                                                           |                              |                              |                |                |
-| Profit for the year                                                            | 29,211                       | 25,568                       | 29,440         | 26,713         |
-| Transfer from Special Economic Zone Re-investment Reserve to retained earnings | 1,956                        | 2,999                        | 2,214          | 2,999          |
-| Transfer from Special Economic Zone Re-investment Reserve on utilization       | 1,261                        | 821                          | 1,260          | 881            |
-| Changes in the controlling stake of a subsidiary                               | -                            | -                            | 7              | -              |
-| Less:                                                                          |                              |                              |                |                |
-| Dividends                                                                      | (18,694)                     | (20,345)                     | (18,653)       | (20,295)       |
-| Transfer to Special Economic Zone Re-investment Reserve                        | -                            | (74)                         | -              | (74)           |
-| Transfer to legal reserve                                                      | -                            | -                            | (9)            | (2)            |
-| Buyback of equity shares                                                       | (16,346)                     | -                            | (16,346)       | -              |
-| Transaction cost relating to buyback (net of tax)                              | (27)                         | -                            | (27)           | -              |
-| Financial liability under options arrangement                                  | -                            | -                            | (10)           | -              |
-| Retained earnings - Closing balance                                            | 68,881                       | 71,520                       | 76,503         | 78,627         |
-| Equity share capital                                                           | 2,027                        | 2,076                        | 2,024          | 2,073          |
-| Other reserves and surplus (1)                                                 | 9,753                        | 13,608                       | 8,013          | 12,116         |
-| Other comprehensive income                                                     | 213                          | 128                          | 6,312          | 3,002          |
-| Non-controlling interest                                                       | -                            | -                            | 445            | 385            |
-| Total equity                                                                   | 80,874                       | 87,332                       | 93,297         | 96,203         |
-| Total equity and liabilities                                                   | 1,26,691                     | 1,24,936                     | 1,55,967       | 1,48,903       |
-
-(1) Excluding retained earnings
-## Based on consolidated financial statements
-## Revenue distribution by geographical segments (in %)
+## Excellence in composable banking platforms
 <!-- image -->
-2025
-2026
-## Revenue distribution by business segments (in %)
-Revenue distribution by business segments (in %)
-<!-- image -->
-(1) FS - Includes enterprises in Financial Services and Insurance
-(2) MFG - Includes enterprises in Manufacturing
-- (3) EURS - Includes enterprises in Energy, Utilities, Resources and Services
+- -Property and Casualty (P&amp;C) Insurance IT Services PEAK Matrix® Assessment 2025
+- -Payments IT Services PEAK Matrix® Assessment 2025
+- -Banking IT Services PEAK Matrix® Assessment 2025
+- Rated as a leader by NelsonHall in:
+- -Transforming Mortgage &amp; Loan Services 2025 NEAT
+- Infosys Finacle recognized as a leader in IDC MarketScape for:
+- -Worldwide Corporate Loan Origination Systems 2025 Vendor Assessment
 
-(4) Retail - Includes enterprises in Retail, Consumer Packaged Goods and Logistics
-(5) COM - Includes enterprises in Communication, Telecom OEM and Media
-(6) Hi- Tech - Includes enterprises in Hi-Tech
-(7) LS - Includes enterprises in Life Sciences and Healthcare
-(8) Others - Includes operating segments of businesses in India, Japan, China, Infosys Public Services and identified enterprises in public services
-## Capital Allocation Policy
-Effective from financial year 2025, the Company expects to continue its policy of returning approximately 85% of the free cash flow cumulatively over a five-year period through a combination of semi-annual dividends and / or share buyback / special dividends, subject to applicable laws and requisite approvals, if any. Under this policy, the Company expects to progressively increase its annual dividend per share (excluding special dividend, if any). Free cash flow is defined as net cash provided by operating activities less capital expenditure as per the Consolidated Statement of Cash Flows prepared under IFRS. Dividend and buyback include applicable taxes.
-In line with the Capital Allocation Policy, the Board, at its meeting held on September 11, 2025, approved a proposal to buy back fully paid-up equity shares of face value ` 5 each, aggregating up to ` 18,000 crore, which was subsequently approved by shareholders via postal ballot on November 4, 2025.
-The Buyback involved the purchase of 10,00,00,000 equity shares, representing approximately 2.41% of the Company's paid-up equity share capital (standalone) as of June 30, 2025, at a price of ` 1,800 per share. The offer was made to all eligible shareholders as on the record date (November 14, 2025) on a proportionate basis through the tender offer route, including shareholders who became eligible via ADS cancellation. The tender period was open from November 20 to November 26, 2025. The buyback was completed on December 4, 2025, with all shares extinguished, resulting in a cash outflow of ` 18,000 crore (excluding transaction costs), funded from free reserves including securities premium, in accordance with Section 68 of the Companies Act, 2013.
-Further, as required under Section 69, the Company created a Capital Redemption Reserve of ` 50 crore as at March 31, 2026, equivalent to the nominal value of shares bought back, by appropriating from general reserves.
-During the year ended March 31, 2026, the Company paid an interim dividend of ` 23 per equity share and announced a final dividend of ` 25 per share, subject to shareholders' approval in the ensuing Annual General Meeting (AGM), including the final dividend declared above, the Company has returned approximately ` 55,523 crore, which is 82.1% of the free cash flow for fiscal 2025 and 2026 through dividends and buybacks, in line with the Capital Allocation Policy.
-[The Capital Allocation Policy is available on our website, at https://www.infosys.com/investors/corporate-governance/ documents/capital-allocation-policy.pdf.](https://www.infosys.com/investors/corporate-governance/documents/capital-allocation-policy.pdf)
-## Liquidity
-Our principal sources of liquidity are cash and cash equivalents, investments and the cash flow that we generate from our operations. We continue to be debt-free and maintain sufficient cash to meet our strategic and operational requirements. We understand that liquidity in the Balance Sheet has to balance between earning adequate returns and the need to cover financial and business requirements. Liquidity enables us to be agile and ready to meet unforeseen strategic and business needs and opportunities.
-As of March 31, 2026, we had ` 40,794 crore in working capital on a standalone basis, and ` 51,167 crore on a consolidated basis.
-Consolidated cash and investments stand at ` 28,662 crore on a standalone basis and ` 43,075 crore on a consolidated basis as on March 31, 2026, as against ` 35,916 crore on a standalone basis, and ` 47,549 crore on a consolidated basis as on March 31, 2025.
-Consolidated cash and investments, on both standalone and consolidated basis, include deposits with banks with high credit ratings assigned by international and domestic credit rating agencies. As a result, liquidity risk of cash and cash equivalents is limited. Ratings are monitored periodically. Liquid assets also include investments in debt mutual fund units, tax-free bonds, Certificates of Deposit (CDs), Commercial Paper (CP), quoted bonds and securities issued by government and quasi-government organizations, and non-convertible debentures. CDs and CPs represent marketable securities of banks, Non-Banking Financial Companies (NBFCs) and eligible financial institutions for a specified time period with high credit rating given by domestic credit rating agencies. Government securities are highly liquid and marketable instruments issued across tenure, backed by the Government and carrying a sovereign credit. Investments made in non-convertible debentures are issued by government-aided institutions and financial institutions with high credit rating. We invest after considering counterparty risks based on multiple criteria including Tier-I capital, capital adequacy ratio, credit rating, profitability, Non Performing Asset (NPA) levels and deposit base of banks and financial institutions.
-The details of these investments are disclosed under the 'non-current and current investments' section in the Standalone and Consolidated financial statements in this Integrated Annual Report.
-## Capital expenditure on tangible assets
-## Leases
-## Buyback and dividend
-The Company recommended / declared buyback and dividend as under:
-|                                                     | Fiscal 2026                | Fiscal 2026                  | Fiscal 2026          | Fiscal 2025                | Fiscal 2025                  | Fiscal 2025          |
-|-----------------------------------------------------|----------------------------|------------------------------|----------------------|----------------------------|------------------------------|----------------------|
-|                                                     | Dividend per share (in ` ) | Dividend payout (in ` crore) | Buyback (in ` crore) | Dividend per share (in ` ) | Dividend payout (in ` crore) | Buyback (in ` crore) |
-| Interim dividend                                    | 23.00                      | 9,534                        |                      | 21.00                      | 8,698                        |                      |
-| Final dividend                                      | 25.00 (1)                  | 10,117 (1)                   |                      | 22.00                      | 9,116                        |                      |
-| Total dividend                                      | 48.00                      |                              |                      | 43.00                      |                              |                      |
-| Buyback at ` 1,800/-# per share                     |                            |                              | 18,000 #             |                            |                              | -                    |
-| Payout ratio (Buyback, interim and final dividend)* | 113.9% (2)                 |                              |                      | 51.6%                      |                              |                      |
+## Awards and recognitions
+- -Worldwide Corporate Loan Lifecycle Management 2025 Vendor Assessment
+- Infosys Finacle positioned as a leader in Everest Group's Banking Customer Experience Orchestration Products (CXOP) PEAK Matrix® Assessment 2025
+- Infosys Finacle along with its customers received three awards at the MEA Finance Leaders in Payments Awards 2025 for Best Real-Time Payments Implementation - Qatar National Bank, Best Real-Time Payments Provider - Infosys Finacle, and Best Instant Payments Technology Solution -Infosys Finacle
+- Infosys Finacle along with its customers received three awards at the Finnovex Awards Saudi Arabia 2025 for Excellence in Digital Transformation - Arab National Bank, Excellence in Digital Corporate Banking - Banque Saudi Fransi, and Excellence in Composable Banking Platforms -Infosys Finacle
+- Infosys Finacle won two awards at IBS Intelligence Digital Banking Awards 2025: Regional Winners | Middle East - Zand Bank &amp; Infosys Finacle and Segment Winner | Corporate Banking - Zand Bank &amp; Infosys Finacle
+- Infosys Finacle won two awards at the MEA Finance Banking Technology Awards 2025: Best Composable Banking Solutions Provider of the Year and Best Corporate Banking Solutions Provider
+- Infosys Finacle and its clients won four awards at Finnovex North Africa - Egypt 2025: Excellence in Banking Platform Modernization ; Excellence in Seamless Banking Experiences ; Excellence in Core Banking Transformation ; and Excellence in Composable Banking Platform
+- Infosys Finacle and its clients won four awards at the Global Banking and Finance® Awards 2025 - Innovation Awards for Excellence in Margin Finance Innovation India ; Most Innovative Payments Channel Modernization in Colombia ; Technology Award for Best Core Banking Transformation with Real-Time Eventing ; and Award for Best Customer Journey Initiative in Australia
+- Infosys Finacle recognized as The World's Best Software Provider for Virtual Accounts 2025 and The World's Best Software Provider for Liquidity Management 2025 by Euromoney Transaction Banking Awards
+- Infosys Finacle positioned as a leader in 2026 Gartner® Magic Quadrant™ for Banking Payment Hub Platforms report
+- Infosys Finacle along with its customer HDFC Bank received the Retail Banker International Asia Trailblazer Awards 2026 for Excellence in Mass Affluent Banking
+
+## OTHERS
+-  Awarded the Employee Experience Award by ET HR World under the Exceptional Employee Experience - Large Enterprises category.
+- Ranked #1 for ASHI practices and included among the Avtar &amp; Seramount Best Companies for Women in India 2025 (IT sector).
+- Won the Economic Times 'Company with Great Managers' award for the sixth year.
+- Recognized by Great Place to Work among India's Top 100 Best Workplaces for Women 2025 (Large category).
+
+<!-- image -->
+## Approaching value creation
+## Our business context
+<!-- image -->
+Technology continues to fundamentally reshape businesses across industries worldwide. AI is increasingly being applied to fine tune domain specific capabilities and industry focused use cases. Clients are navigating the challenge of rapidly reinventing their processes and systems in the AI era, which requires a strong understanding of emerging technologies, new ways of working, and a deep appreciation of AI ecosystems, business processes, and operational practices.
+We are supporting clients in transforming every aspect of their businesses through technology - ranging from building a robust digital core to reimagining business operations - to enhance agility, efficiency, and resilience, while accelerating growth initiatives. Responsible business practices, including the adoption of ESG principles, continue to gain momentum. During the year, organizations increasingly focused on reconfiguring cost structures, improving resilience and agility, delivering personalized experiences for customers and employees, and launching innovative and disruptive products and services.
+## Our Structure
+Our go-to-market business units are organized as:
+- Financial Services and Insurance
+- Retail, Consumer Packaged Goods, Transportation and Logistics
+- Communications, Telecom OEM and Media
+- Energy, Utilities, Resources and Services
+
+Businesses are also seeking to address complex challenges using AI in ways that deliver measurable outcomes. These include enhancing and personalizing customer interactions, improving efficiency across marketing and sales functions, strengthening code quality, and boosting workforce and organizational productivity. The emergence of AI, with its potential for broader automation, is expected to significantly accelerate workforce transformation.
+At the same time, the traditional services market remains intensely competitive, driven by rapid change and the entry of new players in specialized technology niches. Infosys' industry expertise, end to end service capabilities, scalable digital solutions, established platforms, strong quality and process excellence, distributed agile global delivery model, experienced leadership team, skilled workforce, and proven execution track record continue to be recognized as key differentiators.
+- Manufacturing
+- Hi-Tech
+- Life Sciences and Healthcare
+- Others including India, Japan, China, Infosys Public Services and other identified enterprises in public services
+
+## Our services are classified as AI First Services and AI Augmented Services
+## AI First Services
+<!-- image -->
+<!-- image -->
+<!-- image -->
+Orchestrate: AI Strategy &amp; Engineering
+Insight: Data for AI
+Transform: Process AI
+Modernize: Agentic Legacy Modernization
+Innovate: Physical AI
+Assure: AI Trust
+## AI Augmented Services
+<!-- image -->
+Application management services
+<!-- image -->
+<!-- image -->
+<!-- image -->
+Application development services
+Infosys quality engineering
+Product engineering and management
+<!-- image -->
+Consulting
+## Infosys services brands
+Infosys Cobalt, Infosys Topaz, and Infosys Aster - represent focused, domain-led offerings that bring together the Company's capabilities and expertise to address distinct enterprise transformation needs. Each brand embodies a dedicated suite of services, solutions, and platforms designed to help clients navigate and accelerate their journey across cloud, AI, and marketing.
+Infosys Cobalt is a set of services, solutions, and platforms for enterprises to accelerate their cloud journey.
+Infosys Topaz is an AI-first set of services, solutions and platforms using generative and agentic AI technologies
+Infosys Aster is an AI-amplified marketing suite that delivers engaging brand experiences, enhanced marketing efficiency, and accelerated business growth.

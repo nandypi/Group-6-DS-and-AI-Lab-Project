@@ -1,330 +1,92 @@
 ---
 document_name: "INFY_15062026210015_Form20F_June152026.md"
 group_id: "INFY_15062026210015_Form20F_June152026__group_019"
-source_section_count: 3
-page_start: 236
-page_end: 248
-estimated_tokens: 9172
+source_section_count: 2
+page_start: 121
+page_end: 126
+estimated_tokens: 4113
 source_section_ids:
-  - "INFY_15062026210015_Form20F_June152026__065"
-  - "INFY_15062026210015_Form20F_June152026__066"
-  - "INFY_15062026210015_Form20F_June152026__067"
+  - "INFY_15062026210015_Form20F_June152026__036"
+  - "INFY_15062026210015_Form20F_June152026__037"
 ---
 
-# Proceeds from sale of property, plant and equipment amounted to $31 million, $20 million and $1 million for the year ended March 31, 2026, March 31, 2025 and March 31, 2024 respectively.
-The aggregate depreciation expense is included in cost of sales in the consolidated statement of comprehensive income.
-Repairs and maintenance costs are recognized in the consolidated statement of comprehensive income when incurred.
-Consequent to the Companies (Corporate Social Responsibility Policy) Amendment Rules, 2021 ('the Rules'), the Company was required to transfer its CSR capital assets installed prior to January 2021. Towards this the Company had incorporated a subsidiary 'Infosys Green Forum' (IGF) under Section 8 of the Companies Act, 2013. During the year ended March 31, 2022, the Company had completed the transfer of assets upon obtaining the required approvals from regulatory authorities, as applicable. During fiscal 2024, the application filed by IGF for regularization of the provisional registration was rejected and registration cancelled vide order dated March 26, 2024 by Income Tax Commissioner (Exemption). IGF had filed an appeal before  Income  Tax  Appellate  Tribunal  (ITAT)  against  the  order.  During  fiscal  2026,  ITAT  had  upheld  the  order  of Commissioner (Exemption) and dismissed the IGF's appeals. IGF has filed an appeal before the Hon'ble High Court against the ITAT order.
-The  Group  had  contractual  commitments  for  capital  expenditure  primarily  comprising  of  commitments  for  infrastructure facilities and computer equipment aggregating to $141 million and $109 million as of March 31, 2026, and March 31, 2025, respectively.
-## 2.7.1 Capital work-in-Progress
-The changes in capital work-in-progress for the year ended March 31, 2026, March 31, 2025 and March 31, 2024 are as follows:
-|                          | Year ended March 31,   | Year ended March 31,   | Year ended March 31,   |
-|--------------------------|------------------------|------------------------|------------------------|
-|                          | 2026                   | 2025                   | 2024                   |
-| Balance at the beginning | 95                     | 35                     | 35                     |
-| Additions                | 291                    | 273                    | 213                    |
-| Capitalised              | (320)                  | (211)                  | (212)                  |
-| Translation differences  | (11)                   | (2)                    | (1)                    |
-| Balance at the end       | 55                     | 95                     | 35                     |
+## RETURN TO OFFICE AND HYBRID MODEL OF WORK
+It has been over five years since we at Infosys transitioned to a hybrid work model, balancing between flexibility and better  work-life  balance  for  our  employees  while  maintaining  collaboration.  This  shift  has  enabled  us  to  be  more responsive  to  customer  demands,  more  resilient  to  disruptions,  and  more  productive,  characterized  by  empathy  and flexibility.
+Flexibility at Infosys is not a concession, it is a core enabler of sustainable performance. Our hybrid model provides employees with choice in where and how they work across campuses, delivery centers, satellite locations, and remote environments, without compromising collaboration, accountability, or outcomes. Flexible working hours further allow employees to align work with personal priorities, life stages, and team commitments, reinforcing our commitment to WorkLife Harmony.
+Our workforce experience reflects this philosophy in practice. A small proportion of employees (approximately 10%) work fully remotely, and a similarly small group (approximately 11%) work entirely from the office. The vast majority of our workforce (approximately 79%) operates in a hybrid manner, underscoring that work at Infosys is truly flexible by design and is shaped by role requirements, team context, and business needs rather than a one-size-fits-all approach.
+## Structured approach to enabling hybrid work culture:
+We continue to anchor our hybrid work model around the three pillars of work, workspace, and workforce, ensuring alignment across enterprise, unit, and Development Center (DC) levels, as well as regional regulations.
+Keeping the employees at the center, below are the enablers we have been leveraging for this smooth transition:
+- Manager-led enablement: Managers play a critical role in operationalizing flexibility. They are supported with  data-driven  insights  to  ensure  fair  workload  distribution,  identify  individuals  requiring  support,  and maintain team effectiveness.
+- Workhour and wellbeing monitoring: Proactive monitoring of work patterns enables early identification of excessive workloads, helping mitigate risks of burnout and ensuring sustainable performance.
+- Equity  in  experience: Emphasis  on  ensuring  equitable  distribution  of  work  and  consistent  employee experience across work modes.
 
-## 2.8 Leases
-## Accounting Policy
-## The Group as a lessee
-The Group's lease asset classes primarily consist of leases for land, buildings and computers. The Group assesses whether a contract contains a lease, at inception of a contract. A contract is, or contains, a lease if the contract conveys the right to control the use of an identified asset for a period of time in exchange for consideration. To assess whether a contract conveys the right to control the use of an identified asset, the Group assesses whether: (1) the contract involves the use of an identified asset (2) the Group has substantially all of the economic benefits from use of the asset through the period of the lease and (3) the Group has the right to direct the use of the asset.
-At the date of commencement of the lease, the Group recognizes a right-of-use asset ('ROU') and a corresponding lease liability for all lease arrangements in which it is a lessee, except for leases with a term of twelve months or less (short-term leases)  and  low  value  leases.  For  these  short-term  and  low  value  leases,  the  Group  recognizes  the  lease  payments  as  an operating expense on a straight-line basis over the term of the lease.
-As a lessee, the Group determines the lease term as the non-cancellable period of a lease adjusted with any option to extend or terminate the lease, if the use of such option is reasonably certain. The Group makes an assessment on the expected lease term on a lease-by-lease basis and thereby assesses whether it is reasonably certain that any options to extend or terminate the contract  will  be  exercised.  In  evaluating  the  lease  term,  the  Group  considers  factors  such  as  any  significant  leasehold improvements  undertaken  over  the  lease  term,  costs  relating  to  the  termination  of  the  lease  and  the  importance  of  the underlying asset to Group's operations taking into account the location of the underlying asset and the availability of suitable alternatives.  The  lease  term  in  future  periods  is  reassessed  to  ensure  that  the  lease  term  reflects  the  current  economic circumstances.
-Certain lease arrangements include the options to extend or terminate the lease before the end of the lease term. ROU assets and lease liabilities includes these options when it is reasonably certain that they will be exercised.
-The ROU assets are initially recognized at cost, which comprises the initial amount of the lease liability adjusted for any lease payments made at or prior to the commencement date of the lease plus any initial direct costs less any lease incentives. They are subsequently measured at cost less accumulated depreciation and impairment losses.
-ROU assets are depreciated from the commencement date on a straight-line basis over the shorter of the lease term and useful life of the underlying asset.
-ROU assets are evaluated for recoverability whenever events or changes in circumstances indicate that their carrying amounts may not be recoverable. For the purpose of impairment testing, the recoverable amount (i.e. the higher of the fair value less cost to sell and the value-in-use) is determined on an individual asset basis unless the asset does not generate cash flows that are  largely  independent  of  those  from  other  assets.  In  such  cases,  the  recoverable  amount  is  determined  for  the  Cash Generating Unit (CGU) to which the asset belongs.
-The  lease  liability  is  initially  measured  at  amortized  cost  at  the  present  value  of  the  future  lease  payments.  The  lease payments are discounted using the interest rate implicit in the lease or, if not readily determinable, using the incremental borrowing rates in the country of domicile of these leases. Lease liabilities are remeasured with a corresponding adjustment to the related right of use asset if the Group changes its assessment of whether it will exercise an extension or a termination option.
-Lease liability and ROU asset have been separately presented in the Balance Sheet and lease payments have been classified as financing cash flows.
-## The Group as a lessor
-Leases for which the Group is a lessor is classified as a finance or operating lease. Whenever the terms of the lease transfer substantially all the risks and rewards of ownership to the lessee, the contract is classified as a finance lease. All other leases are classified as operating leases.
-When the Group is an intermediate lessor, it accounts for its  interests  in  the  head  lease  and  the  sublease  separately.  The sublease is classified as a finance or operating lease by reference to the right-of-use asset arising from the head lease.
-For finance lease, finance income is recognized over the lease term based on a pattern reflecting a constant periodic rate of return on the lessor's net investment in the lease and for operating leases, rental income is recognized on a straight line basis over the term of the relevant lease.
-Following are the changes in the carrying value of right of use assets for the year ended March 31, 2026:
-|                              | (Dollars in millions)   | (Dollars in millions)   | (Dollars in millions)   | (Dollars in millions)   | (Dollars in millions)   |
-|------------------------------|-------------------------|-------------------------|-------------------------|-------------------------|-------------------------|
-|                              | Category of ROU asset   | Category of ROU asset   | Category of ROU asset   | Category of ROU asset   | Category of ROU asset   |
-|                              | Land                    | Buildings               | Vehicles                | Computers               | Total                   |
-| Balance as of April 1, 2025  | 70                      | 392                     | 3                       | 273                     | 738                     |
-| Additions*                   | -                       | 66                      | 1                       | 218                     | 285                     |
-| Deletions                    | (6)                     | (6)                     | -                       | (120)                   | (132)                   |
-| Depreciation                 | (1)                     | (84)                    | (1)                     | (127)                   | (213)                   |
-| Translation difference       | (5)                     | (26)                    | -                       | 4                       | (27)                    |
-| Balance as of March 31, 2026 | 58                      | 342                     | 3                       | 248                     | 651                     |
+## Initiatives to enhance our Employee Value Proposition (EVP)
+Our  Employee  Value  Proposition  aims  to  inspire  and  enable  our  employees  to  find  purpose  and  make  an  indelible impact through meaningful work and passionate teams; ensure that our employees continuously learn and grow in their careers and shape our collective future; and create opportunities for every employee to navigate further, powered by our culture and partnered by other employees with shared aspirations.
+## EMPLOYEE CAREERS &amp; LEARNING AVENUES
+<!-- image -->
+- The Infosys Skill-based Organization: The visual maps the complete Skill Journey that powers Infosys' Skill -Based Organization- showing how skills are defined, captured, assessed, and translated into identity
 
-* Net of adjustments on account of modifications
+and deployment. It highlights how this integrated cycle links seamlessly to the talent lifecycle, ensuring that evolving skills continuously fuel career growth and organizational agility.
+- Infosys Skills Council: The Infosys Skills Council serves as a strategic forum that brings together business, technology,  and  HR  leaders  to  shape  the company's skills  and  capability  agenda.  The  Council  provides direction  on  future  skill  priorities,  ensures  alignment  between  business  demand,  client  expectations  and learning  investments,  strengthens  a  skills-led  approach  to  workforce  readiness.  Through  this,  it  helps Infosys stay ahead of rapid technological shifts while enabling employees to continuously build relevant, future-ready capabilities as part of a lifelong learning culture.
+- Skill  Tags  Program: Skill  Tags  is  a  structured  framework  that  identifies  and  recognizes colleagues' proficiency  across  key  technologies  through  differentiated  badges .  T he  program  is  strengthened  with deeper,  skill -focused  learning  pathways  through  curated  courses,  certifications,  and  choice -based  real digital  projects-  to  ensure  learning  translates  into  applied  skills  and  directly  supports  the organization's ongoing focus on building future -ready capabilities. The program has achieved strong scale and adoption, with 10K+ niche, 22K+ premium, and 56K+ standard skill tag holders.
+- Skill  Squad  Coaching  Ecosystem: A  scalable,  self-sustaining  internal  coaching  model  (launched  July 2025) leveraging in-house expertise for peer-to-peer coaching, with platform-enabled tracking, recognition, and rewards - designed to accelerate skill development and nurture a culture of continuous learning and collaboration
+- Work profiles : We introduced a Work Profile (WP) concept in Demand and Deployment Work Profile is a combination of Technology, Domain, Foundational and Social skills, and refers to the granular skill jobs that the service line engages with the clients. This was launched as a pilot in one of our service lines.
+- Lex: Our in-house learning platform continues to be a significant driver of talent development at Infosys. With  remote  work  firmly established,  Lex  has  evolved  to  engage  employees  through  hybrid  learning models.
+- Learning and Career: This is a one-stop-portal for all learning and career-related needs of employees with smart integration with other Infosys internal systems like Lex to guide employees on their learning &amp; career journeys.
+- Internal Marketplace: With reskilling gaining momentum, more employees are acquiring new skills and capabilities. Internal Marketplace serves as a vehicle to match employees with opportunities to provide job rotation in work areas of their choice and capability.
+- Internal Job Movements: It is a significant platform that connects our talent to internal job opportunities, enabling career movements &amp; promotion and thus ensuring democratization of career opportunities.
+- Holistic  Skill  building  &amp;  Career  pathing: For  greater  success  of  our  talent  in  their  current  and  future roles, we have outlined the various skills needed including the core foundational and social skills. Further, with Career Canvas, employees can choose their aspired roles and be skill ready for the current &amp; next role through skill-based learning paths.
+- Bridge Programs: Helps employees to develop new skills and shift to new careers that typically require different qualifications.
+- Accelerate: This helps employees gain exposure to various roles and practical experience with new skills through  involvement  in  short-term  internal  projects.  Powered  by  an  intelligent  platform,  it  allows  job creators to publish independent job modules that their job-seeking colleagues can.
+- Platinum  Club: A  niche  experience  created  for  our  top performers, it  is  an  exclusive  group  of  highly skilled  and high performing  individuals.  The program's structure  ensures  diverse  career  experiences  for those who qualify.
+- Manager  and  leadership  development: Through  key  structured  interventions  as  part  of  our  Global Delivery Talent effectiveness program has contributed tremendously to the key learning and enablement of our  leaders  across  the  Company.  A  basket  of  offerings  has  been  designed  to  bring  together  external
+- sessions,  internal  leader  facetime,  mentoring,  cross-skilling,  sharing  of  best  practices  and  collaboration across our various business segments and units.
+- Capability  Quotient  (CQ): A  holistic  framework  to  measure  and  build  capability  across  Technology, Domain,  Foundational,  and  Social  dimensions,  enabling  skill -powered  career  conversations,  career development, and greater internal mobility through holistic skill readiness. The framework is rolled out in a pilot that covers 7,500 employees.
+- Skill  Tags  Program: Strengthened  the  program  with  deeper,  skill -focused  learning  pathways  through curated  courses,  certifications,  and  choice -based  real  digital  projects-  to  ensure  learning  translates  into applied skills and directly supports the organization's ongoing focus on building future -ready capabilities.
+- Quarterly  Check -ins  &amp;  Performance  Management  Evolution: As  a  core  pillar  of  the  Skill -Based Organization, we strengthened the skills focus on performance management through an integrated model that unifies skill identification, proficiency assessment, and structured quarterly conversations. This model enables managers to provide holistic guidancesupporting employees in strengthening skills for current -role fitment, building capabilities for next -role readiness, and upskilling toward their aspired career pathways.  Quarterly  check -ins  create  space  for  timely  feedback,  progress  tracking,  and  expectation alignment, while also fostering deeper engagement. Through these conversations, managers play an active role  in  coaching,  removing  blockers,  and  contributing  to employees' overall development and long -term growth.
+- Sales Capability Building: Some of the key initiatives under Sales Transformation programs are ZENITH CLUB,  an  exclusive  high-performers  club  in  Global  Sales,  to  recognize  &amp;  reward  consistent  high performance in Sales; SYNERGY, a four-week onboarding program for new sales Employees; an eightweek training module covering practical applications of AI in business and responsible AI; ELEVATE, a talent  mobility  platform,  to  revolutionize  talent  management  in  sales  by  providing  business  leaders  with competent candidates within the Global Markets; INFUSION ASCENT, an in-person exclusive platform for the new title holders to be trained by Infosys leaders, external trainers and client leaders; ASSURED, a sales leadership  program  in  partnership  with  Stanford  is  an  exclusive,  leadership  initiative  for  leaders  to strengthen their financial acumen; SAPIENCE, a program created to help women in sales connect, learn, and grow professionally by providing a platform for them to interact with leaders, receive useful insights, build meaningful relationships, and acquire vital skills to thrive in all elements of their sales journey.
 
-Following are the changes in the carrying value of right of use assets for the year ended March 31, 2025:
-|                                                           | (Dollars in millions)   | (Dollars in millions)   | (Dollars in millions)   | (Dollars in millions)   | (Dollars in millions)   |
-|-----------------------------------------------------------|-------------------------|-------------------------|-------------------------|-------------------------|-------------------------|
-|                                                           | Land                    | Buildings               | Vehicles                | Computers               | Total                   |
-| Balance as of April 1, 2024                               | 72                      | 396                     | 2                       | 316                     | 786                     |
-| Additions*                                                | -                       | 96                      | 3                       | 155                     | 254                     |
-| Addition due to Business Combination (Refer to Note 2.10) | -                       | 19                      | 1                       | -                       | 20                      |
-| Deletions                                                 | -                       | (28)                    | (1)                     | (77)                    | (106)                   |
-| Depreciation                                              | (1)                     | (84)                    | (1)                     | (115)                   | (201)                   |
-| Translation difference                                    | (1)                     | (7)                     | (1)                     | (6)                     | (15)                    |
-| Balance as of March 31, 2025                              | 70                      | 392                     | 3                       | 273                     | 738                     |
+## Talent management at Infosys: Evolving with AI
+AI is redefining talent management at Infosys by moving beyond simple digitization toward intelligent, insight driven people systems. Guided by clear AI-first principles, we are thoughtfully integrating AI-assisted and AI-augmented ways of working, while ensuring strong human oversight and accountability. AI-assisted processes are enabling faster, more consistent, and transparent talent operations, helping streamline routine activities across the employee lifecycle. At the same time, AI-augmented talent management is empowering leaders and managers with deeper visibility into skills, potential, and capability development needs, supporting more informed decisions. At Infosys, keeping the human in the loop  remains  central.  AI  strengthens -not  replaces  judgment,  empathy,  and  ownership,  enriching  performance conversations,  talent  movement,  succession  planning,  and  development  journeys  with  timely  insights.  By  aligning intentional AI adoption with strong governance and elevated human judgment, Infosys is shaping talent systems that are agile, inclusive, scalable - and deeply human at their core.
+## EMPLOYEE EXPERIENCE : AI in Employee Experience
+Our Strategic approach: At Infosys, we recognize that each employee is unique, and so should their journey within the organization.  In today's digital  first  world,  we  are  harnessing  the  power  of  Artificial  Intelligence  (AI)  to  deliver personalized  experiences  at  scale.  In  line  with  this,  we  are  reimagining  the  employee  experience  by  integrating  AI across  the  entire  talent  lifecycle  -  from  recruitment  and  onboarding  to  performance  management  and  continuous learning till offboarding. Our approach to AI adoption within the HR function is grounded in a simple belief: technology should  make  work  more  human.  Guided  by  responsibility,  scalability,  and  long  term  value  creation,  we  aligned  our efforts  with Infosys' ESG commitments across  governance,  people,  and  technology  stewardship.  Over  the  year,  we focused on creating AI solutions that not only streamline processes but also strengthen trust, enhance transparency, and support our people at important touchpoints of the employee lifecycle.
 
-* Net of adjustments on account of modifications Following are the changes in the carrying value of right of use assets for the year ended March 31, 2024:
+## Some notable highlights are:
+Launchpad: Launchpad,  our  mobile/web-based  self-service  platform,  streamlines  global  onboarding  through  a seamless, digitally guided experience aligned to the evolving needs of a hybrid workplace. Powered by AI capabilities such as OCR-based data extraction and Smart Verify facial recognition, it minimizes manual effort,  enables  faster,  secure  identity  validation,  and  significantly  enhances  onboarding  efficiency  and  candidate experience.
+Infosys Verify: In response to evolving background verification challenges, Infosys Verify has been integrated with the Talent Management System to ensure responsive, reliable, and business-aligned hiring decisions. In  Phase  1  of  BGC  transformation,  AI-led  agentic  interventions  now  support  complex  verification tasks-enabling actions such as DV report validation, Launchpad document checks, and automated workflows to streamline decisionmaking and improve operational efficiency.
+InfyMe: Our mobile-first, self-service platform integrates over 200 service touchpoints into a single, intuitive interface. InfyMe is designed to be seamlessly contextual, aiding networking and collaboration among our employees anytime, anywhere.  We  continue  to  enrich  our  InfyMe  app  with  more  services  that  enable  teams  to  operate,  connect  and collaborate easily, particularly in the hybrid work model.
+NAVI: Now available on the InfyMe homepage, Navi is Infosys' intelligent assistant that simplifies access to policies, data,  and  employee  services  with  minimal  manual  effort.  It  enables  quick,  seamless  retrieval  of information-from leave details to team insights-while continuously learning to enhance employee experience and productivity.
+## Our NAVI-powered interventions
+Data  Assist: This  natural  language  friendly  AI  assistant  can  be  used  to  query  data  related  to  leave,  attendance, allocation, assets, confirmation, master data etc., of self and the team.
+Policy Advisor: The AI assistant will respond to employee queries by interpreting policy documents and personalize interactions based on individual employees.
+Moments That Matter (MTM): MTM has been ideated to become a celebration platform which will be integrated into all celebrations, small or big, throughout the employee life cycle. Smart alerts inform employees on upcoming moments that  matter  in  their  teams,  and  they  can  use  AI  to  generate  cards  and  messages  to  their  colleagues  and  teams.  Smart alerts  inform  employees  on  upcoming moments that matter in their team and they can use AI to generate cards and messages to their colleagues and teams.
+Pulse  Analysis: Our  AI  driven  Pulse  analysis  also  empowers  continuous  listening,  helping  us  identify  employee sentiment  and  act  early  to  enhance  well-being  and  engagement.  For  managers  and  leaders,  AI  tools  enable  intuitive access to data, proactive nudges, and insights that support informed, empathetic decision-making.
+Learning and Development: In Learning and Development, we are deploying generative AI to deliver personalized learning paths, simulate real-world scenarios, and assist in content creation. AI companions on our learning platform Lex, such as Zoiee and SynthAIz, provide intelligent tutoring, summarization, and contextual learning support. These innovations ensure every employee receives guidance aligned to their goals, skill levels, and preferred learning styles. From automated offboarding to retention analysis, AI also supports thoughtful transitions while maintaining a human touch.
+## REWARDS &amp; RECOGNITION
+We believe that timely rewards and recognition lead to a highly satisfied and motivated workforce. Several awards are facilitated for employees throughout the year and career stages:
+- Awards  for  Excellence  (AFE) -Dubbed  the  Academy  Awards  of  Infosys,  AFE  celebrates  the  top performers across the company in various categories.
+- Gracias - Peer appreciation portal
+- Insta Awards - Instant recognition from managers
+- RISE Awards - Based on quarterly/ half-yearly performance
+- Unit, GEO, Account, DC Rise Awards, ACE Awards, Kudos and Glory Awards - Quarterly and half-yearly recognition across units, accounts, and geographies.
+- Wow Awards - Acknowledging outstanding contributions to the account or unit.
+- PM Elite+ - Recognizing best managed projects and top project management talent
+- Leadership by Example Award - Honoring exemplary leadership
+- Managers with Great Teams Awards, People Health Champions Awards, Maximus Awards, BTN Awards, Best Manager Awards - Spotlighting team engagement and managerial excellence.
 
-|                              | (Dollars              | (Dollars              | (Dollars              | (Dollars              | (Dollars              |
-|------------------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
-|                              | Category of ROU asset | Category of ROU asset | Category of ROU asset | Category of ROU asset | Category of ROU asset |
-|                              | Land                  | Buildings             | Vehicles              | Computers             | Total                 |
-| Balance as of April 1, 2023  | 76                    | 474                   | 2                     | 285                   | 837                   |
-| Additions*                   | -                     | 47                    | 1                     | 226                   | 274                   |
-| Deletions                    | (1)                   | (22)                  | -                     | (91)                  | (114)                 |
-| Impairment                   | -                     | (10)                  | -                     | -                     | (10)                  |
-| Depreciation                 | (1)                   | (87)                  | (1)                   | (104)                 | (193)                 |
-| Translation difference       | (2)                   | (6)                   | -                     | -                     | (8)                   |
-| Balance as of March 31, 2024 | 72                    | 396                   | 2                     | 316                   | 786                   |
+## EMPLOYEE CARE AND CONNECT; CREATING A POSITIVE WORK ENVIRONMENT
+Communities &amp; Engagement | Family &amp; Tech | Compliance &amp; Employee Volunteerism | Wellness &amp; Exclusives
+- ASHI: Our assurance to our employees towards providing a harassment-free workplace is reflected in our flagship  program - ASHI (Anti-Sexual Harassment Initiative). Our policy prohibits sexual harassment of any kind and / or on the basis protected by federal, state, or local law or ordinance or regulation. It applies to  all  people  involved  in  the  operation  of  the  Group  and  prohibits  unlawful  harassment  from  /  to  any employee  of  the  Company  towards  other  employees  including  supervisors,  vendors,  and  clients.  The philosophy of the policy is to ensure Zero Occurrence and Zero Tolerance of sexual harassment. While the former  strives  towards  awareness  creation  among  employees,  the  latter  achieves  the Company's goal of taking responsible action against sexual harassment of any kind. There are periodic interventions to educate and enable employees and the contract staff.
+- HEAR: Our  intent  is  to  encourage  and facilitate informal  resolution  of  employee  grievances.  However, when  matters  cannot  be  resolved  through  discussions  with  the  employee's  immediate  supervisor  and supervisor's manager, we provide for a formal review procedure as part of the grievance resolution process, called HEAR (Hearing Employees and Resolving). HEAR covers concerns/matters under managerial issues, process / policy eligibility, discrimination at the workplace, performance management, interpersonal issues, etc.
+- HALE: Infosys' Health Assessment &amp; Lifestyle Enrichment (HALE) program is a non-monetary employee benefit and has been recognized as the best internal brand with great recall and participation. Our wellness philosophy stands on four pillars i.e. Physical, Emotional, Social well-being and Safety. All our interventions that we co-create with extended teams, business units, and external partners are to cater to the needs &amp; asks of our employees. Our Philosophy at HALE is a proactive approach to health and lifestyle enrichment aimed at increased awareness and overall well-being, resulting in reduced stress levels, a safe work environment, a happier workforce, and improved productivity levels. At Infosys, we believe thriving extends  beyond  professional  success;  it  includes  holistic growth-mentally, physically,  socially,  and emotionally.
+- Infosys Way of Life: The Infosys Way of Life is an embodiment of our enduring commitment to a strong, positive culture that is at the heart of our existence.  It becomes even more important in the hybrid work environment  and  as  we  welcome  new  employees.  This  initiative  is  crucial  in  fostering  collaboration, innovation, and inclusion. It is shaped by meaningful conversations and actions aimed at reinvigorating our culture,  anchored  in  five  core  cultural  markers:  Care,  Values  (C-LIFE),  Collaboration,  Learning,  and Inclusion, inviting every Infoscion to play an active role in nurturing a vibrant workplace
+- C-LIFE: Defines and guides our approach each day and influences every change we make for ourselves, our  company,  and  our  clients.  CLIFE,  as  outlined  in  our  Code  of  Conduct,  stands  for  Client  value, Leadership  by  example,  Integrity  &amp;  Transparency,  Fairness,  and  Excellence.  These  values  form  the
 
-* Net of adjustments on account of modifications and lease incentives
-
-The  aggregate  depreciation  expense  on  ROU  assets  is  included  in  cost  of  sales  in  the  consolidated  statement  of comprehensive income.
-The following is the break-up of current and non-current lease liabilities:
-|                               | (Dollars in millions)   | (Dollars in millions)   |
-|-------------------------------|-------------------------|-------------------------|
-|                               | March 31, 2026          | March 31, 2025          |
-| Current lease liabilities     | 333                     | 287                     |
-| Non-current lease liabilities | 634                     | 675                     |
-| Total                         | 967                     | 962                     |
-
-The following is the movement in lease liabilities:
-|                                                        | (Dollars in millions)   | (Dollars in millions)   | (Dollars in millions)   |
-|--------------------------------------------------------|-------------------------|-------------------------|-------------------------|
-|                                                        | Year ended March 31,    | Year ended March 31,    | Year ended March 31,    |
-|                                                        | 2026                    | 2025                    | 2024                    |
-| Balance at the beginning                               | 962                     | 1,002                   | 1,010                   |
-| Additions                                              | 283                     | 255                     | 265                     |
-| Addition for Business Combination (Refer to Note 2.10) | -                       | 20                      | -                       |
-| Finance cost accrued during the period                 | 41                      | 40                      | 39                      |
-| Deletions                                              | (18)                    | (65)                    | (53)                    |
-| Payment of lease liabilities                           | (318)                   | (278)                   | (245)                   |
-| Translation difference                                 | 17                      | (12)                    | (14)                    |
-| Balance at the end                                     | 967                     | 962                     | 1,002                   |
-
-The table below provides details regarding the contractual maturities of lease liabilities on an undiscounted basis:
-|                      | (Dollars in millions)   | (Dollars in millions)   |
-|----------------------|-------------------------|-------------------------|
-|                      | March 31, 2026          | March 31, 2025          |
-| Less than one year   | 358                     | 290                     |
-| One to five years    | 610                     | 608                     |
-| More than five years | 110                     | 152                     |
-| Total                | 1,078                   | 1,050                   |
-
-The Group does not face a significant liquidity risk with regard to its lease liabilities as the current assets are sufficient to meet the obligations related to lease liabilities as and when they fall due.
-Rental expense recorded for short-term leases was $13 million, $10 million and $12 million for fiscal 2026, fiscal 2025 and fiscal 2024, respectively.
-Leases not yet commenced to which Group is committed is $27 million for a lease term up to 6 years.
-The following is the movement in the net investment in lease:
-|                                           | (Dollars             | (Dollars             | (Dollars             |
-|-------------------------------------------|----------------------|----------------------|----------------------|
-|                                           | Year ended March 31, | Year ended March 31, | Year ended March 31, |
-|                                           | 2026                 | 2025                 | 2024                 |
-| Balance at the beginning                  | 262                  | 219                  | 112                  |
-| Additions                                 | 142                  | 120                  | 149                  |
-| Interest income accrued during the period | 7                    | 4                    | 3                    |
-| Others                                    | 2                    | (3)                  | -                    |
-| Lease receipts                            | (146)                | (79)                 | (48)                 |
-| Translation Differences                   | 4                    | 1                    | 3                    |
-| Balance at the end                        | 271                  | 262                  | 219                  |
-
-## 2.9 Goodwill and intangible assets
-## 2.9.1 Goodwill
-## Accounting policy
-Goodwill represents the purchase consideration in excess of the Group's interest in the net fair value of identifiable assets, liabilities  and  contingent liabilities of the acquired entity. When the net fair value of the identifiable assets, liabilities and contingent liabilities acquired exceeds the purchase consideration, the fair value of net assets acquired is reassessed and the bargain purchase gain is recognized immediately in the net profit in the statement of comprehensive income. Goodwill is measured at cost less accumulated impairment losses.
-## Impairment
-Goodwill is tested for impairment on an annual basis and whenever there is an indication that the recoverable amount of a cash generating unit (CGU) is less than its carrying amount. For the impairment test, goodwill is allocated to the CGU or groups of CGUs which benefit from the synergies of the acquisition, and which represents the lowest level at which goodwill is  monitored  for  internal  management  purposes.  A  CGU  is  the  smallest  identifiable  group  of  assets  that  generates  cash inflows that are largely independent of the cash inflows from other assets or group of assets. Impairment occurs when the carrying amount of a CGU including the goodwill, exceeds the estimated recoverable amount of the CGU. The recoverable amount of a CGU is the higher of its fair value less cost to sell and its value-in-use. Value-in-use is the present value of future cash flows expected to be derived from the CGU. Key assumptions in the cash flow projections are prepared based on current economic conditions and includes estimated long term growth rates, weighted average cost of capital and estimated operating margins.
-Following is a summary of changes in the carrying amount of goodwill:
-|                                                               | (Dollars in millions)   | (Dollars in millions)   |
-|---------------------------------------------------------------|-------------------------|-------------------------|
-|                                                               | March 31, 2026          | March 31, 2025          |
-| Carrying value at the beginning                               | 1,182                   | 875                     |
-| Goodwill on acquisitions during the year (Refer to Note 2.10) | 52                      | 309                     |
-| Translation differences                                       | 44                      | (2)                     |
-| Carrying value at the end                                     | 1,278                   | 1,182                   |
-
-For the purpose of impairment testing, goodwill acquired in a business combination is allocated to the cash generating units (CGU) or groups of CGUs, which are benefited  from  the  synergies  of  the  acquisition.  The  Group  internally  reviews  the goodwill for impairment at the operating segment level, after allocation of the goodwill to CGUs or groups of CGUs.
-The following table presents the allocation of goodwill to operating segments as of March 31, 2026, and March 31, 2025:
-|                                                 | (Dollars in millions) As of   | (Dollars in millions) As of   |
-|-------------------------------------------------|-------------------------------|-------------------------------|
-| Segments                                        | March 31, 2026                | March 31, 2025                |
-| Financial services                              | 194                           | 177                           |
-| Retail                                          | 118                           | 112                           |
-| Communication                                   | 86                            | 81                            |
-| Energy, utilities, Resources and Services       | 186                           | 156                           |
-| Manufacturing                                   | 372                           | 349                           |
-| Life Sciences                                   | 122                           | 114                           |
-|                                                 | 1,078                         | 989                           |
-| Operating segments without significant goodwill | 83                            | 76                            |
-| Total                                           | 1,161                         | 1,065                         |
-
-The goodwill pertaining to Panaya amounting to $117 million and $117 million as of March 31, 2026, and March 31, 2025, respectively is tested for impairment at the entity level.
-The recoverable amount of a CGU is the higher of its fair value less cost to sell and its value-in-use. The fair value of a CGU is determined based on the market capitalization. Value-in-use is determined based on discounted future cash flows.
-The key assumptions used for the calculations are as follows:
-|                       |                | (in %)         |
-|-----------------------|----------------|----------------|
-|                       | As of          | As of          |
-|                       | March 31, 2026 | March 31, 2025 |
-| Long term growth rate | 7-10           | 7-10           |
-| Operating margins     | 19-21          | 19-21          |
-| Discount rate         | 14             | 13             |
-
-The above discount rate is based on the Weighted Average Cost of Capital (WACC) of the Company. As of March 31, 2026, the estimated recoverable amount of the CGU exceeded its carrying amount. Reasonable sensitivities in key assumptions are unlikely to cause the carrying amount to exceed the recoverable amount of the cash generating units.
-## 2.9.2 Intangible assets
-## Accounting policy
-Intangible assets are stated at cost less accumulated amortization and impairment. Intangible assets are amortized over their respective  individual  estimated  useful  lives  on  a  straight-line  basis,  from  the  date  that  they  are  available  for  use.  The estimated useful life of an identifiable intangible asset is based on a number of factors including the effects of obsolescence, demand, competition, and other economic factors (such as the stability of the industry and known technological advances) and the level of maintenance expenditures required to obtain the expected future cash flows from the asset. Amortization methods and useful lives are reviewed periodically including at each financial year end.
-Research costs are expensed as incurred. Software product development costs are expensed as incurred unless technical and commercial feasibility of the project is demonstrated, future economic benefits are probable, the Group has an intention and ability to complete and use or sell the software and the costs can be measured reliably. The costs which can be capitalized include the cost of material, direct labour, overhead costs that are directly attributable to preparing the asset for its intended use.
-## Impairment
-Intangible assets are evaluated for recoverability whenever events or changes in circumstances indicate that their carrying amounts may not be recoverable. For the purpose of impairment testing, the recoverable amount (i.e., the higher of the fair value less cost to sell and the value-in-use) is determined on an individual asset basis unless the asset does not generate cash flows that are largely independent of those from other assets. In such cases, the recoverable amount is determined for the CGU to which the asset belongs.
-If  such  assets  are  considered  to  be  impaired,  the  impairment  to  be  recognized  in  the  net  profit  in  the  statement  of comprehensive  income  is  measured  by  the  amount  by  which  the  carrying  value  of  the  assets  exceeds  the  estimated recoverable amount of the asset. An impairment loss is reversed in the net profit in the statement of comprehensive income if there  has  been  a  change  in  the  estimates  used  to  determine  the  recoverable  amount.  The  carrying  amount  of  the  asset  is increased to its revised recoverable amount, provided that this amount does not exceed the carrying amount that would have been determined (net of any accumulated amortization) had no impairment loss been recognized for the asset in prior years.
-Following are the changes in the carrying value of acquired intangible assets for fiscal 2026:
-|                                                                |                  |                  |                   | (Dollars in millions)   | (Dollars in millions)   |
-|----------------------------------------------------------------|------------------|------------------|-------------------|-------------------------|-------------------------|
-|                                                                | Customer related | Software related | Marketing related | Others*                 | Total                   |
-| Gross carrying value as of April 1, 2025                       | 516              | 151              | 61                | 94                      | 822                     |
-| Additions during the period                                    | -                | 19               | -                 | -                       | 19                      |
-| Acquisition through business combination (Refer note no. 2.10) | 26               | -                | 2                 | 7                       | 35                      |
-| Deletions                                                      | -                | -                | -                 | -                       | -                       |
-| Translation differences                                        | 25               | 6                | 2                 | 1                       | 34                      |
-| Gross carrying value as of March 31, 2026                      | 567              | 176              | 65                | 102                     | 910                     |
-| Accumulated amortization as of April 1, 2025                   | (281)            | (103)            | (35)              | (80)                    | (499)                   |
-| Amortization expense #                                         | (71)             | (14)             | (7)               | (9)                     | (101)                   |
-| Deletions                                                      | -                | -                | -                 | -                       | -                       |
-| Translation differences                                        | (11)             | (1)              | -                 | -                       | (12)                    |
-| Accumulated amortization as of March 31, 2026                  | (363)            | (118)            | (42)              | (89)                    | (612)                   |
-| Carrying value as of March 31, 2026                            | 204              | 58               | 23                | 13                      | 298                     |
-| Carrying value as of April 1, 2025                             | 235              | 48               | 26                | 14                      | 323                     |
-| Estimated Useful Life (in years)                               | 1-15             | 3-10             | 3-10              | 3-7                     |                         |
-| Estimated Remaining Useful Life (in years)                     | 1-9              | 1-4              | 1-5               | 1-2                     |                         |
-
-# During the year ended March 31, 2026, a decline in the revenue estimates led to the carrying value of the customer related intangibles  assets  recognized  on  business  combination  exceeding  the  estimated  recoverable  amount.  Consequently,  the Company has recognized $26 million as the excess of carrying value over the estimated recoverable value for the year ended March 31, 2026.
-* Primarily includes intangibles related to vendor relationships
-
-Following are the changes in the carrying value of acquired intangible assets for fiscal 2025:
-|                                                                |                  |                  |                   | (Dollars in millions)   | (Dollars in millions)   |
-|----------------------------------------------------------------|------------------|------------------|-------------------|-------------------------|-------------------------|
-|                                                                | Customer related | Software related | Marketing related | Others*                 | Total                   |
-| Gross carrying value as of April 1, 2024                       | 304              | 134              | 42                | 94                      | 574                     |
-| Additions during the period                                    | -                | 17               | -                 | -                       | 17                      |
-| Acquisition through business combination (Refer note no. 2.10) | 212              | -                | 20                | -                       | 232                     |
-| Deletions                                                      | -                | -                | -                 | -                       | -                       |
-| Translation differences                                        | -                | -                | (1)               | -                       | (1)                     |
-| Gross carrying value as of March 31, 2025                      | 516              | 151              | 61                | 94                      | 822                     |
-| Accumulated amortization as of April 1, 2024                   | (219)            | (93)             | (28)              | (67)                    | (407)                   |
-| Amortization expense #                                         | (62)             | (10)             | (6)               | (13)                    | (91)                    |
-| Deletions                                                      | -                | -                | -                 | -                       | -                       |
-| Translation differences                                        | -                | -                | (1)               | -                       | (1)                     |
-| Accumulated amortization as of March 31, 2025                  | (281)            | (103)            | (35)              | (80)                    | (499)                   |
-| Carrying value as of March 31, 2025                            | 235              | 48               | 26                | 14                      | 323                     |
-| Carrying value as of April 1, 2024                             | 85               | 41               | 14                | 27                      | 167                     |
-| Estimated Useful Life (in years)                               | 1-15             | 3-10             | 3-10              | 3-7                     |                         |
-| Estimated Remaining Useful Life (in years)                     | 1-9              | 1-4              | 1-6               | 1-3                     |                         |
-
-# During the year ended March 31, 2025, a decline in the revenue estimates led to the carrying value of the customer related intangibles  assets  recognized  on  business  combination  exceeding  the  estimated  recoverable  amount.  Consequently,  the Company has recognized $22 million as the excess of carrying value over the estimated recoverable value for the year ended March 31, 2025.
-* Primarily includes intangibles related to vendor relationships
-
-Following are the changes in the carrying value of acquired intangible assets for fiscal 2024:
-|                                               |                  |                  |                   | (Dollars in millions)   | (Dollars in millions)   |
-|-----------------------------------------------|------------------|------------------|-------------------|-------------------------|-------------------------|
-|                                               | Customer related | Software related | Marketing related | Others*                 | Total                   |
-| Gross carrying value as of April 1, 2023      | 307              | 127              | 42                | 94                      | 570                     |
-| Additions during the period                   | -                | 9                | -                 | -                       | 9                       |
-| Translation differences                       | (3)              | (2)              | -                 | -                       | (5)                     |
-| Gross carrying value as of March 31, 2024     | 304              | 134              | 42                | 94                      | 574                     |
-| Accumulated amortization as of April 1, 2023  | (196)            | (85)             | (24)              | (52)                    | (357)                   |
-| Amortization expense                          | (24)             | (9)              | (4)               | (15)                    | (52)                    |
-| Translation differences                       | 1                | 1                | -                 | -                       | 2                       |
-| Accumulated amortization as of March 31, 2024 | (219)            | (93)             | (28)              | (67)                    | (407)                   |
-| Carrying value as of March 31, 2024           | 85               | 41               | 14                | 27                      | 167                     |
-| Carrying value as of April 1, 2023            | 111              | 42               | 18                | 42                      | 213                     |
-| Estimated Useful Life (in years)              | 1-15             | 3-10             | 3-10              | 3-7                     |                         |
-| Estimated Remaining Useful Life (in years)    | 1-10             | 1-5              | 1-6               | 1-4                     |                         |
-
-* Primarily includes intangibles related to vendor relationships
-
-The  amortization  expense  has  been  included  under  depreciation  and  amortization  expense  under  cost  of  sales  in  the consolidated statement of comprehensive income.
-Research and development expense recognized in the consolidated statement of comprehensive income, for fiscal 2026, 2025 and 2024 was $207 million, $153 million and $135 million, respectively.
-## 2.10 Business combinations
-## Accounting Policy:
-Business  combinations  have  been  accounted  for  using  the  acquisition  method  under  the  provisions  of  IFRS  3  (Revised), Business Combinations.
-The purchase price in an acquisition is measured at the fair value of the assets transferred, equity instruments issued and liabilities incurred or assumed at the date of acquisition, which is the date on which control is transferred to the Group. The purchase price also includes the fair value of any contingent consideration. Identifiable assets acquired and liabilities and contingent liabilities assumed in a business combination are measured initially at their fair value on the date of acquisition. Contingent consideration is remeasured at fair value at each reporting date and changes in the fair value of the contingent consideration are recognized in the consolidated statement of comprehensive income.
-The  interest  of  non-controlling  shareholders  is  initially  measured  either  at  fair  value  or  at  the  non-controlling interests' proportionate share of the acquiree's identifiable net assets. The choice of measurement basis is made on an acquisition-byacquisition basis. Subsequent to acquisition, the carrying amount of non-controlling interests is the amount of those interests at initial recognition plus the non-controlling interests' share of subsequent changes in equity of subsidiaries.
-Business  combinations  between  entities  under  common  control  is  outside  the  scope  of  IFRS  3  (Revised),  Business Combinations and is accounted for at carrying value of assets acquired and liabilities assumed.
-The payments related to options issued by the Group over the non-controlling interests in its subsidiaries are accounted as financial liabilities and initially recognized at the estimated present value of gross obligations. Such options are subsequently measured at fair value in order to reflect the amount payable under the option at the date at which it becomes exercisable. In the event that the option expires unexercised, the liability is derecognized.
-## Acquisition during the year ended March 31, 2026
-During the  year  ended  March  31,  2026  the  Group,  completed  two  business  combinations  by  acquiring  100%  partnership interests/voting interests in:
-1) MRE Consulting Ltd., a leading Energy and business consulting services company, headquartered in Texas, U.S. on April 30,  2025,  which  is  expected  to  bring  newer  capabilities  for  the  Group  in  trading  and  risk  management,  especially  in  the energy sector.
-
-2)  The  Missing  Link  Security  Pty.  Ltd.,  The  Missing  Link  Security  Limited  and  The  Missing  Link  Automation  Pty.  Ltd. (collectively known as "The Missing Link"), a leading Cybersecurity service provider headquartered in Australia on April 30, 2025, which is expected to further strengthen the Group's capabilities in the cybersecurity sector and bolster its presence in the fast growing Australian Market.
-
-The purchase price is allocated to assets acquired and liabilities assumed based upon determination of fair values at the date of acquisition as follows:
-|                                               |                            | (Dollars in millions)   | (Dollars in millions)    |
-|-----------------------------------------------|----------------------------|-------------------------|--------------------------|
-| Component                                     | Acquiree's carrying amount | Fair value adjustments  | Purchase price allocated |
-| Net assets*                                   | 14                         | -                       | 14                       |
-| Intangible assets                             |                            |                         |                          |
-| Customer related                              | -                          | 26                      | 26                       |
-| Vendor relationship                           | -                          | 7                       | 7                        |
-| Brand                                         | -                          | 2                       | 2                        |
-| Deferred tax liabilities on intangible assets | -                          | (5)                     | (5)                      |
-| Total                                         | 14                         | 30                      | 44                       |
-| Goodwill                                      |                            |                         | 52                       |
-| Total purchase price                          |                            |                         | 96                       |
-
-(*) Includes cash and cash equivalents acquired of $12 million.
-The excess of the purchase consideration paid over the fair value of assets acquired has been attributed to goodwill. The primary  items  that  generated  this  goodwill  are  the  value  of  the  acquired  assembled  workforce  and  estimated  synergies, neither of which qualify as an intangible asset.
-Goodwill amounting to $9 million is expected to be deductible for tax purposes.
-The  total  purchase  consideration  of  $96  million  includes  upfront  cash  consideration  of  $88  million  and  contingent consideration with an estimated fair value of $8 million as on the date of acquisition.
-At the acquisition date, the key inputs used in determination of the fair value of contingent consideration are the probabilities assigned  towards  achievement  of  financial  targets  and  discount  rates  ranging  from  2%  -  3%.  The  undiscounted  value  of contingent consideration as of March 31, 2026 was approximately $9 million.
-Additionally, these acquisitions have retention bonus and management incentives payable to the employees of the acquiree over 2-3 years, subject to their continuous employment with the Group and achievement of financial targets for the respective years.  Retention  bonus  and  management  incentives  are  recognized  in  employee  benefit  expenses  in  the  Statement  of Comprehensive Income over the period of service.
-Fair  value  of  trade  receivables  acquired  is  $23  million  as  of  acquisition  date  and  as  of  March  31,  2026,  the  amounts  are substantially collected.
-Transaction  costs  that  the  Group  incurs  in  connection  with  a  business  combination  such  as finder's fees,  legal  fees,  due diligence fees, and other professional and consulting fees are expensed as incurred. The transaction costs of $4 million related to the acquisition have been included under administrative expenses in the Consolidated Statement of Comprehensive Income for the year ended March 31, 2026.
-## Acquisition during the year ended March 31, 2025
-## InSemi
-On  May  10,  2024,  Infosys  Ltd  acquired  100%  voting  interests  in  InSemi  Technology  Services  Private  Limited,  a semiconductor design services company headquartered in India. This acquisition is expected to strengthen our expertise in semiconductor ecosystem and Engineering R&amp;D services.
-The purchase price is allocated to assets acquired and liabilities assumed based upon determination of fair values at the date of acquisition as follows:
-|                                               |                            | (Dollars in millions)   | (Dollars in millions)    |
-|-----------------------------------------------|----------------------------|-------------------------|--------------------------|
-| Component                                     | Acquiree's carrying amount | Fair value adjustments  | Purchase price allocated |
-| Net assets (1)                                | 5                          | -                       | 5                        |
-| Intangible assets                             |                            |                         |                          |
-| Customer related                              | -                          | 7                       | 7                        |
-| Brand                                         | -                          | 2                       | 2                        |
-| Deferred tax liabilities on intangible assets | -                          | (2)                     | (2)                      |
-| Total                                         | 5                          | 7                       | 12                       |
-| Goodwill                                      |                            |                         | 12                       |
-| Total purchase price                          |                            |                         | 24                       |
-
-(1) Includes cash and cash equivalents acquired of $5 million.
-The excess of the purchase consideration paid over the fair value of assets acquired has been attributed to goodwill. The primary  items  that  generated  this  goodwill  are  the  value  of  the  acquired  assembled  workforce  and  estimated  synergies, neither of which qualify as an intangible asset.
-## Goodwill is not tax-deductible.
-The purchase consideration of $24 million includes cash of $20 million and contingent consideration with an estimated fair value of $4 million as on the date of acquisition.
-At the acquisition date, the key inputs used in determination of the fair value of contingent consideration are the probabilities assigned  towards  achievement  of  financial  targets  and  discount  rate  of  5.9%.  The  undiscounted  value  of  contingent consideration as of March 31, 2026 was $4 million.
-Additionally, this acquisition has retention bonus and management incentive payable to the employees of the acquiree over three years, subject to their continuous employment with the Group and achievement of financial targets for the respective years. Bonus and incentives are recognized in employee benefit expenses in the Consolidated Statement of Comprehensive Income over the period of service.
-Fair value of trade receivables acquired is $4 million as of acquisition date and as of March 31, 2026 the amounts are fully collected.
-Transaction  costs  that  the  Group  incurs  in  connection  with  a  business  combination  such  as finder's fees,  legal  fees,  due diligence  fees,  and  other  professional  and  consulting  fees  are  expensed  as  incurred.  The  transaction  costs  of  less  than  a million  related  to  the  acquisition  have  been  included  under  administrative  expenses  in  the  Consolidated  Statement  of Comprehensive Income  for the year ended March 31, 2025.
-## in-tech Holding GmbH
-On July 17, 2024, Infosys Germany GmbH wholly owned step-down subsidiary of Infosys Limited acquired 100% voting interests  in  in-tech  Holding  GmbH,  a  leading  provider  of  engineering  R&amp;D  services  headquartered  in  Germany.  This acquisition is expected to strengthen Infosys' engineering R&amp;D capabilities and reaffirms its continued commitment to global clients to navigate their digital engineering journey.
-The purchase price is allocated to assets acquired and liabilities assumed based upon determination of fair values at the date of acquisition as follows:
-|                                               |                            | (Dollars in millions)   | (Dollars in millions)    |
-|-----------------------------------------------|----------------------------|-------------------------|--------------------------|
-| Component                                     | Acquiree's carrying amount | Fair value adjustments  | Purchase price allocated |
-| Assets (*)                                    | 87                         | -                       | 87                       |
-| Liabilities                                   | (43)                       | -                       | (43)                     |
-| Intangible Assets                             |                            |                         |                          |
-| Customer related                              | -                          | 205                     | 205                      |
-| Brand                                         | -                          | 18                      | 18                       |
-| Deferred tax liabilities on intangible assets |                            | (61)                    | (61)                     |
-| Goodwill                                      |                            |                         | 297                      |
-| Loan                                          | (118)                      | -                       | (118)                    |
-| Total purchase price                          | (74)                       | 162                     | 385                      |
-| Loan repayment                                |                            |                         | 118                      |
-| Total cash outflow                            |                            |                         | 503                      |
-
-(*) Includes cash and cash equivalents acquired of $23 million.
-The excess of the purchase consideration paid over the fair value of assets acquired has been attributed to goodwill. The primary  items  that  generated  this  goodwill  are  the  value  of  the  acquired  assembled  workforce  and  estimated  synergies, neither of which qualify as an intangible asset.
+foundation of our daily lives at the workplace and shape our company culture. They should be exemplified by each and every one of us at Infosys.
+- Behavior Matters: This  campaign  encourages  employees  to  embody  positive  workplace  behavior  every day.
+- InfyTribes: Conceptualized  as  a  sustainable  community  ecosystem,  InfyTribes,  spread  across  12+ countries, 30K+ members, 120K+ followers have probably become one of the biggest innovations in the people space, with a potential to expand and grow more resulting in direct impact of employee satisfaction. The InfyTribes have become a GLOCAL initiative now which is largest community in Infosys history.
+- INFYusion: Probably  the  most  revolutionary  of  all,  with  acceptance  and  praise  across  the  board, INFYusion 2025, the second edition was bigger, better and bolder. The concept of bringing together the finalists across different segments of sports and culture and creating the engagement of its class, we plan to grow this every year. We had 1200+ finalists, 30K+ participation across all DCs, and 1.2M+ social media impressions. The overall championship saw Pune DC winning Gold followed by Silver for Mysore DC and Bronze for Bangalore DC. We also had an introduction of Unit Championship in this edition, and we had IQE unit  winning  Gold  followed  by  ENG  unit  winning  Silver  and  CIS  unit  winning  Bronze.  The  grand finale held at Mysore DC was a 3-day extravaganza of sports and culture #INFYusion 2025 has been an incredible  milestone  in  employee  engagement,  a  celebration  of  passion,  talent,  and  camaraderie  with  an unmissable #OneInfy spirit.
+- Petit Infoscion day: 100K+ footfall across 20 DCs - highest ever! | 31K+ Petits - 33% increase from last year | World Record in Wonder Book of Records | Live Performances including Mentalist Performance and Zumba Sessions | Virtual Engagements including virtual photobooth, Sci-Fi Quiz and Virtual Games | 5048 PIRS certificates awarded to Petits across 20 DC locations | 25K+ lucky draw entries.
+- Bring your kid to work: The 2025 edition of "Bring Your Kids to Work" week, brought our campuses to life  with  joy,  creativity  and  connection. A special highlight for this year was the empathy-building, CSR driven activities that helped our young visitors understand the value of giving back. This year we welcomed a total of 10, 300+ kids at 21 DCs. 4190+ kids participated in the CSR activities across DCs. We also had hybrid engagement which saw 1600+ kids participating. From art and craft activities to dance and music extravaganzas, the kids had a great time exploring the fun side of Infosys. The infectious enthusiasm of our young visitors left a lasting impression on us all. The week showcased collaborative spirit and dedication of our One Infy Team.
+- Stellar Saturday: This year's Stellar Saturday was a true celebration of the culture that defines Infosys, where collaboration, creativity, and community come together. Our campuses came alive as we opened our doors to friends and families, giving them a glimpse of the Infosys Way of Life and what makes Infosys so special. Across 14 DCs, over 42K+ participants including 26K+ Infoscions and 17K+ friends and family members, joined us to experience the vibrant spirit of Infosys through a day filled with engagement and joy.
