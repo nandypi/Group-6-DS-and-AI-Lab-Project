@@ -1,0 +1,368 @@
+---
+document_name: "Infosys_23072025153626_Outcome23072025.md"
+group_id: "Infosys_23072025153626_Outcome23072025__group_003"
+source_section_count: 4
+page_start: 15
+page_end: 25
+estimated_tokens: 9744
+source_section_ids:
+  - "Infosys_23072025153626_Outcome23072025__009"
+  - "Infosys_23072025153626_Outcome23072025__010"
+  - "Infosys_23072025153626_Outcome23072025__011"
+  - "Infosys_23072025153626_Outcome23072025__012"
+---
+
+## Client wins &amp; Testimonials
+1. Infosys announced the extension of its strategic collaboration with Select Portfolio Servicing, Inc. (SPS)  to  help  drive  greater  operational  efficiency  and  service  quality  through  a  fully  managed services offering encompassing hybrid cloud solutions, application portfolio, IT operations, IaaS, SaaS,  security  operations  and  quality  assurance. Murali  Palanganatham,  Chief  Information Officer,  SPS ,  said,  "Infosys  has  been  a  key  strategic  partner  over  the  last  20  years.  SPS  will leverage Infosys Topaz for AI adoption across the business, technology, and enterprise functions to continuously enhance availability, scalability, performance, resiliency, security, and stability. This collaboration is critical  and  will  help  SPS  enhance flexibility,  efficiency, and  predictability  of  our technology ecosystem.'
+2. Infosys  extended  its  strategic  collaboration  with AIB  to  accelerate  its  digital  transformation initiatives. Graham  Fagan,  Group  Chief  Technology  Officer,  AIB, said, "This extended collaboration with Infosys aligns strongly with our vision to progressively modernise our technology and data capabilities to deliver the best outcomes for our customers and further accelerate our transformation.  By  combining  our  collective  expertise  and  experience,  we  will  deliver  on  our customer-first commitment and enhance operational efficiency and resilience. Infosys has been a trusted innovation partner, and we are excited about this next chapter in our collaboration as we work together to ensure AIB remains at the forefront of digital transformation in the Irish banking industry."
+3. Infosys  announced  a  strategic  collaboration  with E.ON  to  enable  AI-powered  digital  workplace transformation across Europe. Dr. Victoria Ossadnik, COO Digital and Innovation, E.ON, said, 'At  E.ON,  we  are playmakers  for  new  energy.  Digitalization  and  digital  technology  are  key  for reliable,  affordable  and  sustainable  energy  systems.  Our  strategic  partnership  with  Infosys  is essential for our digital transformation and operation - together, we are paving the way for a smarter, more efficient energy future.'
+4. Infosys  announced  the  expansion  of  its  strategic  collaboration  with DNB  Bank  ASA (DNB)  to accelerate  the  bank's  digital  transformation. Elin  Sandnes,  COO  and  Group  Executive  Vice President Technology &amp; Services, DNB, said, 'At DNB, we are focused on leveraging technology to create great customer experiences. As part of this, we are constantly developing new products and services  while  simultaneously  driving  a  digital  transformation  agenda  that  is  deeply  rooted across all our operations. With our extended collaboration with Infosys, we are modernizing our IT infrastructure  and  leveraging  advanced  technologies  like  AI  and  ML  to  enable  seamless, personalized, and agile services to our customers. This partnership allows us to proactively address our customers' evolving needs and ensure they receive the best possible banking experience from DNB.'
+5. Infosys  announced  a  strategic  collaboration  with Yorkshire  Building  Society,  one  of  the  largest member-owned  financial  institutions  in  the  UK,  to  accelerate  its  digital  transformation. Patrick Connolly, Director of Change Delivery, Yorkshire Building Society, said, "This collaboration is crucial to achieving our 2030 ambitions and realising the true potential of this organisation. The choices we make now will shape our future, and we are committed to combining the convenience of digital with the warmth of human interaction. This transformation will empower our members and colleagues with the tools and services needed to deliver great customer outcomes, including major investments such as faster payments and enhanced security. It's a key part of our plan for continued growth, innovation, and efficiency, ensuring we continue to serve our members for generations to come.'
+
+Press Release
+<!-- image -->
+6. Infosys and Spark New Zealand announced a strategic agreement to support the transformation of Spark's  technology  delivery  model  through  digital  innovation. Matt  Bain,  Data  and  Marketing Director, Spark , said, 'Infosys has collaborated with Spark for over 16 years, working alongside our local teams to support the applications that enable Spark to deliver new products and digital experiences for our customers. We are now building on this relationship to allow our teams to focus on our technology strategy and the product roadmaps that will grow our competitive advantage, while leveraging Infosys' global scale to execute these plans quickly and efficiently and accessing Infosys' investment in AI and innovation to enable us to keep delivering great experiences f or our customers.'
+7. Infosys collaborated with Perfection Fresh to enable seamless tracking of their sustainability efforts. Francesco Oliveri, Chief Information Officer, Perfection Fresh Australia, said, 'Our Partnership with Infosys to implement Microsoft Sustainability Manager has helped us in providing real-time visibility of produce across all locations thereby improving operational efficiency, audit transparency and reducing wastage. Originally planned for just 4 sites, the rollout extended to all 17 locations thanks  to  Infosys'  expertise  and  collaboration.  It  was  also  their  vision  and  commitment  to sustainability that matched our vision that allowed us to be more comfortable in working with Infosys. The partnership has been instrumental in driving key milestones for Perfection Fresh's sustainability roadmap'.
+8. Infosys Finacle announced a strategic collaboration with Bank of Sydney (BoS) to power its digital transformation  with  Infosys  Finacle  Digital  Banking  Suite. Melos  Sulicich,  Chief  Executive Officer, Bank of Sydney, said, 'At Bank of Sydney, our strategic goal is to become the leading deposit bank in Australia and to drive significant business growth in the coming years. This requires adapting to rapidly changing customer needs, digital advancements, and regulatory requirements. Transforming our technology stack, centered around our core and digital banking platform, is crucial to meeting these objectives. With Infosys Finacle, we have a proven transformation partner and a next-generation banking platform to address the evolving needs of our business, customers, and regulatory ecosystem.'
+9. Infosys BPM announced the launch of AI agents for invoice processing within its flagship Infosys Accounts Payable on Cloud solution. Harsh Bansal, Chief Financial Officer and Chief Growth Officer, Americana Restaurants, said, 'At Americana Restaurants, we are committed to leading digital transformation, and as we scale our operations, intelligent automation is key to achieving greater efficiency and agility. With AI-powered Infosys Accounts Payable on Cloud, we have made invoice processing faster, enhanced accuracy, and improved efficiency. The addition of Agentic AI takes  this  a  step  further,  reducing  manual  dependencies  and  bringing  more  intelligence  and autonomy into our invoice processing. We are delighted that we have pioneered this initiative with Infosys and look forward to closely working with Infosys BPM to lead us collectively into a future of smarter and more agile operations."
+10. Infosys announced a three-year strategic collaboration with the Lawn Tennis Association (LTA) to deliver a range of AI-powered  innovations, including match  insights and  immersive  fan experiences. Chris Pollard, Managing Director, Commercial &amp; Operations, LTA, said, 'We are incredibly excited to witness the historic moment of the HSBC Championships at Queen's Club hosting both WTA and ATP 500 events for the very first time. This milestone marks a significant step in the growth and evolution of this prestigious tournament. We are thrilled to collaborate with Infosys, whose support will be instrumental in delivering an enhanced fan experience. Infosys' AI and  technology  innovations  will  bring  a  new  level  of  engagement  with  real-time  insights  and interactive moments, creating memorable experiences for our fans and contribute to the continued success of the HSBC Championships.'
+
+Press Release
+<!-- image -->
+11. Infosys and Economist Impact announced the launch of The Sustainability Atlas to help businesses navigate a sustainable future. Jonathan Birdwell, Global Head of Policy &amp; Insights, Economist Impact, said, 'Over the past decade, Economist Impact has built dozens of indices and published hundreds  of  reports  across  a  wide  range  of  sustainability  topics  from  food  security  to  plastics management, to climate resilience. But never before have we been able to bring all of that data and insights together in one plac e.  Leveraging Infosys' generative AI capabilities, The Sustainability Atlas  provides  easily  accessible  and  actionable insights to  policy makers  and  business  leaders worldwide.'
+
+## Recognitions &amp; Awards
+## · Brand &amp; Corporate
+- Recognized as a Top 100 most valuable brand in the world by Kantar BrandZ and ranked among the most-trusted brands in India and the US
+- Recognized as one of the top 3 companies (on combined basis) in 5 categories -Best CEO, Best IR Professional, Best IR Program, Best IR Team and Best ESG Program -at the 2025 Asia Executive Team Survey by Extel (formerly Institutional Investor Research)
+- Recognized as a Great Place to Work 2025-2026 in India and China
+- Infosys BPM won at the Diversity Charter Awards 2025 in the 'Employer Supporting Women in the Workplace' category for its HR initiative, namely 'Empower with Care'
+- Infosys BPM won the PeopleFirst HR Excellence Awards 2025 for 'Leading Practices' in Learning &amp; Development
+
+## · Digital, AI and Cloud Services
+- Positioned as a leader in the Everest Group: Microsoft Modern Work Services PEAK Matrix® Assessment 2025
+- Positioned as a leader in the Everest Group: Marketing Services PEAK Matrix® Assessment 2025
+- Positioned as a leader in the Everest Group: Talent Readiness for Next-generation Application Services PEAK Matrix® Assessment 2025
+- Recognized as a leader in HFS Horizons: The Best of Engineering Research and Development Service Providers, 2025
+- Recognized  as  a  leader  in  the  Constellation  Research:  Constellation  ShortList ™ CrossPlatform Agentic AI
+- Recognized as a leader in Datos: The New Era of Check Fraud Detection: A Guide to Market Solutions
+- Infosys BPM recognized as a Leader in ISG Provider Lens ™ Global Capability Center (GCC) Services 2025 Study
+
+Press Release
+<!-- image -->
+- Infosys  BPM recognized  as  a  Leader  in  ISG  Provider  Lens ™ Procurement  Services 2025 Study
+- Received the Customer Innovation Award from Databricks for delivering impactful solutions across industries
+- Received Global System Integrator of the Year-EMEA award at Stibo's PATH Summit 2025
+
+## · Industry &amp; Solutions
+- Positioned as a leader in the Everest Group: Life Sciences Digital Services PEAK Matrix® Assessment 2025
+- Positioned as a leader in the Everest Group: Life Sciences Enterprise Platform Services PEAK Matrix® Assessment 2025
+- Positioned as a leader in the Everest Group: Retail Services PEAK Matrix® Assessment 2025
+- Recognized as a leader in HFS Horizons: Energy and Utilities Service Providers, 2025
+- Recognized as a leader in HFS Horizons: Intelligent Retail and CPG Ecosystems, 2025
+- Recognized as a leader in HFS Horizons: Insurance Services, 2025
+- Infosys  Finacle  recognized  as  a  Market  Leader  in  the  Datos  Matrix:  Virtual  Account Management Providers 2025 report.
+- Infosys Finacle won two awards at IBS Intelligence Digital Banking Awards 2025: 'Regional Winners  |  Middle  East -Zand  Bank  &amp;  Infosys  Finacle'  and  'Segment  Winner  |  Corporate Banking Zand Bank &amp; Infosys Finacle'
+- Infosys Finacle won two awards at the MEA Finance Banking Technology Awards 2025: 'Best Composable Banking Solutions Provider of the Year' and ' Best Corporate Banking Solutions Provider'
+- Infosys Finacle won four awards at Finnovex North Africa -Egypt 2025: ' Excellence in Banking Platform Modernization with ALEXBANK Egypt', ' Excellence in Seamless Banking Experiences  with  Export  Development  Bank  of  Egypt ', ' Excellence in  Core  Banking Transformation  with  Agricultural  Bank  of  Egypt '  and  ' Excellence  in  Composable  Banking Platform
+
+Read more about our Awards &amp; Recognitions here.
+Press Release
+<!-- image -->
+
+## About Infosys
+Infosys is a global leader in next-generation digital services and consulting.  Over  320,000  of  our  people  work  to  amplify  human potential and create the next opportunity for people, businesses and communities. We enable clients in 59 countries to navigate their digital transformation. With over four decades of experience in managing the systems and workings of global enterprises, we expertly steer clients, as they navigate their digital transformation powered by cloud and AI. We enable them with an AI-first core, empower  the  business  with  agile  digital  at  scale  and  drive continuous  improvement  with  always-on  learning  through  the transfer of digital skills, expertise, and ideas from our innovation ecosystem. We are deeply committed to being a well-governed, environmentally  sustainable  organization  where  diverse  talent thrives in an inclusive workplace.
+Visit www.infosys.com to see how Infosys (NSE, BSE, NYSE: INFY) can help your enterprise navigate your next.
+## Safe Harbor
+Certain  statements  in  this  release  concerning  our  future  growth  prospects,  our  future  financial  or  operating performance, and the McCamish cybersecurity incident are forward looking statements intended to qualify for the 'safe  harbor'  under  the  Private  Securities  Litigation  Reform  Act  of  1995,  which  involve  a  number  of  risks  and uncertainties that could cause actual results or outcomes to differ materially from those in such forward-looking statements.  The  risks  and  uncertainties  relating  to  these  statements  include,  but  are  not  limited  to,  risks  and uncertainties regarding the execution of our business strategy, increased competition for talent, our ability to attract and retain personnel, increase in wages, investments to reskill our employees, our ability to effectively implement a hybrid working model, economic uncertainties and geo-political situations, technological disruptions and innovations such as Generative AI, the complex and evolving regulatory landscape including immigration regulation changes, our ESG vision, our capital allocation policy and expectations concerning our market position, future operations, margins, profitability, liquidity, capital resources, our corporate actions including acquisitions, the outcome of pending litigation, the amount of any additional costs resulting directly or indirectly from the McCamish cybersecurity incident, and the outcome of the government investigation. Important factors that may cause actual results or outcomes to differ from those implied by the forward-looking statements are discussed in more detail in our US Securities and Exchange Commission filings including our Annual Report on Form 20-F for the fiscal year ended March 31, 2025. These filings are available at www.sec.gov. Infosys may, from time to time, make additional written and oral forwardlooking  statements,  including  statements  contained  in  the  Company's  filings  with  the  Securities  and  Exchange Commission and our reports to shareholders. The Company does not undertake to update any forward-looking statements that may be made from time to time by or on behalf of the Company unless it is required by law.
+## Contact
+Investor Relations
+Sandeep Mahindroo +91 80 3980 1018
+Sandeep\_Mahindroo@infosys.com
+Media Relations
+Rishi Basu +91 80 4156 3998
+Rajarshi.Basu@infosys.com
+Harini Babu +1 469 996 3516
+Harini\_Babu@infosys.com
+Press Release
+## IFRS -USD
+## DIGITALNAVIGATION FRAMEWORK
+<!-- image -->
+<!-- image -->
+Infosys Limited and subsidiaries Extracted from the Condensed Consolidated Balance Sheet under IFRS as at:
+(Dollars in millions)
+|                                                            | June 30, 2025   | March 31, 2025   |
+|------------------------------------------------------------|-----------------|------------------|
+| ASSETS                                                     |                 |                  |
+| Current assets                                             |                 |                  |
+| Cash and cash equivalents                                  | 3,202           | 2,861            |
+| Current investments                                        | 887             | 1,460            |
+| Trade receivables                                          | 3,780           | 3,645            |
+| Unbilled revenue                                           | 1,588           | 1,503            |
+| Other current assets                                       | 1,787           | 1,890            |
+| Total current assets                                       | 11,244          | 11,359           |
+| Non-current assets                                         |                 |                  |
+| Property, plant and equipment and Right-of-use assets      | 2,223           | 2,235            |
+| Goodwill and other Intangible assets                       | 1,666           | 1,505            |
+| Non-current investments                                    | 1,241           | 1,294            |
+| Unbilled revenue                                           | 262             | 261              |
+| Other non-current assets                                   | 811             | 765              |
+| Total non-current assets                                   | 6,203           | 6,060            |
+| Total assets                                               | 17,447          | 17,419           |
+| LIABILITIES AND EQUITY                                     |                 |                  |
+| Current liabilities                                        |                 |                  |
+| Trade payables                                             | 422             | 487              |
+| Unearned revenue                                           | 994             | 994              |
+| Employee benefit obligations                               | 385             | 340              |
+| Other current liabilities and provisions                   | 3,353           | 3,191            |
+| Total current liabilities                                  | 5,154           | 5,012            |
+| Non-current liabilities                                    |                 |                  |
+| Lease liabilities                                          | 693             | 675              |
+| Other non-current liabilities                              | 480             | 477              |
+| Total non-current liabilities                              | 1,173           | 1,152            |
+| Total liabilities                                          | 6,327           | 6,164            |
+| Total equity attributable to equity holders of the company | 11,069          | 11,205           |
+| Non-controlling interests                                  | 51              | 50               |
+| Total equity                                               | 11,120          | 11,255           |
+| Total liabilities and equity                               | 17,447          | 17,419           |
+
+Extracted from the Condensed Consolidated statement of Comprehensive Income under IFRS for:
+(Dollars in millions except per equity share data)
+|                                              | 3 months ended June 30, 2025   | 3 months ended June 30, 2024   |
+|----------------------------------------------|--------------------------------|--------------------------------|
+| Revenues                                     | 4,941                          | 4,714                          |
+| Cost of sales                                | 3,416                          | 3,259                          |
+| Gross profit                                 | 1,525                          | 1,455                          |
+| Operating expenses:                          |                                |                                |
+| Selling and marketing expenses               | 258                            | 232                            |
+| Administrative expenses                      | 239                            | 229                            |
+| Total operating expenses                     | 497                            | 461                            |
+| Operating profit                             | 1,028                          | 994                            |
+| Other income, net (3)                        | 110                            | 88                             |
+| Profit before income taxes                   | 1,138                          | 1,082                          |
+| Income tax expense                           | 329                            | 318                            |
+| Net profit (before non-controlling interest) | 809                            | 764                            |
+| Net profit (after non-controlling interest)  | 809                            | 763                            |
+| Basic EPS ($)                                | 0.20                           | 0.18                           |
+| Diluted EPS ($)                              | 0.19                           | 0.18                           |
+
+Press Release
+<!-- image -->
+## NOTES:
+1. The above information is extracted from the audited condensed consolidated Balance sheet and Statement of Comprehensive Income for the quarter ended June 30, 2025, which have been taken on record at the Board meeting held on July 23, 2025.
+2. A Fact Sheet providing the operating metrics of the Company can be downloaded from www.infosys.com.
+3. Other income is net of Finance Cost.
+
+Press Release
+## Reporton theAuditof theInterimCondensed Consolidated Financial Statements
+## Opinion
+We have audited the accompanying interim condensed consolidated financial statements of INFOsYS LIMITED (the "Company"), and its subsidiaries (the Company and its subsidiaries together referred to as the "Group"), which comprise the Condensed Consolidated Balance Sheet as at June 30, 2025, the Condensed Consolidated Statement of Comprehensive Income, the Condensed Consolidated Statement of Changes in Equity, and the Condensed Consolidated StatementofCashFlowsforthethreemonthsendedonthatdate,andnotestothefinancial statements,including a summary of material accounting policies and other explanatory information(hereinafterreferredtoas the"InterimCondensedConsolidatedFinancial Statements").
+Inouropinionandtothebestofourinformationandaccordingtotheexplanationsgivento us,theaforesaidInterimCondensedConsolidatedFinancialStatementsgiveatrueandfair view in conformity with International Accounting Standard 34"Interim Financial Reporting" ("IAS 34") as issued by the International Accounting Standards Board ("IASB"),of the consolidated state of affairs of the Group as at June 30,2025, its consolidated profit and its consolidated total comprehensive income, its consolidated changes in equity and its
+## Basisfor Opinion
+WeconductedourauditoftheInterimCondensedConsolidatedFinancialStatementsin Accountants of India ("ICAI"). Our responsibilities under those Standards are further described intheAuditor'sResponsibilitiesfortheAuditoftheInterimCondensedConsolidatedFinancial Statements section of our report.We are independent of the Group in accordance with the Code of Ethics issued by the ICAI, and we have fulfilled our other ethical responsibilities in accordancewiththeCodeofEthics.Webelievethattheauditevidenceobtainedbyusis sufficient and appropriate to provide a basis for our audit opinion on theInterim Condensed ConsolidatedFinancialStatements.
+## Responsibilitiesof Managementand Board ofDirectorsfor theInterim Condensed Consolidated FinancialStatements
+The Company's Board of Directors is responsible for the preparation and presentation of these InterimCondensedConsolidatedFinancialStatementsthatgiveatrueandfairviewofthe consolidated financial position, consolidated financial performance， consolidated total comprehensive income, consolidated changes in equity and consolidated cash flows of the Groupin accordancewithIAS34 as issued bytheIASB.TherespectiveBoardsof Directors of the entities included in the Group are responsible for maintenance of the adequate accounting recordsforsafeguarding assets of the Group and forpreventing and detecting frauds and other andestimatesthatarereasonableandprudent;anddesign,implementationandmaintenance of adequate internal financial controls，thatwere operating effectively for ensuring the accuracy and completeness of the accounting records, relevant to the preparation and presentation of the respective interim financial statements that give a true and fair view and arefreefrommaterialmisstatement,whetherduetofraudorerrorwhichhavebeenusedfor
+<!-- image -->
+Chartered Accountants Prestige Trade Tower,Level 19 46,PalaceRoad,HighGrounds Bengaluru-560001 Karnataka,India
+Tel: +91 80 6188 6000
+Fax: +91 80 6188 6011
+## Deloitte Haskins &amp; Sells LLP
+the purpose of preparation of the Interim Condensed Consolidated Financial Statements by the Directors of the Company, as aforesaid.
+In preparing the Interim Condensed Consolidated Financial Statements, the respective Boards of Directors of the entities included in the Group are responsible for assessing the ability of the going concern and using the going concern basis of accounting unless the respective Boards of Directors either intend to liquidate their respective entities or to cease operations, or have no realistic alternative but to do so.
+The respective Boards of Directors of the entities included in the Group are also responsible for overseeing the financial reporting process of the Group.
+
+## Auditor's Responsibilities for the Audit of the Interim Condensed Consolidated Financial Statements
+Our objectives are toobtainreasonable assurance aboutwhether the InterimCondensed Consolidated Financial Statements as a whole are free from material misstatement,whether assuranceisahighlevelofassurancebut isnotaguaranteethatanauditconductedin accordancewithSAswillalwaysdetectamaterialmisstatementwhenitexists.Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basisoftheseInterimCondensedConsolidatedFinancialStatements.
+As part of an audit in accordance with SAs, we exercise professional judgment and maintain professionalscepticismthroughouttheaudit.Wealso:
+- ·Identify and assess the risks of material misstatement of the Interim Condensed audit procedures responsive to those risks,and obtain audit evidence thatis sufficient and misstatement resulting from fraud is higher than for one resulting from error,as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.
+- ·Obtain an understanding of internal financial controls relevant to the audit in order to design audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on effectiveness of such controls.
+- Evaluate the appropriateness of accountingpolicies used and the reasonableness of accounting estimates andrelated disclosuresmadebymanagement.
+- Conclude on the appropriateness of management's use of the going concern basis of accounting and,basedontheauditevidence obtained，whethera materialuncertainty existsrelatedtoeventsorconditionsthatmaycastsignificantdoubtontheabilityofthe Group to continue as a going concern. If we conclude that a material uncertainty exists, wearerequiredtodrawattentioninourauditor'sreporttotherelateddisclosuresinthe Interim Condensed Consolidated Financial Statements or, if such disclosures are inadequate,to modify our opinion.Our conclusions are based on the audit evidence obtained up to the date of our auditor's report. However, future events or conditions may cause the Group to cease to continue as a going concern.
+- Evaluate the overall presentation,structure and content of the Interim Condensed Consolidated Financial Statements, including the disclosures, and whether the Interim Condensed Consolidated Financial Statements represent the underlying transactions and events inamannerthatachievesfairpresentation.
+- Obtain sufficient appropriate audit evidence regarding the financial information of the entities within the Group to express an opinion on the Interim Condensed Consolidated Financial Statements. We are responsible for the direction, supervision and performance
+
+<!-- image -->
+## Deloitte Haskins&amp;SellsLLP
+of the audit of financial statements of such entities included in the Interim Condensed Consolidated Financial Statements of whichwe are independent auditors.
+Materiality is themagnitude of misstatements in the Interim Condensed Consolidated Financial Statements that, individually or in aggregate, makes it probable that the economic decisions ofareasonablyknowledgeableuserof theInterimCondensedConsolidatedFinancial Statements may be influenced.We consider quantitative materiality and qualitative factors in (i)planning thescopeofourauditworkand inevaluating theresultsofourwork;and(ii)to evaluatetheeffectofanyidentifiedmisstatementsintheInterimCondensedConsolidated FinancialStatements.
+We communicatewith those chargedwith governance of the Company and such other entities includedintheInterimCondensedConsolidatedFinancialStatementsofwhichwearethe independent auditors regarding, among other matters, the planned scope and timing of the audit and significant audit findings including any significant deficiencies in internal financial controlsthatweidentifyduringouraudit.
+We also provide those charged with governance with a statement that we have complied with relevant ethical requirements regarding independence, and to communicate with them all relationships and other matters that may reasonably be thought to bear on our independence, andwhereapplicable,relatedsafeguards.
+<!-- image -->
+## For DELOITTE HASKINS &amp;SELLS LLP
+CharteredAccountants (Firm'sRegistrationNo.117366W/W-100018)
+VikasBagaria Partner (Membership No.060408) UDIN:
+Place:Bengaluru
+Date:July 23,2025
+X
+## Condensed Consolidated Financial Statements under International Financial Reporting Standards (IFRS) in US Dollars for the three months ended June 30, 2025
+| Index                                                                             | Page No.   |
+|-----------------------------------------------------------------------------------|------------|
+| Condensed ConsolidatedBalanceSheet………………………………………………………………………………..                | 1          |
+| Condensed Consolidated Statement of ComprehensiveIncome………………………………………………………..    | 2          |
+| Condensed Consolidated StatementofChangesinEquity……………………………………..…………………………………….. | 3          |
+| Condensed ConsolidatedStatementofCashFlows……………………………………………………………………….            | 5          |
+| Overview and Notes to the Interim Condensed Consolidated Financial Statements     |            |
+| 1. Overview                                                                       |            |
+| 1.1Companyoverview…………………………………………………….…………………………………………………….                      | 6          |
+| 1.2 Basis of preparationoffinancialstatements…………………………………………………….…………………………………   | 6          |
+| 1.3Basisofconsolidation………………………………………………………………………………                             | 6          |
+| 1.4 Use of estimatesandjudgments………………………………………………………………….                        | 6          |
+| 1.5 Critical accountingestimatesandjudgments……………………………………………………                  | 6          |
+| 1.6 Recent accountingpronouncements……………………………………………………………..                      | 7          |
+| 2. Notes to the Interim Condensed Consolidated Financial Statements               |            |
+| 2.1 Cashandcashequivalents………………………………………………………………………..                           | 8          |
+| 2.2Investments……………………………………………………………………………………………..                               | 8          |
+| 2.3Financialinstruments……………………………………………………………………………….                            | 9          |
+| 2.4 Prepaymentsandotherassets……………………………………………………………………….                         | 12         |
+| 2.5Otherliabilities………………………………………………………………………………………..                            | 13         |
+| 2.6 Provisionsandothercontingencies……………………………………………………………………………………………            | 14         |
+| 2.7 Property,plantandequipment………………………………………………………………………..                       | 15         |
+| 2.8Leases……………………..………………………………………………………………………..                                  | 16         |
+| 2.9 Goodwill and Intangible assets...…………………………………………………………….....                 | 17         |
+| 2.10 Businesscombinations………………………………...……………………………………….                          | 18         |
+| 2.11 Employees'StockOptionPlans(ESOP)…………………………………………………………………………                 | 19         |
+| 2.12IncomeTaxes…………………………………………………………………………………….                                  | 21         |
+| 2.13Earningsperequityshare…………………………………………………………………………………….                       | 21         |
+| 2.14 Relatedpartytransactions………………………………………………………………………………………………..               | 22         |
+| 2.15Segmentreporting…………………………………………………………………………………………                            | 23         |
+| 2.16RevenuefromOperations…………………………………………………………………………………..                        | 24         |
+| 2.17UnbilledRevenue………………………………………………………………………………..                               | 25         |
+| 2.18Equity…………………….…………………………………………………………………………                                   | 26         |
+| 2.19 Break-up of expensesandotherincome,net………………...……………………………………………………………       | 28         |
+
+## Infosys Limited and subsidiaries X
+|                                                                                                                                                                                                                      |      | (Dollars in millions except equity share data)   | (Dollars in millions except equity share data)   |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|--------------------------------------------------|--------------------------------------------------|
+| Condensed Consolidated Balance Sheet as at                                                                                                                                                                           | Note | June 30, 2025                                    | March 31, 2025                                   |
+| ASSETS                                                                                                                                                                                                               |      |                                                  |                                                  |
+| Current assets                                                                                                                                                                                                       |      |                                                  |                                                  |
+| Cash and cash equivalents                                                                                                                                                                                            | 2.1  | 3,202                                            | 2,861                                            |
+| Current investments                                                                                                                                                                                                  | 2.2  | 887                                              | 1,460                                            |
+| Trade receivables                                                                                                                                                                                                    |      | 3,780                                            | 3,645                                            |
+| Unbilled revenue                                                                                                                                                                                                     | 2.17 | 1,588                                            | 1,503                                            |
+| Prepayments and other current assets                                                                                                                                                                                 | 2.4  | 1,432                                            | 1,519                                            |
+| Income tax assets                                                                                                                                                                                                    | 2.12 | 347                                              | 348                                              |
+| Derivative financial instruments                                                                                                                                                                                     | 2.3  | 8                                                | 23                                               |
+| Total current assets                                                                                                                                                                                                 |      | 11,244                                           | 11,359                                           |
+| Non-current assets                                                                                                                                                                                                   |      |                                                  |                                                  |
+| Property, plant and equipment                                                                                                                                                                                        | 2.7  | 1,484                                            | 1,497                                            |
+| Right-of-use assets                                                                                                                                                                                                  | 2.8  | 739                                              | 738                                              |
+| Goodwill                                                                                                                                                                                                             | 2.9  | 1,296                                            | 1,182                                            |
+| Intangible assets                                                                                                                                                                                                    |      | 370                                              | 323                                              |
+| Non-current investments                                                                                                                                                                                              | 2.2  | 1,241                                            | 1,294                                            |
+| Unbilled revenue                                                                                                                                                                                                     | 2.17 | 262                                              | 261                                              |
+| Deferred income tax assets                                                                                                                                                                                           | 2.12 | 148                                              | 130                                              |
+| Income tax assets                                                                                                                                                                                                    | 2.12 | 195                                              | 190                                              |
+| Other non-current assets                                                                                                                                                                                             | 2.4  | 468                                              | 445                                              |
+| Total Non-current assets Total assets                                                                                                                                                                                |      | 6,203 17,447                                     | 6,060 17,419                                     |
+| LIABILITIESAND EQUITY                                                                                                                                                                                                |      |                                                  |                                                  |
+| Current liabilities                                                                                                                                                                                                  |      |                                                  |                                                  |
+| Trade payables                                                                                                                                                                                                       |      | 422                                              | 487                                              |
+| Lease liabilities                                                                                                                                                                                                    | 2.8  | 296                                              | 287                                              |
+| Derivative financial instruments                                                                                                                                                                                     | 2.3  | 34                                               | 7                                                |
+| Current income tax liabilities                                                                                                                                                                                       | 2.12 | 707                                              | 567                                              |
+| Unearned revenue                                                                                                                                                                                                     |      | 994                                              | 994                                              |
+| Employee benefit obligations                                                                                                                                                                                         |      | 385                                              | 340                                              |
+| Provisions                                                                                                                                                                                                           | 2.6  | 167                                              | 173                                              |
+| Other current liabilities                                                                                                                                                                                            | 2.5  | 2,149                                            | 2,157                                            |
+| Total current liabilities                                                                                                                                                                                            |      | 5,154                                            | 5,012                                            |
+| Non-current liabilities                                                                                                                                                                                              |      |                                                  |                                                  |
+| Lease liabilities                                                                                                                                                                                                    | 2.8  | 693                                              | 675                                              |
+| Deferred income tax liabilities                                                                                                                                                                                      | 2.12 | 204                                              | 202                                              |
+| Employee benefit obligations                                                                                                                                                                                         |      | 12                                               | 11                                               |
+| Other non-current liabilities                                                                                                                                                                                        | 2.5  | 264                                              | 264                                              |
+| Total Non-current liabilities Total liabilities                                                                                                                                                                      |      | 1,173 6,327                                      | 1,152 6,164                                      |
+| Equity                                                                                                                                                                                                               |      |                                                  |                                                  |
+| Share capital - ₹5 ($0.16) par value 4,800,000,000 (4,800,000,000) equity shares authorized, issued and outstanding 4,145,174,219 (4,143,607,528) equity shares fully paid up, net of 9,098,409 (9,655,927) treasury | 2.18 | 325                                              | 325                                              |
+| Share premium                                                                                                                                                                                                        |      | 521                                              | 500                                              |
+| Retained earnings                                                                                                                                                                                                    |      | 13,763                                           | 13,766                                           |
+| Cash flow hedge reserves                                                                                                                                                                                             |      | (1)                                              | (2)                                              |
+| Other reserves                                                                                                                                                                                                       |      | 927                                              | 1,171                                            |
+| Capital redemption reserve                                                                                                                                                                                           |      | 24                                               | 24                                               |
+| Other components of equity                                                                                                                                                                                           |      | (4,490) 11,069                                   | (4,579)                                          |
+| Total equity attributable to equity holders of the Company                                                                                                                                                           |      |                                                  | 11,205                                           |
+| Non-controlling interests                                                                                                                                                                                            |      | 51                                               | 50                                               |
+| Total liabilities and equity                                                                                                                                                                                         |      | 17,447                                           | 17,419                                           |
+
+The accompanying notes form an integral part of the interim condensed consolidated financial statements.
+As per our report of even date attached
+for Deloitte Haskins &amp; Sells LLP Chartered Accountants Firm's Registration No: 117366W/ W-100018
+for and on behalf of the Board of Directors of Infosys Limited
+| Vikas Bagaria Partner Membership No. 060408   | Nandan M. Nilekani Chairman               | Salil Parekh Chief Executive Officer and Managing Director   | Bobby Parikh Director   |
+|-----------------------------------------------|-------------------------------------------|--------------------------------------------------------------|-------------------------|
+| Bengaluru July 23, 2025                       | Jayesh Sanghrajka Chief Financial Officer | Company Secretary A.G.S. Manikantha                          |                         |
+
+## Infosys Limited and subsidiaries X
+|                                                                            | (Dollars in millions except equity share and per equity share data)   | (Dollars in millions except equity share and per equity share data)   | (Dollars in millions except equity share and per equity share data)   |
+|----------------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|
+| Condensed Consolidated Statement of Comprehensive Income for the           | Note                                                                  | Three months ended                                                    | Three months ended                                                    |
+|                                                                            |                                                                       | June 30, 2025                                                         | June 30, 2024                                                         |
+| Revenues                                                                   | 2.16                                                                  | 4,941                                                                 | 4,714                                                                 |
+| Cost of sales                                                              | 2.19                                                                  | 3,416                                                                 | 3,259                                                                 |
+| Gross profit                                                               |                                                                       | 1,525                                                                 | 1,455                                                                 |
+| Operating expenses                                                         |                                                                       |                                                                       |                                                                       |
+| Selling and marketing expenses                                             | 2.19                                                                  | 258                                                                   | 232                                                                   |
+| Administrative expenses                                                    | 2.19                                                                  | 239                                                                   | 229                                                                   |
+| Total operating expenses                                                   |                                                                       | 497                                                                   | 461                                                                   |
+| Operating profit                                                           |                                                                       | 1,028                                                                 | 994                                                                   |
+| Other income, net                                                          | 2.19                                                                  | 122                                                                   | 101                                                                   |
+| Finance cost                                                               |                                                                       | 12                                                                    | 13                                                                    |
+| Profit before income taxes                                                 |                                                                       | 1,138                                                                 | 1,082                                                                 |
+| Income tax expense                                                         | 2.12                                                                  | 329                                                                   | 318                                                                   |
+| Net profit                                                                 |                                                                       | 809                                                                   | 764                                                                   |
+| Other comprehensive income                                                 |                                                                       |                                                                       |                                                                       |
+| Items that will not be reclassified subsequently to profit or loss         |                                                                       |                                                                       |                                                                       |
+| Remeasurement of the net defined benefit liability/asset, net              |                                                                       | (8)                                                                   | 2                                                                     |
+| Equity instruments through other comprehensive income, net                 |                                                                       | 4                                                                     | 2                                                                     |
+|                                                                            |                                                                       | (4)                                                                   | 4                                                                     |
+| Items that will be reclassified subsequently to profit or loss             |                                                                       |                                                                       |                                                                       |
+| Fair value changes on investments, net                                     |                                                                       | 14                                                                    | 5                                                                     |
+| Fair value changes on derivatives designated as cash flow hedge, net       |                                                                       | 1                                                                     | -                                                                     |
+| Exchange differences on translation of foreign operations                  |                                                                       | 80                                                                    | (11)                                                                  |
+|                                                                            |                                                                       | 95                                                                    | (6)                                                                   |
+| Total other comprehensive income/(loss), net of tax                        |                                                                       | 91                                                                    | (2)                                                                   |
+| Total comprehensive income                                                 |                                                                       | 900                                                                   | 762                                                                   |
+| Profit attributable to:                                                    |                                                                       |                                                                       |                                                                       |
+| Owners of the Company                                                      |                                                                       | 809                                                                   | 763                                                                   |
+| Non-controlling interests                                                  |                                                                       | -                                                                     | 1                                                                     |
+|                                                                            |                                                                       | 809                                                                   | 764                                                                   |
+| Total comprehensive income attributable to:                                |                                                                       |                                                                       |                                                                       |
+| Owners of the Company                                                      |                                                                       | 899                                                                   | 761                                                                   |
+| Non-controlling interests                                                  |                                                                       | 1                                                                     | 1                                                                     |
+|                                                                            |                                                                       | 900                                                                   | 762                                                                   |
+| Earnings per equity share                                                  |                                                                       |                                                                       |                                                                       |
+| Basic ($)                                                                  |                                                                       | 0.20                                                                  | 0.18                                                                  |
+| Diluted ($)                                                                |                                                                       | 0.19                                                                  | 0.18                                                                  |
+| Weighted average equity shares used in computing earnings per equity share |                                                                       |                                                                       |                                                                       |
+| Basic (in shares)                                                          | 2.13                                                                  | 4,143,971,592                                                         | 4,140,272,627                                                         |
+| Diluted (in shares)                                                        | 2.13                                                                  | 4,150,497,004                                                         | 4,148,077,672                                                         |
+
+The accompanying notes form an integral part of the interim condensed consolidated financial statements.
+As per our report of even date attached
+for Deloitte Haskins &amp; Sells LLP Chartered Accountants Firm's Registration No: 117366W/ W-100018
+for and on behalf of the Board of Directors of Infosys Limited
+| Vikas Bagaria Partner   | Nandan M. Nilekani Chairman   | Salil Parekh Chief Executive Officer and Managing Director   | Bobby Parikh Director   |
+|-------------------------|-------------------------------|--------------------------------------------------------------|-------------------------|
+| Membership No. 060408   |                               |                                                              |                         |
+| Bengaluru               | Jayesh Sanghrajka             | A.G.S. Manikantha                                            |                         |
+| July 23, 2025           | Chief Financial Officer       | Company Secretary                                            |                         |
+
+## Infosys Limited and subsidiaries X
+| Condensed Consolidated Statement of Changes in Equity                    |                      |               |               |                   |                    |                            |                         |                            | (Dollars in                                                | millions except equity    | share data)   |
+|--------------------------------------------------------------------------|----------------------|---------------|---------------|-------------------|--------------------|----------------------------|-------------------------|----------------------------|------------------------------------------------------------|---------------------------|---------------|
+|                                                                          | Number of Shares (1) | Share capital | Share premium | Retained earnings | Other reserves (2) | Capital redemption reserve | Cash flow hedge reserve | Other components of equity | Total equity attributable to equity holders of the Company | Non- controlling interest | Total equity  |
+| Balance as at April 1, 2024                                              | 4,139,950,635        | 325           | 425           | 12,557            | 1,623              | 24                         | 1                       | (4,396)                    | 10,559                                                     | 46                        | 10,605        |
+| Changes in equity for the three months ended June 30, 2024               |                      |               |               |                   |                    |                            |                         |                            |                                                            |                           |               |
+| Net profit                                                               | -                    | -             | -             | 763               | -                  | -                          | -                       | -                          | 763                                                        | 1                         | 764           |
+| Remeasurement of the net defined benefit liability/asset, net*           | -                    | -             | -             | -                 | -                  | -                          | -                       | 2                          | 2                                                          | -                         | 2             |
+| Equity instruments through other comprehensive income, net*              | -                    | -             | -             | -                 | -                  | -                          | -                       | 2                          | 2                                                          | -                         | 2             |
+| Exchange differences on translation of foreign operations                | -                    | -             | -             | -                 | -                  | -                          | -                       | (11)                       | (11)                                                       | -                         | (11)          |
+| Fair value changes on investments, net*                                  | -                    | -             | -             | -                 | -                  | -                          | -                       | 5                          | 5                                                          | -                         | 5             |
+| Total comprehensive income for the period                                | -                    | -             | -             | 763               | -                  | -                          | -                       | (2)                        | 761                                                        | 1                         | 762           |
+| Shares issued on exercise of employee stock options (Refer to note 2.11) | 1,831,328            | -             | -             | -                 | -                  | -                          | -                       | -                          | -                                                          | -                         | -             |
+| Employee stock compensation expense (Refer to note 2.11)                 | -                    | -             | 25            | -                 | -                  | -                          | -                       | -                          | 25                                                         | -                         | 25            |
+| Transfer on account of options not exercised                             | -                    | -             | (2)           | 2                 | -                  | -                          | -                       | -                          | -                                                          | -                         | -             |
+| Transferred from other reserves on utilization                           | -                    | -             | -             | 12                | (12)               | -                          | -                       | -                          | -                                                          | -                         | -             |
+| Transferred from other reserves to retained earnings                     | -                    | -             | -             | 30                | (30)               | -                          | -                       | -                          | -                                                          | -                         | -             |
+| Dividends #                                                              | -                    | -             | -             | (1,389)           | -                  | -                          | -                       | -                          | (1,389)                                                    | -                         | (1,389)       |
+| Balance as at June 30, 2024                                              | 4,141,781,963        | 325           | 448           | 11,975            | 1,581              | 24                         | 1                       | (4,398)                    | 9,956                                                      | 47                        | 10,003        |
