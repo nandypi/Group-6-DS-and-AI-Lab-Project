@@ -1,14 +1,26 @@
 ---
 document_name: "Infosys_01072025210240_Form20F_July012025_1__1_.md"
 group_id: "Infosys_01072025210240_Form20F_July012025_1__1___group_035"
-source_section_count: 2
-page_start: 214
+source_section_count: 3
+page_start: 206
 page_end: 219
-estimated_tokens: 4671
+estimated_tokens: 4956
 source_section_ids:
+  - "Infosys_01072025210240_Form20F_July012025_1__1___066__part_002"
   - "Infosys_01072025210240_Form20F_July012025_1__1___067"
   - "Infosys_01072025210240_Form20F_July012025_1__1___068"
 ---
+
+Sensitivity of significant assumptions used for valuation of defined benefit obligation:
+|                                                          | (Dollars in millions)                 | (Dollars in millions)                  |
+|----------------------------------------------------------|---------------------------------------|----------------------------------------|
+|                                                          | Gratuity 1% point increase / decrease | Pension 0.5% point increase / decrease |
+| Discount rate                                            | 16                                    | 6                                      |
+| Weighted average rate of increase in compensation levels | 16                                    | 1                                      |
+
+Sensitivity to significant actuarial assumptions is computed by varying one actuarial assumption used for the valuation of the defined benefit obligation and keeping all other actuarial assumptions constant. In practice, this is not probable, and changes in some of the assumptions may be correlated.
+The Group expects to contribute $43 million to the gratuity and $5 million to pension during fiscal 2026.
+Maturity profile of defined benefit obligation:
 
 |               |   Gratuity |   (Dollars in millions) Pension |
 |---------------|------------|---------------------------------|

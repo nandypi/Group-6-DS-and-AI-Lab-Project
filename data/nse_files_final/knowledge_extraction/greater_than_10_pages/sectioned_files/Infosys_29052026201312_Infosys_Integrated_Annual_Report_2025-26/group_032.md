@@ -2,109 +2,188 @@
 document_name: "Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26.md"
 group_id: "Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26__group_032"
 source_section_count: 2
-page_start: 137
-page_end: 140
-estimated_tokens: 6200
+page_start: 134
+page_end: 137
+estimated_tokens: 4178
 source_section_ids:
-  - "Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26__060"
-  - "Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26__061"
+  - "Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26__058"
+  - "Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26__059"
 ---
 
-## 10b. What are the processes used to identify work-related hazards and assess risks on a routine and non-routine basis by the entity?
-Infosys follows a structured approach to identify work-related hazards and assess risks across both routine and non-routine activities. Hazard identification and risk assessments are proactively carried out for existing, new, and modified activities, processes, and services, as well as in response to regulatory updates. Routine risk assessments include periodic workplace and ergonomic evaluations, monitoring utility operations, and reviewing employee commute risks. Non-routine tasks such as construction, infrastructure development, preventive maintenance, and facility modifications undergo specific risk assessments before and during their execution. Incidents and near misses are analyzed quarterly to identify trends and emerging risks. Hazards are prioritized and mitigated using the hierarchy of controls, followed by reassessment of residual risks and updates to the risk control matrix as required. Employee and stakeholder participation is integral to the risk assessment process, and learnings from past projects and current operations are incorporated continuously.
-## 10c. Whether you have processes for workers to report the work-related hazards and to remove themselves from such risks. (Y / N)
-Yes. Infosys has a robust incident reporting and management process to ensure that all work-related incidents - such as accidents, near misses, unsafe acts, and unsafe conditions - are properly reported, investigated, and resolved with suitable corrective actions. Employees can report health and safety concerns via the Infosys Helpdesk (IHD) or designated email addresses. Contract staff without system access inform their supervisors, who then escalate the issue to the local HSE team. All incidents are subject to root cause analysis, and corrective as well as preventive measures are implemented to avoid recurrence or potential injuries and losses. Employee awareness of incident reporting is strengthened through induction programs, online training modules (Lex), and targeted awareness campaigns and mailers. Learnings and corrective actions are actively shared across locations to promote consistent application and prevent future incidents.
-## 10d. Do the employees/ worker of the entity have access to non-occupational medical and healthcare services?
-Yes. Well-equipped Occupational Health Centers (OHCs), including physiotherapy facilities, are located across Infosys campuses in India. All statutory and applicable norms are ensured, with competent medical professionals working through accredited partner hospitals to manage the OHCs and physiotherapy centers. Periodic health risk assessments are performed to monitor health trends, facilitating timely specialist consultations and targeted interventions.
-Infosys proactively addresses employee well-being by offering a broad range of initiatives, including structured workshops, awareness campaigns, regular health check-ups, online chat sessions, counseling services (like Samaritans), and targeted wellness programs. Details of employee visits to OHCs are recorded digitally, adhering to specific data protection and privacy regulations for each region.
-Additionally, Infosys offers extended healthcare benefits through tie-ups with hospitals, granting employees and their dependents access to health screenings and treatments, even for non-occupational illnesses. Employees, including contractual staff, receive comprehensive insurance coverage. For contractual employees, targeted programs, such as mandatory health screenings and specific interventions are carried out, guided by identified risks, hazards, and emerging health trends.
-## 11. Details of safety related incidents, in the following format:
-| Safety Incident/Number                                                        | Category      | Fiscal 2026 (1)   | Fiscal 2025 (1)   |
-|-------------------------------------------------------------------------------|---------------|-------------------|-------------------|
-| Lost Time Injury Frequency Rate (LTIFR) (per one million-person hours worked) | Employees (2) | 0.134             | 0.101 (4)         |
-| Lost Time Injury Frequency Rate (LTIFR) (per one million-person hours worked) | Workers (3)   | NA                | NA                |
-| Total recordable work-related injuries                                        | Employees (2) | 39                | 23 (4)            |
-| Total recordable work-related injuries                                        | Workers (3)   | NA                | NA                |
-| No. of fatalities                                                             | Employees (2) | 0                 | 1                 |
-| No. of fatalities                                                             | Workers (3)   | NA                | NA                |
-| High consequence work-related injury or ill-health (excluding fatalities)     | Employees (2) | 0                 | 0                 |
-| High consequence work-related injury or ill-health (excluding fatalities)     | Workers (3)   | NA                | NA                |
+## Leadership Indicators
+1. Has the entity conducted Life Cycle Perspective / Assessments (LCA) for any of its products (for manufacturing industry) or for its services (for service industry)? If yes, provide details in the following format?
 
-## 12. Describe the measures taken by the entity to ensure a safe and healthy work place.
-Infosys acknowledges that Occupational Health and Safety (OH&amp;S) is one of the key aspects of sustainable business practices. OH&amp;S policies, processes, and practices at Infosys promote the physical, emotional, and social well-being of employees in the workplace. The robust Health and Safety Management system at Infosys has earned us the certification of ISO 45001:2018 for all Indian locations and Australia offices, including Infosys Limited and its subsidiaries, in line with our HSE strategy. The Company has implemented the following measures to ensure a safe and healthy workplace:
-1.  Incident management: Incidents, which include near misses / potential hazards / accidents, are reported through internal applications or email. The causes of incidents are identified, analyzed and appropriate corrective actions are taken to prevent recurrence or occurrence of incidents leading to injuries / losses.
-2.  OH&amp;S Committee: Both employees and other than permanent employees are part of the Infosys OH&amp;S Committee, which helps in ensuring their active participation and consultation. The representation from employees in safety committees is 100%. The Committee brings employees and management together in a non-adversarial, cooperative effort to promote OH&amp;S in the workplace.
+It is in progress. Infosys is an IT consulting and software services organization. Our life cycle practices include green procurement considerations as part of technical specifications for purchase and end-of-life management to maximize recycling.
+We have mandated Life Cycle Assessment for our new physical infrastructure, which helps in making an informed decision towards environmentally friendly products in the construction and operation of our buildings.
+2.   If there are any significant social or environmental concerns and / or risks arising from production or disposal of your products / services, as identified in the Life Cycle Perspective / Assessments (LCA) or through any other means, briefly describe the same along-with action taken to mitigate the same
 
-3.  Training and awareness: Training includes awareness building, mock drills, classroom sessions and periodic demonstrations. HSEMS training is a part of our employee induction program. To enable continuous learning, an HSE awareness module is available on Lex, our internal learning platform. For contract staff, job-specific and general training is provided during induction and later through refresher training.
-4.  Safety interventions: We have always focused on building a culture of safety at Infosys. The safety systems in place include work permits, training, Lock Out Tag Out (LOTO), safety inspections, audits, operational controls, and monitoring. Policies have been established focusing on specific areas such as women's safety, lone working, transport, travel, construction and others.
-5.  Medical services: We have set up Occupational Health Centers (OHC) on our campuses in India. Majority of our OHCs are operational round the clock based on business requirement. We have ambulance services available or have arrangements for ambulances to be made available at all our India-based locations.
-6.  Health Risk Assessment (HRA): HRA is conducted annually based on inputs from the OHC. Being an IT / ITES company, the prevalent risks include ergonomics, Musculoskeletal Disorders (MSDs), emotional well-being, etc., associated with the workplace, operation of utilities, and commute. Numerous initiatives, interventions, engagement virtual sessions, and process controls are in place to effectively address these risks.
-7.  Programs on ergonomics: These include on-site physiotherapy centers in India, interventions by ergonomic experts and the provision of ergonomic infrastructure. Periodic sessions are conducted on back care, Repetitive Stress Injuries, and seating postures for employees across the globe.
-8.  Physical and emotional well-being: We have nutritionists at our locations in India to provide counseling and guidance. We have also set up state-of-the-art gyms to train physical and mental fitness.
-9.  Programs for mothers: Pregna Care, a professional healthcare program, is specially designed for expectant mothers and aims to provide maximum comfort for the mother, in India.
-10.   Working environment: We continued to focus on improving the working environment by monitoring indoor air quality, lux and noise levels and promoting the use of green seal chemicals.
+No. There are no significant social or environmental concerns and/or risks arising from the production and disposal of our products and services. A detailed account of our environmental footprint is available in Principle 6 of this BRSR report.
+3. Percentage of recycled or reused input material to total material (by value) used in production (for manufacturing industry) or providing services (for service industry).
 
-## 13. Number of complaints on the following made by employees and workers:
-|                    | Fiscal 2026           | Fiscal 2026                           | Fiscal 2026                                                                                                               | Fiscal 2025           | Fiscal 2025                               | Fiscal 2025                                                   |
-|--------------------|-----------------------|---------------------------------------|---------------------------------------------------------------------------------------------------------------------------|-----------------------|-------------------------------------------|---------------------------------------------------------------|
-|                    | Filed during the year | Pending resolution at the end of year | Remarks                                                                                                                   | Filed during the year | Pending resolution at the end of year (1) | Remarks                                                       |
-| Working conditions | 21                    | 1                                     | The resolution of complaints which are in progress relates to modifications in infrastructure which is currently underway | 35                    | 3                                         | All open complaints have been closed during early Fiscal 2026 |
-| Health and safety  | 8                     | 0                                     | -                                                                                                                         | 25                    | 2                                         | All open complaints have been closed during early Fiscal 2026 |
+Not applicable.
+4. Of the products and packaging collected at end of life of products, amount (in metric tonnes) reused, recycled, and safely disposed, as per the following format:
 
-(1) The open issues in fiscal 2025 have been closed
+Not applicable. We are an IT services company, we don't manufacture any products.
+5. Reclaimed products and their packaging materials (as percentage of products sold) for each product category.
 
-## 14. Assessment for the year for health and safety:
-Our Health, Safety and Environmental Management System (HSEMS) is certified to ISO 45001:2018 standard audited by certifying bodies annually. The scope of HSEMS is applicable to all activities, which are a part of our operations and employees working for and on behalf of the Company, including deputees at client sites. Safety and well-being of our employees is accorded the highest priority. Our internal Corporate Certification Audits and Assessments Team (CCAT) conducts periodic assessments across Infosys locations annually.
-| Assessments for the year    |   %ofyour plants and offices that were assessed (by entity or statutory authorities or third parties) (1) |
-|-----------------------------|-----------------------------------------------------------------------------------------------------------|
-| Health and safety practices |                                                                                                       100 |
-| Working conditions          |                                                                                                       100 |
+Not applicable. We are an IT services company, we don't manufacture any products.
+## PRINCIPLE 3: Businesses should respect and promote the well-being of all employees, including those in their value chains
+## Essential indicators
+1a. Details of measures for the well-being of employees:
+| %ofemployees covered by        | %ofemployees covered by        | %ofemployees covered by        | %ofemployees covered by        | %ofemployees covered by        | %ofemployees covered by        | %ofemployees covered by        | %ofemployees covered by        | %ofemployees covered by        | %ofemployees covered by        | %ofemployees covered by        | %ofemployees covered by        |
+|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|
+| Category                       | Total (A)                      | Health insurance               | Health insurance               | Accident insurance             | Accident insurance             | Maternity benefits             | Maternity benefits             | Paternity Benefits             | Paternity Benefits             | Day Care facilities (1)        | Day Care facilities (1)        |
+|                                |                                | Number (B)                     | %(B/ A)                        | Number (C)                     | %(C/ A)                        | Number (D)                     | %(D/A)                         | Number (E)                     | %(E / A)                       | Number (F)                     | %(F / A)                       |
+|                                |                                |                                |                                |                                |                                |                                |                                |                                |                                | Permanent employees            | Permanent employees            |
+| Male                           | 1,98,969                       | 1,98,969                       | 100                            | 1,98,969                       | 100                            | NA                             | NA                             | 1,98,969                       | 100                            | -                              | -                              |
+| Female                         | 1,29,625                       | 1,29,625                       | 100                            | 1,29,625                       | 100                            | 1,29,625                       | 100                            | NA                             | NA                             | -                              | -                              |
+| Total                          | 3,28,594                       | 3,28,594                       | 100                            | 3,28,594                       | 100                            | 1,29,625                       | 100                            | 1,98,969                       | 100                            | -                              | -                              |
+| Other than Permanent employees | Other than Permanent employees | Other than Permanent employees | Other than Permanent employees | Other than Permanent employees | Other than Permanent employees | Other than Permanent employees | Other than Permanent employees | Other than Permanent employees | Other than Permanent employees | Other than Permanent employees | Other than Permanent employees |
 
-15.   Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on significant risks / concerns arising from assessments of health and safety practices and working conditions.
+Male
+Female
+Total
+(1) We provide onsite, proximity and network (near-home) childcare support options for our employees in India, based on their preference.
+## 1b. Details of measures for the well-being of workers:
+Not applicable
+- 1c. Spending on measures towards well-being of employees and workers (including permanent and other than permanent) in the following format
 
-There have been no significant risks / concerns arising from assessments of health and safety practices and working conditions. There are few minor safety incidents related to operational controls, and they have been closed with detailed corrective measures. Infosys also monitors all the controls on a periodic basis and makes course corrections, as appropriate.
-## Leadership indicators
-1. Does the entity extend any life insurance or any compensatory package in the event of death of (A) employee (Y / N) (B) worker (Y / N)
+|                                                                            |   Fiscal 2026 |   Fiscal 2025 |
+|----------------------------------------------------------------------------|---------------|---------------|
+| Cost incurred on well-being measures as a %of total revenue of the company |           1.3 |           1.3 |
 
-(A) Yes
-(B) Not applicable
-2. Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and deposited by the value chain partners.
+Vendors and contractors are required to adhere to statutory compliances as per the respective rules of the state.
+## 2. Details of retirement benefits, for current financial year and previous financial year.
+| Benefits                          | Fiscal 2026                                    | Fiscal 2026                                | Fiscal 2026                                          | Fiscal 2025                                    | Fiscal 2025                                | Fiscal 2025                                          |
+|-----------------------------------|------------------------------------------------|--------------------------------------------|------------------------------------------------------|------------------------------------------------|--------------------------------------------|------------------------------------------------------|
+|                                   | No. of employees coveredasa%of total employees | No. of workers coveredasa%of total workers | Deducted and deposited with the authority (Y/N/N.A.) | No. of employees coveredasa%of total employees | No. of workers coveredasa%of total workers | Deducted and deposited with the authority (Y/N/N.A.) |
+| PF (1)                            | 100                                            | NA                                         | Y                                                    | 100                                            | NA                                         | Y                                                    |
+| Gratuity (1)                      | 100                                            | NA                                         | Y                                                    | 100                                            | NA                                         | Y                                                    |
+| ESI (2)                           | 2.6                                            | NA                                         | Y                                                    | 3.5                                            | NA                                         | Y                                                    |
+| National Pension Scheme (NPS) (3) | 3.7                                            | NA                                         | Y                                                    | 3.7                                            | NA                                         | Y                                                    |
+| Others - superannuation (4)       | 12.8                                           | NA                                         | Y                                                    | 12.9                                           | NA                                         | Y                                                    |
 
-The Company periodically audits value chain partners to ensure timely deduction and deposit of statutory dues.
-3.   Provide the number of employees / workers having suffered high consequence work-related injury / ill-health / fatalities (as reported in Q11 of Essential indicators above), who have been are rehabilitated and placed in suitable employment or whose family members have been placed in suitable employment
-4.   Does the entity provide transition assistance programs to facilitate continued employability and the management of career endings resulting from retirement or termination of employment? (Yes / No)
+This table represents retirement benefits for the employees working in India. All our employees working outside India are eligible for retirement benefits according to applicable laws in the regions we operate.
+(1) All eligible employees are covered.
+- (2) All eligible employees covered under the Employees State Insurance Act ('ESIC'), 1948 are provided the benefit.
+- (3) Pertains to contribution made by employers for employees who have opted for the same.
 
-|           | Total no. of affected employees / workers   | Total no. of affected employees / workers   | No. of employees / workers that are rehabilitated and placed in suitable employment or whose family members have been placed in suitable employment   | No. of employees / workers that are rehabilitated and placed in suitable employment or whose family members have been placed in suitable employment   |
-|-----------|---------------------------------------------|---------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-|           | Fiscal 2026                                 | Fiscal 2025                                 | Fiscal 2026                                                                                                                                           | Fiscal 2025                                                                                                                                           |
-| Employees | 0                                           | 1                                           | 0                                                                                                                                                     | 0                                                                                                                                                     |
-| Workers   | NA                                          | NA                                          | NA                                                                                                                                                    | NA                                                                                                                                                    |
+(4) Eligible employees are participants to superannuation retirement fund.
 
-Yes. We provide employees opportunities to upgrade their skills as part of transition assistance to facilitate their continued employability and the management of career endings resulting from termination of employment. The Employee Career Support  program: Retirement Planning spans a portfolio of services including consultations from retirement specialists, strategic financial planning, retirement focused roadmap and resources, careers workshops, and access to networking groups dedicated to retirement options.
-5. Details on assessment of value chain partners
+## 3. Accessibility of workplaces
+Are the premises / offices of the entity accessible to differently abled employees and workers, as per the requirements of the Rights of Persons with Disabilities Act, 2016? If not, whether any steps are being taken by the entity in this regard.
+Yes. The premises / offices of Infosys in India are accessible to differently-abled employees and workers, as per the requirements of the Rights of Persons with Disabilities Act, 2016.
+4. Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, provide a web-link to the policy.
 
-## % of value chain partners (by value of business done with such partners) that were assessed*
-| Working conditions   |   91.64 |
-|----------------------|---------|
-| Health and safety    |   91.64 |
+Yes, the entity has an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016. The policy of the Company is available on the website at https://www.infosys. com/careers/discover/culture/documents/diversity-inclusion-policy.pdf.
+## 5. Return to work and Retention rates of permanent employees and workers that took parental leave.
+| Gender   | Permanent employees (1)    | Permanent employees (1)   | Permanent workers          | Permanent workers     |
+|----------|----------------------------|---------------------------|----------------------------|-----------------------|
+|          | Return to work rate (In %) | Retention rate (In %)     | Return to work rate (In %) | Retention rate (In %) |
+| Male     | 99.9                       | 82.8                      | NA                         | NA                    |
+| Female   | 99.4                       | 79.6                      | NA                         | NA                    |
+| Total    | 99.7                       | 81.1                      | NA                         | NA                    |
 
-## 6.   Provide details of any corrective actions taken or underway to address significant risks / concerns arising from assessments of health and safety practices and working conditions of value chain partners
-There were no significant risks / concerns arising from assessments of health and safety practices and working conditions of value chain partners.
-## PRINCIPLE 4: Businesses should respect the interests of and be responsive to all its stakeholders
-## 1. Describe the processes for identifying key stakeholder groups of the entity
-We identify and prioritize our stakeholders based on the impact of the Company on the stakeholders and the ability of the stakeholder groups to influence the functioning of the Company. As part of the GRI-based materiality assessment, we have identified six key stakeholder groups: Investors/shareholders, clients, employees and sub-contractors, suppliers/ partners, government/regulators and the community. The ESG Committee of the Board also approves the continued relevance of the material topics on an annual basis.
-## 2. List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder group.
-| Stakeholder group   | Whetheridentified as vulnerable or marginalized (Yes/No)   | Channels of communication (Email, SMS, newspaper, pamphlets, advertisement, community meetings, notice board, website, others (please specify)                                                                                                                                                                                           | Frequency of engagement (Annually/ Half- yearly/ Quarterly / others - please specify)   | Purpose and scope of engagement including key topics and concerns raised during such engagement                                |
-|---------------------|------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
-| Investors           | No                                                         | • Investors calls, emails, and personal meetings • Analyst meets • Conferences (including broker-led events) • Quarterly results • Annual General Meeting • Sustainability report • Financial reports • India stock exchange filings (NSE and BSE) • US Securities and Exchange Commission (SEC) filings • Press releases • Social media | Ongoing                                                                                 | • To answer queries of investors on Infosys' ambitions and progress • Build transparency with existing and potential investors |
+Based on the recommendations of GRI standard 401-3.
+(1) 100% of our permanent employees are eligible for parental leaves subject to policy conditions.
+Permanent workers
+Other than permanent
+workers
+Permanent employees
+Other than permanent
+employees NA
+Yes, Infosys is committed to providing a safe and positive work environment as enshrined in our Code of Conduct. Employees and contract staff have
+access to a well-established robust grievance resolution mechanism known as Resolution hubs where they can highlight matters or concerns faced at
+the workplace.
+For more information, refer to Resolution hubs available in the
+Management Discussion and Analysis section
+## 7. Membership of employees and worker in association(s) or Unions recognised by the listed entity:
+| Category                  | Fiscal 2026                                          | Fiscal 2026                                                                                   | Fiscal 2026   | Fiscal 2025                                          | Fiscal 2025                                                                                   | Fiscal 2025   |
+|---------------------------|------------------------------------------------------|-----------------------------------------------------------------------------------------------|---------------|------------------------------------------------------|-----------------------------------------------------------------------------------------------|---------------|
+|                           | Total employees / workers in respective category (A) | No. of employees / workers in respective category, whoare part of association(s) or Union (B) | %(B/ A)       | Total employees / workers in respective category (C) | No. of employees / workers in respective category, whoare part of association(s) or Union (D) | %(D/C)        |
+| Total permanent employees | 3,28,594                                             | 2,989                                                                                         | 0.9           | 3,23,578                                             | 2,713                                                                                         | 0.8           |
+| Male                      | 1,98,969                                             | 2,042                                                                                         | 1.0           | 1,97,246                                             | 1,845                                                                                         | 0.9           |
+| Female                    | 1,29,625                                             | 947                                                                                           | 0.7           | 1,26,332                                             | 868                                                                                           | 0.7           |
+| Total permanent workers   |                                                      |                                                                                               |               |                                                      |                                                                                               |               |
+| Male                      |                                                      |                                                                                               | NA            |                                                      |                                                                                               |               |
+| Female                    |                                                      |                                                                                               |               |                                                      |                                                                                               |               |
 
-| Stakeholder group                | Whetheridentified as vulnerable or marginalized (Yes/No)   | Channels of communication (Email, SMS, newspaper, pamphlets, advertisement, community meetings, notice board, website, others (please specify)                                                                       | Frequency of engagement (Annually/ Half- yearly/ Quarterly / others - please specify)   | Purpose and scope of engagement including key topics and concerns raised during such engagement                                                                                                                                                                                                                                                                                         |
-|----------------------------------|------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Employees                        | No                                                         | • Employee satisfaction surveys • Employee Resource Groups (ERGs) • Resolution hubs and whistleblower mechanism • Communication blogs • Development centers' engagement initiatives • InfyMe (Intranet) and podcasts | Ongoing                                                                                 | • Communicate the Employee Value Proposition (EVP) • Keep a finger on pulse of employee engagement • Provide an opportunity to raise concerns • Training and development • Employee recognition and engagement activities • Performance review and career development • Employee health, safety, and well-                                                                              |
-| Clients                          | No                                                         | • Client visits and meetings • Customer satisfaction surveys • Annual customer conclaves                                                                                                                             | Ongoing                                                                                 | • Engage with clients on Infosys solutions and services, including climate change solutions • Seek client feedback on our solutions and services and continuously improve to meet their expectations • Develop relationships and partnerships with clients enabling delivery of high-quality client services and solutions • Communicate Infosys' credentials including ESG credentials |
-| Government and regulatory bodies | No                                                         | • Engagement with government and global forums • Policy advocacy and representations • Engagement with industry, government and regulatory bodies                                                                    | Ongoing                                                                                 | • Share ESG best practices • Participate in forums to strengthen the adoption of responsible business practices • Participate / assist in the development of regulations / public policies • Share a perspective on global standards and alignment with international benchmarking                                                                                                      |
+## 8. Details of training of employees and worker (% to total no. of employees / workers in the category):
+Category
+Male
+Female
+Total
+Total permanent workers
+Male
+Female Fiscal 2026 (1)
+* Average training hours in fiscal 2026 is 113.3 as compared to 71.3 in fiscal 2025.
 
-| Stakeholder group   | Whetheridentified as vulnerable or marginalized (Yes/No)   | Channels of communication (Email, SMS, newspaper, pamphlets, advertisement, community meetings, notice board, website, others (please specify)   | Frequency of engagement (Annually/ Half- yearly/ Quarterly / others - please specify)   | Purpose and scope of engagement including key topics and concerns raised during such engagement                                                                                                                 |
-|---------------------|------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Communities         | Yes                                                        | • Meetings with associations / NGOs • Local community interactions • Social media                                                                | Ongoing                                                                                 | • Enable access to digital skilling • Serve the community through Tech for Good programs in education, healthcare, and governance • Enable participation of diverse communities in the economy • CSR engagement |
-| Suppliers           | No                                                         | • Suppliers meet, Sambandh (bi-annual) • ESG report • Supplier engagement on ESG                                                                 | Ongoing                                                                                 | • Keep a finger on pulse on supplier engagement • Provide an opportunity to raise concerns • Training and development                                                                                           |
+(1) Only for permanent employees
+(2) Includes awareness programs
+On health and safety
+measures (2)
+No. (B)
+1,98,969
+1,29,625
+3,28,594
+% (B / A)
+100
+100
+100
+Total (A)
+1,98,969
+1,29,625
+3,28,594
+## Yes/No (If Yes, then give details of the mechanism in brief)
+On skill upgradation*
+No. (C)
+% (C / A)
+1,62,577
+1,06,150
+2,68,727
+81.7
+81.9
+81.8
+NA
+Total (D)
+1,97,246
+1,26,332
+3,23,578
+of this Integrated Annual Report.
+Fiscal 2025 (1)
+On health and safety
+measures (2)
+No. (E)
+1,97,246
+1,26,332
+3,23,578
+% (E / D)
+100
+100
+100
+On skill upgradation
+No. (F)
+% (F / D)
+1,75,377
+1,12,388
+2,87,765
+88.9
+89.0
+88.9
+## 9. Details of performance and career development reviews of employees and workers
+| Category                | Fiscal 2026   | Fiscal 2026   | Fiscal 2026   | Fiscal 2025   | Fiscal 2025   | Fiscal 2025   |
+|-------------------------|---------------|---------------|---------------|---------------|---------------|---------------|
+|                         | Total (A) (1) | No. (B)       | %(B/ A)       | Total (C) (1) | No. (D)       | %(D/C)        |
+| Employees               |               |               |               |               |               |               |
+| Male                    | 1,65,963      | 1,65,963      | 100           | 1,77,052      | 1,77,052      | 100           |
+| Female                  | 1,08,871      | 1,08,871      | 100           | 1,15,011      | 1,15,011      | 100           |
+| Total                   | 2,74,834      | 2,74,834      | 100           | 2,92,063      | 2,92,063      | 100           |
+| Total permanent workers |               |               |               |               |               |               |
+| Male                    |               |               | NA            |               |               |               |
+| Female                  |               |               |               |               |               |               |
+
+## 10. Health and safety management system:
+## 10a. Whether an occupational health and safety management system has been implemented by the entity? (Yes / No). If yes, the coverage of such system?
+Yes. At Infosys, Health, Safety and Environment (HSE) is an integral part of our ESG framework. Our Health, Safety and Environmental Management System (HSEMS), known as 'Ozone', is anchored in strong management commitment, compliance with applicable legal requirements, and the expectations of our stakeholders.
+Ozone has not only enabled assurance of our structured and well-established processes through globally recognized certifications, but it has also cultivated a strong culture of safety and well-being across the organization. Our robust HSEMS has enabled Infosys to achieve ISO 45001:2018 (Occupational Health &amp; Safety) certifications at locations where the system has been in place for over three years. These certifications encompass all India locations and Australia offices, including Infosys Limited and its subsidiaries, in line with our enterprise HSE strategy. Currently, over 85% of Infosys' employees are covered by ISO 45001 certification, highlighting our commitment to employee safety. The HSEMS is globally implemented across locations based on legal requirements and internal benchmarks, and it is included in our internal audit program to ensure consistent governance and performance.
+Infosys provides the highest priority to the health, safety, and well-being of its employees and key stakeholders. Our HSE Policy clearly articulates our philosophy and commitment towards proactively managing significant HSE risks and opportunities. To further strengthen occupational health outcomes, Infosys has introduced various initiatives focused on mental and emotional health, ergonomics, safety, lifestyle diseases, and preventive care. Occupational Health Centers are active across all our India campuses, supporting a comprehensive approach to employee health and well-being.

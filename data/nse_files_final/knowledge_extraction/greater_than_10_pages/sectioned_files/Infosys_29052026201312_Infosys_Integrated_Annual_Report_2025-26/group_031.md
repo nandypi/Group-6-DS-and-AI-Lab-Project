@@ -2,188 +2,137 @@
 document_name: "Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26.md"
 group_id: "Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26__group_031"
 source_section_count: 2
-page_start: 134
-page_end: 137
-estimated_tokens: 4178
+page_start: 130
+page_end: 134
+estimated_tokens: 4883
 source_section_ids:
-  - "Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26__058"
-  - "Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26__059"
+  - "Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26__056"
+  - "Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26__057"
 ---
 
-## Leadership Indicators
-1. Has the entity conducted Life Cycle Perspective / Assessments (LCA) for any of its products (for manufacturing industry) or for its services (for service industry)? If yes, provide details in the following format?
+## Notes:
+- BVC conducted ISO 9001: 2015, ISO 27001: 2022, ISO 22301: 2019, ISO 20000:2018, AS 9100 and ISO 27701: 2019.
+- DNV conducted ISO 14001:2015, ISO 45001:2018, ISO 50001:2018 and ISO 14068
+- BSI (Beijing) conducted the ISO 9001: 2015 and ISO 27001: 2022 audits at our China location.
 
-It is in progress. Infosys is an IT consulting and software services organization. Our life cycle practices include green procurement considerations as part of technical specifications for purchase and end-of-life management to maximize recycling.
-We have mandated Life Cycle Assessment for our new physical infrastructure, which helps in making an informed decision towards environmentally friendly products in the construction and operation of our buildings.
-2.   If there are any significant social or environmental concerns and / or risks arising from production or disposal of your products / services, as identified in the Life Cycle Perspective / Assessments (LCA) or through any other means, briefly describe the same along-with action taken to mitigate the same
+| 12. If answer to                                                                                 | Questions                                                                                                                       | P1   | P2   | P3   | P4   | P5             | P6   | P7   | P8   | P9   |
+|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|------|------|------|------|----------------|------|------|------|------|
+| question (1) above is 'No' i.e. not all principles are covered by a policy, reasons to be stated | The entity does not consider the Principles material to its business (Yes/No)                                                   |      |      |      |      | Not applicable |      |      |      |      |
+| question (1) above is 'No' i.e. not all principles are covered by a policy, reasons to be stated | The entity is not at a stage where it is in a position to formulate and implement the policies on specified principles (Yes/No) |      |      |      |      | Not applicable |      |      |      |      |
+| question (1) above is 'No' i.e. not all principles are covered by a policy, reasons to be stated | The entity does not have the financial or/ human and technical resources available for the task (Yes/No)                        |      |      |      |      | Not applicable |      |      |      |      |
+| question (1) above is 'No' i.e. not all principles are covered by a policy, reasons to be stated | It is planned to be done in the next financial year (Yes/No)                                                                    |      |      |      |      | Not applicable |      |      |      |      |
+| question (1) above is 'No' i.e. not all principles are covered by a policy, reasons to be stated | Any other reason (please specify)                                                                                               |      |      |      |      | Not applicable |      |      |      |      |
 
-No. There are no significant social or environmental concerns and/or risks arising from the production and disposal of our products and services. A detailed account of our environmental footprint is available in Principle 6 of this BRSR report.
-3. Percentage of recycled or reused input material to total material (by value) used in production (for manufacturing industry) or providing services (for service industry).
+## Section C: Principle-wise performance disclosure
+This section is aimed at helping entities demonstrate their performance in integrating the principles and core elements with key processes and decisions. The information sought is categorized as 'Essential' and 'Leadership'. While the essential indicators are expected to be disclosed by every entity that is mandated to file this report, the leadership indicators may be voluntarily disclosed by entities which aspire to progress to a higher level in their quest to be socially, environmentally and ethically responsible.
+## PRINCIPLE 1 Businesses should conduct and govern themselves with integrity, and in a manner that is ethical, transparent and accountable.
+## Essential Indicators
+1. Percentage coverage by training and awareness programmes on any of the Principles during the financial year:
+2.   Details of fines / penalties /punishment / award / compounding fees / settlement amount paid in proceedings (by the entity or by directors / KMPs) with regulators/ law enforcement agencies / judicial institutions, in the financial year, in the following format (Note: the entity shall make disclosures on the basis of materiality as specified in Regulation 30 of SEBI (Listing Obligations and Disclosure Obligations) Regulations, 2015 and as disclosed on the entity's website):
 
-Not applicable.
-4. Of the products and packaging collected at end of life of products, amount (in metric tonnes) reused, recycled, and safely disposed, as per the following format:
+| Segment                                 | Total number of training and awareness programs held   | Topics / principles covered under the training and its impact                                                                                                                                                                                              | %ageof persons in respective category covered by the awareness programs   |
+|-----------------------------------------|--------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| Board of Directors and Board Committees | 1                                                      | The Board members attended sessions which emphasized global sustainability trends, policies, regulatory environment and related topics. Refer to the Training of Board members section in the Corporate Governance report in the Integrated Annual Report. | 100                                                                       |
+| Key Managerial Personnel (KMP) (1)      | 6                                                      | • Infosys Code of Conduct and Ethics • Climate change • Environmental sustainability • Social sustainability • Data privacy and cybersecurity • Benchmark ESG practices                                                                                    | 100                                                                       |
+| Employees other than BoD and KMPs (1)   | 5                                                      | • Infosys Code of Conduct and Ethics • Climate change • Environmental sustainability • Social sustainability • Data privacy and cybersecurity                                                                                                              | 100                                                                       |
+| Workers                                 | NA                                                     | NA                                                                                                                                                                                                                                                         | NA                                                                        |
 
-Not applicable. We are an IT services company, we don't manufacture any products.
-5. Reclaimed products and their packaging materials (as percentage of products sold) for each product category.
+|                 | Monetary        | Monetary                                                           | Monetary        | Monetary                                                                                                   | Monetary                               |
+|-----------------|-----------------|--------------------------------------------------------------------|-----------------|------------------------------------------------------------------------------------------------------------|----------------------------------------|
+|                 | NGRBC Principle | Nameof the regulatory/ enforcement agencies/ judicial institutions | Amount (In INR) | Brief of the Case                                                                                          | Has an appeal been preferred? (Yes/No) |
+| Penalty / fine* | 1, 3            | Canada Revenue Agency                                              | 0.15 crore      | Penalty for alleged short payment of tax in relation to the payroll trust audit for the years 2017 to 2024 | No                                     |
+| Penalty / fine* | 1               | Federal Tax Authority                                              | 0.12 crore      | Penalty on account of failure to pay VAT liability for Q1FY26                                              | No                                     |
 
-Not applicable. We are an IT services company, we don't manufacture any products.
-## PRINCIPLE 3: Businesses should respect and promote the well-being of all employees, including those in their value chains
-## Essential indicators
-1a. Details of measures for the well-being of employees:
-| %ofemployees covered by        | %ofemployees covered by        | %ofemployees covered by        | %ofemployees covered by        | %ofemployees covered by        | %ofemployees covered by        | %ofemployees covered by        | %ofemployees covered by        | %ofemployees covered by        | %ofemployees covered by        | %ofemployees covered by        | %ofemployees covered by        |
-|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|
-| Category                       | Total (A)                      | Health insurance               | Health insurance               | Accident insurance             | Accident insurance             | Maternity benefits             | Maternity benefits             | Paternity Benefits             | Paternity Benefits             | Day Care facilities (1)        | Day Care facilities (1)        |
-|                                |                                | Number (B)                     | %(B/ A)                        | Number (C)                     | %(C/ A)                        | Number (D)                     | %(D/A)                         | Number (E)                     | %(E / A)                       | Number (F)                     | %(F / A)                       |
-|                                |                                |                                |                                |                                |                                |                                |                                |                                |                                | Permanent employees            | Permanent employees            |
-| Male                           | 1,98,969                       | 1,98,969                       | 100                            | 1,98,969                       | 100                            | NA                             | NA                             | 1,98,969                       | 100                            | -                              | -                              |
-| Female                         | 1,29,625                       | 1,29,625                       | 100                            | 1,29,625                       | 100                            | 1,29,625                       | 100                            | NA                             | NA                             | -                              | -                              |
-| Total                          | 3,28,594                       | 3,28,594                       | 100                            | 3,28,594                       | 100                            | 1,29,625                       | 100                            | 1,98,969                       | 100                            | -                              | -                              |
-| Other than Permanent employees | Other than Permanent employees | Other than Permanent employees | Other than Permanent employees | Other than Permanent employees | Other than Permanent employees | Other than Permanent employees | Other than Permanent employees | Other than Permanent employees | Other than Permanent employees | Other than Permanent employees | Other than Permanent employees |
+| Settlement            | -   | -   | -   | -   |
+|-----------------------|-----|-----|-----|-----|
+| Compounding fee       | -   | -   | -   | -   |
+| * For Infosys Limited |     |     |     |     |
 
-Male
-Female
-Total
-(1) We provide onsite, proximity and network (near-home) childcare support options for our employees in India, based on their preference.
-## 1b. Details of measures for the well-being of workers:
+| Non-Monetary    | Non-Monetary                                                         | Non-Monetary      | Non-Monetary                           |
+|-----------------|----------------------------------------------------------------------|-------------------|----------------------------------------|
+| NGRBC Principle | Nameof the regulatory / enforcement agencies / judicial institutions | Brief of the Case | Has an appeal been preferred? (Yes/No) |
+| Imprisonment    | -                                                                    | -                 | -                                      |
+| Punishment      | -                                                                    | -                 | -                                      |
+
+3. Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred in cases where monetary or non-monetary action has been appealed.
+
+| Case Details   | Nameof the regulatory/ enforcement agencies / judicial institutions   |
+|----------------|-----------------------------------------------------------------------|
+| Not applicable |                                                                       |
+
+4. Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, provide a web-link to the policy.
+
+Yes. Our Code of Conduct and Ethics complies with the legal requirements of applicable laws and regulations, including anti-bribery, anti-corruption and ethical handling of conflicts of interest. Additionally, we also have an Anti-Bribery and Anti-Corruption (ABAC) Policy, which details requirements on ABAC.
+5. Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law enforcement agency for the charges of bribery/ corruption:
+
+|           | Fiscal 2026   | Fiscal 2025   |
+|-----------|---------------|---------------|
+| Directors | -             | -             |
+| KMPs      | -             | -             |
+| Employees | -             | -             |
+| Workers   | NA            | NA            |
+
+## 6. Details of complaints with regard to conflict of interest:
+|                                                                                              | Fiscal 2026   | Fiscal 2026   | Fiscal 2025   | Fiscal 2025   |
+|----------------------------------------------------------------------------------------------|---------------|---------------|---------------|---------------|
+|                                                                                              | Number        | Remarks       | Number        | Remarks       |
+| Number of complaints received in relation to issues of conflict of interest of the Directors | -             |               | -             |               |
+| Number of complaints received in relation to issues of conflict of interest of the KMPs      | -             |               | -             |               |
+
+7. Provide details of any corrective action taken or underway on issues related to fines / penalties / action taken by regulators/ law enforcement agencies/ judicial institutions, on cases of corruption and conflicts of interest.
+
 Not applicable
-- 1c. Spending on measures towards well-being of employees and workers (including permanent and other than permanent) in the following format
+## 8. Number of days of accounts payables ((Accounts payable *365) / Cost of goods/services procured) in the following format:
+|                                    |   Fiscal 2026 |   Fiscal 2025 |
+|------------------------------------|---------------|---------------|
+| Number of days of accounts payable |            42 |            41 |
 
-|                                                                            |   Fiscal 2026 |   Fiscal 2025 |
-|----------------------------------------------------------------------------|---------------|---------------|
-| Cost incurred on well-being measures as a %of total revenue of the company |           1.3 |           1.3 |
+## 9. Open-ness of business
+Provide details of concentration of purchases and sales with trading houses, dealers, and related parties along-with loans and advances &amp; investments, with related parties, in the following format:
+| Parameter                      | Metrics                                                                                        | Fiscal 2026   | Fiscal 2025   |
+|--------------------------------|------------------------------------------------------------------------------------------------|---------------|---------------|
+| Concentration of Purchases (1) | a. Purchases from trading houses as %of total purchases                                        | -             | -             |
+| Concentration of Purchases (1) | b. Number of trading houses where purchases are made from                                      | -             | -             |
+| Concentration of Purchases (1) | c. Purchases from top 10 trading houses as %of total purchases from trading houses             | -             | -             |
+| Concentration of Sales (2)     | a. Sales to dealers / distributors as %of total sales                                          | -             | -             |
+| Concentration of Sales (2)     | c. Sales to top 10 dealers / distributors as %of total sales to dealers / distributors         | -             | -             |
+| Share of RPTs in (3)           | a. Purchases (Purchases with related parties / Total purchases)                                | -             | -             |
+| Share of RPTs in (3)           | b. Sales (Sales to related parties / Total sales)                                              | -             | -             |
+| Share of RPTs in (3)           | c. Loans and advances (Loans and advances given to related parties / Total loans and advances) | -             | -             |
+| Share of RPTs in (3)           | d. Investments (Investments in related parties / Total investments made)                       | -             | -             |
 
-Vendors and contractors are required to adhere to statutory compliances as per the respective rules of the state.
-## 2. Details of retirement benefits, for current financial year and previous financial year.
-| Benefits                          | Fiscal 2026                                    | Fiscal 2026                                | Fiscal 2026                                          | Fiscal 2025                                    | Fiscal 2025                                | Fiscal 2025                                          |
-|-----------------------------------|------------------------------------------------|--------------------------------------------|------------------------------------------------------|------------------------------------------------|--------------------------------------------|------------------------------------------------------|
-|                                   | No. of employees coveredasa%of total employees | No. of workers coveredasa%of total workers | Deducted and deposited with the authority (Y/N/N.A.) | No. of employees coveredasa%of total employees | No. of workers coveredasa%of total workers | Deducted and deposited with the authority (Y/N/N.A.) |
-| PF (1)                            | 100                                            | NA                                         | Y                                                    | 100                                            | NA                                         | Y                                                    |
-| Gratuity (1)                      | 100                                            | NA                                         | Y                                                    | 100                                            | NA                                         | Y                                                    |
-| ESI (2)                           | 2.6                                            | NA                                         | Y                                                    | 3.5                                            | NA                                         | Y                                                    |
-| National Pension Scheme (NPS) (3) | 3.7                                            | NA                                         | Y                                                    | 3.7                                            | NA                                         | Y                                                    |
-| Others - superannuation (4)       | 12.8                                           | NA                                         | Y                                                    | 12.9                                           | NA                                         | Y                                                    |
+## 1. Awareness programmes conducted for value chain partners on any of the Principles during the financial year:
+| Total number of awareness programs held   | Topics / principles covered under the training (1)                                                                                                                                           |   %ageof value chain partners covered (by value of business done with such partners) under the awareness programs (2) |
+|-------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| 5 (1)                                     | • Anti-Corruption and Anti-Bribery • Supplier code of conduct • Environmental footprint and carbon neutrality • Waste water recycling • Business Responsibility and Sustainability Reporting |                                                                                                                 97.19 |
 
-This table represents retirement benefits for the employees working in India. All our employees working outside India are eligible for retirement benefits according to applicable laws in the regions we operate.
-(1) All eligible employees are covered.
-- (2) All eligible employees covered under the Employees State Insurance Act ('ESIC'), 1948 are provided the benefit.
-- (3) Pertains to contribution made by employers for employees who have opted for the same.
+## 2. Does the entity have processes in place to avoid/ manage conflict of interests involving members of the Board? (Yes/No) If Yes, provide details of the same.
+Yes, the Company has established robust processes to avoid and manage conflicts of interest involving members of the Board. These include:
+1.  Declaration of Interest: All Board members are required to disclose their financial interests, affiliations, or relationships that could influence their decision-making at the time of their appointment and periodically thereafter, in compliance with statutory requirements.
+2.  Code of Conduct and Ethics: The Company has adopted a formal Code of Conduct and Ethics that defines what constitutes a conflict of interest and provides clear guidelines for identifying and managing conflicts of interest.
+3.  Recusal procedures: In cases where a potential conflict of interest is identified, the Board member concerned is required to recuse from discussions and voting on the relevant agenda item.
+4.  Approval requirements: Transactions involving entities in which the directors have an interest require the prior approval of the Board. If such transactions exceed the prescribed threshold, the approval of the shareholders is also required.
 
-(4) Eligible employees are participants to superannuation retirement fund.
+## PRINCIPLE 2: Businesses should provide goods and services in a manner that is sustainable and safe
+## Essential indicators
+1. Percentage of R&amp;D and capital expenditure (capex) investments in specific technologies to improve the environmental and social impacts of product and processes to total R&amp;D and capex investments made by the entity, respectively.
 
-## 3. Accessibility of workplaces
-Are the premises / offices of the entity accessible to differently abled employees and workers, as per the requirements of the Rights of Persons with Disabilities Act, 2016? If not, whether any steps are being taken by the entity in this regard.
-Yes. The premises / offices of Infosys in India are accessible to differently-abled employees and workers, as per the requirements of the Rights of Persons with Disabilities Act, 2016.
-4. Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, provide a web-link to the policy.
+|              |   Fiscal 2026 |   Fiscal 2025 | Details of improvements in environmental and social impacts                                                                                                                                                                                                                    |
+|--------------|---------------|---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| R&D (1)(2)   |          19.9 |          16.9 | Education, training and assessment of employees to upskill and reskill, leadership training to build leadership capability and business research to produce novel, distinctive content and insights, and technology to improve environmental and social products and processes |
+| Capex (1)(2) |           3.6 |           1.5 | Efficient equipment for cooling, lighting, renewable energy, water management, waste management and sustainable material                                                                                                                                                       |
 
-Yes, the entity has an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016. The policy of the Company is available on the website at https://www.infosys. com/careers/discover/culture/documents/diversity-inclusion-policy.pdf.
-## 5. Return to work and Retention rates of permanent employees and workers that took parental leave.
-| Gender   | Permanent employees (1)    | Permanent employees (1)   | Permanent workers          | Permanent workers     |
-|----------|----------------------------|---------------------------|----------------------------|-----------------------|
-|          | Return to work rate (In %) | Retention rate (In %)     | Return to work rate (In %) | Retention rate (In %) |
-| Male     | 99.9                       | 82.8                      | NA                         | NA                    |
-| Female   | 99.4                       | 79.6                      | NA                         | NA                    |
-| Total    | 99.7                       | 81.1                      | NA                         | NA                    |
+- 2a. Does the entity have procedures in place for sustainable sourcing? (Yes/No)
 
-Based on the recommendations of GRI standard 401-3.
-(1) 100% of our permanent employees are eligible for parental leaves subject to policy conditions.
-Permanent workers
-Other than permanent
-workers
-Permanent employees
-Other than permanent
-employees NA
-Yes, Infosys is committed to providing a safe and positive work environment as enshrined in our Code of Conduct. Employees and contract staff have
-access to a well-established robust grievance resolution mechanism known as Resolution hubs where they can highlight matters or concerns faced at
-the workplace.
-For more information, refer to Resolution hubs available in the
-Management Discussion and Analysis section
-## 7. Membership of employees and worker in association(s) or Unions recognised by the listed entity:
-| Category                  | Fiscal 2026                                          | Fiscal 2026                                                                                   | Fiscal 2026   | Fiscal 2025                                          | Fiscal 2025                                                                                   | Fiscal 2025   |
-|---------------------------|------------------------------------------------------|-----------------------------------------------------------------------------------------------|---------------|------------------------------------------------------|-----------------------------------------------------------------------------------------------|---------------|
-|                           | Total employees / workers in respective category (A) | No. of employees / workers in respective category, whoare part of association(s) or Union (B) | %(B/ A)       | Total employees / workers in respective category (C) | No. of employees / workers in respective category, whoare part of association(s) or Union (D) | %(D/C)        |
-| Total permanent employees | 3,28,594                                             | 2,989                                                                                         | 0.9           | 3,23,578                                             | 2,713                                                                                         | 0.8           |
-| Male                      | 1,98,969                                             | 2,042                                                                                         | 1.0           | 1,97,246                                             | 1,845                                                                                         | 0.9           |
-| Female                    | 1,29,625                                             | 947                                                                                           | 0.7           | 1,26,332                                             | 868                                                                                           | 0.7           |
-| Total permanent workers   |                                                      |                                                                                               |               |                                                      |                                                                                               |               |
-| Male                      |                                                      |                                                                                               | NA            |                                                      |                                                                                               |               |
-| Female                    |                                                      |                                                                                               |               |                                                      |                                                                                               |               |
+Yes. Infosys has adopted a Responsible Supply Chain &amp; Supplier Diversity Policy as well as a Green Procurement Policy to strengthen its commitment to responsible sourcing. Suppliers are also required to mandatorily sign the Supplier Code of Conduct. Periodic ESG assessments are conducted internally as well as through a third party.
+2b. If yes, what percentage of inputs were sourced sustainably?
+All our procurements follow the principles of sustainable sourcing. We require suppliers to accept the Supplier Code of Conduct, which is based on the UNGC Principles.
+3. Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end of life, for
+2. (a) Plastics (including packaging)
+3. (b) E-waste
+4. (c) Hazardous waste
+5. (d) Other waste
+4.   Whether Extended Producer Responsibility (EPR) is applicable to the entity's activities (Yes / No): No
 
-## 8. Details of training of employees and worker (% to total no. of employees / workers in the category):
-Category
-Male
-Female
-Total
-Total permanent workers
-Male
-Female Fiscal 2026 (1)
-* Average training hours in fiscal 2026 is 113.3 as compared to 71.3 in fiscal 2025.
-
-(1) Only for permanent employees
-(2) Includes awareness programs
-On health and safety
-measures (2)
-No. (B)
-1,98,969
-1,29,625
-3,28,594
-% (B / A)
-100
-100
-100
-Total (A)
-1,98,969
-1,29,625
-3,28,594
-## Yes/No (If Yes, then give details of the mechanism in brief)
-On skill upgradation*
-No. (C)
-% (C / A)
-1,62,577
-1,06,150
-2,68,727
-81.7
-81.9
-81.8
-NA
-Total (D)
-1,97,246
-1,26,332
-3,23,578
-of this Integrated Annual Report.
-Fiscal 2025 (1)
-On health and safety
-measures (2)
-No. (E)
-1,97,246
-1,26,332
-3,23,578
-% (E / D)
-100
-100
-100
-On skill upgradation
-No. (F)
-% (F / D)
-1,75,377
-1,12,388
-2,87,765
-88.9
-89.0
-88.9
-## 9. Details of performance and career development reviews of employees and workers
-| Category                | Fiscal 2026   | Fiscal 2026   | Fiscal 2026   | Fiscal 2025   | Fiscal 2025   | Fiscal 2025   |
-|-------------------------|---------------|---------------|---------------|---------------|---------------|---------------|
-|                         | Total (A) (1) | No. (B)       | %(B/ A)       | Total (C) (1) | No. (D)       | %(D/C)        |
-| Employees               |               |               |               |               |               |               |
-| Male                    | 1,65,963      | 1,65,963      | 100           | 1,77,052      | 1,77,052      | 100           |
-| Female                  | 1,08,871      | 1,08,871      | 100           | 1,15,011      | 1,15,011      | 100           |
-| Total                   | 2,74,834      | 2,74,834      | 100           | 2,92,063      | 2,92,063      | 100           |
-| Total permanent workers |               |               |               |               |               |               |
-| Male                    |               |               | NA            |               |               |               |
-| Female                  |               |               |               |               |               |               |
-
-## 10. Health and safety management system:
-## 10a. Whether an occupational health and safety management system has been implemented by the entity? (Yes / No). If yes, the coverage of such system?
-Yes. At Infosys, Health, Safety and Environment (HSE) is an integral part of our ESG framework. Our Health, Safety and Environmental Management System (HSEMS), known as 'Ozone', is anchored in strong management commitment, compliance with applicable legal requirements, and the expectations of our stakeholders.
-Ozone has not only enabled assurance of our structured and well-established processes through globally recognized certifications, but it has also cultivated a strong culture of safety and well-being across the organization. Our robust HSEMS has enabled Infosys to achieve ISO 45001:2018 (Occupational Health &amp; Safety) certifications at locations where the system has been in place for over three years. These certifications encompass all India locations and Australia offices, including Infosys Limited and its subsidiaries, in line with our enterprise HSE strategy. Currently, over 85% of Infosys' employees are covered by ISO 45001 certification, highlighting our commitment to employee safety. The HSEMS is globally implemented across locations based on legal requirements and internal benchmarks, and it is included in our internal audit program to ensure consistent governance and performance.
-Infosys provides the highest priority to the health, safety, and well-being of its employees and key stakeholders. Our HSE Policy clearly articulates our philosophy and commitment towards proactively managing significant HSE risks and opportunities. To further strengthen occupational health outcomes, Infosys has introduced various initiatives focused on mental and emotional health, ergonomics, safety, lifestyle diseases, and preventive care. Occupational Health Centers are active across all our India campuses, supporting a comprehensive approach to employee health and well-being.
+If yes, whether the waste collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution Control Boards? If not, provide steps taken to address the same.
+Not applicable Not applicable. We don't manufacture any products. We are an IT services company.

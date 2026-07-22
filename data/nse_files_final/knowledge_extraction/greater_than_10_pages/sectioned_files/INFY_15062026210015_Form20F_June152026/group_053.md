@@ -1,186 +1,108 @@
 ---
 document_name: "INFY_15062026210015_Form20F_June152026.md"
 group_id: "INFY_15062026210015_Form20F_June152026__group_053"
-source_section_count: 3
-page_start: 369
-page_end: 375
-estimated_tokens: 4661
+source_section_count: 2
+page_start: 363
+page_end: 369
+estimated_tokens: 4290
 source_section_ids:
-  - "INFY_15062026210015_Form20F_June152026__098"
-  - "INFY_15062026210015_Form20F_June152026__099"
-  - "INFY_15062026210015_Form20F_June152026__100"
+  - "INFY_15062026210015_Form20F_June152026__096"
+  - "INFY_15062026210015_Form20F_June152026__097"
 ---
 
-## Industrial Espionage
-Our commitment to fairness includes respecting the rights of our competitors and abiding by all applicable laws. As a lawful competitor and to help ensure the integrity of the competitive marketplace, we must respect our competitors. Take care that we do not appropriate or unlawfully use the information, material, products, intellectual property, or proprietary or confidential information of anyone including suppliers, customers, business partners or competitors.
-## Governmental Relations
-While all our clients are treated with respect, we should be especially careful while dealing with government clients. There are significant penalties in many countries, including debarment and monetary penalties for organizations that fail to follow the law while working for government clients. The principles set out in Section B of this Code of Conduct 'Ethics in Our Business Activities' and Anti-Bribery and Anti-Corruption Policy of the Company must be strictly followed by all who interact with government officials especially with respect to gifts and entertainment. We should not attempt to influence government employees in any manner other than what is agreed in our contractual arrangement with the government. Employment opportunities for former government officials must not be discussed without first seeking guidance and approval of the Office of Integrity and Compliance. Similarly, we should not initiate discussions for any contract with any business in which a government official or employee holds a significant interest, without the prior approval of the Office of Integrity and Compliance. Reach out to OIC@infosys.com for approvals.
-## Selecting Suppliers
-The Company's suppliers make significant contributions to our success. We strive to create an environment where our suppliers are confident that they will be treated with respect. We select our significant suppliers or enter into significant supplier agreements though a competitive bid process where possible. For more information, read our Supplier Code of Conduct.
-## E. RECORDS, DISCLOSURES AND AUDITS
-## Maintaining Accurate Records
-The integrity of our financial transactions and records is critical to the operation of our business. Our shareholders' trust is based on their confidence in the accurate recording of our financial transactions. Additionally, as a listed company, we are bound by certain standards for accurate financial reporting and we are required to have appropriate internal controls and procedures. If we have responsibility for or any involvement in financial reporting or accounting, we should have an appropriate understanding of, and you should seek in good faith to adhere to, relevant accounting and financial reporting principles, standards, laws, rules and regulations and the company's financial and accounting policies, controls and procedures.
-If we are a senior officer, we should seek to ensure that the internal controls and procedures in your business area are in place, understood and followed.
-Additionally we should take every precaution, whether we are otherwise required to be familiar with finance or accounting matters or not, to ensure that every business record or report with which we deal is honestly filled in, accurate, complete and reliable. For more information, refer to the Policies on Reimbursement of Official Expenses. Additional policies may be applicable, based on your location.
-## Ensuring Accurate Public Disclosures
-Infosys is committed to provide full, fair, accurate, timely and clear disclosures in reports and documents that we file with, or submit to our regulators and in our other public communications. To enable this, we must ensure that we comply with our disclosure controls and procedures, and our internal control over financial reporting.
-## Auditors
-Our outside auditors have a duty to review our records in a fair and accurate manner. We must cooperate with them in good faith and in accordance with law. We must never mislead them in any manner regarding financial records, processes, controls or procedures or other matters which they may enquire about.
-## Interacting with Regulators
-We must fully and truthfully cooperate with any examination or request for information from a regulator or law enforcement agency. Any contact with law enforcement agencies or regulators must be coordinated through the Legal Department.
-## Records on Legal Hold
-In certain circumstances, such as litigation or government investigations, we may be informed by the Legal Department that a legal hold is placed on records for which we are responsible. A legal hold prevents the destruction of documents which may be required for such investigations. We must all comply with instructions of the Legal Department if a legal hold is placed.
-Unless released in writing by the Legal Department, a legal hold remains effective. If you have any questions about a legal hold, contact the person who has sent you the notice of legal hold.
-## Record Retention
-All Company records shall be maintained in accordance with our Document Retention and Archival Policy.
-## Do Not
--  Enter information in the Company's records that hides the true nature of any financial or non-financial transaction or result.
--  Establish any undisclosed or unrecorded fund, account, asset or liability for any improper purpose.
--  Enter into any transaction or agreement that could affect the accurate and timely recording of revenues or expenses.
+## Conflict of Interest
+## What does conflict of interest mean?
+When the interests or benefits of one person conflict with the interests or benefits of the Company, a conflict of interest is said to occur. We must avoid situations involving actual or potential conflict of interest so that even the slightest doubt about our integrity is not raised.
+Conflicts of interest also occur when we or our family members receive improper personal benefits, or preferential treatment as a result of our position, or the position of a family member, in the Company. Remember that such situations might impact our judgment or responsibilities towards our Company and our shareholders and customers.
+## QUESTION
+I work in a country where the laws are different from those in the country where I am based. Does the Code cover both locations?
+## RESPONSE
+Infosys respects the letter and the spirit of the laws and customs of every place where we do business. The Code is intended to be broad enough to cover everyone worldwide, but laws vary from place to place. What may be lawful in one place may be unlawful in another. Employees must always perform their jobs in compliance with applicable laws, policies and procedures. If you are concerned about a possible conflict involving our Code, Company policies and procedures, and any local laws or customs contact any of the resources listed at the end of the Code.
+## When could I be faced with a 'conflict of interest' issue?
+Some examples include:
+## OUTSIDE EMPLOYMENT OR ENGAGEMENT
+If we take part in any activity that enhances or supports a competitor's position or accept simultaneous employment with any other company or business entity, it is considered outside employment and a conflict of interest. This includes performing services as an employee, agent or contractor for a customer, supplier or any other entity that has a business relationship with the Company while working at Infosys, as well as taking up any outside engagement that would adversely impact our responsibilities at Infosys.
+## RELATED PARTY TRANSACTIONS
+We should also avoid conducting Company business with a Family Member or Relative, or with a business in which a Family Member or Relative is associated in any significant role. Family Member or Relative include spouse, siblings, children, parents, grandparents, grandchildren, aunts, uncles, nieces, nephews, cousins, step relationships, and in-laws.
+Material transactions, particularly those involving the Company's directors or executive officers, must be reviewed and approved in writing in advance by the Company's Audit Committee. As a listed entity, the Company is subject to certain legal obligations to report such material related party transactions to regulators and it is important that all such transactions be fully disclosed, conducted at arm's length and with no preferential treatment.
+## WORKING WITH FAMILY
+To avoid conflicts of interest and any appearance of favoritism, we should ensure that we do not work directly for, supervise or make employment decisions about a Family Member or Relative. This includes positions or assignments within the same department and the employment of such individuals in positions that have a financial or other dependence or influence (e.g., an auditing or control relationship, or a supervisor/subordinate relationship).
+Please reach out to your manager and unit HR manager if you have any questions about this. The Human Resources Department is responsible for determining whether an acknowledged relationship is covered by the policy.
+## RELATIONSHIPS AT WORK
+Personal or romantic involvement with a competitor, supplier, or another employee of the Company might affect your ability to exercise good judgment on behalf of the Company. This could lead to conflict of interest. Personal relationships and romantic liaisons between employees who are in a manager-employee reporting structure may lead to team management challenges and reduced morale. Such relationships must be disclosed to the manager immediately, who may take appropriate corrective action.
+## OUTSIDE DIRECTORSHIP
+## 28
+It is a conflict of interest for employees or directors to serve as a director, partner, sole proprietor or any other equivalent position of any company, firm or business entity, as the case may be that competes with the Company or have a line of business similar to that of Infosys. With prior approval of the Office of Integrity and Compliance, employees may serve on the boards or governing body of two other business entities, provided such entities do not compete with Infosys. In case any clarification is required, please reach out to the Office of Integrity and Compliance.
+## OUTSIDE INVESTMENTS
+We should not have a financial interest, including through a relative, in any organization if that interest would give or appear to give us a conflict of interest with the Company. We should be particularly sensitive to financial interests in competitors, suppliers, customers, distributors and strategic partners. Questions in this regard should be directed to OIC@infosys .com.
+## LOANS
+Loans and guarantees to employees by the Company could constitute improper personal benefits depending on the facts and circumstances. Loans by the Company to, or guarantees by the Company of obligations of, any director or executive officer or their family members are prohibited by law.
+## Conflict of Interest
+## When faced with such issues, ask yourself:
+-  Would this create or appear to create an unfair incentive for me or my family?
+-  Am I putting Infosys at risk of violating laws or agreements with our customers?
+-  Would this look bad if it was brought up in social media?
+-  Would this distract me from doing my job?
 
-## F. ADMINISTERING OUR CODE
-The Office of Integrity and Compliance is responsible for administering the Code and reports to the General Counsel and the Audit Committee of the Company.
-## Investigations
-We investigate all potential legal or Code violations. Investigations are conducted in confidence and with fairness and respect. We are required to maintain strict confidentiality and must refrain from sharing details unless necessary. We must also fully cooperate with investigations and provide accurate information when requested. If at the conclusion of an investigation, the Company determines that a violation has occurred, it will take effective remedial action commensurate with the nature of the violation. We are encouraged to report a potential violation in good faith, and assist in investigations and related processes. We will be protected from any retaliation. If we are the subject of an external criminal investigation, we must promptly inform our manager unless it is prohibited by law.
-## Amendments/Modifications to Our Code
-Our Company's Board is responsible for approving and issuing the Code. The Code was first effective on April 10, 2003, with revisions through July 12, 2019, October 13, 2021, October 13, 2022, July 18, 2024 and April 23, 2026. Our Code is reviewed annually to determine whether revisions may be required due to changes in the law or regulations, or changes in our business or the business environment. The Board of Directors must approve any changes to our Code.
-## Acknowledgement
-Employees and our Board of Directors are required to acknowledge that they have read and understood the Code. Our Independent directors may be required to acknowledge acceptance of the Code for Independent Directors as well. We must remember that under no circumstances does our failure to read our Code, sign an acknowledgement or certify online exempt us from our obligation to comply with our Code.
-## Waivers
-Any waiver of our Code requires the prior written approval of the Office of Integrity and Compliance or, in certain circumstances, the Board of Directors or a committee thereof. Waivers will be promptly disclosed as required by applicable law.
-## Disciplinary Actions
-If we violate our Code, the Company will take appropriate disciplinary action.
-The matters covered in this Code are of the utmost importance to the Company, its shareholders and its business partners, and are essential to the Company's ability to conduct its business in accordance with its stated values. We expect all of our directors, officers, employees and third party agents to adhere to these rules in carrying out their duties for the Company
-We take violations of this Code, Company policies and applicable laws seriously. Where appropriate, the Company takes prompt corrective action, up to and including termination of employment. We strive for consistency and fairness in discipline for Code violations. Discipline may include a verbal or written warning; suspension with or without pay; loss or reduction of bonus or stock options; or, for the most serious offenses or repeated misconduct, termination of employment.
-Any disciplinary action depends on the nature, severity, and frequency of the violation. It may vary depending upon local law. Please understand that those who violate the laws or regulations mentioned in the Code could expose themselves and the Company to substantial civil damages and criminal penalties.
-Corrective action may be taken if we:
--  Violate the Code, Company policies and procedures, or applicable laws.
--  Direct others to violate the Code, Company policies and procedures, or applicable laws.
--  Are aware of a violation or potential violation, and fail to report it.
--  Fail to effectively monitor the actions of people you manage.
--  Do not cooperate in a Company audit or investigation.
--  Fail to participate in required training.
--  Retaliate against someone for reporting a concern in good faith or for participating in an investigation of such a report.
--  Disclose information learned during an internal investigation.
+## What should I do if I have any potential/ actual conflict of interest?
+-  All such situations must be disclosed on the Smart Awareness Quiz (SAQ) platform under 'Conflict of Interest' or by reaching out to OIC@infosys.com. Remember, having a conflict of interest is a violation of this Code.
+-  Additionally, we must also update any changes to our disclosures on the SAQ platform or to OIC@infosys.com.
 
-## SPEAK UP
-Report your concerns to your manager, skip-level manager, Human Resources , or the Helpline. The helpline numbers are :
--  U.S. Toll Free #: 1-800-236-6618
--  U.K. Toll Free #: 0-808-189-1043
--  India Toll Free #: 000-800-100-4380
--  You can also report at http://oic.infosys.com
--  Local helpline numbers are available at http://oic.infosys.com
+Since the situations for other conflicts of interest are wide and many, it would be impractical to attempt to list all possible situations. If a proposed transaction or situation raises any questions or doubts, you should raise it to OIC@infosys.com.
+## Political Activities
+Infosys reserves the right to communicate its position on important issues to the elected representatives and other government officials. Infosys' funds or assets must not be used as contribution for political campaigns or political practices under any circumstances without the prior written approval of the Board. For obtaining such approvals, please reach out to OIC@infosys.com. We do not seek reimbursement for political contributions or use Infosys resources for personal political activities. We also do not indicate in any manner that we represent our Company's opinion about a candidate for office or any political cause or decision of any government.
+## Lobbying
+'Lobbying' refers to any activity which influences laws, regulations, public policies or government decision-making, and we must be aware that such activities are regulated. Any direct or indirect interaction with government officials, including preparing policy positions or engaging through industry associations or third parties might be construed as lobbying. We should not claim to represent our Company at such engagements unless we are specifically designated by the Company to do so. Lobbying laws and related reporting requirements vary across countries, and it is important that we understand and comply with these.
+You can reach out to OIC@infosys.com if you have any questions. As in all other spheres of our activity, any meetings of this sort should be carried out with integrity and transparency.
+## Money Laundering and Terrorism Financing
+Money Laundering occurs when someone directly or indirectly gets involved in any process or activity connected with the proceeds of crime including its concealment, possession, acquisition or use and projecting or claiming it as untainted property. Terrorism financing occurs when money or other resources are made available to commit criminal acts of terrorism or to support terrorist organizations. In case you notice any such activity, please report it using the helpline details.
+## Immigration
+At Infosys, we may be required to travel across the globe from time to time to support defined business requirements. During such travel, we are expected to ensure compliance with applicable requirements both under immigration laws as well as company policies. In case any clarification is required, please reach out to Global Immigration helpdesk at GI\_Helpdesk2@infosys.com.
+## C. PROTECTING COMPANY ASSETS
+## Company Confidential Information
+For the Company, its confidential information is a valuable asset and every director, employee and agent of the Company must protect it. Confidential information includes all non-public information. It also includes personal information (regardless of its source) that we obtain in the course of business. We must take care that all confidential information is used for Company business purposes only. Additionally, any personal information must be processed on instructions from the Company in accordance with laid out policies, procedures and guidelines and as per applicable privacy laws and regulations. Further, even when working remotely, employees must safeguard confidential information by preventing unauthorized access and using secure networks.
+Upon joining Infosys, all employees sign a Confidentiality and Nondisclosure Agreement which details their confidentiality obligations to the Company. As employees, we have access to significant amounts of company information that may not be available to the public, and we should preserve the confidentiality of information obtained in the Company's service.
+## Company Confidential Information
+Unless the Company has provided its specific consent, which should preferably be in writing, or there is a legal or professional right or duty to disclose, we are prohibited from disclosing confidential Company information. Confidential or proprietary information about clients, our organization, or other parties, which has been gained through employment or affiliation with Infosys, may not be used for personal advantage or for the benefit of third parties.
+Our Information Security Policy sets out the expectations on each of us to safeguard confidential information of Infosys and our third parties with the assurance of security, availability, integrity and confidentiality. The Acceptable Usage Policy provides the purposes for which Infosys IT resources may be legitimately used and highlights our cyber responsibilities which include keeping systems safe from inappropriate/unauthorized access and other cybersecurity breaches. These policies, together provide employees with the mandatory directive of safeguarding Infosys and client information.
+Our Infosys Privacy Policy and Binding Corporate Rules Policy set out the expectations on each of us to process personal information belonging to our employees, clients, agents, consultants, suppliers, and contractors in a manner so as to ensure compliance with all applicable privacy laws and regulations, including processing personal data across borders between group entities. Unless authorized and contractually agreed, we are committed to protect the confidentiality of such personal information while processing such personal information, implement adequate technical and organizational measures and employees are made aware of and required to comply with mandated processes under Privacy Policy and Binding Corporate Rules Policy for responsible use, disclosure, storage, retaining or any other processing of such personal information.
+Any incident involving personal data/information (actual or suspected) should be brought to the attention of Data Privacy Office by raising  a request on Report Data Privacy Incident/Breach - Infosys Data Privacy Portal or by writing to privacy@infosys.com. Any incident involving unauthorized access/ use of systems or information held therein (actual or suspected) including such incidents in remote settings should be reported to the Information Security Group by raising an IHD to the Information Security Group or via email at ICERT@infosys.com.
 
-Use the helpline to report:
--  Inaccuracy of financial records
--  Accounting and auditing irregularities
--  Bribery, corruption or illegal payments
--  Criminal conduct and violations of law
--  Discrimination and harassment
--  Conflicts of interest
--  You can also write to whistleblower@infosys.com, or to the Chief Compliance Officer at complianceoffice@infosys.com.
+## Improper Opportunities
+When we receive information as part of our job, we should not trade with it for our personal benefit. Neither should we pass on the information to our friends and family members or indirectly compete with the Company. Information obtained as part of our job should not be taken advantage of even after we leave the organization.
+## Company Intellectual Property
+The intellectual property (IP) of the Company must be protected as a vital business asset. Our IP portfolio includes copyrights, patents, trademarks, service marks, trade secrets, design rights, logos, brands and know-how. We must use our IP focusing on protecting these assets. It is important to ensure that to the extent permitted by law, the rights to all IP created using the Company's time and expense that which are within the scope of our duties are assigned to and are the property of the Company. We should promptly disclose any works, inventions or developments we create to obtain legal protection over them. Please contact the IP Cell at infyipteam@infosys.com if you have any questions.
+## Speaking to the Media
+Any inappropriate or inaccurate response, even a simple 'NO' or disclaimer of information, may result in adverse publicity and could otherwise gravely affect the Company's legal position.
+## Providing Information to the Media
+When we speak about the Company on a public forum, including social media, we must make it clear that we are expressing our personal views and not representing the Company. We should be mindful of our statements or posts as even when posting in a personal capacity, our posts may reflect on the Company, and our personal views can be mistaken for Company statements. This does not prohibit us from resharing articles, blog posts and other content related to Company achievements and initiatives.
+Our Chief Executive Officer, Chief Financial Officer and Investor Relations Department are the official Company spokespeople for financial matters. Further, all inquiries or calls from the press and financial analysts should be referred to the Corporate Communications team, which is authorized to handle exchanges with the media.  If you receive any enquiry about the Company or about any content posted on social media, please forward it to the team responsible for handling external queries by writing to pr\_india@infosys.com or pr\_global@infosys.com.
+For more information, you may read Infosys Code on Fair Disclosures and Investor Relations which establishes who in the Company may communicate information and Social Media Policy for guidance on social media usage.
+## Physical Access Control
+Infosys has developed procedures for physical access control to ensure privacy of communications, maintenance of the security of the Company communication equipment, and safeguard Company assets from theft, misuse and destruction. We are responsible for complying with the security policies in our location. We should not violate or bypass the security controls. For more details please read the Company's Information Security Policy.
+## Use of Company Assets
+The use of Infosys assets for individual profit or any unlawful, unauthorized personal or unethical purpose is prohibited. Our information technology, intellectual property (e.g., copyrights, patents, and trademarks), facilities, equipment, machines, software, and cash may be used for business purposes only, including responsible and accurate expense reimbursement, and in accordance with applicable policies. Other assets (e.g., computers, printers, and copiers) may be used for minor and incidental personal purposes provided such use is kept to a minimum, and does not create any significant incremental costs, interfere with work duties, or violate any laws or Infosys policies. The use of any Infosys resources for personal political activities is prohibited. Computer hardware, software, data, and facilities are valuable resources that need protection from potential destruction, theft, or misuse. These resources may also include confidential client or Infosys information that requires safeguarding. It is your responsibility to prevent unauthorized access through the use of ID badges, passwords, or other security codes, and physical security measures (such as using computer cable locks, not leaving computers unattended in cars, and other normal precautions), even when working in remote settings. Copyrighted materials (e.g., books, music, software, and magazines) should not be reproduced, distributed, or altered without permission of the copyright owner or an authorized agent. Software used in connection with the business of Infosys should be properly licensed and used only in accordance with that license. Using unlicensed software could constitute copyright infringement and may be grounds for disciplinary action. For more information, please read the Company's policies on use of Company assets. Expense Claims Each supervisor, manager, and individual employee has an obligation to each other and to the Company to comply with Infosys business expenses and reimbursement policies and practices. All business-related expense claims must be authorized by your manager before being incurred. Personal expenses will not be reimbursed by the Company. QUESTION I recently started working at Infosys. I previously worked for a competitor and just realized I may be involved in developing technology for Infosys that is very similar to what I developed for my prior employer. Should I inform my manager? RESPONSE Yes, immediately inform your supervisor that there may be a conflict with your obligations to a prior employer, but take care not to disclose any confidential information belonging to the prior employer in doing so. You should follow any obligation to your prior employer not to disclose or use their confidential technical information. Infosys expects you to honor your confidentiality obligations to your prior employer. When in doubt about the scope of obligations to a prior employer contact our IP Cell.
+## 37
+## Ethical Use of AI and Emerging Technologies
+We are required to develop and use AI in a responsible, ethical, and secure manner, in compliance with applicable laws and regulations. It is essential that we adhere to the Infosys AI Policy and all relevant client or vendor contractual requirements. Only approved AI tools are permitted. Confidential, client-related, personal or proprietary information must not be shared with public AI systems unless explicitly authorized. Any AI-generated content used in internal, client, or public deliverables must be transparently disclosed and reviewed for accuracy, bias, and policy compliance.
+We must ensure that we accurately represent both the benefits and potential harms of AI, both within our organization and externally. We must respect intellectual property, and remain accountable for all actions and decisions made with AI support. In case of questions please reach out to ResponsibleAI@infosys.com.
+## D.  COMMITTED TO OUR CUSTOMERS AND OUR SUPPLIERS
+To many people, we are the only 'Infosys' that they will ever meetas such we are a brand ambassador and a representative of the Company. For instance, if our job involves working with current or potential Company customers/suppliers, we must act in a manner that is representative of our C-LIFE values. The goodwill our Company enjoys is one of our most important assets, and we must preserve and enhance our reputation through our actions.
+## Fair Dealings
+We must deal fairly with the Company's customers, suppliers, partners, service providers, competitors and anyone else with whom we interact while at work. We should not take unfair advantage of anyone through manipulation, concealment, abuse of privileged information, misrepresentation of facts or any other unfair dealing practice.
+## Confidential Information of Clients and Third Parties
+The Confidentiality and Nondisclosure Agreement we sign when we join the Company details our confidentiality obligations to the Company and its clients. We have access to significant amounts of client information that may not be available to the public, and we are required to preserve the confidentiality of information obtained in client service. Information of a confidential, private and sensitive nature must be used responsibly and controlled and protected to prevent its prohibited, arbitrary or careless disclosure. Unless the client has provided its specific consent, which should preferably be in writing, or there is a legal or professional right or duty to process or disclose, we are prohibited from processing or disclosing confidential client information.
+Confidential or proprietary information including personal information about clients, our organization, or other parties, which has been gained through employment or affiliation with Infosys, may not be used for personal advantage or for the benefit of third parties. We are committed to protect the confidentiality of processing such personal information by implementing adequate technical and organizational measures, and all employees, agents, consultants, suppliers, contractors, are made aware of their responsibility to use, or process personal information, unless authorized by law and/or contractually agreed.
+## Free and Fair Competition
+At Infosys, we believe that a free and fair market benefits all of us and ensures that our clients receive the best quality products and services at the best prices. Most countries we operate in have laws to encourage and protect free and fair market competition by regulating anti-competitive conduct, including unfair acts by market leaders. These laws regulate our relationships with our customers, competitors, distributors and resellers.
+## What do we need to know? What is regulated? How do we comply?
+-  Anti-trust laws generally address the following areas: Unfair pricing practices (such as price discrimination, price fixing), secret rebates, entry barriers through exclusive dealerships or distributorships which are questionable, restrictions on carrying competing products and other practices. If you come across any such questionable practices in the course of your work, for instance, while bidding for services, please contact the Helpline.
+-  We should not engage in any commercially motivated understanding (written or oral, expressed or implied) to undermine the fair market competition.
+-  We should not knowingly make false or misleading statements regarding our competitors or the products and services of our competitors, customers or suppliers.
+-  Collusion among competitors is illegal. Our communications with competitors should always avoid subjects such as prices or other terms and conditions of sale, customers and suppliers. We should not enter into an agreement or understanding, written or oral, express or implied, with any competitor on these subjects.
 
-You can also write to whistleblower@infosys.com, or to the Chief Compliance Officer at complianceoffice@infosys.com. If you have concerns about reaching out to the Chief Compliance Officer, your report may be made to the Audit Committee of Infosys at Audit.Committee@infosys.com.
-For more details, read the Company's Whistleblower Policy available on the Infosys intranet and on the Infosys website at: https://www.infosys.com/investors/corporate-governance/documents/whistleblower    policy.pdf.
--  If you have concerns relating to your fellow employees' behavior, you can also reach out to HEAR@infosys.com.
--  Grievances relating to sexual harassment may be raised by writing to GRB@infosys.com.
-
-## Retaliation is against our values
-If you observe violations of Infosys values and principles, you are encouraged to report such incidents to the Helpline.  Infosys does not tolerate any form of threat, retribution or retaliation (whether by a manager, co-worker or otherwise) against any person because of any good faith report that is raised. This protection also extends to anyone who assists with or cooperates in an investigation. We support those who support our values.
-## Form of Acknowledgment of Receipt of Code of Conduct and Ethics
-I have received and read the Company's Code of Conduct and Ethics. I understand the standards and policies contained in the Company Code of Conduct and Ethics and understand that there may be additional policies or laws specific to my job and/or the location of my posting. I further agree to follow the values of the Company in all that I do and comply with the Company Code of Conduct and Ethics.
-If I have questions concerning the meaning or application of the Company Code of Conduct and Ethics, any Company policies, or the legal and regulatory requirements applicable to my job, I know I can consult my manager, the Office of Integrity &amp; Compliance, the Human Resources Department or the Legal Department, knowing that my questions or reports to these sources will be maintained in confidence.
-| EmployeeName   | Signature   |
-|----------------|-------------|
-| Employee No.   | Date        |
-
-Please sign and return this form to the Human Resources Department.
-| INDEX                   |                        |                         |                            |                       |                            |
-|-------------------------|------------------------|-------------------------|----------------------------|-----------------------|----------------------------|
-| Anti-competitive        | 19, 40                 | Facilitation Payment    | 19, 20, 23                 | Non Retaliation       | 14                         |
-| Anti-corruption         | 19, 21, 22, 23, 24, 42 | FamilyandFriends        | 25, 29                     | Outside Directorships | 29                         |
-| Books and Records       | 22                     | Financial Records       | 44, 49                     | OutsideEmployment     | 29                         |
-| Boycott                 | 27                     | Gifts and Entertainment | 16, 22, 42                 | Political Activities  | 16,31,37                   |
-| Bribery                 | 19, 20, 21, 22,42, 49  | GovernmentOfficials     | 19,20,22,23,24,31, 42      | Record Retention      | 45                         |
-| Business Partners       | 42, 48                 | Harassment              | 16, 17,18, 49              | Related Party         | 29                         |
-| Cash                    | 21, 22, 23, 37         | InsiderTrading          | 23, 24, 25                 | Reporting             | 29, 43, 44, 48             |
-| CompanyAssets           | 16,33,36,37            | IntellectualProperty    | 16,35,37, 42               | Retaliation           | 5,14, 47, 49               |
-| CompanyRecords          | 45                     | Internet                | 36                         | SafeWork              | 18                         |
-| ConfidentialInformation | 16,33,34,36,37,39,42   | Intimidation            | 18                         | Environment           | 5,6,14,17,18,42,47         |
-| Confidentiality         | 33,34,37,39            | Inventions              | 35                         | Security              | 18,25,34,36,37             |
-| ConflictsofInterest     | 28,29,30,41, 49        | Investigations          | 9,14,16,45,47,48,49        | SexualHarassment      | 49                         |
-| Copyrights              | 35, 37                 | Investments             | 21, 29                     | Social Media          | 30                         |
-| Corruption              | 16, 19, 20             | Invoices                | 23, 27                     | Subsidiaries          | 14                         |
-| Data                    | 26, 34, 37             | Kickbacks               | 19, 20                     | Suppliers             | 14,16,20,29,34,38,39,40,42 |
-| Discrimination          | 16, 17,18, 49          | Legal Hold              | 45                         | Third Parties         | 16,20,23,24,34,39          |
-| Diversity               | 17                     | Loans                   | 21, 29                     | Trademarks            | 35,37                      |
-| Emails                  | 34                     | Manager                 | 10,13,14,15,29,37,41,47,49 | Violence              | 18                         |
-| ExportControls          | 26                     | MediaInquiries          | 35,36                      |                       |                            |
-
-## INDEXOFPOLICIES
-- Anti-Bribery andAnti-CorruptionPolicy
-- AcceptableUsagePolicy
-- InfosysCodeonFairDisclosuresand InvestorRelations
-- DocumentRetentionandArchivalPolicy
-- HumanRightsStatement
-- InformationSecurityPolicy
-- InsiderTradingPolicy
-- Anti-TrustPolicy
-- Exportcontrolpolicy
-- PolicyonReimbursementofOfficial Expensesin India
-- PrivacyPolicy
-- ReimbursementofOfficial ExpensesoutsideIndia
-- SupplierCodeofConduct
-- U.S.Equal OpportunityStatement
-- WhistleblowerPolicy
-- CodeofConductand Ethics（Digital)
-- PolicyonPreventionandRedressal of HarassmentatInfosys
-
-<!-- image -->
-## CERTIFICATION OF CHIEF EXECUTIVE OFFICER PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002
-- I, Salil Parekh, certify that:
-1. I have reviewed this Annual Report on Form 20-F of Infosys Limited;
-2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;
-3. Based on my knowledge, the  financial  statements,  and  other  financial  information  included  in  this report,  fairly  present  in  all  material  respects  the  financial  condition,  results  of  operations  and  cash flows of the company as of, and for, the periods presented in this report;
-4. The  company's  other  certifying  officer  and  I  are  responsible  for  establishing  and  maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the company and have:
-- (a) Designed  such  disclosure  controls  and  procedures,  or  caused  such  disclosure  controls  and procedures to be designed under our supervision, to ensure that material information relating to the company, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;
-- (b) Designed  such  internal  control  over  financial  reporting,  or  caused  such  internal  control  over financial  reporting  to  be  designed  under  our  supervision,  to  provide  reasonable  assurance regarding  the  reliability  of  financial  reporting  and  the  preparation  of  financial  statements  for external purposes in accordance with generally accepted accounting principles;
-- (c) Evaluated the effectiveness of the company's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and
-- (d) Disclosed in this report any change in the company's internal control over financial reporting that occurred  during  the  period  covered  by  the  annual  report  that  has  materially  affected,  or  is reasonably likely to materially affect, the company's internal control over financial reporting; and
-5. The company's other certifying officer and I have disclosed, based on our most recent evaluation of internal  control  over  financial  reporting,  to  the  company's  auditors  and  the  audit  committee  of  the company's board of directors (or persons performing the equivalent functions):
-- (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial  reporting  which  are  reasonably  likely  to  adversely  affect  the  company's  ability  to record, process, summarize and report financial information; and
-- (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the company's internal control over financial reporting.
-
-/s/ Salil Parekh
-Salil Parekh Chief Executive Officer and Managing Director
-## CERTIFICATION OF CHIEF FINANCIAL OFFICER PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002
-I, Jayesh Sanghrajka, certify that:
-1. I have reviewed this Annual Report on Form 20-F of Infosys Limited;
-2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;
-3. Based on my knowledge, the  financial  statements,  and  other  financial  information  included  in  this report,  fairly  present  in  all  material  respects  the  financial  condition,  results  of  operations  and  cash flows of the company as of, and for, the periods presented in this report;
-4. The  company's  other  certifying  officer  and  I  are  responsible  for  establishing  and  maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the company and have:
-5. (a) Designed  such  disclosure  controls  and  procedures,  or  caused  such  disclosure  controls  and procedures to be designed under our supervision, to ensure that material information relating to the company, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;
-6. (b) Designed  such  internal  control  over  financial  reporting,  or  caused  such  internal  control  over financial  reporting  to  be  designed  under  our  supervision,  to  provide  reasonable  assurance regarding  the  reliability  of  financial  reporting  and  the  preparation  of  financial  statements  for external purposes in accordance with generally accepted accounting principles;
-7. (c) Evaluated the effectiveness of the company's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and
-8. (d) Disclosed in this report any change in the company's internal control over financial reporting that occurred  during  the  period  covered  by  the  annual  report  that  has  materially  affected,  or  is reasonably likely to materially affect, the company's internal control over financial reporting; and
-5. The company's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the company's auditors and the audit committee of the company's board of directors (or persons performing the equivalent functions):
-10. (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial  reporting  which  are  reasonably  likely  to  adversely  affect  the  company's  ability  to record, process, summarize and report financial information; and
-11. (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the company's internal control over financial reporting.
-
-/s/ Jayesh Sanghrajka
-Jayesh Sanghrajka Chief Financial Officer
-
-## CERTIFICATION OF CHIEF EXECUTIVE OFFICER PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
-I,  Salil  Parekh, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that the Annual Report on Form 20-F of Infosys Limited for the year ended March 31, 2026, fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act  of  1934,  as  amended,  and  that  information  contained  in  such  Annual  Report  on  Form  20-F  fairly presents in all material respects the financial condition and results of operations of Infosys Limited.
-/s/ Salil Parekh
-Salil Parekh
-Chief Executive Officer and Managing Director
-Date: June 15, 2026
-## CERTIFICATION OF CHIEF FINANCIAL OFFICER PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
-I, Jayesh Sanghrajka, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that the Annual Report on Form 20-F of Infosys Limited for the year ended March 31, 2026, fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, and that information contained in such Annual Report on Form 20-F fairly presents in all material respects the financial condition and results of operations of Infosys Limited.
-/s/ Jayesh Sanghrajka
-Jayesh Sanghrajka Chief Financial Officer
-Date: June 15, 2026
-## CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
-We consent to the incorporation by reference in the Registration Statement No. 333-212767 and 333236753 on Form S-8 of our reports dated June 15, 2026 relating to the financial statements of Infosys Limited and the effectiveness of Infosys Limited's internal control over financial reporting appearing in the Annual Report on Form 20-F for the year ended March 31, 2026.
-/s/Deloitte Haskins &amp; Sells LLP Bengaluru, India June 15, 2026
+For more information, please refer Anti-Trust Policy.
+## QUESTION
+My department is in the process of choosing a vendor. One of my employees recommended a company owned by his sister. I have heard good things about this company from other sources. Can I consider this company even though one of my employees is related to the owner?
+## RESPONSE
+This employee can compete for the work, but the employee who is related to the owner cannot be involved in decisions about choosing the vendor. Nor can the employee be involved in managing the vendor, if chosen. Your employee should also understand that he cannot provide any confidential Infosys information or other advantage to his sister that would help her company be selected. Also, you should consult your manager about any actual or apparent conflicts of interest under the circumstances, particularly where family members are involved.

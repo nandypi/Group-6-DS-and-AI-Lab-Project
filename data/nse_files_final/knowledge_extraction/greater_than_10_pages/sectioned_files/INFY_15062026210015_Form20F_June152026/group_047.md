@@ -1,179 +1,254 @@
 ---
 document_name: "INFY_15062026210015_Form20F_June152026.md"
 group_id: "INFY_15062026210015_Form20F_June152026__group_047"
-source_section_count: 2
-page_start: 337
-page_end: 343
-estimated_tokens: 5053
+source_section_count: 1
+page_start: 328
+page_end: 337
+estimated_tokens: 5875
 source_section_ids:
-  - "INFY_15062026210015_Form20F_June152026__086"
-  - "INFY_15062026210015_Form20F_June152026__087"
+  - "INFY_15062026210015_Form20F_June152026__085"
 ---
 
-## Infosys Limited Code of Conduct for Prohibition of Insider Trading
-## I. BACKGROUND AND OBJECTIVE
-Infosys Limited (' Company ') is  a  public company whose equity shares are listed on National Stock Exchange of India Limited (' NSE ') and BSE Limited (' BSE ') and subject to the rules and regulations issued by the Securities and Exchange Board of India (' SEBI '). Additionally, the Company's American Depositary Shares (' ADSs ') are listed on the New York Stock Exchange (' NYSE ') and the Company is  a 'Reporting Company' subject to  the  rules  and  regulations  of  the  Securities  Act,  1933  and  the Securities  Exchange  Act  of  1934,  and  the  Securities  and  Exchange  Commission, (' SEC' )  United States of America (' USA/ US '). For avoidance of doubt, ADSs representing Company's equity shares are also considered as Securities / shares of the Company.
-The Board ( as defined below ) of the Company has adopted this code of conduct to regulate, monitor and report trading by the Designated Persons along with their Immediate Relative as defined in this Code (' Code ') to  comply  with  the  SEBI  (Prohibition  of  Insider  Trading)  Regulations,  2015  (as amended from time to time) (' SEBI Regulations ') and the applicable US securities laws.
-This Code shall be applicable to Designated Persons and Immediate Relatives of Designated Persons as defined in this Code.
-The  SEBI  Regulations  prohibits  an  Insider  from  Trading  ( as  defined  below) in  the  Securities  of  a company listed on any stock exchange when in possession of any UPSI ( as defined below ).
-## II. CODE OF CONDUCT
-## 1. Definitions
-- 1) 'Act' shall mean the SEBI Act, 1992 (15 of 1992).
-- 2) 'Audit Committee'' shall mean committee of the Board of the Company constituted pursuant to the provisions of Section 177 of the Companies Act, 2013 read with Regulation 18 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015. (' SEBI LODR ')
-- 3) ' Board ' shall mean the board of Directors of the Company.
-- 4) ' Compliance Officer ' means the Company Secretary of the Company, or such other senior officer designated as such and reporting to the Board, or the head of the organization in case the Board is not there, who is financially literate and is capable of appreciating requirements for    legal    and    regulatory    compliance  under  the  SEBI  Regulations  and  who  shall  be responsible  for  compliance  of  policies,  procedures,  maintenance  of  records,  monitoring adherence to the rules for the preservation of UPSI, monitoring of Trades and implementation
+## Requirements for Depositary Actions
+Before the depositary will issue, deliver or register a transfer of an ADS, split-up, subdivide or combine ADSs, make a distribution on an ADS, or permit withdrawal of equity shares, the depositary or we may require:
+- payment of stock transfer or other taxes or other governmental charges and transfer or registration fees charged by third parties for the transfer of any equity shares or other deposited securities and payment of the applicable fees, expenses and charges of the depositary;
+- satisfactory proof of the identity and genuineness  of any signature or any other matters contemplated in the deposit agreement; and
+- compliance with (A) the provisions of our memorandum and articles of association and resolutions and regulations of our Board adopted pursuant to our memorandum and articles of association; (B) any laws or governmental regulations relating to the execution and delivery of ADRs or ADSs or to the  withdrawal  or  delivery  of  deposited  securities;  and  (C)  such  reasonable  regulations  and procedures as the depositary may establish, from time to time, consistent with the deposit agreement and applicable laws, including presentation of transfer documents.
 
-of the codes specified under the SEBI Regulations under the overall supervision of the Board.
-- 5) ' Connected Person ' means-
-- i. A Director of the Company;
-- ii. A Key Managerial Personnel of the Company;
-- iii. An Officer of the Company;
-- iv. Any person who is or has been in a contractual, fiduciary or employment relationship at any time  in  the  six-month  period  prior  to  the  date  of  determining  whether  that  person,  as  a result of such relationship, was, directly or indirectly, allowed access to UPSI or reasonably expected to be allowed access to UPSI;
-- v. Any person who is or has been in frequent communication with an Officer of the Company at any time in the six-month period prior to the date of determining whether that person, as a result of such frequent communication, was, directly or indirectly, allowed access to UPSI or reasonably expected to be allowed access to UPSI;
-- vi. An employee of the Company who has access to UPSI or is reasonably expected to have access to UPSI; and
-- vii. Any  person  who  has  a  professional  or  business  relationship  with  the  Company,  whether temporary or permanent, and that relationship directly or indirectly, allows access to UPSI or is reasonably expected to allow access to UPSI;
+The depositary may refuse to issue and deliver ADSs or register transfers of ADSs generally when the register of  the  depositary  or  our  transfer  books  are  closed  or  at  any  time  if  the  depositary  or  we  determine  that  it  is necessary or advisable to do so.
+## Your Right to Receive the Shares Underlying Your ADSs
+You have the right to cancel your ADSs and withdraw the underlying equity shares at any time except:
+- when temporary delays arise because: (1) the depositary has closed its transfer books or we have closed  our  transfer  books;  (2)  the  transfer  of  equity  shares  is  blocked  to  permit  voting  at  a shareholders' meeting; or (3) we are paying a dividend on our equity shares;
+- when you owe money to pay fees, taxes and similar charges;
+- when it  is  necessary  to  prohibit  withdrawals  in  order  to  comply  with  any  laws  or  governmental regulations that apply to ADSs or to the withdrawal of equity shares or other deposited securities;
+- other circumstances specifically contemplated by Section I.A.(l) of the General Instructions to Form F-6 (as such General Instructions may be amended from time to time); or
+- for any other reason if the depositary or we determine, in good faith, that it is necessary or advisable to prohibit withdrawals.
 
-Without  prejudice  to  the  generality  of  the  foregoing,  the  persons  enumerated  below  shall  be deemed to be Connected Persons unless the contrary is established -
-1. A relative of connected persons as specified above in (i) to (vii);
-2. A holding company, associate company or subsidiary company;
-3. An intermediary as specified in Section 12 of the Act or an employee or director thereof;
-4. An investment company, trustee company, asset management company or an employee or director thereof;
-5. An official of a stock exchange or of clearing house or corporation;
-6. A member of the board of trustees of a mutual fund, a member of the board of directors of the asset management company of a mutual fund or in each case, an employee thereof;
-7. A  member  of  the  board  of  directors  or  an  employee,  of  a  public  financial  institution  as defined in section 2 (72) of the Companies Act, 2013;
-8. An official or an employee of a self-regulatory organization recognized, or authorized by the SEBI;
-9. A banker of the Company; and
-10. A concern, firm, trust, Hindu undivided family, company or association of persons wherein a Director of the Company or his Relative or banker of the Company, has more than ten percent of holding or interest.
-11. a firm or its partner or its employee in which a connected person as specified in (i) to (vii) is also a partner;
-12. a person sharing household or residence with a connected person as specified in (i) to (vii)
+The depositary shall not knowingly accept for deposit under the deposit agreement any equity shares or other deposited securities required to be registered under the provisions of the Securities Act, unless a registration statement is in effect as to such equity shares.
+This right of withdrawal may not be limited by any other provision of the deposit agreement.
+## Direct Registration System
+In  the  deposit  agreement,  all  parties  to  the  deposit  agreement  acknowledge  that  the  DRS  and  Profile Modification System, or Profile, will apply to uncertificated ADSs upon acceptance thereof to DRS by DTC. DRS  is  the  system  administered  by  DTC  pursuant  to  which  the  depositary  may  register  the  ownership  of uncertificated ADSs, which ownership shall be evidenced by periodic statements issued by the depositary to the ADS holders entitled thereto. Profile is a required feature of DRS which allows a DTC participant, claiming to act  on  behalf  of  an  ADS  holder,  to  direct  the  depositary  to  register  a  transfer  of  those  ADSs  to  DTC  or  its nominee  and  to  deliver  those  ADSs  to  the  DTC  account  of  that  DTC  participant  without  receipt  by  the depositary of prior authorization from the ADS holder to register such transfer.
+1
+## OVERVIEW OF EXECUTIVE LEADERSHIP COMPENSATION
+## 1. Executive Leadership Compensation at Infosys
+Our Executive Leadership Compensation follows the concept of Total Rewards which comprise three primary  components  of  Base/Fixed  Pay,  Performance  Bonus  and  Stock  Incentives,  where  a significant portion of rewards are in the form of stock incentives, in order to align with interest of the shareholders.
+Executive Leadership (also called 'Executive Officers') are the Chief Executive Officer and Managing Director  (CEO),  Chief  Financial  Officer,  Chief  Legal  Officer  &amp;  Chief  Compliance  Officer  and  Chief Human Resources Officer and are named below.
+| Executive Officers     | Position                                       |
+|------------------------|------------------------------------------------|
+| Mr. Salil Parekh       | Chief Executive Officer and Managing Director  |
+| Mr. Jayesh Sanghrajka  | Chief Financial Officer                        |
+| Ms. Inderpreet Sawhney | Chief Legal Officer & Chief Compliance Officer |
+| Mr. Shaji Mathew       | Chief Human Resources Officer                  |
 
-- 6) ' Contra trade ' means a Trade or transaction which involves buying or selling Securities of the Company and within six months trading or transacting in an opposite transaction involving sell or buy following the prior transaction.
-- 7) ' Designated Person " shall consist of:
-3. i Promoters of the Company.
-4. ii Directors and Key Managerial Personnel of the Company and its material subsidiaries.
-5. iii Employees  in  the  Finance  and  Accounts,  Corporate  Planning,  Legal,  Enterprise  Risk Management, Corporate Strategy, Investor Relations, Information Security, Data Privacy, Mergers  &amp;  Acquisitions,  Corporate  Secretarial,  Marketing,  Compensation  and  Benefits and any other departments of the Company and its material subsidiaries, if any, on the basis of their functional role or that have access to UPSI, designated from time to time.
-6. iv Chief  Executive  Officer (' CEO ') and  employees  up  to  two  levels  below  CEO  of  the Company and material subsidiaries.
-7. v Executive Secretaries of Directors, Key Managerial Personnel and Executive Officers of the Company, any other support staff of the company, such as IT staff or secretarial staff who are likely to have access to UPSI.
-8. vi Any  other  person  designated  on  the  basis  of  their  functional  role  where  such  function would provide access to UPSI.
-- 8) ' Director ' shall have the meaning assigned under the Companies Act, 2013.
-- 9) 'Generally available information' means information  that  is  accessible  to  the  public  on  a non-discriminatory basis and shall not include unverified event or information reported in print or  electronic  media.  For  example,  information  which  is  published  on  the  website  of  stock exchange(s) where the Securities of the Company are listed or published by way of a press release by the Company, would ordinarily be considered generally available.
-11. 10)' Immediate Relative ' means a spouse of a person, and includes parent, sibling, and child of such  person  or  of  the  spouse,  if  they  are  either  dependent  financially  on  such  person,  or consult such person in taking decisions relating to Trading in Securities.
-12. 11)' Insider ' means any person who is:
-- i. a Connected Person or
-- ii. in possession of or having access to UPSI.
-15. 12)' Key Managerial Personnel ' shall have the meaning assigned to it under the Companies Act, 2013.
-- 13) 'Leak of UPSI' shall refer to such act / circumstance(s) by virtue of which an UPSI is made available or becomes available, by any means or mode to any person, association, body, firm, agency, society, entity or to a group thereof, whether registered or otherwise before becoming generally available and which shall also include any purported attempt thereof.
+## 2. Nomination and Remuneration Committee of the Board
+The Nomination and Remuneration Committee of the Board (henceforth referred to as NRC) acts on behalf  of  the  Board  on  matters  relating  to  the  compensation  of  Directors  and  other  Executive Officers.  It  makes  recommendations  for  changes  to  the  compensation  structure,  and  within  the limits approved by the shareholders, as may be applicable.
+The shareholders approve the overall compensation structure for all whole-time directors.
+## 3. Key Aspects of Executive Compensation Policy
+## a. Key Objectives:
+The Company's executive pay programs support our Executive Compensation philosophy which aims to:
+- Attract and retain the best executive talent in order to achieve superior results;
+- Create a performance-oriented culture by rewarding performance on comprehensive goals, which include financial, strategic and operational goals; and
+- Emphasize sustainable, long-term shareholder value creation through allocation of performance-oriented stock-based incentives.
 
-Explanation:  It  covers  the  instances  where  the  UPSI  has  been  shared  by  a  person  to  any person,  association,  body,  firm,  agency,  society,  entity  or  to  a  group  thereof  except  in compliance with applicable law.
-- 14)' Legitimate purpose ' shall include sharing of UPSI in the ordinary course of business by an Insider  with  partners,  collaborators,  lenders,  customers,  suppliers,  merchant  bankers,  legal advisors, auditors, insolvency professionals or other advisors or consultants, provided that such sharing has not been carried out to evade or circumvent the prohibitions of these regulations. Annexure 8 provides an illustrative list of 'legitimate purposes'.
-- 15) 'Material financial relationship ' shall mean a relationship in which one person is a recipient of any kind of payment such as by way of a loan or gift from a Designated Person during the immediately preceding twelve months, equivalent to at least 25% of the annual income of such Designated  Person  but  shall  exclude  relationships  in  which  the  payment  is  based  on arm's length transactions.
-- 16)' Officer ' shall have the meaning assigned to it under the Companies Act, 2013.
-- 17) Promoter and Promoter Group :
+## b. Primary Pay Components of the Executive Officers' Compensation
+In  support of the above key objectives, the Company's Executive pay program has been designed around three primary pay components: Base/Fixed Pay, Performance Bonus and Stock Incentives. These three components together constitute the 'Total Rewards' of the Executive.
+- Base/Fixed pay: The fixed cash component is guaranteed pay and paid periodically.
+- Performance Bonus: Cash bonus is linked to performance, as assessed against defined Key Performance Indicators . The Company operates a non-contractual discretionary Performance Bonus Plan, as applicable and based on eligibility.
+- Stock Incentives: Stock or Equity based incentives are a substantial part of the Total Rewards of  Executives  and  are  determined  by  the  desired  pay  mix  standards  for  that  level.  Stock incentives can be granted as part of Total Rewards or over and above, as decided by CEO and NRC  from  time  to  time. The  stock incentives  are  governed  by  the '2015 Incentive Compensation Plan', the 'Expanded Stock Ownership Program 2019' or such other plans as may be approved by the shareholders from time to time. Equity grants are generally granted or vested based on achievement against Company and /or individual performance parameters,  however  some  equity  grants  could  be  purely  time  based.  NRC  may  approve special  or  one-time  stock-based  incentives,  including  time-based  grants  for  retention,  or grants whose award or vesting is performance based - including where appropriate, linked to the  achievement  of  extraordinary  performance  goals.  One-time  equity  grants  may  also  be issued to new hires in Executive roles, to meet specific compensation expectations, and these grants may be with special vesting conditions.
 
-' Promoter ' shall  have  the  meaning  assigned  to  it  under  the  SEBI  (Issue  of  Capital  and Disclosure Requirements) Regulations, 2018 or any modification thereof.
-' Promoter Group ' shall have the meaning assigned to it under the SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018 or any modification thereof.
-- 18) 'Relatives' shall mean the following
-2. (i) spouse of the person;
-3. (ii) parent of the person and of its spouse;
-4. (iii) sibling of the person and of its spouse;
-5. (iv) child of the person and of its spouse;
-6. (v) spouse of the person referred in (iii) and (iv) above
-- 19) ' Securities ' shall have the meaning assigned to it under the Securities Contracts (Regulations) Act, 1956 or any modification thereof and includes ADS.
-- 20) ' Trading ' or  Trade  means  and  includes  subscribing,  redeeming,  switching,  buying,  selling, dealing,  or  agreeing  to  subscribe,  redeem,  switch,  buy,  sell,  pledge  (including  revocation  or invocation  thereof),  deal  in  the Company's Securities  either  directly  or  through  portfolio management services, and 'trade' shall be construed accordingly.
-- 21) ' Trading day ' means a day on which the recognized stock exchanges are open for trading.
-- 22) 'Unpublished Price Sensitive Information' ('UPSI') means any information, relating to a
+## c. Executive Compensation Fitment and Benchmarking
+Executive compensation at Infosys is generally aimed towards meeting the market median of total compensation  benchmarked  amongst  the  chosen  peer  group,  adjusted  as  needed  to  reflect considerations for internal equity, consistency and overall affordability.
+For  Executives,  compensation  in  the  form  of  stock  incentives  and  performance  bonus  together constitutes about 60% to 90% of their total rewards.
+## d. Compensation Practices
+The highlights of our current compensation practices for our Executive Officers are as below:
+- Use appropriate peer groups when establishing the total rewards benchmarks for a particular Executive role.
+- Align Executive pay with shareholder value through performance-based stock incentives.
+- Retain Executives through multi-year vesting of stock incentives.
 
-Company or its Securities, directly or indirectly, that is not generally available information which upon becoming generally available, is likely to materially affect the price of the Securities and shall, ordinarily including but not restricted to, information relating to the following:
-- i. Financial results, guidance;
-- ii. Dividends;
-- iii. Change in capital structure;
-- iv. Mergers, de-mergers, acquisitions, delisting, disposals and expansion of business, award or termination  of  order/contracts  not  in  the  normal  course  of  business  and  such  other transactions;
-- v. Changes in key managerial personnel (KMP) as defined under the Companies Act, 2013, other than due to superannuation or end of term, and resignation of a Statutory Auditor or Secretarial Auditor;
-- vi. Change in Rating(s) other than ESG rating(s);
-7. vii.Fund raising proposed to be undertaken;
-- viii. Agreements,  by  whatever  name  called,  impacting  the  management  and  control  of  the company;
-- ix. fraud  or  defaults  by  the  company,  its  promoter,  director,  key  managerial  personnel,  or subsidiary  or  arrest  of  key  managerial  personnel,  promoter  or  director  of  the  company, whether occurred within India or abroad;
-- x. Resolution  plan/  Restructuring/one-time  settlement  in  relation  to  loans/borrowings  from banks/financial institutions;
-- xi. admission of winding-up petition filed by any party /creditors and admission of application by the Tribunal filed by the corporate applicant or financial creditors for initiation of corporate insolvency  resolution  process  against  the  company  as  a  corporate  debtor,  approval  of resolution plan or rejection thereof under the Insolvency and Bankruptcy Code, 2016;
-12. xii.Initiation  of  forensic  audit  (by  whatever  name  called)  by  company  or  any  other  entity  for detecting misstatement in financials, misappropriation/ siphoning or diversion of funds and receipt of final forensic audit report;
-- xiii. Action(s)  initiated  or  orders  passed  within  India  or  abroad  by  any  regulatory,  statutory, enforcement authority or judicial body against the listed entity or its directors, key managerial personnel, senior management, promoter or subsidiary, in relation to the listed entity;
-- xiv. Outcome of any litigation(s) or dispute(s) which may have an impact on the listed entity;
-- xv. Giving of guarantees or indemnity or becoming a surety, by whatever named called, for any third party, by the company not in the normal course of business;
-- xvi. Granting,  withdrawal,  surrender,  cancellation  or  suspension  of  key  licenses  or  regulatory approvals;
-17. xvii.Such  other  matters  as  may  be  specified  under  the  SEBI  regulations  or  decided  by  the Company from time to time.
+## e. Pay for Performance
+2
+Consistent  with  the Company's Executive  Compensation  philosophy,  a  significant  portion  of Executives' pay is performance-based and 'at-risk'.
+## i. Performance Bonus
+The  Executive Officer's performance  bonus  is  linked  to  the  achievement  of  Company  goals  like revenue growth, operating margin along with components of individual goals as applicable, linked to the Company's business  targets,  overall  business  and  market  factors  and  any  other  relevant contributors that the CEO and NRC may believe are relevant to adjust the performance bonus of the executive. The final payout rates are reviewed and approved by the NRC.
+## ii. Stock Incentives
+All Stock or Equity based incentives are generally granted or vested based on achievement against Company and/or individual  performance  parameters.  Stock  incentives  may  not  be  granted  if  the Company's performance is below a specific threshold, as determined by the NRC from time to time. In  case  of  Performance based equity grants, the numbers of shares that will vest is based on the Company's and/or individuals' achievement of certain performance parameters.
+## f. Additional Executive Compensation Practices and Employment Agreements
+In addition to the primary pay components, the Company provides competitive health and wellness benefits  and  perquisites.  These  benefits  are  designed  to  protect  the  financial,  physical  and emotional  well-being  of  employees  and  allow  them  to  plan  for  their  own  retirement.  In  general, these benefits do not constitute a significant portion of Executive compensation.
+NRC  aims  to  ensure  that  the Company's interests  are  protected  through  appropriate  executive obligations  including  non-disclosure,  non-compete  and  non-solicitation  agreements.  Further,  the Company  has  adopted  a  recoupment  policy  under  which  any  incentive  compensation  paid  or payable  to  Executives  (including  any  bonus  pay  and  equity  awards)  will  be  subject  to  forfeiture, cancellation,  recoupment  or  clawback  in  accordance  with  the  applicable  laws,  government regulations and stock exchange requirements.
+With respect to the employment agreement with our Executive Director, the current agreement of Mr. Salil Parekh can be accessed at https://www.infosys.com/investors/reportsfilings/documents/ceo-executive-employment-agreement2022.pdf.
+The details of compensation for the Executives for the relevant fiscal year are available in the Annual Report.
+3
+## 2.20 Related party transactions
+## List of subsidiaries:
+|                                                                           | Holding as of         | Holding as of   | Holding as of   |
+|---------------------------------------------------------------------------|-----------------------|-----------------|-----------------|
+|                                                                           | Country               | 31, 2026        | 31, 2025        |
+| Infosys Technologies (China) Co. Limited (Infosys China) (1)              | China                 | 100%            | 100%            |
+| Infosys Technologies S. de R. L. de C. V. (Infosys Mexico) (1)            | Mexico                | 100%            | 100%            |
+| Infosys Technologies (Sweden) AB (Infosys Sweden) (1)                     | Sweden                | 100%            | 100%            |
+| Infosys Technologies (Shanghai) Company Limited (Infosys Shanghai) (1)    | China                 | 100%            | 100%            |
+| EdgeVerve Systems Limited (EdgeVerve) (1)                                 | India                 | 100%            | 100%            |
+| Infosys Austria GmbH (1)                                                  | Austria               | 100%            | 100%            |
+| Skava Systems Private Limited (Skava Systems) (1)(28)                     | India                 | -               | -               |
+| Infosys Chile SpA (1)                                                     | Chile                 | 100%            | 100%            |
+| Infosys Arabia Limited (2)                                                | Saudi Arabia          | 70%             | 70%             |
+| Infosys Consulting Ltda. (1)                                              | Brazil                | 100%            | 100%            |
+| Infosys Luxembourg S.a.r.l (1)                                            | Luxembourg            | 100%            | 100%            |
+| Infosys Consulting S.R.L. (2)(45)                                         | Argentina             | 100%            | 100%            |
+| Infosys Romania S.r.l. (formerly Infosys Consulting S.R.L. (Romania)) (1) | Romania               | 100%            | 100%            |
+| Infosys Limited Bulgaria EOOD (1)                                         | Bulgaria              | 100%            | 100%            |
+| Infosys Turkey Bilgi Teknolojileri Limited Sirketi (1)                    | Turkey                | 100%            | 100%            |
+| Infosys Germany Holding Gmbh (1)                                          | Germany               | 100%            | 100%            |
+| Infosys Automotive and Mobility GmbH &Co. KG (1)                          | Germany               | 100%            | 100%            |
+| Infosys Green Forum (1)                                                   | India                 | 100%            | 100%            |
+| Infosys Business Solutions LLC (1)                                        | Qatar                 | 100%            | 100%            |
+| WongDoody Inc. (1)(30)                                                    | U.S.                  | -               | -               |
+| IDUNN Information Technology Private Limited (1)                          | India                 | 100%            | 100%            |
+| Infosys Public Services, Inc. USA (Infosys Public Services) (1)           | U.S.                  | 100%            | 100%            |
+| Infosys Public Services Canada Inc. (11)                                  | Canada                | 100%            | 100%            |
+| Infosys BPM Limited (1)                                                   | India                 | 100%            | 100%            |
+| Infosys BPM UK Limited (3) (3)                                            | U.K.                  | 100%            | 100%            |
+| Infosys (Czech Republic) Limited s.r.o. (3)                               | Czech Republic        | 100%            | 100%            |
+| Infosys Poland Sp z.o.o Infosys McCamish Systems LLC (3)                  | Poland U.S.           | 100% 100%       | 100%            |
+| Portland Group Pty Ltd (3)                                                | Australia             | 100%            | 100% 100%       |
+| Infosys BPO Americas LLC. (3)                                             | U.S.                  | 100%            | 100%            |
+| Panaya Inc. (Panaya) (1)                                                  | U.S.                  | 100%            | 100%            |
+| Panaya Ltd. (4)                                                           | Israel                | 100%            | 100%            |
+| Panaya Germany GmbH (4)                                                   | Germany               | 100%            | 100%            |
+| Brilliant Basics Holdings Limited (Brilliant Basics) (1)(20)              | U.K.                  | 100%            | 100%            |
+| Brilliant Basics Limited (5)(20)                                          | U.K.                  | 100%            | 100%            |
+| Infosys Consulting Holding AG (1)                                         | Switzerland           | 100%            | 100%            |
+| Infosys Management Consulting Pty Limited (6)                             | Australia             | 100%            | 100%            |
+| Infosys Consulting AG (6)                                                 | Switzerland           | 100%            | 100%            |
+| Infosys Consulting GmbH (6) (6)                                           | Germany               | 100%            | 100%            |
+| Infosys Consulting SAS                                                    | France                | 100%            | 100%            |
+| Infy Consulting B.V. (6)                                                  | The Netherlands       | 100%            | 100%            |
+| Infosys Consulting (Belgium) NV (6)                                       | Belgium               | 100%            | 100%            |
+| Infy Consulting Company Ltd (6)                                           | U.K.                  | 100%            | 100% 100%       |
+| GuideVision s.r.o. (7)                                                    | Czech Republic        | 100%            |                 |
+| GuideVision Deutschland GmbH (8)                                          | Germany               | 100%            | 100% 100%       |
+| GuideVision Suomi Oy (8)                                                  | Finland               | 100% 100%       |                 |
+| GuideVision Magyarország Kft (8)                                          | Hungary               |                 | 100%            |
+| GuideVision Polska Sp. z.o.o (8)                                          | Poland                | 100%            | 100%            |
+| GuideVision UK Ltd (8)(20)                                                | U.K.                  | 100%            | 100%            |
+| Infosys Nova Holdings LLC. (Infosys Nova) (1)                             | U.S.                  | 100%            | 100%            |
+| Outbox systems Inc. dba Simplus (US) (9)(31)                              | U.S.                  | - 100%          | - 100%          |
+| Simplus ANZ Pty Ltd. (9)                                                  | Australia             |                 |                 |
+| Simplus Australia Pty Ltd (10)                                            | Australia             | 100%            | 100%            |
+| Simplus Philippines, Inc. (9)                                             | Philippines           | 100%            | 100% -          |
+| Kaleidoscope Animations, Inc. (9)(31) (9)(31)                             | U.S.                  | - -             | -               |
+| Blue Acorn iCi Inc (1)(41)                                                | U.S.                  | 100%            | 100%            |
+| Infosys Singapore Pte. Ltd.                                               | Singapore             | 100%            |                 |
+| Infosys Financial Services GmbH. (12)                                     | Germany               |                 | 100% 100%       |
+| Infosys South Africa (Pty) Ltd (12) Infosys (Malaysia) SDN. BHD. (12)     | South Africa Malaysia | 100% 100%       | 100%            |
+| Infosys Middle East FZ LLC (12)                                           | U.A.E                 | 100%            | 100%            |
+| Infosys Norway (12)                                                       | Norway                | 100%            | 100%            |
 
-Explanation 1 - For the purpose of sub-clause (ix):
-- a. 'Fraud' shall have the same meaning as referred to in Regulation 2(1)(c) of Securities and
+1
+| Infosys Compaz Pte. Ltd (13)                                                     | Singapore       | 60%       | 60%       |
+|----------------------------------------------------------------------------------|-----------------|-----------|-----------|
+| HIPUS Co., Ltd (13)(41)                                                          | Japan           | 79%       | 81%       |
+| Fluido Oy (12)                                                                   | Finland         | 100%      | 100%      |
+| Fluido Sweden AB (14)                                                            | Sweden          | 100%      | 100%      |
+| Fluido Norway A/S (14)                                                           | Norway          | 100%      | 100%      |
+| Fluido Denmark A/S (14)                                                          | Denmark         | 100%      | 100%      |
+| Fluido Slovakia s.r.o (14)                                                       | Slovakia        | 100%      | 100%      |
+| Infosys Fluido UK, Ltd. (14)                                                     | U.K.            | 100%      | 100%      |
+| Infosys Fluido Ireland, Ltd. (15)                                                | Ireland         | 100%      | 100%      |
+| Stater N.V. (13)                                                                 | The Netherlands | 75%       | 75%       |
+| Stater Nederland B.V. (16)                                                       | The Netherlands | 75%       | 75%       |
+| Stater XXL B.V. (16)                                                             | The Netherlands | 75%       | 75%       |
+| HypoCasso B.V. (16)                                                              | The Netherlands | 75%       | 75%       |
+| Stater Belgium N.V./S.A. (16)                                                    | Belgium         | 75%       | 75%       |
+| Stater Gmbh (16)                                                                 | Germany         | 75%       | 75%       |
+| Infosys Germany GmbH (12)(43)                                                    | Germany         | -         | 100%      |
+| Wongdoody Gmbh (18)(43)                                                          | Germany         | 100%      | 100%      |
+| WongDoody (Shanghai) Co. Limited (19)                                            | China           | 100%      | 100%      |
+| WongDoody limited (Taipei) (19)                                                  | Taiwan          | 100%      | 100%      |
+| WongDoody d.o.o (19)                                                             | Serbia          | 100%      | 100%      |
+| BASE life science A/S (12)                                                       | Denmark         | 100%      | 100%      |
+| BASE life science AG (21)                                                        | Switzerland     | 100%      | 100%      |
+| BASE life science GmbH (21)                                                      | Germany         | 100%      | 100%      |
+| BASE life science S.A.S (21)                                                     | France          | 100%      | 100%      |
+| BASE life science Ltd. (21)                                                      | U.K.            | 100%      | 100%      |
+| BASE life science S.r.l. (21)                                                    | Italy           | 100%      | 100%      |
+| Innovisor Inc. (21) (17)                                                         | U.S.            | 100%      | 100%      |
+| BASE life science Inc.                                                           | U.S.            | 100%      | 100%      |
+| BASE life science S.L. (21)                                                      | Spain           | 100%      | 100%      |
+| InSemi Technology Services Private Limited (23)                                  | India           | 100%      | 100%      |
+| Elbrus Labs Private Limited (23)(22) Infosys Services (Thailand) Limited (1)(25) | India Thailand  | 100% 100% | 100% 100% |
+| (12)(24)                                                                         | France          | 100%      | 100%      |
+| Infy tech SAS in-tech Holding GmbH (26)(32)                                      | Germany         | -         | -         |
+| in-tech GmbH (26)                                                                | Germany         | 100%      | 100%      |
+| Friedrich &Wagner Asia Pacific GmbH (26)(32)                                     | Germany         | -         | -         |
+| drivetech Fahrversuch GmbH (26)                                                  | Germany         | 100%      | 100%      |
+| in-tech Engineering S.R.L. (formerly known as ProIT) (26)(44)                    | Romania         | 100%      | 100%      |
+| in-tech Automotive Engineering de R.L. de C.V (26)(40)                           | Mexico          | -         | 100%      |
+| Friedrich Wagner Holding Inc. (26)(20)                                           | U.S.            | 100%      | 100%      |
+| in-tech Automotive Engineering SL (26) (26)(29)                                  | Spain           | 100%      | 100%      |
+| in-tech Automotive Engineering LLC                                               | U.S.            | -         | -         |
+| in-tech Services LLC (26)(29)                                                    | U.S.            | -         | -         |
+| in-tech Engineering s.r.o (26) (26)                                              | Czech Republic  | 100%      | 100%      |
+| in-tech Engineering GmbH in-tech Engineering services S.R.L (26)(44)             | Austria         | 100%      | 100% 100% |
+| (26)                                                                             | Romania         | - 100%    | 100%      |
+| in-tech Group Ltd                                                                | U.K.            |           |           |
+| In-tech Automotive Engineering Shenyang Co. Ltd (26)                             | China           | 100%      | 100%      |
+| in-tech Group India Private Ltd (26)                                             | India           | 100%      | 100%      |
+| In-tech Automotive Engineering Beijing Co., Ltd (26)                             | China           | 100%      | 100%      |
+| Infosys Germany SE (formerly known as Blitz 24-893 SE) (27)(43)                  | Germany         | 100%      | 100%      |
+| Infosys Limited SPC (1)(33)                                                      | Oman            | 100%      | 100%      |
+| Infosys BPM Netherlands B.V. (17)(34)                                            | The Netherlands | 100%      | 100%      |
+| Infosys Energy Consulting Services LLC (9)(35) (1)(36)                           | U.S.            | 100%      | -         |
+| Infosys Saudi Arabia LLC (12)(37)                                                | Saudi Arabia    | 100%      | -         |
+| Infosys Australia Technology Service Pty Ltd (38)                                | Australia       | 100%      | - -       |
+| MRE Consulting Ltd                                                               | U.S.            | 100%      |           |
+| MRE Technology Services, LLC (38)                                                | U.S.            | 100%      | -         |
+| The Missing Link Automation Pty Ltd (39)                                         | Australia       | 100%      | - -       |
+| The Missing Link Network Integration Pty Ltd (39)                                | Australia       | 100%      |           |
+| The Missing Link Security Pty Ltd (39)                                           | Australia       | 100%      | - -       |
+| The Missing Link Security Ltd (39)                                               | U.K.            | 100%      | -         |
+| Infosys BPM Canada Inc (17)(42) Infosys Enterprise Business Services Pty Ltd     | Canada          | 100%      |           |
+| (12)(46)                                                                         | Australia       | 100%      | -         |
 
-Exchange  Board  of  India  (Prohibition  of  Fraudulent  and  Unfair  Trade  Practices  relating  to Securities Market) Regulations, 2003.
-b. 'Default' shall have the same meaning as referred to in Clause 6 of paragraph A of Part A
-of Schedule III of Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 ( 'Listing regulations' ).
-Explanation  2For  identification  of  events  enumerated  in  this  clause  as  unpublished  price sensitive  information,  the  guidelines  for  materiality  referred  at  paragraph  A  of  Part  A  of Schedule III of the Listing regulations as may be specified by the Board from time to time and materiality as referred at paragraph B of Part A of Schedule III of the Listing Regulations shall be applicable.'
-Information is 'non-public' or 'unpublished' until it has been widely disseminated to the public (through,  for  example,  a  filing  with  the  NSE,  BSE,  NYSE  or  SEC  a  press  conference  or  a release) or is accessible to the public on a non-discriminatory basis.
-Words and expressions used and not defined in this code but defined in the Act , the Securities Contracts (Regulation) Act, 1956, the Depositories Act, 1996 or the Companies Act, 2013 and rules and regulations made thereunder shall have the meanings respectively assigned to them in those legislations.
+(1) Wholly-owned subsidiary of Infosys Limited (2) Majority owned and controlled subsidiary of Infosys Limited (3) Wholly-owned subsidiary of Infosys BPM Limited (4) Wholly-owned subsidiary of Panaya Inc. (5)
+Wholly-owned subsidiary of Brilliant Basics Holding Limited.
+- (6) Wholly-owned subsidiary of Infosys Consulting Holding AG
+- (7) Wholly-owned subsidiary of Infy Consulting Company Limited
+- (8) Wholly-owned subsidiary of GuideVision s.r.o.
+- (9) Wholly-owned subsidiary of Infosys Nova Holdings LLC
+- (10) Wholly-owned subsidiary of Simplus ANZ Pty Ltd
+- (11) Wholly-owned subsidiary of Infosys Public Services, Inc.
+- (12) Wholly-owned subsidiary of Infosys Singapore Pte. Ltd.
+- (13) Majority owned and controlled subsidiary of Infosys Singapore Pte. Ltd.
+- (14) Wholly-owned subsidiary of Fluido Oy
+- (15) Wholly-owned subsidiary of Infosys Fluido UK, Ltd.
+- (16) Wholly-owned subsidiary of Stater N.V
+- (17) Wholly-owned subsidiary of IBPM UK Ltd
+- (18) Wholly-owned subsidiary of Infosys Germany GmbH
+- (19) Wholly-owned subsidiary of Wongdoody Gmbh
+- (20) Under liquidation
+- (21) Wholly-owned subsidiary of BASE life science A/S
 
-## 2. Prohibition on communicating or procuring UPSI
-An Insider shall not -
-- i. communicate, provide, or allow access to any UPSI, relating to the Company or its Securities, to any  person  including  other  Insiders,  except  to  the  extent  allowed  by  this  Code  or  SEBI Regulations; or
-- ii. procure from or cause the communication by an Insider of UPSI, relating to the Company or its Securities.
-
-Provided  that  nothing  contained  above  shall  be  applicable  when  an  UPSI  is  communicated, provided, allowed access to or procured:
-- i. in  furtherance  of  Legitimate  purposes,  performance  of  duties  or  discharge  of  legal  obligations pursuant to appropriate notice, confidentiality and non-disclosure agreements being executed; or
-- ii. in the event the Board directs or causes the public disclosure of UPSI in the best interest of the Company; or
-- iii. within a group of persons if such persons have been identified and secluded within a 'Chinese wall' or  information  barrier  by  the  Compliance  Officer  from  the  rest  of  the  Company  for  a particular  purpose  or  for  a  specified  period  of  time  in  furtherance  of  Legitimate  purposes, performance  of  duties  or  discharge  of  legal  obligations,  and  are  subjected  to,  among  other
-
-conditions, additional confidentiality obligations, information barriers designed to prevent exchanges  of  UPSI  outside  the 'Chinese wall', and  the  execution  of  an  undertaking  by  such persons  to  abstain  and  /  or  forego  Trading  during  such  seclusion  or  till  the  UPSI  no  longer constitutes UPSI and has become Generally available information or such UPSI cease to exists. The  norms  for  appropriate 'Chinese wall' procedures,  and  processes  for  permitting  any designated person to 'cross the wall' shall be as determined by the Company from time to time.
-## 3. Prohibition on Insider Trading
-1. An Insider shall not, directly or indirectly, -
-- i. Trade  in  Securities  of  the  Company  that  are  listed  or  proposed  to  be  listed  when  in possession of UPSI;
-- ii. Trade in Securities of the Company except when the Trading Window is open and the Insider is not in possession of UPSI; and
-- iii. provide advise/ tips to any third party on trading in Company's securities while in possession of UPSI.
-2. Trading  in  Securities  of  other  companies :  No  Designated  Person  while  in  possession  of unpublished price sensitive information about any other public company gained in the course of employment with the Company shall, (a) Trade in the Securities of the other public company, (b) 'tip' or disclose such material non-public information concerning that company to anyone, or (c) give trading advice of any kind to anyone concerning the other public company.
-3. No  Designated  Person  shall  take  positions  in  derivative  transactions  in  the  Securities  of  the Company at any time.
-4. The restriction in 3 (1) above may not apply    to:
-8. (a) a  transaction  that  is  an  off-market  inter-se  transfer  between  insiders  who  were  in possession of the same UPSI without being in breach of this code and both parties had made a conscious and informed trade      decision.
-9. (b) a transaction carried out through block deal window mechanism between persons who were in  possession  of  UPSI  without  being  in  breach  of  this  Code  and  both  parties  made  a conscious and informed trade decision.
-10. (c) a transaction carried out pursuant to a statutory or regulatory obligation;
-11. (d) a transaction undertaken pursuant to exercise of stock options and the exercise price is predetermined with applicable regulations; and
-12. (e) Trades pursuant to a Trading Plan ( as defined below ) set up in accordance with this Code and SEBI Regulations.
-
-The exceptions in paragraph 3(4) above reflect the statutory exceptions in Regulation 4(1) of the SEBI  Regulations,  and  nothing  above  shall  preclude  the  prior  approval  or  other  requirements  in relation to Trading in Company's Securities under the Code, as set out therein.
-## 4. Trading Window
-- 1) The  Compliance  Officer  shall  notify  a 'trading window' during  which  the  Designated Persons  may  Trade  in  the Company's Securities  after  securing  pre-clearance  from  the Compliance Officer in accordance with this Code.
-- 2) Designated  Persons  and  their  Immediate  Relatives  shall  not  Trade  in  the Company's Securities when the trading window is closed.
-- 3) The  trading  window  shall  generally  be  closed  for  all  Designated  Persons  between  the sixteenth day prior to the last day of any financial period for which results are required to be announced by the Company till 48 hours after disclosure of such financial results.
-- 4) Additionally,  the  trading  window  shall  be  closed  in  particular  for  a  Designated  Person  or class of Designated Persons when the Compliance Officer determines that a Designated Person or class of Designated Persons can reasonably be expected to have possession of UPSI, for such periods as determined by the Compliance Officer and as may required by the  SEBI  Regulations.  Designated  Person  or  class  of  Designated  Persons  will  receive  a notification on such special blackout periods.
-- 5) The trading  window  may  be  re-opened  after  closure,  not  earlier  than  48  hours  after  the UPSI  in  question  becomes  generally  available  information  or  is  no  longer  classified  as UPSI.
-- 6) The trading window restriction shall not apply for below cases;
-- i. off-market inter-se transfer between insiders who were in possession of the same UPSI  without  violating  the  Code  and  both  parties  had  made  a  conscious  and informed trade decision.
-- ii. transaction carried out through the block deal window mechanism between persons who were in possession of the UPSI without violating the Code and both parties had made a conscious and informed trade decision.
-- iii. transaction carried out pursuant to a statutory or regulatory obligation to carry out a bona fide transaction.
-- iv. Transaction  undertaken  pursuant  to  the  exercise  of  stock  options  in  respect  of which  the exercise price was  pre-determined  in compliance  with applicable regulations.
-- v. trades executed as per the Trading Plan set up in accordance with the Code.
-
-- vi. pledge of shares for a bona fide purpose such as raising of funds, subject to preclearance by the Compliance Officer.
-- vii. transactions undertaken in accordance with respective regulations made by SEBI, such as acquisition by conversion of warrants or debentures, subscribing to rights issue,  further  public  issue,  preferential  allotment  or  tendering  of  shares  in  a  buyback offer, open offer, delisting offer or transactions which are undertaken through such other mechanism as may be specified by SEBI from time to time.
-
-## viii. Transmission of Securities
-## 5. Pre-clearance of Trading
-- 1) All Designated Persons who intend to Trade in Securities of the Company (either in their own name or through their Immediate Relatives) i.e., buy/ sell/ gift/ transfer/ pledge/ un-pledge etc. in  Securities of the Company during the trading window open period and if the value of the securities likely to be traded, whether in one transaction or a series of transactions over any calendar quarter, aggregates to a Traded value in excess of Rs.5,00,000/- (Rupees Five Lakh Only),  should  pre-clear  the  transactions  by  making  an  application  in  the  format  set  out  in Annexure 1 to the Compliance Officer indicating the estimated number of units of Securities that the Designated Person or Immediate Relative(s) intends to trade and such other details as specified in the form and also declare that the applicant is not in possession of UPSI as per Annexure 2.
-- 2) The Compliance Officer shall not approve any proposed Trade by Designated Person if the Compliance Officer determines that such Designated Person is in possession of UPSI even though the trading window is open.
-- 3) The Compliance Officer may, after being satisfied that the application and undertaking are true and accurate, approve Trading by a Designated Person, on the condition that the Trade so approved shall be executed within seven trading days following the date of approval.
-- 4) The Board of Directors of the Company shall be the approving authority for the pre- clearance application of Compliance Officer.
-- 5) The Designated Person shall, within two days of the execution of the Trade, submit the details of  such  Trade  to  the  Compliance  Officer  as  per  Annexure  3.  In  case  the  transaction  is  not undertaken, a report to that effect shall be filed in the said form.
-- 6) If the pre-cleared Trade is not executed within seven trading days after the approval is given, the Designated Person must secure pre-clearance of the transaction again.
-- 7) Pre-clearance of Trades shall not be required for a trade executed as per an approved trading plan or pursuant to transmission of securities.
-
-- 8) A Designated Person who Trades in securities of the Company without complying with the pre-clearance procedure as envisaged in this Code or gives false undertakings and/or makes misrepresentations  in  the  undertakings  executed  by  him/her  while  complying  with  the  preclearance procedure shall be subjected to the penalties as envisaged in this Code.
-
-## 6. Additional Trading restrictions on Designated Persons
-- 1) No Designated Person shall enter into derivative transactions in respect of Securities of the Company.
-- 2) All Designated Persons who trade in Securities of the Company shall not enter into a Contra Trade during the next six months following the prior transaction. In case any Contra Trade is executed, inadvertently  or  otherwise,  in  violation  of  such  a  restriction,  the  profits  from  such trade shall be liable to be disgorged for remittance to SEBI for credit to the Investor Protection and Education Fund administered by SEBI.
-- 3) The above restriction on Contra Trade shall not apply in case of exercise / sale of Employee Stock Option Plan ('ESOP') securities provided the Designated Persons do not possess UPSI and the sale is executed when the trading window is open and after obtaining pre-clearance.
-- 4) The  above  restriction  on  Contra  Trade  shall  also  not  apply  in  case  of  transmission  of securities.
-
-## 7. Trading Plan
-- 1) A Designated Person shall be entitled to formulate a Trading Plan that complies with the SEBI Regulations ('Trading Plan') and present it to the Compliance Officer for approval and public disclosure.  The  Trading  Plan  can  be  executed  only  after  the  plan  is  approved  by  the Compliance  officer  and  disclosed  to  the  stock  exchanges  on  which  the  Securities  of  the Company are listed.
-- 2) Designated  Person  may  delegate  discretionary  authority  to  his/her  broker,  but  in  no  event Designated Person may consult with the broker regarding executing transactions or otherwise disclose information to the broker concerning the Company, that might influence the execution of transactions under the Trading Plan after it commences.
-
-The  Trading  Plan  once  approved  shall  be  irrevocable  and  the  Designated  Person  shall mandatorily have to implement the plan, without being entitled to either deviate from it or to execute  any  trade  in  the  Securities  outside  the  scope  of  the  Trading  Plan  as  otherwise provided under the SEBI regulations. However, the implementation of the Trading Plan shall not  be  commenced,  if  at  the  time  of  formulation  of  the  plan,  the  Designated  Person  is  in possession of UPSI and the said information has not become generally available information at the time of the commencement of implementation. The commencement of the Trading Plan shall be deferred until such UPSI becomes generally available information.
+(22) Wholly-owned subsidiary of InSemi Technology Services Private Limited
+(23) On May 10, 2024 Infosys Ltd. acquired 100% of voting interests in InSemi Technology Services Private Limited along with its subsidiary Elbrus Labs Private Limited
+(24) Incorporated on July 03, 2024
+(25) Incorporated on July 26, 2024
+(26) On July 17, 2024, Infosys Germany GmbH, a wholly owned subsidiary of Infosys Singapore Pte. Limited, acquired 100% of voting interests in in-tech Holding GmbH along with its subsidiary in-tech GmbH along with its six subsidiaries in-tech  Automotive  Engineering  SL,  in-tech  Engineering  S.R.L.  (formerly  known  as  ProIT),  in-tech  Automotive Engineering de R.L. de C.V, drivetech Fahrversuch GmbH, Friedrich Wagner Holding Inc along with its two subsidiaries (in-tech Automotive Engineering LLC and in-tech Services LLC) and Friedrich &amp; Wagner Asia Pacific GmbH along with its five subsidiaries in-tech engineering s.r.o, in-tech engineering GmbH, in-tech engineering services S.R.L, in-tech Group Ltd along with its subsidiary (in-tech Group India Private Limited) and In-tech Automotive Engineering Shenyang Co., Ltd along with its subsidiary (In-tech Automotive Engineering Beijing Co., Ltd). Subsequently on September 01, 2024 in-tech Group India Private Limited became a wholly-owned subsidiary of Infosys limited.
+(27) On October 17, 2024, Infosys Singapore Pte Ltd. acquired 100% of voting interests in Infosys Germany SE (formerly known as Blitz 24-893 SE)
+(28) Liquidated effective November 14, 2024
+(29) Liquidated effective November 30, 2024
+(30) WongDoody  Inc,  a  wholly-owned  subsidiary  of  Infosys  limited  merged  into  Infosys  Nova  Holdings  LLC  effective January 1, 2025
+(31) Kaleidoscope Animations, Blue Acorn iCi Inc and Outbox systems Inc. dba Simplus (US) merged into Infosys Nova Holdings LLC effective January 1, 2025
+(32) in-tech  Holding  GmbH  and  Friedrich  &amp;  Wagner  Asia  Pacific  GmbH  merged  into  in-tech  GmbH  effective  January 1,2025
+(33) Incorporated on December 12, 2024
+(34) Incorporated on March 20, 2025
+(35) Incorporated on April 16, 2025
+(36) Incorporated on April 21, 2025
+(37) Incorporated on April 23, 2025
+(38) On April 30, 2025, Infosys Nova Holdings LLC, a wholly-owned subsidiary of Infosys Limited, acquired 98.21% of partnership  interests  in  MRE  Consulting  Ltd  along  with  its  subsidiary  MRE  Technology  Services,  LLC.The  remaining 1.79% was acquired by Infosys Energy Consulting Services LLC, a Wholly-owned subsidiary of Infosys Nova Holdings LLC
+(39) On April 30, 2025, Infosys Australia Technology Service Pty Ltd, a wholly owned subsidiary of Infosys Singapore Pte. Limited,  acquired  100%  of  voting  interests  in  The  Missing  Link  Automation  Pty  Ltd,  The  Missing  Link  Network Integration Pty Ltd and The Missing Link Security Pty Ltd along with its subsidiary The Missing Link Security Ltd (40) Liquidated effective May 07, 2025
+(41) On May 13, 2025,  Infosys Singapore Pte Ltd diluted 2% stake of HIPUS Co., Ltd to Mitsubishi Heavy Industries, Ltd. (42) Incorporated on July 28, 2025
+(43) Infosys Germany Gmbh, a Wholly-owned subsidiary of Infosys Singapore Pte Ltd merged into Infosys Germany SE (formerly known as Blitz 24-893 SE) effective September 24, 2025
+(44) in-tech  Engineering  services  S.R.L,  (Wholly-owned  subsidiary  of    in-tech  GmbH)  merged  into  in-tech  Engineering S.R.L. (formerly known as ProIT and wholly-owned subsidiary of in-tech GmbH) effective November 30, 2025
+(45) Infosys Consulting S.R.L. (Argentina) (formerly a majority owned and controlled subsidiary of Infosys Limited) became the majority owned and controlled subsidiary of Infosys Nova Holdings LLC with effect from January 28, 2026
+(46) Incorporated on March 19, 2026

@@ -2,184 +2,219 @@
 document_name: "INFY_15062026210015_Form20F_June152026.md"
 group_id: "INFY_15062026210015_Form20F_June152026__group_039"
 source_section_count: 1
-page_start: 278
-page_end: 286
-estimated_tokens: 5602
+page_start: 270
+page_end: 278
+estimated_tokens: 5956
 source_section_ids:
-  - "INFY_15062026210015_Form20F_June152026__075"
+  - "INFY_15062026210015_Form20F_June152026__074"
 ---
 
-## 2.18 Income taxes
-## Accounting policy
-Income tax expense comprises current and deferred income tax. Income tax expense is recognized in the net profit in the consolidated statement of comprehensive income except to the extent that it relates to items recognized directly in equity, in which case it is recognized in equity or other comprehensive income. Current income tax for current and prior periods is recognized at the amount expected to be paid to or recovered from the tax authorities, using the tax rates and tax laws that have  been  enacted  or  substantively  enacted  by  the  balance  sheet  date.  Deferred  income  tax  assets  and  liabilities  are recognized for all temporary differences arising between the tax bases of assets and liabilities and their carrying amounts in the financial statements except when the deferred income tax arises from the initial recognition of goodwill or an asset or liability in a transaction that is not a business combination and affects neither accounting nor taxable profit or loss at the time of the transaction. Deferred tax assets are reviewed at each reporting date and are reduced to the extent that it is no longer probable that the related tax benefit will be realized.
-Deferred income tax assets and liabilities are measured using tax rates and tax laws that have been enacted or substantively enacted  by  the  balance  sheet  date  and  are  expected  to  apply  to  taxable  income  in  the  years  in  which  those  temporary differences  are  expected  to  be  recovered  or  settled.  The  effect  of  changes  in  tax  rates  on  deferred  income  tax  assets  and liabilities is recognized as income or expense in the period that includes the enactment or the substantive enactment date. A deferred income tax asset is recognized to the extent that it is probable that future taxable profit will be available against which the deductible temporary differences and tax losses can be utilized. Deferred income taxes are not provided on the undistributed earnings of subsidiaries and branches where it is expected that the earnings of the subsidiary or branch will not be distributed in the foreseeable future.
-The Group offsets current tax assets and current tax liabilities; deferred tax assets and deferred tax liabilities, where it has a legally enforceable right to set off the recognized amounts and where it intends either to settle on a net basis, or to realize the asset  and  settle  the  liability  simultaneously.  Tax  benefits  of  deductions  earned  on  exercise  of  employee  share  options  in excess of compensation charged to income are credited to equity.
-Income tax expense in the consolidated statement of comprehensive income comprises:
-|                    | (Dollars in millions)   | (Dollars in millions)   | (Dollars in millions)   |
-|--------------------|-------------------------|-------------------------|-------------------------|
-|                    | 2026                    | 2025                    | 2024                    |
-| Current taxes      |                         |                         |                         |
-| Domestic taxes     | 977                     | 1,089                   | 768                     |
-| Foreign taxes      | 352                     | 346                     | 247                     |
-|                    | 1,329                   | 1,435                   | 1,015                   |
-| Deferred taxes     |                         |                         |                         |
-| Domestic taxes     | (91)                    | (110)                   | 180                     |
-| Foreign taxes      | (48)                    | (40)                    | (18)                    |
-|                    | (139)                   | (150)                   | 162                     |
-| Income tax expense | 1,190                   | 1,285                   | 1,177                   |
+## Infosys Expanded Stock Ownership Program 2019 (the 2019 Plan):
+On June 22, 2019 pursuant to the approval by the shareholders in the Annual General Meeting, the Board has been authorized to introduce, offer, issue and provide share-based incentives to eligible employees of the Company and its subsidiaries under the 2019 Plan. The maximum number of shares under the 2019 plan shall not exceed 50,000,000 equity shares. To implement the  2019  Plan,  up  to  45,000,000  equity  shares  may  be  issued  by  way  of  secondary  acquisition  of  shares  by  the  Infosys Expanded Stock Ownership Trust. The Restricted Stock Units (RSUs) granted under the 2019 plan shall vest based on the achievement of defined annual performance parameters as determined by the administrator (Nomination and Remuneration Committee). The performance parameters will be based on a combination of relative Total Shareholder Return (TSR) against selected  industry  peers  and  certain  broader  market  domestic  and  global  indices  and  operating  performance  metrics  of  the company  as  decided  by  administrator.  Each  of  the  above  performance  parameters  will  be  distinct  for  the  purposes  of calculation of quantity of shares to vest based on performance. These instruments will generally vest between a minimum of 1 to maximum of 3 years from the grant date.
+## 2015 Stock Incentive Compensation Plan (the 2015 Plan):
+On  March  31,  2016,  pursuant  to  the  approval  by  the  shareholders  through  postal  ballot,  the  Board  was  authorized  to introduce, offer, issue and allot share-based incentives to eligible employees of the Company and its subsidiaries under the 2015 Plan. The maximum number of shares under the 2015 plan shall not exceed 24,038,883 equity shares (this includes 11,223,576 equity shares which are held by the trust towards the 2011 Plan as at March 31, 2016). These instruments will generally vest over a period of 4 years. The plan numbers mentioned above are further adjusted with the September 2018 bonus issue.
+The  equity  settled  and  cash  settled  RSUs  and  stock  options  would  vest  generally  over  a  period  of  4  years  and  shall  be exercisable within the period as approved by the Nomination and Remuneration Committee (NARC). The exercise price of the RSUs will be equal to the par value of the shares and the exercise price of the stock options (ESOPs) would be the market price as on the date of grant.
+Controlled trust holds 8,650,911 and 9,655,927 shares as of March 31, 2026, and March 31, 2025, respectively, under the 2015 Plan out of which 200,000 equity shares each have been earmarked for welfare activities of the employees as of March 31, 2026, and March 31, 2025.
+The following is the summary of grants made during fiscal 2026, 2025 and 2024 under the 2015 Plan and 2019 Plan:
+|                                           | Fiscal 2026   | Fiscal 2025   | Fiscal 2024   |
+|-------------------------------------------|---------------|---------------|---------------|
+| 2015 Plan                                 |               |               |               |
+| RSU - Equity settled                      |               |               |               |
+| KMPs                                      | 377,609       | 380,842       | 494,650       |
+| Employees other than KMPs                 | 2,254,341     | 1,874,690     | 4,644,720     |
+|                                           | 2,631,950     | 2,255,532     | 5,139,370     |
+| RSU - Incentive units (cash settled)      |               |               |               |
+| KMPs                                      | -             | -             | -             |
+| Employees other than KMPs                 | 119,800       | 94,050        | 176,990       |
+|                                           | 119,800       | 94,050        | 176,990       |
+| 2015 Plan: Employee Stock Options (ESOPs) |               |               |               |
+| Equity settled RSUs                       |               |               |               |
+| KMPs                                      | 231,270       | -             | -             |
+| Employees other than KMPs                 | 5,418,890     | -             | -             |
+|                                           | 5,650,160     | -             | -             |
+| Cash settled RSUs                         |               |               |               |
+| KMPs                                      | -             | -             | -             |
+| Employees other than KMPs                 | 108,180       | -             | -             |
+|                                           | 108,180       | -             | -             |
+| Total Grants under 2015 Plan              | 8,510,090     | 2,349,582     | 5,316,360     |
+| 2019 Plan                                 |               |               |               |
+| Equity settled Performance based RSU      |               |               |               |
+| KMPs                                      | 124,516       | 117,699       | 139,271       |
+| Employees other than KMPs                 | 4,424,840     | 3,626,646     | 4,048,631     |
+|                                           | 4,549,356     | 3,744,345     | 4,187,902     |
+| Total grants under 2019 Plan              | 4,549,356     | 3,744,345     | 4,187,902     |
 
-A reconciliation of the income tax provision to the amount computed by applying the statutory income tax rate to the income before income taxes is summarized below:
-|                                                              | (Dollars in millions)   | (Dollars in millions)   | (Dollars in millions)   |
-|--------------------------------------------------------------|-------------------------|-------------------------|-------------------------|
-|                                                              | 2026                    | 2025                    | 2024                    |
-| Profit before income taxes                                   | 4,506                   | 4,447                   | 4,346                   |
-| Enacted tax rates in India                                   | 25.17%                  | 25.17%                  | 34.94%                  |
-| Computed expected tax expense                                | 1,137                   | 1,119                   | 1,519                   |
-| Tax effect due to non-taxable income for Indian tax purposes | -                       | -                       | (363)                   |
-| Overseas taxes                                               | 126                     | 131                     | 136                     |
-| Tax provision (reversals)                                    | (93)                    | 16                      | (113)                   |
-| Effect of differential tax rates                             | (8)                     | (9)                     | (69)                    |
-| Effect of exempt non-operating income                        | (1)                     | (4)                     | (6)                     |
-| Effect of unrecognized deferred tax assets                   | 11                      | 19                      | 25                      |
-| Effect of non-deductible expenses                            | 38                      | 33                      | 20                      |
-| Others                                                       | (20)                    | (20)                    | 28                      |
-| Income tax expense                                           | 1,190                   | 1,285                   | 1,177                   |
+Refer to Note 2.20 for details on appointment and resignation of KMPs
+## Notes on grants to KMP
+## CEO &amp; MD
+## Under the 2015 Plan:
+The Board, on April 17, 2025, based on the recommendations of the Nomination and Remuneration Committee approved the following grants for fiscal 2026. In accordance with such approval the following grants were made effective May 2, 2025.
+- 230,621 performance-based RSUs (Annual performance equity grant) of fair value of ₹34.75 crore. (approximately $4.07 million). These RSUs will vest in line with the employment agreement based on achievement of certain performance targets
 
-The applicable Indian corporate statutory tax rate for fiscal 2026 is 25.17%, fiscal 2025 is 25.17% and fiscal 2024 is 34.94% respectively.
-Income tax expense for fiscal 2026, 2025 and 2024 includes reversals (net of provisions) of $93 million, provisions (net of reversals)  of  $16  million,  and  reversals  (net  of  provisions)  of  $113  million  respectively.  These  provisions  and  reversals pertaining to prior periods are primarily on account of adjudication of certain disputed matters , upon filing of tax return and completion of assessments, across various jurisdictions.
-During the year ended March 31, 2026, the Company received orders under section 250 and Section 254 of the Income Tax Act, 1961, from the Income Tax Authorities in India for the assessment years, 2013-14 and assessment years 2017-18 to 2021-22. These orders confirmed the Company's position with respect to tax treatment of certain matters. As a result, interest income (pre-tax) of $41 million was recognized and provision for income tax aggregating $93 million was reversed with a corresponding credit to the Statement of Profit and Loss. Also, upon resolution of the disputes, an amount aggregating to $9 million has been reduced from contingent liabilities.
-During the year ending March 31, 2025, the Company received orders under section 250 of the Income Tax Act, 1961, from the Income Tax Authorities in India for the assessment years, 2016-17 and 2019-20. These orders confirmed the Company's position with respect to tax treatment of certain matters. As a result, interest income (pre-tax) of $38 million was recognized and provision for income tax aggregating $21 million was reversed with a corresponding credit to the Statement of Profit and Loss.  Also,  upon  resolution  of  the  disputes,  an  amount  aggregating  to  $125  million  has  been  reduced  from  contingent liabilities.
-During the year ending March 31, 2024, the Company received orders under sections 250 and 254 of the Income Tax Act, 1961, from the Income Tax Authorities in India for the assessment years, 2007-08 to 2015-16, 2017-18 and 2018-19. These orders confirmed the Company's position with respect to tax treatment of certain matters. As a result, interest income (pretax) of $232 million along with the corresponding tax impact was recognized. Further a provision for income tax aggregating $63 million was reversed with a corresponding credit to the Statement of Profit and Loss. Also, an amount aggregating to $196 million has been reduced from contingent liabilities.
-The foreign tax expense is due to income taxes payable overseas, principally in the United States. In India, the company had benefited from certain income tax incentives that the Government of India had provided for export of software and services from the units registered under the Special Economics Zones (SEZs) Act, 2005 in the prior years, SEZ units which began to provide services on or after April 1, 2005, are eligible for an income tax deduction of 100% of profits or gains derived from the export of services for the first five years beginning with the assessment year relevant to the previous year in which the SEZ unit begins to provide services and 50% of such profits or gains for a further five years. Up to 50% of such profits or gains is also available for a further five years subject to creation of a Special Economic Zone Re-investment Reserve out of the profit of the eligible SEZ units and utilization of such reserve by the Company for acquiring new plant and machinery for the  purpose of its business as per the provisions of the Income Tax Act, 1961 (Refer to Other Reserves under Note 2.15 Equity).
-As a result of these tax incentives, a portion of the Company's pre-tax income had not been subject to tax in the past. These tax incentives resulted in a decrease in our income tax expense of $363 million for fiscal 2024 compared to the tax amounts that we estimate we would have been required to pay if these incentives had not been available. The per share effect of these tax incentives computed based on both basic and diluted weighted average number of equity shares for fiscal 2024 was $0.09.
-The Taxation Laws (Amendment) Act, 2019 introduced section 115BAA which provides that a domestic company can elect a  reduced  rate  of  corporate  tax  of  22%  plus  surcharge  of  10%  and  cess  of  4%  but  without  the  ability  to  claim  certain deductions, including deduction for SEZ units under section 10AA of the Income Tax Act. From fiscal 2025, our income tax expense has been recognized by applying the provision of section 115BAA of the Income Tax Act without claim of deduction for SEZ units under section 10AA of the Income Tax Act.
-Deferred income tax for fiscal 2026, 2025 and 2024 substantially relates to origination and reversal of temporary differences.
-Infosys is subject to a 15% Branch Profit Tax (BPT) in the U.S. to the extent its U.S. branch's net profit during the year is greater  than  the  increase  in  the  net  assets  of  the  U.S.  branch  during  the  year,  computed  in  accordance  with  the  Internal Revenue Code. As of March 31, 2026, Infosys' U.S. branch net assets amounted to approximately $816 million. As of March 31,  2026,  the  Company  has  a  deferred  tax  liability  for  branch  profit  tax  of  $22  million  (net  of  credits),  as  the  Company estimates that these branch profits are expected to be distributed in the foreseeable future.
-Deferred income tax liabilities have not been recognized on temporary differences amounting to $2,032 million and $1,941 million as of March 31, 2026, and March 31, 2025, respectively, associated with investments in subsidiaries and branches as the  Company  is  able  to  control  the  timing  of  reversal  of  the  temporary  difference  and  it  is  probable  that  the  temporary differences will not reverse in the foreseeable future. The Group primarily intends to repatriate earnings from subsidiaries and branches only to the extent these can be distributed in a tax-free manner.
-Deferred income tax assets have not been recognized on accumulated losses of $513 million and $538 million as of March 31, 2026, and March 31, 2025, respectively, as it is probable that future taxable profit will be not available against which the unused tax losses can be utilized in the foreseeable future.
-The following table provides details of expiration of unused tax losses for fiscal 2026:
-|            | (Dollars in millions)   |
-|------------|-------------------------|
-| Year       |                         |
-| 2027       | 15                      |
-| 2028       | 39                      |
-| 2029       | 78                      |
-| 2030       | 51                      |
-| 2031       | 20                      |
-| Thereafter | 310                     |
-| Total      | 513                     |
+- 13,273 performance-based grant of RSUs (Annual performance equity ESG grant) of fair value of ₹2 crore (approximately $0.23 million). These RSUs will vest in line with the employment agreement based on achievement of certain environment, social and governance milestones as determined by the Board
 
-The following table provides details of expiration of unused tax losses for fiscal 2025:
-|            | (Dollars in millions)   |
-|------------|-------------------------|
-| Year       |                         |
-| 2026       | 25                      |
-| 2027       | 16                      |
-| 2028       | 60                      |
-| 2029       | 80                      |
-| 2030       | 52                      |
-| Thereafter | 305                     |
-| Total      | 538                     |
+- 33,183 performance-based grant of RSUs (Annual performance Equity TSR grant) of fair value of ₹5 crore (approximately $0.59  million).  These  RSUs  will  vest  in  line  with  the  employment  agreement  based  on Company's performance  on cumulative relative TSR over the years and as determined by the Board.
 
-The following table provides the details of income tax assets and income tax liabilities as of March 31, 2026, and March 31, 2025:
-|                                                          | (Dollars in millions)   | (Dollars in millions)   |
-|----------------------------------------------------------|-------------------------|-------------------------|
-|                                                          | March 31, 2026          | March 31, 2025          |
-| Income tax assets                                        | 263                     | 538                     |
-| Current income tax liabilities                           | (594)                   | (567)                   |
-| Net current income tax assets / (liabilities) at the end | (331)                   | (29)                    |
+Further, in accordance with the employee agreement which has been approved by the shareholders, the CEO is eligible to receive an annual grant of RSUs of fair value ₹3 crore (approximately $0.33 million) which will vest overtime in three equal annual installments upon the completion of each year of service from the respective grant date. Accordingly, annual timebased grant of 18,132 RSUs was made effective February 1, 2026 for fiscal 2026.
+Though the annual time based grants and annual performance equity TSR grant for the remaining employment term ending on March 31, 2027 have not been granted as of March 31, 2026, since the service commencement date precedes the grant date, the company has recorded employment stock compensation expense in accordance with IFRS 2, Share based payments. The grant date for this purpose in accordance with IFRS 2, Share based payments is July 1, 2022.
+## Under the 2019 Plan:
+The Board, on April 17, 2025, based on the recommendations of the Nomination and Remuneration Committee, approved performance-based grant of RSUs amounting to ₹10 crore (approximately $1.17 million) for fiscal 2026 under the 2019 Plan. These RSUs will vest based on achievement of certain performance targets. Accordingly, 66,366 performance based RSU's were granted effective May 2, 2025.
+## Other KMP
+## Under the 2015 Plan:
+During the year ended March 31, 2026, based on recommendations of Nomination and Remuneration Committee, the Board approved time based grants of 231,270 ESOPs to Other KMP under the 2015 Plan. These ESOPs will vest over a period of 4 years and shall be exercisable within the period as approved by the Committee. The exercise price of the ESOPs would be the market price as on the date of grant.
+Further, during the year ended March 31, 2026, based on recommendations of Nomination and Remuneration Committee, the Board approved 82,400 time based RSUs to Other KMPs under the 2015 Plan. Time based RSUs will vest over four years.
+## Under the 2019 Plan:
+During the year ended March 31, 2026, based on  recommendations of Nomination and Remuneration Committee, the Board approved performance based grants of 58,150 RSUs to other KMPs under the 2019 plan. These RSUs will vest over three years based on achievement of certain performance targets.
+## Break-up of employee stock compensation expense:
+|                                                                   | (Dollars in millions)   | (Dollars in millions)   | (Dollars in millions)   |
+|-------------------------------------------------------------------|-------------------------|-------------------------|-------------------------|
+|                                                                   | 2026                    | 2025                    | 2024                    |
+| Granted to:                                                       |                         |                         |                         |
+| KMP*                                                              | 8                       | 8                       | 8                       |
+| Employees other than KMP                                          | 100                     | 87                      | 71                      |
+| Total (1)                                                         | 108                     | 95                      | 79                      |
+| (1) Cash settled stock compensation expense included in the above | 2                       | 2                       | 2                       |
 
-The gross movement in the current income tax assets / (liabilities) for fiscal 2026, 2025 and 2024 is as follows:
-|                                                                | (Dollars in millions)   | (Dollars in millions)   | (Dollars in millions)   |
-|----------------------------------------------------------------|-------------------------|-------------------------|-------------------------|
-|                                                                | 2026                    | 2025                    | 2024                    |
-| Net current income tax assets / (liabilities) at the beginning | (29)                    | 702                     | 374                     |
-| Income tax paid (net)                                          | 973                     | 662                     | 1,114                   |
-| Current income tax expense                                     | (1,329)                 | (1,435)                 | (1,015)                 |
-| Interest income on income tax refund                           | 41                      | 39                      | 234                     |
-| Income tax on other comprehensive income                       | -                       | 2                       | -                       |
-| Income tax benefit arising on exercise of stock options        | 5                       | 4                       | -                       |
-| Tax impact on buyback expenses                                 | 2                       | -                       | -                       |
-| Translation differences                                        | 6                       | (3)                     | (5)                     |
-| Net current income tax assets / (liabilities) at the end       | (331)                   | (29)                    | 702                     |
+* Includes reversal of employee stock compensation expense on account of resignation / retirement of key managerial personnel The activity in the 2015 Plan and 2019 Plan for equity-settled share based payment transaction during fiscal 2026 is set out below:
 
-The movement in gross deferred income tax assets / liabilities (before set off) for fiscal 2026 is as follows:
-|                                                  |                      |                 | Addition         |             | (Dollars    | (Dollars                           |
-|--------------------------------------------------|----------------------|-----------------|------------------|-------------|-------------|------------------------------------|
-|                                                  | Carrying value as of | Changes through | through business | Changes     | Translation | Carrying value as of March 31, 202 |
-|                                                  |                      | profit          |                  |             |             |                                    |
-|                                                  |                      |                 | combination      |             |             | 6                                  |
-|                                                  | April 1, 2025        |                 |                  |             |             |                                    |
-|                                                  |                      | and loss        |                  | through OCI | difference  |                                    |
-| Deferred income tax assets / (liabilities)       |                      |                 |                  |             |             |                                    |
-| Property, plant and equipment                    | 28                   | (10)            | -                | -           | (4)         | 14                                 |
-| Lease liabilities                                | 18                   | 10              | -                | -           | (2)         | 26                                 |
-| Accrued compensation to employees                | 9                    | 5               | -                | -           | -           | 14                                 |
-| Trade receivables                                | 26                   | (3)             | -                | -           | (2)         | 21                                 |
-| Compensated absences                             | 83                   | 14              | -                | -           | (8)         | 89                                 |
-| Post sales client support                        | 8                    | (3)             | -                | -           | -           | 5                                  |
-| Credits related to branch profits                | 93                   | (7)             | -                | -           | (4)         | 82                                 |
-| Derivative financial instruments                 | (4)                  | 17              | -                | -           | 1           | 14                                 |
-| Intangibles                                      | 8                    | 1               | -                | -           | -           | 9                                  |
-| Intangibles arising on business combinations     | (80)                 | 20              | (5)              | -           | (5)         | (70)                               |
-| Branch profit tax                                | (124)                | 16              | -                | -           | 4           | (104)                              |
-| SEZ reinvestment reserve                         | (168)                | 61              | -                | -           | 13          | (94)                               |
-| Interest receivable on income tax refund         | (8)                  | 7               | -                | -           | -           | (1)                                |
-| Others                                           | 39                   | 11              | 1                | 4           | 2           | 57                                 |
-| Total Deferred income tax assets / (liabilities) | (72)                 | 139             | (4)              | 4           | (5)         | 62                                 |
+|                              | Year ended March 31, 2026     | Year ended March 31, 2026          |
+|------------------------------|-------------------------------|------------------------------------|
+|                              | Shares arising out of options | Weighted average exercise price($) |
+| 2015 Plan: RSUs              |                               |                                    |
+| Outstanding at the beginning | 7,259,464                     | 0.06                               |
+| Granted                      | 2,631,950                     | 0.10                               |
+| Exercised                    | 1,865,144                     | 0.10                               |
+| Forfeited and expired        | 646,821                       | 0.10                               |
+| Outstanding at the end       | 7,379,449                     | 0.10                               |
+| Exercisable at the end       | 1,043,401                     | 0.10                               |
+| 2015 Plan: Stock Options     |                               |                                    |
+| Outstanding at the beginning | 17,554                        | 5.83                               |
+| Granted                      | 5,650,160                     | 17.84                              |
+| Exercised                    | 14,728                        | 5.63                               |
+| Forfeited and expired        | 291,820                       | 17.91                              |
+| Outstanding at the end       | 5,361,166                     | 17.54                              |
+| Exercisable at the end       | 28,096                        | 15.27                              |
+| 2019 Plan: RSUs              |                               |                                    |
+| Outstanding at the beginning | 8,072,635                     | 0.06                               |
+| Granted                      | 4,549,356                     | 0.10                               |
+| Exercised                    | 1,453,412                     | 0.10                               |
+| Forfeited and expired        | 745,697                       | 0.10                               |
+| Outstanding at the end       | 10,422,882                    | 0.10                               |
+| Exercisable at the end       | 2,353,433                     | 0.10                               |
 
-The movement in gross deferred income tax assets / liabilities (before set off) for fiscal 2025 is as follows:
-|                                                  |                                    |                                 |                                       |                     | (Dollars               | (Dollars                             |
-|--------------------------------------------------|------------------------------------|---------------------------------|---------------------------------------|---------------------|------------------------|--------------------------------------|
-|                                                  | Carrying value as of April 1, 2024 | Changes through profit and loss | Addition through business combination | Changes through OCI | Translation difference | Carrying value as of March 31, 202 5 |
-| Deferred income tax assets / (liabilities)       |                                    |                                 |                                       |                     |                        |                                      |
-| Property, plant and equipment                    | 29                                 | (1)                             | -                                     | -                   | -                      | 28                                   |
-| Lease liabilities                                | 24                                 | (5)                             | -                                     | -                   | (1)                    | 18                                   |
-| Accrued compensation to employees                | 7                                  | 2                               | -                                     | -                   | -                      | 9                                    |
-| Trade receivables                                | 27                                 | (1)                             | -                                     | -                   | -                      | 26                                   |
-| Compensated absences                             | 75                                 | 9                               | -                                     | -                   | (1)                    | 83                                   |
-| Post sales client support                        | 7                                  | 1                               | -                                     | -                   | -                      | 8                                    |
-| Credits related to branch profits                | 97                                 | (4)                             | -                                     | -                   | -                      | 93                                   |
-| Derivative financial instruments                 | (2)                                | (3)                             | -                                     | 1                   | -                      | (4)                                  |
-| Intangibles                                      | 7                                  | 1                               | -                                     | -                   | -                      | 8                                    |
-| Intangibles arising on business combinations     | (34)                               | 17                              | (63)                                  | -                   | -                      | (80)                                 |
-| Branch profit tax                                | (129)                              | 5                               | -                                     | -                   | -                      | (124)                                |
-| SEZ reinvestment reserve                         | (239)                              | 67                              | -                                     | -                   | 4                      | (168)                                |
-| Interest receivable on income tax refund         | (58)                               | 49                              | -                                     | -                   | 1                      | (8)                                  |
-| Others                                           | 28                                 | 13                              | 1                                     | (3)                 | -                      | 39                                   |
-| Total Deferred income tax assets / (liabilities) | (161)                              | 150                             | (62)                                  | (2)                 | 3                      | (72)                                 |
+The activity in the 2015 Plan and 2019 Plan for equity-settled share based payment transaction during fiscal 2025 is set out below:
+|                              | Year ended March 31, 2025     | Year ended March 31, 2025          |
+|------------------------------|-------------------------------|------------------------------------|
+|                              | Shares arising out of options | Weighted average exercise price($) |
+| 2015 Plan: RSUs              |                               |                                    |
+| Outstanding at the beginning | 8,076,058                     | 0.06                               |
+| Granted                      | 2,255,532                     | 0.06                               |
+| Exercised                    | 2,080,865                     | 0.06                               |
+| Forfeited and expired        | 991,261                       | 0.06                               |
+| Outstanding at the end       | 7,259,464                     | 0.06                               |
+| Exercisable at the end       | 629,138                       | 0.06                               |
+| 2015 Plan: Stock Options     |                               |                                    |
+| Outstanding at the beginning | 82,050                        | 6.61                               |
+| Granted                      | -                             | -                                  |
+| Exercised                    | 61,672                        | 6.77                               |
+| Forfeited and expired        | 2,824                         | 5.90                               |
+| Outstanding at the end       | 17,554                        | 5.83                               |
+| Exercisable at the end       | 17,554                        | 5.83                               |
+| 2019 Plan: RSUs              |                               |                                    |
+| Outstanding at the beginning | 8,023,855                     | 0.06                               |
+| Granted                      | 3,744,345                     | 0.06                               |
+| Exercised                    | 1,514,356                     | 0.06                               |
+| Forfeited and expired        | 2,181,209                     | 0.06                               |
+| Outstanding at the end       | 8,072,635                     | 0.06                               |
+| Exercisable at the end       | 770,321                       | 0.06                               |
 
-The movement in gross deferred income tax assets / liabilities (before set off) for fiscal 2024 is as follows:
-|                                                  | Carrying value as of 1, 202   | Changes through profit and loss   | Addition through business combination   | Changes OC Translatio   | n   | (Dollars in millions) Carrying value as of   |
-|--------------------------------------------------|-------------------------------|-----------------------------------|-----------------------------------------|-------------------------|-----|----------------------------------------------|
-| Deferred income tax assets / (liabilities)       |                               |                                   |                                         |                         |     |                                              |
-| Property, plant and equipment                    | 21                            | 9                                 | -                                       | -                       | (1) | 29                                           |
-| Lease liabilities                                | 27                            | (3)                               | -                                       | -                       | -   | 24                                           |
-| Accrued compensation to employees                | 8                             | (1)                               | -                                       | -                       | -   | 7                                            |
-| Trade receivables                                | 32                            | (5)                               | -                                       | -                       | -   | 27                                           |
-| Compensated absences                             | 70                            | 6                                 | -                                       | -                       | (1) | 75                                           |
-| Post sales client support                        | 30                            | (23)                              | -                                       | -                       | -   | 7                                            |
-| Credits related to branch profits                | 87                            | 10                                | -                                       | -                       |     | 97                                           |
-| Derivative financial instruments                 | -                             | (1)                               | -                                       | (1)                     | -   | (2)                                          |
-| Intangibles                                      | 7                             | -                                 | -                                       | -                       | -   | 7                                            |
-| Intangibles arising on                           |                               |                                   |                                         |                         |     |                                              |
-| business combinations                            | (42)                          | 8                                 | -                                       | -                       | -   | (34)                                         |
-| Branch profit tax                                | (105)                         | (24)                              | -                                       | -                       |     | (129)                                        |
-| SEZ reinvestment reserve                         | (164)                         | (78)                              | -                                       | -                       | 3   | (239)                                        |
-| Interest receivable on income tax refund         | -                             | (58)                              | -                                       | -                       | -   | (58)                                         |
-| Others                                           | 32                            | (2)                               | -                                       | (1)                     | (1) | 28                                           |
-| Total Deferred income tax assets / (liabilities) | 3                             | (162)                             | -                                       | (2)                     | -   | (161)                                        |
+The activity in the 2015 Plan and 2019 Plan for equity-settled share based payment transaction during fiscal 2024 is set out below:
+|                              | Year ended March 31, 2024     | Year ended March 31, 2024          |
+|------------------------------|-------------------------------|------------------------------------|
+|                              | Shares arising out of options | Weighted average exercise price($) |
+| 2015 Plan: RSUs              |                               |                                    |
+| Outstanding at the beginning | 5,408,018                     | 0.06                               |
+| Granted                      | 5,139,370                     | 0.06                               |
+| Exercised                    | 1,815,025                     | 0.06                               |
+| Forfeited and expired        | 656,305                       | 0.06                               |
+| Outstanding at the end       | 8,076,058                     | 0.06                               |
+| Exercisable at the end       | 831,050                       | 0.06                               |
+| 2015 Plan: Stock Options     |                               |                                    |
+| Outstanding at the beginning | 134,030                       | 6.44                               |
+| Granted                      | -                             | -                                  |
+| Exercised                    | 51,980                        | 6.03                               |
+| Forfeited and expired        | -                             | -                                  |
+| Outstanding at the end       | 82,050                        | 6.61                               |
+| Exercisable at the end       | 82,050                        | 6.61                               |
+| 2019 Plan: RSUs              |                               |                                    |
+| Outstanding at the beginning | 7,222,038                     | 0.06                               |
+| Granted                      | 4,187,902                     | 0.06                               |
+| Exercised                    | 1,695,705                     | 0.06                               |
+| Forfeited and expired        | 1,690,380                     | 0.06                               |
+| Outstanding at the end       | 8,023,855                     | 0.06                               |
+| Exercisable at the end       | 814,798                       | 0.06                               |
 
-The deferred income tax assets and liabilities is as follows:
-|                                               | (Dollars in millions)   | (Dollars in millions)   |
-|-----------------------------------------------|-------------------------|-------------------------|
-|                                               | As March 31, 2026       | March 31, 2025          |
-| Deferred income tax assets after set off      | 239                     | 130                     |
-| Deferred income tax liabilities after set off | (177)                   | (202)                   |
+The weighted average share price of option exercised is set out as follows:
+|                                                   |   2019 Plan Year ended March 31, |   2019 Plan Year ended March 31, |   2019 Plan Year ended March 31, |   2015 Plan Year ended March 31, |   2015 Plan Year ended March 31, |   2015 Plan Year ended March 31, |
+|---------------------------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|
+|                                                   |                             2026 |                             2025 |                             2024 |                             2026 |                             2025 |                             2024 |
+| Weighted average share price of options exercised |                            16.62 |                            18.75 |                            16.39 |                            16.77 |                            18.89 |                            17.07 |
 
-In  assessing  the  realizability  of  deferred  income  tax  assets,  the  management  considers  whether  some  portion  or  all  of  the deferred income tax assets will not be realized. The ultimate realization of deferred income tax assets is dependent upon the generation  of  future  taxable  income  during  the  periods  in  which  the  temporary  differences  become  deductible.  The Management considers the scheduled reversals of deferred income tax liabilities, projected future taxable income and tax planning  strategies  in  making  this  assessment.  Based  on  the  level  of  historical  taxable  income  and  projections  for  future taxable income over the periods in which the deferred income tax assets are deductible, the management believes that the Group will realize  the  benefits  of  those  deductible  differences.  The  amount  of  the  deferred  income  tax  assets  considered realizable, however, could be reduced in the near term if estimates of future taxable income during the carry forward period are reduced.
-The Company's Advanced Pricing Arrangement (APA) with the Internal Revenue Service (IRS) for U.S. branch income tax expired in March 2021. The Company has applied for renewal of APA and currently the U.S. taxable income is based on the Company's best estimate determined based on the expected value method.
-As of March 31, 2026, claims against the Group not acknowledged as debts from the Income tax authorities amounted to $207 million (₹1,964 crore).
-As of March 31, 2025, claims against the Group not acknowledged as debts from the Income tax authorities amounted to $226 million (₹1,933 crore).
-The amount paid to statutory authorities against the tax claims amounted to $273 million (₹2,594 crore) and $491 million (₹4,199 crore) as of March 31, 2026 and March 31, 2025, respectively.
-The  claims  against  the  Group  primarily  represent  demands  arising  on  completion  of  assessment  proceedings  under  the Income Tax Act, 1961. These claims are on account of issues of disallowance of expenditure towards software being held as capital  in  nature,  payments  made  to  Associated  Enterprises  held  as  liable  for  withholding  of  taxes,  among  others.  These matters are pending before various Income Tax Authorities and the Management including its tax advisors expect that its position  will  likely  be  upheld  on  ultimate  resolution  and  will  not  have  a  material  adverse  effect  on  the  Group's  financial position and results of operations.
+The following table summarizes information about equity settled RSUs and stock options outstanding as of March 31, 2026:
+|                                                                               | 2019 Plan - Options outstanding   | 2019 Plan - Options outstanding   | 2019 Plan - Options outstanding   | 2015 Plan - Options outstanding   | 2015 Plan - Options outstanding   | 2015 Plan - Options outstanding   |
+|-------------------------------------------------------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
+|                                                                               | No. of shares arising out         | Weighted Weighted                 | Weighted Weighted                 | No. of shares arising out         | Weighted average remaining        | Weighted average exercise         |
+| Range of exercise prices per share ($)                                        |                                   | average remaining                 | average                           |                                   |                                   |                                   |
+|                                                                               | of options                        |                                   | exercise                          |                                   |                                   | price ($)                         |
+|                                                                               |                                   | life                              |                                   | of options                        |                                   |                                   |
+|                                                                               |                                   |                                   |                                   |                                   | life                              |                                   |
+|                                                                               | contractual                       |                                   | price ($)                         |                                   | contractual                       |                                   |
+| American Depositary Share (ADS) and Indian Equity Shares (IES) 0 - 0.1 (RSUs) | 10,422,882                        | 1.19                              | 0.10                              | 7,379,449                         | 1.37                              | 0.10                              |
+| 5 - 19 (Stock Options)                                                        | -                                 | -                                 | -                                 | 5,361,166                         | 7.17                              | 17.54                             |
+
+The following table summarizes information about equity settled RSUs and stock options outstanding as of March 31, 2025:
+|                                                                | 2019 Plan - Options outstanding      | 2019 Plan - Options outstanding             | 2019 Plan - Options outstanding     | 2015 Plan - Options outstanding      | 2015 Plan - Options outstanding             | 2015 Plan - Options outstanding     |
+|----------------------------------------------------------------|--------------------------------------|---------------------------------------------|-------------------------------------|--------------------------------------|---------------------------------------------|-------------------------------------|
+| Range of exercise prices per share ($)                         | No. of shares arising out of options | Weighted average remaining contractual life | Weighted average exercise price ($) | No. of shares arising out of options | Weighted average remaining contractual life | Weighted average exercise price ($) |
+| American Depositary Share (ADS) and Indian Equity Shares (IES) |                                      |                                             |                                     |                                      |                                             |                                     |
+| 0 - 0.06 (RSUs)                                                | 8,072,635                            | 1.23                                        | 0.06                                | 7,259,464                            | 1.51                                        | 0.06                                |
+| 5 - 8 (Stock Options)                                          | -                                    | -                                           | -                                   | 17,554                               | 0.58                                        | 5.83                                |
+
+As of March 31, 2026, and March 31, 2025, 387,949 and 288,384 cash settled options were outstanding, respectively. The carrying value of liability towards cash settled share-based payments was $2 million and $2 million as of March 31, 2026, and March 31, 2025, respectively.
+The fair value of the awards is estimated using the Black-Scholes Model for time and non-market performance based options and Monte Carlo simulation model is used for TSR based options.
+The  inputs  to  the  model  include  the  share  price  at  date  of  grant,  exercise  price,  expected  volatility,  expected  dividends, expected  term  and  the  risk  free  rate  of  interest.  Expected  volatility  during  the  expected  term  of  the  options  is  based  on historical volatility of the observed market prices of the Company's publicly traded equity shares during a period equivalent to the expected term of the options. Expected volatility of the comparative companies have been modelled based on historical movements in the market prices of their publicly traded equity shares during a period equivalent to the expected term of the options. Correlation coefficient is calculated between each peer entity and the indices as a whole or between each entity in the peer group.
+The fair value of each equity settled award is estimated on the date of grant using the following assumptions:
+|                                                             | For options granted in          | For options granted in   | For options granted in           | For options granted in   |
+|-------------------------------------------------------------|---------------------------------|--------------------------|----------------------------------|--------------------------|
+|                                                             | Fiscal 2026- Equity Shares- RSU | Fiscal 2026- ADS- RSU    | Fiscal 2026- Equity Shares- ESOP | Fiscal 2026- ADS-ESOP    |
+| Weighted average share price (₹) / ($- ADS)                 | 1,641                           | 17.55                    | 1,554                            | 17.93                    |
+| Exercise price (₹)/ ($- ADS)                                | 5.00                            | 0.10                     | 1,554                            | 17.93                    |
+| Expected volatility (%)                                     | 23-26                           | 25-29                    | 25-28                            | 26-30                    |
+| Expected life of the option (years)                         | 1-4                             | 1-4                      | 3-7                              | 3-7                      |
+| Expected dividends (%)                                      | 2-3                             | 2-3                      | 2-3                              | 2-3                      |
+| Risk-free interest rate (%)                                 | 6                               | 4                        | 6                                | 4                        |
+| Weighted average fair value as on grant date (₹) / ($- ADS) | 1,331                           | 14.16                    | 390                              | 4.09                     |
+
+|                                                             | For options granted in         | For options granted in   |
+|-------------------------------------------------------------|--------------------------------|--------------------------|
+|                                                             | Fiscal 2025- Equity Shares-RSU | Fiscal 2025- ADS- RSU    |
+| Weighted average share price (₹) / ($- ADS)                 | 1,808                          | 21.44                    |
+| Exercise price (₹)/ ($- ADS)                                | 5.00                           | 0.07                     |
+| Expected volatility (%)                                     | 21-26                          | 23-28                    |
+| Expected life of the option (years)                         | 1-4                            | 1-4                      |
+| Expected dividends (%)                                      | 2-3                            | 2-3                      |
+| Risk-free interest rate (%)                                 | 7                              | 4-5                      |
+| Weighted average fair value as on grant date (₹) / ($- ADS) | 1,555                          | 18.20                    |
+
+|                                                             | For options granted in         | For options granted in   |
+|-------------------------------------------------------------|--------------------------------|--------------------------|
+|                                                             | Fiscal 2024- Equity Shares-RSU | Fiscal 2024- ADS- RSU    |
+| Weighted average share price (₹) / ($- ADS)                 | 1,588                          | 19.19                    |
+| Exercise price (₹)/ ($- ADS)                                | 5.00                           | 0.07                     |
+| Expected volatility (%)                                     | 23-31                          | 25-33                    |
+| Expected life of the option (years)                         | 1-4                            | 1-4                      |
+| Expected dividends (%)                                      | 2-3                            | 2-3                      |
+| Risk-free interest rate (%)                                 | 7                              | 4-5                      |
+| Weighted average fair value as on grant date (₹) / ($- ADS) | 1,317                          | 16.27                    |
+
+The expected life of the RSU/ESOP is estimated based on the vesting term and contractual term of the RSU/ESOP, as well as expected exercise behavior of the employee who receives the RSU/ ESOP.

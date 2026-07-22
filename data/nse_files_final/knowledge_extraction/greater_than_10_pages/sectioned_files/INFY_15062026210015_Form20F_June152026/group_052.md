@@ -2,107 +2,166 @@
 document_name: "INFY_15062026210015_Form20F_June152026.md"
 group_id: "INFY_15062026210015_Form20F_June152026__group_052"
 source_section_count: 2
-page_start: 363
-page_end: 369
-estimated_tokens: 4290
+page_start: 357
+page_end: 363
+estimated_tokens: 4169
 source_section_ids:
-  - "INFY_15062026210015_Form20F_June152026__096"
-  - "INFY_15062026210015_Form20F_June152026__097"
+  - "INFY_15062026210015_Form20F_June152026__094"
+  - "INFY_15062026210015_Form20F_June152026__095"
 ---
 
-## Conflict of Interest
-## What does conflict of interest mean?
-When the interests or benefits of one person conflict with the interests or benefits of the Company, a conflict of interest is said to occur. We must avoid situations involving actual or potential conflict of interest so that even the slightest doubt about our integrity is not raised.
-Conflicts of interest also occur when we or our family members receive improper personal benefits, or preferential treatment as a result of our position, or the position of a family member, in the Company. Remember that such situations might impact our judgment or responsibilities towards our Company and our shareholders and customers.
+## I am the Example for my Team
+Most often, a manager is the first person to be contacted about a concern in our work environment. Managers have some specific responsibilities:
+-  Be a role model of ethical behavior.
+-  Encourage our team to raise issues and speak up.
+-  Communicate a positive message about your commitment to ethics and compliance.
+-  Promote our values, the Code of Conduct and compliance with policies and the law.
+-  Actively support ethics and compliance awareness and training programs.
+-  Have open avenues for communication.
+-  Listen and respond fairly to employee concerns.
+-  Find satisfactory and complete resolutions to ethical issues.
+-  Escalate concerns when additional assistance is needed.
+
+## TABLEOFCONTENTS
+| A.   | RESPECTINGEACHOTHER                                            | 17       | D. COMMITTEDTOOURCUSTOMERS ANDOURSUPPLIERS               | 38    |
+|------|----------------------------------------------------------------|----------|----------------------------------------------------------|-------|
+|      | AnEqual OpportunityWorkplaceFreeof DiscriminationorHarassment  | 17       | Fair Dealings                                            | 38    |
+|      | ASafePlacetoWork                                               | 18       | Confidential InformationofClients and ThirdParties       | 39    |
+| B.   | ETHICSINOURBUSINESSACTIVITIES 19                               | 19       | FreeandFairCompetition Industrial Espionage              | 40 42 |
+|      | Preventing Corruption                                          |          | GovernmentalRelations                                    | 42    |
+|      | GiftsandEntertainment                                          | 22       |                                                          |       |
+|      | CharitableContributions                                        | 22       | Selecting Suppliers                                      | 42    |
+|      | TransactingwithThirdParties                                    | 23       | E. RECORDS,DISCLOSURESANDAUDITS 43                       |       |
+|      | TradinginCompanyShares UnderstandingRegulatedTradeRestrictions | 24 26 26 | F. ADMINISTERINGOURCODE                                  | 47    |
+|      | ExportControland ImportRegulations Anti-BoycottLaws            | 27       | Investigations Amendments/ModificationstoOurCode         | 47    |
+|      |                                                                |          | Acknowledgement                                          | 47    |
+|      | ConflictofInterest                                             | 28       |                                                          | 47    |
+|      | Political Activities                                           | 31       | Waivers                                                  | 47    |
+|      | Lobbying Money Laundering and TerrorismFinancing               | 31 32    | DisciplinaryActions                                      | 48    |
+|      | Immigration                                                    | 32       | FormofAcknowledgmentofReceiptofCodeof Conduct and Ethics | 50    |
+| C    | PROTECTINGCOMPANYASSETS                                        | 33       |                                                          | 51    |
+|      | Company Confidential Information                               | 34       | INDEX                                                    |       |
+|      | ImproperOpportunities                                          | 35       |                                                          |       |
+|      | ProvidingInformationtotheMedia                                 |          |                                                          |       |
+|      | CompanyIntellectualProperty                                    | 35       |                                                          |       |
+|      |                                                                | 36       |                                                          |       |
+|      | Useof CompanyAssets                                            | 37       |                                                          |       |
+
+## A. RESPECTING EACH OTHER
+## An Equal Opportunity Workplace Free of Discrimination or Harassment
+At Infosys, we strive to provide a work environment free of discrimination and harassment. We are an equal opportunity employer and employment decisions are based on merit and business needs. We are committed to following fair employment practices that provide equal opportunities to all employees. We do not discriminate or allow harassment on the basis of race, color, religion, disability, gender, national origin, sexual orientation, gender identity, gender expression, age, genetic information, military status, or any other legally protected status. At Infosys, we value diversity and believe that a diverse workplace builds a competitive advantage.
+We prohibit child labor, forced labor, and human trafficking in our supply chains, consistent with our Human Rights and Modern Slavery commitments.
+Please refer to the Human Rights Statement and Modern Slavery Statement for more details. Employees in United States may also refer to the U.S. Equal Opportunity Statement on the Policy Portal.
+## An Equal Opportunity Workplace Free of Discrimination or Harassment
+To put these values in practice, all of us must ensure that decisions affecting employees are based on business factors only. For instance, decisions regarding hiring, promotion, termination, transfer, leave of absence or compensation should only be based on relevant business factors.
+We must also ensure that we never verbally or physically mistreat others or engage in offensive behavior, and we should not tolerate those who do. This includes harassing, bullying, abusive or intimidating treatment, inappropriate language or gestures, disorderly conduct, violence and any other conduct that interferes with a co-worker's ability to do his or her job.
+The Company's Anti-Discrimination and Anti-Harassment Policy applies to all persons involved in the operations of the Company and prohibits harassment by any employee of the Company towards other employees as well as outside vendors and customers. If you have any questions relating to what constitutes discrimination or harassment, or any other questions or concerns pertaining to discrimination or harassment, please refer to the Policy on Prevention and Redressal of Harassment at Infosys or any of the location-specific procedures found on your local policy page on the Company intranet. If you wish to report a concern, you may reach out to us using any of the relevant channels noted in the 'Speak Up' section on the previous page, or simply call the Helpline listed throughout this Code of Conduct.
+## A Safe Place to Work
+To work effectively, all of us need a healthy and safe work environment. All forms of substance abuse as well as the use or distribution of drugs and alcohol while at work is prohibited. Unless required as part of your role (for instance for security personnel where deemed necessary), possession and/or use of weapons/firearms or ammunition while on business of the Company is prohibited. Should you observe any unsafe situations at work, please reach out to the Helpline. Please also take the time to familiarize yourselves with emergency procedures and the safety manuals applicable to your location.
+We are committed to supporting the well-being of our employees and strive to foster a respectful and supportive environment where everyone can perform at their best. In addition to ensuring physical safety, we recognize the importance of mental and emotional health. Confidential internal resources such as the HALE program are available for us to use without fear of stigma or retaliation.
+## B. ETHICS IN OUR BUSINESS ACTIVITIES
+Infosys enjoys a hard-won reputation for honesty, integrity and fair dealing. Without question, this reputation for integrity is an invaluable part of our success. There are certain regulations that Infosys is subject to and we should ensure that we comply both in letter and in spirit with these as is applicable.
+## Preventing Corruption
+The United States Senate in 1977 stated 'Corporate bribery is bad business. In our free market system, it is basic that the sale of products should take place on the basis of price, quality, and service. Corporate bribery is fundamentally destructive of this basic tenet.'
+Corruption diverts public resources from priorities such as health, education, and infrastructure and impedes economic growth. Corruption undermines public accountability and the rule of law. Corruption is anti-competitive, increases costs of doing business globally and introduces significant uncertainty into business. Bribery thus raises the risks of doing business, putting a company's bottom line and reputation in jeopardy. Companies that pay bribes to win business ultimately undermine their own long-term interests and the best interests of their investors.
+As a global company, apart from the Prevention of Corruption Act, 1988 (India), Infosys is subject to all relevant anti-corruption laws, including the U.S. Foreign Corrupt Practices Act (FCPA) (as if it were a U.S. incorporated company) and the Bribery Act 2010 (U.K.). These prohibit bribery of government officials and commercial partners.
+## Government Officials
+Particular care must be taken when interacting with government officials. Government Official includes officer or employee of any agency, department or instrument of any government or anyone acting on their behalf. This includes (but is not limited to) officer or employees of a political party, employees or members of military services, civil services or judicial systems, candidates for political or public office, members of a ruling or royal families and employees of businesses controlled by the government, public international organizations etc. Family members of Government Officials are also considered as Government officials.
+## Prevention Corruption
+We should never offer, directly or indirectly, any form of gift, entertainment or anything of value to any government official or commercial partners including customers or their representatives to:
+-  Obtain or retain business;
+-  Influence business decisions; or
+-  Secure an unfair advantage
+
+This includes bribes, kickbacks and facilitation payments
+## What is a bribe?
+A bribe is anything of value that may be seen as an attempt to influence an action or a decision in order to obtain or retain business or acquire an improper advantage. This could include money, gifts, favors, use of company resources, entertainment or other items of value.
+## What is a kickback?
+A kickback is a form of corruption that involves two parties agreeing that a portion of their sales or profits will be kicked back (given back) to the purchasing party in exchange for making the deal.
+## What is a facilitation payment?
+Certain countries may have a practice of 'facilitation payments', which are payments to government officials to expedite or ensure routine actions, such as issuing visas, work permits, licenses etc.
+Infoscions don't do any of these, nor do we allow third parties acting on our behalf, such as vendors, agents, customers, consultants, alliance partners, suppliers and contractors to make any such payments.
+Also remember that while managing these relationships, we must be on the watch for any actions relating to bribery, kickbacks, improper payments or other corrupting influences. We can and will be held responsible for the conduct of our third parties if they violate the law while working on our behalf.
+## Anything of value? What does that mean?
+Cash payments, gifts, entertainment, excessive business promotional activities, covering or reimbursing expenses, investment opportunities, shares, securities, loans or contractual rights, promise of future employment, payments under consulting agreements, subcontracts, stock options, and similar items of value.
 ## QUESTION
-I work in a country where the laws are different from those in the country where I am based. Does the Code cover both locations?
+One of the Company's vendors always sends me a large gift basket of fruit and chocolate during the holiday season. Can I accept this?
 ## RESPONSE
-Infosys respects the letter and the spirit of the laws and customs of every place where we do business. The Code is intended to be broad enough to cover everyone worldwide, but laws vary from place to place. What may be lawful in one place may be unlawful in another. Employees must always perform their jobs in compliance with applicable laws, policies and procedures. If you are concerned about a possible conflict involving our Code, Company policies and procedures, and any local laws or customs contact any of the resources listed at the end of the Code.
-## When could I be faced with a 'conflict of interest' issue?
-Some examples include:
-## OUTSIDE EMPLOYMENT OR ENGAGEMENT
-If we take part in any activity that enhances or supports a competitor's position or accept simultaneous employment with any other company or business entity, it is considered outside employment and a conflict of interest. This includes performing services as an employee, agent or contractor for a customer, supplier or any other entity that has a business relationship with the Company while working at Infosys, as well as taking up any outside engagement that would adversely impact our responsibilities at Infosys.
-## RELATED PARTY TRANSACTIONS
-We should also avoid conducting Company business with a Family Member or Relative, or with a business in which a Family Member or Relative is associated in any significant role. Family Member or Relative include spouse, siblings, children, parents, grandparents, grandchildren, aunts, uncles, nieces, nephews, cousins, step relationships, and in-laws.
-Material transactions, particularly those involving the Company's directors or executive officers, must be reviewed and approved in writing in advance by the Company's Audit Committee. As a listed entity, the Company is subject to certain legal obligations to report such material related party transactions to regulators and it is important that all such transactions be fully disclosed, conducted at arm's length and with no preferential treatment.
-## WORKING WITH FAMILY
-To avoid conflicts of interest and any appearance of favoritism, we should ensure that we do not work directly for, supervise or make employment decisions about a Family Member or Relative. This includes positions or assignments within the same department and the employment of such individuals in positions that have a financial or other dependence or influence (e.g., an auditing or control relationship, or a supervisor/subordinate relationship).
-Please reach out to your manager and unit HR manager if you have any questions about this. The Human Resources Department is responsible for determining whether an acknowledged relationship is covered by the policy.
-## RELATIONSHIPS AT WORK
-Personal or romantic involvement with a competitor, supplier, or another employee of the Company might affect your ability to exercise good judgment on behalf of the Company. This could lead to conflict of interest. Personal relationships and romantic liaisons between employees who are in a manager-employee reporting structure may lead to team management challenges and reduced morale. Such relationships must be disclosed to the manager immediately, who may take appropriate corrective action.
-## OUTSIDE DIRECTORSHIP
-## 28
-It is a conflict of interest for employees or directors to serve as a director, partner, sole proprietor or any other equivalent position of any company, firm or business entity, as the case may be that competes with the Company or have a line of business similar to that of Infosys. With prior approval of the Office of Integrity and Compliance, employees may serve on the boards or governing body of two other business entities, provided such entities do not compete with Infosys. In case any clarification is required, please reach out to the Office of Integrity and Compliance.
-## OUTSIDE INVESTMENTS
-We should not have a financial interest, including through a relative, in any organization if that interest would give or appear to give us a conflict of interest with the Company. We should be particularly sensitive to financial interests in competitors, suppliers, customers, distributors and strategic partners. Questions in this regard should be directed to OIC@infosys .com.
-## LOANS
-Loans and guarantees to employees by the Company could constitute improper personal benefits depending on the facts and circumstances. Loans by the Company to, or guarantees by the Company of obligations of, any director or executive officer or their family members are prohibited by law.
-## Conflict of Interest
-## When faced with such issues, ask yourself:
--  Would this create or appear to create an unfair incentive for me or my family?
--  Am I putting Infosys at risk of violating laws or agreements with our customers?
--  Would this look bad if it was brought up in social media?
--  Would this distract me from doing my job?
+If the holiday gift baskets is of low value and you receive them infrequently, it is unlikely that you would feel obligated or influenced by them. If that is the case, you can continue to accept them. However, you are encouraged to share the gift baskets with other employees in your department. For more information on permissible value, please refer to Anti-Bribery and Anti-Corruption Policy.
 
-## What should I do if I have any potential/ actual conflict of interest?
--  All such situations must be disclosed on the Smart Awareness Quiz (SAQ) platform under 'Conflict of Interest' or by reaching out to OIC@infosys.com. Remember, having a conflict of interest is a violation of this Code.
--  Additionally, we must also update any changes to our disclosures on the SAQ platform or to OIC@infosys.com.
+## Gifts and Entertainment
+In connection with certain holidays and other occasions, it is customary in many parts of the world to give gifts of nominal value to customers, government officials and other parties who have a business relationship with the Company. However, we should be careful that while doing so, we do not violate any regulations, Company policy or do anything that is contrary to our C-LIFE values.
+When we offer a gift or entertainment to a customer, a government official or any third party, we should keep the following in mind:
+-  It is not done to obtain or retain business, influence business decision or gain an improper advantage in business.
+-  It is lawful under the laws of the country where the gift or entertainment is being offered and permitted under the policies of the client.
+-  It constitutes a bona fide promotion or goodwill expenditure.
+-  It is not in the form of cash.
+-  The gift is of nominal value (on an individual and aggregate basis).
+-  It is accurately recorded in the Company's books and records.
+-  We must comply with our Anti-Bribery and Anti-Corruption Policy.
 
-Since the situations for other conflicts of interest are wide and many, it would be impractical to attempt to list all possible situations. If a proposed transaction or situation raises any questions or doubts, you should raise it to OIC@infosys.com.
-## Political Activities
-Infosys reserves the right to communicate its position on important issues to the elected representatives and other government officials. Infosys' funds or assets must not be used as contribution for political campaigns or political practices under any circumstances without the prior written approval of the Board. For obtaining such approvals, please reach out to OIC@infosys.com. We do not seek reimbursement for political contributions or use Infosys resources for personal political activities. We also do not indicate in any manner that we represent our Company's opinion about a candidate for office or any political cause or decision of any government.
-## Lobbying
-'Lobbying' refers to any activity which influences laws, regulations, public policies or government decision-making, and we must be aware that such activities are regulated. Any direct or indirect interaction with government officials, including preparing policy positions or engaging through industry associations or third parties might be construed as lobbying. We should not claim to represent our Company at such engagements unless we are specifically designated by the Company to do so. Lobbying laws and related reporting requirements vary across countries, and it is important that we understand and comply with these.
-You can reach out to OIC@infosys.com if you have any questions. As in all other spheres of our activity, any meetings of this sort should be carried out with integrity and transparency.
-## Money Laundering and Terrorism Financing
-Money Laundering occurs when someone directly or indirectly gets involved in any process or activity connected with the proceeds of crime including its concealment, possession, acquisition or use and projecting or claiming it as untainted property. Terrorism financing occurs when money or other resources are made available to commit criminal acts of terrorism or to support terrorist organizations. In case you notice any such activity, please report it using the helpline details.
-## Immigration
-At Infosys, we may be required to travel across the globe from time to time to support defined business requirements. During such travel, we are expected to ensure compliance with applicable requirements both under immigration laws as well as company policies. In case any clarification is required, please reach out to Global Immigration helpdesk at GI\_Helpdesk2@infosys.com.
-## C. PROTECTING COMPANY ASSETS
-## Company Confidential Information
-For the Company, its confidential information is a valuable asset and every director, employee and agent of the Company must protect it. Confidential information includes all non-public information. It also includes personal information (regardless of its source) that we obtain in the course of business. We must take care that all confidential information is used for Company business purposes only. Additionally, any personal information must be processed on instructions from the Company in accordance with laid out policies, procedures and guidelines and as per applicable privacy laws and regulations. Further, even when working remotely, employees must safeguard confidential information by preventing unauthorized access and using secure networks.
-Upon joining Infosys, all employees sign a Confidentiality and Nondisclosure Agreement which details their confidentiality obligations to the Company. As employees, we have access to significant amounts of company information that may not be available to the public, and we should preserve the confidentiality of information obtained in the Company's service.
-## Company Confidential Information
-Unless the Company has provided its specific consent, which should preferably be in writing, or there is a legal or professional right or duty to disclose, we are prohibited from disclosing confidential Company information. Confidential or proprietary information about clients, our organization, or other parties, which has been gained through employment or affiliation with Infosys, may not be used for personal advantage or for the benefit of third parties.
-Our Information Security Policy sets out the expectations on each of us to safeguard confidential information of Infosys and our third parties with the assurance of security, availability, integrity and confidentiality. The Acceptable Usage Policy provides the purposes for which Infosys IT resources may be legitimately used and highlights our cyber responsibilities which include keeping systems safe from inappropriate/unauthorized access and other cybersecurity breaches. These policies, together provide employees with the mandatory directive of safeguarding Infosys and client information.
-Our Infosys Privacy Policy and Binding Corporate Rules Policy set out the expectations on each of us to process personal information belonging to our employees, clients, agents, consultants, suppliers, and contractors in a manner so as to ensure compliance with all applicable privacy laws and regulations, including processing personal data across borders between group entities. Unless authorized and contractually agreed, we are committed to protect the confidentiality of such personal information while processing such personal information, implement adequate technical and organizational measures and employees are made aware of and required to comply with mandated processes under Privacy Policy and Binding Corporate Rules Policy for responsible use, disclosure, storage, retaining or any other processing of such personal information.
-Any incident involving personal data/information (actual or suspected) should be brought to the attention of Data Privacy Office by raising  a request on Report Data Privacy Incident/Breach - Infosys Data Privacy Portal or by writing to privacy@infosys.com. Any incident involving unauthorized access/ use of systems or information held therein (actual or suspected) including such incidents in remote settings should be reported to the Information Security Group by raising an IHD to the Information Security Group or via email at ICERT@infosys.com.
+Acceptance of gifts is not encouraged. Please refer to the Anti Bribery and Anti-Corruption Policy before accepting any gifts or entertainment. Reach out to OIC@infosys.com in case of any query.
+## Charitable Contributions
+Infosys believes that charitable contributions and donations are an integral part of its corporate social responsibility. Typical areas for granting support are education and research, social welfare, disaster relief and other similar social causes.
+-  Before making a charitable contribution on behalf of Infosys, we should keep in mind the following:
+-  The recipient is a registered, tax-paying, recognized organization.
+-  The contributions are permissible under applicable local laws.
+-  Contributions are made without demand or expectation of business return.
+-  Beneficiaries of such contributions should not be related to the directors or executive officers of Infosys.
+-  Contributions shall not be made in cash or to the private account of an individual.
+-  Any amounts contributed or donations made towards charitable causes shall be fairly and accurately reflected in Infosys' books of accounts.
+-  Contribution shall be in compliance with Anti-Bribery and Anti-Corruption Policy.
 
-## Improper Opportunities
-When we receive information as part of our job, we should not trade with it for our personal benefit. Neither should we pass on the information to our friends and family members or indirectly compete with the Company. Information obtained as part of our job should not be taken advantage of even after we leave the organization.
-## Company Intellectual Property
-The intellectual property (IP) of the Company must be protected as a vital business asset. Our IP portfolio includes copyrights, patents, trademarks, service marks, trade secrets, design rights, logos, brands and know-how. We must use our IP focusing on protecting these assets. It is important to ensure that to the extent permitted by law, the rights to all IP created using the Company's time and expense that which are within the scope of our duties are assigned to and are the property of the Company. We should promptly disclose any works, inventions or developments we create to obtain legal protection over them. Please contact the IP Cell at infyipteam@infosys.com if you have any questions.
-## Speaking to the Media
-Any inappropriate or inaccurate response, even a simple 'NO' or disclaimer of information, may result in adverse publicity and could otherwise gravely affect the Company's legal position.
-## Providing Information to the Media
-When we speak about the Company on a public forum, including social media, we must make it clear that we are expressing our personal views and not representing the Company. We should be mindful of our statements or posts as even when posting in a personal capacity, our posts may reflect on the Company, and our personal views can be mistaken for Company statements. This does not prohibit us from resharing articles, blog posts and other content related to Company achievements and initiatives.
-Our Chief Executive Officer, Chief Financial Officer and Investor Relations Department are the official Company spokespeople for financial matters. Further, all inquiries or calls from the press and financial analysts should be referred to the Corporate Communications team, which is authorized to handle exchanges with the media.  If you receive any enquiry about the Company or about any content posted on social media, please forward it to the team responsible for handling external queries by writing to pr\_india@infosys.com or pr\_global@infosys.com.
-For more information, you may read Infosys Code on Fair Disclosures and Investor Relations which establishes who in the Company may communicate information and Social Media Policy for guidance on social media usage.
-## Physical Access Control
-Infosys has developed procedures for physical access control to ensure privacy of communications, maintenance of the security of the Company communication equipment, and safeguard Company assets from theft, misuse and destruction. We are responsible for complying with the security policies in our location. We should not violate or bypass the security controls. For more details please read the Company's Information Security Policy.
-## Use of Company Assets
-The use of Infosys assets for individual profit or any unlawful, unauthorized personal or unethical purpose is prohibited. Our information technology, intellectual property (e.g., copyrights, patents, and trademarks), facilities, equipment, machines, software, and cash may be used for business purposes only, including responsible and accurate expense reimbursement, and in accordance with applicable policies. Other assets (e.g., computers, printers, and copiers) may be used for minor and incidental personal purposes provided such use is kept to a minimum, and does not create any significant incremental costs, interfere with work duties, or violate any laws or Infosys policies. The use of any Infosys resources for personal political activities is prohibited. Computer hardware, software, data, and facilities are valuable resources that need protection from potential destruction, theft, or misuse. These resources may also include confidential client or Infosys information that requires safeguarding. It is your responsibility to prevent unauthorized access through the use of ID badges, passwords, or other security codes, and physical security measures (such as using computer cable locks, not leaving computers unattended in cars, and other normal precautions), even when working in remote settings. Copyrighted materials (e.g., books, music, software, and magazines) should not be reproduced, distributed, or altered without permission of the copyright owner or an authorized agent. Software used in connection with the business of Infosys should be properly licensed and used only in accordance with that license. Using unlicensed software could constitute copyright infringement and may be grounds for disciplinary action. For more information, please read the Company's policies on use of Company assets. Expense Claims Each supervisor, manager, and individual employee has an obligation to each other and to the Company to comply with Infosys business expenses and reimbursement policies and practices. All business-related expense claims must be authorized by your manager before being incurred. Personal expenses will not be reimbursed by the Company. QUESTION I recently started working at Infosys. I previously worked for a competitor and just realized I may be involved in developing technology for Infosys that is very similar to what I developed for my prior employer. Should I inform my manager? RESPONSE Yes, immediately inform your supervisor that there may be a conflict with your obligations to a prior employer, but take care not to disclose any confidential information belonging to the prior employer in doing so. You should follow any obligation to your prior employer not to disclose or use their confidential technical information. Infosys expects you to honor your confidentiality obligations to your prior employer. When in doubt about the scope of obligations to a prior employer contact our IP Cell.
-## 37
-## Ethical Use of AI and Emerging Technologies
-We are required to develop and use AI in a responsible, ethical, and secure manner, in compliance with applicable laws and regulations. It is essential that we adhere to the Infosys AI Policy and all relevant client or vendor contractual requirements. Only approved AI tools are permitted. Confidential, client-related, personal or proprietary information must not be shared with public AI systems unless explicitly authorized. Any AI-generated content used in internal, client, or public deliverables must be transparently disclosed and reviewed for accuracy, bias, and policy compliance.
-We must ensure that we accurately represent both the benefits and potential harms of AI, both within our organization and externally. We must respect intellectual property, and remain accountable for all actions and decisions made with AI support. In case of questions please reach out to ResponsibleAI@infosys.com.
-## D.  COMMITTED TO OUR CUSTOMERS AND OUR SUPPLIERS
-To many people, we are the only 'Infosys' that they will ever meetas such we are a brand ambassador and a representative of the Company. For instance, if our job involves working with current or potential Company customers/suppliers, we must act in a manner that is representative of our C-LIFE values. The goodwill our Company enjoys is one of our most important assets, and we must preserve and enhance our reputation through our actions.
-## Fair Dealings
-We must deal fairly with the Company's customers, suppliers, partners, service providers, competitors and anyone else with whom we interact while at work. We should not take unfair advantage of anyone through manipulation, concealment, abuse of privileged information, misrepresentation of facts or any other unfair dealing practice.
-## Confidential Information of Clients and Third Parties
-The Confidentiality and Nondisclosure Agreement we sign when we join the Company details our confidentiality obligations to the Company and its clients. We have access to significant amounts of client information that may not be available to the public, and we are required to preserve the confidentiality of information obtained in client service. Information of a confidential, private and sensitive nature must be used responsibly and controlled and protected to prevent its prohibited, arbitrary or careless disclosure. Unless the client has provided its specific consent, which should preferably be in writing, or there is a legal or professional right or duty to process or disclose, we are prohibited from processing or disclosing confidential client information.
-Confidential or proprietary information including personal information about clients, our organization, or other parties, which has been gained through employment or affiliation with Infosys, may not be used for personal advantage or for the benefit of third parties. We are committed to protect the confidentiality of processing such personal information by implementing adequate technical and organizational measures, and all employees, agents, consultants, suppliers, contractors, are made aware of their responsibility to use, or process personal information, unless authorized by law and/or contractually agreed.
-## Free and Fair Competition
-At Infosys, we believe that a free and fair market benefits all of us and ensures that our clients receive the best quality products and services at the best prices. Most countries we operate in have laws to encourage and protect free and fair market competition by regulating anti-competitive conduct, including unfair acts by market leaders. These laws regulate our relationships with our customers, competitors, distributors and resellers.
-## What do we need to know? What is regulated? How do we comply?
--  Anti-trust laws generally address the following areas: Unfair pricing practices (such as price discrimination, price fixing), secret rebates, entry barriers through exclusive dealerships or distributorships which are questionable, restrictions on carrying competing products and other practices. If you come across any such questionable practices in the course of your work, for instance, while bidding for services, please contact the Helpline.
--  We should not engage in any commercially motivated understanding (written or oral, expressed or implied) to undermine the fair market competition.
--  We should not knowingly make false or misleading statements regarding our competitors or the products and services of our competitors, customers or suppliers.
--  Collusion among competitors is illegal. Our communications with competitors should always avoid subjects such as prices or other terms and conditions of sale, customers and suppliers. We should not enter into an agreement or understanding, written or oral, express or implied, with any competitor on these subjects.
+We have a strict diligence process for charitable contributions. Reach out to the Office of Integrity &amp; Compliance by writing to OIC@infosys.com to understand the diligence we need to follow.
+## Transacting with Third Parties
+We try, to the extent reasonably practicable, to directly interact with government officials. However, if third party is required to interface with government authorities on behalf of Infosys, we should verify the credentials and reputation of such a third party prior to any engagement with them and ensure that a formal contract is executed, including appropriate provisions requiring the third party to comply with applicable anti-corruption and local laws. Engagement of third party shall be in line with legal requirements, internal processes &amp; guidelines. A copy of the Supplier Code of Conduct must be provided to such third party.
+Keep in mind that the Company and individual directors, officers or employees may be liable for a payment made by a third party agent, if the Company makes a payment or transfers other value to that third party agent knowing that it will be given to a government official.
+We ensure that the fee, commission or other remuneration paid to intermediaries or third party agents is reasonable, bona fide and commensurate with the functions and services performed. We should keep track of such expenses so that they are fairly and accurately reflected in Infosys' books of accounts.
+## Red Flags While Transacting with Third Parties
+-  Background check reveals a flawed background or reputation.
+-  Transaction involves a country known for corrupt payments. Refer to Transparency International's list for this (www.transparency.org).
+-  Agent suggested by a government official.
+-  Agent objects to anti-corruption compliance requirements.
+-  Agent has a personal or business relationship with a government official.
+-  Unusual contract terms or payment arrangements such as payment in cash, payment in another country's currency or payment to a financial institution outside the country where the contract is performed.
+-  Requests that identity of the agent be kept confidential.
+-  Commission exceeds the 'going rate' or must be paid in cash.
+-  Indication that 'facilitation payments are required' to 'get the business moving'.
+-  Request false invoices or any other type of false documentation.
+-  Payment in a third country or in another party's name.
 
-For more information, please refer Anti-Trust Policy.
 ## QUESTION
-My department is in the process of choosing a vendor. One of my employees recommended a company owned by his sister. I have heard good things about this company from other sources. Can I consider this company even though one of my employees is related to the owner?
+I have some shares of Infosys as part of my portfolio. I need to sell them as I am in need of money. How do I proceed?
 ## RESPONSE
-This employee can compete for the work, but the employee who is related to the owner cannot be involved in decisions about choosing the vendor. Nor can the employee be involved in managing the vendor, if chosen. Your employee should also understand that he cannot provide any confidential Infosys information or other advantage to his sister that would help her company be selected. Also, you should consult your manager about any actual or apparent conflicts of interest under the circumstances, particularly where family members are involved.
+Read the Company's Insider Trading Policy. You should follow the pre-clearance procedures for trading and trade only when the trading window is open.
+## Trading in Company Shares
+Infosys is a publicly listed company. This means that the securities (which includes Shares and American Depository Receipts) of Infosys may be traded by the public. The price of our securities may fluctuate on the basis of publicly available information about the Company's activities.
+Unpublished Price Sensitive Information (UPSI), also known as material nonpublic information is information about a company that (i) is not in the public domain, and (ii) that an investor would find useful to decide whether to trade in the Company's securities. This could include information about financial results, dividends, change in capital structure, mergers, de-mergers, acquisition, delisting, disposal and expansion of business or changes in key managerial personnel. The list of UPSI is not exhaustive. If someone is aware of any UPSI of the Company and uses such information to buy or sell the Company's securities before such information is made public, they may be subject to penalties under insider trading laws.
+## How is this relevant to me?
+In the course of our everyday work, as an employee, a consultant or a vendor, we may have access to UPSI. Under applicable securities laws, it is unlawful for a person who has such information to trade in the securities of the Company or to disclose such information to others who may trade. This activity is commonly referred to as 'insider trading'. Insider trading may lead to imprisonment, fines and insider traders may even be subject to private lawsuits.
+## Trading in Company Shares
+## So, what does this mean?
+-  Take care that we do not disclose UPSI to anyone outside the Company, including family and friends.
+-  Ensure that we do not trade in the securities of Infosys or any company involved with Infosys while we have UPSI. Additionally, the Company imposes a trading blackout period each quarter, during such period designated persons as per Infosys Internal Code of Conduct of Prohibition of Insider Trading are not to trade in Company securities.
+
+For more details, read the Company's Insider Trading Policy. All questions regarding the Company's Insider Trading Policy should be directed to InsiderTrading@infosys.com.
+## Prohibition Against Short Selling of Company Securities
+No Company director, officer, employee or third party agent may, directly or indirectly, sell any equity security, including derivatives, of the Company if he or she (1) does not own the security sold, or (2) if he or she owns the security, does not deliver it against such sale (a 'short sale') within the applicable settlement cycle.
+## QUESTION
+My spouse is starting a company. To fulfil regulatory requirements, I need to be appointed as a director on the company. I will also be a majority shareholder in the company which is in the business of online food delivery. Is there a problem if I do this?
+## RESPONSE
+From the facts, it does not appear that your spouse's start-up is in the same business as Infosys. Remember that you may not use Infosys time, property, or other resources to help your spouse. Good luck!
+## Understanding Regulated Trade Restrictions
+## Export Control and Import Regulations
+Many countries maintain controls on where items or data may be exported to -these are called 'export controls'. Under these laws, an 'export' occurs when a product, service, software, technical knowledge is transferred to another country or to any foreign citizen or representative of another country, regardless of where that person is located. Exports can also occur when a foreign citizen is given access to controlled information or software through a network, visual inspection, or telephone conversation. Infoscions may be exposed to export controlled items or data while developing software, working with clients, or reselling third party products.
+Some of the strictest export controls are maintained by the United States. For example, U.S. export regulations apply both to exports from the U.S. and to exports from other countries, when those products contain U.S.- origin components or technology. Other countries, including in Europe, also have strict export control regulations.
+## What do we need to do?
+-  Early on in any customer engagement, we should carefully consider the obligations of the Company and the customer with respect to export controls.
+-  While we should familiarize ourselves with Infosys' export control policies, we should understand that the export rules are complex, and enlist the assistance of the Office of Integrity &amp; Compliance at an early stage by writing to OIC@infosys.com.
+
+Infosys is engaged in import of software and other intangible assets. Several laws and legal requirements are applicable on imports. You should ensure to comply with all import laws, regulations and requirements when transferring goods and controlled software across borders.
+## Export Control Regulations
+Even if duplicated and packaged abroad, software created in the United States may be subject to these regulations. In some circumstances, an oral presentation containing technical data made to foreign nationals in the United States may constitute a controlled export.
+## Understanding Regulated Trade Restrictions
+## Anti-Boycott Laws
+In the course of our work, we may receive requests for Infosys to boycott certain countries, companies or other entities. Boycott activity can take the form of refusals to do business with certain groups or requests for information about boycotted entities. We should not cooperate with any boycott that is not initiated by the U.S. or Indian governments. This may be considered as an illegal foreign boycott. Be alert to these situations, as these requests may be contained as part of larger documents such as master service agreements, invoices or statements of work. Please contact the Office of Integrity and Compliance at OIC@infosys.com if you have questions.

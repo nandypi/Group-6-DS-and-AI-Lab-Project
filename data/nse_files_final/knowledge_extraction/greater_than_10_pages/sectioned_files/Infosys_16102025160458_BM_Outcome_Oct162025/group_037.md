@@ -4,9 +4,9 @@ group_id: "Infosys_16102025160458_BM_Outcome_Oct162025__group_037"
 source_section_count: 1
 page_start: 167
 page_end: 174
-estimated_tokens: 7879
+estimated_tokens: 7370
 source_section_ids:
-  - "Infosys_16102025160458_BM_Outcome_Oct162025__071"
+  - "Infosys_16102025160458_BM_Outcome_Oct162025__071__part_001"
 ---
 
 # The estimated useful life is around 1 year to 7 years
@@ -233,31 +233,3 @@ Note: Certain quoted investments are classified as Level 2 in the absence of act
 | Loans to employees                    | 243                  | 249              |
 | Total current loans                   | 243                  | 249              |
 | Total loans                           | 252                  | 265              |
-
-## 2.6 OTHER FINANCIAL ASSETS
-|                                                                                                                       | (In ₹ crore)       | (In ₹ crore)   |
-|-----------------------------------------------------------------------------------------------------------------------|--------------------|----------------|
-| Particulars                                                                                                           | As at              | As at          |
-|                                                                                                                       | September 30, 2025 | March 31, 2025 |
-| Non Current                                                                                                           |                    |                |
-| Security deposits (1)                                                                                                 | 275                | 273            |
-| Unbilled revenues (1)#                                                                                                | 2,115              | 2,031          |
-| Restricted deposits (1)*                                                                                              | 151                | 82             |
-| Net investment in lease (1)                                                                                           | 1,201              | 1,106          |
-| Others (1)                                                                                                            | 27                 | 19             |
-| Total non-current other financial assets                                                                              | 3,769              | 3,511          |
-| Current                                                                                                               |                    |                |
-| Security deposits (1)                                                                                                 | 65                 | 65             |
-| Restricted deposits (1)*                                                                                              | 3,170              | 2,949          |
-| Unbilled revenues (1)#                                                                                                | 9,079              | 8,183          |
-| Interest accrued but not due (1)                                                                                      | 661                | 842            |
-| Foreign currency forward and options contracts (2) (3)                                                                | 36                 | 192            |
-| Net investment in lease (1)                                                                                           | 1,408              | 1,139          |
-| Others (1)                                                                                                            | 508                | 470            |
-| Total current other financial assets                                                                                  | 14,927             | 13,840         |
-| Total other financial assets                                                                                          | 18,696             | 17,351         |
-| (1) Financial assets carried at amortized cost (2) Financial assets carried at fair value through other comprehensive | 18,660             | 17,159         |
-| income                                                                                                                | 24                 | 28             |
-| (3) Financial assets carried at fair value through profit or loss                                                     | 12                 | 164            |
-
-* Restricted deposits represent deposits with financial institutions to settle employee related obligations as and when they arise during the normal course of business.

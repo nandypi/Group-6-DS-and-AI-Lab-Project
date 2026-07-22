@@ -4,9 +4,9 @@ group_id: "Infosys_01072025210240_Form20F_July012025_1__1___group_034"
 source_section_count: 1
 page_start: 206
 page_end: 214
-estimated_tokens: 7944
+estimated_tokens: 7659
 source_section_ids:
-  - "Infosys_01072025210240_Form20F_July012025_1__1___066"
+  - "Infosys_01072025210240_Form20F_July012025_1__1___066__part_001"
 ---
 
 ## 2.14.1 Gratuity and Pensions
@@ -117,14 +117,3 @@ These defined benefit plans expose the Group to actuarial risk which are set out
 |--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Life expectancy and investment risk: | The pension fund offers the choice between a lifelong pension and a cash lump sum upon retirement. The pension fund has defined rates for converting the lump sum to a pension and there is the risk that the members live longer than implied by these conversion rates and that the pension assets don't achieve the investment return implied by these conversion rates.                                                                            |
 | Asset volatility:                    | A proportion of the pension fund is held in equities, which is expected to outperform corporate bonds in the long term but give exposure to volatility and risk in the short term. The pension fund board of insurer is responsible for the investment strategy and equity allocation is justified given the long-term investment horizon of the pension fund and the objective to provide a reasonable long term return on members' account balances. |
-
-Sensitivity of significant assumptions used for valuation of defined benefit obligation:
-|                                                          | (Dollars in millions)                 | (Dollars in millions)                  |
-|----------------------------------------------------------|---------------------------------------|----------------------------------------|
-|                                                          | Gratuity 1% point increase / decrease | Pension 0.5% point increase / decrease |
-| Discount rate                                            | 16                                    | 6                                      |
-| Weighted average rate of increase in compensation levels | 16                                    | 1                                      |
-
-Sensitivity to significant actuarial assumptions is computed by varying one actuarial assumption used for the valuation of the defined benefit obligation and keeping all other actuarial assumptions constant. In practice, this is not probable, and changes in some of the assumptions may be correlated.
-The Group expects to contribute $43 million to the gratuity and $5 million to pension during fiscal 2026.
-Maturity profile of defined benefit obligation:

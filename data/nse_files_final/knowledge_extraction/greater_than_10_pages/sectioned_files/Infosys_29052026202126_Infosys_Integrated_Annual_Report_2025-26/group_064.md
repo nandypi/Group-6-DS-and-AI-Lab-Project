@@ -1,188 +1,326 @@
 ---
 document_name: "Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26.md"
 group_id: "Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26__group_064"
-source_section_count: 2
-page_start: 298
-page_end: 305
-estimated_tokens: 5245
+source_section_count: 1
+page_start: 290
+page_end: 298
+estimated_tokens: 7573
 source_section_ids:
-  - "Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26__114"
-  - "Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26__115"
+  - "Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26__113"
 ---
 
-# Classified as financial asset as right to consideration is unconditional and is due only after a passage of time
-## 2.8 Trade receivables
-| Particulars                                    | As at March 31,   | As at March 31,   |
-|------------------------------------------------|-------------------|-------------------|
-|                                                | 2026              | 2025              |
-| Current                                        |                   |                   |
-| Trade receivable considered good - Unsecured   | 35,772            | 31,670            |
-| Less: Allowance for expected credit loss       | 538               | 512               |
-| Trade receivable considered good - Unsecured   | 35,234            | 31,158            |
-| Trade receivable - credit impaired - Unsecured | 123               | 206               |
-| Less: Allowance for credit impairment          | 123               | 206               |
-| Trade receivable - credit impaired - Unsecured | -                 | -                 |
-| Total trade receivables                        | 35,234            | 31,158            |
+# Proceeds from sale of property, plant and equipment amounted to ` 171 crore for the year ended March 31, 2025.
+(1) Buildings include ` 250/- being the value of five shares of ` 50/- each in Mittal Towers Premises Co-operative Society Limited.
+The aggregate depreciation has been included under depreciation and amortization expense in the Consolidated Statement of Profit and Loss.
+Repairs and maintenance costs are recognized in the Consolidated Statement of Profit and Loss when incurred.
+Consequent to the Companies (Corporate Social Responsibility Policy) Amendment Rules, 2021 ('the Rules'), the Company was required to transfer its CSR capital assets installed prior to January 2021. Towards this the Company had incorporated a subsidiary 'Infosys Green Forum' (IGF) under Section 8 of
+## 2.3 Capital work-in-progress (CWIP)
+The changes in capital work-in-progress for the year ended March 31, 2026 and March 31, 2025 are as follows:
+| Particulars                 | As at March 31,   | As at March 31,   |
+|-----------------------------|-------------------|-------------------|
+|                             | 2026              | 2025              |
+| Balance at the beginning    | 814               | 293               |
+| Additions during the year   | 2,612             | 2,316             |
+| Capitalized during the year | (2,904)           | (1,796)           |
+| Translation difference      | 4                 | 1                 |
+| Balance at the end          | 526               | 814               |
 
+the Companies Act, 2013. During the year ended March 31, 2022, the Company had completed the transfer of assets upon obtaining the required approvals from regulatory authorities, as applicable. During fiscal 2024, the application filed by IGF for regularization of the provisional registration was rejected and registration cancelled vide order dated March 26, 2024 by the Income Tax Commissioner (Exemption). IGF had filed an appeal before Income Tax Appellate Tribunal (ITAT) against the order. During fiscal 2026, ITAT had upheld the order of Commissioner (Exemption) and dismissed the IGF's appeals. IGF has filed an appeal before the Hon'ble High Court against the ITAT order.
+Capital work-in-progress ageing schedule for the year ended March 31, 2026 and March 31, 2025 is as follows:
+|                                |                                |                                |                                |                                | (In ` crore)                   |
+|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|
+| Particulars                    | Amount in CWIP for a period of | Amount in CWIP for a period of | Amount in CWIP for a period of | Amount in CWIP for a period of | Amount in CWIP for a period of |
+|                                | Less than 1 year               | 1-2 years                      | 2-3 years                      | More than 3 years              | Total                          |
+| Projects in progress           | 349                            | 166                            | 10                             | 1                              | 526                            |
+|                                | 576                            | 204                            | 22                             | 12                             | 814                            |
+| Total capital work-in-progress | 349                            | 166                            | 10                             | 1                              | 526                            |
+|                                | 576                            | 204                            | 22                             | 12                             | 814                            |
+
+For capital-work-in progress, whose completion is overdue or has exceeded its cost compared to its original plan, the project-wise details of when the project is expected to be completed is given below as of March 31, 2026 and March 31, 2025 are as follows:
 (In ` crore)
-The trade receivables ageing schedule for the year ended as on March 31, 2026 and March 31, 2025 is as follows:
+|                                | Less than 1 year   | 1-2 years   | 2-3 years   | More than 3 years   | Total   |
+|--------------------------------|--------------------|-------------|-------------|---------------------|---------|
+| Projects in progress           |                    |             |             |                     |         |
+| BN-SP-SDB                      | 114                | -           | -           | -                   | 114     |
+| NO-SZ-SDB                      | 256                | -           | -           | -                   | 256     |
+| Total capital work-in-progress | 114                | -           | -           | -                   | 114     |
+|                                | 256                | -           | -           | -                   | 256     |
+
+* There are no subsidiaries in the Group having more than 10% of the total capital work in progress. Project execution plans are formulated based on capacity requirement assessments, and projects are executed accordingly.
+
+## 2.4 Goodwill and other intangible assets
+## 2.4.1 Goodwill
+## Accounting policy
+Goodwill represents the purchase consideration in excess of the Group's interest in the net fair value of identifiable assets, liabilities and contingent liabilities of the acquired entity. When the net fair value of the identifiable assets, liabilities and contingent liabilities acquired exceeds purchase consideration, the fair value of net assets acquired is reassessed and the bargain purchase gain is recognized in capital reserve. Goodwill is measured at cost less accumulated impairment losses.
+## Impairment
+Goodwill is tested for impairment on an annual basis and whenever there is an indication that the recoverable amount of a Cash Generating Unit (CGU) is less than its carrying amount. For the impairment test, goodwill is allocated to the CGU or groups of CGUs which benefit from the synergies of the acquisition and which represents the lowest level at which goodwill is monitored for internal management purposes. A CGU is the smallest identifiable group of assets that generates cash inflows that are largely independent of the cash inflows from other assets or group of assets. Impairment occurs when the carrying amount of a CGU including the goodwill, exceeds the estimated recoverable amount of the CGU. The recoverable amount of a CGU is the higher of its fair value less cost to sell and its value-in-use. Value-in-use is the present value of future cash flows expected to be derived from the CGU. Key assumptions in the cash flow projections are prepared based on current economic conditions and includes estimated long term growth rates, weighted average cost of capital and estimated operating margins.
+A summary of changes in the carrying amount of goodwill is as follows:
+|                                              | (In ` crore)    | (In ` crore)    |
+|----------------------------------------------|-----------------|-----------------|
+| Particulars                                  | As at March 31, | As at March 31, |
+|                                              | 2026            | 2025            |
+| Carrying value at the beginning              | 10,106          | 7,303           |
+| Goodwill on acquisitions (Refer to Note 2.1) | 444             | 2,593           |
+| Translation differences                      | 1,567           | 210             |
+| Carrying value at the end                    | 12,117          | 10,106          |
+
+For the purpose of impairment testing, goodwill acquired in a business combination is allocated to the CGU or groups of CGUs, which benefit from the synergies of the acquisition. The Group internally reviews the goodwill for impairment at the operating segment level, after allocation of the goodwill to CGUs or groups of CGUs.
+The allocation of goodwill to operating segments as at March 31, 2026 and March 31, 2025 is as follows:
+|                                                 | (In ` crore)    | (In ` crore)    |
+|-------------------------------------------------|-----------------|-----------------|
+| Segment                                         | As at March 31, | As at March 31, |
+|                                                 | 2026            | 2025            |
+| Financial services                              | 1,842           | 1,510           |
+| Retail                                          | 1,123           | 961             |
+| Communication                                   | 813             | 691             |
+| Energy, Utilities, Resources and Services       | 1,763           | 1,337           |
+| Manufacturing                                   | 3,523           | 2,986           |
+| Life Sciences                                   | 1,155           | 975             |
+|                                                 | 10,219          | 8,460           |
+| Operating segments without significant goodwill | 785             | 650             |
+| Total                                           | 11,004          | 9,110           |
+
+The goodwill pertaining to Panaya amounting to ` 1,113 crore and ` 996 crore as at March 31, 2026 and March 31, 2025, respectively is tested for impairment at the entity level.
+The recoverable amount of a CGU is the higher of its fair value less cost to sell and its value-in-use. The fair value of a CGU is determined based on the market capitalization. Value-in-use is determined based on discounted future cash flows. The key assumptions used for the calculations are as follows:
+|                       |                 | (In %)          |
+|-----------------------|-----------------|-----------------|
+| Particulars           | As at March 31, | As at March 31, |
+|                       | 2026            | 2025            |
+| Long-term growth rate | 7-10            | 7-10            |
+| Operating margins     | 19-21           | 19-21           |
+| Discount rate         | 14              | 13              |
+
+The above discount rate is based on the Weighted Average Cost of Capital (WACC) of the Company. As at March 31, 2026, the estimated recoverable amount of the CGU exceeded its carrying amount. Reasonable sensitivities in key assumptions is unlikely to cause the carrying amount to exceed the recoverable amount of the CGUs.
+## 2.4.2 Other intangible assets
+## Accounting policy
+Intangible assets are stated at cost less accumulated amortization and impairment. Intangible assets are amortized over their respective individual estimated useful lives on a straightline basis, from the date that they are available for use. The estimated useful life of an identifiable intangible asset is based on a number of factors including the effects of obsolescence, demand, competition, and other economic factors (such as the stability of the industry, and known technological advances) and the level of maintenance expenditures required to obtain the expected future cash flows from the asset. Amortization methods and useful lives are reviewed periodically including at each financial year end.
+Research costs are expensed as incurred. Software product development costs are expensed as incurred unless technical and commercial feasibility of the project is demonstrated, future economic benefits are probable, the Group has an intention and ability to complete and use or sell the software and the costs can be measured reliably. The costs which can be capitalized include the cost of material, direct labor, overhead costs that are directly attributable to prepare the asset for its intended use.
+## Impairment
+Intangible assets are evaluated for recoverability whenever events or changes in circumstances indicate that their carrying amounts may not be recoverable. For the purpose of impairment testing, the recoverable amount (i.e. the higher of the fair value less cost to sell and the value-in-use) is determined on an individual asset basis unless the asset does not generate cash flows that are largely independent of those from other assets. In such cases, the recoverable amount is determined for the CGU to which the asset belongs.
+If such assets are considered to be impaired, the impairment to be recognized in the Consolidated Statement of Profit and Loss is measured by the amount by which the carrying value of the assets exceeds the estimated recoverable amount of the asset. An impairment loss is reversed in the Consolidated Statement of Profit and Loss if there has been a change in the estimates used to determine the recoverable amount. The carrying amount of the asset is increased to its revised recoverable amount, provided that this amount does not exceed the carrying amount that would have been determined (net of any accumulated amortization) had no impairment loss been recognized for the asset in prior years.
+The changes in the carrying value of acquired intangible assets for the year ended March 31, 2026 are as follows :
+| Particulars                                                  | Customer- related   | Software- related   | Intellectual property rights- related   | Brand or trademark- related   | Others*   | (In ` crore) Total   |
+|--------------------------------------------------------------|---------------------|---------------------|-----------------------------------------|-------------------------------|-----------|----------------------|
+| Gross carrying value as at April 1, 2025                     | 4,383               | 1,280               | 1                                       | 519                           | 801       | 6,984                |
+| Additions                                                    | -                   | 184                 | -                                       | -                             | -         | 184                  |
+| Acquisition through business combination (Refer to Note 2.1) | 222                 | -                   | -                                       | 20                            | 55        | 297                  |
+| Deletions                                                    | -                   | (3)                 | -                                       | -                             | -         | (3)                  |
+| Translation difference                                       | 730                 | 181                 | -                                       | 72                            | 105       | 1,088                |
+| Gross carrying value as at March 31, 2026                    | 5,335               | 1,642               | 1                                       | 611                           | 961       | 8,550                |
+| Accumulated amortization as at April 1, 2025                 | (2,377)             | (869)               | (1)                                     | (291)                         | (680)     | (4,218)              |
+| Amortization expense #                                       | (644)               | (121)               | -                                       | (65)                          | (79)      | (909)                |
+| Deletions                                                    | -                   | 3                   | -                                       | -                             | -         | 3                    |
+| Translation differences                                      | (371)               | (106)               | -                                       | (38)                          | (86)      | (601)                |
+| Accumulated amortization as at March 31, 2026                | (3,392)             | (1,093)             | (1)                                     | (394)                         | (845)     | (5,725)              |
+| Carrying value as at April 1, 2025                           | 2,006               | 411                 | -                                       | 228                           | 121       | 2,766                |
+| Carrying value as at March 31, 2026                          | 1,943               | 549                 | -                                       | 217                           | 116       | 2,825                |
+| Estimated Useful Life (in years)                             | 1-15                | 3-10                | -                                       | 3-10                          | 3-7       |                      |
+| Estimated Remaining Useful Life (in years)                   | 1-9                 | 1-4                 | -                                       | 1-5                           | 1-2       |                      |
+
+- # During the year ended March 31, 2026, a decline in the revenue estimates led to the carrying value of the customer-related intangibles assets recognized on business combination exceeding the estimated recoverable amount. Consequently, the Company has recognized ` 241 crore as the excess of carrying value over the estimated recoverable value for the year ended March 31, 2026.
+
+The changes in the carrying value of acquired intangible assets for the year ended March 31, 2025 were as follows :
+| Particulars                                                  | Customer- related   | Software- related   | Intellectual property rights- related   | Brand or trademark- related   | Others *   | (In ` crore) Total   |
+|--------------------------------------------------------------|---------------------|---------------------|-----------------------------------------|-------------------------------|------------|----------------------|
+| Gross carrying value as at April 1, 2024                     | 2,512               | 1,110               | 1                                       | 349                           | 782        | 4,754                |
+| Additions                                                    | -                   | 143                 | -                                       | -                             | -          | 143                  |
+| Acquisition through business combination (Refer to Note 2.1) | 1,780               | -                   | -                                       | 160                           | -          | 1,940                |
+| Deletions                                                    | -                   | -                   | -                                       | -                             | -          | -                    |
+| Translation difference                                       | 91                  | 27                  | -                                       | 10                            | 19         | 147                  |
+| Gross carrying value as at March 31, 2025                    | 4,383               | 1,280               | 1                                       | 519                           | 801        | 6,984                |
+| Accumulated amortization as at April 1, 2024                 | (1,800)             | (765)               | (1)                                     | (235)                         | (556)      | (3,357)              |
+| Amortization expense #                                       | (530)               | (87)                | -                                       | (50)                          | (110)      | (777)                |
+| Deletions                                                    | -                   | -                   | -                                       | -                             | -          | -                    |
+| Translation differences                                      | (47)                | (17)                | -                                       | (6)                           | (14)       | (84)                 |
+| Accumulated amortization as at March 31, 2025                | (2,377)             | (869)               | (1)                                     | (291)                         | (680)      | (4,218)              |
+| Carrying value as at April 1, 2024                           | 712                 | 345                 | -                                       | 114                           | 226        | 1,397                |
+| Carrying value as at March 31, 2025                          | 2,006               | 411                 | -                                       | 228                           | 121        | 2,766                |
+| Estimated Useful Life (in years)                             | 1-15                | 3-10                | -                                       | 3-10                          | 3-7        |                      |
+| Estimated Remaining Useful Life (in years)                   | 1-9                 | 1-4                 | -                                       | 1-6                           | 1-3        |                      |
+
+Research and Development (R&amp;D) expenditure
+Research and Development expense recognized in the Consolidated Statement of Profit and Loss for the year ended March 31, 2026 and March 31, 2025 are ` 1,832 crore and ` 1,296 crore, respectively.
+## 2.5 Investments
+|                                                                      | (In ` crore)    | (In ` crore)    |
+|----------------------------------------------------------------------|-----------------|-----------------|
+| Particulars                                                          | As at March 31, | As at March 31, |
+|                                                                      | 2026            | 2025            |
+| Non-current investments                                              |                 |                 |
+| Unquoted                                                             |                 |                 |
+| Investments carried at fair value through other comprehensive income |                 |                 |
+| Preference securities                                                | 628             | 167             |
+| Equity instruments                                                   | 2               | 2               |
+|                                                                      | 630             | 169             |
+| Investments carried at fair value through profit or loss             |                 |                 |
+| Target maturity fund units                                           | -               | 465             |
+| Equity and preference securities                                     | 52              | 25              |
+| Others (1)                                                           | 263             | 196             |
+|                                                                      | 315             | 686             |
+| Quoted                                                               |                 |                 |
+| Investments carried at amortized cost                                |                 |                 |
+| Government bonds                                                     | 24              | 16              |
+| Tax-free bonds                                                       | 407             | 1,465           |
+|                                                                      | 431             | 1,481           |
+| Investments carried at fair value through other comprehensive income |                 |                 |
+| Non-convertible debentures                                           | 3,278           | 3,320           |
+| Equity securities                                                    | 61              | 57              |
+| Government securities                                                | 4,215           | 5,346           |
+|                                                                      | 7,554           | 8,723           |
+| Total non-current investments                                        | 8,930           | 11,059          |
+| Current investments                                                  |                 |                 |
+| Unquoted                                                             |                 |                 |
+| Investments carried at fair value through profit or loss             |                 |                 |
+| Mutual fund units                                                    | 2,383           | 1,957           |
+|                                                                      | 2,383           | 1,957           |
+| Investments carried at fair value through other comprehensive income |                 |                 |
+| Commercial paper                                                     | 1,205           | 3,641           |
+| Certificates of deposit                                              | 8,008           | 3,504           |
+|                                                                      | 9,213           | 7,145           |
+| Quoted                                                               |                 |                 |
+| Investments carried at amortized cost                                |                 |                 |
+| Government bonds                                                     | 100             | 15              |
+| Tax-free bonds                                                       | -               | 154             |
+|                                                                      | 100             | 169             |
+| Investments carried at fair value through other comprehensive income |                 |                 |
+| Non-convertible debentures                                           | 911             | 1,549           |
+| Government securities                                                | 343             | 1,662           |
+|                                                                      | 1,254           | 3,211           |
+| Total current investments                                            | 12,950          | 12,482          |
+| Total investments                                                    | 21,880          | 23,541          |
+
+| Particulars                                                                  | As at March 31,   | As at March 31,   |
+|------------------------------------------------------------------------------|-------------------|-------------------|
+|                                                                              | 2026              | 2025              |
+| Aggregate amount of quoted investments                                       | 9,339             | 13,584            |
+| Market value of quoted investments (including interest accrued), current     | 1,356             | 3,369             |
+| Market value of quoted investments (including interest accrued), non current | 8,009             | 10,392            |
+| Aggregate amount of unquoted investments                                     | 12,541            | 9,957             |
+| Investments carried at amortized cost                                        | 531               | 1,650             |
+| Investments carried at fair value through other comprehensive income         | 18,651            | 19,248            |
+| Investments carried at fair value through profit or loss                     | 2,698             | 2,643             |
+
+Refer to Note 2.11 for Accounting policies on Financial Instruments.
+Details of amounts recorded in Other comprehensive income :
 (In ` crore)
-| Particulars                                     | As at March 31,   | As at March 31,   |
-|-------------------------------------------------|-------------------|-------------------|
-|                                                 | 2026              | 2025              |
-| Balances with banks                             |                   |                   |
-| In current and deposit accounts                 | 22,201            | 24,455            |
-| Cash on hand                                    | -                 | -                 |
-| Total cash and cash equivalents                 | 22,201            | 24,455            |
-| Balances with banks in unpaid dividend accounts | 45                | 45                |
-| Deposit with more than 12 months maturity       | 125               | 75                |
+| Particulars                      | Year ended March 31, 2026   | Year ended March 31, 2026   | Year ended March 31, 2026   | Year ended March 31, 2025   | Year ended March 31, 2025   | Year ended March 31, 2025   |
+|----------------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
+|                                  | Gross                       | Tax                         | Net                         | Gross                       | Tax                         | Net                         |
+| Net gain / (loss) on             |                             |                             |                             |                             |                             |                             |
+| Non-convertible debentures       | (14)                        | 2                           | (12)                        | 54                          | (6)                         | 48                          |
+| Commercial paper                 | (7)                         | 2                           | (5)                         | 3                           | (1)                         | 2                           |
+| Certificates of deposit          | (19)                        | 4                           | (15)                        | 3                           | (1)                         | 2                           |
+| Government securities            | 6                           | (1)                         | 5                           | 162                         | (15)                        | 147                         |
+| Equity and preference securities | 464                         | (67)                        | 397                         | 20                          | (1)                         | 19                          |
 
-Cash and cash equivalents as at March 31, 2026 and March 31, 2025 include restricted cash and bank balances of ` 422 crore and ` 424 crore, respectively. The restrictions are primarily on account of bank balances held by irrevocable trusts controlled by the Company.
-The deposits maintained by the Group with banks and financial institutions comprise of time deposits, which can be withdrawn by the Group at any point without prior notice or penalty on the principal.
-## 2.10 Other assets
+## Method of fair valuation:
+| Class of investment                                                                                  | Method                                                                      | Fair value as at March 31, 2026   | 2025   |
+|------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------|--------|
+| Mutual fund units - carried at fair value through profit or loss                                     | Quoted price                                                                | 2,383                             | 1,957  |
+| Target maturity fund units - carried at fair value through profit or loss                            | Quoted price                                                                | -                                 | 465    |
+| Tax-free bonds and government bonds - carried at amortized cost                                      | Quoted price and market observable inputs                                   | 552                               | 1,812  |
+| Non-convertible debentures - carried at fair value through other comprehensive income                | Quoted price and market observable inputs                                   | 4,189                             | 4,869  |
+| Government securities - carried at fair value through other comprehensive income                     | Quoted price and market observable inputs                                   | 4,558                             | 7,008  |
+| Commercial papers - carried at fair value through other comprehensive income                         | Market observable inputs                                                    | 1,205                             | 3,641  |
+| Certificates of deposit - carried at fair value through other comprehensive income                   | Market observable inputs                                                    | 8,008                             | 3,504  |
+| Quoted equity securities - carried at fair value through other comprehensive income                  | Quoted price                                                                | 61                                | 57     |
+| Unquoted equity and preference securities - carried at fair value through profit or loss             | Discounted cash flows method, Market multiples method, Option pricing model | 52                                | 25     |
+| Unquoted equity and preference securities - carried at fair value through other comprehensive income | Discounted cash flows method, Market multiples method, Option pricing model | 630                               | 169    |
+| Others - carried at fair value through profit or loss                                                | Discounted cash flows method, Market multiples method, Option pricing model | 263                               | 196    |
+| Total                                                                                                |                                                                             | 21,901                            | 23,703 |
+
+Note: Certain quoted investments are classified as Level 2 in the absence of active market for such investments.
+## 2.5.1 Details of investments
+The details of investments in preference, equity and other instruments at March 31, 2026 and March 31, 2025 are as follows:
+(In ` crore, except otherwise stated)
+| Particulars                                                                                                 | As at March 31,   | As at March 31,   |
+|-------------------------------------------------------------------------------------------------------------|-------------------|-------------------|
+| Particulars                                                                                                 | 2026              | 2025              |
+| Preference securities                                                                                       |                   |                   |
+| Investments carried at fair value through other comprehensive income                                        |                   |                   |
+| Airviz, Inc.                                                                                                | -                 | -                 |
+| 2,89,695 (2,89,695) Series A Preferred Stock, fully paid up, par value USD 0.001 each                       |                   |                   |
+| Whoop, Inc.                                                                                                 | 576               | 129               |
+| 1,10,59,340 (1,10,59,340) Series B Preferred Stock, fully paid up, par value USD 0.0001 each                |                   |                   |
+| Nivetti Systems Private Limited                                                                             | 52                | 38                |
+| 2,28,501 (2,28,501) Preferred Stock, fully paid up, par value ` 1/- each                                    |                   |                   |
+| Investments carried at fair value through profit or loss                                                    |                   |                   |
+| Galaxeye Space Solutions Private Limited                                                                    | 23                | 17                |
+| 1,210 (1,210) Series A compulsorily convertible cumulative Preference shares of ` 10/- each, fully paid up  |                   |                   |
+| 4Basecare Precision Health Private Limited                                                                  | 29                | 8                 |
+| 18,850 (18,850) Series A compulsorily convertible cumulative Preference shares of ` 1/- each, fully paid up |                   |                   |
+| Total investment in preference securities                                                                   | 680               | 192               |
+| Equity instruments                                                                                          |                   |                   |
+| Investments carried at fair value through other comprehensive income                                        |                   |                   |
+| Merasport Technologies Private Limited                                                                      | -                 | -                 |
+| 2,420 (2,420) equity shares at ` 8,052/- each, fully paid up, par value ` 10/- each                         |                   |                   |
+| Global Innovation and Technology Alliance                                                                   | 2                 | 2                 |
+| 15,000 (15,000) equity shares at ` 1,000/- each, fully paid up, par value ` 1,000/- each                    |                   |                   |
+| Ideaforge Technology Limited                                                                                | 61                | 57                |
+| 16,47,314 (16,47,314) equity shares at ` 10/-, fully paid up                                                |                   |                   |
+| Investments carried at fair value through profit or loss                                                    |                   |                   |
+| Galaxeye Space Solutions Private Limited                                                                    | -                 | -                 |
+| 10 (10) equity shares at ` 1,36,080/- each, fully paid up, par value ` 10/- each                            |                   |                   |
+| Total investment in equity instruments                                                                      | 63                | 59                |
+| Others - Investments carried at fair value through profit or loss                                           |                   |                   |
+| Stellaris Venture Partners India                                                                            | 51                | 53                |
+| UVC Fonds IV GmbH&Co. KG                                                                                    | 6                 | 1                 |
+| The House Fund II, L.P.                                                                                     | 134               | 102               |
+| The House Fund III, L.P.                                                                                    | 64                | 32                |
+| Yali Deeptech Fund I                                                                                        | 8                 | 8                 |
+| Total investment in others                                                                                  | 263               | 196               |
+| Total                                                                                                       | 1,006             | 447               |
+
+## 2.6 Loans
+|                                       | (In ` crore)    | (In ` crore)    |
+|---------------------------------------|-----------------|-----------------|
+| Particulars                           | As at March 31, | As at March 31, |
+|                                       | 2026            | 2025            |
+| Non-current                           |                 |                 |
+| Loans considered good - Unsecured     |                 |                 |
+| Other loans                           |                 |                 |
+| Loans to employees                    | 6               | 16              |
+|                                       | 6               | 16              |
+| Loans credit impaired - Unsecured     |                 |                 |
+| Other loans                           |                 |                 |
+| Loans to employees                    | 3               | 3               |
+| Less: Allowance for credit impairment | (3)             | (3)             |
+|                                       | -               | -               |
+| Total non-current loans               | 6               | 16              |
+| Current                               |                 |                 |
+| Loans considered good - Unsecured     |                 |                 |
+| Other loans                           |                 |                 |
+| Loans to employees                    | 234             | 249             |
+| Total current loans                   | 234             | 249             |
+| Total loans                           | 240             | 265             |
+
+## 2.7 Other financial assets
 (In ` crore)
-| Particulars                          | As at March 31,   | As at March 31,   |
-|--------------------------------------|-------------------|-------------------|
-|                                      | 2026              | 2025              |
-| Non-current                          |                   |                   |
-| Capital advances                     | 154               | 208               |
-| Advances other than capital advances |                   |                   |
+| Particulars                                      | As at March 31,   | As at March 31,   |
+|--------------------------------------------------|-------------------|-------------------|
+|                                                  | 2026              | 2025              |
+| Non-current                                      |                   |                   |
+| Security deposits (1)                            | 281               | 273               |
+| Unbilled revenues (1)#                           | 1,417             | 2,031             |
+| Restricted deposits (1)*                         | 79                | 82                |
+| Net investment in lease (1) (Refer to Note 2.21) | 957               | 1,106             |
+| Others (1)                                       | 42                | 19                |
+| Total non-current other financial assets         | 2,776             | 3,511             |
+| Current                                          |                   |                   |
+| Security deposits (1)                            | 75                | 65                |
 
-(In ` crore)
-| Particulars                                    | Not due   | Outstanding for following periods from due date of payment   | Outstanding for following periods from due date of payment   | Outstanding for following periods from due date of payment   | Outstanding for following periods from due date of payment   | Outstanding for following periods from due date of payment   | Total   |
-|------------------------------------------------|-----------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|---------|
-|                                                |           | Less than 6 months                                           | 6 months to 1 year                                           | 1-2 years                                                    | 2-3 years                                                    | More than 3 years                                            |         |
-| Undisputed trade receivables - considered good | 28,651    | 6,986                                                        | 118                                                          | 6                                                            | 9                                                            | 2                                                            | 35,772  |
-|                                                | 23,696    | 7,505                                                        | 202                                                          | 223                                                          | 44                                                           | -                                                            | 31,670  |
-| Undisputed trade receivables - credit impaired | -         | 3                                                            | 15                                                           | 12                                                           | 4                                                            | 71                                                           | 105     |
-|                                                | -         | 5                                                            | 4                                                            | 6                                                            | 6                                                            | 113                                                          | 134     |
-| Disputed trade receivables - considered good   | -         | -                                                            | -                                                            | -                                                            | -                                                            | -                                                            | -       |
-|                                                | -         | -                                                            | -                                                            | -                                                            | -                                                            | -                                                            | -       |
-| Disputed trade receivables - credit impaired   | -         | -                                                            | -                                                            | -                                                            | 3                                                            | 15                                                           | 18      |
-|                                                | -         | -                                                            | -                                                            | 43                                                           | 28                                                           | 1                                                            | 72      |
-|                                                | 28,651    | 6,989                                                        | 133                                                          | 18                                                           | 16                                                           | 88                                                           | 35,895  |
-|                                                | 23,696    | 7,510                                                        | 206                                                          | 272                                                          | 78                                                           | 114                                                          | 31,876  |
-| Less: Allowance for credit loss                |           |                                                              |                                                              |                                                              |                                                              |                                                              | 661     |
-|                                                |           |                                                              |                                                              |                                                              |                                                              |                                                              | 718     |
-| Total trade receivables                        |           |                                                              |                                                              |                                                              |                                                              |                                                              | 35,234  |
-|                                                |           |                                                              |                                                              |                                                              |                                                              |                                                              | 31,158  |
+| Particulars                                                                   | As at March 31,   | As at March 31,   |
+|-------------------------------------------------------------------------------|-------------------|-------------------|
+|                                                                               | 2026              | 2025              |
+| Restricted deposits (1)*                                                      | 3,170             | 2,949             |
+| Unbilled revenues (1)#                                                        | 10,064            | 8,183             |
+| Interest accrued but not due (1)                                              | 448               | 842               |
+| Foreign currency forward and options contracts (2)(3)                         | 83                | 192               |
+| Net investment in lease (1) (Refer to Note 2.21)                              | 1,613             | 1,139             |
+| Others (1)                                                                    | 437               | 470               |
+| Total current other financial assets                                          | 15,890            | 13,840            |
+| Total other financial assets                                                  | 18,666            | 17,351            |
+| (1) Financial assets carried at amortized cost                                | 18,583            | 17,159            |
+| (2) Financial assets carried at fair value through other comprehensive income | 56                | 28                |
+| (3) Financial assets carried at fair value through profit or loss             | 27                | 164               |
 
-## 2.9 Cash and cash equivalents
-| Particulars                            | As at March 31,   | As at March 31,   |
-|----------------------------------------|-------------------|-------------------|
-|                                        | 2026              | 2025              |
-| Others                                 |                   |                   |
-| Withholding taxes and others*          | 626               | 534               |
-| Unbilled revenues #                    | 321               | 201               |
-| Defined benefit plan assets            | 205               | 297               |
-| Prepaid expenses                       | 775               | 282               |
-| Deferred Contract Cost                 |                   |                   |
-| Cost of obtaining a contract           | 491               | 312               |
-| Cost of fulfillment                    | 968               | 879               |
-| Total non-current other assets         | 3,540             | 2,713             |
-| Current                                |                   |                   |
-| Advances other than capital advances   |                   |                   |
-| Payment to vendors for supply of goods | 474               | 413               |
-| Others                                 |                   |                   |
-| Unbilled revenues #                    | 5,419             | 4,668             |
-| Withholding taxes and others*          | 3,901             | 2,841             |
-| Prepaid expenses                       | 4,265             | 3,080             |
-| Deferred contract cost                 |                   |                   |
-| Cost of obtaining a contract           | 285               | 343               |
-| Cost of fulfillment                    | 667               | 504               |
-| Other receivables                      | 134               | 91                |
-| Total current other assets             | 15,145            | 11,940            |
-| Total other assets                     | 18,685            | 14,653            |
-
-## 2.11 Financial instruments
-## 2.11.1 Initial recognition
-The Group recognizes financial assets and financial liabilities when it becomes a party to the contractual provisions of the instrument. All financial assets and liabilities are recognized at fair value on initial recognition, except for trade receivables which are initially measured at transaction price. Transaction costs that are directly attributable to the acquisition or issue of financial assets and financial liabilities, which are not at fair value through profit or loss, are added to the fair value on initial recognition. Regular way purchase and sale of financial assets are accounted for at trade date.
-## 2.11.2 Subsequent measurement
-## a. Non-derivative financial instruments
-## (i) Financial assets carried at amortized cost
-A financial asset is subsequently measured at amortized cost if it is held within a business model whose objective is to hold the asset in order to collect contractual cash flows and the contractual terms of the financial asset give rise on specified dates to cash flows that are solely payments of principal and interest on the principal amount outstanding.
-## (ii) Financial assets carried at fair value through other comprehensive income (FVOCI)
-A financial asset is subsequently measured at fair value through other comprehensive income if it is held within a business model whose objective is achieved by both collecting contractual cash flows and selling financial assets and the contractual terms of the financial asset give rise on specified dates to cash flows that are solely payments of principal and interest on the principal amount outstanding. The Group has made an irrevocable election for certain investments which are classified as equity instruments to present the subsequent changes in fair value in other comprehensive income based on its business model.
-
-## (iii) Financial assets carried at fair value through profit or loss (FVTPL)
-A financial asset which is not classified in any of the above categories is subsequently fair valued through profit or loss.
-## (iv) Financial liabilities
-Financial liabilities are subsequently carried at amortized cost using the effective interest method, except for contingent consideration and financial liability under option arrangements recognized in a business combination which is subsequently measured at fair value through profit or loss.
-## b. Derivative financial instruments
-The Group holds derivative financial instruments such as foreign exchange forward and option contracts to mitigate the risk of changes in exchange rates on foreign currency exposures. The counterparty for such contracts is generally a bank.
-## (i) Financial assets or financial liabilities, carried at fair value through profit or loss.
-This category includes derivative financial assets or liabilities which are not designated as hedges.
-Although the Group believes that these derivatives constitute hedges from an economic perspective, they may not qualify for hedge accounting under Ind AS 109, Financial Instruments . Any derivative that is either not designated as hedge, or is so designated but is ineffective as per Ind AS 109, is categorized as a financial asset or financial liability, at fair value through profit or loss.
-Derivatives not designated as hedges are recognized initially at fair value and attributable transaction costs are recognized in net profit in the Consolidated Statement of Profit and Loss when incurred. Subsequent to initial recognition, these derivatives are measured at fair value through profit or loss and the resulting exchange gains or losses are included in other income. Assets / liabilities in this category are presented as current assets / current liabilities if they are either held for trading or are expected to be realized within 12 months after the Balance Sheet date.
-## (ii) Cash flow hedge
-Primarily, the Group designates certain foreign exchange forward and options contracts as cash flow hedges to mitigate the risk of foreign exchange exposure on highly probable forecast cash transactions.
-When a derivative is designated as a cash flow hedging instrument, the effective portion of changes in the fair value of the derivative is recognized in other comprehensive income and accumulated in the cash flow hedge reserve. Any ineffective portion of changes in the fair value of the derivative is recognized immediately in the net profit in the Consolidated Statement of Profit and Loss. If the hedging instrument no longer meets the criteria for hedge accounting, then hedge accounting is discontinued prospectively. If the hedging instrument expires or is sold, terminated or exercised, the cumulative gain or loss on the hedging instrument recognized in cash flow hedge reserve till the period the hedge was effective remains in cash flow hedge reserve until the forecasted transaction occurs. The cumulative gain or loss previously recognized in the cash flow hedge reserve is transferred to the net profit in the Consolidated Statement of Profit and Loss upon the occurrence of the related forecasted transaction. If the forecasted transaction is no longer expected to occur, then the amount accumulated in cash flow hedge reserve is reclassified to net profit in the Consolidated Statement of Profit and Loss.
-## 2.11.3 Derecognition of financial instruments
-The Group derecognizes a financial asset when the contractual rights to the cash flows from the financial asset expire or it transfers the financial asset and the transfer qualifies for derecognition under Ind AS 109. A financial liability (or a part of a financial liability) is derecognized from the Group's Balance Sheet when the obligation specified in the contract is discharged or cancelled or expires.
-## 2.11.4 Fair value of financial instruments
-In determining the fair value of its financial instruments, the Group uses a variety of methods and assumptions that are based on market conditions and risks existing at each reporting date. The methods used to determine fair value include discounted cash flow analysis, option pricing model, market multiples, available quoted market prices and dealer quotes. All methods of assessing fair value result in general approximation of value, and such value may never actually be realized.
-Refer to table 'Financial instruments by category' below for the disclosure on carrying value and fair value of financial assets and liabilities. For financial assets and liabilities maturing within one year from the Balance Sheet date and which are not carried at fair value, the carrying amounts approximates fair value due to the short maturity of these instruments.
-## 2.11.5 Impairment
-The Group recognizes loss allowances using the Expected Credit Loss (ECL) model for the financial assets and unbilled revenue which are not fair valued through profit or loss. Loss allowance for trade receivables and unbilled revenues with no significant financing component is measured at an amount equal to
-## Financial instruments by category
-The carrying value and fair value of financial instruments by categories as at March 31, 2026 are as follows:
-| Particulars                                                        | Amortized cost   | Financial assets / liabilities at fair value through profit or loss   | Financial assets / liabilities at fair value through profit or loss   | Financial assets / liabilities at fair value through OCI   | Financial assets / liabilities at fair value through OCI   | Total carrying value   | (In ` crore) Total fair value   |
-|--------------------------------------------------------------------|------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|------------------------|---------------------------------|
-|                                                                    |                  | Designated upon initial recognition                                   | Mandatory                                                             | Equity instruments designated upon initial recognition     | Mandatory                                                  |                        |                                 |
-| Assets:                                                            |                  |                                                                       |                                                                       |                                                            |                                                            |                        |                                 |
-| Cash and cash equivalents (Refer to Note 2.9)                      | 22,201           | -                                                                     | -                                                                     | -                                                          | -                                                          | 22,201                 | 22,201                          |
-| Investments (Refer to Note 2.5)                                    |                  |                                                                       |                                                                       |                                                            |                                                            |                        |                                 |
-| Equity and preference securities                                   | -                | 52                                                                    | -                                                                     | 691                                                        | -                                                          | 743                    | 743                             |
-| Tax-free bonds and government bonds                                | 531              | -                                                                     | -                                                                     | -                                                          | -                                                          | 531                    | 552 (1)                         |
-| Mutual fund units                                                  | -                | -                                                                     | 2,383                                                                 | -                                                          | -                                                          | 2,383                  | 2,383                           |
-| Non-convertible debentures                                         | -                | -                                                                     | -                                                                     | -                                                          | 4,189                                                      | 4,189                  | 4,189                           |
-| Government securities                                              | -                | -                                                                     | -                                                                     | -                                                          | 4,558                                                      | 4,558                  | 4,558                           |
-| Commercial paper                                                   | -                | -                                                                     | -                                                                     | -                                                          | 1,205                                                      | 1,205                  | 1,205                           |
-| Certificates of deposit                                            | -                | -                                                                     | -                                                                     | -                                                          | 8,008                                                      | 8,008                  | 8,008                           |
-| Other investments                                                  | -                | -                                                                     | 263                                                                   | -                                                          | -                                                          | 263                    | 263                             |
-| Trade receivables (Refer to Note 2.8)                              | 35,234           | -                                                                     | -                                                                     | -                                                          | -                                                          | 35,234                 | 35,234                          |
-| Loans (Refer to Note 2.6)                                          | 240              | -                                                                     | -                                                                     | -                                                          | -                                                          | 240                    | 240                             |
-| Other financial assets (Refer to Note 2.7)                         | 18,583           | -                                                                     | 27                                                                    | -                                                          | 56                                                         | 18,666                 | 18,645 (2)                      |
-| Total                                                              | 76,789           | 52                                                                    | 2,673                                                                 | 691                                                        | 18,016                                                     | 98,221                 | 98,221                          |
-| Liabilities:                                                       |                  |                                                                       |                                                                       |                                                            |                                                            |                        |                                 |
-| Trade payables (Refer to Note 2.14)                                | 4,744            | -                                                                     | -                                                                     | -                                                          | -                                                          | 4,744                  | 4,744                           |
-| Lease liabilities (Refer to Note 2.21)                             | 9,176            | -                                                                     | -                                                                     | -                                                          | -                                                          | 9,176                  | 9,176                           |
-| Financial liability under option arrangements (Refer to Note 2.13) | -                | -                                                                     | 876                                                                   | -                                                          | -                                                          | 876                    | 876                             |
-| Other financial liabilities (Refer to Note 2.13)                   | 18,361           | -                                                                     | 642                                                                   | -                                                          | 55                                                         | 19,058                 | 19,058                          |
-| Total                                                              | 32,281           | -                                                                     | 1,518                                                                 | -                                                          | 55                                                         | 33,854                 | 33,854                          |
-
-(1) On account of fair value changes including interest accrued
-(2) Excludes interest accrued on tax-free bonds and government bonds carried at amortized cost of ` 21 crore
-lifetime ECL. For all other financial assets, ECLs are measured at an amount equal to the 12-month ECL, unless there has been a significant increase in credit risk from initial recognition in which case those are measured at lifetime ECL.
-The Group determines the allowance for credit losses based on historical loss experience adjusted to reflect current and estimated future economic conditions. The Group considers current and anticipated future economic conditions relating to industries the Group deals with and the countries where it operates.
-The amount of ECL (or reversal) that is required to adjust the loss allowance at the reporting date to the amount that is required to be recorded is recognized as an impairment loss or gain in Consolidated Statement of Profit and Loss.
-The carrying value and fair value of financial instruments by categories as at March 31, 2025 were as follows:
-| Particulars                                                        | cost   | Amortized Financial assets at fair value profit   | / liabilities through loss   | Financial assets / liabilities at fair value through OCI   | Financial assets / liabilities at fair value through OCI   | Total carrying value   | (In ` crore) Total fair value   |
-|--------------------------------------------------------------------|--------|---------------------------------------------------|------------------------------|------------------------------------------------------------|------------------------------------------------------------|------------------------|---------------------------------|
-|                                                                    |        | Designated upon initial recognition               | Mandatory                    | Equity instruments designated upon initial recognition     | Mandatory                                                  |                        |                                 |
-| Assets:                                                            |        |                                                   |                              |                                                            |                                                            |                        |                                 |
-| Cash and cash equivalents (Refer to Note 2.9)                      | 24,455 | -                                                 | -                            | -                                                          | -                                                          | 24,455                 | 24,455                          |
-| Investments (Refer to Note 2.5)                                    |        |                                                   |                              |                                                            |                                                            |                        |                                 |
-| Equity and preference securities                                   | -      | 25                                                | -                            | 226                                                        | -                                                          | 251                    | 251                             |
-| Tax-free bonds and government bonds                                | 1,650  | -                                                 | -                            | -                                                          | -                                                          | 1,650                  | 1,812 (1)                       |
-| Mutual fund units                                                  | -      | -                                                 | 1,957                        | -                                                          | -                                                          | 1,957                  | 1,957                           |
-| Target maturity fund units                                         | -      | -                                                 | 465                          | -                                                          | -                                                          | 465                    | 465                             |
-| Non-convertible debentures                                         | -      | -                                                 | -                            | -                                                          | 4,869                                                      | 4,869                  | 4,869                           |
-| Government securities                                              | -      | -                                                 | -                            | -                                                          | 7,008                                                      | 7,008                  | 7,008                           |
-| Commercial paper                                                   | -      | -                                                 | -                            | -                                                          | 3,641                                                      | 3,641                  | 3,641                           |
-| Certificates of deposit                                            | -      | -                                                 | -                            | -                                                          | 3,504                                                      | 3,504                  | 3,504                           |
-| Other investments                                                  | -      | -                                                 | 196                          | -                                                          | -                                                          | 196                    | 196                             |
-| Trade receivables (Refer to Note 2.8)                              | 31,158 | -                                                 | -                            | -                                                          | -                                                          | 31,158                 | 31,158                          |
-| Loans (Refer to Note 2.6)                                          | 265    | -                                                 | -                            | -                                                          | -                                                          | 265                    | 265                             |
-| Other financial assets (Refer to Note 2.7)                         | 17,159 | -                                                 | 164                          | -                                                          | 28                                                         | 17,351                 | 17,271 (2)                      |
-| Total                                                              | 74,687 | 25                                                | 2,782                        | 226                                                        | 19,050                                                     | 96,770                 | 96,852                          |
-| Liabilities:                                                       |        |                                                   |                              |                                                            |                                                            |                        |                                 |
-| Trade payables (Refer to Note 2.14)                                | 4,164  | -                                                 | -                            | -                                                          | -                                                          | 4,164                  | 4,164                           |
-| Lease liabilities (Refer to Note 2.21)                             | 8,227  | -                                                 | -                            | -                                                          | -                                                          | 8,227                  | 8,227                           |
-| Financial liability under option arrangements (Refer to Note 2.13) | -      | -                                                 | 667                          | -                                                          | -                                                          | 667                    | 667                             |
-| Other financial liabilities (Refer to Note 2.13)                   | 16,511 | -                                                 | 61                           | -                                                          | 33                                                         | 16,605                 | 16,605                          |
-| Total                                                              | 28,902 | -                                                 | 728                          | -                                                          | 33                                                         | 29,663                 | 29,663                          |
-
-(1) On account of fair value changes including interest accrued
-(2) Excludes interest accrued on tax-free bonds and government bonds carried at amortized cost of ` 80 crore
-For trade receivables, trade payables, other assets and payables maturing within one year from the Balance Sheet date, the carrying amounts approximate the fair value due to the short maturity of these instruments.
+* Restricted deposits represent deposits with financial institutions to settle employee related obligations as and when they arise during the normal course of business.

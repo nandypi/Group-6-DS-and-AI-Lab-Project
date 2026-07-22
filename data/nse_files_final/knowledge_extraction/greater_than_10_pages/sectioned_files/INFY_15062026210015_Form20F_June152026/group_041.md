@@ -1,198 +1,217 @@
 ---
 document_name: "INFY_15062026210015_Form20F_June152026.md"
 group_id: "INFY_15062026210015_Form20F_June152026__group_041"
-source_section_count: 2
-page_start: 294
-page_end: 303
-estimated_tokens: 5496
+source_section_count: 1
+page_start: 286
+page_end: 294
+estimated_tokens: 5261
 source_section_ids:
-  - "INFY_15062026210015_Form20F_June152026__077"
-  - "INFY_15062026210015_Form20F_June152026__078"
+  - "INFY_15062026210015_Form20F_June152026__076"
 ---
 
-## List of other related parties:
-| Particulars                                                    | Country   | Nature of relationship                      |
-|----------------------------------------------------------------|-----------|---------------------------------------------|
-| Infosys Limited Employees' Gratuity Fund Trust                 | India     | Post-employment benefit plan of Infosys     |
-| Infosys Limited Employees' Provident Fund Trust                | India     | Post-employment benefit plan of Infosys     |
-| Infosys Limited Employees' Superannuation Fund Trust           | India     | Post-employment benefit plan of Infosys     |
-| Infosys BPM Limited Employees' Superannuation Fund Trust       | India     | Post-employment benefit plan of Infosys BPM |
-| Infosys BPM Limited Employees' Gratuity Fund Trust             | India     | Post-employment benefit plan of Infosys BPM |
-| EdgeVerve Systems Limited Employees' Gratuity Fund Trust       | India     | Post-employment benefit plan of EdgeVerve   |
-| EdgeVerve Systems Limited Employees' Superannuation Fund Trust | India     | Post-employment benefit plan of EdgeVerve   |
-| Infosys Employees' Welfare Trust                               | India     | Controlled Trust                            |
-| Infosys Employee Benefits Trust                                | India     | Controlled Trust                            |
-| Infosys Science Foundation                                     | India     | Controlled Trust                            |
-| Infosys Expanded Stock Ownership Trust                         | India     | Controlled Trust                            |
-| Infosys Foundation (1)                                         | India     | Trust jointly controlled by KMPs            |
+## 2.19  Earnings  per  equity  share  -  reconciliation  of  basic  and  diluted  shares  used  in  computing  earnings  per  equity share
+## Accounting policy
+Basic earnings per equity share is computed by dividing the net profit attributable to the equity holders of the Group by the weighted average number of equity shares outstanding during the period. Diluted earnings per equity share is computed by dividing  the  net  profit  attributable  to  the  equity  holders  of  the  Group  by  the  weighted  average  number  of  equity  shares considered for deriving basic earnings per equity share and also the weighted average number of equity shares that could have been issued upon conversion of all dilutive potential equity shares. The dilutive potential equity shares are adjusted for the  proceeds  receivable  had  the  equity  shares  been  actually  issued  at  fair  value  (i.e.,  the  average  market  value  of  the outstanding equity shares). Dilutive potential equity shares are deemed converted as at the beginning of the period, unless issued at a later date. Dilutive potential equity shares are determined independently for each period presented.
+The number of equity shares and potentially dilutive equity shares are adjusted retrospectively for all periods presented for any share splits and bonus shares issues including for changes effected prior to the approval of the financial statements by the Board of Directors.
+The following is the computation of basic earnings per equity share The following is a reconciliation of the equity shares used in the computation of basic and diluted earnings per equity share:
+|                                                                                                            | Year ended March 31,   | Year ended March 31,   | Year ended March 31,   |
+|------------------------------------------------------------------------------------------------------------|------------------------|------------------------|------------------------|
+|                                                                                                            | 2026                   | 2025                   | 2024                   |
+| Profit attributable to equity holders of the Company (Dollars in millions)                                 | 3,313                  | 3,158                  | 3,167                  |
+| Weighted average number of equity shares outstanding used in computing basic earnings per equity share (1) | 4,112,814,745          | 4,141,611,738          | 4,138,568,090          |
+| Basic earnings per equity share ($)                                                                        | 0.81                   | 0.76                   | 0.77                   |
 
-Refer to Note 2.14 for information on transactions relating to the post-employment benefit plans mentioned above.
-## List of Key Managerial Personnel (KMP)
-## Whole-time directors
-Salil Parekh, Chief Executive Officer and Managing Director
-## Non-whole-time directors
-Nandan M. Nilekani D. Sundaram Michael Gibbs Govind Iyer Uri Levine (retired effective April 19, 2023) Bobby Parikh Chitra Nayak Helene Auriol Potier (appointed as an independent director effective May 26, 2023)
-Diane Enberg Jurgens (appointed as Additional and Independent director effective April 22, 2026)
-Nitin Paranjpe (appointed as an additional and independent director effective January 1, 2024 and as vice chairman effective April 30, 2026)
-## Executive Officers
-Jayesh Sanghrajka (appointed as Chief Financial Officer effective April 1, 2024) Nilanjan Roy (resigned as Chief Financial Officer of the Company effective March 31, 2024) Inderpreet Sawhney, Chief Legal Officer and Chief Compliance Officer
-Shaji Mathew, Chief Human Resources Officer
-## Transactions with Key Managerial Personnel (KMP)
-The  table  below  describes  the  related  party  transactions  with  key  management  personnel  which  comprises  directors  and executive officers under IAS 24:
-|                                                                                                       | (Dollars in millions)     |   (Dollars in millions) |   (Dollars in millions) |
-|-------------------------------------------------------------------------------------------------------|---------------------------|-------------------------|-------------------------|
-|                                                                                                       | Year ended March 31, 2026 |                    2025 |                    2024 |
-| Salaries and other short term employee benefits to whole-time directors and executive officers (1)(2) | 14                        |                      14 |                      14 |
-| Commission and other benefits to non-executive / independent directors                                | 2                         |                       2 |                       2 |
-| Total                                                                                                 | 16                        |                      16 |                      16 |
+|                                                                                                                                         | Year ended March 31,   | Year ended March 31,   | Year ended March 31,   |
+|-----------------------------------------------------------------------------------------------------------------------------------------|------------------------|------------------------|------------------------|
+|                                                                                                                                         | 2026                   | 2025                   | 2024                   |
+| Profit attributable to equity holders of the Company (Dollars in millions)                                                              | 3,313                  | 3,158                  | 3,167                  |
+| Weighted average number of equity shares outstanding used in computing basic earnings per equity share (1)                              | 4,112,814,745          | 4,141,611,738          | 4,138,568,090          |
+| Effect of dilutive common equivalent shares - share options outstanding                                                                 | 7,293,423              | 10,439,446             | 6,112,335              |
+| Weighted average number of equity shares and common equivalent shares outstanding used in computing diluted earnings per equity share - | 4,120,108,168          | 4,152,051,184          | 4,144,680,425          |
+| Diluted earnings per equity share ($)                                                                                                   | 0.80                   | 0.76                   | 0.76                   |
 
-(1) Includes employee stock compensation expense of $8 million, $8 million and $8 million for fiscal 2026, 2025 and 2024, respectively, towards key managerial personnel (Refer to Note 2.17).
-(2) Does not include post-employment benefit and other long term benefits based on actuarial valuation as this is done for the Company as a whole.
-## 2.21 Segment reporting
-IFRS  8  Operating  segments  establishes  standards  for  the  way  that  public  business  enterprises  report  information  about operating segments and related disclosures about products and services, geographic areas, and major customers. The Group's operations predominantly  relate to providing end-to-end business solutions to enable clients to  enhance  business performance.
-The chief operating decision maker (CODM) evaluates the Group's performance and allocates resources based on an analysis of  various  performance  indicators  by  business  segments.  Accordingly,  information  has  been  presented  along  business segments. The accounting principles used in the preparation of the financial statements are consistently applied to record revenue and expenditure in individual segments and are as set out in the accounting policies.
-Business segments of the Group are primarily enterprises in Financial Services and Insurance, enterprises in Manufacturing, enterprises in Retail, Consumer Packaged Goods and Logistics, enterprises in the Energy, Utilities, Resources and Services, enterprises in Communication, Telecom OEM and Media, enterprises in Hi-Tech, enterprises in Life Sciences and Healthcare and all other segments. The Financial Services reportable segments has been aggregated to include the Financial Services operating  segment  and  Finacle  operating  segment  because  of  the  similarity  of  the  economic  characteristics.  All  other segments  represent  the  operating  segments  of  businesses  in  India,  Japan,  China,  Infosys  Public  Services  &amp;  identified enterprises in Public Services.
-Revenue and identifiable  operating  expenses  in  relation  to  segments  are  categorized  based  on  items  that  are  individually identifiable to that segment. Revenue for 'all other segments' represents revenue generated by Infosys Public Services and revenue  generated  from  customers  located  in  India,  Japan  and  China  and  other  enterprises  in  Public  Services.  Allocated expenses  of  segments  include  expenses  incurred  for  rendering  services  from  the  Group's  offshore  software  development centers and on-site expenses, which are categorized in relation to the associated efforts of the segment. Certain expenses such as  depreciation  and  amortization,  which  form  a  significant  component  of  total  expenses,  are  not  specifically  allocable  to specific  segments  as  the  underlying  assets  are  used  interchangeably.  The  management  believes  that  it  is  not  practical  to provide segment disclosures relating to those costs and expenses, and accordingly these expenses are separately disclosed as "unallocated" and adjusted against the total income of the Group.
-Assets  and  liabilities  used  in  the  Group's  business  are  not  identified  to  any  of  the  reportable  segments,  as  these  are  used interchangeably between segments. Management believes that it is currently not practicable to provide segment disclosures relating to total assets and liabilities since a meaningful segregation of the available data is onerous.
-Business segment revenue information is collated based on individual customers invoiced or in relation to which the revenue is otherwise recognized.
-Disclosure of revenue by geographic locations is given in Note 2.11 Revenue from operations.
-## 2.21.1 Business segments
-|                                                            | Financial Manufacturing   | Financial Manufacturing   |                                               |        |                   |          |                   |                    |
-|------------------------------------------------------------|---------------------------|---------------------------|-----------------------------------------------|--------|-------------------|----------|-------------------|--------------------|
-| Year ended March 31, 2026                                  | Services (1)              |                           | Energy, Utilities, Resources and Services (2) | Retail | Communication (3) | Hi- Tech | Life Sciences (4) | Segments (5) Total |
-| Revenues                                                   | 5,631                     | 3,282                     | 2,688                                         | 2,605  | 2,455             | 1,572    | 1,383             | 542 20,158         |
-| Identifiable operating expenses                            | 3,149                     | 2,010                     | 1,505                                         | 1,302  | 1,570             | 936      | 864               | 334 11,670         |
-| Allocated expenses                                         | 1,055                     | 546                       | 508                                           | 504    | 451               | 273      | 243               | 128 3,708          |
-| Segment profit                                             | 1,427                     | 726                       | 675                                           | 799    | 434               | 363      | 276               | 80 4,780           |
-| Unallocable expenses #                                     |                           |                           |                                               |        |                   |          |                   | 695                |
-| Operating profit                                           |                           |                           |                                               |        |                   |          |                   | 4,085              |
-| Other income, net (Refer to Note 2.16)                     |                           |                           |                                               |        |                   |          |                   | 468                |
-| Finance cost (Refer to Note 2.8)                           |                           |                           |                                               |        |                   |          |                   | 47                 |
-| Profit before Income taxes                                 |                           |                           |                                               |        |                   |          |                   | 4,506              |
-| Income tax expense                                         |                           |                           |                                               |        |                   |          |                   | 1,190              |
-| Net profit                                                 |                           |                           |                                               |        |                   |          |                   | 3,316              |
-| Depreciation and amortization                              |                           |                           |                                               |        |                   |          |                   | 552                |
-| Non-cash expenses other than depreciation and amortization |                           |                           |                                               |        |                   |          |                   | -                  |
+(1) excludes treasury shares
+For fiscal 2026, 2025 and 2024 there were 1,235,321, 13,931 and 119,711 respectively, options to purchase equity shares which had an anti-dilutive effect.
+## 2.20 Related party transactions
+## List of subsidiaries:
+|                                                                           |                | Holding as of   | Holding as of   |
+|---------------------------------------------------------------------------|----------------|-----------------|-----------------|
+|                                                                           | Country        | March 31, 2026  | March 31, 2025  |
+| Infosys Technologies (China) Co. Limited (Infosys China) (1)              | China          | 100%            | 100%            |
+| Infosys Technologies S. de R. L. de C. V. (Infosys Mexico) (1)            | Mexico         | 100%            | 100%            |
+| Infosys Technologies (Sweden) AB (Infosys Sweden) (1)                     | Sweden         | 100%            | 100%            |
+| Infosys Technologies (Shanghai) Company Limited (Infosys Shanghai) (1)    | China          | 100%            | 100%            |
+| EdgeVerve Systems Limited (EdgeVerve) (1)                                 | India          | 100%            | 100%            |
+| Infosys Austria GmbH (1)                                                  | Austria        | 100%            | 100%            |
+| Skava Systems Private Limited (Skava Systems) (1)(28)                     | India          | -               | -               |
+| Infosys Chile SpA (1)                                                     | Chile          | 100%            | 100%            |
+| Infosys Arabia Limited (2)                                                | Saudi Arabia   | 70%             | 70%             |
+| Infosys Consulting Ltda. (1)                                              | Brazil         | 100%            | 100%            |
+| Infosys Luxembourg S.a.r.l (1)                                            | Luxembourg     | 100%            | 100%            |
+| Infosys Consulting S.R.L. (2)(45)                                         | Argentina      | 100%            | 100%            |
+| Infosys Romania S.r.l. (formerly Infosys Consulting S.R.L. (Romania)) (1) | Romania        | 100%            | 100%            |
+| Infosys Limited Bulgaria EOOD (1)                                         | Bulgaria       | 100%            | 100%            |
+| Infosys Turkey Bilgi Teknolojileri Limited Sirketi (1)                    | Turkey         | 100%            | 100%            |
+| Infosys Germany Holding Gmbh (1)                                          | Germany        | 100%            | 100%            |
+| Infosys Automotive and Mobility GmbH &Co. KG (1)                          | Germany        | 100%            | 100%            |
+| Infosys Green Forum (1)                                                   | India          | 100%            | 100%            |
+| Infosys Business Solutions LLC (1)                                        | Qatar          | 100%            | 100%            |
+| WongDoody Inc. (1)(30)                                                    | U.S.           | -               | -               |
+| IDUNN Information Technology Private Limited (1)                          | India          | 100%            | 100%            |
+| Infosys Public Services, Inc. USA (Infosys Public Services) (1)           | U.S.           | 100%            | 100%            |
+| Infosys Public Services Canada Inc. (11)                                  | Canada         | 100%            | 100%            |
+| Infosys BPM Limited (1)                                                   | India          | 100%            | 100%            |
+| Infosys BPM UK Limited (3)                                                | U.K.           | 100%            | 100%            |
+| Infosys (Czech Republic) Limited s.r.o. (3)                               | Czech Republic | 100%            | 100%            |
+| Infosys Poland Sp z.o.o (3)                                               | Poland         | 100%            | 100%            |
+| Infosys McCamish Systems LLC (3)                                          | U.S.           | 100%            | 100%            |
+| Portland Group Pty Ltd (3)                                                | Australia      | 100%            | 100%            |
+| Infosys BPO Americas LLC. (3)                                             | U.S.           | 100%            | 100%            |
+| Panaya Inc. (Panaya) (1)                                                  | U.S.           | 100%            | 100%            |
+| Panaya Ltd. (4)                                                           | Israel         | 100%            | 100%            |
+| Panaya Germany GmbH (4)                                                   | Germany        | 100%            | 100%            |
+| Brilliant Basics Holdings Limited (Brilliant Basics) (1)(20)              | U.K.           | 100%            | 100%            |
+| Brilliant Basics Limited (5)(20)                                          | U.K.           | 100%            | 100%            |
+| Infosys Consulting Holding AG (1)                                         | Switzerland    | 100%            | 100%            |
+| Infosys Management Consulting Pty Limited (6)                             | Australia      | 100%            | 100%            |
+| Infosys Consulting AG (6)                                                 | Switzerland    | 100%            | 100%            |
 
-|                                                            |                         |               |                                           |            |                   |         | (Dollars in millions)   | (Dollars in millions)   | (Dollars in millions)   |
-|------------------------------------------------------------|-------------------------|---------------|-------------------------------------------|------------|-------------------|---------|-------------------------|-------------------------|-------------------------|
-| Year ended March 31, 2025                                  | Financial Services (1)* | Manufacturing | Energy, Utilities, Resources and Services | Retail (2) | Communication (3) | Hi-Tech | Life Sciences (4)       | All Other Segments (5)  | Total                   |
-| Revenues                                                   | 5,342                   | 2,980         | 2,568                                     | 2,609      | 2,260             | 1,548   | 1,400                   | 570                     | 19,277                  |
-| Identifiable operating expenses                            | 3,059                   | 1,911         | 1,406                                     | 1,293      | 1,469             | 897     | 848                     | 354                     | 11,237                  |
-| Allocated expenses                                         | 971                     | 495           | 441                                       | 472        | 396               | 270     | 237                     | 118                     | 3,400                   |
-| Segment profit                                             | 1,312                   | 574           | 721                                       | 844        | 395               | 381     | 315                     | 98                      | 4,640                   |
-| Unallocable expenses                                       |                         |               |                                           |            |                   |         |                         |                         | 569                     |
-| Operating profit                                           |                         |               |                                           |            |                   |         |                         |                         | 4,071                   |
-| Other income, net (Refer to Note 2.16)                     |                         |               |                                           |            |                   |         |                         |                         | 425                     |
-| Finance cost (Refer to Note 2.8)                           |                         |               |                                           |            |                   |         |                         |                         | 49                      |
-| Profit before Income taxes                                 |                         |               |                                           |            |                   |         |                         |                         | 4,447                   |
-| Income tax expense                                         |                         |               |                                           |            |                   |         |                         |                         | 1,285                   |
-| Net profit                                                 |                         |               |                                           |            |                   |         |                         |                         | 3,162                   |
-| Depreciation and amortization                              |                         |               |                                           |            |                   |         |                         |                         | 569                     |
-| Non-cash expenses other than depreciation and amortization |                         |               |                                           |            |                   |         |                         |                         | -                       |
+| Infosys Consulting GmbH (6)                                                                                 | Germany             | 100%      | 100%      |
+|-------------------------------------------------------------------------------------------------------------|---------------------|-----------|-----------|
+| Infosys Consulting SAS (6)                                                                                  | France              | 100%      | 100%      |
+| Infy Consulting B.V. (6)                                                                                    | The Netherlands     | 100%      | 100%      |
+| Infosys Consulting (Belgium) NV (6)                                                                         | Belgium             | 100%      | 100%      |
+| Infy Consulting Company Ltd (6)                                                                             | U.K.                | 100%      | 100%      |
+| GuideVision s.r.o. (7)                                                                                      | Czech Republic      | 100%      | 100%      |
+| GuideVision Deutschland GmbH (8)                                                                            | Germany             | 100%      | 100%      |
+| GuideVision Suomi Oy (8)                                                                                    | Finland             | 100%      | 100%      |
+| GuideVision Magyarország Kft (8)                                                                            | Hungary             | 100%      | 100%      |
+| GuideVision Polska Sp. z.o.o (8)                                                                            | Poland              | 100%      | 100%      |
+| GuideVision UK Ltd (8)(20)                                                                                  | U.K.                | 100%      | 100%      |
+| Infosys Nova Holdings LLC. (Infosys Nova) (1)                                                               | U.S.                | 100%      | 100%      |
+| Outbox systems Inc. dba Simplus (US) (9)(31)                                                                | U.S.                | -         | -         |
+| Simplus ANZ Pty Ltd. (9)                                                                                    | Australia           | 100%      | 100%      |
+| Simplus Australia Pty Ltd (10)                                                                              | Australia           | 100%      | 100%      |
+| (9)                                                                                                         |                     |           |           |
+| Simplus Philippines, Inc.                                                                                   | Philippines         | 100%      | 100%      |
+| Kaleidoscope Animations, Inc. (9)(31) (9)(31)                                                               | U.S.                | -         | -         |
+| Blue Acorn iCi Inc (1)(41)                                                                                  | U.S.                | - 100%    | -         |
+| Infosys Singapore Pte. Ltd. (12)                                                                            | Singapore           | 100%      | 100%      |
+| Infosys Financial Services GmbH.                                                                            | Germany             |           | 100%      |
+| Infosys South Africa (Pty) Ltd (12)                                                                         | South Africa        | 100%      | 100%      |
+| Infosys (Malaysia) SDN. BHD. (12) (12)                                                                      | Malaysia            | 100%      | 100%      |
+| Infosys Middle East FZ LLC                                                                                  | U.A.E               | 100%      | 100%      |
+| Infosys Norway (12)                                                                                         | Norway              | 100%      | 100%      |
+| Infosys Compaz Pte. Ltd (13) (13)(41)                                                                       | Singapore           | 60%       | 60% 81%   |
+| HIPUS Co., Ltd Fluido Oy (12)                                                                               | Japan Finland       | 79% 100%  |           |
+| Fluido Sweden AB (14)                                                                                       |                     | 100%      | 100% 100% |
+| Fluido Norway A/S (14)                                                                                      | Sweden              | 100%      | 100%      |
+| (14)                                                                                                        | Norway              |           |           |
+| Fluido Denmark A/S Fluido Slovakia s.r.o (14)                                                               | Denmark Slovakia    | 100% 100% | 100% 100% |
+| Infosys Fluido UK, Ltd. (14)                                                                                | U.K.                | 100%      | 100%      |
+| Infosys Fluido Ireland, Ltd. (15)                                                                           | Ireland             | 100%      | 100%      |
+| Stater N.V. (13) (16)                                                                                       | The Netherlands     | 75%       | 75%       |
+| Stater Nederland B.V. (16)                                                                                  | The Netherlands     | 75%       | 75%       |
+| Stater XXL B.V.                                                                                             | The Netherlands     | 75%       | 75%       |
+| HypoCasso B.V. (16)                                                                                         | The Netherlands     | 75%       | 75%       |
+| Stater Belgium N.V./S.A. (16) (16)                                                                          | Belgium             | 75%       | 75% 75%   |
+| Stater Gmbh (12)(43)                                                                                        | Germany             | 75%       |           |
+| Infosys Germany GmbH Wongdoody Gmbh (18)(43)                                                                | Germany             | -         | 100%      |
+|                                                                                                             | Germany China       | 100%      | 100% 100% |
+| WongDoody (Shanghai) Co. Limited (19) (19)                                                                  |                     | 100%      |           |
+| WongDoody limited (Taipei) WongDoody d.o.o (19)                                                             | Taiwan              | 100%      | 100% 100% |
+| (12)                                                                                                        | Serbia              | 100%      | 100%      |
+| BASE life science A/S (21)                                                                                  | Denmark             | 100%      |           |
+| BASE life science AG BASE life science GmbH                                                                 | Switzerland Germany | 100% 100% | 100%      |
+| (21) BASE life science S.A.S (21)                                                                           | France              |           | 100% 100% |
+| (21)                                                                                                        |                     | 100%      |           |
+| BASE life science Ltd. (21)                                                                                 | U.K. Italy          | 100%      | 100% 100% |
+| BASE life science S.r.l. (21)                                                                               |                     | 100%      | 100%      |
+| Innovisor Inc. BASE life science Inc. (17)                                                                  | U.S.                | 100%      |           |
+| (21)                                                                                                        | U.S.                | 100%      | 100% 100% |
+| BASE life science S.L.                                                                                      | Spain               | 100%      |           |
+| InSemi Technology Services Private Limited (23) Elbrus Labs Private Limited (23)(22)                        | India India         | 100%      | 100%      |
+| (1)(25)                                                                                                     |                     | 100%      | 100%      |
+| Infosys Services (Thailand) Limited                                                                         | Thailand            | 100%      | 100%      |
+| Infy tech SAS (12)(24) in-tech Holding GmbH (26)(32)                                                        | France              | 100% -    | 100% -    |
+| in-tech GmbH (26)                                                                                           | Germany             |           | 100%      |
+| Friedrich &Wagner Asia Pacific                                                                              | Germany             | 100% -    | -         |
+| (26)(32) drivetech Fahrversuch GmbH (26)                                                                    |                     |           |           |
+| GmbH                                                                                                        | Germany Germany     | 100% 100% |           |
+| in-tech Engineering S.R.L. (formerly known as ProIT) in-tech Automotive Engineering de R.L. de C.V (26)(40) | Romania Mexico      | -         | 100% 100% |
+| Friedrich Wagner Holding Inc. (26)(20)                                                                      | U.S.                |           | 100%      |
+| in-tech Automotive Engineering SL (26)                                                                      |                     | 100% 100% | 100% 100% |
+| in-tech Automotive Engineering LLC (26)(29)                                                                 | Spain U.S.          | -         | -         |
+| (26)(29)                                                                                                    | U.S.                |           | -         |
+| in-tech Services LLC (26)                                                                                   |                     | -         |           |
+| in-tech Engineering s.r.o (26)                                                                              | Czech Republic      | 100%      |           |
+| in-tech Engineering GmbH                                                                                    | Austria             | 100%      | 100%      |
+| in-tech Engineering services S.R.L                                                                          | Romania             | -         | 100% 100% |
+| (26)(44) in-tech Group Ltd (26)                                                                             | U.K.                |           | 100%      |
+| In-tech Automotive Engineering Shenyang                                                                     | China               | 100%      |           |
+| Co. Ltd (26)                                                                                                | India               | 100% 100% | 100% 100% |
+| in-tech Group India Private Ltd Ltd (26)                                                                    | China               | 100%      | 100%      |
+| In-tech Automotive Engineering Beijing Co.,                                                                 |                     |           |           |
 
-|                                                            |                        |               |                                           |            |                   |         | (Dollars in millions)   | (Dollars in millions)   | (Dollars in millions)   |
-|------------------------------------------------------------|------------------------|---------------|-------------------------------------------|------------|-------------------|---------|-------------------------|-------------------------|-------------------------|
-| Year ended March 31, 2024                                  | Financial Services (1) | Manufacturing | Energy, Utilities, Resources and Services | Retail (2) | Communication (3) | Hi-Tech | Life Sciences (4)       | All Other Segments (5)  | Total                   |
-| Revenues                                                   | 5,093                  | 2,696         | 2,417                                     | 2,719      | 2,173             | 1,498   | 1,391                   | 575                     | 18,562                  |
-| Identifiable operating expenses                            | 2,993                  | 1,763         | 1,309                                     | 1,414      | 1,337             | 874     | 811                     | 355                     | 10,856                  |
-| Allocated expenses                                         | 973                    | 423           | 444                                       | 473        | 391               | 245     | 230                     | 128                     | 3,307                   |
-| Segment profit                                             | 1,127                  | 510           | 664                                       | 832        | 445               | 379     | 350                     | 92                      | 4,399                   |
-| Unallocable expenses                                       |                        |               |                                           |            |                   |         |                         |                         | 565                     |
-| Operating profit                                           |                        |               |                                           |            |                   |         |                         |                         | 3,834                   |
-| Other income, net (Refer to Note 2.16)                     |                        |               |                                           |            |                   |         |                         |                         | 568                     |
-| Finance cost (Refer to Note 2.8)                           |                        |               |                                           |            |                   |         |                         |                         | 56                      |
-| Profit before Income taxes                                 |                        |               |                                           |            |                   |         |                         |                         | 4,346                   |
-| Income tax expense                                         |                        |               |                                           |            |                   |         |                         |                         | 1,177                   |
-| Net profit                                                 |                        |               |                                           |            |                   |         |                         |                         | 3,169                   |
-| Depreciation and amortization                              |                        |               |                                           |            |                   |         |                         |                         | 565                     |
-| Non-cash expenses other than depreciation and amortization |                        |               |                                           |            |                   |         |                         |                         | -                       |
+| Infosys Germany SE (formerly known as Blitz 24-893 SE) (27)(43)   | Germany         | 100%   | 100%   |
+|-------------------------------------------------------------------|-----------------|--------|--------|
+| Infosys Limited SPC (1)(33)                                       | Oman            | 100%   | 100%   |
+| Infosys BPM Netherlands B.V. (17)(34)                             | The Netherlands | 100%   | 100%   |
+| Infosys Energy Consulting Services LLC (9)(35)                    | U.S.            | 100%   | -      |
+| Infosys Saudi Arabia LLC (1)(36)                                  | Saudi Arabia    | 100%   | -      |
+| Infosys Australia Technology Service Pty Ltd (12)(37)             | Australia       | 100%   | -      |
+| MRE Consulting Ltd (38)                                           | U.S.            | 100%   | -      |
+| MRE Technology Services, LLC (38)                                 | U.S.            | 100%   | -      |
+| The Missing Link Automation Pty Ltd (39)                          | Australia       | 100%   | -      |
+| The Missing Link Network Integration Pty Ltd (39)                 | Australia       | 100%   | -      |
+| The Missing Link Security Pty Ltd (39)                            | Australia       | 100%   | -      |
+| The Missing Link Security Ltd (39)                                | U.K.            | 100%   | -      |
+| Infosys BPM Canada Inc (17)(42)                                   | Canada          | 100%   | -      |
+| Infosys Enterprise Business Services Pty Ltd (12)(46)             | Australia       | 100%   | -      |
 
-- (1) Financial Services include enterprises in Financial Services and Insurance
-- (2) Retail includes enterprises in Retail, Consumer Packaged Goods and Logistics
-- (3) Communication includes enterprises in Communication, Telecom OEM and Media
-- (4) Life Sciences includes enterprises in Life sciences and Health care
-- (5) Others  include  operating  segments  of  businesses  in  India,  Japan,  China,  Infosys  Public  Services  &amp;  identified enterprises in Public Services.
+| (1) Wholly-owned subsidiary of Infosys Limited (2) Majority owned and controlled subsidiary of Infosys Limited                                                               |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| (3) Wholly-owned subsidiary of Infosys BPM Limited                                                                                                                           |
+| (4) Wholly-owned subsidiary of Panaya Inc.                                                                                                                                   |
+| (5) Wholly-owned subsidiary of Brilliant Basics Holding Limited.                                                                                                             |
+| (6) Wholly-owned subsidiary of Infosys Consulting Holding AG                                                                                                                 |
+| (7) Wholly-owned subsidiary of Infy Consulting Company Limited                                                                                                               |
+| (8) Wholly-owned subsidiary of GuideVision s.r.o.                                                                                                                            |
+| (9) Wholly-owned subsidiary of Infosys Nova Holdings LLC                                                                                                                     |
+| (10) Wholly-owned subsidiary of Simplus ANZ Pty Ltd                                                                                                                          |
+| (11) Wholly-owned subsidiary of Infosys Public Services, Inc.                                                                                                                |
+| (12) Wholly-owned subsidiary of Infosys Singapore Pte. Ltd.                                                                                                                  |
+| (13) Majority owned and controlled subsidiary of Infosys Singapore Pte. Ltd.                                                                                                 |
+| (14) Wholly-owned subsidiary of Fluido Oy                                                                                                                                    |
+| (15) Wholly-owned subsidiary of Infosys Fluido UK, Ltd.                                                                                                                      |
+| (16) Wholly-owned subsidiary of Stater N.V                                                                                                                                   |
+| (17) Wholly-owned subsidiary of IBPM UK Ltd                                                                                                                                  |
+| (18) Wholly-owned subsidiary of Infosys Germany GmbH                                                                                                                         |
+| (19) Wholly-owned subsidiary of Wongdoody Gmbh                                                                                                                               |
+| (20) Under liquidation                                                                                                                                                       |
+| (21) Wholly-owned subsidiary of BASE life science A/S                                                                                                                        |
+| (22) Wholly-owned subsidiary of InSemi Technology Services Private Limited                                                                                                   |
+| (23) On May 10, 2024 Infosys Ltd. acquired 100% of voting interests in InSemi Technology Services Private Limited along with its subsidiary Elbrus Labs Private Limited (24) |
 
-# Unallocable expense includes impact of $ 143 million towards impact of Labour Codes for the year ended March 31, 2026 (Refer to note 2.13)
-* Includes impact on account of McCamish cybersecurity incident for the year ended March 31, 2025 (Refer to note 2.6.2).
+- (25) Incorporated on July 26, 2024
 
-## 2.21.2 Significant clients
-No client individually accounted for more than 10% of the revenues for fiscal 2026, 2025 and 2024.
-Item 19. Exhibits
-| Exhibit number    | Description of document                                                                                                                                                                                                                                                                                                                                                                                  |
-|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| *1.1              | Articles of Association of the Registrant, as amended                                                                                                                                                                                                                                                                                                                                                    |
-| *********1.2      | Memorandum of Association of the Registrant, as amended                                                                                                                                                                                                                                                                                                                                                  |
-| ***1.3            | Certificate of Incorporation of the Registrant, as currently in effect                                                                                                                                                                                                                                                                                                                                   |
-| 2.1               | Description of Securities Registered Under Section 12 of the Exchange Act                                                                                                                                                                                                                                                                                                                                |
-| *****4.1          | Form of Deposit Agreement among the Registrant, Deutsche Bank Trust Company Americas and holders from time to time of American Depositary Receipts issued thereunder (including as an exhibit, the form of American Depositary Receipt) (incorporated by reference to the document previously filed as Exhibit 99 (A) to Form F-6 POS filed with the Securities and Exchange Commission on June 28, 2017 |
-| ******4.2         | Registrant's 2011 RSU Plan                                                                                                                                                                                                                                                                                                                                                                               |
-| **4.3             | Registrant's 2015 Stock Incentive Compensation Plan                                                                                                                                                                                                                                                                                                                                                      |
-| ********4.4       | Registrant's Infosys Expanded Stock Ownership Program - 2019                                                                                                                                                                                                                                                                                                                                             |
-| ****4.5           | Employees Welfare Trust Deed of Registrant Pursuant to Employee Stock Offer Plan (P)                                                                                                                                                                                                                                                                                                                     |
-| ***********4.6    | Infosys Expanded Stock Ownership Trust Deed                                                                                                                                                                                                                                                                                                                                                              |
-| *******4.7        | Form of Indemnification Agreement                                                                                                                                                                                                                                                                                                                                                                        |
-| ***********4.10   | Form of Employment Agreement with the Chief Executive Officer                                                                                                                                                                                                                                                                                                                                            |
-| 4.11              | Overview of Executive Leadership Compensation                                                                                                                                                                                                                                                                                                                                                            |
-| 8.1               | List of Subsidiaries                                                                                                                                                                                                                                                                                                                                                                                     |
-| 11.1              | Code of Conduct for Prohibition of Insider Trading                                                                                                                                                                                                                                                                                                                                                       |
-| 11.2              | Code of Conduct and Ethics                                                                                                                                                                                                                                                                                                                                                                               |
-| 12.1              | Certification of Chief Executive Officer under Section 302 of the Sarbanes-Oxley Act of 2002                                                                                                                                                                                                                                                                                                             |
-| 12.2              | Certification of Chief Financial Officer under Section 302 of the Sarbanes-Oxley Act of 2002                                                                                                                                                                                                                                                                                                             |
-| 13.1              | Certification of Chief Executive Officer under Section 906 of the Sarbanes-Oxley Act of 2002                                                                                                                                                                                                                                                                                                             |
-| 13.2              | Certification of Chief Financial Officer under Section 906 of the Sarbanes-Oxley Act of 2002                                                                                                                                                                                                                                                                                                             |
-| ****15.1          | Registrant's Specimen Certificate for Equity Shares (P)                                                                                                                                                                                                                                                                                                                                                  |
-| 15.9              | Consent of Independent Registered Public Accounting Firm                                                                                                                                                                                                                                                                                                                                                 |
-| ************15.10 | Dividend Distribution Policy                                                                                                                                                                                                                                                                                                                                                                             |
-| ************97.1  | Compensation Recovery Policy                                                                                                                                                                                                                                                                                                                                                                             |
-| 101.INS           | Inline XBRL Instance Document                                                                                                                                                                                                                                                                                                                                                                            |
-| 101.SCH           | Inline XBRL Taxonomy Extension Schema With Embedded Linkbase Documents                                                                                                                                                                                                                                                                                                                                   |
-| 104               | Cover Page Interactive Data File (formatted in Inline XBRL and contained in Exhibit 101)                                                                                                                                                                                                                                                                                                                 |
-
-*
-**
-***
-****
-*****
-******
-*******
-********
-*********
-**********
-***********
-************
-Incorporated by reference to exhibits filed with the Registrant's Annual Report on Form 20-F filed on June
-12, 2017.
-Incorporated by reference to exhibits filed with the Registrant's Annual Report on Form 20-F filed on May
-18, 2016.
-Incorporated by reference to exhibits filed with the Registrant's Annual Report on Form 20-F filed on May
-20, 2015.
-Incorporated by reference to exhibits filed with the Registrant's Registration Statement on Form F-1 (File
-No. 333-72195) in the form declared effective on March 9, 1999.
-Incorporated  by  reference  to  the  exhibits  filed  with  Post-Effective  Amendment  No.  1  to  the Registrant's
-Registration Statement on Form F-6 (File No. 001-35754) filed on June 28, 2017.
-Incorporated by reference to exhibits filed with the Registrant's Form S-8 filed on August 4, 2014.
-Incorporated by reference to exhibits filed with Registrant's Annual Report on Form 20-F filed on May 13,
-2013.
-Incorporated by reference to exhibits filed with the Registrant's Form S-8 filed on February 28, 2020.
-Incorporated by reference to exhibits filed with Registrant's Annual Report on Form 20-F filed on June 19,
-2019.
-Incorporated by reference to exhibits filed with Registrant's Annual Report on Form 20-F filed on May 29,
-2020.
-Incorporated by reference to exhibits filed with Registrant's Annual Report on Form 20-F filed on June 15,
-2023.
-Incorporated by reference to exhibits filed with Registrant's Annual Report on Form 20-F filed on July 1,
-2025.
-(P) - Previously filed on paper form
-## SIGNATURES
-The registrant hereby certifies that it meets all of the requirements for filing on Form 20-F and that it has duly caused and authorized the undersigned to sign this Annual Report on its behalf.
-Infosys Limited /s/ Salil Parekh Infosys Limited /s/ Jayesh Sanghrajka
-Salil Parekh Jayesh Sanghrajka Date: June 15, 2026 Chief Executive Officer and Managing Director Chief Financial Officer
-## Description of Indian Equity Shares
-Set forth below is the material information concerning the share capital of Infosys Limited ('Company', 'we', 'us', or 'our') and a brief summary of the material provisions of our Articles of Association, Memorandum of Association, Companies Act, 2013 and other related Indian laws. The following description of our equity shares and the material provisions of our Articles of Association and Memorandum of Association does not purport to be complete and is qualified in its entirety by our Articles of Association and Memorandum of Association that have been filed as exhibits to our Annual Report on Form 20-F (available under the following links: https://www.sec.gov/Archives/edgar/data/1067491/000106749117000021/exv01w01.htm and https://www.sec.gov/Archives/edgar/data/1067491/000156459019022837/infy-ex12\_1403.htm and by the provisions of applicable law. We advise that you read our Articles of Association and Memorandum of  Association  in  their  entirety  as  they  contain  important  additional  information  that  is  not  included  herein. Further, the summary of any laws set forth below is based on laws applicable as on March 31, 2024 and is not intended to constitute a complete analysis of all laws applicable to the Company and its securities or a substitute for professional legal advice.
-## General
-As of  March  31,  2026,  we  had  the  following  series  of  securities  registered  pursuant  to  Section  12(b)  of  the Securities Exchange Act of 1934, as amended:
-| Title of each class                                                                                                                       | Trading Symbol (s)   | Name of each exchange on which registered   |
-|-------------------------------------------------------------------------------------------------------------------------------------------|----------------------|---------------------------------------------|
-| American Depositary Shares ('ADSs'), each represented by one equity share, par value ₹ 5 per share Equity share, par value ₹ 5 per share* | INFY                 | The New York Stock Exchange                 |
+(26) On July 17, 2024, Infosys Germany GmbH, a wholly owned subsidiary of Infosys Singapore Pte. Limited, acquired 100% of voting interests in in-tech Holding GmbH along with its subsidiary in-tech GmbH along with its six subsidiaries in-tech Automotive  Engineering  SL,  in-tech  Engineering  S.R.L.  (formerly  known  as  ProIT),  in-tech  Automotive  Engineering  de R.L.  de  C.V,  drivetech  Fahrversuch  GmbH,  Friedrich  Wagner  Holding  Inc  along  with  its  two  subsidiaries  (in-tech Automotive Engineering LLC and in-tech Services LLC) and Friedrich &amp; Wagner Asia Pacific GmbH along with its five subsidiaries  in-tech  engineering  s.r.o,  in-tech  engineering  GmbH,  in-tech  engineering  services  S.R.L,  in-tech  Group  Ltd along  with  its  subsidiary  (in-tech  Group  India  Private  Limited)  and  In-tech  Automotive  Engineering  Shenyang  Co.,  Ltd along with its subsidiary (In-tech Automotive Engineering Beijing Co., Ltd). Subsequently on September 01, 2024 in-tech Group India Private Limited became a wholly-owned subsidiary of Infosys limited.
+(27) On October 17, 2024, Infosys Singapore Pte Ltd. acquired 100% of voting interests in Infosys Germany SE (formerly known as Blitz 24-893 SE)
+(28) Liquidated effective November 14, 2024
+(29) Liquidated effective November 30, 2024
+(30) WongDoody  Inc,  a  wholly-owned  subsidiary  of  Infosys  limited  merged  into  Infosys  Nova  Holdings  LLC  effective January 1, 2025
+(31) Kaleidoscope Animations, Blue Acorn iCi Inc and Outbox systems Inc. dba Simplus (US) merged into Infosys Nova Holdings LLC effective January 1, 2025
+(32) in-tech Holding GmbH and Friedrich &amp; Wagner Asia Pacific GmbH merged into in-tech GmbH effective January 1,2025
+(33) Incorporated on December 12, 2024
+(34) Incorporated on March 20, 2025
+(35) Incorporated on April 16, 2025
+(36) Incorporated on April 21, 2025
+(37) Incorporated on April 23, 2025
+(38) On April 30, 2025, Infosys Nova Holdings LLC, a wholly-owned subsidiary of Infosys Limited, acquired 98.21% of partnership  interests  in  MRE  Consulting  Ltd  along  with  its  subsidiary  MRE  Technology  Services,  LLC.  The  remaining 1.79% was acquired by Infosys Energy Consulting Services LLC, a Wholly-owned subsidiary of Infosys Nova Holdings LLC
+(39) On April 30, 2025, Infosys Australia Technology Service Pty Ltd, a wholly owned subsidiary of Infosys Singapore Pte. Limited, acquired 100% of voting interests in The Missing Link Automation Pty Ltd, The Missing Link Network Integration Pty Ltd and The Missing Link Security Pty Ltd along with its subsidiary The Missing Link Security Ltd
+(40) Liquidated effective May 07, 2025
+(41) On May 13, 2025, Infosys Singapore Pte Ltd diluted 2% stake of HIPUS Co., Ltd to Mitsubishi Heavy Industries, Ltd. (42) Incorporated on July 28, 2025
+(43) Infosys  Germany  Gmbh, a  Wholly-owned subsidiary of  Infosys  Singapore  Pte  Ltd  merged  into  Infosys  Germany  SE (formerly known as Blitz 24-893 SE) effective September 24, 2025
+(44) in-tech Engineering services S.R.L, (Wholly-owned subsidiary of  in-tech GmbH) merged into in-tech Engineering S.R.L. (formerly known as ProIT and wholly-owned subsidiary of in-tech GmbH) effective November 30, 2025
+(45) Infosys Consulting S.R.L. (Argentina) (formerly a majority owned and controlled subsidiary of Infosys Limited) became the majority owned and controlled subsidiary of Infosys Nova Holdings LLC with effect from January 28, 2026
+(46) Incorporated on March 19, 2026

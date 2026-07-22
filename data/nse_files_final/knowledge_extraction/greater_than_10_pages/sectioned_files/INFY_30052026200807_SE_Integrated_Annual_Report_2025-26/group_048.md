@@ -1,110 +1,208 @@
 ---
 document_name: "INFY_30052026200807_SE_Integrated_Annual_Report_2025-26.md"
 group_id: "INFY_30052026200807_SE_Integrated_Annual_Report_2025-26__group_048"
-source_section_count: 1
-page_start: 219
-page_end: 221
-estimated_tokens: 3148
+source_section_count: 2
+page_start: 214
+page_end: 219
+estimated_tokens: 5643
 source_section_ids:
-  - "INFY_30052026200807_SE_Integrated_Annual_Report_2025-26__090"
+  - "INFY_30052026200807_SE_Integrated_Annual_Report_2025-26__088"
+  - "INFY_30052026200807_SE_Integrated_Annual_Report_2025-26__089"
 ---
 
-## Special Economic Zone Re-investment reserve
-The Special Economic Zone Re-investment reserve has been created out of the profit of the eligible SEZ unit in terms of the provisions of Section 10AA (1)(ii) of Income Tax Act, 1961. The reserve should be utilized by the Company for acquiring new plant and machinery for the purpose of its business in terms of the provisions of the Section 10AA (2) of the Income Tax Act, 1961.
-## Other components of equity
-Other components of equity include remeasurement of net defined benefit liability / asset, equity instruments fair valued through other comprehensive income, changes on fair valuation of investments and changes in fair value of derivatives designated as cash flow hedges, net of taxes.
-## Cash flow hedge reserve
-When a derivative is designated as a cash flow hedging instrument, the effective portion of changes in the fair value of the derivative is recognized in other comprehensive income and accumulated in the cash flow hedge reserve. The cumulative gain or loss previously recognized in the cash flow hedging reserve is transferred to the Statement of Profit and Loss upon the occurrence of the related forecasted transaction.
-## 2.12.1 Equity share capital
-| Particulars                                                 | Year ended March 31,   | Year ended March 31,   |
-|-------------------------------------------------------------|------------------------|------------------------|
-|                                                             | 2026                   | 2025                   |
-| Authorized                                                  |                        |                        |
-| Equity shares, ` 5/- par value                              |                        |                        |
-| 4,80,00,00,000 (4,80,00,00,000) equity shares               | 2,400                  | 2,400                  |
-| Issued, Subscribed and Paid-Up                              |                        |                        |
-| Equity shares, ` 5/- par value (1)                          | 2,027                  | 2,076                  |
-| 4,05,55,91,723 (4,15,32,63,455) equity shares fully paid-up |                        |                        |
-|                                                             | 2,027                  | 2,076                  |
+## i) Investments
+|                                                                        |                     |                     |                     |                     |                     | (In ` crore)        |
+|------------------------------------------------------------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|
+| Particulars                                                            | Year ended March 31 | Year ended March 31 | Year ended March 31 | Year ended March 31 | Year ended March 31 | Year ended March 31 |
+|                                                                        | 2026                | 2026                | 2026                | 2025                | 2025                | 2025                |
+|                                                                        | Equity              | Preference          | Others              | Equity              | Preference          | Others              |
+| Balance at the beginning                                               | 2                   | 192                 | 61                  | 2                   | 91                  | 84                  |
+| Purchase of investments                                                | -                   | -                   | 2                   | -                   | 25                  | 8                   |
+| Fair value gain / (loss) recognised through other comprehensive income | -                   | 443                 | -                   | -                   | 75                  | -                   |
+| Fair value gain / (loss) recognised through profit and loss            | -                   | 28                  | -                   | -                   | -                   | (20)                |
+| Sale of investments                                                    | -                   | -                   | (4)                 | -                   | -                   | (11)                |
+| Translation difference                                                 | -                   | 17                  | -                   | -                   | 1                   | -                   |
+| Balance at the end                                                     | 2                   | 680                 | 59                  | 2                   | 192                 | 61                  |
 
-(In ` crore, except as otherwise stated)
-(1) Refer to Note 2.22 for details of basic and diluted shares
-## Forfeited shares amounted to ` 1,500/- ( ` 1,500/-)
-The Company has only one class of shares referred to as equity shares having a par value of ` 5/-. Each holder of equity shares is entitled to one vote per share. The equity shares represented by American Depository Shares (ADS) carry similar rights to voting and dividends as the other equity shares. Each ADS represents one underlying equity share.
-In the event of liquidation of the Company, the holders of equity shares will be entitled to receive any of the remaining assets of the company in proportion to the number of equity shares held by the shareholders, after distribution of all preferential amounts. However, no such preferential amounts exist currently.
-There are no voting, dividend or liquidation rights to the holders of options issued under the Company's share option plans.
-For details of shares reserved for issue under the employee stock option plan of the Company, Refer to Note below.
-## In the period of five years immediately preceding March 31, 2026:
-## Buyback
-In the period of five years immediately preceding March 31, 2026, the Company had purchased and extinguished a total of 21,62,33,685 fully paid-up equity shares of face value ` 5/- each from the stock exchange. The Company has only one class of equity shares.
-## Capital allocation policy
-Effective fiscal 2025, the Company expects to continue its policy of returning approximately 85% of the free cash flow cumulatively over a 5-year period through a combination of semi-annual dividends and / or share buyback / special dividends subject to applicable laws and requisite approvals, if any.
-Under this policy, the Company expects to progressively increase its annual dividend per share (excluding special dividend if any).
-Free cash flow is defined as net cash provided by operating activities less capital expenditure as per the consolidated statement of cash flows prepared under IFRS. Dividend and buyback include applicable taxes.
-## Buyback completed in December 2025
-In line with the capital allocation policy, the Board, at its meeting held on September 11, 2025, approved a proposal for the Company to buyback its fully paid-up equity shares of face value of ` 5/- each from the eligible equity shareholders of the Company for an amount of ` 18,000 crore subject to shareholders' approval by way of Postal Ballot. The shareholders approved the said proposal of buyback of Equity Shares recommended by its Board of Directors by way of e-voting through postal ballot, the results of which were declared on November 6, 2025. The Buyback offer comprised a purchase of 10,00,00,000 Equity Shares comprising approximately 2.41% of the total paid-up equity share capital of the Company as of June 30, 2025 (on standalone basis) at a price of ` 1,800 per Equity share. The buyback was offered to all eligible equity shareholders (including those who became equity shareholders as on the Record date by cancelling American Depository Shares and withdrawing underlying Equity shares) of the Company as on the Record Date (i.e. November 14, 2025) on a proportionate basis through the "Tender offer" route. The tender period for buyback commenced on November 20, 2025, and was open until November 26, 2025. The Company concluded the buyback procedures on December 4, 2025, and 10,00,00,000 equity shares were bought back and extinguished. The buyback resulted in cash outflow of ` 18,000 crore (excluding transaction costs). The Company funded the buyback from its free reserves including securities premium as explained in Section 68 of the Companies Act, 2013. In accordance with Section 69 of the Companies Act, 2013, as at March 31, 2026, the Company has created a Capital Redemption Reserve of ` 50 crore equal to the nominal value of the shares bought back as an appropriation from the general reserve.
-The Company's objective when managing capital is to safeguard its ability to continue as a going concern and to maintain an optimal capital structure so as to maximize shareholder value. In order to maintain or achieve an optimal capital structure, the Company may adjust the amount of dividend payment, return capital to shareholders, issue new shares or buy back issued shares. As of March 31, 2026, the Company has only one class of equity shares and has no debt. Consequent to the above capital structure there are no externally imposed capital requirements.
-## 2.12.2 Shareholding of promoter
-The details of shares held by promoters as at March 31, 2026 and the change during the year ended March 31, 2026:
-| Promoter name                 | No. of shares   | %of total shares   | %change during the year   |
-|-------------------------------|-----------------|--------------------|---------------------------|
-| Sudha Gopalakrishnan          | 9,53,57,000     | 2.35               | -                         |
-| Rohan Murty                   | 6,08,12,892     | 1.50               | -                         |
-| S. Gopalakrishnan             | 3,18,53,808     | 0.79               | -                         |
-| Nandan M. Nilekani            | 4,07,83,162     | 1.01               | -                         |
-| Akshata Murty                 | 3,89,57,096     | 0.96               | -                         |
-| Asha Dinesh                   | 3,85,79,304     | 0.95               | -                         |
-| Sudha N. Murty                | 3,45,50,626     | 0.85               | -                         |
-| Rohini Nilekani               | 3,43,35,092     | 0.85               | -                         |
-| Dinesh Krishnaswamy           | 3,24,79,590     | 0.80               | -                         |
-| Shreyas Shibulal              | 1,79,37,000     | 0.44               | (10.00)                   |
-| N. R. Narayana Murthy         | 1,51,45,638     | 0.37               | -                         |
-| Nihar Nilekani                | 1,26,77,752     | 0.31               | -                         |
-| Janhavi Nilekani              | 85,89,721       | 0.21               | -                         |
-| Kumari Shibulal               | 49,45,935       | 0.12               | -                         |
-| Deeksha Dinesh                | 76,46,684       | 0.19               | -                         |
-| Divya Dinesh                  | 76,46,684       | 0.19               | -                         |
-| Meghana Gopalakrishnan        | 1,48,34,928     | 0.37               | -                         |
-| Shruti Shibulal               | 87,05,651       | 0.21               | -                         |
-| S. D. Shibulal                | 52,08,673       | 0.13               | -                         |
-| Promoters Group               |                 |                    |                           |
-| Ekagrah Rohan Murty           | 15,00,000       | 0.04               | -                         |
-| Gaurav Manchanda              | 57,73,233       | 0.14               | -                         |
-| Milan Shibulal Manchanda      | 61,06,302       | 0.15               | -                         |
-| Nikita Shibulal Manchanda     | 61,06,302       | 0.15               | -                         |
-| Bhairavi Madhusudhan Shibulal | 48,85,500       | 0.12               | (9.99)                    |
-| Shray Chandra                 | 7,19,424        | 0.02               | -                         |
-| Tanush Nilekani Chandra       | 33,56,017       | 0.08               | -                         |
+## ii) Liability towards contingent consideration
+| Particulars                                                | As at March 31,   | As at March 31,   |
+|------------------------------------------------------------|-------------------|-------------------|
+|                                                            | 2026              | 2025              |
+| Balance at the beginning                                   | 31                | -                 |
+| Addition due to business combination ( Refer to Note 2.5 ) | -                 | 30                |
+| Finance cost                                               | 2                 | 1                 |
+| Payments                                                   | (13)              | -                 |
+| Translation difference                                     | -                 | -                 |
+| Balance at the end                                         | 20                | 31                |
 
-## 2.12.3 Dividend
-The final dividend on shares is recorded as a liability on the date of approval by the shareholders and interim dividends are recorded as a liability on the date of declaration by the Company's Board of Directors. Income tax consequences of dividends on financial instruments classified as equity will be recognized according to where the entity originally recognized those past transactions or events that generated distributable profits.
-The Company declares and pays dividends in Indian rupees. Companies are required to pay / distribute dividend after deducting applicable taxes. The remittance of dividends outside India is governed by Indian law on foreign exchange and is also subject to withholding tax at applicable rates.
-The amount of per share dividend recognized as distribution to equity shareholders in accordance with Companies Act 2013 is as follows:-
-|                                  |                      | (In ` )              |
-|----------------------------------|----------------------|----------------------|
-| Particulars                      | Year ended March 31, | Year ended March 31, |
-|                                  | 2026                 | 2025                 |
-| Interim dividend for fiscal 2026 | 23.00                | -                    |
-| Final dividend for fiscal 2025   | 22.00                | -                    |
-| Interim dividend for fiscal 2025 | -                    | 21.00                |
-| Special dividend for fiscal 2024 | -                    | 8.00                 |
-| Final dividend for fiscal 2024   | -                    | 20.00                |
+A one percentage point change in the unobservable inputs used in fair valuation of Level 3 assets and liabilities does not have a significant impact on the fair values of level 3 financial instruments.
+## Financial risk management
+## Financial risk factors
+The Company's activities expose it to a variety of financial risks: market risk, credit risk and liquidity risk. The Company's primary focus is to foresee the unpredictability of financial markets and seek to minimize potential adverse effects on its financial performance. The primary market risk to the Company is foreign exchange risk. The Company uses derivative financial instruments to mitigate foreign exchange related risk exposures. The Company's exposure to credit risk is influenced mainly by the individual characteristic of each customer and the concentration of risk from the top few customers.
+## Market risk
+The Company operates internationally and a major portion of the business is transacted in several currencies and consequently the Company is exposed to foreign exchange risk through its sales and services in the United States and elsewhere, and purchases from overseas suppliers in various foreign currencies. The Company holds derivative financial instruments such as foreign exchange forward and option contracts to mitigate the risk of changes in exchange rates on foreign currency exposures. The Company is also exposed to foreign exchange risk arising on intercompany transaction in foreign currencies. The exchange rate between the Indian rupee and foreign currencies has changed substantially in recent years and may fluctuate substantially in the future. Consequently, the results of the Company's operations are adversely affected as the rupee appreciates / depreciates against these currencies.
+The foreign currency risk from financial assets and liabilities as at March 31, 2026 is as follows:
+| Particulars               | U.S. dollars   | Euro    | United Kingdom Pound Sterling   | Australian dollars   | Other currencies   | (In ` crore) Total   |
+|---------------------------|----------------|---------|---------------------------------|----------------------|--------------------|----------------------|
+| Net financial assets      | 25,934         | 10,443  | 2,074                           | 1,679                | 3,507              | 43,637               |
+| Net financial liabilities | (12,788)       | (2,725) | (1,266)                         | (794)                | (1,097)            | (18,670)             |
+| Total                     | 13,146         | 7,718   | 808                             | 885                  | 2,410              | 24,967               |
 
-During the year ended March 31, 2026, on account of the final dividend for fiscal 2025 and interim dividend for fiscal 2026, the Company has incurred a net cash outflow of ` 18,694 crore.
-The Board of Directors in their meeting held on April 23, 2026, recommended a final dividend of ` 25/- per equity share for the financial year ended March 31, 2026. The payment is subject to approval of shareholders in the Annual General Meeting (AGM) of the Company to be held on June 23, 2026, and if approved, would result in a net cash outflow of approximately ` 10,139 crore.
-The details of shareholders holding more than 5% shares as at March 31, 2026 and March 31, 2025 are as follows:
-| Nameof the shareholder                                                       | As at March 31, 2026   | As at March 31, 2026   | As at March 31, 2025   | As at March 31, 2025   |
-|------------------------------------------------------------------------------|------------------------|------------------------|------------------------|------------------------|
-|                                                                              | Number of shares       | %held                  | Number of shares       | %held                  |
-| Deutsche Bank Trust Company Americas (Depository of ADR's - legal ownership) | 30,50,54,064           | 7.52                   | 43,98,60,715           | 10.59                  |
-| Life Insurance Corporation of India                                          | 43,27,82,872           | 10.67                  | 38,81,12,531           | 9.34                   |
+The foreign currency risk from financial assets and liabilities as at March 31, 2025 is as follows:
+| Particulars               | US Dollar   | Euro    | United Kingdom Pound Sterling   | Australian Dollar   | Other currencies   | (In ` crore) Total   |
+|---------------------------|-------------|---------|---------------------------------|---------------------|--------------------|----------------------|
+| Net financial assets      | 24,242      | 9,143   | 1,943                           | 1,322               | 2,842              | 39,492               |
+| Net financial liabilities | (11,234)    | (2,132) | (977)                           | (690)               | (997)              | (16,030)             |
+| Total                     | 13,008      | 7,011   | 966                             | 632                 | 1,845              | 23,462               |
 
-The reconciliation of the number of shares outstanding and the amount of share capital as at March 31, 2026 and March 31, 2025 is as follows:
-(In ` crore, except as stated otherwise)
-| Nameof the shareholder                                   | As at March 31, 2026   | As at March 31, 2026   | As at March 31, 2025   | As at March 31, 2025   |
-|----------------------------------------------------------|------------------------|------------------------|------------------------|------------------------|
-|                                                          | Number of shares       | Amount                 | Number of shares       | Amount                 |
-| As at the beginning of the period                        | 4,15,32,63,455         | 2,076                  | 4,15,08,67,464         | 2,075                  |
-| Add: Shares issued on exercise of employee stock options | 23,28,268              | 1                      | 23,95,991              | 1                      |
-| Less: Shares bought back                                 | 10,00,00,000           | 50                     | -                      | -                      |
-| As at the end of the period                              | 4,05,55,91,723         | 2,027                  | 4,15,32,63,455         | 2,076                  |
+## Sensitivity analysis between Indian Rupee and US Dollar
+| Particulars                                           | Year ended March 31,   | Year ended March 31,   |
+|-------------------------------------------------------|------------------------|------------------------|
+|                                                       | 2026                   | 2025                   |
+| Impact on the Company's incremental operating margins | 0.47%                  | 0.46%                  |
+
+Sensitivity analysis is computed based on the changes in the income and expenses in foreign currency upon conversion into functional currency, due to exchange rate fluctuations between the previous reporting period and the current reporting period.
+## Derivative financial instruments
+The Company primarily holds derivative financial instruments such as foreign currency forward and option contracts to mitigate the risk of changes in exchange rates on foreign currency exposures. The counterparty for these contracts is generally a bank. These derivative financial instruments are valued based on quoted prices for similar assets and liabilities in active markets or inputs that are directly or indirectly observable in the marketplace.
+The details in respect of outstanding foreign currency forward and option contracts are as follows:
+| Particulars                                | As at March 31,   | As at March 31,   | As at March 31,   | As at March 31,   |
+|--------------------------------------------|-------------------|-------------------|-------------------|-------------------|
+|                                            | 2026              | 2026              | 2025              | 2025              |
+|                                            | In million        | In ` crore        | In million        | In ` crore        |
+| Derivatives designated as cash flow hedges |                   |                   |                   |                   |
+| Forward contracts                          |                   |                   |                   |                   |
+| In Swiss Franc                             | -                 | -                 | 53                | 513               |
+| Option Contracts                           |                   |                   |                   |                   |
+| In Euro                                    | 417               | 4,546             | 341               | 3,140             |
+| In Australian Dollar                       | 87                | 566               | 93                | 500               |
+| In Swiss Franc                             | 26                | 303               | -                 | -                 |
+| In United Kingdom Pound Sterling           | 18                | 230               | 17                | 188               |
+| Other derivatives                          |                   |                   |                   |                   |
+| Forward contracts                          |                   |                   |                   |                   |
+| In US Dollar                               | 1,359             | 12,886            | 1,098             | 9,386             |
+| In Euro                                    | 787               | 8,584             | 652               | 6,009             |
+| In Singapore Dollar                        | 149               | 1,093             | 133               | 849               |
+
+| Particulars                         | As at March 31,   | As at March 31,   | As at March 31,   | As at March 31,   |
+|-------------------------------------|-------------------|-------------------|-------------------|-------------------|
+|                                     | 2026              | 2026              | 2025              | 2025              |
+|                                     | In million        | In ` crore        | In million        | In ` crore        |
+| In Swiss Franc                      | 70                | 837               | 51                | 495               |
+| In United Kingdom Pound Sterling    | 41                | 510               | 26                | 284               |
+| In Australian dollars               | 58                | 377               | 24                | 126               |
+| In Norwegian Krone                  | 300               | 291               | 167               | 136               |
+| In Hongkong dollar                  | 106               | 128               | 40                | 44                |
+| In New Zealand dollars              | 22                | 122               | 37                | 181               |
+| In South African rand               | 152               | 84                | -                 | -                 |
+| In Danish Krone                     | 50                | 73                | 152               | 188               |
+| In Hungarian Forint                 | 2,280             | 64                | 2,000             | 44                |
+| In Canadian dollars                 | 3                 | 17                | -                 | -                 |
+| Option contracts                    |                   |                   |                   |                   |
+| In US Dollar                        | 685               | 6,499             | 796               | 6,800             |
+| In Euro                             | 48                | 523               | 179               | 1,648             |
+| In Australian Dollar                | 25                | 163               | 11                | 57                |
+| In United Kingdom Pound Sterling    | 10                | 125               | -                 | -                 |
+| Total forwards and option contracts |                   | 38,021            |                   | 30,588            |
+
+The foreign exchange forward and option contracts mature within 12 months. The table below analyzes the derivative financial instruments into relevant maturity groupings based on the remaining period as at the Balance Sheet date:
+|                                                      | (In ` crore)    | (In ` crore)    |
+|------------------------------------------------------|-----------------|-----------------|
+| Particulars                                          | As at March 31, | As at March 31, |
+|                                                      | 2026            | 2025            |
+| Not later than one month                             | 19,944          | 14,515          |
+| Later than one month and not later than three months | 17,034          | 15,175          |
+| Later than three months and not later than one year  | 1,043           | 898             |
+| Total                                                | 38,021          | 30,588          |
+
+During the year ended March 31, 2026 and March 31, 2025, the Company has designated certain foreign exchange forward and option contracts as cash flow hedges to mitigate the risk of foreign exchange exposure on highly probable forecast cash transactions. The related hedge transactions for balance in cash flow hedge reserve as at March 31, 2026, are expected to occur and reclassified to Statement of Profit and Loss within 3 months.
+The Company determines the existence of an economic relationship between the hedging instrument and hedged item based on the currency, amount and timing of its forecasted cash flows. Hedge effectiveness is determined at the inception of the hedge relationship, and through periodic prospective effectiveness assessments to ensure that an economic relationship exists between the hedged item and hedging instrument, including whether the hedging instrument is expected to offset changes in cash flows of hedged items.
+If the hedge ratio for risk management purposes is no longer optimal but the risk management objective remains unchanged and the hedge continues to qualify for hedge accounting, the hedge relationship will be rebalanced by adjusting either the volume of the hedging instrument or the volume of the hedged item so that the hedge ratio aligns with the ratio used for risk management purposes. Any hedge ineffectiveness is calculated and accounted for in the Statement of Profit or Loss at the time of the hedge relationship rebalancing.
+The reconciliation of cash flow hedge reserve for the years ended March 31, 2026 and March 31, 2025 is as follows:
+|                                                                        | (In                  | ` crore)             |
+|------------------------------------------------------------------------|----------------------|----------------------|
+| Particulars                                                            | Year ended March 31, | Year ended March 31, |
+|                                                                        | 2026                 | 2025                 |
+| Gain / (Loss)                                                          |                      |                      |
+| Balance at the beginning of the year                                   | (18)                 | 6                    |
+| Gain / (Loss) recognized in other comprehensive income during the year | (306)                | (5)                  |
+| Amount reclassified to profit and loss during the year                 | 304                  | (27)                 |
+| Tax impact on above                                                    | 1                    | 8                    |
+| Balance at the end of the year                                         | (19)                 | (18)                 |
+
+The Company offsets a financial asset and a financial liability when it currently has a legally enforceable right to set off the recognized amounts and the Company intends either to settle on a net basis, or to realize the asset and settle the liability simultaneously.
+The quantitative information about offsetting of derivative financial assets and derivative financial liabilities is as follows:
+|                                                        |                            |                                |                            | (In ` crore)                   |
+|--------------------------------------------------------|----------------------------|--------------------------------|----------------------------|--------------------------------|
+| Particulars                                            | As at March 31             | As at March 31                 | As at March 31             | As at March 31                 |
+|                                                        | 2026                       | 2026                           | 2025                       | 2025                           |
+|                                                        | Derivative financial asset | Derivative financial liability | Derivative financial asset | Derivative financial liability |
+| Gross amount of recognized financial asset / liability | 175                        | (642)                          | 226                        | (111)                          |
+| Amount set off                                         | (95)                       | 95                             | (55)                       | 55                             |
+| Net amount presented in Balance Sheet                  | 80                         | (547)                          | 171                        | (56)                           |
+
+## Credit risk
+Credit risk refers to the risk of default on its obligation by the counterparty resulting in a financial loss. The maximum exposure to the credit risk at the reporting date is primarily from trade receivables amounting to ` 30,337 crore and ` 26,413 crore as at March 31, 2026 and March 31, 2025, respectively and unbilled revenue amounting to ` 13,706 crore and ` 11,988 crore as at March 31, 2026 and March 31, 2025, respectively. Trade receivables and unbilled revenue are typically unsecured and are derived from revenue from customers majorly located in the United States of America and Europe. Credit risk has always been managed by the Company through credit approvals, establishing credit limits and continuously monitoring the creditworthiness of the customers to which the Company grants credit terms in the normal course of business. The Company uses the expected credit loss model to assess any required allowances and uses a provision matrix to compute the expected credit loss allowance for trade receivables and unbilled revenues. This matrix takes into account credit reports and other related credit information to the extent available.
+The Company's exposure to credit risk is influenced mainly by the individual characteristic of each customer and the concentration of risk from the top few customers. Exposure to customers is diversified and there is no single customer contributing more than 10% of outstanding trade receivables and unbilled revenues.
+The details in respect of percentage of revenues generated from top five customers and top ten customers are as follows:
+| Particulars                     |   2026 |   2025 |
+|---------------------------------|--------|--------|
+| Revenue from top five customers |   12.7 |   12.0 |
+| Revenue from top ten customers  |   20.5 |   19.9 |
+
+## Credit risk exposure
+The Company's credit period generally ranges from 30-75 days.
+The allowance for lifetime expected credit loss on customer balances recognized for the year ended March 31, 2026 and March 31, 2025 is ` 113 crore and ` 63 crore, respectively.
+The movement in credit loss allowance on customer balance is as follows:
+|                                              | (In                  | (In                  |
+|----------------------------------------------|----------------------|----------------------|
+| Particulars                                  | Year ended March 31, | Year ended March 31, |
+|                                              | 2026                 | 2025                 |
+| Balance at the beginning                     | 702                  | 721                  |
+| Impairment loss recognized / (reversed), net | 113                  | 63                   |
+| Amounts written off                          | (165)                | (69)                 |
+| Translation differences                      | 71                   | (13)                 |
+| Balance at the end                           | 721                  | 702                  |
+
+The gross carrying amount of a financial asset is written off (either partially or in full) when there is no realistic prospect of recovery.
+## Credit exposure
+|                   | (In ` crore)          | (In ` crore)   |
+|-------------------|-----------------------|----------------|
+| Particulars       | Year ended March 2026 | 31, 2025       |
+| Trade receivables | 30,337                | 26,413         |
+| Unbilled revenues | 13,706                | 11,988         |
+
+Credit risk on cash and cash equivalents is limited as the Company generally invest in deposits with banks with high ratings assigned by international and domestic credit rating agencies. Ratings are monitored periodically, and the Company has considered the latest available credit ratings as at the date of approval of these financial statements.
+The investments of the Company primarily include investment in mutual fund units, target maturity fund units, tax-free bonds, certificates of deposit, commercial paper, treasury bills, government securities, non-convertible debentures, quoted bonds issued by government and quasi government organizations. The Company invests after considering counterparty risks based on multiple criteria, including Tier I Capital, Capital Adequacy Ratio, credit rating, profitability, NPA levels and deposit base of banks and financial institutions. These risks are monitored regularly as per Group's risk management program.
+## Liquidity risk
+Liquidity risk is defined as the risk that the Company will not be able to settle or meet its obligations on time.
+The Company's principal sources of liquidity are cash and cash equivalents and the cash flow that is generated from operations. The Company has no outstanding borrowings. The Company believes that the working capital is sufficient to meet its current requirements.
+As at March 31, 2026, the Company had a working capital of ` 40,794 crore, including cash and cash equivalents of ` 8,727 crore and current investments of ` 12,039 crore. As at March 31, 2025, the Company had a working capital of ` 45,406 crore, including cash and cash equivalents of ` 14,265 crore and current investments of ` 11,147 crore.
+As at March 31, 2026 and March 31, 2025, the outstanding compensated absences were  2,819 crore and  2,412 crore, respectively, which have been substantially funded. Accordingly, no liquidity risk is perceived.
+Refer to Note 2.3 for remaining contractual maturities of lease liabilities.
+The details regarding the contractual maturities of significant financial liabilities as at March 31, 2026 are as follows:
+| Particulars                                                                              | Less than 1 year   | 1-2 years   | 2-4 years   | 4-7 years   | (In ` crore) Total   |
+|------------------------------------------------------------------------------------------|--------------------|-------------|-------------|-------------|----------------------|
+| Trade payables                                                                           | 3,539              | -           | -           | -           | 3,539                |
+| Other financial liabilities on an undiscounted basis (Refer to Note 2.13)                | 13,531             | 1,582       | 191         | 2           | 15,306               |
+| Liability towards contingent consideration on an undiscounted basis (Refer to Note 2.13) | 20                 | -           | -           | -           | 20                   |
+
+The details regarding the contractual maturities of significant financial liabilities as at March 31, 2025 are as follows:
+| Particulars                                                                                                                        | Less than 1 year   | 1-2 years   | 2-4 years   | 4-7 years   | (In ` crore) Total   |
+|------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|-------------|-------------|----------------------|
+| Trade payables                                                                                                                     | 2,728              | -           | -           | -           | 2,728                |
+| Other financial liabilities (excluding liability towards contingent consideration) on an undiscounted basis ( Refer to Note 2.13 ) | 11,712             | 1,732       | 138         | 11          | 13,593               |
+| Liability towards contingent consideration on an undiscounted basis ( Refer to Note 2.13 )                                         | 11                 | 20          | -           | -           | 31                   |
+
+## 2.12 Equity
+Accounting policy
+## Ordinary shares
+Ordinary shares are classified as equity share capital. Incremental costs directly attributable to the issuance of new ordinary shares, share options and buyback are recognized as a deduction from equity, net of any tax effects.
+## Description of reserves
+## Capital redemption reserve
+In accordance with Section 69 of the Indian Companies Act, 2013, the Company creates capital redemption reserve equal to the nominal value of the shares bought back as an appropriation from general reserve / retained earnings.
+## Retained earnings
+Retained earnings represent the amount of accumulated earnings of the Company.
+## Securities premium
+The amount received in excess of the par value of equity shares has been classified as securities premium. Amounts have been utilized for bonus issue and share buyback from share premium account.
+## Share options outstanding account
+The Share options outstanding account is used to record the fair value of equity-settled share based payment transactions with employees. The amounts recorded in share options outstanding account are transferred to securities premium upon exercise of stock options and transferred to general reserve on account of stock options not exercised by employees.

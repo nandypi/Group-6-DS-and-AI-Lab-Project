@@ -2,200 +2,111 @@
 document_name: "Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26.md"
 group_id: "Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26__group_041"
 source_section_count: 2
-page_start: 178
-page_end: 183
-estimated_tokens: 5325
+page_start: 174
+page_end: 178
+estimated_tokens: 4572
 source_section_ids:
-  - "Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26__075"
-  - "Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26__076"
+  - "Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26__073"
+  - "Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26__074"
 ---
 
-## vii. In respect of statutory dues:
-- (a) In our opinion, the Company has generally been regular in depositing undisputed statutory dues, including Goods and Services tax, Provident Fund, Employees' State Insurance, Income Tax, Sales Tax, Service Tax, duty of Custom, duty of Excise, Value Added Tax, Cess and other material statutory dues applicable to it with the appropriate authorities.
+## Information Other than the Financial Statements and Auditor's Report Thereon
+The Company's Board of Directors is responsible for the other information. The other information comprises the information included in the Management Discussion and Analysis, Board's Report including Annexures to Board's Report, Business Responsibility and Sustainability Report, Corporate Governance and Shareholder's Information, but does not include the Consolidated Financial Statements, Standalone Financial Statements and our auditor's report thereon.
+Our opinion on the Standalone Financial Statements does not cover the other information and we do not express any form of assurance conclusion thereon.
+In connection with our audit of the Standalone Financial Statements, our responsibility is to read the other information and, in doing so, consider whether the other information is materially inconsistent with the Standalone Financial Statements or our knowledge obtained during the course of our audit or otherwise appears to be materially misstated.
+If, based on the work we have performed, we conclude that there is a material misstatement of this other information, we are required to report that fact. We have nothing to report in this regard.
+## Responsibilities of Management and Board of Directors for the Standalone Financial Statements
+The Company's Board of Directors is responsible for the matters stated in section 134(5) of the Act with respect to the preparation of these Standalone Financial Statements that give a true and fair view of the financial position, financial performance, including other comprehensive income, changes in equity and cash flows of the Company in accordance with the accounting principles generally accepted in India, including Ind AS specified under section 133 of the Act. This responsibility also includes maintenance of adequate accounting records in accordance with the provisions of the Act for safeguarding the assets of the Company and for preventing and detecting frauds and other irregularities; selection and application of appropriate accounting policies; making judgments and estimates that are reasonable and prudent; and design, implementation and maintenance of adequate internal financial controls, that were operating effectively for ensuring the accuracy and completeness of the accounting records, relevant to the preparation and presentation of the Standalone Financial Statements that give a true and fair view and are free from material misstatement, whether due to fraud or error.
+In preparing the Standalone Financial Statements, management and Board of Directors are responsible for assessing the Company's ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless the Board of Directors either intends to liquidate the Company or to cease operations, or has no realistic alternative but to do so.
+The Company's Board of Directors are also responsible for overseeing the Company's financial reporting process.
+## Auditor's Responsibilities for the Audit of the Standalone Financial Statements
+Our objectives are to obtain reasonable assurance about whether the Standalone Financial Statements as a whole are free from material misstatement, whether due to fraud or error, and to issue an auditor's report that includes our opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with SAs will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these Standalone Financial Statements.
+As part of an audit in accordance with SAs, we exercise professional judgment and maintain professional scepticism throughout the audit. We also:
+- Identify and assess the risks of material misstatement of the Standalone Financial Statements, whether due to fraud or error, design and perform audit procedures responsive to those risks, and obtain audit evidence that is sufficient and appropriate to provide a basis for our opinion. The risk of not detecting a material misstatement resulting from fraud is higher than for one resulting from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.
+- Obtain an understanding of internal financial control relevant to the audit in order to design audit procedures that are appropriate in the circumstances. Under section 143(3)(i) of the Act, we are also responsible for expressing our opinion on whether the Company has adequate internal financial controls with reference to Standalone Financial Statements in place and the operating effectiveness of such controls.
+- Evaluate the appropriateness of accounting policies used and the reasonableness of accounting estimates and related disclosures made by the management.
+- Conclude on the appropriateness of management's use of the going concern basis of accounting and, based on the audit evidence obtained, whether a material uncertainty exists related to events or conditions that may cast significant doubt on the Company's ability to continue as a going concern. If we conclude that a material uncertainty exists, we are required to draw attention in our auditor's report to the related disclosures in the Standalone Financial Statements or, if such disclosures are inadequate, to modify our opinion. Our conclusions are based on the audit evidence obtained up to the date of our auditor's report. However, future events or conditions may cause the Company to cease to continue as a going concern.
 
-There were no undisputed amounts payable in respect of Goods and Service tax, Provident Fund, Employees' State Insurance, Income Tax, Sales Tax, Service Tax, duty of Custom, duty of Excise, Value Added Tax, Cess and other material statutory dues in arrears as at March 31, 2026 for a period of more than six months from the date they became payable.
-- (b) Details of statutory dues referred to in sub-clause (a) above which have not been deposited as on March 31, 2026 on account of disputes are given below:
+- Evaluate the overall presentation, structure and content of the Standalone Financial Statements, including the disclosures, and whether the Standalone Financial Statements represent the underlying transactions and events in a manner that achieves fair presentation.
 
-| Nature of the statute                                              | Nature of dues                             | Forum where Dispute is Pending                                                     | Financial Period to which the Amount Relates   | Amount ` crore   |
-|--------------------------------------------------------------------|--------------------------------------------|------------------------------------------------------------------------------------|------------------------------------------------|------------------|
-| The Income Tax Act, 1961                                           | Income Tax                                 | Assessing Officer                                                                  | 2009-10, 2021-22, 2024-25                      | 1,308            |
-| The Income Tax Act, 1961                                           | Income Tax                                 | Commissioner (Appeals)                                                             | 2010-11,2013-14, 2019-20 to 2024-25            | 423              |
-| The Income Tax Act, 1961                                           | Income Tax                                 | Income Tax Appellate Tribunal                                                      | 2015-16 and 2021-22                            | 1                |
-| Customs Act, 1962                                                  | Duty of Custom                             | Specified Officer of Special Economic Zone                                         | 2008-09 to 2011-12                             | 5                |
-| Central Excise Act, 1944                                           | Duty of Excise                             | Supreme Court (3)                                                                  | 2005-06 to 2015-16                             | 68               |
-| Central Excise Act, 1944                                           | Duty of Excise                             | Customs Excise and Service Tax Appellate Tribunal                                  | 2015-16                                        | - (4)            |
-| Goods and Service Tax Act, 2017                                    | Goods and Services Tax.                    | Joint Commissioner (Appeals)                                                       | 2017-18 to 2022-23, 2024-25                    | 239              |
-| Goods and Service Tax Act, 2017                                    | Goods and Services Tax.                    | GST Appellate Tribunal                                                             | 2017-18 to 2020-21                             | 65               |
-| Goods and Service Tax Act, 2017                                    | Goods and Services Tax.                    | High Court of Karnataka                                                            | 2017-18 and 2020-21                            | 21               |
-| Goods and Service Tax Act, 2017                                    | Goods and Services Tax.                    | Assessing Officer                                                                  | 2017-18 to 2021-22                             | 1                |
-| Sales Tax Act and VAT Laws                                         | Sales Tax                                  | Joint Commissioner (Appeals) (3)                                                   | 2006-07 and 2014-15                            | -                |
-| Sales Tax Act and VAT Laws                                         | Sales Tax                                  | Sales Tax Appellate Tribunal                                                       | 2007-08 to 2010-11                             | 1                |
-| Sales Tax Act and VAT Laws                                         | Sales Tax                                  | High Court of Andhra Pradesh                                                       | 2007-08                                        | - (4)            |
-| Finance Act, 1994                                                  | Service Tax                                | High Court of Karnataka                                                            | 2008-09                                        | 2                |
-| Finance Act, 1994                                                  | Service Tax                                | Customs Excise and Service Tax Appellate Tribunal (2)                              | 2009-10 to 2010-11, 2012-13 to 2017-18         | 267              |
-| The Karnataka [Gram Swaraj and Panchayat Raj] Act, 1993            | Panchayat Property Tax                     | High Court of Karnataka                                                            | 2017-18 to 2020-21                             | 33               |
-| Greater Hyderabad Municipal Corporation Act, 1955                  | Trade Licence Fee                          | Ministry for Information Technology & Municipal Administration & Urban Development | 2021-22 to 2022-23                             | 3                |
-| UK Finance Act 1998                                                | Corporation Tax                            | His Majesty's Revenue and Customs (HMRC) Tax Officer, United Kingdom (3)           | 2014-15 to 2016-17                             | 249              |
-| Canada Pension Plan, RSC 1985 & Employment Insurance Act S.C. 1996 | Canada Pension Plan & Employment Insurance | Canada Revenue Agency                                                              | CY (1) 2019-24                                 | - (4)            |
+Materiality is the magnitude of misstatements in the Standalone Financial Statements that, individually or in aggregate, makes it probable that the economic decisions of a reasonably knowledgeable user of the Standalone Financial Statements may be influenced. We consider quantitative materiality and qualitative factors in (i) planning the scope of our audit work and in evaluating the results of our work; and (ii) to evaluate the effect of any identified misstatements in the Standalone Financial Statements.
+We communicate with those charged with governance regarding, among other matters, the planned scope and timing of the audit and significant audit findings, including any significant deficiencies in internal financial controls that we identify during our audit.
+We also provide those charged with governance with a statement that we have complied with relevant ethical requirements regarding independence, and to communicate with them all relationships and other matters that may reasonably be thought to bear on our independence, and where applicable, related safeguards.
+From the matters communicated with those charged with governance, we determine those matters that were of most significance in the audit of the Standalone Financial Statements of the current period and are therefore the key audit matters. We describe these matters in our auditor's report unless law or regulation precludes public disclosure about the matter or when, in extremely rare circumstances, we determine that a matter should not be communicated in our report because the adverse consequences of doing so would reasonably be expected to outweigh the public interest benefits of such communication.
+## Report on Other Legal and Regulatory Requirements
+1. As required by Section 143(3) of the Act, based on our audit we report that:
+- a) We have sought and obtained all the information and explanations which to the best of our knowledge and belief were necessary for the purposes of our audit.
+- b) In our opinion, proper books of account as required by law have been kept by the Company so far as it appears from our examination of those books.
+- c) The Balance Sheet, the Statement of Profit and Loss including Other Comprehensive Income, Statement of Changes in Equity and the Statement of Cash Flows dealt with by this Report are in agreement with the books of account.
+- d) In our opinion, the aforesaid Standalone Financial Statements comply with the Ind AS specified under Section 133 of the Act.
+- e) On the basis of the written representations received from the directors as on March 31, 2026 taken on record by the Board of Directors, none of the directors is disqualified as on March 31, 2026 from being appointed as a director in terms of Section 164(2) of the Act.
+- f) With respect to the adequacy of the internal financial controls with reference to Standalone Financial Statements of the Company and the operating effectiveness of such controls, refer to our separate report in 'Annexure A'. Our report expresses an unmodified opinion on the adequacy and operating effectiveness of the Company's internal financial controls with reference to Standalone Financial Statements.
+- g) With respect to the other matters to be included in the Auditor's Report in accordance with the requirements of section 197(16) of the Act, as amended, in our opinion and to the best of our information and according to the explanations given to us, the remuneration paid by the Company to its directors during the year is in accordance with the provisions of section 197 of the Act.
+- h) With respect to the other matters to be included in the Auditor's Report in accordance with Rule 11 of the Companies (Audit and Auditors) Rules, 2014, as amended, in our opinion and to the best of our information and according to the explanations given to us:
+- i. The Company has disclosed the impact of pending litigations on its financial position in its Standalone Financial Statements. Refer Note 2.23 to the Standalone Financial Statements.
+- ii. The Company has made provision as required under applicable law or accounting standards for material foreseeable losses. Refer Note 2.16 to the Standalone Financial Statements. The Company did not have any long-term derivative contracts.
+- iii. There has been no delay in transferring amounts, required to be transferred, to the Investor Education and Protection Fund by the Company.
 
-## Footnotes:
-- (1) CY=Calendar Year.
-- (2) Stay order has been granted against ` 60 crore disputed which has not been deposited.
-- (3) Stay order has been granted.
-- (4) Less than ` 1 crore.
 
-- viii. There were no transactions relating to previously unrecorded income that have been surrendered or disclosed as income during the year in the tax assessments under the Income Tax Act, 1961 (43 of 1961).
-- ix. (a) The Company has not taken any loans or other borrowings from any lender. Hence, reporting under clause 3(ix)(a) of the Order is not applicable.
-3. (b) The Company has not been declared wilful defaulter by any bank or financial institution or government or any government authority.
-4. (c) The Company has not taken any term loan during the year and there are no outstanding term loans at the beginning of the year and hence, reporting under clause 3(ix)(c) of the Order is not applicable.
-5. (d) On an overall examination of the financial statements of the Company, funds raised on short-term basis have, prima facie, not been used during the year for long-term purposes by the Company.
-6. (e) On an overall examination of the financial statements of the Company, the Company has not taken any funds from any entity or person on account of or to meet the obligations of its subsidiaries.
-7. (f) The Company has not raised any loans during the year and hence reporting on clause 3(ix)(f) of the Order is not applicable.
-- x. (a) The Company has not raised moneys by way of initial public offer or further public offer (including debt instruments) during the year and hence reporting under clause 3(x)(a) of the Order is not applicable.
-9. (b) During the year, the Company has not made any preferential allotment or private placement of shares or convertible debentures (fully or partly or optionally) and hence reporting under clause 3(x)(b) of the Order is not applicable.
-- xi. (a) No fraud by the Company and no material fraud on the Company has been noticed or reported during the year.
-11. (b) No report under sub-section (12) of section 143 of the Companies Act has been filed in Form ADT-4 as prescribed under rule 13 of Companies (Audit and Auditors) Rules, 2014 with the Central Government, during the year and upto the date of this report.
-12. (c) We have taken into consideration the whistle blower complaints received by the Company during the year (and upto the date of this report), while determining the nature, timing and extent of our audit procedures.
-- xii. The Company is not a Nidhi Company and hence reporting under clause (xii) of the Order is not applicable.
-- xiii. In our opinion, the Company is in compliance with Section 177 and 188 of the Companies Act, 2013 with respect to applicable transactions with the related parties and the details of related party transactions have been disclosed in the Standalone Financial Statements as required by the applicable accounting standards.
-- xiv. (a) In our opinion, the Company has an adequate internal audit system commensurate with the size and the nature of its business
-16. (b) We have considered, the internal audit reports for the year under audit, issued to the Company during the year and till date, in determining the nature, timing and extent of our audit procedures.
-- xv. In our opinion, during the year the Company has not entered into any non-cash transactions with its Directors or persons connected with its directors and hence provisions of section 192 of the Companies Act, 2013 are not applicable to the Company.
-- xvi. (a) In our opinion, the Company is not required to be registered under section 45-IA of the Reserve Bank of India Act, 1934. Hence, reporting under clause 3(xvi)(a), (b) and (c) of the Order is not applicable.
-19. (b) In our opinion, there is no core investment company within the Group (as defined in the Core Investment Companies (Reserve Bank) Directions, 2016) and accordingly reporting under clause 3(xvi)(d) of the Order is not applicable.
-- xvii. The Company has not incurred cash losses during the financial year covered by our audit and the immediately preceding financial year.
-- xviii. There has been no resignation of the statutory auditors of the Company during the year.
-- xix. On the basis of the financial ratios, ageing and expected dates of realisation of financial assets and payment of financial liabilities, other information accompanying the financial statements and our knowledge of the Board of Directors and Management plans and based on our examination of the evidence supporting the assumptions, nothing has come to our attention, which causes us to believe that any material uncertainty exists as on the date of the audit report indicating that Company is not capable of meeting its liabilities existing at the date of balance sheet as and when they fall due within a period of one year from the balance sheet date. We, however, state that this is not an assurance as to the future viability of the Company. We further state that our reporting is based on the facts up to the date of the audit report and we neither give any guarantee nor any assurance that all liabilities falling due within a period of one year from the balance sheet date, will get discharged by the Company as and when they fall due.
 
-- xx. (a) There are no unspent amounts towards Corporate Social Responsibility ('CSR') on other than ongoing projects requiring a transfer to a Fund specified in Schedule VII to the Companies Act, 2013 in compliance with second proviso to sub-section (5) of Section 135 of the said Act. Accordingly, reporting under clause 3(xx)(a) of the Order is not applicable for the year.
-2. (b) In respect of ongoing projects, the Company has transferred unspent CSR amount as at the end of the previous financial year, to a Special account within a period of 30 days from the end of the said financial year in compliance with the provision of section 135(6) of the Companies Act, 2013.
+- iv. (a) The Management has represented that, to the best of its knowledge and belief, no funds have been advanced or loaned or invested (either from borrowed funds or share premium or any other sources or kind of funds) by the Company to or in any other person or entity, including foreign entity ('Intermediaries'), with the understanding, whether recorded in writing or otherwise, that the Intermediary shall, whether, directly or indirectly lend or invest in other persons or entities identified in any manner whatsoever by or on behalf of the Company ('Ultimate Beneficiaries') or provide any guarantee, security or the like on behalf of the Ultimate Beneficiaries;
 
-In respect of ongoing projects, the Company has not transferred the unspent CSR amount as at the Balance Sheet date out of the amounts that was required to be spent during the year, to a Special Account in compliance with the provision of subsection (6) of section 135 of the said Act till the date of our report since the time period for such transfer, i.e., 30 days from the end of the financial year has not elapsed till the date of our report.
+(b) The Management has represented, that, to the best of its knowledge and belief, no funds have been received by the Company from any person or entity, including foreign entity ('Funding Parties'), with the understanding, whether recorded in writing or otherwise, that the Company shall, whether, directly or indirectly, lend or invest in other persons or entities identified in any manner whatsoever by or on behalf of the Funding Party ('Ultimate Beneficiaries') or provide any guarantee, security or the like on behalf of the Ultimate Beneficiaries;
+(c) Based on the audit procedures that have been considered reasonable and appropriate in the circumstances, nothing has come to our notice that has caused us to believe that the representations under sub-clause (i) and (ii) of Rule 11(e), as provided under (a) and (b) above, contain any material misstatement.
+- v. As stated in Note 2.12.3 to the Standalone Financial Statements
+
+(a) The final dividend proposed in the previous year, declared and paid by the Company during the year is in accordance with Section 123 of the Act, as applicable.
+(b) The interim dividend declared and paid by the Company during the year and until the date of this report is in compliance with Section 123 of the Act.
+(c) The Board of Directors of the Company have proposed final dividend for the year which is subject to the approval of the members at the ensuing Annual General Meeting. The amount of dividend proposed is in accordance with section 123 of the Act, as applicable.
+- vi. Based on our examination, which included test checks, the Company has used accounting software systems for maintaining its books of account for the financial year ended March 31, 2026 which have the feature of recording audit trail (edit log) facility and the same has operated throughout the year for all relevant transactions recorded in the software systems. Further, during the course of our audit we did not come across any instance of the audit trail feature being tampered with and the audit trail has been preserved by the Company as per the statutory requirements for record retention.
+2. As required by the Companies (Auditor's Report) Order, 2020 (the 'Order') issued by the Central Government in terms of Section 143(11) of the Act, we give in 'Annexure B' a statement on the matters specified in paragraphs 3 and 4 of the Order.
+
+For DELOITTE HASKINS &amp; SELLS LLP Chartered Accountants (Firm Registration No. 117366W/W-100018)
+
+## Vikas Bagaria
+Partner (Membership No.060408) UDIN: 26060408CPRNQV5105
+Place: Bengaluru Date: April 23, 2026
+## Annexure 'A' to the Independent Auditor's Report
+(Referred to in paragraph 1(f) under 'Report on Other Legal and Regulatory Requirements' section of our report to the Members of Infosys Limited of even date)
+## Report on the Internal Financial Controls with reference to Standalone Financial Statements under Clause (i) of sub-section 3 of Section 143 of the Companies Act, 2013 (the 'Act')
+We have audited the internal financial controls with reference to Standalone Financial Statements of INFOSYS LIMITED (the 'Company') as of March 31, 2026 in conjunction with our audit of the Standalone Financial Statements of the Company for the year ended on that date.
+## Management's and Board of Directors' Responsibilities for Internal Financial Controls
+The Company's Management and Board of Directors are responsible for establishing and maintaining internal financial controls with reference to Standalone Financial Statements based on the internal control over financial reporting criteria established by the Company considering the essential components of internal control stated in the Guidance Note on Audit of Internal Financial Controls Over Financial Reporting issued by the Institute of Chartered Accountants of India (the 'ICAI'). These responsibilities include the design, implementation and maintenance of adequate internal financial controls that were operating effectively for ensuring the orderly and efficient conduct of its business, including adherence to company's policies, the safeguarding of its assets, the prevention and detection of frauds and errors, the accuracy and completeness of the accounting records, and the timely preparation of reliable financial information, as required under the Act.
+## Auditor's Responsibility
+Our responsibility is to express an opinion on the Company's internal financial controls with reference to Standalone Financial Statements based on our audit. We conducted our audit in accordance with the Guidance Note on Audit of Internal Financial Controls Over Financial Reporting (the 'Guidance Note') issued by the ICAI and the Standards on Auditing prescribed under Section 143(10) of the Act, to the extent applicable to an audit of internal financial controls with reference to Standalone Financial Statements. Those Standards and the Guidance Note require that we comply with ethical requirements and plan and perform the audit to obtain reasonable assurance about whether adequate internal financial controls with reference to Standalone Financial Statements was established and maintained and if such controls operated effectively in all material respects.
+Our audit involves performing procedures to obtain audit evidence about the adequacy of the internal financial controls with reference to Standalone Financial Statements and their operating effectiveness. Our audit of internal financial controls with reference to Standalone Financial Statements included obtaining an understanding of internal financial controls with reference to Standalone Financial Statements, assessing the risk that a material weakness exists, and testing and evaluating the design and operating effectiveness of internal control based on the assessed risk. The procedures selected depend on the auditor's judgement, including the assessment of the risks of material misstatement of the financial statements, whether due to fraud or error.
+We believe that the audit evidence we have obtained, is sufficient and appropriate to provide a basis for our audit opinion on the Company's internal financial controls with reference to Standalone Financial Statements.
+## Meaning of Internal Financial Controls with reference to Standalone Financial Statements
+A company's internal financial control with reference to Standalone Financial Statements is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company's internal financial control with reference to Standalone Financial Statements includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorisations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorised acquisition, use, or disposition of the company's assets that could have a material effect on the financial statements.
+## Inherent Limitations of Internal Financial Controls with reference to Standalone Financial Statements
+Because of the inherent limitations of internal financial controls over financial reporting, including the possibility of collusion or improper management override of controls, material misstatements due to error or fraud may occur and not be detected. Also, projections of any evaluation of the internal financial controls with reference to Standalone Financial Statements to future periods are subject to the risk that the internal financial control with reference to Standalone Financial Statements may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+## Opinion
+In our opinion, to the best of our information and according to the explanations given to us, the Company has, in all material respects, an adequate internal financial controls with reference to Standalone Financial Statements and such internal financial controls with reference to Standalone Financial Statements were operating effectively as at March 31, 2026, based on the criteria for internal financial control with reference to Standalone Financial Statements established by the Company considering the essential components of internal control stated in the Guidance Note on Audit of Internal Financial Controls Over Financial Reporting issued by the ICAI.
 For DELOITTE HASKINS &amp; SELLS LLP Chartered Accountants (Firm Registration No. 117366W/W-100018)
 Vikas Bagaria Partner (Membership No.060408) UDIN: 26060408CPRNQV5105
-Place: Bengaluru Date: April 23, 2026
+Place: Bengaluru
+Date: April 23, 2026
+## Annexure 'B' to the Independent Auditor's Report
+(Referred to in paragraph 2 under 'Report on Other Legal and Regulatory Requirements' section of our report to the Members of Infosys Limited of even date)
+To the best of our information and according to the explanations provided to us by the Company and the books of account and records examined by us in the normal course of audit, we state that:
+- i. In respect of the Company's property, plant and equipment, right-of-use assets and intangible assets:
+2. (a) (A) The Company has maintained proper records showing full particulars, including quantitative details and situation of property, plant and equipment and relevant details of right-of-use assets.
+3. (B) The Company has maintained proper records showing full particulars of intangible assets.
+4. (b) The Company has a program of physical verification of property, plant and equipment and right-of-use assets so to cover all the assets once every three years which, in our opinion, is reasonable having regard to the size of the Company and the nature of its assets. Pursuant to the program, certain property, plant and equipment and right-of-use assets were due for verification during the year and were physically verified by the Management during the year. According to the information and explanations given to us, no material discrepancies were noticed on such verification.
+5. (c) Based on our examination of the property tax receipts and lease agreement for land on which building is constructed, registered sale deed / transfer deed / conveyance deed provided to us, we report that, the title in respect of selfconstructed buildings and title deeds of all other immovable properties (other than properties where the company is the lessee and the lease agreements are duly executed in favour of the lessee), disclosed in the financial statements included under Property, Plant and Equipment are held in the name of the Company as at the balance sheet date.
+6. (d) The Company has not revalued any of its property, plant and equipment (including right-of-use assets) and intangible assets during the year.
+7. (e) No proceedings have been initiated during the year or are pending against the Company as at March 31, 2026 for holding any benami property under the Benami Transactions (Prohibition) Act, 1988 (as amended in 2016) and rules made thereunder.
+- ii. (a) The Company does not have any inventory and hence reporting under clause 3(ii)(a) of the Order is not applicable.
+9. (b) The Company has not been sanctioned working capital limits in excess of ` 5 crore, in aggregate, at any points of time during the year, from banks or financial institutions on the basis of security of current assets and hence reporting under clause 3(ii)(b) of the Order is not applicable.
+- iii. The Company has made investments in, Companies and granted unsecured loans to other parties, during the year, in respect of which:
+11. (a) The Company has not provided any loans or advances in the nature of loans or stood guarantee, or provided security to any other entity during the year, and hence reporting under clause 3(iii)(a) of the Order is not applicable.
+12. (b) In our opinion, the investments made and the terms and conditions of the grant of loans, during the year are, prima facie, not prejudicial to the Company's interest.
+13. (c) In respect of loans granted by the Company, the schedule of repayment of principal and payment of interest has been stipulated and the repayments of principal amounts and receipts of interest are generally regular as per stipulation.
+14. (d) In respect of loans granted by the Company, there is no overdue amount remaining outstanding as at the balance sheet date.
+15. (e) No loan granted by the Company which has fallen due during the year, has been renewed or extended or fresh loans granted to settle the overdue of existing loans given to the same parties.
+16. (f) The Company has not granted any loans or advances in the nature of loans either repayable on demand or without specifying any terms or period of repayment during the year. Hence, reporting under clause 3(iii)(f) is not applicable.
 
-## Standalone Balance Sheet
-|                               |      |                 | (In ` crore)    |
-|-------------------------------|------|-----------------|-----------------|
-| Particulars                   | Note | As at March 31, | As at March 31, |
-|                               |      | 2026            | 2025            |
-| Assets                        |      |                 |                 |
-| Non-current assets            |      |                 |                 |
-| Property, plant and equipment | 2.1  | 10,774          | 10,070          |
-| Right-of-use assets           | 2.3  | 2,851           | 3,078           |
-| Capital work-in-progress      | 2.4  | 512             | 778             |
-| Goodwill                      | 2.2  | 211             | 211             |
-| Other intangible assets       |      | -               | -               |
-| Financial assets              |      |                 |                 |
-| Investments                   | 2.5  | 26,036          | 27,371          |
-| Loans                         | 2.6  | 5               | 26              |
-| Other financial assets        | 2.7  | 1,835           | 2,350           |
-| Deferred tax assets (net)     | 2.17 | 1,347           | 497             |
-| Income tax assets (net)       | 2.17 | 99              | 1,164           |
-| Other non-current assets      | 2.10 | 2,590           | 2,223           |
-| Total non-current assets      |      | 46,260          | 47,768          |
-| Current assets                |      |                 |                 |
-| Financial assets              |      |                 |                 |
-| Investments                   | 2.5  | 12,039          | 11,147          |
-| Trade receivables             | 2.8  | 30,337          | 26,413          |
-| Cash and cash equivalents     | 2.9  | 8,727           | 14,265          |
-| Loans                         | 2.6  | 189             | 207             |
-| Other financial assets        | 2.7  | 14,770          | 12,569          |
-| Income tax assets (net)       | 2.17 | 1,745           | 2,949           |
-| Other current assets          | 2.10 | 12,624          | 9,618           |
-| Total current assets          |      | 80,431          | 77,168          |
-| Total assets                  |      | 1,26,691        | 1,24,936        |
-
-## Standalone Balance Sheet (contd.)
-| Particulars                                                                            | Note   | As at March 31,   | As at March 31,   |
-|----------------------------------------------------------------------------------------|--------|-------------------|-------------------|
-|                                                                                        |        | 2026              | 2025              |
-| Equity and liabilities                                                                 |        |                   |                   |
-| Equity                                                                                 |        |                   |                   |
-| Equity share capital                                                                   | 2.12   | 2,027             | 2,076             |
-| Other equity                                                                           |        | 78,847            | 85,256            |
-| Total equity                                                                           |        | 80,874            | 87,332            |
-| Liabilities                                                                            |        |                   |                   |
-| Non-current liabilities                                                                |        |                   |                   |
-| Financial liabilities                                                                  |        |                   |                   |
-| Lease liabilities                                                                      | 2.3    | 2,815             | 2,694             |
-| Other financial liabilities                                                            | 2.13   | 1,880             | 1,991             |
-| Deferred tax liabilities (net)                                                         | 2.17   | 990               | 1,062             |
-| Other non-current liabilities                                                          | 2.15   | 495               | 95                |
-| Total non-current liabilities                                                          |        | 6,180             | 5,842             |
-| Current liabilities                                                                    |        |                   |                   |
-| Financial liabilities                                                                  |        |                   |                   |
-| Lease liabilities                                                                      | 2.3    | 934               | 765               |
-| Trade payables                                                                         | 2.14   |                   |                   |
-| Total outstanding dues of micro enterprises and small enterprises                      |        | 9                 | 8                 |
-| Total outstanding dues of creditors other than micro enterprises and small enterprises |        | 3,530             | 2,720             |
-| Other financial liabilities                                                            | 2.13   | 16,812            | 14,101            |
-| Other current liabilities                                                              | 2.15   | 12,478            | 9,159             |
-| Provisions                                                                             | 2.16   | 1,064             | 993               |
-| Income tax liabilities (net)                                                           | 2.17   | 4,810             | 4,016             |
-| Total current liabilities                                                              |        | 39,637            | 31,762            |
-| Total equity and liabilities                                                           |        | 1,26,691          | 1,24,936          |
-
-The accompanying notes form an integral part of the Standalone financial statements .
-| As per our report of even date attached                                        | As per our report of even date attached                        | As per our report of even date attached                                  | As per our report of even date attached                        |
-|--------------------------------------------------------------------------------|----------------------------------------------------------------|--------------------------------------------------------------------------|----------------------------------------------------------------|
-| for Deloitte Haskins & Sells LLP Chartered Accountants Firm's Registration No: | for and on behalf of the Board of Directors of Infosys Limited | for and on behalf of the Board of Directors of Infosys Limited           | for and on behalf of the Board of Directors of Infosys Limited |
-| Vikas Bagaria Partner Membership No. 060408                                    | Nandan M. Nilekani Chairman DIN: 00041245                      | Salil Parekh Chief Executive Officer and Managing Director DIN: 01876159 | Bobby Parikh Director DIN: 00019437                            |
-| Bengaluru April 23, 2026                                                       | Jayesh Sanghrajka Chief Financial Officer                      | A.G.S. Manikantha CompanySecretary Membership No. A21918                 |                                                                |
-
-## Standalone Statement of Profit and Loss
-(In ` crore, except equity share and per equity share data)
-| Particulars                            | Note     | Year ended March 31,   | Year ended March 31,   |
-|----------------------------------------|----------|------------------------|------------------------|
-|                                        |          | 2026                   | 2025                   |
-| Revenue from operations                | 2.18     | 1,48,819               | 1,36,592               |
-| Other income, net                      | 2.19     | 6,491                  | 4,782                  |
-| Total income                           |          | 1,55,310               | 1,41,374               |
-| Expenses                               |          |                        |                        |
-| Employee benefit expenses              | 2.20     | 73,239                 | 67,466                 |
-| Cost of technical sub-contractors      |          | 22,388                 | 19,353                 |
-| Travel expenses                        |          | 1,596                  | 1,467                  |
-| Cost of software packages and others   | 2.20     | 9,274                  | 9,617                  |
-| Communication expenses                 |          | 419                    | 448                    |
-| Consultancy and professional charges   |          | 1,846                  | 1,245                  |
-| Depreciation and amortization expenses | 2.1, 2.3 | 2,394                  | 2,619                  |
-| Finance cost                           |          | 207                    | 221                    |
-| Other expenses                         | 2.20     | 4,044                  | 3,497                  |
-| Total expenses                         |          | 1,15,407               | 1,05,933               |
-| Profit before exceptional item and tax |          | 39,903                 | 35,441                 |
-| Exceptional item                       |          |                        |                        |
-| Impact of Labour Codes                 | 2.20.1   | 1,146                  | -                      |
-| Profit before tax                      |          | 38,757                 | 35,441                 |
-| Tax expense:                           |          |                        |                        |
-| Current tax                            | 2.17     | 10,459                 | 10,836                 |
-| Deferred tax                           | 2.17     | (913)                  | (963)                  |
-| Profit for the year                    |          | 29,211                 | 25,568                 |
-
-## Standalone Statement of Profit and Loss (contd.)
-| Particulars                                                                | Note        | Year ended March 31,   | Year ended March 31,   |
-|----------------------------------------------------------------------------|-------------|------------------------|------------------------|
-|                                                                            |             | 2026                   | 2025                   |
-| Other comprehensive income                                                 |             |                        |                        |
-| Items that will not be reclassified subsequently to profit or loss         |             |                        |                        |
-| Remeasurement of the net defined benefit liability / asset, net            | 2.17 & 2.21 | (285)                  | (81)                   |
-| Equity instruments through other comprehensive income, net                 | 2.5 & 2.17  | 397                    | 19                     |
-| Items that will be reclassified subsequently to profit or loss             |             |                        |                        |
-| Fair value changes on derivatives designated as cash flow hedge, net       | 2.11 & 2.17 | (1)                    | (24)                   |
-| Fair value changes on investments, net                                     | 2.5 & 2.17  | (26)                   | 191                    |
-| Total other comprehensive income / (loss), net of tax                      |             | 85                     | 105                    |
-| Total comprehensive income for the year                                    |             | 29,296                 | 25,673                 |
-| Earnings per equity share                                                  |             |                        |                        |
-| Equity shares of par value ` 5/- each                                      |             |                        |                        |
-| Basic (in ` per share)                                                     | 2.22        | 70.87                  | 61.58                  |
-| Diluted (in ` per share)                                                   | 2.22        | 70.78                  | 61.46                  |
-| Weighted average equity shares used in computing earnings per equity share |             |                        |                        |
-| Basic (in shares)                                                          | 2.22        | 412,19,31,567          | 415,19,36,905          |
-| Diluted (in shares)                                                        | 2.22        | 412,70,28,321          | 415,99,05,476          |
-
-The accompanying notes form an integral part of the Standalone financial statements .
-As per our report of even date attached
-| for Deloitte Haskins & Sells LLP Chartered Accountants Firm Registration No: 117366W/W-100018   | for and on behalf of the Board of Directors of Infosys Limited   | for and on behalf of the Board of Directors of Infosys Limited           | for and on behalf of the Board of Directors of Infosys Limited   |
-|-------------------------------------------------------------------------------------------------|------------------------------------------------------------------|--------------------------------------------------------------------------|------------------------------------------------------------------|
-| Vikas Bagaria Partner Membership No. 060408                                                     | Nandan M. Nilekani Chairman DIN: 00041245                        | Salil Parekh Chief Executive Officer and Managing Director DIN: 01876159 | Bobby Parikh Director DIN: 00019437                              |
-| Bengaluru April 23, 2026                                                                        | Jayesh Sanghrajka Chief Financial Officer                        | A.G.S. Manikantha CompanySecretary Membership No. A21918                 |                                                                  |
+The Company has not made investments in Firms and Limited Liability Partnerships during the year. Further the Company has not provided any guarantee or security or granted any advances in the nature of loans, secured or unsecured, to Companies, Firms, Limited Liability Partnerships or any other parties.
+- iv. The Company has complied with the provisions of Sections 185 and 186 of the Companies Act, 2013 in respect of loans granted, investments made and guarantees and securities provided, as applicable.
+- v. The Company has not accepted any deposit or amounts which are deemed to be deposits. Hence, reporting under clause 3(v) of the Order is not applicable.
+- vi. The maintenance of cost records has not been specified by the Central Government under sub-section (1) of section 148 of the Companies Act, 2013 for the business activities carried out by the Company. Hence, reporting under clause (vi) of the Order is not applicable to the Company.

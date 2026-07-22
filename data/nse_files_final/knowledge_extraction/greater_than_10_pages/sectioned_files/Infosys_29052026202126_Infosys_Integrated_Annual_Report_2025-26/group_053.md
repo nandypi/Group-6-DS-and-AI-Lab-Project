@@ -1,243 +1,229 @@
 ---
 document_name: "Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26.md"
 group_id: "Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26__group_053"
-source_section_count: 1
-page_start: 242
-page_end: 247
-estimated_tokens: 5549
+source_section_count: 2
+page_start: 237
+page_end: 242
+estimated_tokens: 5820
 source_section_ids:
-  - "Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26__098"
+  - "Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26__096"
+  - "Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26__097"
 ---
 
-## 2.22 Earnings per equity share
-## Accounting Policy
-Basic earnings per equity share is computed by dividing the net profit attributable to the equity holders of the Company by the weighted average number of equity shares outstanding during the period. Diluted earnings per equity share is computed by dividing the net profit attributable to the equity holders of the Company by the weighted average number of equity shares considered for deriving basic earnings per equity share and also the weighted average number of equity shares that could have been issued upon conversion of all dilutive potential equity shares. The dilutive potential equity shares are adjusted for the proceeds receivable had the equity shares been actually issued at fair value (i.e. the average market value of the outstanding equity shares). Dilutive potential equity shares are deemed converted as at the beginning of the period, unless issued at a later date. Dilutive potential equity shares are determined independently for each period presented.
-The number of equity shares and potentially dilutive equity shares are adjusted retrospectively for all periods presented for any share splits and bonus shares issues, including for changes effected prior to the approval of the financial statements by the Board of Directors.
-The computation of basic earnings per equity share is as follows:
-| Particulars                                                                            | Year ended March 31,   | Year ended March 31,   |
-|----------------------------------------------------------------------------------------|------------------------|------------------------|
-|                                                                                        | 2026                   | 2025                   |
-| Profit for the year                                                                    | 29,211                 | 25,568                 |
-| Basic earnings per equity share - weighted average number of equity shares outstanding | 4,12,19,31,567         | 4,15,19,36,905         |
-| Basic earnings per equity share                                                        | 70.87                  | 61.58                  |
+## 2.21.2 Provident fund
+Eligible employees of Infosys receive benefits from a provident fund, which is a defined benefit plan. Both the eligible employee and the Company make monthly contributions to the provident fund plan equal to a specified percentage of the covered employee's salary. The Company contributes a portion to the Infosys Limited Employees' Provident Fund Trust. The trust invests in specific designated instruments as permitted by Indian law. The remaining portion is contributed to the government administered pension fund. The rate at which the annual interest is payable to the beneficiaries by the trust is being administered by the Government of India. The Company has an obligation to make good the shortfall, if any, between the return from the investments of the Trust and the notified interest rate.
+## 2.21.3 Superannuation
+Certain employees of Infosys are participants in a defined contribution plan. The Company has no further obligations to the Plan beyond its monthly contributions which are periodically contributed to a trust fund, the corpus of which is invested with the Life Insurance Corporation of India.
+## a. Gratuity and Pension
+The details of the defined benefit retirement plans and the amounts recognized in the standalone financial statements as at March 31, 2026 and March 31, 2025 are as follows:
+|                                                                                     |                 |                 | (In ` crore)    | (In ` crore)    |
+|-------------------------------------------------------------------------------------|-----------------|-----------------|-----------------|-----------------|
+| Particulars                                                                         | Gratuity        | Gratuity        | Pension         | Pension         |
+|                                                                                     | As at March 31, | As at March 31, | As at March 31, | As at March 31, |
+|                                                                                     | 2026            | 2025            | 2026            | 2025            |
+| Change in benefit obligations                                                       |                 |                 |                 |                 |
+| Benefit obligations at the beginning                                                | 2,177           | 1,830           | 825             | 686             |
+| Service cost                                                                        | 397             | 305             | 34              | 28              |
+| Interest expense                                                                    | 157             | 122             | 9               | 11              |
+| Past service cost - plan amendments ( Refer to Note 2.20.1 )                        | 1,088           | -               | -               | -               |
+| Transfer                                                                            | 3               | 4               | 1               | -               |
+| Remeasurements - Actuarial (gains) / losses                                         | (43)            | 73              | 94              | 57              |
+| Employee contribution                                                               | -               | -               | 33              | 24              |
+| Benefits paid                                                                       | (187)           | (158)           | 161             | (18)            |
+| Translation difference                                                              | 3               | 1               | 199             | 37              |
+| Benefit obligations at the end                                                      | 3,595           | 2,177           | 1,356           | 825             |
+| Change in plan assets                                                               |                 |                 |                 |                 |
+| Fair value of plan assets at the beginning                                          | 2,407           | 1,817           | 775             | 650             |
+| Interest income                                                                     | 168             | 132             | 9               | 11              |
+| Transfer                                                                            | 5               | 4               | 1               | -               |
+| Remeasurements- Return on plan assets excluding amounts included in interest income | 47              | 20              | 76              | 48              |
+| Employee contribution                                                               | -               | -               | 33              | 24              |
+| Employer contribution                                                               | 1,281           | 590             | 41              | 28              |
+| Benefits paid                                                                       | (178)           | (155)           | 161             | (18)            |
+| Translation difference                                                              | (1)             | (1)             | 190             | 32              |
+| Fair value of plan assets at the end                                                | 3,729           | 2,407           | 1,286           | 775             |
+| Funded status                                                                       | 134             | 230             | (70)            | (50)            |
+| Defined benefit plan asset ( Refer to Note 2.10 )                                   | 168             | 257             | -               | -               |
+| Defined benefit plan liability                                                      | (34)            | (27)            | (70)            | (50)            |
 
-The reconciliation of the equity shares used in the computation of
-basic and diluted earnings per equity share is as follows:
-| Particulars                                                                                                           | Year ended March 31,   | Year ended March 31,   |
-|-----------------------------------------------------------------------------------------------------------------------|------------------------|------------------------|
-|                                                                                                                       | 2026                   | 2025                   |
-| Profit for the year                                                                                                   | 29,211                 | 25,568                 |
-| Basic earnings per equity share - weighted average number of equity shares outstanding                                | 4,12,19,31,567         | 4,15,19,36,905         |
-| Effect of dilutive common equivalent shares - share options outstanding                                               | 50,96,754              | 79,68,571              |
-| Diluted earnings per equity share - weighted average number of equity shares and common equivalent shares outstanding | 4,12,70,28,321         | 4,15,99,05,476         |
-| Diluted earnings per equity share ( ` )                                                                               | 70.78                  | 61.46                  |
+## 2.21.4 Compensated absences
+The Company has a policy on compensated absences which are both accumulating and non-accumulating in nature. The expected cost of accumulating compensated absences is determined by actuarial valuation performed by an external actuary at each Balance Sheet date using projected unit credit method on the additional amount expected to be paid / availed as a result of the unused entitlement that has accumulated at the Balance Sheet date. Expense on non-accumulating compensated absences is recognized in the period in which the absences occur.
+The amount for the year ended March 31, 2026 and March 31, 2025 recognized in the Statement of Profit and Loss under employee benefit expense is as follows:
+|                                                           | Gratuity   |            | Pension              | (In ` crore)         |
+|-----------------------------------------------------------|------------|------------|----------------------|----------------------|
+|                                                           | Year ended | Year ended | Year ended March 31, | Year ended March 31, |
+|                                                           | 2026       | 2025       | 2026                 | 2025                 |
+| Service cost                                              | 397        | 305        | 34                   | 28                   |
+| Net interest on the net defined benefit liability / asset | (11)       | (10)       | -                    | -                    |
+| Plan amendments                                           | 1,088      | -          | -                    | -                    |
+| Net cost                                                  | 1,474      | 295        | 34                   | 28                   |
 
-For the year ended March 31, 2026 and March 31, 2025, there were 8,58,370 and Nil options to purchase equity shares which had an anti-dilutive effect.
-## 2.23 Contingent liabilities and commitments
-## Accounting policy
-Contingent liability is a possible obligation arising from past events and whose existence will be confirmed only by the occurrence or non-occurrence of one or more uncertain future events not wholly within the control of the entity or a present obligation that arises from past events but is not recognized because it is not probable that an outflow of resources embodying economic benefits will be required to settle the obligation or the amount of the obligation cannot be measured with sufficient reliability.
-|                                                                                                  | (In ` crore)    | (In ` crore)    |
-|--------------------------------------------------------------------------------------------------|-----------------|-----------------|
-| Particulars                                                                                      | As at March 31, | As at March 31, |
-|                                                                                                  | 2026            | 2025            |
-| Contingent liabilities:                                                                          |                 |                 |
-| Claims against the Company, not acknowledged as debts (1)                                        | 1,944           | 1,772           |
-| [Amount paid to statutory authorities ` 2,399 crore ( ` 3,815 crore)]                            |                 |                 |
-| Commitments:                                                                                     |                 |                 |
-| Estimated amount of contracts remaining to be executed on capital contracts and not provided for |                 |                 |
-| (net of advances and deposits) (2)                                                               | 1,070           | 868             |
-| Other Commitments*                                                                               | 23              | 27              |
+The amount for the year ended March 31, 2026 and March 31, 2025 recognized in the statement of other comprehensive income is as follows:
+|                                                                                                                              |            |            | Pension              | (In ` crore)         |
+|------------------------------------------------------------------------------------------------------------------------------|------------|------------|----------------------|----------------------|
+|                                                                                                                              | Year ended | Year ended | Year ended March 31, | Year ended March 31, |
+|                                                                                                                              | 2026       | 2025       | 2026                 | 2025                 |
+| Remeasurements of the net defined benefit liability / (asset)                                                                |            |            |                      |                      |
+| Actuarial (gains) / losses                                                                                                   | (43)       | 73         | 94                   | 57                   |
+| (Return) / loss on plan assets excluding amounts included in the net interest on the net defined benefit liability / (asset) | (47)       | (20)       | (76)                 | (48)                 |
+|                                                                                                                              | (90)       | 53         | 18                   | 9                    |
 
-* Uncalled capital pertaining to investments
+Break up of actuarial (gains) / losses for year ended March 31, 2026 and March 31, 2025 is as follows
+(In ` crore)
+| Particulars                                          | Gratuity Year ended March 31,   | Gratuity Year ended March 31,   | Pension Year ended March 31,   | Pension Year ended March 31,   |
+|------------------------------------------------------|---------------------------------|---------------------------------|--------------------------------|--------------------------------|
+|                                                      | 2026                            | 2025                            | 2026                           | 2025                           |
+| (Gain) / loss from change in demographic assumptions | -                               | -                               | (29)                           | -                              |
+| (Gain) / loss from change in financial assumptions   | (5)                             | 39                              | 25                             | 36                             |
+| (Gain) / loss from change in experience assumptions  | (38)                            | 34                              | 98                             | 21                             |
+|                                                      | (43)                            | 73                              | 94                             | 57                             |
 
-(1) As at March 31, 2026 and March 31, 2025, claims against the Company not acknowledged as debts in respect of India income tax matters amounted to ` 1,326 crore and ` 1,290 crore, respectively.
-The claims against the Company primarily represent demands arising on completion of assessment proceedings under the Income Tax Act, 1961. These claims are on account of issues of disallowance of expenditure towards software being held as capital in nature, payments made to Associated Enterprises held as liable for withholding of taxes, among others. These matters are pending before various Income Tax Authorities and the Management including its tax advisors expect that its position will likely be upheld on ultimate resolution and will not have a material adverse effect on the Company financial position and results of operations.
-Amount paid to statutory authorities against the tax claims amounted to ` 2,381 crore and ` 3,810 crore as at March 31, 2026 and March 31, 2025, respectively.
-(2) Capital contracts primarily comprises of commitments for infrastructure facilities and computer equipments.
-## Legal proceedings
-## Government Investigation
-The US Department of Justice ('DOJ') is conducting an investigation regarding how the Company classified certain H-1B visa-recipient employees working for one of its clients in immigration documents filed with certain US government authorities. The Company is engaged in discussions with the DOJ regarding its ongoing investigation and continues its own inquiry regarding the matter. At this stage, the Company is unable to predict the outcome of this matter, including whether such
-## 2.24 Related party transactions
-## List of related parties
-| Nameof subsidiaries                                                    | Country   | Holdings as at March 31,   | Holdings as at March 31,   |
-|------------------------------------------------------------------------|-----------|----------------------------|----------------------------|
-|                                                                        |           | 2026                       | 2025                       |
-| Infosys Technologies (China) Co. Limited (Infosys China) (1)           | China     | 100                        | 100                        |
-| Infosys Technologies S. de R. L. de C. V. (Infosys Mexico) (1)         | Mexico    | 100                        | 100                        |
-| Infosys Technologies (Sweden) AB (Infosys Sweden) (1)                  | Sweden    | 100                        | 100                        |
-| Infosys Technologies (Shanghai) Company Limited (Infosys Shanghai) (1) | China     | 100                        | 100                        |
-| EdgeVerve Systems Limited (EdgeVerve) (1)                              | India     | 100                        | 100                        |
-| Infosys AustriaGmbH (1)                                                | Austria   | 100                        | 100                        |
-| Skava Systems Private Limited (Skava Systems) (1)(28)                  | India     | -                          | -                          |
-| Infosys Chile SpA (1)                                                  | Chile     | 100                        | 100                        |
+The weighted-average assumptions used to determine benefit obligations as at March 31, 2026 and March 31, 2025 are as follows:
+| Particulars                                                  | Gratuity Year ended March 31,   | Gratuity Year ended March 31,   | Pension Year ended March 31,   | Pension Year ended March 31,   |
+|--------------------------------------------------------------|---------------------------------|---------------------------------|--------------------------------|--------------------------------|
+|                                                              | 2026                            | 2025                            | 2026                           | 2025                           |
+| Discount Rate (1)                                            | 6.50%                           | 6.5%                            | 1.1%-4.1%                      | 0.9%-3.4%                      |
+| Weighted average rate of increase in compensation levels (2) | 6%                              | 6%                              | 1%-3%                          | 1%-3%                          |
+| Weighted average duration of defined benefit obligation (3)  | 5.7 years                       | 5.7 years                       | 12 years                       | 13 years                       |
 
-outcome could have a material adverse effect on the Company's business and results of operations.
-## Others
-Apart from the foregoing, the Company is subject to legal proceedings and claims which have arisen in the ordinary course of business. The Company's management reasonably expects that such ordinary course legal actions, when ultimately concluded and determined, will not have a material and adverse effect on the Company's results of operations or financial condition.
-| Nameof subsidiaries                                                       | Country         | Holdings as at March 31,   | Holdings as at March 31,   |
-|---------------------------------------------------------------------------|-----------------|----------------------------|----------------------------|
-|                                                                           |                 | 2026                       | 2025                       |
-| Infosys Arabia Limited (2)                                                | Saudi Arabia    | 70                         | 70                         |
-| Infosys Consulting Ltda. (1)                                              | Brazil          | 100                        | 100                        |
-| Infosys Luxembourg S.a.r.l (1)                                            | Luxembourg      | 100                        | 100                        |
-| Infosys Consulting S.R.L. (45)                                            | Argentina       | 100                        | 100                        |
-| Infosys Romania S.r.l. (formerly Infosys Consulting S.R.L. (Romania)) (1) | Romania         | 100                        | 100                        |
-| Infosys Limited Bulgaria EOOD (1)                                         | Bulgaria        | 100                        | 100                        |
-| Infosys Turkey Bilgi Teknolojileri Limited Sirketi (1)                    | Turkey          | 100                        | 100                        |
-| Infosys Germany HoldingGmbh (1)                                           | Germany         | 100                        | 100                        |
-| Infosys Automotive and Mobility GmbH&Co. KG (1)                           | Germany         | 100                        | 100                        |
-| Infosys Green Forum (1)                                                   | India           | 100                        | 100                        |
-| Infosys Business Solutions LLC (1)                                        | Qatar           | 100                        | 100                        |
-| WongDoody Inc. (30)                                                       | U.S.            | -                          | -                          |
-| IDUNN Information Technology Private Limited (1)                          | India           | 100                        | 100                        |
-| Infosys Public Services, Inc. USA (Infosys Public Services) (1)           | U.S.            | 100                        | 100                        |
-| Infosys Public Services Canada Inc. (11)                                  | Canada          | 100                        | 100                        |
-| Infosys BPM Limited (1)                                                   | India           | 100                        | 100                        |
-| Infosys BPM UK Limited (3)                                                | U.K.            | 100                        | 100                        |
-| Infosys (Czech Republic) Limited s.r.o. (3)                               | Czech Republic  | 100                        | 100                        |
-| Infosys Poland Sp z.o.o (3)                                               | Poland          | 100                        | 100                        |
-| Infosys McCamish Systems LLC (3)                                          | U.S.            | 100                        | 100                        |
-| Portland Group Pty Ltd (3)                                                | Australia       | 100                        | 100                        |
-| Infosys BPO Americas LLC. (3)                                             | U.S.            | 100                        | 100                        |
-| Panaya Inc. (Panaya) (1)                                                  | U.S.            | 100                        | 100                        |
-| Panaya Ltd. (4)                                                           | Israel          | 100                        | 100                        |
-| Panaya GermanyGmbH (4)                                                    | Germany         | 100                        | 100                        |
-| Brilliant Basics Holdings Limited (Brilliant Basics) (1)(20)              | U.K.            | 100                        | 100                        |
-| Brilliant Basics Limited (5)(20)                                          | U.K.            | 100                        | 100                        |
-| Infosys Consulting Holding AG (1)                                         | Switzerland     | 100                        | 100                        |
-| Infosys Management Consulting Pty Limited (6)                             | Australia       | 100                        | 100                        |
-| Infosys Consulting AG (6)                                                 | Switzerland     | 100                        | 100                        |
-| Infosys ConsultingGmbH (6)                                                | Germany         | 100                        | 100                        |
-| Infosys Consulting SAS (6)                                                | France          | 100                        | 100                        |
-| Infy Consulting B.V. (6)                                                  | The Netherlands | 100                        | 100                        |
-| Infosys Consulting (Belgium) NV (6)                                       | Belgium         | 100                        | 100                        |
-| Infy Consulting Company Ltd (6)                                           | U.K.            | 100                        | 100                        |
-| GuideVision s.r.o. (7)                                                    | Czech Republic  | 100                        | 100                        |
-| GuideVision DeutschlandGmbH (8)                                           | Germany         | 100                        | 100                        |
-| GuideVision Suomi Oy (8)                                                  | Finland         | 100                        | 100                        |
-| GuideVision Magyarország Kft (8)                                          | Hungary         | 100                        | 100                        |
-| GuideVision Polska Sp. z.o.o (8)                                          | Poland          | 100                        | 100                        |
-| GuideVision UK Ltd (8)(20)                                                | U.K.            | 100                        | 100                        |
-| Infosys Nova Holdings LLC. (Infosys Nova) (1)                             | U.S.            | 100                        | 100                        |
-| Outbox systems Inc. dba Simplus (US) (31)                                 | U.S.            | -                          | -                          |
+The weighted-average assumptions used to determine net periodic benefit cost for the year ended March 31, 2026 and March 31, 2025 are as follows:
+| Particulars                                              | Gratuity Year ended March 31,   | Gratuity Year ended March 31,   | Pension Year ended March 31,   | Pension Year ended March 31,   |
+|----------------------------------------------------------|---------------------------------|---------------------------------|--------------------------------|--------------------------------|
+|                                                          | 2026                            | 2025                            | 2026                           | 2025                           |
+| Discount rate                                            | 6.5%                            | 7.0%                            | 0.9%-3.4%                      | 1.5%-3.4%                      |
+| Weighted average rate of increase in compensation levels | 6%                              | 6%                              | 1%-3%                          | 1%-3%                          |
 
-| Nameof subsidiaries                             | Country         | Holdings as at March 31,   | Holdings as at March 31,   |
-|-------------------------------------------------|-----------------|----------------------------|----------------------------|
-|                                                 |                 | 2026                       | 2025                       |
-| Simplus ANZ Pty Ltd. (9)                        | Australia       | 100                        | 100                        |
-| Simplus Australia Pty Ltd (10)                  | Australia       | 100                        | 100                        |
-| Simplus Philippines, Inc. (9)                   | Philippines     | 100                        | 100                        |
-| Kaleidoscope Animations, Inc. (31)              | U.S.            | -                          | -                          |
-| Blue Acorn iCi Inc (31)                         | U.S.            | -                          | -                          |
-| Infosys Singapore Pte. Ltd. (1)(41)             | Singapore       | 100                        | 100                        |
-| Infosys Financial Services GmbH. (12)           | Germany         | 100                        | 100                        |
-| Infosys South Africa (Pty) Ltd (12)             | South Africa    | 100                        | 100                        |
-| Infosys (Malaysia) SDN. BHD. (12)               | Malaysia        | 100                        | 100                        |
-| Infosys Middle East FZ LLC (12)                 | U.A.E           | 100                        | 100                        |
-| Infosys Norway (12)                             | Norway          | 100                        | 100                        |
-| Infosys Compaz Pte. Ltd (13)                    | Singapore       | 60                         | 60                         |
-| HIPUS Co., Ltd (13)(41)                         | Japan           | 79                         | 81                         |
-| Fluido Oy (12)                                  | Finland         | 100                        | 100                        |
-| Fluido Sweden AB (14)                           | Sweden          | 100                        | 100                        |
-| Fluido Norway A/S (14)                          | Norway          | 100                        | 100                        |
-| Fluido Denmark A/S (14)                         | Denmark         | 100                        | 100                        |
-| Fluido Slovakia s.r.o (14)                      | Slovakia        | 100                        | 100                        |
-| Infosys Fluido UK, Ltd. (14)                    | U.K.            | 100                        | 100                        |
-| Infosys Fluido Ireland, Ltd. (15)               | Ireland         | 100                        | 100                        |
-| Stater N.V. (13)                                | The Netherlands | 75                         | 75                         |
-| Stater Nederland B.V. (16)                      | The Netherlands | 75                         | 75                         |
-| Stater XXL B.V. (16)                            | The Netherlands | 75                         | 75                         |
-| HypoCasso B.V. (16)                             | The Netherlands | 75                         | 75                         |
-| Stater Belgium N.V./S.A. (16)                   | Belgium         | 75                         | 75                         |
-| StaterGmbh (16)                                 | Germany         | 75                         | 75                         |
-| Infosys GermanyGmbH (12)(43)                    | Germany         | -                          | 100                        |
-| WongdoodyGmbh (18)(43)                          | Germany         | 100                        | 100                        |
-| WongDoody (Shanghai) Co. Limited (19)           | China           | 100                        | 100                        |
-| WongDoody limited (Taipei) (19)                 | Taiwan          | 100                        | 100                        |
-| WongDoody D.O.O (19)                            | Serbia          | 100                        | 100                        |
-| BASE life science A/S (12)                      | Denmark         | 100                        | 100                        |
-| BASE life science AG (21)                       | Switzerland     | 100                        | 100                        |
-| BASE life scienceGmbH (21)                      | Germany         | 100                        | 100                        |
-| BASE life science S.A.S (21)                    | France          | 100                        | 100                        |
-| BASE life science Ltd. (21)                     | U.K.            | 100                        | 100                        |
-| BASE life science S.r.l. (21)                   | Italy           | 100                        | 100                        |
-| Innovisor Inc. (21)                             | U.S.            | 100                        | 100                        |
-| BASE life science Inc. (17)                     | U.S.            | 100                        | 100                        |
-| BASE life science S.L. (21)                     | Spain           | 100                        | 100                        |
-| InSemi Technology Services Private Limited (23) | India           | 100                        | 100                        |
-| Elbrus Labs Private Limited (23)(22)            | India           | 100                        | 100                        |
-| Infosys Services (Thailand) Limited (1)(25)     | Thailand        | 100                        | 100                        |
+(1) For domestic defined benefit plan in India, the market for high-quality corporate bonds being not developed, the yield of government bonds is considered as the discount rate. For most of our overseas defined benefit plan, given that the market for high quality corporate bonds is not developed, the Government bond rate adjusted for corporate spreads is used.
+(2) The average rate of increase in compensation levels is determined by the Company, considering factors, such as the Company's past compensation revision trends, inflation in respective markets and management's estimate of future salary increases.
+(3) Attrition rate considered is the management's estimate based on the past long-term trend of employee turnover in the Company. The tenure has been considered taking into account the past long-term trend of employees' average remaining service life which reflects the average estimated term of postemployment benefit obligation.
+For domestic defined benefit plan in India, assumptions regarding future mortality experience are set in accordance with the published statistics by the Life Insurance Corporation of India. For overseas defined benefit plan, the assumptions regarding future mortality experience are set with regard to the latest statistics in life expectancy, plan experience and other relevant data.
+The Company assesses all the above assumptions with its projected long-term plans of growth and prevalent industry standards.
+The Company contributes all ascertained liabilities towards gratuity to the Infosys Limited Employees' Gratuity Fund Trust. Trustees administer contributions made to the trust. The plan assets of the overseas defined benefit plan have been primarily invested in insurer managed funds and the asset allocation for plan assets is determined based on the investment criteria prescribed under the relevant regulations applicable to pension funds and the insurer managers. The insurers' investment are diversified and provide for guaranteed interest rates arrangements.
+Actual return on assets (including remeasurement) of the gratuity plan for the year ended March 31, 2026 and March 31, 2025, were ` 215 crore and ` 152 crore, respectively and for the pension plan were ` 80 crore and ` 59 crore, respectively.
+The contributions for gratuity are invested in a scheme with the Life Insurance Corporation of India as permitted by Indian law. The table below sets out the details of major plan assets into various categories as at March 31, 2026 and March 31, 2025:
+|                           |         | (In %)   |
+|---------------------------|---------|----------|
+| Particulars               | Pension | Pension  |
+|                           | 2026    | 2025     |
+| Equity                    | 38      | 34       |
+| Bonds                     | 22      | 30       |
+| Real Estate / Property    | 24      | 26       |
+| Cash and Cash Equivalents | 1       | 1        |
+| Other                     | 15      | 9        |
 
-| Nameof subsidiaries                                             | Country         | Holdings as at March 31,   | Holdings as at March 31,   |
-|-----------------------------------------------------------------|-----------------|----------------------------|----------------------------|
-| Nameof subsidiaries                                             | Country         | 2026                       | 2025                       |
-| Infy tech SAS (12)(24)                                          | France          | 100                        | 100                        |
-| in-tech HoldingGmbH (26)(32)                                    | Germany         | -                          | -                          |
-| in-techGmbH (26)                                                | Germany         | 100                        | 100                        |
-| Friedrich & Wagner Asia PacificGmbH (26)(32)                    | Germany         | -                          | -                          |
-| Drivetech FahrversuchGmbH (26)                                  | Germany         | 100                        | 100                        |
-| in-tech Engineering S.R.L. (formerly known as ProIT) (26)(44)   | Romania         | 100                        | 100                        |
-| in-tech Automotive Engineering de R.L. de C.V (26)(40)          | Mexico          | -                          | 100                        |
-| Friedrich Wagner Holding Inc. (26)(20)                          | U.S.            | 100                        | 100                        |
-| in-tech Automotive Engineering SL (26)                          | Spain           | 100                        | 100                        |
-| in-tech Automotive Engineering LLC (26)(29)                     | U.S.            | -                          | -                          |
-| in-tech Services LLC (26)(29)                                   | U.S.            | -                          | -                          |
-| in-tech Engineering s.r.o (26)                                  | Czech Republic  | 100                        | 100                        |
-| in-tech EngineeringGmbH (26)                                    | Austria         | 100                        | 100                        |
-| in-tech Engineering services S.R.L (26)(44)                     | Romania         | -                          | 100                        |
-| in-tech Group Ltd (26)                                          | U.K.            | 100                        | 100                        |
-| In-tech Automotive Engineering Shenyang Co. Ltd (26)            | China           | 100                        | 100                        |
-| in-tech Group India Private Ltd (26)                            | India           | 100                        | 100                        |
-| In-tech Automotive Engineering Beijing Co., Ltd (26)            | China           | 100                        | 100                        |
-| Infosys Germany SE (formerly known as Blitz 24-893 SE) (27)(43) | Germany         | 100                        | 100                        |
-| Infosys Limited SPC (1)(33)                                     | Oman            | 100                        | 100                        |
-| Infosys BPM Netherlands B.V. (17)(34)                           | The Netherlands | 100                        | 100                        |
-| Infosys Energy Consulting Services LLC (9)(35)                  | U.S.            | 100                        | -                          |
-| Infosys Saudi Arabia LLC (1)(36)                                | Saudi Arabia    | 100                        | -                          |
-| Infosys Australia Technology Service Pty Ltd (12)(37)           | Australia       | 100                        | -                          |
-| MRE Consulting Ltd (38)                                         | U.S.            | 100                        | -                          |
-| MRE Technology Services, LLC (38)                               | U.S.            | 100                        | -                          |
-| The Missing Link Automation Pty Ltd (39)                        | Australia       | 100                        | -                          |
-| The Missing Link Network Integration Pty Ltd (39)               | Australia       | 100                        | -                          |
-| The Missing Link Security Pty Ltd (39)                          | Australia       | 100                        | -                          |
-| The Missing Link Security Ltd (39)                              | U.K.            | 100                        | -                          |
-| Infosys BPM Canada Inc (17)(42)                                 | Canada          | 100                        | -                          |
-| Infosys Enterprise Business Services Pty Ltd (12)(46)           | Australia       | 100                        | -                          |
+These defined benefit plans expose the Company to actuarial risk which are set out below:
+- Interest rate risk: The present value of the defined benefit plan liability is generally calculated using a discount rate determined by reference to government bond yields and in certain overseas jurisdictions, it is calculated in reference to government bond yield adjusted for a corporate spread. If bond yields fall, the defined benefit obligation will tend to increase.
+- Life expectancy and investment risk: The pension fund offers the choice between a lifelong pension and a cash lump sum upon retirement. The pension fund has defined rates for converting the lump sum to a pension and there is the risk that the members live longer than implied by these conversion rates and that the pension assets don't achieve the investment return implied by these conversion rates.
+- Asset volatility: A proportion of the pension fund is held in equities, which is expected to outperform corporate bonds in the long term but give exposure to volatility and risk in the short term. The pension fund board of insurer is responsible for the investment strategy and equity allocation is justified given the long-term investment horizon of the pension fund and the objective to provide a reasonable long term return on members' account balances.
 
-(12)  Wholly-owned subsidiary of Infosys Singapore Pte. Ltd.
-(13)   Majority owned and controlled subsidiary of Infosys Singapore Pte. Ltd.
-- (14)   Wholly-owned subsidiary of Fluido Oy
-- (15)   Wholly-owned subsidiary of Infosys Fluido UK, Ltd.
-- (16)   Wholly-owned subsidiary of Stater N.V
-- (17)   Wholly-owned subsidiary of Infosys BPM UK Ltd.
-- (18)   Wholly-owned subsidiary of Infosys Germany GmbH
-- (19)   Wholly-owned subsidiary of Wongdoody Gmbh
-- (20)   Under liquidation
-- (21)   Wholly-owned subsidiary of BASE life science A/S
-- (22)   Wholly-owned subsidiary of InSemi Technology Services Private Limited
-- (23)   On May 10, 2024, Infosys Ltd. acquired 100% of voting interests in InSemi Technology Services Private Limited along with its subsidiary Elbrus Labs Private Limited
-- (24)   Incorporated on July 03, 2024
-- (25)   Incorporated on July 26, 2024
-- (26)   On July 17, 2024, Infosys Germany GmbH, a wholly-owned subsidiary of Infosys Singapore Pte. Limited, acquired 100% of voting interests in in-tech Holding GmbH along with its subsidiary in-tech GmbH along with its six subsidiaries in-tech Automotive Engineering SL, in-tech Engineering S.R.L. (formerly known as ProIT), in-tech Automotive Engineering de R.L. de C.V, drivetech Fahrversuch GmbH, Friedrich Wagner Holding Inc along with its two subsidiaries (in-tech Automotive Engineering LLC and in-tech Services LLC) and Friedrich &amp; Wagner Asia Pacific GmbH along with its five subsidiaries in-tech engineering s.r.o, in-tech engineering GmbH, in-tech engineering services S.R.L, in-tech Group Ltd along with its subsidiary (in-tech Group India Private Limited) and in-tech Automotive Engineering Shenyang Co., Ltd along with its subsidiary (in-tech Automotive Engineering Beijing Co., Ltd). Subsequently on September 01, 2024, in-tech Group India Private Limited became a wholly-owned subsidiary of Infosys limited.
-- (27)   On October 17, 2024, Infosys Singapore Pte Ltd. acquired 100% of voting interests in Infosys Germany SE (formerly known as Blitz 24-893 SE)
-- (28)   Liquidated effective November 14, 2024
-- (29)   Liquidated effective November 30, 2024
-- (30)   WongDoody Inc, a wholly-owned subsidiary of Infosys limited merged into Infosys Nova Holdings LLC effective January 1, 2025
-- (31)   Kaleidoscope Animations, Blue Acorn iCi Inc and Outbox systems Inc. dba Simplus (US) merged into Infosys Nova Holdings LLC effective January 1, 2025
-- (32)   in-tech Holding GmbH and Friedrich &amp; Wagner Asia Pacific GmbH merged into in-tech GmbH effective January 1, 2025
-- (33)   Incorporated on December 12, 2024
-- (34)   Incorporated on March 20, 2025
-- (35)   Incorporated on April 16, 2025
-- (36)   Incorporated on April 21, 2025
-- (37)   Incorporated on April 23, 2025
-- (38)   On April 30, 2025, Infosys Nova Holdings LLC, a wholly-owned subsidiary of Infosys Limited, acquired 98.21% of partnership interests in MRE Consulting Ltd along with its subsidiary MRE Technology Services, LLC.The remaining 1.79% was acquired by Infosys Energy Consulting Services LLC, a wholly-owned subsidiary of Infosys Nova Holdings LLC
-- (39)   On April 30, 2025, Infosys Australia Technology Service Pty Ltd, a wholly owned subsidiary of Infosys Singapore Pte. Limited, acquired 100% of voting interests in The Missing Link Automation Pty Ltd, The Missing Link Network Integration Pty Ltd and The Missing Link Security Pty Ltd along with its subsidiary The Missing Link Security Ltd
-- (40)   Liquidated effective May 07, 2025
-- (41)   On May 13, 2025, Infosys Singapore Pte Ltd diluted 2% stake of HIPUS Co., Ltd to Mitsubishi Heavy Industries, Ltd.
-- (42)   Incorporated on July 28, 2025
-- (43)   Infosys Germany Gmbh, a wholly-owned subsidiary of Infosys Singapore Pte Ltd merged into Infosys Germany SE (formerly known as Blitz 24-893 SE) effective September 24, 2025
-- (44)   in-tech Engineering services S.R.L, (Wholly-owned subsidiary of in-tech GmbH) merged into in-tech Engineering S.R.L. (formerly known as ProIT and whollyowned subsidiary of in-tech GmbH) effective November 30, 2025
-- (45)   Infosys Consulting S.R.L. (Argentina) (formerly a majority-owned and controlled subsidiary of Infosys Limited) became the majority-owned and controlled subsidiary of Infosys Nova Holdings LLC with effect from January 28, 2026
-- (46)   Incorporated on March 19, 2026
+The sensitivity of significant assumptions used for valuation of defined benefit obligation is as follows:
+|                                                         | (In ` crore)               | (In ` crore)                  |
+|---------------------------------------------------------|----------------------------|-------------------------------|
+| Impact from                                             | As at March 31, 2026       | As at March 31, 2026          |
+|                                                         | Gratuity                   | Pension                       |
+|                                                         | 1%point increase/ decrease | 0.5% point increase/ decrease |
+| Discount Rate                                           | 185                        | 56                            |
+| Weighted average rate of increase in compensation level | 199                        | 9                             |
 
-Infosys has provided guarantee for performance of certain contracts entered into by its subsidiaries.
+Sensitivity for significant actuarial assumptions is computed by varying one actuarial assumption used for the valuation
+of defined benefit obligation, keeping all other actuarial assumptions constant. In practice, this is not probable, and changes in some of the assumptions may be correlated.
+The Company expects to contribute ` 490 crore to gratuity and ` 48 crore to pension during the fiscal 2027.
+Maturity profile of defined benefit obligation:
+| Particulars   | Gratuity   |   (In ` crore) Pension |
+|---------------|------------|------------------------|
+| Within 1 year | 591        |                     88 |
+| 1-2 year      | 491        |                     99 |
+| 2-3 year      | 464        |                     95 |
+| 3-4 year      | 429        |                     86 |
+| 4-5 year      | 399        |                     94 |
+| 5-10 years    | 1,507      |                    407 |
+
+## b. Superannuation
+The Company contributed ` 541 crore and ` 493 crore to the Superannuation trust during the year ended March 31, 2026 and March 31, 2025, respectively and the same has been recognized in the Statement of Profit and Loss account under the head employee benefit expense.
+## c. Provident fund
+Infosys has an obligation to fund any shortfall on the yield of the trust's investments over the administered interest rates on an annual basis. These administered rates are determined annually predominantly considering the social and economic factors. The actuary has provided a valuation for provident fund liabilities on the basis of guidance issued by Actuarial Society of India.
+The following tables set out the funded status of the defined benefit provident fund plan of Infosys limited and the amounts recognized in the Company's financial statements as at March 31, 2026 and March 31, 2025:
+|                                                                                     | (In ` crore)    | (In ` crore)    |
+|-------------------------------------------------------------------------------------|-----------------|-----------------|
+| Particulars                                                                         | As at March 31, | As at March 31, |
+|                                                                                     | 2026            | 2025            |
+| Change in benefit obligations                                                       |                 |                 |
+| Benefit obligations at the beginning                                                | 13,867          | 11,879          |
+| Service cost                                                                        | 1,088           | 952             |
+| Employee contribution                                                               | 2,036           | 1,683           |
+| Interest expense                                                                    | 940             | 862             |
+| Actuarial (gains) / loss                                                            | 95              | 218             |
+| Benefits paid                                                                       | (1,929)         | (1,727)         |
+| Benefit obligations at the end                                                      | 16,097          | 13,867          |
+| Change in plan assets                                                               |                 |                 |
+| Fair value of plan assets at the beginning                                          | 13,928          | 11,812          |
+| Interest income                                                                     | 944             | 858             |
+| Remeasurements- Return on plan assets excluding amounts included in interest income | (415)           | 245             |
+
+Infosys Integrated Annual Report 2025-26
+| Particulars                                     | As at March 31,   | As at March 31,   |
+|-------------------------------------------------|-------------------|-------------------|
+|                                                 | 2026              | 2025              |
+| Employer contribution                           | 1,170             | 1,057             |
+| Employee contribution                           | 2,036             | 1,683             |
+| Benefits paid                                   | (1,929)           | (1,727)           |
+| Fair value of plan assets at the end            | 15,734            | 13,928            |
+| Funded status [surplus / (deficit)]             | (363)             | 61                |
+| Irrecoverable Surplus (Effect of Asset Ceiling) | -                 | (61)              |
+| Net defined benefit asset / (liability)         | (363)             | -                 |
+
+Amount for the year ended March 31, 2026 and March 31, 2025, recognized in the Statement of Profit and Loss under employee benefit expense:
+|                                                   | (In ` crore)         | (In ` crore)         |
+|---------------------------------------------------|----------------------|----------------------|
+| Particulars                                       | Year ended March 31, | Year ended March 31, |
+|                                                   | 2026                 | 2025                 |
+| Service cost                                      | 1,088                | 952                  |
+| Net interest on the net defined benefit liability | -                    | 4                    |
+| Net provident fund cost                           | 1,088                | 956                  |
+
+Amount for the year ended March 31, 2026 and March 31, 2025 recognized in the statement of other comprehensive income:
+| Particulars                                                                                                                  | As at March 31,   | As at March 31,   |
+|------------------------------------------------------------------------------------------------------------------------------|-------------------|-------------------|
+|                                                                                                                              | 2026              | 2025              |
+| Remeasurements of the net defined benefit liability / (asset)                                                                |                   |                   |
+| Actuarial (gains) / losses                                                                                                   | 95                | 218               |
+| (Return) / loss on plan assets excluding amounts included in the net interest on the net defined benefit liability / (asset) | 415               | (245)             |
+| Asset Ceiling Effect                                                                                                         | (61)              | 61                |
+| Net interest on the net defined benefit asset                                                                                | (4)               | -                 |
+|                                                                                                                              | 445               | 34                |
+
+The assumptions used in determining the present value obligation of the defined benefit plan under the Deterministic Approach are as follows:
+| Particulars                              | As at March 31,   | As at March 31,   |
+|------------------------------------------|-------------------|-------------------|
+|                                          | 2026              | 2025              |
+| Government of India (GOI) bond yield (1) | 6.50%             | 6.50%             |
+| Expected rate of return on plan assets   | 8.25%             | 8.00%             |
+| Remaining term to maturity of portfolio  | 6 years           | 6 years           |
+| Expected guaranteed interest rate        | 8.25%             | 8.25%             |
+
+(1) In India, the market for high-quality corporate bonds being not developed, the yield of government bonds is considered as the discount rate. The tenure has been considered taking into account the past longterm trend of employees' average remaining service life which reflects the average estimated term of the post-employment benefit obligations.
+The breakup of the plan assets into various categories as at March 31, 2026 and March 31, 2025 is as follows:
+|                                    | (In %)          | (In %)          |
+|------------------------------------|-----------------|-----------------|
+| Particulars                        | As at March 31, | As at March 31, |
+|                                    | 2026            | 2025            |
+| Central and State government bonds | 63              | 60              |
+| Public sector undertakings and     | 26              | 28              |
+| Others                             | 11              | 12              |
+
+The asset allocation for plan assets is determined based on the investment criteria prescribed under the relevant regulations.
+The actuarial valuation of Provident Fund liability exposes the Company to interest rate risk. The defined benefit obligation calculated uses a discount rate based on government bonds. If bond yields fall, the defined benefit obligation will tend to increase.
+As at March 31, 2026, the defined benefit obligation would be affected by approximately ` 76 crore and ` 151 crore on account of a 0.25% increase / decrease in the expected rate of return on plan assets.
+The Company contributed ` 1,321 crore and ` 1,158 crore to the provident fund during the year ended March 31, 2026 and March 31, 2025, respectively. The same has been recognized in the net profit in the statement of profit and loss under the head employee benefit expense.
+The provident plans are applicable only to employees drawing a salary in Indian rupees.
+Employee benefits cost include:
+|                            | (In ` crore)         | (In ` crore)         |
+|----------------------------|----------------------|----------------------|
+| Particulars                | Year ended March 31, | Year ended March 31, |
+|                            | 2026                 | 2025                 |
+| Salaries and bonus (1)     | 70,931               | 65,425               |
+| Defined contribution plans | 631                  | 560                  |
+| Defined benefit plans      | 2,823                | 1,481                |
+|                            | 74,385               | 67,466               |
+
+(1) Includes employee stock compensation expense of ` 846 crore and ` 712 crore for the year ended March 31, 2026 and March 31, 2025, respectively ( Refer to Note 2.12 ).

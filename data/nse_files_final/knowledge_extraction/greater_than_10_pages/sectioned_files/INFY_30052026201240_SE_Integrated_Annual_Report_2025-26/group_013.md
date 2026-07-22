@@ -2,13 +2,93 @@
 document_name: "INFY_30052026201240_SE_Integrated_Annual_Report_2025-26.md"
 group_id: "INFY_30052026201240_SE_Integrated_Annual_Report_2025-26__group_013"
 source_section_count: 2
-page_start: 55
-page_end: 60
-estimated_tokens: 5822
+page_start: 53
+page_end: 57
+estimated_tokens: 6766
 source_section_ids:
+  - "INFY_30052026201240_SE_Integrated_Annual_Report_2025-26__022"
   - "INFY_30052026201240_SE_Integrated_Annual_Report_2025-26__023"
-  - "INFY_30052026201240_SE_Integrated_Annual_Report_2025-26__024"
 ---
+
+## 2.  Composition of CSR Committee:
+|   Sl. No. | Nameof the director   | Designation / Nature of directorship   |   Number of meetings of CSR Committee held during the year |   Number of meetings of CSR Committee attended during the year |
+|-----------|-----------------------|----------------------------------------|------------------------------------------------------------|----------------------------------------------------------------|
+|         1 | Govind Iyer           | Chairperson                            |                                                          4 |                                                              4 |
+|         2 | Chitra Nayak          | Member                                 |                                                          4 |                                                              4 |
+|         3 | Michael Gibbs         | Member                                 |                                                          4 |                                                              4 |
+
+## 3.  Web link(s) for composition of CSR Committee, CSR policy and CSR projects approved by the Board:
+- The composition of the CSR committee is available on our website, at https://www.infosys.com/investors/corporate-governance/ documents/committee-composition.pdf.
+- The Committee, with the approval of the Board, has adopted the CSR Policy as required under Section 135 of the Companies Act, which is available on our website, at https://www.infosys.com/investors/corporate-governance/documents/corporate-socialresponsibility-policy.pdf.
+- The Company has also adopted the CSR committee charter, which is available on our website, at https://www.infosys.com/investors/ corporate-governance/Documents/corporate-social-responsibility-committee-charter.pdf.
+- The Board, based on the recommendation of the CSR Committee, at its meeting held on April 23, 2026, has approved the annual action plan / projects for fiscal 2027, the details of which are available on our website, at csr-projects2026-27.pdf.
+
+## 4. Executive summary along with web-link(s) of Impact Assessment of CSR Projects carried out in pursuance of subrule (3) of rule 8:
+The Company has been implementing various CSR projects for holistic community development and institution building to serve the enrichment and evolution of businesses and communities. For fiscal 2026, the Company has engaged an external agency to provide support and assistance for an independent review and impact assessment.
+## Methodology:
+In order to assess the impact of its CSR projects, a mixed-method approach was deployed which involved one of or both the quantitative and qualitative research tools (as relevant) for primary data collection. Using these tools, the team conducted interactions (virtual and on-field) with the project beneficiaries and other relevant stakeholders. Post data collection and analysis, the key insights and findings were collated in the form of a consolidated report for the Management's consideration. This study was guided by the Inclusiveness, Relevance, Effectiveness, Convergence and Sustainability (IRECS) Framework which was used to provide overall feedback on the efficacy of implementation as well as its efficiency in terms of achievement of the desired project outputs with reference to inputs.
+## Summary:
+During the year, impact assessment study was conducted on 12 eligible CSR projects across various states in India. These projects align with the ESG framework and support 13 of the UN SDGs which cover the broad themes of education, healthcare, women empowerment, sustainability and others.
+<!-- image -->
+<!-- image -->
+<!-- image -->
+<!-- image -->
+<!-- image -->
+<!-- image -->
+## Theme 1: Education and skill development
+Impact: Emphasis on digital education and easy access to the online learning content ensured a positive impact on the students' academic performance and a reduction in the dropout rates.
+|   Sl. No. | CSR project under assessment                                                               | Project location                                                                                                   | Implementation     |
+|-----------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|--------------------|
+|        1. | Sree Guruvayurappan Bhajan Samaj (SGBS) Unnati Foundation - UNXT Youth Training            | Karnataka                                                                                                          | Infosys Foundation |
+|        2. | Bhandarkar Oriental Research Institute (BORI) - Oriental Studies Research and Preservation | Maharashtra                                                                                                        | Infosys Foundation |
+|        3. | eVidyaloka trust - Rural digital and STEM education programme                              | Andhra Pradesh, Karnataka, Maharashtra, Madhya Pradesh, Odisha, Rajasthan, Tamil Nadu, Telangana and Uttar Pradesh | Infosys Foundation |
+
+## Theme 2: Environment sustainability and ecological balance
+Impact: Improved cookstove projects reported reduction in waste generation, cooking time, indoor air pollution and associated health hazards. Women have been empowered through engagement in social activities within their community.
+|   Sl. No. | CSR project under assessment                                    | Project location   | Implementation      |
+|-----------|-----------------------------------------------------------------|--------------------|---------------------|
+|        1. | Improved cookstoves in Udaipur - Helping women and environment  | Rajasthan          | Self-implementation |
+|        2. | Improved cookstoves in Salumber - Helping women and environment | Rajasthan          | Self-implementation |
+
+<!-- image -->
+<!-- image -->
+<!-- image -->
+<!-- image -->
+<!-- image -->
+<!-- image -->
+<!-- image -->
+|   3. | Sustainable impact through improved cookstoves and clean energy solutions   | Meghalaya   | Self-implementation   |
+|------|-----------------------------------------------------------------------------|-------------|-----------------------|
+|   4. | Improved cookstoves in Maharashtra - Helping women and environment          | Maharashtra | Self-implementation   |
+|   5. | Bringing circularity through biogas installation in Karnataka               | Karnataka   | Self-implementation   |
+|   6. | Bringing circularity through biogas installation in Maharashtra             | Maharashtra | Self-implementation   |
+
+## Theme 3: Promotion of national heritage, art and culture
+Impact: Strengthening the physical, digital, and institutional environments that enable art and heritage to thrive. Renovated and purpose-built performance spaces restored scale, dignity, and accessibility for artists and audiences, while outreach programs expanded visibility, fair support, and participation for under represented practitioners.
+|   Sl. No. | CSR Project under Assessment                                                                                            | Project Location                                                             | Implementation     |
+|-----------|-------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|--------------------|
+|        1. | Bharatiya Vidya Bhavan - Khincha Auditorium Renovation                                                                  | Karnataka                                                                    | Infosys Foundation |
+|        2. | Yakshagana Kalaranga - Construction of Infosys Foundation Yakshagana Development, Training and Research Centre (IYCTRC) | Karnataka                                                                    | Infosys Foundation |
+|        3. | Bharatiya Vidya Bhavan - Indian Arts Cultural Outreach Programme                                                        | Delhi, Karnataka, Kerala, Madhya Pradesh, Maharashtra, Punjab, and Telangana | Infosys Foundation |
+
+Detailed impact assessment reports can be accessed at csr-impact-assessment-reports2025-26.pdf.
+5. (a) Average net profit of the Company as per sub-section (5) of Section 135: ` 28,848.03 crore
+2. (b) Two percent of average net profit of the Company as per sub-section (5) of Section 135: ` 576.96 crore
+3. (c) Surplus arising out of the CSR projects or programs or activities of the previous financial years: ` 0.40 crore*
+4. (d) Amount required to be set-off for the financial year, if any: Nil
+5. (e) Total CSR obligation for the financial year [(b)+(c)-(d)]: ` 577.36 crore
+* The surplus relates to fiscal 2026.
+6. (a) Amount spent on CSR projects (both ongoing project and other than ongoing project): ` 547.50 crore
+8. (b) Amount spent in administrative overheads: ` 9.25 crore
+9. (c) Amount spent on Impact Assessment: ` 1.69 crore
+10. (d) Total amount spent for the financial year [(a)+(b) +(c)]: ` 558.44 crore
+11. (e) CSR amount spent or unspent for the financial year:
+
+| Total amount spent for           | Amount unspent (In ` crore)                                                           | Amount unspent (In ` crore)                                                           | Amount unspent (In ` crore)                                                                                         | Amount unspent (In ` crore)                                                                                         | Amount unspent (In ` crore)                                                                                         |
+|----------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| the financial year (in ` Crores) | Total amount transferred to unspent CSR account as per sub-section (6) of Section 135 | Total amount transferred to unspent CSR account as per sub-section (6) of Section 135 | Amount transferred to any fund specified under Schedule VII as per second proviso to sub-section (5) of Section 135 | Amount transferred to any fund specified under Schedule VII as per second proviso to sub-section (5) of Section 135 | Amount transferred to any fund specified under Schedule VII as per second proviso to sub-section (5) of Section 135 |
+|                                  | Amount (In ` crore)                                                                   | Date of transfer                                                                      | Nameof the fund                                                                                                     | Amount                                                                                                              | Date of transfer                                                                                                    |
+| 558.44 (1)                       | 19.00                                                                                 | Refer to Note (2)                                                                     | NA                                                                                                                  | NA                                                                                                                  | NA                                                                                                                  |
 
 ## Note:
 (1) Includes surplus of ` 0.40 crore generated and spent during the year.
@@ -58,58 +138,3 @@ Note :
 8. (iv) Providing medical equipment to Post Graduate Institute of Medical Education &amp; Research (PGIMER): ` 51.45 crore
 9. (v) Construction of skill development training center and other facilities, including hostel rooms, classroom, labs, workshop rooms and a large dining area: ` 10.31 crore
 10. (vi) Construction of a girls' hostel in Pune at Shrimad Rajchandra Aatma Tatva Research Center: ` 9 crore
-
-## 9.  Specify the reason(s), if the company has failed to spend two per cent of the average net profit as per sub-section (5) of Section 135.
-During fiscal 2026, the Company has spent ` 558.44 crore (including surplus of ` 0.40 crore arising in current financial year) on various projects. The unspent balance of ` 19.00 crore is towards various ongoing projects and will be transferred to the unspent CSR account and spent in accordance with the CSR Rules.
-Sd/-
-Govind Iyer Chairman, CSR Committee DIN: 00169343
-Sd/-
-Salil Parekh Chief Executive Officer and Managing Director DIN: 01876159
-Bengaluru April 23, 2026
-## Additional information - Global CSR activities
-Over and above the requirements of the Companies Act, 2013, Infosys has expanded its CSR footprint globally. The details of the activities of Infosys Foundation USA in fiscal 2026 are provided in the Corporate governance report. The expenditure made towards CSR in Australia, Europe and through Infosys Foundation USA is as follows:
-| Focus area                    | Amount in USD   |
-|-------------------------------|-----------------|
-| Student education             | 2,028,419       |
-| Teacher training              | 1,858,900       |
-| Classroom aids and technology | 250,000         |
-| Advocacy and awareness        | 215,336         |
-| Research and curriculum       | 180,000         |
-| Operating expenses            | 289,328         |
-| Total *                       | 4,821,982       |
-
-* Equivalent to ` 43 crore
-
-## Annexure 7 - Conservation of energy, research and development, technology absorption, foreign exchange earnings and outgo.
-[Particulars pursuant to the Companies (Accounts) Rules, 2014]
-Our consistent focus on energy efficiency, increasing use of renewable energy, and credible carbon offset projects have enabled Infosys to sustain carbon neutrality for the seventh consecutive year since fiscal 2020. In fiscal 2026, we once again maintained carbon neutral operations, reinforcing the consistency and discipline of our climate strategy.
-Building on this momentum, we are advancing towards climate positivity - seeking to restore more natural capital than we consume and to generate meaningful environmental and social benefits for the ecosystems and communities we engage with. Looking ahead, Infosys will continue to scale systemic interventions, accelerate low-carbon innovation, and deepen partnerships to drive long-term climate resilience and contribute to a net-zero future.
-## Resource conservation initiatives
-Resource conservation initiatives at Infosys are focused, continuing and embedded into our operations and new infrastructure development. The introduction of highly efficient new buildings, retrofits in existing buildings, automation and continuous optimization, water management strategies, and waste treatment and management projects have significantly reduced our environmental impact.
-The increased adoption of renewable energy in our operations has helped avoid emissions significantly, and our highimpact carbon offset projects have enabled us to offset unavoidable emissions.
-Energy: In fiscal 2026, Infosys continued to demonstrate a strong commitment to energy conservation through a set of initiatives focused on enhancing operational efficiency and reducing overall energy consumption. These efforts span advanced, energy-efficient building design for new infrastructure, including embodied carbon analysis, continuous operational optimization, and active employee engagement. In Fiscal 2026, about ₹1.27 crore was spent on retrofits in some of our infrastructure to improve operational efficiency. By integrating innovative technologies with strong operational discipline, Infosys has consistently reinforced the importance of systematic, technology-driven approaches to conservation in achieving long-term sustainability outcomes.
-To scale the impact of high-performance building design and operations beyond our campuses, Infosys continues to advance ASSURE (Accelerating Sustainable and Super efficient Real Estate), a multi-stakeholder initiative launched in partnership with the Indian Institute for Human Settlements. ASSURE aims to accelerate decarbonization of India's building sector through the development of lighthouse projects, capacitybuilding for students and practitioners, policy advocacy, and deeper ecosystem collaboration. During fiscal 2026, the program achieved significant progress with over 15 million square feet of built-up area onboarded as lighthouse projects, translating sustainable design and operational excellence into demonstrable, replicable outcomes at scale.
-Through ASSURE and its broader real estate sustainability strategy, Infosys continues to provide thought leadership in advancing climate-resilient, low-carbon buildings. These efforts support India's national commitments under the Paris Agreement and contribute meaningfully to a more sustainable and energy-efficient built environment.
-Renewable energy: Infosys has a total installed solar capacity of 62.4 MWp across campuses, including a 42.5 MWp captive solar plant in Karnataka. Additionally, the Company leverages Power Purchase Agreements (PPAs) and green tariff from DISCOMs to expand its clean energy portfolio. Infosys is steadily reducing its dependence on fossil fuels and accelerating the shift to a low-carbon future. In fiscal 2026, 81.8% of our electricity in India operations was met through renewables.
-Green buildings: All new developments are designed to achieve the highest level of green building certification. Currently, about 84% of office space across Infosys has been certified to the highest level of green building standards.
-Smarter spaces: Infosys continues to reimagine workplace design to support inclusive, flexible, and sustainable ways of working in an evolving environment. Our next-generation offices combine digital connectivity, ergonomic design, and intelligent energy systems that respond to real-time usage.
-Advanced Building Management Systems optimize lighting, ventilation, and thermal comfort - reducing energy consumption while creating safe, healthy, and people-centric workspaces. By enabling hybrid work models and designing environments that support diverse employee needs, Infosys is strengthening employee well-being, inclusivity, and operational efficiency, while lowering its environmental footprint.
-Water management: Aligned with its climate positive aspirations, Infosys continues to strengthen its water stewardship practices across operations. Infosys maintains zero wastewater discharge, is a signatory to the UN CEO Water Mandate, and remains committed to recharging more water than it consumes by 2030. Our water management strategy focuses on reducing freshwater demand through efficiency measures, maximizing wastewater treatment and reuse, and enhancing rainwater harvesting across campuses.
-Beyond operational boundaries, Infosys is committed to lake rejuvenation initiatives to create shared value for surrounding communities and ecosystems. These interventions contribute to improved groundwater recharge, biodiversity enhancement, and long-term water security.
-Waste management: Infosys continues to progress towards its goal of zero waste to landfill, aligned with global sustainability frameworks. Guided by circular economy principles, the Company focuses on minimizing waste generation and maximizing recovery to reduce environmental impact across operations.
-Through strengthened waste segregation practices and effective treatment and management systems, Infosys has achieved 99% waste diversion from landfill. In fiscal 2026, we significantly scaled our zero waste initiatives, with a total of 11 campuses achieving True Zero Waste Certification from the Green Business Certification Institute. This milestone reflects the consistent expansion of best-in-class waste management practices across our campuses and reinforces our commitment to responsible resource stewardship.
-Carbon offset: Infosys addresses unavoidable emissions through community-based carbon offset projects. Projects in the clean cooking space implemented in five states across India have significantly improved health, livelihoods and helped generate income for rural women.
-We have initiated large-scale carbon sequestration projects through agroforestry. These projects go beyond environmental benefits, positively impacting small and marginal farmers by improving their livelihoods, and enhancing soil health, food security, and climate resilience.
-Carbon neutral events: Infosys continues to embed carbon neutral events into its broader climate action strategy. All emissions associated with Company-hosted events are systematically measured, reduced where feasible, and offset through certified carbon offset projects. This disciplined approach extends Infosys' sustainability practices beyond its operations to external engagements, reinforcing the Company's leadership on responsible business conduct.
-In fiscal 2026, Infosys sustained its focus in organizing eight carbon neutral events, building on the momentum of previous years and strengthening the integration of climate considerations into its corporate events and stakeholder interactions.
-## Health, Safety and Environment
-Our Health, Safety, and Environmental Management System (HSEMS) reflects our commitment to creating a safe, healthy, and sustainable workplace for employees, contractors, and visitors alike. Aligned with our broader climate and sustainability goals, Infosys is certified to ISO 14001:2015 for Environmental Management and ISO 45001:2018 for Occupational Health and Safety. The HSEMS is built on a strong framework of compliance, taking into account the needs of all stakeholders and ensuring adherence to applicable laws across all regions where we operate.
-## Technology absorption
-## AI-first @ Infosys
-## Internal IT - AI-first software engineering
-Our internal IT organization, which supports and manages 200 enterprise applications, has been an early and proactive adopter of AI-led transformation. To accelerate adoption at scale, we have pursued a two-pronged strategy. Firstly, AI for Engineering Excellence and Lifecycle Compression. We have embedded AI deeply into the software engineering lifecycle to drive productivity, quality, and speed. At the core of this approach is the creation of a digital twin of our enterprise landscape, a unified model that captures contextual knowledge across applications, platforms, and layers.
-Leveraging this digital twin, we have built a suite of AIpowered agents that augment every phase of the lifecycle from requirements and design to development, testing, deployment, and support. These agents significantly enhance developer productivity, improve decision-making, and enable meaningful compression of the overall software delivery lifecycle.
-Second is AI for Business &amp; Operations, where we have focused on using AI Agents and Gen AI solutions for improving operational efficiency of enterprise functions like Finance, HR etc. These agents are designed to address user queries across applications, simplify interactions, and provide contextual assistance in real time by autonomously responding to helpdesk emails, improving first-contact resolution and easing service desk workload. These initiatives are transforming how employees engage with enterprise systems - making them more intuitive, responsive, and user-centric.
-Infosys Topaz Fabric: We have rolled out Infosys Topaz Fabric platform across the organization to democratize innovation, crowd source quality Gen AI and Agentic solutions, enable rapid experimentation and innovation and make the AI apps available to everyone to amplify their potential.
-Education, Training &amp; Assessment (ETA): ETA has built an agentic AI-powered learning ecosystem, anchored on Lex, our internal learning platform, and extended through Infosys Springboard, our free, public learning platform, to enable continuous learning at scale. As an early adopter of generative AI, solutions like Zoiee, Knowledge Assistant and SynthAIz have evolved into an integrated ecosystem that delivers personalized learning experiences. Learners benefit from intelligent recommendations, real-time assistance, and continuous guidance through the Zoiee AI companion. At the same time, creation of learning content has been streamlined through SynthAIz and AI agents, enabling faster development of high-quality, multimodal content with automated transcription, translation, and video localization.
-AI cloud: To accelerate our AI-first transformation, Infosys continues to invest in proprietary, on-premise GPU infrastructure engineered for advanced model training and inferencing. This dedicated compute capability empowers us to seamlessly integrate best-in-class open-source Large Language Models (LLMs) and deploy our own specialized Small Language Models (SLMs) while maintaining strict data sovereignty. By establishing this robust and secure internal ecosystem, we are expediting enterprise-wide AI adoption, ensuring the highest standards of data confidentiality, and optimizing operational costs by reducing external token dependencies.
