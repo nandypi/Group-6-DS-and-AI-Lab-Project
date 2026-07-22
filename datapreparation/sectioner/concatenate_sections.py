@@ -15,9 +15,9 @@ Project terms:
 - A grouped section file is a Markdown file containing one or more consecutive
   extraction units from the manifest.
 
-ASSUMPTION: the token total used for grouping is the manifest's existing
-`estimated_tokens` value. This keeps the script deterministic and consistent
-with the sectioning pipeline that created the JSON.
+ASSUMPTION: grouping measures the final serialized Markdown, including its
+front matter and section separators. This enforces the hard cap on the files
+that downstream extraction actually reads.
 
 ASSUMPTION: if a single manifest section is already above 8000 tokens, it may be
 split for final files because the user requested that no sectioned file exceed
@@ -37,6 +37,7 @@ from datapreparation.sectioner.tokens import estimate_tokens
 TOKEN_TARGET = 6000
 SOFT_MIN = 4000
 HARD_MAX = 8000
+FILE_METADATA_TOKEN_BUFFER = 300
 
 
 def main() -> int:
@@ -152,19 +153,19 @@ def process_manifest(
     document_name = str(manifest["document_name"])
     document_stem = Path(document_name).stem
     original_sections = list(manifest["sections"])
-    sections = split_oversized_sections(original_sections, hard_max)
+    sections = split_oversized_sections(original_sections, hard_max - FILE_METADATA_TOKEN_BUFFER)
 
     document_dir = output_dir / document_stem
     replace_document_output_dir(document_dir)
 
-    groups = make_groups(sections, token_target, hard_max)
+    groups = make_groups(document_name, sections, token_target, hard_max)
     written_paths = []
     for index, group in enumerate(groups, start=1):
         output_path = document_dir / f"group_{index:03d}.md"
         output_path.write_text(build_group_file_text(document_name, index, group), encoding="utf-8")
         written_paths.append(output_path)
 
-    token_counts = [group_token_total(group) for group in groups]
+    token_counts = [group_file_token_total(document_name, index, group) for index, group in enumerate(groups, start=1)]
     return {
         "document": document_name,
         "source_sections": len(original_sections),
@@ -370,6 +371,7 @@ def build_section_part(
 
 
 def make_groups(
+    document_name: str,
     sections: list[dict[str, object]],
     token_target: int,
     hard_max: int,
@@ -377,6 +379,7 @@ def make_groups(
     """Group consecutive manifest sections by the token threshold.
 
     Args:
+        document_name: Source Markdown document name.
         sections: Manifest sections in document order.
         token_target: Preferred maximum for most groups.
         hard_max: Absolute maximum for every output group.
@@ -390,38 +393,42 @@ def make_groups(
 
     groups = []
     current_group = []
-    current_tokens = 0
 
     for section in sections:
-        section_tokens = read_section_tokens(section)
-        crosses_target = current_tokens + section_tokens > token_target
-        crosses_hard_max = current_tokens + section_tokens > hard_max
+        candidate_group = current_group + [section]
+        group_number = len(groups) + 1
+        candidate_tokens = group_file_token_total(document_name, group_number, candidate_group)
+        current_tokens = group_file_token_total(document_name, group_number, current_group) if current_group else 0
+        crosses_target = candidate_tokens > token_target
+        crosses_hard_max = candidate_tokens > hard_max
         current_is_too_small = current_tokens < SOFT_MIN
 
         if current_group and crosses_hard_max:
             groups.append(current_group)
             current_group = []
-            current_tokens = 0
 
         elif current_group and crosses_target and not current_is_too_small:
             groups.append(current_group)
             current_group = []
-            current_tokens = 0
 
         current_group.append(section)
-        current_tokens += section_tokens
 
     if current_group:
         groups.append(current_group)
 
-    merge_small_final_group(groups, hard_max)
+    merge_small_final_group(document_name, groups, hard_max)
     return groups
 
 
-def merge_small_final_group(groups: list[list[dict[str, object]]], hard_max: int) -> None:
+def merge_small_final_group(
+    document_name: str,
+    groups: list[list[dict[str, object]]],
+    hard_max: int,
+) -> None:
     """Merge a small final leftover into the previous group when it is safe.
 
     Args:
+        document_name: Source Markdown document name.
         groups: Grouped sections, updated in place.
         hard_max: Absolute maximum for every output group.
 
@@ -437,11 +444,17 @@ def merge_small_final_group(groups: list[list[dict[str, object]]], hard_max: int
 
     final_group = groups[-1]
     previous_group = groups[-2]
-    final_tokens = group_token_total(final_group)
-    previous_tokens = group_token_total(previous_group)
+    previous_group_number = len(groups) - 1
+    final_tokens = group_file_token_total(document_name, len(groups), final_group)
+    previous_tokens = group_file_token_total(document_name, previous_group_number, previous_group)
     if final_tokens >= SOFT_MIN:
         return
-    if previous_tokens + final_tokens > hard_max:
+    merged_tokens = group_file_token_total(
+        document_name,
+        previous_group_number,
+        previous_group + final_group,
+    )
+    if merged_tokens > hard_max:
         return
 
     groups[-2] = previous_group + final_group
@@ -521,6 +534,28 @@ def group_token_total(group: list[dict[str, object]]) -> int:
     """
 
     return sum(read_section_tokens(section) for section in group)
+
+
+def group_file_token_total(
+    document_name: str,
+    group_number: int,
+    group: list[dict[str, object]],
+) -> int:
+    """Estimate tokens in the exact Markdown text written for one group.
+
+    Args:
+        document_name: Source Markdown document name.
+        group_number: One-based output file number.
+        group: Consecutive manifest sections.
+
+    Returns:
+        Estimated tokens in the final Markdown file.
+
+    Example:
+        A group of two sections includes both section text and generated front matter.
+    """
+
+    return estimate_tokens(build_group_file_text(document_name, group_number, group))
 
 
 def print_summary(result: dict[str, object]) -> None:
