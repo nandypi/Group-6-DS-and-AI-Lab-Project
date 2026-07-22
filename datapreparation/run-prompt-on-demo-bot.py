@@ -9,7 +9,7 @@ Project terms:
   non-substantive filing content have been removed.
 
 Code flow:
-1. Load prompts/KE-prompts/KE-whole-document-prompt-v6.md.
+1. Load prompts/KE-prompts-for-nse-docs/KE-whole-document-prompt-v6.md.
 2. Find each .md file directly inside data/demo-bot-data.
 3. Read its front matter and document text.
 4. Fill the prompt placeholders with the document metadata and text.
@@ -39,7 +39,7 @@ OUTPUT_DIR = PROJECT_ROOT / "data" / "demo-bot-output"
 PROMPT_PATH = (
     PROJECT_ROOT
     / "prompts"
-    / "KE-prompts"
+    / "KE-prompts-for-nse-docs"
     / "KE-whole-document-prompt-v6.md"
 )
 MODEL = "gpt-5.5"

@@ -12,7 +12,7 @@ Project terms:
   extraction output folder.
 
 Code flow:
-1. Load prompts/KE-prompts/KE-whole-document-prompt-v5.md.
+1. Load prompts/KE-prompts-for-nse-docs/KE-whole-document-prompt-v5.md.
 2. Find each .md file directly inside the final 10-page-or-fewer NSE folder.
 3. Read its front matter and complete document text.
 4. Replace the prompt placeholders with that document's values.
@@ -56,7 +56,7 @@ OUTPUT_DIR = (
 PROMPT_PATH = (
     PROJECT_ROOT
     / "prompts"
-    / "KE-prompts"
+    / "KE-prompts-for-nse-docs"
     / "KE-whole-document-prompt-v5.md"
 )
 MODEL = "gpt-5.5"
