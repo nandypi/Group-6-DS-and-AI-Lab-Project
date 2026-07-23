@@ -31,6 +31,12 @@ Infosys investor-relations PDFs
 Trendlyne and yfinance PDFs
   -> ChatGPT cleaning with source-specific prompts
   -> clean Markdown
+
+Clean demo Markdown
+  -> OpenAI embeddings
+  -> persistent Chroma vector collection
+  -> similarity retrieval
+  -> context-grounded investor Q&A
 ```
 
 For NSE, the final source set combines documents retained by the rule-based
@@ -82,6 +88,11 @@ Group-6-DS-and-AI-Lab-Project/
 +-- prompts/
 |   +-- KE-prompts/                              # Trendlyne and yfinance prompts
 |   +-- KE-prompts-for-nse-docs/                 # NSE cleaning prompts
++-- embeddings_script/                           # Vector indexing, retrieval, and Q&A
+|   +-- index_documents.py                       # Creates embeddings for demo Markdown
+|   +-- search.py                                # Runs a similarity-search example
+|   +-- retriever.py                             # Interactive retrieval-augmented Q&A
+|   +-- chroma_db/                               # Persistent Chroma collection
 +-- PIPELINE.md
 +-- README.md
 ```
@@ -89,7 +100,7 @@ Group-6-DS-and-AI-Lab-Project/
 ## Documentation
 
 - [Pipeline overview](PIPELINE.md) records the current preparation flow and
-  outputs.
+  outputs, including the embedding and retrieval stage.
 - [Data preparation guide](datapreparation/data_preparation_readme.md) gives
   the detailed paths, scripts, prompts, and commands.
 
@@ -106,3 +117,40 @@ The first command cleans eligible NSE documents with 10 pages or fewer. The
 second command cleans all grouped sections from longer NSE documents. See the
 data-preparation guide for sectioning, grouping, single-file, and single-folder
 commands.
+
+## Embeddings and Retrieval
+
+`embeddings_script` provides the current prototype for searching the cleaned
+demo documents and answering questions from the retrieved context. It uses
+OpenAI's `text-embedding-3-small` model and a persistent Chroma collection
+named `finance_documents`. Each Markdown file is currently stored as one
+document vector; the prototype does not chunk files before embedding.
+
+Create a `.env` file at the repository root with an OpenAI API key:
+
+```text
+OPENAI_API_KEY=your_api_key
+```
+
+The scripts require the `openai`, `chromadb`, `python-dotenv`, and `tqdm`
+Python packages. Run them from `embeddings_script` so their relative
+`./chroma_db` paths refer to the checked-in vector database:
+
+```powershell
+Set-Location embeddings_script
+
+# Set DATA_FOLDER in index_documents.py to the Markdown folder you want to index.
+..\venv\Scripts\python.exe index_documents.py
+
+# Inspect the three closest stored documents for the example question.
+..\venv\Scripts\python.exe search.py
+
+# Ask questions interactively; type exit to quit.
+..\venv\Scripts\python.exe retriever.py
+```
+
+`index_documents.py` is presently configured to index the ten files in
+`data/demo-bot-output` after its `DATA_FOLDER` value is updated to the local
+repository path. It can also read `COLLECTION_NAME` and `CHROMA_DB_PATH` from
+the environment. `retriever.py` retrieves the three nearest documents and uses
+`gpt-4o-mini` to answer only from that retrieved context.

@@ -146,3 +146,63 @@ source-specific templates in `prompts/KE-prompts`:
 
 - `prompts/KE-prompts/brokerage-reports-ke.md` for brokerage-report material
 - `prompts/KE-prompts/yfinance-ke.md` for yfinance material
+
+## Embedding, Retrieval, and Q&A Prototype
+
+The current retrieval prototype indexes the cleaned demo corpus and uses it to
+answer investor questions. It is implemented in `embeddings_script` and has
+three stages.
+
+### 1. Index Markdown Documents
+
+`embeddings_script/index_documents.py` recursively reads Markdown files from its
+`DATA_FOLDER`, creates one OpenAI `text-embedding-3-small` vector per complete
+file, and stores the document, vector, and file metadata in a persistent
+Chroma collection.
+
+- Current collection name: `finance_documents`
+- Current source corpus: the 10 cleaned demo documents in `data/demo-bot-output`
+- Persistent database: `embeddings_script/chroma_db`
+- Stored metadata: filename, full file path, and parent-folder name as company
+
+The script currently contains a machine-specific absolute `DATA_FOLDER` path.
+Before indexing, update that value to the intended local Markdown folder. The
+collection name and database path can instead be set with the
+`COLLECTION_NAME` and `CHROMA_DB_PATH` environment variables.
+
+### 2. Similarity Search
+
+`embeddings_script/search.py` embeds its example question, queries the
+`finance_documents` collection, and prints the three nearest documents with a
+short preview. It is a quick check that the index is available and returning
+relevant source material.
+
+### 3. Retrieval-Augmented Answers
+
+`embeddings_script/retriever.py` is an interactive command-line question and
+answer loop. For each question, it:
+
+1. creates a `text-embedding-3-small` query vector;
+2. retrieves the three closest Chroma documents;
+3. prints the retrieved filenames, metadata, distances when available, and
+   previews;
+4. sends the complete retrieved documents to `gpt-4o-mini`; and
+5. instructs the model to answer only from that context or report that the
+   information was not found.
+
+The prototype does not currently chunk long documents, apply metadata filters,
+or provide citations in the generated answer. These are important constraints
+when interpreting retrieval quality.
+
+### Run the Prototype
+
+Set `OPENAI_API_KEY` in a repository-root `.env` file. The Python environment
+must include `openai`, `chromadb`, `python-dotenv`, and `tqdm`. Run from the
+embedding-script directory so the relative Chroma path resolves correctly:
+
+```powershell
+Set-Location embeddings_script
+..\venv\Scripts\python.exe index_documents.py # after setting DATA_FOLDER
+..\venv\Scripts\python.exe search.py
+..\venv\Scripts\python.exe retriever.py
+```
