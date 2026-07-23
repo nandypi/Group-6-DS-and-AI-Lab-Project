@@ -476,8 +476,6 @@ def build_group_file_text(document_name: str, group_number: int, group: list[dic
         A group with two sections writes one metadata header and both section texts.
     """
 
-    first_section = group[0]
-    last_section = group[-1]
     source_ids = [str(section["section_id"]) for section in group]
 
     lines = [
@@ -485,8 +483,6 @@ def build_group_file_text(document_name: str, group_number: int, group: list[dic
         f'document_name: "{document_name}"',
         f"group_id: \"{Path(document_name).stem}__group_{group_number:03d}\"",
         f"source_section_count: {len(group)}",
-        f"page_start: {first_section['page_start']}",
-        f"page_end: {last_section['page_end']}",
         f"estimated_tokens: {group_token_total(group)}",
         "source_section_ids:",
     ]

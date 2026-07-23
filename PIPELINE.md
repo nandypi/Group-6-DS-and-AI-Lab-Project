@@ -1,128 +1,148 @@
 # Data Pipeline
 
-This document tracks the data preparation pipeline completed so far for the NSE
-data source.
+This document records the current data-preparation workflow for the Infosys
+investor-information project. It ends with clean Markdown prepared for later
+use.
 
 ## Scope
 
-- Data source: NSE
-- Company/stock: Infosys
-- Time window: last one year of NSE PDF announcements
-- Initial PDF count: 240
+- Primary company: Infosys
+- Primary source: NSE corporate announcements from the last year
+- Supporting sources: Infosys investor-relations documents, Trendlyne, and
+  yfinance
+- Initial NSE download: 240 PDF announcements
 
-## Pipeline Stages
+## NSE Announcement Pipeline
 
-### Download NSE PDFs
+### 1. Download and Convert
 
-Downloaded all NSE announcement PDFs from the last year for Infosys.
+NSE announcement PDFs were downloaded and converted to Markdown with Docling.
 
-- Output count: 240 PDFs
-- Script/notebook used: `datapreparation/download_data/download_nse_filings.ipynb`
-
-### Convert PDFs to Markdown
-
-Converted the downloaded PDFs into markdown files using the `docling` library.
-
-- Script/notebook used:
+- Download notebook: `datapreparation/download_data/download_nse_filings.ipynb`
+- Conversion notebook:
   `datapreparation/data-preprocessing/NSE_PDFs_Extraction_and_Conversion_to_MD.ipynb`
 
-### Rename Markdown Files
+The converted Markdown files were then renamed from their original source URLs
+and deduplicated.
 
-Renamed converted markdown files using their original source PDF URLs so the
-markdown filenames remain traceable to the NSE source files.
+- Rename script:
+  `datapreparation/data-preprocessing/rename_markdown_from_source_url.py`
+- Deduplication script: `datapreparation/data-preprocessing/file-dedup.py`
 
-- Script used: `datapreparation\data-preprocessing\rename_markdown_from_source_url.py`
+### 2. Categorise and Review
 
-### Deduplicate Markdown Files
+The Markdown files were classified into `keep`, `reject`, and `review` groups
+with keyword rules.
 
-Deduplicated markdown files where duplicate files had only a hash-code suffix
-added to the original file name.
+- Categorisation script: `datapreparation/data-preprocessing/pdf_seperate.py`
 
-- Script used: `datapreparation/data-preprocessing/file-dedup.py`
+The `review` group was then assessed with Codex. Review decisions are stored
+in `metadata/processed/review_decisions.json`, and the decision-copy script is:
 
-### Rule-Based Document Categorisation
+`datapreparation/data-preprocessing/copy_review_decision_files.py`
 
-Classified the 240 documents into three groups using hardcoded keyword rules:
-
-- `keep`: documents accepted by the rules
-- `reject`: documents rejected by the rules
-- `review`: documents that did not clearly fall into either group
-
-- Script used: `datapreparation\data-preprocessing\pdf_seperate.py`
-
-### GPT Review of Ambiguous Files
-
-For the `review` group, we used Codex CLI with
-`model=gpt-5.5-medium-reasoning` to make the final classification.
-
-- Prompt used: `prompts/review-files-using-codex.txt`
-- Review decision file: `metadata/processed/review_decisions.json`
-- Script used to copy reviewed files:
-  `datapreparation/data-preprocessing/copy_review_decision_files.py`
-
-GPT-reviewed files were copied into:
-
-- `data/nse_files_final/final_categorisation_by_gpt-5.5/accepted_by_gpt`
-- `data/nse_files_final/final_categorisation_by_gpt-5.5/rejected_by_gpt`
-- `data/nse_files_final/final_categorisation_by_gpt-5.5/uncateorised_by_gpt`
-
-## Final NSE Files of Interest
-
-For NSE preprocessing and downstream analysis, use files from:
+The resulting final NSE source files are in:
 
 - `data/nse_files_final/keep`
 - `data/nse_files_final/final_categorisation_by_gpt-5.5/accepted_by_gpt`
 
-Current file counts:
+This produced 137 final NSE documents: 65 from `keep` and 72 accepted after
+review.
 
-- `accepted_by_gpt`: 72 files
-- `keep`: 65 files
-- Total files: 137
+### 3. Split by Page Count
 
-## Page-Count Categorisation
+Final NSE documents are split using the `pages` value in their front matter.
 
-The final NSE files of interest were further categorised using the top-level
-`pages` metadata key in each markdown file.
-
-- Script used: `datapreparation/data-preprocessing/copy_files_by_page_count.py`
-
-Output folders:
-
-- `data/nse_files_final/categorisation_by_pages/equal_or_less_than_10_pages`
-- `data/nse_files_final/categorisation_by_pages/more_than_10_pages`
-
-Current file counts:
-
-- `equal_or_less_than_10_pages`: 109 files
-- `more_than_10_pages`: 28 files
-- Total files: 137
-
-## demo-docs-preparation
-
-For the demo, we selected 10 documents with different content types from the
-set of files containing 10 pages or fewer.
-
-- Source folder:
+- Script: `datapreparation/data-preprocessing/copy_files_by_page_count.py`
+- Ten pages or fewer:
   `data/nse_files_final/categorisation_by_pages/equal_or_less_than_10_pages`
-- Demo document folder: `data/demo-bot-data`
-- Demo document count: 10
+- More than ten pages:
+  `data/nse_files_final/categorisation_by_pages/more_than_10_pages`
 
-We applied the whole-document knowledge-extraction prompt to each demo document
-and stored one JSON result per document.
+Current counts:
 
-- Script used: `datapreparation/run-prompt-on-demo-bot.py`
-- JSON output folder: `data/demo-bot-output`
-- JSON output count: 10
+- Ten pages or fewer: 109 documents
+- More than ten pages: 28 documents
 
-The initial extraction results were reviewed to identify missing, duplicated,
-or low-value information. Based on those results, the prompt was refined and
-the extraction process was repeated three times before the prompt was
-finalised. The prompt progression was:
+### 4. Clean Documents with Ten Pages or Fewer
 
-- `prompts/KE-prompts-for-nse-docs/KE-whole-document-prompt.md`
-- `prompts/KE-prompts-for-nse-docs/KE-whole-document-prompt-v2.md`
-- `prompts/KE-prompts-for-nse-docs/KE-whole-document-prompt-v3.md`
-- `prompts/KE-prompts-for-nse-docs/KE-whole-document-prompt-v4.md` (finalised prompt)
+Documents with ten pages or fewer are cleaned as complete documents with the
+v6 whole-document prompt. The cleaning preserves substantive content, tables,
+and figures while removing filing wrappers, conversion noise, and other
+non-substantive formatting.
 
-This prompt-refinement workflow and the files in the demo folders were created
-for demonstration and validation only.
+- Prompt: `prompts/KE-prompts-for-nse-docs/KE-whole-document-prompt-v6.md`
+- Script: `datapreparation/run-whole-doc-prompt-on-all-docs.py`
+- Input:
+  `data/nse_files_final/categorisation_by_pages/equal_or_less_than_10_pages`
+- Output:
+  `data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages`
+
+The script uses the Codex Python SDK with ChatGPT authentication, medium
+reasoning effort, output validation, one retry for invalid responses, and
+resume support for valid existing outputs.
+
+### 5. Section and Clean Documents Longer than Ten Pages
+
+Documents longer than ten pages are first split into logical sections and then
+grouped into prompt-sized Markdown files.
+
+- Sectioner module: `datapreparation/sectioner`
+- Section manifests:
+  `data/nse_files_final/knowledge_extraction/greater_than_10_pages/sections`
+- Validation reports:
+  `data/nse_files_final/knowledge_extraction/greater_than_10_pages/reports`
+- Grouped sections:
+  `data/nse_files_final/knowledge_extraction/greater_than_10_pages/sectioned_files`
+
+The grouped output preserves one folder per source document. It retains the
+original document name and source-section identifiers, but does not include
+estimated page-range metadata.
+
+The grouped sections are cleaned with the v1 section prompt.
+
+- Prompt: `prompts/KE-prompts-for-nse-docs/KE-section-prompt-v1.md`
+- Script: `datapreparation/run-section-prompt-on-all-docs.py`
+- Cleaned-section output:
+  `data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files`
+
+The section-cleaning script preserves the original YAML metadata block, adds a
+second generated metadata block, validates both, retries invalid responses
+once, and can resume from valid outputs.
+
+## Demo Documents
+
+Ten representative NSE documents were selected for demo validation.
+
+- Input: `data/demo-bot-data`
+- Cleaned output: `data/demo-bot-output`
+- Script: `datapreparation/run-whole-doc-prompt-on-demo-bot.py`
+- Prompt: `prompts/KE-prompts-for-nse-docs/KE-whole-document-prompt-v6.md`
+
+## Infosys Investor-Relations Documents
+
+Earnings calls, press conferences, fact sheets, and IFRS/INR press releases
+are treated as whole documents because they are within the ten-page processing
+scope. The same whole-document cleaning approach is applied.
+
+- Source: `data/infosys_earning_calls_press_conf_fact_sheets_results`
+- Cleaned Markdown:
+  `data/infosys_earning_calls_press_conf_fact_sheets_results/infosys_ir_earning_calls_clean_markdowns`
+
+## Supplementary Market Sources
+
+Trendlyne and yfinance provide supporting Infosys market and research context.
+Each source has raw PDFs, extracted Markdown, and cleaned Markdown.
+
+- Trendlyne: `data/trendlyne`
+- yfinance: `data/yfinance`
+- Raw PDFs: `pdfs/`
+- Extracted Markdown: `mds/`
+- Clean Markdown: `clean-mds/`
+
+For these sources, raw PDFs were supplied directly to ChatGPT to create clean,
+readable Markdown for the project knowledge base. The conversion used the
+source-specific templates in `prompts/KE-prompts`:
+
+- `prompts/KE-prompts/brokerage-reports-ke.md` for brokerage-report material
+- `prompts/KE-prompts/yfinance-ke.md` for yfinance material
