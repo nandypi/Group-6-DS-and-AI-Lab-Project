@@ -47,7 +47,14 @@ We, the undersigned team members, confirm that:
 
 ## Milestone 3
 
-*To be updated.*
+| Team Member | Contribution |
+|-------------|--------------|
+| **Shubham Gattani** | Led Milestone 3 by preprocessing the complete NSE dataset and categorizing files into keep, reject, and review buckets. Conducted an LLM-assisted review using refined prompts, further classifying documents by length (≤10 pages and >10 pages). Designed prompts for sectioning longer documents, merged adjacent sections using Python scripts, and developed dedicated cleanup prompts to preserve critical facts, tables, and numerical data while improving document quality. |
+| **Gurram Sai Sri Ram Hruthik** | Completed knowledge extraction for Infosys IR, earnings calls, and quarterly reports, producing clean, structured Markdown files. Developed knowledge extraction prompts for Yahoo Finance news articles and Trendlyne brokerage reports, generating standardized Markdown outputs. Prepared the Milestone 3 report and presentation. |
+| **Shubhashish Biswas** |Collaborated with Shubham and Hruthik on prompt engineering to reduce information loss and improve the reliability of LLM responses. Also explored and evaluated techniques for preserving the structure and context of tabular data within RAG pipelines. |
+| **NandanReddy Parnapalli** | Explored local embedding generation using the BGE model with ChromaDB by building a pipeline to create embeddings for the demo documents provided by Shubham, store them in a vector database, and retrieve the top-3 relevant chunks for user queries. Later, migrated to OpenAI embeddings to reduce processing time, simplify the pipeline, and improve collaboration across the team. |
+| **Akbar Ali** | Explored vector databases such as Qdrant and ChromaDB for efficient embedding storage and retrieval. Built a pipeline to generate OpenAI text-embedding-3-small embeddings and store them in a vector database. Implemented top-3 chunk retrieval to support the project demo. |
+
 
 ---
 
