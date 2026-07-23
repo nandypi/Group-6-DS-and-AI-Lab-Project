@@ -141,8 +141,6 @@ def build_section_file_text(document_name: str, section: dict[str, object]) -> s
         "---",
         f'document_name: "{document_name}"',
         f'section_id: "{section["section_id"]}"',
-        f"page_start: {section['page_start']}",
-        f"page_end: {section['page_end']}",
         f"estimated_tokens: {section['estimated_tokens']}",
         "heading_path:",
     ]

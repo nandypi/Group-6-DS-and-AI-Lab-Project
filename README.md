@@ -1,150 +1,108 @@
-# Group 6 DS and AI Lab Project
+# Public Update Analyser
 
-## Overview
+Public Update Analyser (PUA) prepares public Infosys information for an
+investor-focused application. It is intended to help retail and small
+institutional investors work with company disclosures and supporting research
+more easily.
 
-Retail and SME investors in Indian capital markets often receive the same public disclosures as institutional investors, but they usually lack the tools and research teams needed to interpret them quickly and meaningfully, which leads to a competitive disadvantage for them.
+## Current Data Sources
 
-This project, titled "Public Update Analyser (PUA)" aims to help the target user (a retailer or small-ticket institutional investor / trader in the Indian capital markets) a to analyse the public updates (including  corporate announcements, exchange filings, brokerage reports, selected news and regulatory updates) so that useful information can be filtered, summarized, and presented through a simplified dashboard.
+| Source | Content | Prepared output |
+| --- | --- | --- |
+| NSE | Corporate-announcement PDFs and Markdown | Clean Markdown from whole documents or grouped sections |
+| Infosys investor relations | Earnings calls, press conferences, fact sheets, and IFRS/INR press releases | Clean whole-document Markdown |
+| Trendlyne | Stock and research reports | Clean Markdown |
+| yfinance | Supporting market and news material | Clean Markdown |
 
-The current data preparation work focuses on filtering stock exchange announcement metadata and preparing PDF file lists for downstream processing.
-
-## Data Preparation Pipeline
-
-```text
-data/announcements_metadata-last-year.json
-        |
-        v
-datapreparation/pdf_seperate.py
-        |
-        +--> data/processed/keep.json
-        +--> data/processed/reject.json
-        +--> data/processed/review.json
-
-data/processed/keep.json
-data/processed/review.json
-        |
-        v
-datapreparation/create_keep_file_list.py
-        |
-        +--> data/processed/keep-file-list.json
-        +--> data/processed/review-file-list.json
-```
-
-## Python Files
-
-| File | Purpose | Input | Output |
-| --- | --- | --- | --- |
-| `datapreparation/pdf_seperate.py` | Classifies announcement metadata into `keep`, `reject`, and `review` groups. | `data/announcements_metadata-last-year.json` | `data/processed/keep.json`, `data/processed/reject.json`, `data/processed/review.json` |
-| `datapreparation/create_keep_file_list.py` | Creates smaller file-list JSONs containing only the fields needed for PDF processing. | `data/processed/keep.json`, `data/processed/review.json` | `data/processed/keep-file-list.json`, `data/processed/review-file-list.json` |
-
-## JSON Files
-
-| File | Meaning |
-| --- | --- |
-| `data/announcements_metadata-last-year.json` | Source metadata file containing full announcement records. This must exist before running `datapreparation/pdf_seperate.py`. |
-| `data/processed/keep.json` | Full records selected for further processing. These announcements are considered useful based on category or text keywords. |
-| `data/processed/reject.json` | Full records rejected from further processing. These announcements are considered routine or less useful for the current goal. |
-| `data/processed/review.json` | Full records that could not be confidently classified. These require manual review. |
-| `data/processed/keep-file-list.json` | Reduced version of `keep.json` containing only `desc`, `attchmntText`, and `attchmntFile`. |
-| `data/processed/review-file-list.json` | Reduced version of `review.json` containing only `desc`, `attchmntText`, and `attchmntFile`. |
-
-## `pdf_seperate.py` Classification Logic
-
-`datapreparation/pdf_seperate.py` reads the full announcement metadata and separates each record into one of three groups.
-
-### 1. Keep
-
-Records are added to `keep` when their `desc` value belongs to important disclosure categories such as:
-
-- acquisitions
-- board meeting outcomes
-- press releases
-- dividend updates
-- financial result updates
-- director changes
-- buyback-related announcements
-
-These records are expected to be useful for later analysis and summarization.
-
-### 2. Reject
-
-Records are added to `reject` when their `desc` value belongs to routine or less relevant categories such as:
-
-- trading window updates
-- record dates
-- newspaper publications
-- loss of share certificates
-- ESOP-related updates
-- takeover regulation disclosures
-
-These records are filtered out from further processing.
-
-### 3. Keyword-Based Filtering
-
-Some broad categories need extra filtering using `attchmntText`.
-
-The script applies keyword checks when `desc` is one of:
-
-- `Updates`
-- `General Updates`
-- `Shareholders meeting`
-- `Analysts/Institutional Investor Meet/Con. Call Updates`
-
-Useful keywords move the record to `keep`, including:
+## Data Preparation Flow
 
 ```text
-transcript
-investor presentation
-acquisition
-partnership
-collaboration
-ceo
-director
-brsr
-form 20-f
-press release
+NSE PDFs
+  -> Markdown conversion
+  -> rename, deduplicate, and categorise
+  -> hardcoded keep + GPT-accepted review files
+  -> split by page count
+     -> <=10 pages: clean complete document
+     -> >10 pages: section, group, and clean each section
+
+Infosys investor-relations PDFs
+  -> clean complete document
+
+Trendlyne and yfinance PDFs
+  -> ChatGPT cleaning with source-specific prompts
+  -> clean Markdown
 ```
 
-Less useful keywords move the record to `reject`, including:
+For NSE, the final source set combines documents retained by the rule-based
+`keep` category with files from the `review` category accepted by GPT. Documents
+with 10 pages or fewer use the whole-document cleaning prompt; longer documents
+are sectioned and grouped before cleaning.
+
+## Main Data Locations
+
+- Final NSE source folders: `data/nse_files_final/keep` and
+  `data/nse_files_final/final_categorisation_by_gpt-5.5/accepted_by_gpt`
+- Whole-document NSE output:
+  `data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages`
+- Grouped long-document NSE sections:
+  `data/nse_files_final/knowledge_extraction/greater_than_10_pages/sectioned_files`
+- Cleaned long-document NSE sections:
+  `data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files`
+- Infosys investor-relations documents:
+  `data/infosys_earning_calls_press_conf_fact_sheets_results`
+- Trendlyne data: `data/trendlyne`
+- yfinance data: `data/yfinance`
+
+## Directory Structure
 
 ```text
-schedule of meet
-investor conference
-notice of agm
-voting results
-scrutinizer report
-proceedings
+Group-6-DS-and-AI-Lab-Project/
++-- data/
+|   +-- demo-bot-data/                          # Demo source Markdown
+|   +-- demo-bot-output/                        # Cleaned demo Markdown
+|   +-- infosys_earning_calls_press_conf_fact_sheets_results/
+|   |   +-- infosys_ir_earning_calls_clean_markdowns/
+|   +-- nse_files_final/
+|   |   +-- keep/                               # Rule-based accepted NSE files
+|   |   +-- final_categorisation_by_gpt-5.5/     # GPT review outputs
+|   |   +-- categorisation_by_pages/             # <=10-page and >10-page files
+|   |   +-- whole_document_cleaning/             # Cleaned <=10-page NSE files
+|   |   +-- knowledge_extraction/
+|   |       +-- greater_than_10_pages/           # Sections and cleaned sections
+|   +-- trendlyne/                               # PDFs, Markdown, clean Markdown
+|   +-- yfinance/                                # PDFs, Markdown, clean Markdown
++-- datapreparation/
+|   +-- data-preprocessing/                      # NSE conversion and filtering
+|   +-- download_data/                           # NSE download notebooks
+|   +-- sectioner/                               # Long-document sectioning tools
+|   +-- run-whole-doc-prompt-on-all-docs.py
+|   +-- run-section-prompt-on-all-docs.py
+|   +-- data_preparation_readme.md
++-- metadata/                                    # Review decisions and metadata
++-- prompts/
+|   +-- KE-prompts/                              # Trendlyne and yfinance prompts
+|   +-- KE-prompts-for-nse-docs/                 # NSE cleaning prompts
++-- PIPELINE.md
++-- README.md
 ```
 
-If neither useful nor less useful keywords are found, the record is added to `review`.
+## Documentation
 
-## Reduced File-List Format
+- [Pipeline overview](PIPELINE.md) records the current preparation flow and
+  outputs.
+- [Data preparation guide](datapreparation/data_preparation_readme.md) gives
+  the detailed paths, scripts, prompts, and commands.
 
-`datapreparation/create_keep_file_list.py` creates compact JSON files for records that need PDF-level processing.
+## Key Scripts
 
-Each item in `keep-file-list.json` and `review-file-list.json` has this structure:
+Run commands from the repository root with the project virtual environment.
 
-```json
-{
-  "desc": "Updates",
-  "attchmntText": "Announcement text shown by the exchange.",
-  "attchmntFile": "https://example.com/file.pdf"
-}
+```powershell
+.\venv\Scripts\python.exe datapreparation\run-whole-doc-prompt-on-all-docs.py
+.\venv\Scripts\python.exe datapreparation\run-section-prompt-on-all-docs.py
 ```
 
-Only these three fields are kept because they identify:
-
-| Field | Meaning |
-| --- | --- |
-| `desc` | Announcement category. |
-| `attchmntText` | Short text description of the announcement. |
-| `attchmntFile` | URL of the attached PDF file. |
-
-## Run Order
-
-Run the scripts in this order:
-
-```bash
-python datapreparation/pdf_seperate.py
-python datapreparation/create_keep_file_list.py
-```
+The first command cleans eligible NSE documents with 10 pages or fewer. The
+second command cleans all grouped sections from longer NSE documents. See the
+data-preparation guide for sectioning, grouping, single-file, and single-folder
+commands.
