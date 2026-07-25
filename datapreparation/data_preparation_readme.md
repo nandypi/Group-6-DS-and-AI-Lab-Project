@@ -143,6 +143,37 @@ sectioned_files/
 Grouped section files retain the original `document_name` and source-section
 identifiers. They do not include estimated `page_start` or `page_end` metadata.
 
+## How is header aware chunking/sectioning done?
+
+Header-aware sectioning means it uses Markdown headings (`#`, `##`, `###`, etc.) as the main boundaries—not arbitrary fixed-size chunks.
+
+1. It reads the Markdown line by line and identifies headings, paragraphs, tables, lists, images, and page markers.
+
+2. It builds a heading hierarchy:
+   - `# Financial Results`
+     - `## Revenue`
+     - `## Expenses`
+   - `# Risk Factors`
+
+   Content after a heading belongs to that heading until another heading at the same or higher level appears.
+
+3. It keeps a complete heading section together if it is at most about **8,000 estimated tokens**. For example, “Financial Results” and all its subheadings stay together if they fit.
+
+4. If a heading section is too large, it splits it first at its child headings. So “Revenue” and “Expenses” become separate sections rather than cutting halfway through their text.
+
+5. Very small neighbouring sibling sections are merged, but only if they share the same parent heading and the combined size stays below 8,000 tokens.
+
+6. If even a single leaf section is too large, it tries safer boundaries in this order:
+   - numbered sub-sections such as `Note 1` / `1.`
+   - table boundaries (tables are kept whole)
+   - page boundaries
+   - paragraph boundaries
+   A huge single table is split by rows with its table header repeated; a huge single paragraph is split by sentences.
+
+7. It records the full heading path on every output section. For example, a piece under `# Financial Results` → `## Revenue` receives that path as metadata, even when it had to be split further.
+
+It also ignores repeated headers/footers, images, blanks, and known boilerplate while calculating size, so those do not cause unnecessary splits. The original Markdown text itself is preserved in the resulting section.
+
 ## Section Cleaning
 
 Grouped sections are cleaned with:
