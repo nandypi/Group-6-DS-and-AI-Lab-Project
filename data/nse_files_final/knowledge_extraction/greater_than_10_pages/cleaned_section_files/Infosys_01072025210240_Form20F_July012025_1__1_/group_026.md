@@ -1,0 +1,203 @@
+---
+document_name: "Infosys_01072025210240_Form20F_July012025_1__1_.md"
+group_id: "Infosys_01072025210240_Form20F_July012025_1__1___group_026"
+source_section_count: 1
+estimated_tokens: 7318
+source_section_ids:
+  - "Infosys_01072025210240_Form20F_July012025_1__1___050"
+---
+---
+section_title: Infosys Limited and subsidiaries Consolidated Financial Statements
+section_description: This section contains audit procedures related to a critical audit matter and consolidated financial statements for Infosys Limited and subsidiaries. It includes the consolidated balance sheet, consolidated statements of comprehensive income, and consolidated statements of changes in equity.
+topics:
+  - Critical audit matter audit procedures
+  - Consolidated balance sheet
+  - Consolidated comprehensive income
+  - Changes in equity
+  - Share capital and reserves
+  - Earnings per equity share
+sample_queries:
+  - What audit procedures were performed for fixed-price contracts measured using the percentage-of-completion method?
+  - What were Infosys Limited's total assets as of March 31, 2025 and March 31, 2024?
+  - What were the revenues, operating profit, and net profit for the years ended March 31, 2025, 2024, and 2023?
+  - What was the total equity attributable to equity holders of the company as of March 31, 2025?
+  - What were the basic and diluted earnings per equity share for fiscal 2025, 2024, and 2023?
+  - What changes in equity were reported for dividends, employee stock compensation, and stock option exercises?
+---
+
+## How the Critical Audit Matter Was Addressed in the Audit
+
+Our audit procedures related to estimates of total expected costs or efforts to complete for fixed-price contracts included the following, among others:
+
+- We tested the effectiveness of controls relating to (1) recording of efforts or costs incurred and estimation of efforts or costs required to complete the remaining contract performance obligations and (2) access and application controls pertaining to time recording, allocation and budgeting systems which prevents unauthorised changes to recording of efforts incurred.
+- We selected a sample of fixed price contracts with customers measured using the percentage-of-completion method and performed the following:
+  - Evaluated management's ability to reasonably estimate the progress towards satisfying the performance obligation by comparing actual efforts or costs incurred to prior year estimates of efforts or costs budgeted for performance obligations that have been fulfilled.
+  - Compared efforts or costs incurred with Group's estimate of efforts or costs incurred to date to identify significant variations and evaluate whether those variations have been considered appropriately in estimating the remaining costs or efforts to complete the contract.
+  - Tested the estimate for consistency with the status of delivery of milestones and customer acceptances and sign off from customers to identify possible delays in achieving milestones, which require changes in estimated costs or efforts to complete the remaining performance obligations.
+
+## Infosys Limited and subsidiaries
+
+## Consolidated Balance Sheet as of March 31,
+
+|  | Note | 2025 | 2024 |
+|---|---:|---:|---:|
+|  |  | (Dollars in millions except equity share data) | (Dollars in millions except equity share data) |
+| ASSETS |  |  |  |
+| Current assets |  |  |  |
+| Cash and cash equivalents | 2.1 | 2,861 | 1,773 |
+| Current investments | 2.2 | 1,460 | 1,548 |
+| Trade receivables |  | 3,645 | 3,620 |
+| Unbilled revenues | 2.12 | 1,503 | 1,531 |
+| Prepayments and other current assets | 2.4 | 1,519 | 1,473 |
+| Income tax assets | 2.18 | 348 | 767 |
+| Derivative financial instruments | 2.3 | 23 | 10 |
+| Total current assets |  | 11,359 | 10,722 |
+| Non-current assets |  |  |  |
+| Property, plant and equipment | 2.7 | 1,497 | 1,537 |
+| Right-of-use assets | 2.8 | 738 | 786 |
+| Goodwill | 2.9 | 1,182 | 875 |
+| Intangible assets | 2.9 | 323 | 167 |
+| Non-current investments | 2.2 | 1,294 | 1,404 |
+| Unbilled revenues | 2.12 | 261 | 213 |
+| Deferred income tax assets | 2.18 | 130 | 55 |
+| Income tax assets | 2.18 | 190 | 365 |
+| Other non-current assets | 2.4 | 445 | 399 |
+| Total non-current assets |  | 6,060 | 5,801 |
+| Total assets |  | 17,419 | 16,523 |
+| LIABILITIES AND EQUITY |  |  |  |
+| Current liabilities |  |  |  |
+| Trade payables |  | 487 | 474 |
+| Lease liabilities | 2.8 | 287 | 235 |
+| Derivative financial instruments | 2.3 | 7 | 4 |
+| Current income tax liabilities | 2.18 | 567 | 430 |
+| Unearned revenues |  | 994 | 880 |
+| Employee benefit obligations |  | 340 | 314 |
+| Provisions | 2.6 | 173 | 215 |
+| Other current liabilities | 2.5 | 2,157 | 2,099 |
+| Total current liabilities |  | 5,012 | 4,651 |
+| Non-current liabilities |  |  |  |
+| Lease liabilities | 2.8 | 675 | 767 |
+| Deferred income tax liabilities | 2.18 | 202 | 216 |
+| Employee benefit obligations |  | 11 | 11 |
+| Other non-current liabilities | 2.5 | 264 | 273 |
+| Total liabilities |  | 6,164 | 5,918 |
+| Equity |  |  |  |
+| Share capital - ₹ 5/- ($0.16) par value 4,800,000,000 (4,800,000,000) authorized equity shares, issued and outstanding 4,143,607,528 (4,139,950,635) equity shares fully paid up, net of 9,655,927 (10,916,829) treasury shares each as of March 31, 2025 (March 31, 2024), respectively |  | 325 | 325 |
+| Share premium |  | 500 | 425 |
+| Retained earnings |  | 13,766 | 12,557 |
+| Cash flow hedge reserve |  | (2) | 1 |
+| Other reserves |  | 1,171 | 1,623 |
+| Capital redemption reserve |  | 24 | 24 |
+| Other components of equity |  | (4,579) | (4,396) |
+| Total equity attributable to equity holders of the company |  | 11,205 | 10,559 |
+| Non-controlling interests |  | 50 | 46 |
+| Total equity |  | 11,255 | 10,605 |
+| Total liabilities and equity |  | 17,419 | 16,523 |
+
+The accompanying notes form an integral part of the consolidated financial statements.
+
+## Infosys Limited and subsidiaries
+
+## Consolidated Statements of Comprehensive Income for the years ended March 31,
+
+|  | Note | 2025 | 2024 | 2023 |
+|---|---:|---:|---:|---:|
+|  |  | (Dollars in millions except equity share and per equity share data) | (Dollars in millions except equity share and per equity share data) | (Dollars in millions except equity share and per equity share data) |
+| Revenues | 2.11 | 19,277 | 18,562 | 18,212 |
+| Cost of sales |  | 13,405 | 12,975 | 12,709 |
+| Gross profit |  | 5,872 | 5,587 | 5,503 |
+| Operating expenses: |  |  |  |  |
+| Selling and marketing expenses |  | 898 | 842 | 776 |
+| Administrative expenses |  | 903 | 911 | 902 |
+| Total operating expenses |  | 1,801 | 1,753 | 1,678 |
+| Operating profit |  | 4,071 | 3,834 | 3,825 |
+| Other income, net | 2.16 | 425 | 568 | 335 |
+| Finance cost |  | 49 | 56 | 35 |
+| Profit before income taxes |  | 4,447 | 4,346 | 4,125 |
+| Income tax expense | 2.18 | 1,285 | 1,177 | 1,142 |
+| Net profit |  | 3,162 | 3,169 | 2,983 |
+| Other comprehensive income |  |  |  |  |
+| Items that will not be reclassified subsequently to profit or loss: Remeasurements of the net defined benefit liability / asset, net |  | (11) | 15 | 4 |
+| Equity instruments through other comprehensive income, net | 2.2 and 2.18 | 2 | 2 | (3) |
+|  |  | (9) | 17 | 1 |
+| Items that will be reclassified subsequently to profit or loss: |  |  |  |  |
+| Fair valuation of investments, net | 2.2 and 2.18 | 24 | 17 | (30) |
+| Fair value changes on derivatives designated as cash flow hedge, net | 2.3 and 2.18 | (3) | 1 | (1) |
+| Exchange differences on translation of foreign operations |  | (198) | (117) | (697) |
+|  |  | (177) | (99) | (728) |
+| Total other comprehensive income/(loss), net of tax |  | (186) | (82) | (727) |
+| Total comprehensive income |  | 2,976 | 3,087 | 2,256 |
+| Profit attributable to: |  |  |  |  |
+| Owners of the company |  | 3,158 | 3,167 | 2,981 |
+| Non-controlling interests |  | 4 | 2 | 2 |
+|  |  | 3,162 | 3,169 | 2,983 |
+| Total comprehensive income attributable to: |  |  |  |  |
+| Owners of the company |  | 2,972 | 3,086 | 2,254 |
+| Non-controlling interests |  | 4 | 1 | 2 |
+|  |  | 2,976 | 3,087 | 2,256 |
+| Earnings per equity share |  |  |  |  |
+| Basic (in $ per share) | 2.19 | 0.76 | 0.77 | 0.71 |
+| Diluted (in $ per share) |  | 0.76 | 0.76 | 0.71 |
+| Weighted average equity shares used in computing earnings per equity share |  |  |  |  |
+| Basic (in shares) | 2.19 | 4,141,611,738 | 4,138,568,090 | 4,180,897,857 |
+| Diluted (in shares) |  | 4,152,051,184 | 4,144,680,425 | 4,187,731,070 |
+
+The accompanying notes form an integral part of the consolidated financial statements.
+
+## Infosys Limited and subsidiaries Consolidated Statements of Changes in Equity
+
+| Total equity | 9,994 (2) | 9,992 | 2,983 | 4 | (3) | (1) | (697) | (30) 2,256 | 4 | (1,394) | (3) | - | 63 6 | - | - | (3) (1,697) 9,224 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Non-controlling interest | 53 - | 53 | 2 | - | - | - | - | - 2 | - | - | - | - - | - | - - | (3) - | 52 |
+| Total equity attributable to equity holders of the company | 9,941 (2) | 9,939 | 2,981 | 4 | (3) | (1) | (697) | (30) 2,254 | 4 | (1,394) | (3) | - 63 | 6 | - - | - (1,697) | 9,172 |
+| Other components of equity (3,588) | - (3,588) |  | - | 4 | (3) | - | (697) | (30) (726) | - | - | - | - - | - | - - | - - | (4,314) |
+| Cash Flow Hedge Reserve | 1 - 1 | - |  | - | - | (1) | - | - (1) | - | - | - | - - | - | - - | - - | - |
+| Capital redemption reserve | 21 - 21 |  | - | - | - | - | - | - - | - | - | - | 3 - | - | - - | - | - 24 |
+| Other Reserves 1,170 | - | 1,170 | - | - | - | - | - | - - | - | - | - | - - | - 380 | (180) | - - | 1,370 |
+| Retained earnings 11,672 | (2) | 11,670 | 2,981 | - | - | - | - | - 2,981 | - | (1,350) | - | (3) - | - (380) | 180 | - (1,697) | 11,401 |
+| Share premium 337 | - | 337 | - | - | - | - | - | - - | 4 | (41) | (3) | - 63 | 6 - | - | - | - 366 |
+| Share capital 328 | - | 328 | - | - | - | - | - | - - | - | (3) | - | - - | - - | - | - | - 325 |
+| Number of Shares (2) 4,193,012,929 | - | 4,193,012,929 | - | - | - | - | - | - - | 3,801,344 | (60,426,348) | - | - - | - - | - | - | - 4,136,387,925 |
+| Balance as of April 1, 2022 on adoption of amendment to IAS | Impact 37# | Changes in equity for the year ended March 31, 2023 | Net Profit Remeasurement of the net defined benefit | liability/asset, net* Equity instruments through other | comprehensive income, net* ((Refer to Notes 2.2 and 2.18) | Fair value changes on derivatives designated as cash flow hedge, net* (Refer to Notes 2.3 and 2.18) | Exchange differences on translation of foreign operations | to Notes 2.2 and 2.18) Total comprehensive income for the period | Shares issued on exercise of employee stock options (Refer to note 2.17) Buyback of equity shares (Refer to Note | 2.15)** Transaction cost relating to buyback* (Refer to | Note 2.15) Amount transferred to capital redemption reserve upon buyback (Refer to Note 2.15) | Employee stock compensation expense (Refer to note 2.17) Income tax benefit arising on exercise of stock | options | Transferred to other reserves Transferred from other reserves on utilization | Dividends paid to non controlling interest of subsidiary | Dividends# Balance as of March 31, 2023 |
+
+| 3,169 | 15 | 2 | 17 | 1 | (117) 3,087 | 1 | - | - | 77 - | (5) | (2) (1,777) | 10,605 | 3,162 | (11) | 2 | 24 | (3) | (198) 2,976 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2 | - | - | - | - (1) | 1 | - | - | - | - - | (5) | (2) - 46 | 4 | - | - | - | - |  | 4 |
+| 3,167 | 15 | 2 | 17 | 1 (116) | 3,086 | 1 | - | - | 77 - | - | - (1,777) 10,559 | 3,158 | (11) | 2 | 24 | (3) | (198) | 2,972 |
+| - | 15 | 2 | 17 | - | (116) (82) | - | - | - | - - | - | - - | (4,396) | - (11) | 2 | 24 | - | (198) | (183) |
+| - | - | - | - | 1 - | 1 | - | - | - | - - | - | - - 1 | - | - | - | - | (3) | - | (3) |
+| - | - | - | - | - - | - | - | - | - | - - | - | - - | 24 | - - | - | - | - | - | - |
+| - | - | - | - | - | - - |  | - 357 | (104) | - - | - | - - | 1,623 | - - | - | - | - | - | - |
+| 3,167 | - | - | - | - | - 3,167 |  | - (357) | 104 | - 19 | - | - (1,777) | 12,557 | 3,158 - | - | - | - | - | 3,158 |
+| - | - | - | - | - | - - | 1 | - | - | 77 (19) | - | - - | 425 | - - | - | - | - | - | - |
+| - | - | - | - | - | - | - | - - | - | - - | - | - - | 325 | - - | - | - | - | - | - |
+| - | - | - | - | - | - - | 3,562,710 | - | - | - - | - | - - | 4,139,950,635 | - - | - | - | - | - | - |
+| for the year ended March | net defined benefit through other income, net* (Refer to Notes |  | on investments, net* (Refer 2.18) changes on derivatives designated hedge, net* (Refer to Notes 2.3 | difference on translation of foreign | comprehensive income for the period | on exercise of employee stock (Refer Note 2.17) | to other reserves | from other reserves on utilization compensation expense (Refer | account of options not exercised | paid to non-controlling interest of | pertaining to non interest of subsidiary (1) | as of March 31, 2024 in equity for the year ended March | Remeasurement of the net defined benefit net* | instruments through other income, net* (Refer to Notes | on investments, net* (Refer 2.18) | on derivatives designated hedge, net* (Refer to Notes 2.3 | on translation of foreign | comprehensive income for the period |
+| in equity | of the net* | instruments 2.18) | changes 2.2 and flow | 2.18) |  | issued | to | stock | 2.17) on |  | of shares controlling | Changes | liability/asset, |  | changes 2.2 and | changes | difference |  |
+| Changes 2024 profit | Remeasurement | comprehensive 2.2 and | Notes Fair value | Exchange | operations | options | Transfer | Transfer Employee | Transfer | Dividends subsidiary | Dividends | 2025 | profit | comprehensive and | 2.18) value Notes | value flow 2.18) | Exchange operations |  |
+|  | liability/asset, |  | value | as cash |  | Shares |  |  | Note |  | Buyback | Balance |  | 2.2 | to | cash and |  |  |
+| 31, Net |  | Equity | Fair to | and |  | Total |  |  | to |  |  | 31, | Net | Equity | Fair | Fair as |  | Total |
+
+| 1 | - | - | - | 93 | 4 | - | (2,424) | 11,255 |
+|---|---|---|---|---|---|---|---|---|
+| - | - | - | - | - | - | - | - | 50 |
+| 1 | - | - | - | 93 | 4 | - | (2,424) | 11,205 |
+| - | - | - | - | - | - |  | - | (4,579) |
+| - | - | - | - | - | - |  | - | (2) |
+| - | - | - | - | - | - |  | - | 24 |
+| - | - | 9 | (104) | - | - | (357) | - | 1,171 |
+| - | 23 | (9) | 104 | - | - | 357 | (2,424) | 13,766 |
+| 1 | (23) | - | - | 93 | 4 | - | - | 500 |
+| - | - | - | - | - | - | - | - | 325 |
+| 3,656,893 | - | - | - | - | - | - | - | 4,143,607,528 |
+| Shares issued on exercise of employee stock options (Refer to Note 2.17) | Transferred on account of options not exercised | Transfer to other reserves | Transfer from other reserves on utilization | Employee stock compensation expense (Refer to Note 2.17) | Income tax benefit arising on exercise of stock options | Transferred from other reserves to retained earnings | Dividends (1) | Balance as of March 31, 2025 |
+
+\* net of taxes; net of treasury shares
+
+\*\* including tax on buyback $264 million for the years ended March 31, 2023.
+
+\# Impact on account of adoption of amendment to IAS 37 Provisions, Contingent Liabilities and Contingents Assets.
+
+(1) Excludes treasury shares of 9,655,927 as of March 31, 2025, 10,916,829 as of March 31, 2024, 12,172,119 as of March 31, 2023, and 13,725,712 as of April 1, 2022, held by consolidated trust.
+
+The accompanying notes form an integral part of the consolidated financial statements.

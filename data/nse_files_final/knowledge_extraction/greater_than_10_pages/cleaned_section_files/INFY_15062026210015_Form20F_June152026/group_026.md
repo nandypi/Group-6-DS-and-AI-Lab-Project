@@ -1,0 +1,178 @@
+---
+document_name: "INFY_15062026210015_Form20F_June152026.md"
+group_id: "INFY_15062026210015_Form20F_June152026__group_026"
+source_section_count: 2
+estimated_tokens: 4771
+source_section_ids:
+  - "INFY_15062026210015_Form20F_June152026__050"
+  - "INFY_15062026210015_Form20F_June152026__051"
+---
+---
+section_title: "Item 11. Quantitative and Qualitative Disclosures about Market Risk"
+section_description: "This section covers Infosys' market risk disclosure by reference, ADS fees and depositary payments, controls and procedures, internal control over financial reporting, audit committee financial experts, code of ethics, principal accountant fees, and equity share buybacks."
+topics:
+  - "Market risk disclosures"
+  - "ADS fees and depositary charges"
+  - "Disclosure controls and procedures"
+  - "Internal control over financial reporting"
+  - "Audit committee financial experts"
+  - "Code of ethics"
+  - "Principal accountant fees"
+  - "Equity share buybacks"
+sample_queries:
+  - "What fees may ADS holders be charged under the deposit agreement?"
+  - "How much did the depositary pay Infosys for the year ended March 31, 2026?"
+  - "What conclusion did management reach about internal control over financial reporting as of March 31, 2026?"
+  - "Who were identified as Audit Committee Financial Experts?"
+  - "What were the principal accountant fees for fiscal 2026 and fiscal 2025?"
+  - "What were the key terms of the buyback completed in December 2025?"
+  - "How many shares were purchased in the buyback completed in February 2023?"
+---
+
+## Item 11. Quantitative and Qualitative Disclosures about Market Risk
+
+This information is set forth under the section titled 'Operating and Financial Review and Prospects' is as set out above in this Annual Report on Form 20-F and such information is incorporated herein by reference.
+
+## Item 12. Description of Securities Other Than Equity Securities
+
+The fees and charges payable by holders of our ADSs include the following:
+
+- i. a fee not in excess of U.S.$0.05 per ADS is charged for each issuance of ADSs including issuances resulting from distributions of shares, share splits, and rights distributions;
+- ii. a fee not in excess of U.S.$0.05 per ADS is charged for each surrender of ADSs in exchange for the underlying deposited securities;
+- iii. a fee not in excess of U.S.$0.01 per ADS for each cash distribution;
+- iv. a fee not in excess of U.S.$0.01 per ADS is charged for each stock dividend or other free/bonus distribution of the underlying deposited securities distributed in the form of ADSs;
+- v. an annual fee not in excess of U.S.$0.02 per ADS for the operation and maintenance costs in administering the ADSs; and
+- vi. a fee for the distribution of the deposited securities pursuant to the deposit agreement, such fee being an amount equal to the fee for the execution and delivery of ADSs referred to in item (i) above which would have been charged as a result of the deposit of such securities, which were instead distributed by the depositary to ADS holders.
+
+Additionally, under the terms of our deposit agreement, the depositary is entitled to charge each registered holder the following:
+
+- i. taxes and other governmental charges incurred by the depositary or the custodian on any ADS or an equity share underlying an ADS;
+- ii. transfer or registration fees for the registration or transfer of deposited securities on any applicable register in connection with the deposit or withdrawal of deposited securities, including those of a central depository for securities (where applicable);
+- iii. any cable, telex, facsimile transmission and delivery expenses incurred by the depositary;
+- iv. customary expenses incurred by the depositary in the conversion of foreign currency, including, without limitation, expenses incurred on behalf of registered holders in connection with compliance with foreign exchange control restrictions and other applicable regulatory requirements;
+- v. fees and expenses of the depositary incurred in connection with compliance with regulatory requirements applicable to ADSs or the underlying deposited securities; and
+- vi. fees and expenses incurred by the depositary or its agents in connection with the servicing of the ADSs or the underlying deposited securities, the sale of securities, the delivery of the underlying deposited securities or otherwise in connection with the depositary's or the custodian's compliance with applicable laws, rules or regulations.
+
+In the case of cash distributions, fees are generally deducted from the cash being distributed. Other fees may be collected from holders of ADSs in a manner determined by the depositary with respect to ADSs registered in the name of investors (whether certificated or in book-entry form) and ADSs held in brokerage and custodian accounts (via DTC). In the case of distributions other than cash (i.e., stock dividends.), the depositary charges the applicable ADS record date holder concurrent with the distribution. In the case of ADSs registered in the name of the investor (whether certificated or in book-entry form), the depositary sends invoices to the applicable record date ADS holders.
+
+If any tax or other governmental charge is payable by the holders and / or beneficial owners of ADSs to the depositary, the depositary, the custodian or we may withhold or deduct from any distributions made in respect of deposited securities and may sell for the account of the holder and / or beneficial owner any or all of the deposited securities and apply such distributions and sale proceeds in payment of such taxes (including applicable interest and penalties) or charges, with the holder and the beneficial owner thereof remaining fully liable for any deficiency.
+
+## Fees and other payments made by the depositary
+
+During fiscal 2026, expenses aggregating approximately $227,413 were incurred by the Depositary in relation to our ADS program towards payment made to proxy processing firms for mailing the notice, proxy card and other interim communications to ADS holders or their brokers including dividend re-investment and transfer fees.
+
+For the year ended March 31, 2026, the Depositary has made payments to Infosys totaling to approximately $5.04 million (post deduction of withholding tax) which we may use for investor relations activities related to the ADR program, including the production of annual reports and Form 20-F filings, listing fees, road shows, investor targeting, peer analysis, perception studies, postage for mailing annual and interim reports and other communications to ADR holders, broker conferences, analyst events, etc. Under certain circumstances, including termination of our ADS program or removal of our Depositary, we may be required to repay to the Depositary a portion of the amounts reimbursed in prior periods.
+
+## Part II
+
+## Item 13. Defaults, Dividend Arrearages and Delinquencies
+
+None.
+
+## Item 14. Material Modifications to the Rights of Security Holders and Use of Proceeds
+
+None.
+
+## Item 15. Controls and Procedures
+
+## DISCLOSURE CONTROLS AND PROCEDURES
+
+As of the end of the period covered by this Annual Report on Form 20-F, our management, with the participation of our CEO and CFO, has carried out an evaluation of the effectiveness of our disclosure controls and procedures, as defined in Rules 13a-15(e) or 15d-15(e) promulgated under the Securities Exchange Act of 1934, as amended (the 'Exchange Act'), at March 31, 2026. The term 'disclosure controls and procedures' means controls and other procedures that are designed to ensure that information required to be disclosed in the reports we file or submit under the Exchange Act is recorded, processed, summarized and reported, within the time periods specified in the rules and forms of the SEC. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by us in our reports that we file or submit under the Exchange Act is accumulated and communicated to management, including our CEO and CFO, as appropriate to allow timely decisions regarding our required disclosure. In designing and evaluating our disclosure controls and procedures, management recognizes that any controls and procedures, no matter how well conceived and operated, can only provide reasonable assurance that the objectives of the disclosure controls and procedures are met.
+
+Based on their evaluation as of the end of the period covered by this Annual Report on Form 20-F, our CEO and CFO have concluded that our disclosure controls and procedures were effective to provide reasonable assurance that the information required to be disclosed in filings and submissions under the Exchange Act, is recorded, processed, summarized, and reported within the time periods specified by the SEC's rules and forms, and that material information related to us and our consolidated subsidiaries is accumulated and communicated to management, including the Chief Executive Officer and Chief Financial Officer, as appropriate to allow timely decisions about required disclosure.
+
+## Management's Annual Report on Internal Control over Financial Reporting
+
+Our management is responsible for establishing and maintaining adequate internal control over financial reporting as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act. Our internal control over financial reporting is a process to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with International Financial Reporting Standards (IFRS), as issued by the International Accounting Standards Board (IASB). Our internal control over financial reporting includes those policies and procedures that:
+
+- pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of our assets;
+- provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with IFRS as issued by the IASB, and that our receipts and expenditures are being made only in accordance with authorizations of our management and directors; and
+- provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of our assets that could have a material effect on the financial statements.
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+
+Management assessed the effectiveness of our internal control over financial reporting as of March 31, 2026. In conducting its assessment of internal control over financial reporting, management based its evaluation on the Internal Control - Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO). Based on the assessment, management has concluded that our internal control over financial reporting was effective as of March 31, 2026.
+
+Our independent registered public accounting firm, Deloitte Haskins &amp; Sells LLP, has audited the consolidated financial statements included in this Annual Report on Form 20-F, and as part of their audit, has issued their report, included herein, on the effectiveness of our internal control over financial reporting as of March 31, 2026.
+
+## REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+## To the Shareholders and the Board of Directors of Infosys Limited
+
+## Opinion on Internal Control over Financial Reporting
+
+We have audited the internal control over financial reporting of Infosys Limited (the 'Company') and subsidiaries (the 'Group') as of March 31, 2026, based on criteria established in Internal Control - Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO). In our opinion, the Group maintained, in all material respects, effective internal control over financial reporting as of March 31, 2026, based on criteria established in Internal Control - Integrated Framework (2013) issued by COSO.
+
+We have also audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the consolidated financial statements as of and for the year ended March 31, 2026, of the Group and our report dated June 15, 2026, expressed an unqualified opinion on those consolidated financial statements.
+
+## Basis for Opinion
+
+The Group's management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting, included in the accompanying Management's Annual Report on Internal Control over Financial Reporting. Our responsibility is to express an opinion on the Group's internal control over financial reporting based on our audit. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Group in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects. Our audit included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, testing and evaluating the design and operating effectiveness of internal control based on the assessed risk, and performing such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion.
+
+## Definition and Limitations of Internal Control over Financial Reporting
+
+A company's internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company's internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company's assets that could have a material effect on the financial statements.
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+
+## CHANGES IN INTERNAL CONTROL OVER FINANCIAL REPORTING
+
+During the period covered by this Annual Report on Form 20-F, there were no changes in our internal control over financial reporting that have materially affected or are reasonably likely to materially affect our internal control over financial reporting.
+
+## Item 16A. Audit Committee Financial Expert
+
+Mr. Bobby Parikh is a member of our Board and is a member of its Audit Committee and its Chairperson. Mr. D. Sundaram is a member of our Board and is a member of its Audit Committee. Mr. Parikh and Mr. Sundaram are each an 'Audit Committee Financial Expert' as defined in Item 16A of Form 20-F and an independent director under applicable NYSE rules and Rule 10A-3 under the Exchange Act.
+
+## Item 16B. Code of Ethics
+
+On April 23, 2026, our Board adopted the revised Code of Conduct and Ethics which is applicable to all officers, directors and employees. The Revised Code of Conduct and Ethics has been filed as an exhibit to the Annual Report on Form 20-F.
+
+Our Whistleblower Policy is posted on our website.
+
+## Item 16C. Principal Accountant Fees and Services
+
+The following table sets forth fees for professional audit services for the audit of our annual financial statements, and fees for other services rendered by our principal accountant and their associated entities for fiscal 2026 and 2025:
+
+| Type of Service | Fiscal 2026 | Fiscal 2025 | Description of Services |
+|---|---:|---:|---|
+| (a) Audit Fees | 3.2 | 2.7 | Audit and review of financial statements |
+| (b) Audit Related Fees | 1.0 | 0.7 | Certificates, testing service organization controls and other audit related services |
+| (c) Tax Fees | 0.4 | 0.3 | Tax returns, filing and advisory services |
+| (d) All Other Fees | 0.1 | 0.1 | Other advisory services |
+| Total | 4.7 | 3.8 | |
+
+Our Audit Committee charter requires us to take the prior approval of our Audit Committee on every occasion we engage our principal accountants or their associated entities to provide us any audit and non-audit services. We disclose to our Audit Committee the nature of services that will be provided and the fees to be paid for the services. The audit and non-audit services provided by our principal accountants or their associated entities in the previous two fiscal years have been pre-approved by our Audit Committee.
+
+## Item 16D. Exemptions from the Listing Standards for Audit Committees
+
+Not applicable.
+
+## Item 16E. Purchases of Equity Securities by the Issuer and Affiliated Purchasers
+
+## Buyback completed in December 2025
+
+In line with the capital allocation policy, the Board, at its meeting held on September 11, 2025, approved a proposal for the Company to buyback its fully paid-up equity shares of face value of ₹5/each from the eligible equity shareholders of the Company for an amount of ₹18,000 crore (approximately $2,000 million) subject to shareholders' approval by way of Postal Ballot. The shareholders approved the said proposal of buyback of Equity Shares recommended by its Board of Directors by way of e-voting through postal ballot, the results of which were declared on November 6, 2025. The Buyback offer comprised a purchase of 10,00,00,000 Equity Shares comprising approximately 2.41% of the total paid-up equity share capital of the Company as of June 30, 2025 (on standalone basis) at a price of ₹1,800 ($20) per Equity share. The buyback was offered to all eligible equity shareholders (including those who became equity shareholders as on the Record date by cancelling American Depository Shares and withdrawing underlying Equity shares) of the Company as on the Record Date (i.e., November 14, 2025) on a proportionate basis through the "Tender offer" route. The tender period for buyback commenced on November 20, 2025 and was open until November 26, 2025. The Company concluded the buyback procedures on December 4, 2025 and 100,000,000 equity shares were bought back and extinguished. The buyback resulted in a cash outflow of ₹18,000 crore (approximately $2,000 million) (excluding transactions costs). The Company funded the buyback from its free reserves including securities premium as explained in Section 68 of the Companies Act, 2013. In accordance with Section 69 of the Companies Act, 2013, as at March 31, 2026, the Company has created a Capital Redemption Reserve of ₹50 crore (approximately $6 million) equal to the nominal value of the shares bought back as an appropriation from the general reserve.
+
+Following is the summary of the buyback completed in fiscal 2026:
+
+| Period | (a)Total number of shares purchased | (b)Average price paid per share (in INR) | (c)Total number of shares purchased as part of publicly announced buyback | (d)Maximum number of shares that may yet to be purchased under the buyback |
+|---|---:|---:|---:|---|
+| December 4, 2025 | 100,000,000 | 1,800.00 | 100,000,000 | NA |
+| Total | 100,000,000 | 1,800.00 | 100,000,000 | - |
+
+## Buyback completed in February 2023
+
+The shareholders, through a special resolution passed through postal ballot concluded on December 2, 2022, the results of which were declared on December 3, 2022, had approved the proposal of the Company to buyback from the open market through Indian stock exchanges its own fully paid-up equity shares of face value of ₹5/each payable in cash, for an amount aggregating up to ₹9,300 crore (maximum buyback size, excluding buyback tax) at a price not exceeding ₹1,850/per equity share. The buyback was offered to all equity shareholders of the Company (other than the Promoters, the Promoter Group and Persons in Control of the Company) under the open market route through Indian stock exchanges. The buyback of equity shares through Indian stock exchanges commenced on December 7, 2022, and was completed on February 13, 2023. During this buyback period, the Company purchased and extinguished a total of 60,426,348 equity shares from the stock exchange at a volume weighted average buyback price of ₹1,539.06/per equity share comprising 1.44% of the pre buyback paid-up equity share capital of the Company. The buyback resulted in a cash outflow of ₹9,300 crore (excluding transaction costs and tax on buyback) ($1,130 million). The Company funded the buyback from its free reserves including Securities Premium as explained in Section 68 of the Companies Act, 2013.
+
+Following is the summary of the buyback completed in fiscal 2023:
+
+| Period | (a)Total number of shares purchased | (b)Average price paid per share (in INR) | (c)Total number of shares purchased as part of publicly announced buyback | (d)Maximum number of shares that may yet to be purchased under the buyback |
+|---|---:|---:|---:|---|
+| December 7, 2022 to December 31, | 25,164,000 | 1,536.18 | 25,164,000 | NA |
+| January 1, 2023 to January 31, 2023 | 26,206,500 | 1,529.03 | 26,206,500 | NA |
+| February 1, 2023 to February 10, 2023 | 9,055,848 | 1,576.12 | 9,055,848 | NA |
+| Total | 60,426,348 | 1,539.06* | 60,426,348 | - |
+
+* Represents price for the period between December 7, 2022, to February 10, 2023.

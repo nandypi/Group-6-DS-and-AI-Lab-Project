@@ -1,0 +1,142 @@
+---
+document_name: "INFY_15062026210015_Form20F_June152026.md"
+group_id: "INFY_15062026210015_Form20F_June152026__group_004"
+source_section_count: 2
+estimated_tokens: 4283
+source_section_ids:
+  - "INFY_15062026210015_Form20F_June152026__007"
+  - "INFY_15062026210015_Form20F_June152026__008"
+---
+---
+section_title: Wage pressures and workforce, infrastructure, currency, employee, and contractual risks
+section_description: This section describes risks related to wage costs, hiring, infrastructure investments, currency fluctuations, interest rates, employee workforce, management retention, client contracts, pricing models, benchmarking provisions, and government work.
+topics:
+  - Wage pressures and hiring
+  - Infrastructure investment
+  - Currency fluctuations and interest rates
+  - Employee workforce risks
+  - Management and key personnel
+  - Fixed-price and transaction-based contracts
+  - Client termination and performance risks
+  - Government contracting
+sample_queries:
+  - How could wage increases in India and globally affect Infosys' profitability?
+  - What capital expenditure commitments did Infosys have as of March 31, 2026?
+  - How did Indian rupee and U.S. dollar exchange rate changes affect operating margins in fiscal 2026?
+  - What employee workforce risks does Infosys describe in relation to AI adoption?
+  - Why could fixed-price, fixed-timeframe, output, outcome, or transaction-based pricing contracts reduce profitability?
+  - What factors could cause clients to terminate or reduce projects?
+  - How can benchmarking provisions in long-term client contracts affect future revenues?
+  - What additional risks arise from working with governmental agencies?
+---
+
+## Wage pressures and the hiring of employees and sub-contractors either outside or in India may prevent us from sustaining our competitive advantage and may reduce our profits.
+
+Wage costs in India have historically been significantly lower than wage costs in the United States and Europe for comparably skilled professionals, which has been one of our competitive strengths. However, wages in India have seen considerable increases over the years, due to a multitude of factors, such as inflation, intense competition for skilled resources between IT services companies and the overall economic growth leading to competition from traditional industrial sectors. Additionally, we have historically experienced significant competition for employees from large multinational companies that have established and continue to establish offshore operations in India, including GCCs. Increased demand for talent in India due to higher levels of offshoring across the industry could also cause wages to increase for certain management level employees and skilled professionals.
+
+Likewise, wages globally have increased due to a lack of skilled resources and inflation. Prolonged conflicts, changes in tariffs, trade restrictions or political and macroeconomic uncertainties may increase inflation in key geographies, thereby further increasing wage costs for us. Increased cost of visa processing and increased wages for visa dependent workers in certain geographies may further impact our cost structure.
+
+In addition, any changes to the employment laws in the countries in which we operate, such as the introduction of the Labour Codes (as defined below) in India, may increase the compensation or social security benefits we offer our employees may impact our profitability.
+
+We may need to increase employee compensation more rapidly than in the past to be able to attract and retain employees that are skilled in emerging technologies and remain competitive with other employers or seek to recruit in lower labor cost jurisdictions to help manage wage costs. For example, demand for talent with advanced AI knowledge has grown significantly due to the increasing adoption of AI. This has resulted in intense competition among global companies for trained and highly skilled AI professionals, which may lead to increased talent costs. We have in the past and may in future issue incentive compensation plans including stock-based compensation plans to our employees and management. Any reduction in the market price of our shares could impact the total cost of rewards and benefits to our employees, thus potentially resulting in increased employee attrition. Any compensation increases in the future may result in higher operating costs and lower profitability. In certain years, we may not give, or may delay, wage increases due to adverse market conditions while our competitors may still give wage increases. This may result in higher attrition rates and may impact our ability to hire highly skilled technology professionals. If we are unable to retain our employees, our employee compensation costs may be substantially higher as we may need to offer higher salaries to attract new employees. Higher salary offered to new employees may negatively impact tenured employee satisfaction and sentiments if we fail to raise salary of tenured employees to eradicate disparity. In addition, employee productivity and delivery milestones may be adversely affected as new employees require additional time to scale up leading to higher fulfilment costs including potential penalties from clients.
+
+## We are investing substantial cash in creating and maintaining physical and technological infrastructure, and our profitability could be reduced if our business does not grow proportionately.
+
+As of March 31, 2026, we had contractual commitments of $141 million for capital expenditures, including commitments related to the expansion or construction of facilities. We may encounter cost overruns or project delays in connection with expansion of existing facilities and construction of new facilities. We will continue to invest in the expansions of existing facilities and construction of new facilities to meet our growth requirements which may increase our fixed costs. We are also investing in the development of new facilities, including in Tier 2 cities across India, to enable our hybrid working model, which may also increase our facilities cost. If we are unable to grow our business and revenues proportionately, our profitability will be adversely impacted.
+
+Changing business and operating models with employees continuing to work in hybrid model may reduce the use of our physical infrastructure. Continued incurrence of operational cost to maintain these facilities may adversely affect our profitability.
+
+Conversely, due to business conditions, we may decide not to expand or invest in certain areas which may impact our ability to meet the commitments given to the federal or state governments, which in turn may impact our reputation and relationship with the governments.
+
+## Currency fluctuations and changes in interest rates may affect the results of our operations and yield on cash balances.
+
+Our functional currency is the Indian rupee and majority of our expenses are in Indian rupees and U.S. dollars.
+
+We generate a majority of our revenues in foreign currencies, such as the U.S. dollar, the Euro, the Australian dollar, and the United Kingdom Pound Sterling, through our sales in the United States and elsewhere. We avail products and services from overseas suppliers in various currencies. As a result of the increased volatility in the foreign exchange currency markets, there may be demand from our clients that the impact associated with foreign exchange fluctuations be borne by us. Also, we hold a substantial majority of our cash funds in Indian rupees. We expect that a majority of our revenues will continue to be generated in foreign currencies, including the U.S. dollar, the Euro, the Australian dollar and the United Kingdom Pound Sterling, for the foreseeable future and that a significant portion of our expenses, including personnel costs, as well as capital and operating expenditures, will continue to be denominated in Indian rupees and U.S. dollars. Accordingly, changes in exchange rates could adversely affect our revenues, other income, cost of sales, gross margin and net income, and may have a negative impact on our business, results of operations and financial condition. For example, during fiscal 2026, every percentage point depreciation / appreciation in the exchange rate between the Indian rupee and the U.S. dollar, affected our incremental operating margins by approximately 0.44%.
+
+We use derivative financial instruments such as foreign exchange forward and option contracts to mitigate the risk of changes in foreign exchange exposures. Our purchase of these derivative instruments, however, may not be adequate to insulate ourselves from foreign currency exchange risks.
+
+We may incur losses due to unanticipated or significant intra quarter movements in currency markets which could have an adverse impact on our profits and results of operations. Also, the volatility in the foreign currency markets may make it difficult to hedge our foreign currency exposures effectively.
+
+Further, the policies of the Reserve Bank of India ('RBI') may change from time to time which may limit our ability to hedge our foreign currency exposures adequately. Full or increased capital account convertibility, if introduced, could result in increased volatility in the fluctuations of exchange rates between the Rupee and foreign currencies.
+
+A majority of our investments are in India-based assets and are exposed to fluctuations in the interest rate environment in the country, which depends to a great extent on the RBI's monetary policy. Changes in monetary policy in the form of interest rate cuts could result in lower interest income and affect our profitability.
+
+Adverse currency movements arising out of macroeconomic issues or geopolitical conflicts may adversely impact our profitability.
+
+## IV. Risks related to our employee workforce
+
+## Our success depends largely upon our highly skilled technology professionals and our ability to hire, attract, motivate, retain and train these personnel.
+
+Our ability to execute projects (especially large, complex and integrated programs), maintain our client relationships and acquire new clients depends largely on our ability to attract, hire, train, motivate and retain highly skilled technology professionals, project managers and other mid-level professionals. If we cannot hire, motivate and retain personnel, our ability to bid for projects, obtain new deals, execute large deals, build and sell new service offerings or software platforms and expand our business will be impaired and our revenues could decline.
+
+The availability of science and technology professionals in certain geographies where we operate or into which we choose to expand in the future may be inadequate to satisfy our demand requirements. This may also adversely impact our efforts to localize our workforce in these geographies. Any travel or immigration related restrictions or increased wage costs may further affect our ability to hire or deploy necessary personnel to compete for and provide services to clients in these geographies.
+
+Increasing worldwide competition for skilled professionals and increased hiring by technology companies, particularly in India, may affect our ability to hire and retain an adequate number of skilled and experienced technology professionals. We may see volatility in the attrition percentage of our workforce in India and across different locations.
+
+Changing technology, industry needs and changing demography increases the need for hiring differently skilled and diversified talent. For instance, the new wave of digital services requires talent with differentiated skills in creative design, data science, statistical analysis, AI and machine learning. The talent pools with such skills could be different from our traditional sources of recruitment and may come at higher cost. If we are unable to hire, retain and redeploy our technology professionals to keep pace with such continuing changes in technology, it may adversely affect our ability to bid for and obtain new deals and may adversely affect our business.
+
+Our inability to integrate employees that we hire into our existing corporate culture due to our hybrid working model may adversely impact the results of our operations. We also hire and train fresh college graduates each year. If we are unable to timely and effectively train and deploy them on client projects, our utilization, client satisfaction and profitability could be adversely affected.
+
+AI led disruptions are reshaping the traditional talent model. Historically, IT services companies have relied on hiring entry-level employees and scaling them by providing training. With AI, there is an increased demand for individuals who can contextualize software within clients' business environments, review and curate the codes generated by AI, and articulate the business value to clients. This shift may alter the traditional talent acquisition model and retention model as we may have to retain a significant percentage of these employees. The speed and scale of the shift may depend on the rate of enterprise AI adoption.
+
+In addition, if we are unable to increase employee compensation adequately or if we reduce compensation or variable pay for our employees or if our share price decreases significantly for those employees with shares as part of their compensation, it may result in increased attrition and increased hiring cost to replace such employees.
+
+Our inability to attract, engage, retain, train and deploy rebadged employees may not only impact profitability, but also impact project deliverables. Any such rebadged employees along with negotiated agreements with or without work councils may impact our ability to redeploy these employees and make any changes to the employment contract.
+
+With attrition and mobility restrictions, there is a higher dependency on sub-contractors to deliver the committed services to clients, which may also impact our profitability.
+
+We hire a significant number of candidates as fresh college graduates and laterals to meet our business needs. We invest much effort, money and resources to train our associates, especially at the entry level, to make them usable on our client engagements. Desired competency and quality of talent is essential to ensure quality of our service delivery to our clients. The increasing demand for specialized AI skills may lead to elevated training and talent development costs. Despite our training and enablement efforts, some of the associates fail to meet the competency or required skills. Exits of such associates, despite following the due process of law in the respective jurisdiction may create media attention and scrutiny with authorities, potentially impacting our brand and reputation.
+
+## Our success depends in large part upon our management team and key personnel and our ability to attract and retain them.
+
+We are highly dependent on the members of our Board of Directors (the 'Board'), executive officers and other senior executive leaders. Our future performance and client relationships may be affected by any disruptions in the continued service of our directors and senior executive leaders. Competition for senior management in our industry is intense, and we may not be able to retain senior management personnel or attract and hire new senior management personnel in the future or there could be targeted hiring of Infosys leaders. If we are unable to build an adequate buffer or bench strength of leaders or effectively manage succession planning, it may impact the stability of the organization and growth prospects. Furthermore, we do not maintain keyman life insurance for any of the senior members of our management team or other key personnel. The loss of any member of our senior management or other key personnel, or if they become unavailable for an extended period of time due to health issues, security threats or any other business issues may adversely affect our business, results of operations and financial condition.
+
+## V. Risks related to our contractual obligations
+
+## Our failure to complete fixed-price and fixed-timeframe contracts, or transaction-based pricing contracts, within budget and on time, may negatively affect our profitability.
+
+As an element of our business strategy, in response to client requirements and pressures on IT budgets, we offer an increasing portion of our services on a fixed-price, fixed-timeframe basis, rather than on a time-and-materials basis. In fiscal 2026 and 2025, revenues from fixed-price, fixed-timeframe projects accounted for 54% of our total revenue, respectively. In addition, pressure on the IT budgets of our clients and the AI disruptions have led us to deviate from our standard pricing policies and to offer varied pricing models to our clients including output or outcome-based pricing model in certain situations in order to remain competitive. For example, we enter into transaction-based pricing contracts with certain clients who are not historically offered such terms in order to give them the flexibility to pay as they use our services.
+
+The risk of entering into fixed-price, fixed-timeframe arrangements, output, outcome and transaction-based pricing arrangements is that if we fail to properly estimate the appropriate pricing for a project, we may earn lower profits or incur losses as a result of being unable to execute projects within the timeframe and with the amount of labor we expected. Although, we use our software engineering methodologies and processes and past project experience to reduce the risks associated with estimating, planning and performing fixed-price, fixed-timeframe projects and transaction-based pricing projects, we bear the risk of cost overruns, completion delays and wage inflation in connection with these projects. If we fail to estimate accurately the resources and time required for a project, the extent of automation and productivity gains we may be able to achieve, the complexity of executing large and multi-party programs, future wage inflation rates or currency exchange rates, or if we fail to complete our contractual obligations within the contracted timeframe, our profitability may suffer. We expect that we will continue to enter into fixed-price, fixed-timeframe and transaction-based pricing engagements in the future, and such engagements may increase in relation to the revenues generated from engagements on a time-and-materials basis, which would increase the risks to our business.
+
+## Our client contracts can typically be terminated without cause, which could negatively impact our revenues and profitability.
+
+Our clients typically retain us on a non-exclusive, project-by-project basis. Many of our client contracts, including those that are on a fixed-price, fixed time frame basis, can be terminated with or without cause, with a notice period as agreed in the contract. Our business is dependent on the decisions and actions of our clients, and there are a number of factors relating to our clients that are outside of our control, which might lead to termination, descoping of a project or the loss of a client, including:
+
+- financial difficulties for a client including limited access to the credit markets, increased cost of debt service, increased cost of operations, insolvency or bankruptcy, adverse impact due to the macro-economic factors, changes in tariffs or trade restrictions or geopolitical conflicts;
+- a change in strategic priorities, resulting in a reduced level of technology spending;
+- a demand for price reductions; or an unwillingness to accept higher pricing due to various factors such as higher wage costs, higher cost of doing business;
+- a change in outsourcing strategy by moving more work to the clients' in-house technology departments or to our competitors;
+- the replacement by our clients of existing software with packaged software supported by licensors;
+- mergers and acquisitions;
+- consolidation of technology spending by a client, whether arising out of mergers and acquisitions, or otherwise; or
+- sudden ramp-downs in projects due to an uncertain economic environment or geopolitical conflicts or a pandemic.
+
+Our inability to control the client's decision with respect to termination of client contracts could have an adverse impact on our financial condition and results of operations. While there have been no material project terminations due to economic uncertainty, changes in tariffs or trade restrictions or geopolitical conflicts, a prolonged uncertainty could heighten the risk that certain of our clients may invoke termination clauses to reduce their expenditure which could in turn affect our anticipated growth and profitability.
+
+## Our client contracts are often conditional upon our performance, which, if unsatisfactory due to any reason, could result in lower revenues than previously anticipated.
+
+A number of our client contracts have incentive-based or other pricing terms that condition some or all of our fees on our ability to meet defined performance goals or service levels. In addition, certain client situations may require us to agree to higher contractual liability exposure limits. Our failure to meet these goals or a client's expectations in such performance-based contracts, especially due to dependencies on the client not clearly articulated in the contract, may result in us not being able to bill them for expended effort. This could lead to not only to a less profitable or an unprofitable engagement but may also result in penalties or fines impacting our overall financial health.
+
+Our clients may seek more favorable terms from us in our contracts, particularly related to the limitation of our liability for damages resulting from unsatisfactory performance of services. Further, any damages resulting from such failure, particularly where we are unable to recover such damages from our insurers, may adversely impact our business, revenues and operating margins.
+
+Our ability to meet contractual commitments in client contracts may be impacted due to lack of talent availability or geopolitical conflicts leading to client dissatisfaction and loss of revenue.
+
+As clients increasingly expect engagements to incorporate AI-enabled solutions, we face evolving contractual, operational and legal risks relating to AI-based projects, including risks associated with confidentiality, data privacy, intellectual property ownership, model training and reuse, accuracy of outputs and allocation of liability.
+
+## Some of our long-term client contracts contain benchmarking provisions which, if triggered, could result in lower future revenues and profitability under the contract.
+
+As the size and duration of our client engagements increase, clients may increasingly require benchmarking provisions. Benchmarking provisions allow a client in certain circumstances to request a benchmark study prepared by an agreed upon third-party comparing our pricing, performance and efficiency gains for delivered contract services to that of an agreed upon list of service providers for comparable services and in comparable geography. Based on the results of the benchmark study and depending on the reasons for any unfavorable variance, we may be required to reduce the price of our services or provide clients with a right to terminate our services without paying any termination fee. This may have an adverse impact on our revenues and profitability. Benchmarking provisions in our client engagements may have a greater impact on our results of operations during an economic slowdown because pricing pressure and the resulting decline in rates may lead to a reduction in fees that we charge to clients that have benchmarking provisions in their engagements with us.
+
+## Our work with governmental agencies may expose us to additional risks.
+
+While the vast majority of our clients are privately or publicly owned, we also bid for work with governments and governmental agencies in key geographies in which we operate. Projects involving governments or governmental agencies carry various risks inherent in the government contracting process, including the following:
+
+- Such projects may be subject to a higher risk of reduction in scope or termination than other contracts due to political and economic factors such as changes in government, pending elections or the reduction in, or absence of, adequate funding, or disputes with other government departments or agencies;
+- Terms and conditions of government contracts tend to be more onerous than other contracts and may include, among other things, higher liability exposure to us for direct or indirect damages, extensive rights of audit, more punitive service level penalties and other restrictive covenants. Additionally, there are risks of delayed payments or change in the terms of such contracts due to political and economic factors and lack of timely closure of requirements;
+- Government contracts are often subject to more extensive scrutiny and publicity than other contracts. Any negative publicity related to such contracts, regardless of the accuracy of such publicity, may adversely affect our business and reputation;
+- Participation in government contracts could subject us to stricter regulatory requirements, which may increase our cost of compliance; and
+- Such projects may involve multiple parties in the delivery of services and require greater project management efforts on our part, and any failure in this regard may adversely impact our performance.
+
+In addition, we operate in jurisdictions in which local business practices may be inconsistent with international regulatory requirements, including anti-corruption and anti-bribery regulations prescribed under the U.S. Foreign Corrupt Practices Act (the 'FCPA'), and the U.K. Bribery Act 2010, which, among other things, prohibits giving or offering to give anything of value with the intent to influence the awarding of government contracts. Although we believe that we have adequate policies and enforcement mechanisms to ensure legal and regulatory compliance with the FCPA, the U.K. Bribery Act 2010 and other similar regulations, it is possible that any of our employees, subcontractors, agents or partners may violate any such legal and regulatory requirements in spite of terms requiring strict compliance with these regulations in our contracts with such subcontractors, agents or partners, which may expose us to criminal or civil enforcement actions, including penalties and suspension or disqualification from U.S. federal procurement contracting.

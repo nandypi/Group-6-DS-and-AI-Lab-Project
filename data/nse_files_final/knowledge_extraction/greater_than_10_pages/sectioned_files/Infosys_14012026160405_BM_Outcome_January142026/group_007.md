@@ -2,8 +2,6 @@
 document_name: "Infosys_14012026160405_BM_Outcome_January142026.md"
 group_id: "Infosys_14012026160405_BM_Outcome_January142026__group_007"
 source_section_count: 2
-page_start: 29
-page_end: 33
 estimated_tokens: 5453
 source_section_ids:
   - "Infosys_14012026160405_BM_Outcome_January142026__012"

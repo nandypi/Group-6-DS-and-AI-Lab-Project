@@ -1,0 +1,219 @@
+---
+document_name: "Infosys_23042026170027_outcome.md"
+group_id: "Infosys_23042026170027_outcome__group_032"
+source_section_count: 2
+estimated_tokens: 5051
+source_section_ids:
+  - "Infosys_23042026170027_outcome__056"
+  - "Infosys_23042026170027_outcome__057"
+---
+---
+section_title: Non-whole-time Directors and Segment Reporting
+section_description: This section lists Infosys key management personnel, their compensation, segment reporting disclosures, significant client disclosure, and revenue recognition accounting policy. It also includes business segment revenue and profitability tables and revenue from operations by service category.
+topics:
+  - Key management personnel
+  - Directors and executive officers
+  - Segment reporting
+  - Business segment revenue
+  - Significant clients
+  - Revenue recognition policy
+  - Products and platforms
+  - Disaggregated revenue
+sample_queries:
+  - Who were the non-whole-time directors listed in this section?
+  - What was the compensation to key management personnel for the three months and year ended March 31, 2026 and 2025?
+  - How does the Group define and aggregate its business segments for segment reporting?
+  - What were the segment revenues and segment profits by business segment for the year ended March 31, 2026?
+  - Did any client account for more than 10% of revenues for the periods presented?
+  - How does the Group recognize revenue from time-and-material, fixed-price, and software license contracts?
+  - What were revenues from software services and products and platforms for the three months and year ended March 31, 2026 and 2025?
+---
+
+## Non-whole-time Directors
+
+Nandan M. Nilekani  
+D. Sundaram  
+Micheal Gibbs  
+Bobby Parikh  
+Chitra Nayak  
+Govind Iyer  
+Helene Auriol Potier  
+Nitin Paranjpe
+
+## Executive Officers
+
+Inderpreet Sawhney, Chief Legal Officer and Chief Compliance Officer  
+Jayesh Sanghrajka, Chief Financial Officer  
+Shaji Mathew, Chief Human Resources Officer
+
+## Company Secretary
+
+A.G.S. Manikantha
+
+## Transactions with key management personnel
+
+The table below describes the compensation to key management personnel which comprise directors and executive officers:
+
+| Particulars | Three months ended March 31, 2026 (In ₹ crore) | Three months ended March 31, 2025 (In ₹ crore) | Year ended March 31, 2026 (In ₹ crore) | Year ended March 31, 2025 (In ₹ crore) |
+|---|---:|---:|---:|---:|
+| Salaries and other short term employee benefits to whole-time directors and executive officers (1)(2) | 35 | 33 | 124 | 118 |
+| Commission and other benefits to non-executive/ independent directors | 5 | 5 | 20 | 19 |
+| Total | 40 | 38 | 144 | 137 |
+
+(1) Total employee stock compensation expense for the three months ended March 31, 2026 and March 31, 2025 includes a charge of ₹18 crore and ₹18 crore respectively, towards key management personnel. For the year ended March 31, 2026 and March 31, 2025, includes a charge of ₹70 crore and ₹70 crore respectively, towards key management personnel. (Refer note 2.11)
+
+(2) Does not include post-employment benefits and other long-term benefits based on actuarial valuation as these are done for the Company as a whole.
+
+## 2.15 Segment reporting
+
+IFRS 8 Operating Segments establishes standards for the way that public business enterprises report information about operating segments and related disclosures about products and services, geographic areas, and major customers. The Group's operations predominantly relate to providing end-to-end business solutions to enable clients to enhance business performance. The Chief Operating Decision Maker (CODM) evaluates the Group's performance and allocates resources based on an analysis of various performance indicators by business segments. Accordingly, information has been presented along business segments. The accounting principles used in the preparation of the financial statements are consistently applied to record revenue and expenditure in individual segments, and are as set out in the accounting policies.
+
+Business segments of the Group are primarily enterprises in Financial Services and Insurance, enterprises in Manufacturing, enterprises in Retail, Consumer Packaged Goods and Logistics, enterprises in the Energy, Utilities, Resources and Services, enterprises in Communication, Telecom OEM and Media, enterprises in Hi-Tech, enterprises in Life Sciences and Healthcare and all other segments. The Financial services reportable segments has been aggregated to include the Financial Services operating segment and Finacle operating segment because of the similarity of the economic characteristics. All other segments represents the operating segments of businesses in India, Japan, China, Infosys Public Services & identified enterprises in Public Services.
+
+Revenue and identifiable operating expenses in relation to segments are categorized based on items that are individually identifiable to that segment. Revenue for 'all other segments' represents revenue generated by Infosys Public Services and revenue generated from customers located in India, Japan and China and other enterprises in Public services. Allocated expenses of segments include expenses incurred for rendering services from the Group's offshore software development centers and on-site expenses, which are categorized in relation to the associated efforts of the segment. Certain expenses such as depreciation and amortization, which form a significant component of total expenses, are not specifically allocable to specific segments as the underlying assets are used interchangeably. The Management believes that it is not practical to provide segment disclosures relating to those costs and expenses, and accordingly these expenses are separately disclosed as "unallocated" and adjusted against the total income of the Group.
+
+Assets and liabilities used in the Group's business are not identified to any of the reportable segments, as these are used interchangeably between segments. The Management believes that it is currently not practicable to provide segment disclosures relating to total assets and liabilities since a meaningful segregation of the available data is onerous.
+
+Business segment revenue information is collated based on individual customers invoiced or in relation to which the revenue is otherwise recognized.
+
+Disclosure of revenue by geographic locations is given in note 2.16 Revenue from operations.
+
+## 2.15.1 Business segments
+
+## Three months ended March 31, 2026 and March 31, 2025
+
+| Particulars | Period | Financial Services (1) | Manufacturing | Energy, Utilities, Resources and Services | Retail (2) | Communication (3) | Hi-Tech | Life Sciences (4) | All other segments (5) | Total (₹ crore) |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Revenue | 2026 | 12,976 | 7,358 | 6,114 | 5,958 | 5,752 | 3,558 | 3,393 | 1,293 | 46,402 |
+| Revenue | 2025 | 11,614 | 6,527 | 5,308 | 5,440 | 4,798 | 3,397 | 2,765 | 1,076 | 40,925 |
+| Identifiable operating expenses | 2026 | 6,977 | 4,501 | 3,349 | 2,952 | 3,635 | 1,974 | 2,148 | 769 | 26,305 |
+| Identifiable operating expenses | 2025 | 6,665 | 4,182 | 2,771 | 2,736 | 3,074 | 2,005 | 1,639 | 613 | 23,685 |
+| Allocated expenses | 2026 | 2,589 | 1,316 | 1,217 | 1,195 | 1,090 | 654 | 586 | 283 | 8,930 |
+| Allocated expenses | 2025 | 2,001 | 1,149 | 960 | 1,064 | 888 | 597 | 509 | 198 | 7,366 |
+| Segment Profit | 2026 | 3,410 | 1,541 | 1,548 | 1,811 | 1,027 | 930 | 659 | 241 | 11,167 |
+| Segment Profit | 2025 | 2,948 | 1,196 | 1,577 | 1,640 | 836 | 795 | 617 | 265 | 9,874 |
+| Unallocable expenses | 2026 |  |  |  |  |  |  |  |  | 1,424 |
+| Unallocable expenses | 2025 |  |  |  |  |  |  |  |  | 1,299 |
+| Operating profit | 2026 |  |  |  |  |  |  |  |  | 9,743 |
+| Operating profit | 2025 |  |  |  |  |  |  |  |  | 8,575 |
+| Other income, net | 2026 |  |  |  |  |  |  |  |  | 1,159 |
+| Other income, net | 2025 |  |  |  |  |  |  |  |  | 1,190 |
+| Finance cost | 2026 |  |  |  |  |  |  |  |  | 105 |
+| Finance cost | 2025 |  |  |  |  |  |  |  |  | 102 |
+| Profit before income taxes | 2026 |  |  |  |  |  |  |  |  | 10,797 |
+| Profit before income taxes | 2025 |  |  |  |  |  |  |  |  | 9,663 |
+| Income tax expense | 2026 |  |  |  |  |  |  |  |  | 2,288 |
+| Income tax expense | 2025 |  |  |  |  |  |  |  |  | 2,625 |
+| Net profit | 2026 |  |  |  |  |  |  |  |  | 8,509 |
+| Net profit | 2025 |  |  |  |  |  |  |  |  | 7,038 |
+| Depreciation and amortization | 2026 |  |  |  |  |  |  |  |  | 1,424 |
+| Depreciation and amortization | 2025 |  |  |  |  |  |  |  |  | 1,299 |
+| Non-cash expenses other than depreciation and amortization | 2026 |  |  |  |  |  |  |  |  | - |
+| Non-cash expenses other than depreciation and amortization | 2025 |  |  |  |  |  |  |  |  | - |
+
+(1) Financial Services include enterprises in Financial Services and Insurance
+
+(2) Retail includes enterprises in Retail, Consumer Packaged Goods and Logistics
+
+(3) Communication includes enterprises in Communication, Telecom OEM and Media
+
+(4) Life Sciences includes enterprises in Life sciences and Health care
+
+(5) Others include operating segments of businesses in India, Japan, China, Infosys Public Services & identified enterprises in Public Services
+
+## Year ended March 31, 2026 and March 31, 2025
+
+| Particulars | Period | Financial Services (1) | Manufacturing | Energy, Utilities, Resources and Services | Retail (2) | Communication (3) | Hi-Tech | Life Sciences (4) | All other segments (5) | Total (₹ crore) |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Revenue | 2026 | 49,908 | 29,078 | 23,818 | 23,077 | 21,765 | 13,928 | 12,267 | 4,809 | 178,650 |
+| Revenue | 2025 | 45,175 | 25,207 | 21,710 | 22,059 | 19,108 | 13,090 | 11,831 | 4,810 | 162,990 |
+| Identifiable operating expenses | 2026 | 27,877 | 17,797 | 13,327 | 11,529 | 13,908 | 8,286 | 7,667 | 2,956 | 103,347 |
+| Identifiable operating expenses | 2025 | 25,871 | 16,167 | 11,882 | 10,931 | 12,420 | 7,592 | 7,166 | 2,986 | 95,015 |
+| Allocated expenses | 2026 | 9,353 | 4,837 | 4,507 | 4,459 | 3,996 | 2,414 | 2,156 | 1,136 | 32,858 |
+| Allocated expenses | 2025 | 8,205 | 4,184 | 3,731 | 3,995 | 3,347 | 2,278 | 2,002 | 997 | 28,739 |
+| Segment Profit | 2026 | 12,678 | 6,444 | 5,984 | 7,089 | 3,861 | 3,228 | 2,444 | 717 | 42,445 |
+| Segment Profit | 2025 | 11,099 | 4,856 | 6,097 | 7,133 | 3,341 | 3,220 | 2,663 | 827 | 39,236 |
+| Unallocable expenses* | 2026 |  |  |  |  |  |  |  |  | 6,191 |
+| Unallocable expenses* | 2025 |  |  |  |  |  |  |  |  | 4,812 |
+| Operating profit | 2026 |  |  |  |  |  |  |  |  | 36,254 |
+| Operating profit | 2025 |  |  |  |  |  |  |  |  | 34,424 |
+| Other income, net | 2026 |  |  |  |  |  |  |  |  | 4,157 |
+| Other income, net | 2025 |  |  |  |  |  |  |  |  | 3,600 |
+| Finance cost | 2026 |  |  |  |  |  |  |  |  | 416 |
+| Finance cost | 2025 |  |  |  |  |  |  |  |  | 416 |
+| Profit before income taxes | 2026 |  |  |  |  |  |  |  |  | 39,995 |
+| Profit before income taxes | 2025 |  |  |  |  |  |  |  |  | 37,608 |
+| Income tax expense | 2026 |  |  |  |  |  |  |  |  | 10,521 |
+| Income tax expense | 2025 |  |  |  |  |  |  |  |  | 10,858 |
+| Net profit | 2026 |  |  |  |  |  |  |  |  | 29,474 |
+| Net profit | 2025 |  |  |  |  |  |  |  |  | 26,750 |
+| Depreciation and amortization | 2026 |  |  |  |  |  |  |  |  | 4,902 |
+| Depreciation and amortization | 2025 |  |  |  |  |  |  |  |  | 4,812 |
+| Non-cash expenses other than depreciation and amortization | 2026 |  |  |  |  |  |  |  |  | - |
+| Non-cash expenses other than depreciation and amortization | 2025 |  |  |  |  |  |  |  |  | - |
+
+(1) Financial Services include enterprises in Financial Services and Insurance
+
+(2) Retail includes enterprises in Retail, Consumer Packaged Goods and Logistics
+
+(3) Communication includes enterprises in Communication, Telecom OEM and Media
+
+(4) Life Sciences includes enterprises in Life sciences and Health care
+
+(5) Others include operating segments of businesses in India, Japan, China, Infosys Public Services & identified enterprises in Public Services
+
+* Unallocable expense includes impact of ₹1,289 crore towards impact of Labour Codes for the year ended March 31, 2026. (Refer to note 2.19.4)
+
+## 2.15.2 Significant clients
+
+No client individually accounted for more than 10% of the revenues for the three months and year ended March 31, 2026 and March 31, 2025, respectively.
+
+## Accounting Policy
+
+The Group derives revenues primarily from IT services comprising software development and related services, cloud and infrastructure services, maintenance, consulting and package implementation, licensing of software products and platforms across the Group's core and digital offerings (together called as 'software related services') and business process management services. Contracts with customers are either on a time-and-material, unit of work, fixed-price or on a fixed-time frame basis.
+
+Revenues from customer contracts are considered for recognition and measurement when the contract has been approved in writing by the parties, to the contract, the parties to contract are committed to perform their respective obligations under the contract, and the contract is legally enforceable. Revenue is recognized upon transfer of control of promised products or services ('performance obligations') to customers in an amount that reflects the consideration the Group has received or expects to receive in exchange for these products or services ('transaction price'). When there is uncertainty as to collectability, revenue recognition is postponed until such uncertainty is resolved.
+
+The Group assesses the services promised in a contract and identifies distinct performance obligations in the contract. The Group allocates the transaction price to each distinct performance obligation based on the relative standalone selling price. The price that is regularly charged for an item when sold separately is the best evidence of its standalone selling price. In the absence of such evidence, the primary method used to estimate standalone selling price is the expected cost plus a margin, under which the Group estimates the cost of satisfying the performance obligation and then adds an appropriate margin based on similar services.
+
+The Group's contracts may include variable consideration including rebates, volume discounts and penalties. The Group includes variable consideration as part of transaction price when there is a basis to reasonably estimate the amount of the variable consideration and when it is probable that a significant reversal of cumulative revenue recognized will not occur when the uncertainty associated with the variable consideration is resolved.
+
+Revenue on time-and-material and unit of work based contracts, are recognized as the related services are performed. Fixed price maintenance revenue is recognized ratably either on a straight-line basis when services are performed through an indefinite number of repetitive acts over a specified period or ratably using a percentage of completion method when the pattern of benefits from the services rendered to the customer and Group's costs to fulfil the contract is not even through the period of contract because the services are generally discrete in nature and not repetitive. Revenue from other fixed-price, fixed-timeframe contracts, where the performance obligations are satisfied over time is recognized using the percentage-of-completion method. Efforts or costs expended are used to determine progress towards completion as there is a direct relationship between input and productivity. Progress towards completion is measured as the ratio of costs or efforts incurred to date (representing work performed) to the estimated total costs or efforts. Estimates of transaction price and total costs or efforts are continuously monitored over the term of the contracts and are recognized in net profit in the period when these estimates change or when the estimates are revised. Revenues and the estimated total costs or efforts are subject to revision as the contract progresses. Provisions for estimated losses, if any, on incomplete contracts are recorded in the period in which such losses become probable based on the estimated efforts or costs to complete the contract.
+
+The billing schedules agreed with customers include periodic performance based billing and / or milestone based progress billings. Revenues in excess of billing are classified as unbilled revenue while billing in excess of revenues are classified as contract liabilities (which we refer to as unearned revenues).
+
+In arrangements for software development and related services and maintenance services, by applying the revenue recognition criteria for each distinct performance obligation, the arrangements with customers generally meet the criteria for considering software development and related services as distinct performance obligations. For allocating the transaction price, the Group measures the revenue in respect of each performance obligation of a contract at its relative standalone selling price. The price that is regularly charged for an item when sold separately is the best evidence of its standalone selling price. In cases where the Group is unable to determine the standalone selling price, the Group uses the expected cost plus margin approach in estimating the standalone selling price. For software development and related services, the performance obligations are satisfied as and when the services are rendered since the customer generally obtains control of the work as it progresses.
+
+Certain cloud and infrastructure services contracts include multiple elements which may be subject to other specific accounting guidance, such as leasing guidance. These contracts are accounted in accordance with such specific accounting guidance. In such arrangements where the Group is able to determine that hardware and services are distinct performance obligations, it allocates the consideration to these performance obligations on a relative standalone selling price basis. In the absence of standalone selling price, the Group uses the expected cost-plus margin approach in estimating the standalone selling price. When such arrangements are considered as a single performance obligation, revenue is recognized over the period and measure of progress is determined based on promise in the contract.
+
+Revenue from licenses where the customer obtains a 'right to use' the licenses is recognized at the time the license is made available to the customer. Revenue from licenses where the customer obtains a 'right to access' is recognized over the access period.
+
+Arrangements to deliver software products generally have three elements: license, implementation and Annual Technical Services (ATS). When implementation services are provided in conjunction with the licensing arrangement and the license and implementation have been identified as two distinct separate performance obligations, the transaction price for such contracts are allocated to each performance obligation of the contract based on their relative standalone selling prices. In the absence of standalone selling price for implementation, the Group uses the expected cost plus margin approach in estimating the standalone selling price. Where the license is required to be substantially customized as part of the implementation service the entire arrangement fee for license and implementation is considered to be a single performance obligation and the revenue is recognized using the percentage-of-completion method as the implementation is performed. Revenue from client training, support and other services arising due to the sale of software products is recognized as the performance obligations are satisfied. ATS revenue is recognized ratably on a straight line basis over the period in which the services are rendered.
+
+Contracts with customers includes subcontractor services or third-party vendor equipment or software in certain integrated services arrangements. In these types of arrangements, revenue from sales of third-party vendor products or services is recorded net of costs when the Group is acting as an agent between the customer and the vendor, and gross when the Group is the principal for the transaction. In doing so, the Group first evaluates whether it obtains control of the specified goods or services before they are transferred to the customer. The Group considers whether it is primarily responsible for fulfilling the promise to provide the specified goods or services, inventory risk, pricing discretion and other factors to determine whether it controls the specified goods or services and therefore, is acting as a principal or an agent.
+
+A contract modification is a change in the scope or price or both of a contract that is approved by the parties to the contract. A contract modification that results in the addition of distinct performance obligations are accounted for either as a separate contract if the additional services are priced at the standalone selling price or as a termination of the existing contract and creation of a new contract if they are not priced at the standalone selling price. If the modification does not result in a distinct performance obligation, it is accounted for as part of the existing contract on a cumulative catch-up basis.
+
+The incremental costs of obtaining a contract (i.e., costs that would not have been incurred if the contract had not been obtained) are recognized as an asset if the Group expects to recover them.
+
+Certain eligible, nonrecurring costs (e.g. set-up or transition or transformation costs) that do not represent a separate performance obligation are recognized as an asset when such costs (a) relate directly to the contract; (b) generate or enhance resources of the Group that will be used in satisfying the performance obligation in the future; and (c) are expected to be recovered.
+
+Capitalized contract costs relating to upfront payments to customers are amortized to revenue and other capitalized costs are amortized to cost of sales over the respective contract life on a systematic basis consistent with the transfer of goods or services to customer to which the asset relates. Capitalized costs are monitored regularly for impairment. Impairment losses are recorded when present value of projected remaining operating cash flows is not sufficient to recover the carrying amount of the capitalized costs.
+
+The Group presents revenues net of indirect taxes in its interim Consolidated Statement of Comprehensive Income.
+
+Revenues for the three months and year ended March 31, 2026 and March 31, 2025 is as follows:
+
+| Particulars | Three months ended March 31, 2026 (In ₹ crore) | Three months ended March 31, 2025 (In ₹ crore) | Year ended March 31, 2026 (In ₹ crore) | Year ended March 31, 2025 (In ₹ crore) |
+|---|---:|---:|---:|---:|
+| Revenue from software services | 44,143 | 38,999 | 170,122 | 155,395 |
+| Revenue from products and platforms | 2,259 | 1,926 | 8,528 | 7,595 |
+| Total revenue from operations | 46,402 | 40,925 | 178,650 | 162,990 |
+
+## Products & platforms
+
+The Group also derives revenues from the sale of products and platforms like Finacle -core banking solution, Edge Suite of products, Panaya platform, Stater digital platform and Infosys McCamish -insurance platform.
+
+## Disaggregated revenue information
+
+Revenue disaggregation by business segments has been included in segment information (Refer note 2.15). The table below presents disaggregated revenues from contracts with customers by geography and contract type. The Group believes that this disaggregation best depicts how the nature, amount, timing and uncertainty of revenues and cash flows are affected by industry, market and other economic factors.

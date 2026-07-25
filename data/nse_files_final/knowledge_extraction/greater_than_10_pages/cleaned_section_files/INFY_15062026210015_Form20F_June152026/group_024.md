@@ -1,0 +1,186 @@
+---
+document_name: "INFY_15062026210015_Form20F_June152026.md"
+group_id: "INFY_15062026210015_Form20F_June152026__group_024"
+source_section_count: 2
+estimated_tokens: 7065
+source_section_ids:
+  - "INFY_15062026210015_Form20F_June152026__046"
+  - "INFY_15062026210015_Form20F_June152026__047"
+---
+---
+section_title: "Investment by Foreign Portfolio Investors (\"FPI\")"
+section_description: "This section describes Indian regulatory rules for foreign portfolio investors, ADS and depository receipt issuances, and Indian taxation of distributions and capital gains. It includes investment limits, permitted securities, depository receipt requirements, residence rules, tax rates, surcharge rates, and securities transaction tax rates."
+topics:
+  - Foreign portfolio investor regulations
+  - Depository receipt mechanism
+  - Indian taxation
+  - Capital gains taxation
+  - Dividend taxation
+  - Securities transaction tax
+  - FPI investment limits
+sample_queries:
+  - "What securities are FPIs permitted to invest in under the cited Indian regulations?"
+  - "What is the individual FPI investment limit in an Indian company?"
+  - "What requirements apply to Indian companies issuing depository receipts?"
+  - "How are Indian tax residence rules described for individuals and companies?"
+  - "What tax rates apply to long-term capital gains before and after July 23, 2024?"
+  - "What surcharge rates apply to domestic and foreign companies by taxable income range?"
+  - "What STT rates apply before and on or after April 1, 2026?"
+---
+
+## Investment by Foreign Portfolio Investors ("FPI")
+
+Investments by FPIs are governed by the Securities and Exchange Board of India (Foreign Portfolio Investors) Regulations, 2019 ("FPI Regulations"), the Master Circular issued by SEBI for FPIs, designated depository participants and eligible foreign investors dated May 30, 2024, the Foreign Exchange Management (Non-Debt Instruments) Rules, 2019 ("Non-Debt Rules") and the Foreign Exchange Management (Debt Instruments) Regulations, 2019 ("Debt Instrument Regulations") from an Indian exchange control perspective. FPIs are required to be registered with the designated depository participant on behalf of SEBI subject to compliance with "Know Your Customer" norms. FPIs can invest only in the permitted securities such as:
+
+- shares, debentures and warrants issued by a body corporate, listed or to be listed on a recognized stock exchange in India;
+- units of schemes launched by mutual funds under Chapter V, VI-A and VI-B of the SEBI (Mutual Funds) Regulations, 1996;
+- units of schemes floated by a Collective Investment Scheme in accordance with the Securities and Exchange Board of India (Collective Investment Schemes) Regulations, 1999;
+- derivatives traded on a recognized stock exchange;
+- units of Real Estate Investment Trusts ("REITs"), Infrastructure Investment Trusts ("InITs") and Category III Alternative Investment Funds registered with SEBI;
+- Indian depository receipts;
+- dated government securities and treasury bills;
+- non-convertible debentures/bonds issued by an Indian company;
+- commercial papers issued by an Indian company;
+- units of domestic mutual funds or Exchange-traded Funds (ETFs) which invest less than or equal to 50 percent in equity;
+- Security Receipts (SRs) issued by asset reconstruction companies;
+- debt instruments issued by banks, eligible for inclusion in regulatory capital;
+- credit enhanced bonds;
+- listed non-convertible / redeemable preference shares or debentures issued in terms of Regulation 6 of the Debt Instruments Regulations, 2019;
+- securitized debt instruments, including any certificate or instrument issued by a special purpose vehicle (SPV) set up for securitization of assets with banks, financial institutions or non-banking financial institutions as originators;
+- Rupee denominated bonds/ units issued by Infrastructure Debt Funds, provided this will include such instruments issued on or after November 22, 2011, and held by FPIs;
+- municipal bonds;
+- debt securities issued by (i) InvITs and (ii) REITs; and
+- such other instruments specified by SEBI from time to time.
+
+A single FPI (including its investor group) is permitted to purchase equity shares of a company only below 10% of the total paid-up equity capital on a fully diluted basis of the company. If the investment made by a person resident outside India through equity instruments in a listed Indian company is less than 10% of the post issue paid-up equity share capital (on a fully diluted basis) of such listed Indian company or less than 10% of the paid up value of each series of equity instruments of such listed Indian company, such investment would be categorized as foreign portfolio investment. However, there is a distinction between such foreign portfolio investment and investment by an entity registered with SEBI as a FPI. In other words, all investments by a SEBI registered FPI will necessarily be categorized as foreign portfolio investments, however investments by entities not registered as FPI with SEBI can also be categorized as "foreign portfolio investments" if it is within the prescribed limits.
+
+Subject to compliance with all applicable Indian laws, rules, regulations, guidelines and approvals in terms of Regulation 21 of the FPI Regulations, an FPI may issue, subscribe to or otherwise deal in offshore derivative instruments (as defined under the FPI Regulations as any instrument, by whatever name called, which is issued overseas by a FPI against securities held by it in India, as its underlying) directly or indirectly, only in the event (i) such offshore derivative instruments are issued only by persons who are registered as Category I FPIs; (ii) such offshore derivative instruments are issued only to persons who are eligible for registration as Category I FPIs; (iii) such offshore derivative instruments are issued after compliance with "know your client" norms; and (iv) compliance with other conditions as may be prescribed by SEBI from time to time. An FPI issuing offshore derivative instruments is also required to ensure any transfer of any offshore derivative instrument issued by or on behalf of it is made to persons who fulfil the above requirements. Further, prior consent of the FPI issuing the offshore derivative instrument is to be obtained for such transfer, except when the persons to whom the offshore derivative instruments are to be transferred to are pre-approved by the FPI. Category II FPIs or persons who would be categorized as Category II FPIs cannot deal in offshore derivative instruments.
+
+The Non-Debt Rules (as amended from time to time) provide that an FPI may purchase equity instruments of a listed Indian company on a recognized stock exchange in India or through public offer or private placement, subject to the individual and aggregate limits and the conditions specified. The transaction involving dealing in securities by a FPI shall be only through stock brokers registered with SEBI. However, under the FPI Regulations, an FPI may deal in securities without a stock broker registered with SEBI in case of (i) transactions in Government securities and such other securities falling under the purview of the RBI carried out in the manner as specified by the RBI; (ii) sale of securities in response to a letter of offer sent by an acquirer in accordance with the SEBI (Substantial Acquisition of Shares and Takeovers) Regulations, 2011; (iii) sale of securities in response to an offer made by any promoter or acquirer in accordance with the SEBI (Delisting of Equity Shares) Regulations, 2009; (iv) sale of securities in accordance with the SEBI (Buy-back of Securities) Regulations, 2018; (v) divestment of securities in response to an offer by Indian companies in accordance with Operative Guidelines for Disinvestment of Shares by Indian Companies in the overseas market through issue of American Depository Receipts or Global Depository Receipts as notified by the Government of India from time to time; (vi) any bid for, or acquisition of securities in response to an offer for disinvestment of shares made by the Central Government or any State Government; (vii) any transaction in securities pursuant to an agreement entered into with merchant banker in the process of market making or subscribing to unsubscribed portion of the issue in accordance with Chapter IX of the SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018; (viii) transactions in corporate bonds by FPIs; (ix) transactions on the electronic book provider platform of recognized stock exchanges; (x) transactions to receive, hold and sell unlisted securities as referred at Regulation 20(2) of the FPI Regulations and transactions in unlisted securities received through involuntary corporate actions including a scheme of a merger or demerger approved in accordance with the provisions of the Indian Companies Act, 2013 as well as the applicable guidelines issued by SEBI or pursuant to implementation of any resolution plan approved under the Indian Insolvency and Bankruptcy Code, 2016 or in accordance with the guidelines issued by the Government of India or RBI or any other regulator for a scheme of debt resolution, provided that such unlisted holdings of the FPI shall be treated as Foreign Direct Investment; (xi) transactions for transfer of rights entitlements; (xii) purchase or sale transactions of illiquid or suspended or delisted securities by FPIs; (xiii) transactions between registered FPIs, who have a multi investment manager structure with the same beneficial owner and have common Permanent Account Number; and (xiv) any other transaction as may be specified by SEBI.
+
+As per the Non-Debt Rules, the total holding of each FPI (or an investor group) shall be below 10% of the total paid up equity capital on a fully diluted basis or less than 10% of the paid up value of each series of debentures or preference shares or share warrants issued by an Indian company. The FPIs investing in breach of the prescribed limit of 10% shall have the option of divesting their holdings within five trading days from the date of settlement of the trades causing the breach. In case the FPI chooses not to divest, then the entire investment in the company by such FPI and its investor group shall be considered as investment under FDI and the FPI and its investor group shall not make further portfolio investment in the company concerned. The divestment of the holdings by FPI and the reclassification of FPI investment as FDI shall be subject to further conditions, if any, specified by SEBI and the RBI in this regard. As per the FPI Regulations, the foreign portfolio investors who invests only in Government Securities, in accordance with the conditions as may be specified by SEBI from time to time shall not form part of the investor group.
+
+Effective April 1, 2020, the aggregate limit for investment by FPIs is the sectoral caps applicable to the Indian company as set out under the FDI route. Prior to March 31, 2020, companies were provided the option of setting a lower aggregate limit of 24% or 49% or 74% as deemed fit, instead of the sectoral caps, with the approval of its board of directors and shareholders (through a special resolution). If a company has decreased its aggregate limit to 24% or 49% or 74%, it may subsequently increase such aggregate limit to 49% or 74% or the sectoral cap or statutory ceiling, respectively as deemed fit, with the approval of its board of directors and shareholders (through a special resolution). Once the aggregate limit has been increased to a higher threshold, the Indian company cannot reduce the same to a lower threshold. The aggregate limit with respect to an Indian company in a sector where FDI is prohibited is 24%.
+
+Aggregate foreign portfolio investment of up to 49% of the paid-up capital on a fully diluted basis or sectoral / statutory cap, whichever is lower, will not be subject to either Government approval or compliance of sectoral conditions, as the case may be, if such investment does not result in transfer of ownership and control of the resident Indian company from resident Indian citizens or transfer of ownership or control to persons resident outside India and other investments by a person resident outside India shall be subject to the conditions of Government approval and compliance of sectoral conditions as laid down in the Non-Debt Rules.
+
+Section 9 of the Income Tax Act was amended vide Finance Act, 2017 so as to clarify that explanation 5 shall not apply to an asset or capital asset, which is held by a non-resident by way of investment, directly or indirectly, in a FII as referred to in clause (a) of the explanation to section 115AD of the Income Tax Act for an assessment year commencing on or after the April 01, 2012, but before the April 01, 2015. This amendment takes effect retrospectively from April 1, 2012, and will, accordingly, apply from assessment year 2012-13 and subsequent assessment years. Section 9 of the Income Tax Act has been further amended so as to clarify that explanation 5 shall not apply to an asset or capital asset, which is held by a non-resident by way of investment, directly or indirectly, in Category-I or Category-II FPI under the Securities and Exchange Board of India (Foreign Portfolio Investors) Regulations, 2014, made under the Securities and Exchange Board of India Act, 1992 (15 of 1992). This amendment takes effect retrospectively from April 1, 2015, and will, accordingly, apply from assessment year 2015-16 and subsequent assessment years.
+
+Further, Finance Act 2020, dated March 27, 2020, has modified the above proviso to explanation 5. After the amendments, below shall be applicable with effect from April 1, 2020, and will, accordingly, apply in relation to the assessment year 2020-21 and subsequent assessment years.
+
+Explanation 5 shall not apply to an asset or capital asset, which is held by a non-resident by way of investment, directly or indirectly, in a FII as referred to in clause (a) of the explanation to section 115AD of the Income Tax Act for an assessment year commencing on or after the April 01, 2012, but before the April 01, 2015. Further, explanation 5 shall not apply to an asset or capital asset, which is held by a non-resident by way of investment, directly or indirectly, in Category-I or Category-II FPI under the Securities and Exchange Board of India (Foreign Portfolio Investors) Regulations, 2014 prior to their repeal, made under the Securities and Exchange Board of India Act, 1992 (15 of 1992). Further, following proviso is also inserted vide Finance Act 2020, "Provided also that nothing contained in explanation 5 shall apply to an asset or a capital asset, which is held by a nonresident by way of investment, directly or indirectly, in Category-I foreign portfolio investor under the Securities and Exchange Board of India (Foreign Portfolio Investors) Regulations, 2019, made under the Securities and Exchange Board of India Act, 1992".
+
+## ADSs Issue of securities through the depository receipt mechanism
+
+Issue of securities through the depository receipt mechanism by Indian companies is governed by the Indian Companies Act, 2013, the Companies (Issue of Global Depository Receipts) Rules, 2014 (Depository Receipts Rules) and the Depository Receipts Scheme, 2014 (the "DR Scheme") and SEBI Master Circular for Depositories dated December 3, 2024.
+
+The Government of India approved the DR Scheme on October 21, 2014, which came into force on December 15, 2014. Consequently, the Issue of Foreign Currency Convertible Bonds and Ordinary Shares (Through Depository Receipt Mechanism) Scheme, 1993 (the "1993 Scheme") has been repealed except to the extent relating to foreign currency convertible bonds. The DR Scheme is in addition to the other policies or facilities, as described above, relating to investments in Indian companies by foreign investors.
+
+Under the DR Scheme, an Indian company, listed or unlisted, private or public, is permitted to issue or transfer permissible securities to a foreign depository for the purpose of issue of a Depository Receipt ("DR") if such company has not been specifically prohibited from accessing capital markets or dealing in securities subject to the conditions prescribed therein. However, the SEBI vide its circular dated October 10, 2019 which was subsequently rescinded and replaced by Master Circular for Depositories dated October 6, 2023, read with the Master Circular dated December 3, 2024 ("SEBI Master Circulars"), has restricted the scope of issuance of DRs to Companies incorporated in and listed on a recognized stock exchange in India. Permissible securities as per the SEBI Master Circulars have been defined to mean equity shares and debt securities, which are in dematerialized form and rank pari passu with the securities issued and listed on a Recognized Stock Exchange.
+
+The SEBI Master Circulars have notified a detailed framework for issuance of DRs by a listed Indian company. The framework sets out eligibility requirements as well as certain obligations to be complied with by issuers of DRs. The circular issued on October 1, 2020, on Framework for monitoring of foreign holding in Depository Receipts, requires listed companies to appoint one of the Indian Depository as the "Designated Depository" for the purpose of monitoring of limits in respect of DRs. Further, the Depository Receipts (Amendment) Scheme, 2019 (the "DR Circular") has also been notified on October 7, 2019, which amends the definition of "permissible jurisdiction", inter alia, to include the International Financial Services Centre in India.
+
+Previously, under the DR Scheme, companies were only required to comply with eligibility requirements pertaining to prohibition from accessing capital markets or dealing in securities. However, the current framework now prescribes certain additional requirements including not being declared as a willful defaulter or a fugitive economic offender.
+
+In addition to the requirements under the Indian Companies Act, 2013 the SEBI Master Circulars and the DR Scheme, the current framework as under the DR Circular sets out certain additional requirements for issuances of DRs. A permissible holder i.e., holder of DRs (including its beneficial owner) excludes an Indian and a Non - Resident Indian, which is over and above the requirements of the DR Scheme. However, in case of issue of DRs to NRIs pursuant to share based employee benefit schemes which are implemented by a company in terms of SEBI (Share Based Employee Benefits) Regulations 2014, a bonus issue and a rights issue, an NRI will not be excluded as a "permissible holder" of DRs.
+
+The Company has complied with the provisions of the DR Circular, including subsequent notifications issued by SEBI in this regard, as applicable to the Company.
+
+A "permissible jurisdiction" for the purpose of the SEBI Master Circular means jurisdictions as may be notified by the Central Government from time to time, pursuant to notification no. G.S.R. 669(E) dated September 18, 2019, in respect of sub-rule 1 of rule 9 of Prevention of Money-Laundering (Maintenance of Records) Rules, 2005. A list of "permissible jurisdictions" has been subsequently notified by the Central Government vide a notification dated November 28, 2019. Accordingly, SEBI vide its circular dated November 28, 2019, notified the list of "permissible jurisdictions" pursuant to the SEBI Master Circular.
+
+A listed company issuing DRs is also now required to file with the Indian stock exchanges, any public disclosure made to the international stock exchange within 24 hours from the date of filing. The issuer would also be required to file the offer document for an initial issue of DRs with SEBI and the stock exchanges to seek their comments, if any.
+
+A listed company issuing DRs is also required to ensure compliance with extant laws including compliance with the minimum public shareholding requirements and limits on foreign investment holding under the FEMA. As regards pricing, the current framework provides that the pricing of DR issuances would have to be undertaken at a minimum price equivalent to the price determined for corresponding mode of issue to domestic investors.
+
+Furthermore, the current requirements relating to exercise of voting rights have also been modified under the new framework. Under the DR Scheme, while the exercise of voting rights on the shares underlying the DRs could be dealt with contractually under the deposit agreement, if such voting rights were not exercisable by the DR holders, the shares would not be counted towards minimum public shareholding requirements. However, under the revised framework, voting rights on the underlying shares are mandatorily required to be exercised only by DR holders.
+
+The summary provided above is based on laws applicable as of March 31, 2026, and is not intended to constitute a complete analysis of all laws applicable to the Company and its securities or a substitute for professional legal advice.
+
+## TAXATION
+
+## Indian Taxation
+
+General. The following summary is based on the law and practice of the Income Tax Act, 1961 ("the Income Tax Act") including the special tax regime contained in Sections 115AC and 115ACA of the Income Tax Act read with the Issue of Foreign Currency Convertible Bonds and Ordinary Shares (through Depository Receipt Mechanism) Scheme, 1993, as amended (the "Scheme").
+
+The Income Tax Act is amended every year by the Finance Act of the relevant year. Some or all of the tax consequences of Sections 115AC and 115ACA may be amended or changed by future amendments to the Income Tax Act.
+
+Effective April 1, 2026, the Income Tax Act,1961 will be replaced by the Income Tax Act, 2025. The new Act helps in streamlining tax laws, simplifying language, consolidating provisions and reducing compliance burdens.
+
+We believe this information is materially complete as of the date hereof. However, these details are not intended to constitute a complete analysis of the individual tax consequences to non-resident holders or employees under Indian law for the acquisition, ownership and sale of ADSs and equity shares.
+
+## EACH INVESTOR OR PROSPECTIVE INVESTOR SHOULD CONSULT HIS, HER OR ITS OWN TAX ADVISORS WITH RESPECT TO INDIAN AND LOCAL TAX CONSEQUENCES OF ACQUIRING, OWNING OR DISPOSING OF EQUITY SHARES OR ADSs.
+
+Residence. For purposes of the Income Tax Act, an individual is considered to be a resident of India during any fiscal year if he or she is in India in that year for a period or periods amounting to at least 182 days; or at least 60 days and, within the four preceding years has been in India for a period or periods amounting to at least 365 days.
+
+The period of 60 days referred to above shall be read as 182 days (i) in case of a citizen of India who leaves India in a previous year for the purposes of employment outside of India or (ii) in the case of a citizen of India or a person of Indian origin living abroad who visits India.
+
+Further in case of Indian citizens or a person of Indian origin living abroad visiting India having total income, other than income from foreign source, exceeding Rs. 15 lakhs, the period of stay would be considered at 120 days as against 182 days as provided above. Further such person would be treated at Not Ordinarily Resident ("NOR") if his stay in India is less than 182 days. In this regard, foreign source has been defined to include income which accrues or arises outside India, except income derived from a business controlled in or a profession set up in India and which is not deemed to accrue or arise in India. Further, this provision shall not apply to a person resident in India.
+
+Further provided that an Indian Citizen would be deemed to be as Resident of India when such person has income other than income from foreign source, exceeding Rs. 15 lakhs during the previous year and if he/she is not liable to income tax in any other country or territory by reason of his domicile or residence or any other criteria of similar nature. Further such person who is deemed to be resident of India would be treated as NOR.
+
+A Company is a resident of India if it is an Indian Company or its place of effective management in that year, is in India. Individuals and companies that do not fulfill the above criteria would be treated as non-residents for purposes of the Income Tax Act.
+
+## Taxation of Distributions
+
+The Finance Act 2020 has replaced Dividend Distribution Tax ("DDT") with the classical system of dividend taxation wherein dividend income will be taxed in the hands of the shareholders at their respective applicable tax rates. In the light of the above changes under the Income Tax Act, 1961, Company paying dividend to shareholders is required to withhold tax at the applicable rates prescribed under Income Tax Act, 1961 read along Tax Treaty with respective countries (together with Multilateral Instrument "MLI" as applicable) subject to conditions specified under the Income Tax Act, 1961.
+
+Further, the Finance Act 2020 amended section 57 of the Income Tax Act, 1961 to provide that no deduction shall be allowed from dividend income in the hands of shareholders, other than deduction on account of interest expense incurred for earning this dividend and in any previous year such deduction shall not exceed twenty percent of the dividend income included in the total income for that year without deduction under section 57 of the Income Tax Act, 1961.
+
+Taxation of Capital Gains. The following is a brief summary of capital gains taxation of non-resident holders and resident employees relating to the sale of ADSs and equity shares received upon conversion of ADSs. The relevant provisions are contained mainly in sections 2(42A), 45, 47(viia), 47(x), 49(2ABB), 115AC and 115ACA, of the Income Tax Act, 1961, in conjunction with the Scheme. You should consult your own tax advisor concerning the tax consequences of your particular situation.
+
+Shares (including shares issuable on the conversion of the ADSs) held by the non-resident investor for a period of more than 12 months is treated as long term capital assets. If the shares are held for a period of less than 12 months from the date of conversion, the same is treated as short term capital asset.
+
+Capital gains are taxed as follows:
+
+- As per the applicable scheme, gains from a sale of ADSs outside India by a non-resident to another nonresident are not taxable in India;
+- Long-term capital gains realized by a resident from the transfer of the ADSs will be subject to tax at the rate of 10%, as increased by the applicable surcharge and health and education cess. However, as per Finance (No. 2) Act, 2024 such transfer which takes place on or after July 23, 2024, will be taxable at the rate of 12.5%, as increased by the applicable surcharge and health and education cess; short-term capital gains on such a transfer will be taxed at graduated rates with a maximum of 30%, as increased by the applicable surcharge and health and education cess;
+- Long-term capital gains realized by a non-resident upon the sale of equity shares obtained from the conversion of ADSs are subject to tax at a rate of 10% as increased by the applicable surcharge and health and education cess. However, as per Finance (No. 2) Act, 2024 such transfer which takes place on or after July 23, 2024, will be taxable at the rate of 12.5%, as increased by the applicable surcharge and health and education cess; and short-term capital gains on such a transfer will be taxed at the rate of tax applicable to the seller;
+- The Finance Act, 2018 has amended the Income Tax Act, 1961 to provide that Long Term Capital Gain exceeding ₹100,000 arising from sale of equity shares in a company or a unit of an equity-oriented fund or a unit of a business trust will be taxable at a rate of 10%, subject to Securities Transaction Tax, or STT (described below) is paid both at the time of purchase and sale of such shares (or a unit of an equity-oriented fund or a unit of a business trust) and will not get the benefit of indexation. Thus, any transfer carried out after April 1, 2018, would result in Long Term Capital Gains in excess of ₹100,000 and will attract tax at the rate of 10%. Further the Finance (No. 2) Act, 2024 has enhanced the limit from ₹100,000 to ₹125,000. Thus, Long term capital gain exceeding ₹125,000 will be taxable at the below rates:
+
+| Transfer takes place | Tax Rates |
+|---|---|
+| Before July 23, 2024 | 10% |
+| On or after July 23, 2024 | 12.5% |
+
+Further if investments are made on or before January 31, 2018, a method of determining the Cost of Acquisition ("COA") of such investments has been specifically laid down. The COA of such investments shall be deemed to be the higher of:
+
+1. The actual COA of such investments; and
+2. The lower of:
+   - Fair Market Value ("FMV") of such investments as on January 31, 2018; and
+   - the Full Value of Consideration received or accruing as a result of the transfer of the capital asset i.e., the Sale Price.
+
+With respect to assets listed as on January 31, 2018, the FMV would be the highest price quoted on the recognized stock exchange on January 31, 2018. In case there is no trading of the said asset in such stock exchange, the highest price on a day immediately preceding January 31, 2018, shall be considered to be the FMV; and
+
+The Finance (No. 2) Act, 2024 has amended that any Short-term capital gain on sale of equity shares in a company (or a unit of an equity-oriented fund or a unit of a business trust) will be taxable at following rates subject to Securities Transaction Tax, or STT (described below) is paid at the time of sale of such shares (or a unit of an equity-oriented fund or a unit of a business trust)
+
+| Transfer takes place | Tax Rates |
+|---|---|
+| Before July 23, 2024 | 15% |
+| On or after July 23, 2024 | 20% |
+
+The applicable rate of surcharge are as follows:
+
+| Total Taxable Income Range | For a Domestic Company | For a Foreign Company |
+|---|---|---|
+| More than ₹10,000,000 but not more than ₹100,000,000 | 7% | 2% |
+| More than ₹100,000,000 | 12% | 5% |
+
+The taxes and applicable surcharge will be increased by incremental levy known as "health and education cess" at 4%.
+
+Securities Transaction Tax (STT): STT is leviable on sale and purchase of equity shares and derivates in a recognised stock exchange. STT is levied as follows:
+
+| Type of transaction | Rate of STT (Before 1st Apr'2026) | Rate of STT (on or after 1st Apr'2026) | Levied on |
+|---|---|---|---|
+| Sale of Equity shares (Delivery based) | 0.1% of the transaction value of securities | 0.1% of the transaction value of securities | Both Buyer and Seller |
+| Sale of Equity shares (Non-delivery based) | 0.025% of the transaction value of the securities | 0.025% of the transaction value of the securities | Seller |
+| Sale of option in securities | 0.0625% of the option premium | 0.15% of the option premium | Seller |
+| Sale of option in securities, where option is exercised | 0.125% of the Intrinsic value (i.e., settlement price minus strike price) | 0.15% of the Intrinsic value (i.e., settlement price minus strike price) | Buyer |
+| Sale of futures in securities | 0.0125% of transaction value | 0.05% of transaction value | Seller |
+
+Any resulting taxes on capital gains arising out of such transaction may be offset by the applicable credit mechanism allowed under double tax avoidance agreements. The capital gains tax is computed by applying the appropriate tax rates to the difference between the sale price and the purchase price of the ADSs or equity shares. Under the Scheme, the purchase price of equity shares in an Indian listed company received in exchange for ADSs will be the market price of the underlying shares on the date that the Depositary gives notice to the custodian of the delivery of the equity shares in exchange for the corresponding ADSs, or the "stepped up" basis purchase price. The market price will be the price of the equity shares prevailing on the BSE or the NSE, as applicable.
+
+There is no corresponding provision under the Income Tax Act, 1961 in relation to the "stepped up" basis for the purchase price of equity shares. However, to the best of our knowledge, the tax department in India has not denied this benefit. In the event that the tax department denies this benefit, the original purchase price of ADSs would be considered the purchase price for computing the capital gains tax.
+
+According to the Scheme, a non-resident holder's holding period for the purposes of determining the applicable Indian capital gains tax rate relating to equity shares received in exchange for ADSs commences on the date of the notice of the redemption by the Depositary to the custodian. However, the Scheme does not address this issue in the case of resident employees, and it is therefore unclear when the holding period for the purposes of determining capital gains tax commences for such a resident employee.
+
+Withholding Tax on Capital Gains. Any taxable gain realized by a non-resident on the sale of ADSs or equity shares is to be withheld at the source by the buyer. According to section 196C of the Income Tax Act, 1961, where any income by way of interest or dividends in respect of bonds or global depository receipts referred to in section 115AC of the Income Tax Act, 1961 or by way of long-term capital gains arising from the transfer of such bonds or global depository receipts is payable to a non-resident, the person responsible for making the payment shall, at the time of credit of such income to the account of the payee or at the time of payment thereof in cash or by the issue of a check or draft or by any other mode, whichever is earlier, deduct income tax thereon at the rate of ten per cent subject to any concession rate of tax provided as per Tax Treaty of respective countries read along with applicable MLI. Further in respect of long-term capital gains arising from transfer of such bonds or global depository receipts on or after July 23, 2024, tax deducted at twelve and one-half per cent subject to any concession rate of tax provided as per Tax Treaty of respective countries read along with applicable MLI. The concessional tax rate benefit as per Tax Treaty would be available subject to providing various Tax forms including Tax Residency certificate by non-resident shareholders. However, as per the provisions of Section 196D (2) of the Income Tax Act, 1961, no withholding tax is required to be deducted from any income by way of capital gains arising to Foreign Institutional Investors (FPIs) as defined in Section 115AD of the Income Tax Act, 1961 on the transfer of securities defined in Section 115AD of the Income Tax Act, 1961.

@@ -2,8 +2,6 @@
 document_name: "Infosys_30062026163341_SE_Infosys_45th_AGM_transcript.md"
 group_id: "Infosys_30062026163341_SE_Infosys_45th_AGM_transcript__group_002"
 source_section_count: 2
-page_start: 10
-page_end: 18
 estimated_tokens: 4466
 source_section_ids:
   - "Infosys_30062026163341_SE_Infosys_45th_AGM_transcript__003"

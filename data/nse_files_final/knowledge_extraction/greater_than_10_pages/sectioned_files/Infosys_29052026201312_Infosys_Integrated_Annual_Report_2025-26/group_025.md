@@ -2,8 +2,6 @@
 document_name: "Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26.md"
 group_id: "Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26__group_025"
 source_section_count: 2
-page_start: 106
-page_end: 109
 estimated_tokens: 4359
 source_section_ids:
   - "Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26__046"

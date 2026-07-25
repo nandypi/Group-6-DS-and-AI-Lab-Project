@@ -1,0 +1,247 @@
+---
+document_name: "Infosys_01072025210240_Form20F_July012025_1__1_.md"
+group_id: "Infosys_01072025210240_Form20F_July012025_1__1___group_028"
+source_section_count: 2
+estimated_tokens: 5362
+source_section_ids:
+  - "Infosys_01072025210240_Form20F_July012025_1__1___053"
+  - "Infosys_01072025210240_Form20F_July012025_1__1___054"
+---
+---
+section_title: "2 Notes to the consolidated financial statements"
+section_description: "This section contains notes on cash and cash equivalents, investments, financial instruments, fair valuation methods, accounting policies, impairment, and financial instrument categories for the years ended March 31, 2025, 2024, and 2023."
+topics:
+  - Cash and cash equivalents
+  - Investments
+  - Other comprehensive income
+  - Fair valuation methods
+  - Financial instrument accounting policies
+  - Impairment and expected credit losses
+  - Financial instruments by category
+sample_queries:
+  - "What were Infosys' cash and cash equivalents as of March 31, 2025 and March 31, 2024?"
+  - "What was the carrying value of current and non-current investments as of March 31, 2025?"
+  - "What amounts were recorded in other comprehensive income for quoted debt securities in fiscal 2025?"
+  - "Which valuation methods were used for liquid mutual funds, quoted debt securities, and unquoted equity securities?"
+  - "How does the Group classify and measure financial assets at amortized cost, FVOCI, and FVTPL?"
+  - "What were the carrying value and fair value of financial instruments by category as of March 31, 2025?"
+  - "How does the Group determine impairment allowances using the expected credit loss model?"
+---
+
+## 2 Notes to the consolidated financial statements
+
+## 2.1 Cash and cash equivalents
+
+Cash and cash equivalents consist of the following:
+
+| Particulars | March 31, 2025 (Dollars in millions) | March 31, 2024 (Dollars in millions) |
+|---|---:|---:|
+| Cash and bank deposits | 2,861 | 1,773 |
+| Total | 2,861 | 1,773 |
+
+Cash and cash equivalents as of March 31, 2025, and March 31, 2024, include restricted cash and bank balances of $50 million and $42 million, respectively. The restrictions are primarily on account of bank balances held by irrevocable trusts controlled by the Company.
+
+The deposits maintained by the Group with banks and financial institution comprise of time deposits, which can be withdrawn by the Group at any point without prior notice or penalty on the principal.
+
+## 2.2 Investments
+
+The carrying value of investments are as follows:
+
+| Particulars | March 31, 2025 (Dollars in millions) | March 31, 2024 (Dollars in millions) |
+|---|---:|---:|
+| Current investments |  |  |
+| Amortized cost: |  |  |
+| Quoted debt securities | 20 | - |
+| Fair value through profit and loss: |  |  |
+| Liquid mutual funds | 229 | 313 |
+| Fair Value through Other comprehensive income: |  |  |
+| Quoted debt securities | 375 | 291 |
+| Certificates of deposit | 410 | 365 |
+| Commercial Paper | 426 | 579 |
+| Total current investments | 1,460 | 1,548 |
+| Non-Current investments |  |  |
+| Amortized cost: |  |  |
+| Quoted debt securities | 173 | 211 |
+| Fair value through Other comprehensive income: |  |  |
+| Quoted debt securities | 1,014 | 1,093 |
+| Quoted equity securities | 7 | 14 |
+| Unquoted equity and preference securities | 20 | 11 |
+| Fair value through profit and loss: |  |  |
+| Target maturity fund units | 54 | 51 |
+| Unquoted equity and preference securities | 3 | - |
+| Others | 23 | 24 |
+| Total non-current investments | 1,294 | 1,404 |
+| Total Investments | 2,754 | 2,952 |
+| Investment carried at amortized cost | 193 | 211 |
+| Investments carried at fair value through other comprehensive income | 2,252 | 2,353 |
+| Investments carried at fair value through profit and loss | 309 | 388 |
+
+Note: Uncalled capital commitments outstanding as of March 31, 2025, and March 31, 2024, was $14 million and $9 million, respectively.
+
+Refer to Note 2.3 for accounting policies on financial instruments.
+
+## Details of amounts recorded in other comprehensive income:
+
+| Net gain / (loss) on | Gross, year ended March 31, 2025 (Dollars in millions) | Tax, year ended March 31, 2025 (Dollars in millions) | Net, year ended March 31, 2025 (Dollars in millions) |
+|---|---:|---:|---:|
+| Quoted debt securities | 26 | (3) | 23 |
+| Certificates of deposit and Commercial papers | 1 | - | 1 |
+| Equity and preference securities | 2 | - | 2 |
+
+| Net gain / (loss) on | Gross, year ended March 31, 2024 (Dollars in millions) | Tax, year ended March 31, 2024 (Dollars in millions) | Net, year ended March 31, 2024 (Dollars in millions) |
+|---|---:|---:|---:|
+| Quoted debt securities | 19 | (2) | 17 |
+| Equity and preference securities | 1 | 1 | 2 |
+
+| Net gain / (loss) on | Gross, year ended March 31, 2023 (Dollars in millions) | Tax, year ended March 31, 2023 (Dollars in millions) | Net, year ended March 31, 2023 (Dollars in millions) |
+|---|---:|---:|---:|
+| Quoted debt securities | (31) | 1 | (30) |
+| Equity and preference securities | (3) | - | (3) |
+
+## Method of fair valuation:
+
+| Class of investment | Method | Fair value 2025 (Dollars in millions) | Fair value 2024 (Dollars in millions) |
+|---|---|---:|---:|
+| Liquid mutual funds- carried at Fair value through profit or loss | Quoted price | 229 | 313 |
+| Target maturity fund units- carried at Fair value through profit or loss | Quoted price | 54 | 51 |
+| Quoted debt securities- carried at amortized cost | Quoted price and market observable inputs | 213 | 236 |
+| Quoted debt securities- carried at Fair value through other comprehensive income | Quoted price and market observable inputs | 1,389 | 1,384 |
+| Commercial Paper- carried at Fair value through other comprehensive income | Market observable inputs | 426 | 579 |
+| Certificate of deposits- carried at Fair value through other comprehensive income | Market observable inputs | 410 | 365 |
+| Unquoted equity and preference securities - carried at fair value through profit or loss | Discounted cash flows method, Market multiples method, Option pricing model | 3 | - |
+| Unquoted equity and preference securities- carried at fair value through other comprehensive income | Discounted cash flows method, Market multiples method, Option pricing model | 20 | 11 |
+| Quoted equity securities - carried at fair value through other comprehensive income | Quoted price | 7 | 14 |
+| Others - carried at fair value through profit or loss | Discounted cash flows method, Market multiples method, Option pricing model | 23 | 24 |
+| Total |  | 2,774 | 2,977 |
+
+Note: Certain quoted investments are classified as Level 2 in the absence of active market for such investments.
+
+## 2.3 Financial instruments
+
+## 2.3.1 Initial recognition
+
+The Group recognizes financial assets and financial liabilities when it becomes a party to the contractual provisions of the instrument. All financial assets and liabilities are recognized at fair value on initial recognition, except for trade receivables which are initially measured at transaction price. Transaction costs that are directly attributable to the acquisition or issue of financial assets and financial liabilities which are not at fair value through profit or loss are added to the fair value on initial recognition. Regular way purchase and sale of financial assets are accounted for at trade date.
+
+## 2.3.2 Subsequent measurement
+
+## a. Non-derivative financial instruments
+
+## (i) Financial assets carried at amortized cost
+
+A financial asset is subsequently measured at amortized cost if it is held within a business model whose objective is to hold the asset in order to collect contractual cash flows and the contractual terms of the financial asset give rise on specified dates to cash flows that are solely payments of principal and interest on the principal amount outstanding.
+
+## (ii) Financial assets at fair value through other comprehensive income (FVOCI)
+
+A financial asset is subsequently measured at fair value through other comprehensive income if it is held within a business model whose objective is achieved by both collecting contractual cash flows and selling financial assets and the contractual terms of the financial asset give rise on specified dates to cash flows that are solely payments of principal and interest on the principal amount outstanding. The Group has made an irrevocable election for its investments which are classified as equity instruments to present the subsequent changes in fair value in other comprehensive income based on its business model.
+
+## (iii) Financial assets at fair value through profit or loss (FVTPL)
+
+A financial asset which is not classified in any of the above categories are subsequently fair valued through profit or loss.
+
+## (iv) Financial liabilities
+
+Financial liabilities are subsequently carried at amortized cost using the effective interest method, except for contingent consideration and financial liability under option arrangements recognized in a business combination which is subsequently measured at fair value through profit or loss.
+
+## b. Derivative financial instruments
+
+The Group primarily holds derivative financial instruments such as foreign exchange forward and option contracts to mitigate the risk of changes in exchange rates on foreign currency exposures. The counterparty for such contracts is generally a bank.
+
+## (i) Financial assets or financial liabilities, at fair value through profit or loss
+
+This category includes derivative financial assets or liabilities which are not designated as hedges.
+
+Although the Group believes that these derivatives constitute hedges from an economic perspective, they may not qualify for hedge accounting under IFRS 9, Financial Instruments. Any derivative that is either not designated a hedge, or is so designated but is ineffective as per IFRS 9, is categorized as a financial asset or financial liability, carried at fair value through profit or loss.
+
+Derivatives not designated as hedges are recognized initially at fair value and attributable transaction costs are recognized in net profit in the statement of comprehensive income when incurred. Subsequent to initial recognition, these derivatives are measured at fair value through profit or loss and the resulting exchange gains or losses are included in other income. Assets/liabilities in this category are presented as current assets/current liabilities if they are either held for trading or are expected to be realized within 12 months after the balance sheet date.
+
+## (ii) Cash flow hedge
+
+The Group primarily designates certain foreign exchange forward and options contracts as cash flow hedges to mitigate the risk of foreign exchange exposure on highly probable forecast cash transactions.
+
+When a derivative is designated as a cash flow hedging instrument, the effective portion of changes in the fair value of the derivative is recognized in other comprehensive income and accumulated in the cash flow hedging reserve. Any ineffective portion of changes in the fair value of the derivative is recognized immediately in the net profit in the statement of comprehensive income. If the hedging instrument no longer meets the criteria for hedge accounting, then hedge accounting is discontinued prospectively. If the hedging instrument expires or is sold, terminated or exercised, the cumulative gain or loss on the hedging instrument recognized in cash flow hedging reserve till the period the hedge was effective remains in cash flow hedging reserve until the forecasted transaction occurs. The cumulative gain or loss previously recognized in the cash flow hedging reserve is transferred to the net profit in the statement of comprehensive income upon the occurrence of the related forecasted transaction. If the forecasted transaction is no longer expected to occur, then the amount accumulated in cash flow hedging reserve is reclassified to the net profit in the consolidated statement of comprehensive income.
+
+## 2.3.3 Derecognition of financial instruments
+
+The Group derecognizes a financial asset when the contractual rights to the cash flows from the financial asset expire or it transfers the financial asset and the transfer qualifies for derecognition under IFRS 9. A financial liability (or a part of a financial liability) is derecognized from the Group's balance sheet when the obligation specified in the contract is discharged or cancelled or expires.
+
+## 2.3.4 Fair value of financial instruments
+
+In determining the fair value of its financial instruments, the Group uses a variety of methods and assumptions that are based on market conditions and risks existing at each reporting date. The methods used to determine fair value include discounted cash flow analysis, available quoted market prices and dealer quotes. All methods of assessing fair value result in general approximation of value, and such value may never actually be realized.
+
+Refer to table 'Financial instruments by category' below for the disclosure on carrying value and fair value of financial assets and liabilities. For financial assets and liabilities maturing within one year from the balance sheet date and which are not carried at fair value, the carrying amounts approximate fair value due to the short maturity of these instruments.
+
+## 2.3.5 Impairment
+
+The Group recognizes loss allowances using the expected credit loss (ECL) model for the financial assets and unbilled revenue which are not fair valued through profit or loss. Loss allowance for trade receivables and unbilled revenue with no significant financing component is measured at an amount equal to lifetime ECL. For all other financial assets, expected credit losses are measured at an amount equal to the 12-month ECL, unless there has been a significant increase in credit risk from initial recognition in which case those are measured at lifetime ECL.
+
+The Group determines the allowance for credit losses based on historical loss experience adjusted to reflect current and estimated future economic conditions. The Group considers current and anticipated future economic conditions relating to industries the Group deals with and the countries where it operates.
+
+The amount of expected credit losses (or reversal) that is required to adjust the loss allowance at the reporting date to the amount that is required to be recorded is recognized as an impairment loss or gain in consolidated statement of comprehensive income.
+
+## Financial instruments by category
+
+The carrying value and fair value of financial instruments by categories as of March 31, 2025, were as follows:
+
+| Particulars | Amortised cost | FVTPL designated upon initial recognition | FVTPL mandatory | FVOCI equity instruments designated upon initial recognition | FVOCI mandatory | Total carrying value (Dollars in millions) | Total fair value (Dollars in millions) |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| Assets: |  |  |  |  |  |  |  |
+| Cash and cash equivalents (Refer to Note 2.1) | 2,861 | - | - | - | - | 2,861 | 2,861 |
+| Investments (Refer to Note 2.2) |  |  |  |  |  |  |  |
+| Liquid mutual funds | - | - | 229 | - | - | 229 | 229 |
+| Target maturity fund units | - | - | 54 | - | - | 54 | 54 |
+| Quoted debt securities | 193 | - | - | - | 1,389 | 1,582 | 1602 (1) |
+| Certificates of deposit | - | - | - | - | 410 | 410 | 410 |
+| Commercial Papers | - | - | - | - | 426 | 426 | 426 |
+| Quoted equity securities | - | - | - | 7 | - | 7 | 7 |
+| Unquoted equity and preference securities | - | 3 | - | 20 | - | 23 | 23 |
+| Unquoted investments others | - | - | 23 | - | - | 23 | 23 |
+| Trade receivables | 3,645 | - | - | - | - | 3,645 | 3,645 |
+| Unbilled revenues (Refer to Note 2.12) (3) | 1,195 | - | - | - | - | 1,195 | 1,195 |
+| Prepayments and other assets (Refer to Note 2.4) | 844 | - | - | - | - | 844 | 835 (2) |
+| Derivative financial instruments | - | - | 20 | - | 3 | 23 | 23 |
+| Total | 8,738 | 3 | 326 | 27 | 2,228 | 11,322 | 11,333 |
+| Liabilities: |  |  |  |  |  |  |  |
+| Trade payables | 487 | - | - | - | - | 487 | 487 |
+| Lease liabilities | 962 | - | - | - | - | 962 | 962 |
+| Derivative financial instruments | - | - | 3 | - | 4 | 7 | 7 |
+| Financial liability under option arrangements (Refer to Note 2.5) | - | - | 77 | - | - | 77 | 77 |
+| Other liabilities including contingent consideration (Refer to Note 2.5) | 1,932 | - | 3 | - | - | 1,935 | 1,935 |
+| Total | 3,381 | - | 83 | - | 4 | 3,468 | 3,468 |
+
+(1) On account of fair value changes including interest accrued  
+(2) Excludes interest accrued on quoted debt securities carried at amortized cost of $9 million  
+(3) Excludes unbilled revenue on contracts where the right to consideration is dependent on completion of contractual milestones
+
+The carrying value and fair value of financial instruments by categories as of March 31, 2024, were as follows:
+
+| Particulars | Amortised cost | FVTPL designated upon initial recognition | FVTPL mandatory | FVOCI equity instruments designated upon initial recognition | FVOCI mandatory | Total carrying value (Dollars in millions) | Total fair value (Dollars in millions) |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| Assets: |  |  |  |  |  |  |  |
+| Cash and cash equivalents (Refer to Note 2.1) | 1,773 | - | - | - | - | 1,773 | 1,773 |
+| Investments (Refer to Note 2.2) |  |  |  |  |  |  |  |
+| Liquid mutual funds | - | - | 313 | - | - | 313 | 313 |
+| Target maturity fund units | - | - | 51 | - | - | 51 | 51 |
+| Quoted debt securities | 211 | - | - | - | 1,384 | 1,595 | 1,620 (1) |
+| Certificate of deposit | - | - | - | - | 365 | 365 | 365 |
+| Commercial Papers | - | - | - | - | 579 | 579 | 579 |
+| Quoted equity securities | - | - | - | 14 | - | 14 | 14 |
+| Unquoted equity and preference securities | - | - | - | 11 | - | 11 | 11 |
+| Unquoted investments others | - | - | 24 | - | - | 24 | 24 |
+| Trade receivables | 3,620 | - | - | - | - | 3,620 | 3,620 |
+| Unbilled revenues (Refer to Note 2.12) (3) | 1,151 | - | - | - | - | 1,151 | 1,151 |
+| Prepayments and other assets (Refer to Note 2.4) | 694 | - | - | - | - | 694 | 684 (2) |
+| Derivative financial instruments | - | - | 7 | - | 3 | 10 | 10 |
+| Total | 7,449 | - | 395 | 25 | 2,331 | 10,200 | 10,215 |
+| Liabilities: |  |  |  |  |  |  |  |
+| Trade payables | 474 | - | - | - | - | 474 | 474 |
+| Lease liabilities | 1,002 | - | - | - | - | 1,002 | 1,002 |
+| Derivative financial instruments | - | - | 4 | - | - | 4 | 4 |
+| Financial liability under option arrangements (Refer to Note 2.5) | - | - | 72 | - | - | 72 | 72 |
+| Other liabilities including contingent consideration (Refer to Note 2.5) | 1,887 | - | - | - | - | 1,887 | 1,887 |
+| Total | 3,363 | - | 76 | - | - | 3,439 | 3,439 |
+
+(1) On account of fair value changes including interest accrued  
+(2) Excludes interest accrued on quoted debt securities carried at amortized cost of $10 million  
+(3) Excludes unbilled revenue on contracts where the right to consideration is dependent on completion of contractual milestones
+
+For trade receivables, trade payables, other assets and payables maturing within one year from the balance sheet date, the carrying amounts approximate fair value due to the short maturity of these instruments.

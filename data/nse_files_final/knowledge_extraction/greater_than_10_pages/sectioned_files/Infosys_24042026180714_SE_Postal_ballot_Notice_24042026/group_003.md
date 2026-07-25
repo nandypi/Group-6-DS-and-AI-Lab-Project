@@ -2,8 +2,6 @@
 document_name: "Infosys_24042026180714_SE_Postal_ballot_Notice_24042026.md"
 group_id: "Infosys_24042026180714_SE_Postal_ballot_Notice_24042026__group_003"
 source_section_count: 3
-page_start: 9
-page_end: 13
 estimated_tokens: 6693
 source_section_ids:
   - "Infosys_24042026180714_SE_Postal_ballot_Notice_24042026__005"

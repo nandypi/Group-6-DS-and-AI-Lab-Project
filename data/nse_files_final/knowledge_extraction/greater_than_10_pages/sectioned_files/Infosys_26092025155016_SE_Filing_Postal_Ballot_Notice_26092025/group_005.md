@@ -2,8 +2,6 @@
 document_name: "Infosys_26092025155016_SE_Filing_Postal_Ballot_Notice_26092025.md"
 group_id: "Infosys_26092025155016_SE_Filing_Postal_Ballot_Notice_26092025__group_005"
 source_section_count: 2
-page_start: 20
-page_end: 25
 estimated_tokens: 5516
 source_section_ids:
   - "Infosys_26092025155016_SE_Filing_Postal_Ballot_Notice_26092025__008"

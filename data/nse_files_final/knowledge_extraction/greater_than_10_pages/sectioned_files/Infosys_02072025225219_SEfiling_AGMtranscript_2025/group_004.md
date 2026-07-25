@@ -2,8 +2,6 @@
 document_name: "Infosys_02072025225219_SEfiling_AGMtranscript_2025.md"
 group_id: "Infosys_02072025225219_SEfiling_AGMtranscript_2025__group_004"
 source_section_count: 2
-page_start: 30
-page_end: 39
 estimated_tokens: 4902
 source_section_ids:
   - "Infosys_02072025225219_SEfiling_AGMtranscript_2025__007"

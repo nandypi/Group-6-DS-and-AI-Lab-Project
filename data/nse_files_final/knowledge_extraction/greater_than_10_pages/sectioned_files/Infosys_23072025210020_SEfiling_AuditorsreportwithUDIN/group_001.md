@@ -2,8 +2,6 @@
 document_name: "Infosys_23072025210020_SEfiling_AuditorsreportwithUDIN.md"
 group_id: "Infosys_23072025210020_SEfiling_AuditorsreportwithUDIN__group_001"
 source_section_count: 2
-page_start: 1
-page_end: 10
 estimated_tokens: 4441
 source_section_ids:
   - "Infosys_23072025210020_SEfiling_AuditorsreportwithUDIN__001"

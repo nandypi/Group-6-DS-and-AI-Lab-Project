@@ -1,0 +1,152 @@
+---
+document_name: "Infosys_23042026170027_outcome.md"
+group_id: "Infosys_23042026170027_outcome__group_009"
+source_section_count: 2
+estimated_tokens: 5082
+source_section_ids:
+  - "Infosys_23042026170027_outcome__017"
+  - "Infosys_23042026170027_outcome__018"
+---
+---
+section_title: "Reconciliation of Reported IFRS financial measures to Adjusted non-IFRS financial measures for year ended"
+section_description: "This section contains notes to Infosys' audited condensed consolidated financial information, a reconciliation of reported IFRS operating profit and margin to adjusted non-IFRS measures, and an independent auditor's report on the interim condensed consolidated financial statements. It also includes the condensed consolidated balance sheet as at March 31, 2026 and March 31, 2025."
+topics:
+  - IFRS and non-IFRS reconciliation
+  - Income tax orders and Labour Codes provisions
+  - Independent auditor's report
+  - Interim condensed consolidated financial statements
+  - Condensed consolidated balance sheet
+  - Assets, liabilities, and equity
+sample_queries:
+  - "What adjustments were made to reported IFRS operating profit for the year ended March 31, 2026?"
+  - "How did Infosys define constant currency revenue growth in the notes?"
+  - "What opinion did Deloitte give on the interim condensed consolidated financial statements?"
+  - "What were Infosys' total assets and total liabilities as at March 31, 2026?"
+  - "What were the current and non-current asset balances reported by Infosys as at March 31, 2026?"
+  - "How much cash and cash equivalents did Infosys report as at March 31, 2026 and March 31, 2025?"
+  - "What was the reported share capital and total equity attributable to equity holders of the Company?"
+---
+
+## NOTES:
+
+- a) The above information is extracted from the audited condensed consolidated Balance Sheet and Statement of Comprehensive Income for the quarter and year ended March 31, 2026, which have been taken on record at the Board meeting held on April 23, 2026.
+- b) Includes interest income (pre-tax) of $41 million and $38 million for the quarter and year ended March 31, 2026 and March 31, 2025 respectively, and reversal of tax provisions amounting to $83 million and $12 million for the quarter and year ended March 31, 2026 and March 31, 2025 respectively. This is on account of orders received under sections 250 and 254 of the Income Tax Act, 1961 for certain assessment years.
+- c) Revenue growth in reported currency includes the impact of currency fluctuations. Additionally, we calculate constant currency (CC) growth by comparing current period revenues in respective local currencies converted to US$ using prior period exchange rates and comparing the same to our prior period reported revenues.
+- d) A Fact Sheet providing the operating metrics of the Company can be downloaded.
+
+## Reconciliation of Reported IFRS financial measures to Adjusted non-IFRS financial measures for year ended (in $ million)
+
+|  | March 31, 2026 Operating Profit | March 31, 2026 Operating Margin (%) | March 31, 2025 Operating Profit | March 31, 2025 Operating Margin (%) |
+|---|---:|---:|---:|---:|
+| Reported IFRS | 4,085 | 20.3 | 4,071 | 21.1 |
+| Adjustments 1 | 143 | 0.7 | - | - |
+| Adjusted non-IFRS | 4,228 | 21.0 | 4,071 | 21.1 |
+
+## Notes:
+
+1. The adjusted non-IFRS measures exclude the effect of the provisions of The Labour Codes notified by the Government of India on November 21, 2025, which resulted in an increase in gratuity liability (arising out of past service cost relating to plan amendment) and leave liability by $143 million, which is recognized in the Consolidated Statement of Comprehensive Income. This also resulted in a lower tax of $35 million in the year ended March 31, 2026.
+2. Excluding the effect of Income Tax orders received under sections 250 and 254 of the Income Tax Act, 1961 and The Labour Codes provisions notified by the Government of India, EPS increase (in ₹ terms) is 12.1% and 13.9% YoY for the year and quarter ended March 31, 2026, respectively.
+3. The free cash flow includes cash payments made towards The Labour Codes of $49 million and $99 million for the quarter and year ended March 31, 2026, respectively.
+4. We are using non-IFRS financial performance measures to supplement the financial information reported on an IFRS basis. These non-IFRS financial measures should not be considered in isolation or as a substitute for the relevant IFRS measures and should be read in conjunction with information presented on a reported IFRS basis. We believe these adjustments are necessary to reflect the Company's core performance across periods.
+
+## Report on the Audit of the Interim Condensed Consolidated Financial Statements
+
+## Opinion
+
+We have audited the accompanying interim condensed consolidated financial statements of INFOSYS LIMITED (the "Company"), and its subsidiaries (the Company and its subsidiaries together referred to as the "Group"), which comprise the Condensed Consolidated Balance Sheet as at March 31, 2026, the Condensed Consolidated Statement of Comprehensive Income for the three months and year ended on that date, the Condensed Consolidated Statement of Changes in Equity, and the Condensed Consolidated Statement of Cash Flows for the year ended on that date, and notes to the financial statements, including a summary of material accounting policies and other explanatory information (hereinafter referred to as the "Interim Condensed Consolidated Financial Statements").
+
+In our opinion and to the best of our information and according to the explanations given to us, the aforesaid Interim Condensed Consolidated Financial Statements give a true and fair view in conformity with International Accounting Standard 34 "Interim Financial Reporting" ("IAS 34") as issued by the International Accounting Standards Board ("IASB"), of the consolidated state of affairs of the Group as at March 31, 2026, its consolidated profit and its consolidated other comprehensive income for the three months and year ended on that date, its consolidated changes in equity and its consolidated cash flows for the year ended on that date.
+
+## Basis for Opinion
+
+We conducted our audit of the Interim Condensed Consolidated Financial Statements in accordance with the Standards on Auditing ("SAs") issued by the Institute of Chartered Accountants of India ("ICAI"). Our responsibilities under those Standards are further described in the Auditor's Responsibilities for the Audit of the Interim Condensed Consolidated Financial Statements section of our report. We are independent of the Group in accordance with the Code of Ethics issued by the ICAI, and we have fulfilled our other ethical responsibilities in accordance with the Code of Ethics. We believe that the audit evidence obtained by us is sufficient and appropriate to provide a basis for our audit opinion on the Interim Condensed Consolidated Financial Statements.
+
+## Responsibilities of Management and Board of Directors for the Interim Condensed Consolidated Financial Statements
+
+The Company's Board of Directors is responsible for the preparation and presentation of these Interim Condensed Consolidated Financial Statements that give a true and fair view of the consolidated financial position, consolidated financial performance, consolidated other comprehensive income, consolidated changes in equity and consolidated cash flows of the Group in accordance with IAS 34 as issued by the IASB. The respective Boards of Directors of the entities included in the Group are responsible for maintenance of the adequate accounting records for safeguarding assets of the Group and for preventing and detecting frauds and other irregularities; selection and application of appropriate accounting policies; making judgments and estimates that are reasonable and prudent; and design, implementation and maintenance of adequate internal financial controls, that were operating effectively for ensuring the accuracy and completeness of the accounting records, relevant to the preparation and presentation of the respective interim financial statements that give a true and fair view and are free from material misstatement, whether due to fraud or error which have been used for the purpose of preparation of the Interim Condensed Consolidated Financial Statements by the Directors of the Company, as aforesaid.
+
+In preparing the Interim Condensed Consolidated Financial Statements, the respective Boards of Directors of the entities included in the Group are responsible for assessing the ability of the respective entities to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless the respective Boards of Directors either intend to liquidate their respective entities or to cease operations, or have no realistic alternative but to do so.
+
+The respective Boards of Directors of the entities included in the Group are also responsible for overseeing the financial reporting process of the Group.
+
+## Auditor's Responsibilities for the Audit of the Interim Condensed Consolidated Financial Statements
+
+Our objectives are to obtain reasonable assurance about whether the Interim Condensed Consolidated Financial Statements as a whole are free from material misstatement, whether due to fraud or error, and to issue an auditor's report that includes our opinion. Reasonable assurance is a high level of assurance but is not a guarantee that an audit conducted in accordance with SAs will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these Interim Condensed Consolidated Financial Statements.
+
+As part of an audit in accordance with SAs, we exercise professional judgment and maintain professional scepticism throughout the audit. We also:
+
+- Identify and assess the risks of material misstatement of the Interim Condensed Consolidated Financial Statements, whether due to fraud or error, design and perform audit procedures responsive to those risks, and obtain audit evidence that is sufficient and appropriate to provide a basis for our opinion. The risk of not detecting a material misstatement resulting from fraud is higher than for one resulting from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.
+- Obtain an understanding of internal financial controls relevant to the audit in order to design audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on effectiveness of such controls.
+- Evaluate the appropriateness of accounting policies used and the reasonableness of accounting estimates and related disclosures made by management.
+- Conclude on the appropriateness of management's use of the going concern basis of accounting and, based on the audit evidence obtained, whether a material uncertainty exists related to events or conditions that may cast significant doubt on the ability of the Group to continue as a going concern. If we conclude that a material uncertainty exists, we are required to draw attention in our auditor's report to the related disclosures in the Interim Condensed Consolidated Financial Statements or, if such disclosures are inadequate, to modify our opinion. Our conclusions are based on the audit evidence obtained up to the date of our auditor's report. However, future events or conditions may cause the Group to cease to continue as a going concern.
+- Evaluate the overall presentation, structure and content of the Interim Condensed Consolidated Financial Statements, including the disclosures, and whether the Interim Condensed Consolidated Financial Statements represent the underlying transactions and events in a manner that achieves fair presentation.
+- Obtain sufficient appropriate audit evidence regarding the financial information of the entities within the Group to express an opinion on the Interim Condensed Consolidated Financial Statements. We are responsible for the direction, supervision and performance of the audit of financial statements of such entities included in the Interim Condensed Consolidated Financial Statements of which we are independent auditors.
+
+Materiality is the magnitude of misstatements in the Interim Condensed Consolidated Financial Statements that, individually or in aggregate, makes it probable that the economic decisions of a reasonably knowledgeable user of the Interim Condensed Consolidated Financial Statements may be influenced. We consider quantitative materiality and qualitative factors in (i) planning the scope of our audit work and in evaluating the results of our work; and (ii) to evaluate the effect of any identified misstatements in the Interim Condensed Consolidated Financial Statements.
+
+We communicate with those charged with governance of the Company and such other entities included in the Interim Condensed Consolidated Financial Statements of which we are the independent auditors regarding, among other matters, the planned scope and timing of the audit and significant audit findings including any significant deficiencies in internal financial controls that we identify during our audit.
+
+We also provide those charged with governance with a statement that we have complied with relevant ethical requirements regarding independence, and to communicate with them all relationships and other matters that may reasonably be thought to bear on our independence, and where applicable, related safeguards.
+
+## Infosys Limited and subsidiaries
+
+## Condensed Consolidated Balance Sheet as at March 31, 2026
+
+(Dollars in millions, except equity share data)
+
+|  | Note | March 31, 2026 | March 31, 2025 |
+|---|---:|---:|---:|
+| ASSETS |  |  |  |
+| Current assets |  |  |  |
+| Cash and cash equivalents | 2.1 | 2,341 | 2,861 |
+| Current investments | 2.2 | 1,365 | 1,460 |
+| Trade receivables |  | 3,715 | 3,645 |
+| Unbilled revenue | 2.17 | 1,633 | 1,503 |
+| Prepayments and other current assets | 2.4 | 1,656 | 1,519 |
+| Income tax assets | 2.12 | 193 | 348 |
+| Derivative financial instruments | 2.3 | 9 | 23 |
+| Total current assets |  | 10,912 | 11,359 |
+| Non-current assets |  |  |  |
+| Property, plant and equipment | 2.7 | 1,406 | 1,497 |
+| Right-of-use assets | 2.8 | 651 | 738 |
+| Goodwill | 2.9 | 1,278 | 1,182 |
+| Intangible assets |  | 298 | 323 |
+| Non-current investments | 2.2 | 942 | 1,294 |
+| Unbilled revenue | 2.17 | 183 | 261 |
+| Deferred income tax assets | 2.12 | 239 | 130 |
+| Income tax assets | 2.12 | 70 | 190 |
+| Other non-current assets | 2.4 | 467 | 445 |
+| Total Non-current assets |  | 5,534 | 6,060 |
+| Total assets |  | 16,446 | 17,419 |
+| LIABILITIES AND EQUITY |  |  |  |
+| Current liabilities |  |  |  |
+| Trade payables |  | 500 | 487 |
+| Lease liabilities | 2.8 | 333 | 287 |
+| Derivative financial instruments | 2.3 | 63 | 7 |
+| Current income tax liabilities | 2.12 | 594 | 567 |
+| Unearned revenue |  | 1,248 | 994 |
+| Employee benefit obligations |  | 372 | 340 |
+| Provisions | 2.6 | 159 | 173 |
+| Other current liabilities | 2.5 | 2,247 | 2,157 |
+| Total current liabilities |  | 5,516 | 5,012 |
+| Non-current liabilities |  |  |  |
+| Lease liabilities | 2.8 | 634 | 675 |
+| Deferred income tax liabilities | 2.12 | 177 | 202 |
+| Employee benefit obligations |  | 12 | 11 |
+| Other non-current liabilities | 2.5 | 267 | 264 |
+| Total Non-current liabilities |  | 1,090 | 1,152 |
+| Total liabilities |  | 6,606 | 6,164 |
+| Equity |  |  |  |
+| Share capital - ₹5 ($0.16) par value 4,800,000,000 (4,800,000,000) equity shares authorized, issued and outstanding 4,046,940,812 (4,143,607,528) equity shares fully paid up, net of 8,650,911 (9,655,927) treasury shares as at March 31, 2026 (March 31, 2025) | 2.18 | 319 | 325 |
+| Share premium |  | 462 | 500 |
+| Retained earnings |  | 13,459 | 13,766 |
+| Cash flow hedge reserves |  | (2) | (2) |
+| Other reserves |  | 773 | 1,171 |
+| Capital redemption reserve |  | 30 | 24 |
+| Other components of equity |  | (5,255) | (4,579) |
+| Total equity attributable to equity holders of the Company |  | 9,786 | 11,205 |
+| Non-controlling interests |  | 54 | 50 |
+| Total equity |  | 9,840 | 11,255 |
+| Total liabilities and equity |  | 16,446 | 17,419 |
+
+The accompanying notes form an integral part of the interim condensed consolidated financial statements.

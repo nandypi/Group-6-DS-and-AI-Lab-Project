@@ -1,0 +1,190 @@
+---
+document_name: "Infosys_16102025160458_BM_Outcome_Oct162025.md"
+group_id: "Infosys_16102025160458_BM_Outcome_Oct162025__group_008"
+source_section_count: 2
+estimated_tokens: 5118
+source_section_ids:
+  - "Infosys_16102025160458_BM_Outcome_Oct162025__014"
+  - "Infosys_16102025160458_BM_Outcome_Oct162025__015"
+---
+---
+section_title: Infosys Limited and subsidiaries
+section_description: This section contains interim condensed consolidated financial statements for Infosys Limited and subsidiaries, including the balance sheet, statement of comprehensive income, and statement of changes in equity. It presents figures as of September 30, 2025 and March 31, 2025, and for the three and six months ended September 30, 2025 and September 30, 2024.
+topics:
+  - Condensed consolidated balance sheet
+  - Comprehensive income
+  - Changes in equity
+  - Current and non-current assets
+  - Liabilities and equity
+  - Earnings per equity share
+  - Employee stock options
+sample_queries:
+  - What were Infosys Limited's total assets as of September 30, 2025?
+  - How did revenues compare for the three months ended September 30, 2025 and September 30, 2024?
+  - What was the net profit for the six months ended September 30, 2025?
+  - What were the basic and diluted earnings per equity share for the periods presented?
+  - What changes in equity occurred during the six months ended September 30, 2025?
+  - What was the balance of retained earnings as of September 30, 2025?
+---
+
+## Infosys Limited and subsidiaries
+
+### Condensed Consolidated Balance Sheet as at
+
+(Dollars in millions except equity share data)
+
+| Particulars | Note | September 30, 2025 | March 31, 2025 |
+|---|---:|---:|---:|
+| ASSETS | | | |
+| Current assets | | | |
+| Cash and cash equivalents | 2.1 | 3,585 | 2,861 |
+| Current investments | 2.2 | 1,420 | 1,460 |
+| Trade receivables | | 3,826 | 3,645 |
+| Unbilled revenue | 2.17 | 1,612 | 1,503 |
+| Prepayments and other current assets | 2.4 | 1,463 | 1,519 |
+| Income tax assets | 2.12 | 3 | 348 |
+| Derivative financial instruments | 2.3 | 4 | 23 |
+| Total current assets | | 11,913 | 11,359 |
+| Non-current assets | | | |
+| Property, plant and equipment | 2.7 | 1,452 | 1,497 |
+| Right-of-use assets | 2.8 | 720 | 738 |
+| Goodwill | 2.9 | 1,295 | 1,182 |
+| Intangible assets | | 357 | 323 |
+| Non-current investments | 2.2 | 1,225 | 1,294 |
+| Unbilled revenue | 2.17 | 260 | 261 |
+| Deferred income tax assets | 2.12 | 172 | 130 |
+| Income tax assets | 2.12 | 226 | 190 |
+| Other non-current assets | 2.4 | 444 | 445 |
+| Total Non-current assets | | 6,151 | 6,060 |
+| Total assets | | 18,064 | 17,419 |
+| LIABILITIES AND EQUITY | | | |
+| Current liabilities | | | |
+| Trade payables | | 432 | 487 |
+| Lease liabilities | 2.8 | 312 | 287 |
+| Derivative financial instruments | 2.3 | 56 | 7 |
+| Current income tax liabilities | 2.12 | 630 | 567 |
+| Unearned revenue | | 1,016 | 994 |
+| Employee benefit obligations | | 375 | 340 |
+| Provisions | 2.6 | 184 | 173 |
+| Other current liabilities | 2.5 | 2,219 | 2,157 |
+| Total current liabilities | | 5,224 | 5,012 |
+| Non-current liabilities | | | |
+| Lease liabilities | 2.8 | 674 | 675 |
+| Deferred income tax liabilities | 2.12 | 190 | 202 |
+| Employee benefit obligations | | 12 | 11 |
+| Other non-current liabilities | 2.5 | 277 | 264 |
+| Total Non-current liabilities | | 1,153 | 1,152 |
+| Total liabilities | | 6,377 | 6,164 |
+| Equity | | | |
+| Share capital - ₹5 ($0.16) par value 4,800,000,000 (4,800,000,000) equity shares authorized, issued and outstanding 4,145,309,946 (4,143,607,528) equity shares fully paid up, net of 9,091,403 (9,655,927) treasury | 2.18 | 325 | 325 |
+| Share premium | | 547 | 500 |
+| Retained earnings | | 14,664 | 13,766 |
+| Cash flow hedge reserves | | (1) | (2) |
+| Other reserves | | 865 | 1,171 |
+| Capital redemption reserve | | 24 | 24 |
+| Other components of equity | | (4,790) | (4,579) |
+| Total equity attributable to equity holders of the Company | | 11,634 | 11,205 |
+| Non-controlling interests | | 53 | 50 |
+| Total equity | | 11,687 | 11,255 |
+| Total liabilities and equity | | 18,064 | 17,419 |
+
+The accompanying notes form an integral part of the interim condensed consolidated financial statements.
+
+### Condensed Consolidated Statement of Comprehensive Income for the
+
+(Dollars in millions except equity share and per equity share data)
+
+| Particulars | Note | Three months ended September 30, 2025 | Three months ended September 30, 2024 | Six months ended September 30, 2025 | Six months ended September 30, 2024 |
+|---|---:|---:|---:|---:|---:|
+| Revenues | 2.16 | 5,076 | 4,894 | 10,018 | 9,608 |
+| Cost of sales | 2.19 | 3,516 | 3,400 | 6,933 | 6,659 |
+| Gross profit | | 1,560 | 1,494 | 3,085 | 2,949 |
+| Operating expenses | | | | | |
+| Selling and marketing expenses | 2.19 | 254 | 221 | 512 | 454 |
+| Administrative expenses | 2.19 | 241 | 240 | 480 | 469 |
+| Total operating expenses | | 495 | 461 | 992 | 923 |
+| Operating profit | | 1,065 | 1,033 | 2,093 | 2,026 |
+| Other income, net | 2.19 | 112 | 85 | 234 | 186 |
+| Finance cost | | 12 | 13 | 24 | 26 |
+| Profit before income taxes | | 1,165 | 1,105 | 2,303 | 2,186 |
+| Income tax expense | 2.12 | 325 | 327 | 654 | 644 |
+| Net profit | | 840 | 778 | 1,649 | 1,542 |
+| Other comprehensive income | | | | | |
+| Items that will not be reclassified subsequently to profit or loss | | | | | |
+| Remeasurement of the net defined benefit liability/asset, net | | (5) | 10 | (13) | 12 |
+| Equity instruments through other comprehensive income, net | | (1) | (1) | 3 | 1 |
+|  | | (6) | 9 | (10) | 13 |
+| Items that will be reclassified subsequently to profit or loss | | | | | |
+| Fair value changes on investments, net | | (4) | 10 | 10 | 15 |
+| Fair value changes on derivatives designated as cash flow hedge, net | | - | (3) | 1 | (3) |
+| Exchange differences on translation of foreign operations | | (290) | 17 | (210) | 6 |
+|  | | (294) | 24 | (199) | 18 |
+| Total other comprehensive income/(loss), net of tax | | (300) | 33 | (209) | 31 |
+| Total comprehensive income | | 540 | 811 | 1,440 | 1,573 |
+| Profit attributable to: | | | | | |
+| Owners of the Company | | 839 | 777 | 1,647 | 1,540 |
+| Non-controlling interests | | 1 | 1 | 2 | 2 |
+|  | | 840 | 778 | 1,649 | 1,542 |
+| Total comprehensive income attributable to: | | | | | |
+| Owners of the Company | | 538 | 809 | 1,437 | 1,570 |
+| Non-controlling interests | | 2 | 2 | 3 | 3 |
+|  | | 540 | 811 | 1,440 | 1,573 |
+| Earnings per equity share | | | | | |
+| Basic ($) | | 0.20 | 0.19 | 0.40 | 0.37 |
+| Diluted ($) | | 0.20 | 0.19 | 0.40 | 0.37 |
+| Weighted average equity shares used in computing earnings per equity share | | | | | |
+| Basic (in shares) | 2.13 | 4,145,208,267 | 4,141,806,535 | 4,144,593,296 | 4,141,043,772 |
+| Diluted (in shares) | 2.13 | 4,151,315,578 | 4,150,537,764 | 4,151,441,800 | 4,150,210,087 |
+
+The accompanying notes form an integral part of the interim condensed consolidated financial statements.
+
+### Condensed Consolidated Statement of Changes in Equity
+
+(Dollars in millions except equity share data)
+
+| Particulars | Number of Shares (1) | Share capital | Share premium | Retained earnings | Other reserves (2) | Capital redemption reserve | Cash flow hedge reserve | Other components of equity | Total equity attributable to equity holders of the Company | Non-controlling interest | Total equity |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Balance as at April 1, 2024 | 4,139,950,635 | 325 | 425 | 12,557 | 1,623 | 24 | 1 | (4,396) | 10,559 | 46 | 10,605 |
+| Changes in equity for the six months ended September 30, 2024 | | | | | | | | | | | |
+| Net profit | - | - | - | 1,540 | - | - | - | - | 1,540 | 2 | 1,542 |
+| Remeasurement of the net defined benefit liability/asset, net* | - | - | - | - | - | - | - | 12 | 12 | - | 12 |
+| Equity instruments through other comprehensive income, net* | - | - | - | - | - | - | - | 1 | 1 | - | 1 |
+| Fair value changes on derivatives designated as Cash flow hedge, net* | - | - | - | - | - | - | (3) | - | (3) | - | (3) |
+| Exchange differences on translation of foreign operations | - | - | - | - | - | - | - | 5 | 5 | 1 | 6 |
+| Fair value changes on investments, net* | - | - | - | - | - | - | - | 15 | 15 | - | 15 |
+| Total comprehensive income for the period | - | - | - | 1,540 | - | - | (3) | 33 | 1,570 | 3 | 1,573 |
+| Shares issued on exercise of employee stock options (Refer to note 2.11) | 1,958,921 | - | - | - | - | - | - | - | - | - | - |
+| Employee stock compensation expense (Refer to note 2.11) | - | - | 49 | - | - | - | - | - | 49 | - | 49 |
+| Transfer on account of options not exercised | - | - | (1) | 1 | - | - | - | - | - | - | - |
+| Transferred from other reserves on utilization | - | - | - | 28 | (28) | - | - | - | - | - | - |
+| Transferred from other reserves to retained earnings | - | - | - | 358 | (358) | - | - | - | - | - | - |
+| Dividends # | - | - | - | (1,389) | - | - | - | - | (1,389) | - | (1,389) |
+| Balance as at September 30, 2024 | 4,141,909,556 | 325 | 473 | 13,095 | 1,237 | 24 | (2) | (4,363) | 10,789 | 49 | 10,838 |
+
+### Condensed Consolidated Statement of Changes in Equity
+
+(Dollars in millions except equity share data)
+
+| Particulars | Number of Shares (1) | Share capital | Share premium | Retained earnings | Other reserves (2) | Capital redemption reserve | Cash flow hedge reserve | Other components of equity | Total equity attributable to equity holders of the Company | Non-controlling interest | Total equity |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Balance as at April 1, 2025 | 4,143,607,528 | 325 | 500 | 13,766 | 1,171 | 24 | (2) | (4,579) | 11,205 | 50 | 11,255 |
+| Changes in equity for the six months ended September 30, 2025 | | | | | | | | | | | |
+| Net profit | - | - | - | 1,647 | - | - | - | - | 1,647 | 2 | 1,649 |
+| Remeasurement of the net defined benefit liability/asset, net* | - | - | - | - | - | - | - | (13) | (13) | - | (13) |
+| Equity instruments through other comprehensive income, net* | - | - | - | - | - | - | - | 3 | 3 | - | 3 |
+| Fair value changes on derivatives designated as Cash flow hedge, net* | - | - | - | - | - | - | 1 | - | 1 | - | 1 |
+| Exchange differences on translation of foreign operations | - | - | - | - | - | - | - | (211) | (211) | 1 | (210) |
+| Fair value changes on investments, net* | - | - | - | - | - | - | - | 10 | 10 | - | 10 |
+| Total comprehensive income for the period | - | - | - | 1,647 | - | - | 1 | (211) | 1,437 | 3 | 1,440 |
+| Shares issued on exercise of employee stock options (Refer to note 2.11) | 1,702,418 | - | - | - | - | - | - | - | - | - | - |
+| Financial liability under option arrangements | - | - | - | (1) | - | - | - | - | (1) | - | (1) |
+| Changes in the controlling stake of a subsidiary | - | - | - | 1 | - | - | - | - | 1 | - | 1 |
+| Employee stock compensation expense (Refer to note 2.11) | - | - | 53 | - | - | - | - | - | 53 | - | 53 |
+| Transferred on account of options not exercised | - | - | (7) | 7 | - | - | - | - | - | - | - |
+| Income tax benefit arising on exercise of stock options (Refer to note 2.12) | - | - | 1 | - | - | - | - | - | 1 | - | 1 |
+| Transferred from other reserves on utilization | - | - | - | 47 | (47) | - | - | - | - | - | - |
+| Transferred from other reserves to retained earnings | - | - | - | 259 | (259) | - | - | - | - | - | - |
+| Dividends # | - | - | - | (1,062) | - | - | - | - | (1,062) | - | (1,062) |
+| Balance as at September 30, 2025 | 4,145,309,946 | 325 | 547 | 14,664 | 865 | 24 | (1) | (4,790) | 11,634 | 53 | 11,687 |
+
+\* net of tax

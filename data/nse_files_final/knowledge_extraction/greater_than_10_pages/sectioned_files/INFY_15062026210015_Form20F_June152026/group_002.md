@@ -2,8 +2,6 @@
 document_name: "INFY_15062026210015_Form20F_June152026.md"
 group_id: "INFY_15062026210015_Form20F_June152026__group_002"
 source_section_count: 2
-page_start: 6
-page_end: 13
 estimated_tokens: 4434
 source_section_ids:
   - "INFY_15062026210015_Form20F_June152026__003"

@@ -1,0 +1,209 @@
+---
+document_name: "Infosys_23072025153626_Outcome23072025.md"
+group_id: "Infosys_23072025153626_Outcome23072025__group_011"
+source_section_count: 2
+estimated_tokens: 5281
+source_section_ids:
+  - "Infosys_23072025153626_Outcome23072025__023"
+  - "Infosys_23072025153626_Outcome23072025__024"
+---
+---
+section_title: "2.12 Income Taxes"
+section_description: "This section contains accounting policies and disclosures for income taxes, earnings per equity share, related party transactions, segment reporting, and revenue from operations. It includes tax expense details, subsidiary changes, key management compensation, business segment results, significant client disclosures, and revenue recognition policies."
+topics:
+  - Income taxes
+  - Earnings per equity share
+  - Related party transactions
+  - Subsidiary changes
+  - Segment reporting
+  - Revenue recognition
+  - Revenue from operations
+sample_queries:
+  - "What was Infosys' income tax expense for the three months ended June 30, 2025 and June 30, 2024?"
+  - "What claims against the Group from income tax authorities were not acknowledged as debts?"
+  - "What subsidiary changes occurred during the three months ended June 30, 2025?"
+  - "How much compensation was paid to key management personnel?"
+  - "How did revenue and segment profit compare across business segments?"
+  - "Did any client account for more than 10% of revenues?"
+  - "What are the main revenue recognition policies for software services, products, platforms, and fixed-price contracts?"
+  - "What revenue came from software services and from products and platforms?"
+---
+
+## 2.12 Income Taxes
+
+## Accounting policy
+
+Income tax expense comprises current and deferred income tax. Income tax expense is recognized in net profit in the consolidated statement of comprehensive income except to the extent that it relates to items recognized directly in equity, in which case it is recognized in equity or other comprehensive income. Current income tax for current and prior periods is recognized at the amount expected to be paid to or recovered from the tax authorities, using the tax rates and tax laws that have been enacted or substantively enacted by the Balance Sheet date. Deferred income tax assets and liabilities are recognized for all temporary differences arising between the tax bases of assets and liabilities and their carrying amounts in the financial statements except when the deferred income tax arises from the initial recognition of goodwill or an asset or liability in a transaction that is not a business combination and affects neither accounting nor taxable profit or loss at the time of the transaction. Deferred tax assets are reviewed at each reporting date and are reduced to the extent that it is no longer probable that the related tax benefit will be realized.
+
+Deferred income tax assets and liabilities are measured using tax rates and tax laws that have been enacted or substantively enacted by the Balance Sheet date and are expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled. The effect of changes in tax rates on deferred income tax assets and liabilities is recognized as income or expense in the period that includes the enactment or the substantive enactment date. A deferred income tax asset is recognized to the extent that it is probable that future taxable profit will be available against which the deductible temporary differences and tax losses can be utilized. Deferred income taxes are not provided on the undistributed earnings of subsidiaries and branches where it is expected that the earnings of the subsidiary or branch will not be distributed in the foreseeable future.
+
+The Group offsets current tax assets and current tax liabilities; deferred tax assets and deferred tax liabilities, where it has a legally enforceable right to set off the recognized amounts and where it intends either to settle on a net basis, or to realize the asset and settle the liability simultaneously. The income tax provision for the interim period is made based on the best estimate of the annual average tax rate expected to be applicable for the full financial year. Tax benefits of deductions earned on exercise of employee share options in excess of compensation charged to income are credited to equity.
+
+Income tax expense in the interim condensed consolidated statement of comprehensive income comprises:
+
+| Particulars | Three months ended June 30, 2025 (Dollars in million) | Three months ended June 30, 2024 (Dollars in million) |
+|---|---:|---:|
+| Current taxes |  |  |
+| Domestic taxes | 271 | 277 |
+| Foreign taxes | 86 | 83 |
+| Total current taxes | 357 | 360 |
+| Deferred taxes |  |  |
+| Domestic taxes | (17) | (28) |
+| Foreign taxes | (11) | (14) |
+| Total deferred taxes | (28) | (42) |
+| Income tax expense | 329 | 318 |
+
+Income tax expense for the three months ended June 30, 2025 and June 30, 2024 includes provisions, net of reversals, of $14 million and provisions, net of reversals, of $7 million, respectively. These provisions and reversals pertaining to prior periods are primarily on account of adjudication of certain disputed matters, upon filing of tax return and completion of assessments, across various jurisdictions.
+
+Deferred income tax for the three months ended June 30, 2025 and June 30, 2024 substantially relates to origination and reversal of temporary differences.
+
+The Company's Advanced Pricing Arrangement (APA) with the Internal Revenue Service (IRS) for US branch income tax expired in March 2021. The Company has applied for renewal of APA and currently the US taxable income is based on the Company's best estimate determined based on the expected value method.
+
+As at June 30, 2025, claims against the Group not acknowledged as debts from the Income tax authorities amounted to $230 million (₹1,976 crore). As at March 31, 2025, claims against the Group not acknowledged as debts from the Income tax authorities amounted to $226 million (₹1,933 crore).
+
+Amount paid to statutory authorities against the tax claims amounted to $488 million (₹4,185 crore) and $491 million (₹4,199 crore) as at June 30, 2025 and March 31, 2025 respectively.
+
+The claims against the Group primarily represent demands arising on completion of assessment proceedings under the Income Tax Act, 1961. These claims are on account of issues of disallowance of expenditure towards software being held as capital in nature, payments made to Associated Enterprises held as liable for withholding of taxes, among others. These matters are pending before various Income Tax Authorities and the Management including its tax advisors expect that its position will likely be upheld on ultimate resolution and will not have a material adverse effect on the Group's financial position and results of operations.
+
+## 2.13 Earnings per equity share
+
+## Accounting Policy
+
+Basic earnings per equity share is computed by dividing the net profit attributable to the equity holders of the Group by the weighted average number of equity shares outstanding during the period. Diluted earnings per equity share is computed by dividing the net profit attributable to the equity holders of the Group by the weighted average number of equity shares considered for deriving basic earnings per equity share and also the weighted average number of equity shares that could have been issued upon conversion of all dilutive potential equity shares. The dilutive potential equity shares are adjusted for the proceeds receivable had the equity shares been actually issued at fair value (i.e. the average market value of the outstanding equity shares). Dilutive potential equity shares are deemed converted as at the beginning of the period, unless issued at a later date. Dilutive potential equity shares are determined independently for each period presented.
+
+The number of equity shares and potentially dilutive equity shares are adjusted retrospectively for all periods presented for any share splits and bonus shares issues including for changes effected prior to the approval of the financial statements by the Board of Directors.
+
+## 2.14 Related party transactions
+
+Refer Note 2.20 "Related party transactions" in the Company's 2025 Annual Report on Form 20-F for the full names and other details of the Company's subsidiaries and controlled trusts.
+
+## Changes in Subsidiaries
+
+During the three months ended June 30, 2025, the following are the changes in the subsidiaries:
+
+- Infosys Energy Consulting Services LLC, a wholly-owned subsidiary of Infosys Nova Holdings LLC, was incorporated on April 16, 2025.
+- Infosys Saudi Arabia LLC, a wholly-owned subsidiary of Infosys Limited, was incorporated on April 21, 2025.
+- Infosys Australia Technology Service Pty Ltd, a wholly-owned subsidiary of Infosys Singapore Pte. Limited, was incorporated on April 23, 2025.
+- On April 30, 2025, Infosys Nova Holdings LLC, a wholly-owned subsidiary of Infosys Limited, acquired 98.21% of partnership interests in MRE Consulting Ltd along with its subsidiary MRE Technology Services, LLC. The remaining 1.79% was acquired by Infosys Energy Consulting Services LLC, a wholly-owned subsidiary of Infosys Nova Holdings LLC.
+- On April 30, 2025, Infosys Australia Technology Service Pty Ltd, a wholly owned subsidiary of Infosys Singapore Pte. Limited, acquired 100% of voting interests in The Missing Link Automation Pty Ltd, The Missing Link Network Integration Pty Ltd and The Missing Link Security Pty Ltd along with its subsidiary The Missing Link Security Ltd.
+- in-tech Automotive Engineering de. R L de. C V, a wholly-owned subsidiary of in-tech GmbH, has been liquidated effective May 07, 2025.
+- On May 13, 2025, Infosys Singapore Pte Ltd diluted 2% stake of HPUS Co., Ltd to Mitsubishi Heavy Industries, Ltd.
+
+## Transactions with key management personnel
+
+The table below describes the compensation to key management personnel which comprise directors and executive officers:
+
+| Particulars | Three months ended June 30, 2025 (Dollars in millions) | Three months ended June 30, 2024 (Dollars in millions) |
+|---|---:|---:|
+| Salaries and other short term employee benefits to whole-time directors and executive officers (1)(2) | 3 | 3 |
+| Commission and other benefits to non-executive/ independent directors | 1 | 1 |
+| Total | 4 | 4 |
+
+(1) Total employee stock compensation expense for the three months ended June 30, 2025 and June 30, 2024 includes a charge of $2 million and $2 million respectively, towards key management personnel. (Refer note 2.11).
+
+(2) Does not include post-employment benefits and other long-term benefits, based on actuarial valuation as these are done for the Company as a whole.
+
+## 2.15 Segment reporting
+
+IFRS 8 Operating Segments establishes standards for the way that public business enterprises report information about operating segments and related disclosures about products and services, geographic areas, and major customers. The Group's operations predominantly relate to providing end-to-end business solutions to enable clients to enhance business performance.
+
+The Chief Operating Decision Maker (CODM) evaluates the Group's performance and allocates resources based on an analysis of various performance indicators by business segments. Accordingly, information has been presented along business segments. The accounting principles used in the preparation of the financial statements are consistently applied to record revenue and expenditure in individual segments, and are as set out in the accounting policies.
+
+Business segments of the Group are primarily enterprises in Financial Services and Insurance, enterprises in Manufacturing, enterprises in Retail, Consumer Packaged Goods and Logistics, enterprises in the Energy, Utilities, Resources and Services, enterprises in Communication, Telecom OEM and Media, enterprises in Hi-Tech, enterprises in Life Sciences and Healthcare and all other segments. The Financial services reportable segments has been aggregated to include the Financial Services operating segment and Finacle operating segment because of the similarity of the economic characteristics. All other segments represent the operating segments of businesses in India, Japan, China, Infosys Public Services &amp; other enterprises in Public Services.
+
+Revenue and identifiable operating expenses in relation to segments are categorized based on items that are individually identifiable to that segment. Revenue for 'all other segments' represents revenue generated by Infosys Public Services and revenue generated from customers located in India, Japan and China and other enterprises in public service. Allocated expenses of segments include expenses incurred for rendering services from the Group's offshore software development centers and on-site expenses, which are categorized in relation to the associated efforts of the segment. Certain expenses such as depreciation and amortization, which form a significant component of total expenses, are not specifically allocable to specific segments as the underlying assets are used interchangeably. The Management believes that it is not practical to provide segment disclosures relating to those costs and expenses, and accordingly these expenses are separately disclosed as "unallocated" and adjusted against the total income of the Group.
+
+Assets and liabilities used in the Group's business are not identified to any of the reportable segments, as these are used interchangeably between segments. The Management believes that it is currently not practicable to provide segment disclosures relating to total assets and liabilities since a meaningful segregation of the available data is onerous.
+
+Business segment revenue information is collated based on individual customers invoiced or in relation to which the revenue is otherwise recognized.
+
+Disclosure of revenue by geographic locations is given in note 2.16 Revenue from operations.
+
+## 2.15.1 Business segments
+
+## For the three months ended June 30, 2025 and June 30, 2024
+
+| Particulars | Period | Financial Services (1) | Manufacturing | Energy, Utilities, Resources and Services | Retail (2) | Communication (3) | Hi-Tech | Life Sciences (4) | All other segments (5) | Total |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Revenue | 2025 | 1,379 | 795 | 671 | 660 | 596 | 385 | 321 | 134 | 4,941 |
+| Revenue | 2024 | 1,297 | 693 | 626 | 651 | 569 | 377 | 343 | 158 | 4,714 |
+| Identifiable operating expenses | 2025 | 779 | 500 | 383 | 341 | 390 | 229 | 200 | 77 | 2,899 |
+| Identifiable operating expenses | 2024 | 730 | 454 | 325 | 324 | 373 | 214 | 210 | 90 | 2,720 |
+| Allocated expenses | 2025 | 253 | 130 | 120 | 122 | 103 | 66 | 56 | 31 | 881 |
+| Allocated expenses | 2024 | 254 | 118 | 114 | 117 | 100 | 66 | 60 | 33 | 862 |
+| Segment Profit | 2025 | 347 | 165 | 168 | 197 | 103 | 90 | 65 | 26 | 1,161 |
+| Segment Profit | 2024 | 313 | 121 | 187 | 210 | 96 | 97 | 73 | 35 | 1,132 |
+| Unallocable expenses | 2025 |  |  |  |  |  |  |  |  | 133 |
+| Unallocable expenses | 2024 |  |  |  |  |  |  |  |  | 138 |
+| Operating profit | 2025 |  |  |  |  |  |  |  |  | 1,028 |
+| Operating profit | 2024 |  |  |  |  |  |  |  |  | 994 |
+| Other income, net | 2025 |  |  |  |  |  |  |  |  | 122 |
+| Other income, net | 2024 |  |  |  |  |  |  |  |  | 101 |
+| Finance Cost | 2025 |  |  |  |  |  |  |  |  | 12 |
+| Profit before income taxes | 2025 |  |  |  |  |  |  |  |  | 1,138 |
+| Profit before income taxes | 2024 |  |  |  |  |  |  |  |  | 1,082 |
+| Income tax expense | 2025 |  |  |  |  |  |  |  |  | 329 |
+| Income tax expense | 2024 |  |  |  |  |  |  |  |  | 318 |
+| Net profit | 2025 |  |  |  |  |  |  |  |  | 809 |
+| Net profit | 2024 |  |  |  |  |  |  |  |  | 764 |
+| Depreciation and amortization | 2025 |  |  |  |  |  |  |  |  | 133 |
+| Non-cash expenses other than depreciation and amortization | 2025 |  |  |  |  |  |  |  |  | - |
+| Non-cash expenses other than depreciation and amortization | 2024 |  |  |  |  |  |  |  |  | - |
+
+(1) Financial Services include enterprises in Financial Services and Insurance.
+
+(2) Retail includes enterprises in Retail, Consumer Packaged Goods and Logistics.
+
+(3) Communication includes enterprises in Communication, Telecom OEM and Media.
+
+(4) Life Sciences includes enterprises in Life sciences and Health care.
+
+(5) Others include operating segments of businesses in India, Japan, China, Infosys Public Services &amp; other enterprises in Public Services.
+
+## 2.15.2 Significant clients
+
+No client individually accounted for more than 10% of the revenues for the three months ended June 30, 2025 and June 30, 2024 respectively.
+
+## 2.16 Revenue from Operations
+
+## Accounting Policy:
+
+The Group derives revenues primarily from IT services comprising software development and related services, cloud and infrastructure services, maintenance, consulting and package implementation, licensing of software products and platforms across the Group's core and digital offerings (together called as 'software related services') and business process management services. Contracts with customers are either on a time-and-material, unit of work, fixed-price or on a fixed-timeframe basis.
+
+Revenues from customer contracts are considered for recognition and measurement when the contract has been approved in writing, by the parties, to the contract, the parties to contract are committed to perform their respective obligations under the contract, and the contract is legally enforceable. Revenue is recognized upon transfer of control of promised products or services ('performance obligations') to customers in an amount that reflects the consideration the Group has received or expects to receive in exchange for these products or services ('transaction price'). When there is uncertainty as to collectability, revenue recognition is postponed until such uncertainty is resolved.
+
+The Group assesses the services promised in a contract and identifies distinct performance obligations in the contract. The Group allocates the transaction price to each distinct performance obligation based on the relative standalone selling price. The price that is regularly charged for an item when sold separately is the best evidence of its standalone selling price. In the absence of such evidence, the primary method used to estimate standalone selling price is the expected cost plus a margin, under which the Group estimates the cost of satisfying the performance obligation and then adds an appropriate margin based on similar services.
+
+The Group's contracts may include variable consideration including rebates, volume discounts and penalties. The Group includes variable consideration as part of transaction price when there is a basis to reasonably estimate the amount of the variable consideration and when it is probable that a significant reversal of cumulative revenue recognized will not occur when the uncertainty associated with the variable consideration is resolved.
+
+Revenue on time-and-material and unit of work based contracts, are recognized as the related services are performed. Fixed price maintenance revenue is recognized ratably either on a straight-line basis when services are performed through an indefinite number of repetitive acts over a specified period or ratably using a percentage of completion method when the pattern of benefits from the services rendered to the customer and Group's costs to fulfil the contract is not even through the period of contract because the services are generally discrete in nature and not repetitive. Revenue from other fixed-price, fixed-timeframe contracts, where the performance obligations are satisfied over time is recognized using the percentage-of-completion method. Efforts or costs expended are used to determine progress towards completion as there is a direct relationship between input and productivity. Progress towards completion is measured as the ratio of costs or efforts incurred to date (representing work performed) to the estimated total costs or efforts. Estimates of transaction price and total costs or efforts are continuously monitored over the term of the contracts and are recognized in net profit in the period when these estimates change or when the estimates are revised. Revenues and the estimated total costs or efforts are subject to revision as the contract progresses. Provisions for estimated losses, if any, on incomplete contracts are recorded in the period in which such losses become probable based on the estimated efforts or costs to complete the contract.
+
+The billing schedules agreed with customers include periodic performance based billing and / or milestone based progress billings. Revenues in excess of billing are classified as unbilled revenue while billing in excess of revenues are classified as contract liabilities (which we refer to as unearned revenues).
+
+In arrangements for software development and related services and maintenance services, by applying the revenue recognition criteria for each distinct performance obligation, the arrangements with customers generally meet the criteria for considering software development and related services as distinct performance obligations. For allocating the transaction price, the Group measures the revenue in respect of each performance obligation of a contract at its relative standalone selling price. The price that is regularly charged for an item when sold separately is the best evidence of its standalone selling price. In cases where the Group is unable to determine the standalone selling price, the Group uses the expected cost plus margin approach in estimating the standalone selling price. For software development and related services, the performance obligations are satisfied as and when the services are rendered since the customer generally obtains control of the work as it progresses.
+
+Certain cloud and infrastructure services contracts include multiple elements which may be subject to other specific accounting guidance, such as leasing guidance. These contracts are accounted in accordance with such specific accounting guidance. In such arrangements where the Group is able to determine that hardware and services are distinct performance obligations, it allocates the consideration to these performance obligations on a relative standalone selling price basis. In the absence of standalone selling price, the Group uses the expected cost-plus margin approach in estimating the standalone selling price. When such arrangements are considered as a single performance obligation, revenue is recognized over the period and measure of progress is determined based on promise in the contract.
+
+Revenue from licenses where the customer obtains a 'right to use' the licenses is recognized at the time the license is made available to the customer. Revenue from licenses where the customer obtains a 'right to access' is recognized over the access period.
+
+Arrangements to deliver software products generally have three elements: license, implementation and Annual Technical Services (ATS). When implementation services are provided in conjunction with the licensing arrangement and the license and implementation have been identified as two distinct separate performance obligations, the transaction price for such contracts are allocated to each performance obligation of the contract based on their relative standalone selling prices. In the absence of standalone selling price for implementation, the Group uses the expected cost plus margin approach in estimating the standalone selling price. Where the license is required to be substantially customized as part of the implementation service the entire arrangement fee for license and implementation is considered to be a single performance obligation and the revenue is recognized using the percentage-of-completion method as the implementation is performed. Revenue from client training, support and other services arising due to the sale of software products is recognized as the performance obligations are satisfied. ATS revenue is recognized ratably on a straight-line basis over the period in which the services are rendered.
+
+Contracts with customers includes subcontractor services or third-party vendor equipment or software in certain integrated services arrangements. In these types of arrangements, revenue from sales of third-party vendor products or services is recorded net of costs when the Group is acting as an agent between the customer and the vendor, and gross when the Group is the principal for the transaction. In doing so, the Group first evaluates whether it obtains control of the specified goods or services before they are transferred to the customer. The Group considers whether it is primarily responsible for fulfilling the promise to provide the specified goods or services, inventory risk, pricing discretion and other factors to determine whether it controls the specified goods or services and therefore, is acting as a principal or an agent.
+
+A contract modification is a change in the scope or price or both of a contract that is approved by the parties to the contract. A contract modification that results in the addition of distinct performance obligations are accounted for either as a separate contract if the additional services are priced at the standalone selling price or as a termination of the existing contract and creation of a new contract if they are not priced at the standalone selling price. If the modification does not result in a distinct performance obligation, it is accounted for as part of the existing contract on a cumulative catch-up basis.
+
+The incremental costs of obtaining a contract (i.e., costs that would not have been incurred if the contract had not been obtained) are recognized as an asset if the Group expects to recover them.
+
+Certain eligible, nonrecurring costs (e.g. set-up or transition or transformation costs) that do not represent a separate performance obligation are recognized as an asset when such costs (a) relate directly to the contract; (b) generate or enhance resources of the Group that will be used in satisfying the performance obligation in the future; and (c) are expected to be recovered.
+
+Capitalized contract costs relating to upfront payments to customers are amortized to revenue and other capitalized costs are amortized to cost of sales over the respective contract life on a systematic basis consistent with the transfer of goods or services to customer to which the asset relates. Capitalized costs are monitored regularly for impairment. Impairment losses are recorded when present value of projected remaining operating cash flows is not sufficient to recover the carrying amount of the capitalized costs.
+
+The Group presents revenues net of indirect taxes in its interim Consolidated Statement of Comprehensive Income.
+
+Revenues for the three months ended June 30, 2025 and June 30, 2024 is as follows:
+
+| Particulars | Three months ended June 30, 2025 (Dollars in millions) | Three months ended June 30, 2024 (Dollars in millions) |
+|---|---:|---:|
+| Revenue from software services | 4,714 | 4,496 |
+| Revenue from products and platforms | 227 | 218 |
+| Total revenue from operations | 4,941 | 4,714 |

@@ -1,0 +1,52 @@
+---
+document_name: "Infosys_23042026170027_outcome.md"
+group_id: "Infosys_23042026170027_outcome__group_036"
+source_section_count: 2
+estimated_tokens: 6185
+source_section_ids:
+  - "Infosys_23042026170027_outcome__063"
+  - "Infosys_23042026170027_outcome__064"
+---
+---
+section_title: Report on the Audit of the Standalone Financial Statements
+section_description: This section contains the auditor's opinion, basis for opinion, and key audit matters for Infosys Limited's standalone financial statements for the year ended March 31, 2026. It discusses revenue recognition matters and related audit procedures.
+topics:
+  - Standalone financial statements
+  - Auditor's opinion
+  - Basis for opinion
+  - Key audit matters
+  - Revenue recognition
+  - Fixed price contracts
+  - Principal versus agent assessment
+sample_queries:
+  - What opinion did the auditor give on Infosys Limited's standalone financial statements?
+  - Which financial statements were audited for the year ended March 31, 2026?
+  - What standards did the auditor follow in conducting the audit?
+  - Why was revenue recognition identified as a key audit matter?
+  - How did the auditor assess whether Infosys acted as principal or agent?
+  - What audit procedures were performed for contracts with customers?
+  - Why were fixed price contracts using the percentage of completion method considered a key audit matter?
+---
+
+## TO THE MEMBERS OF INFOSYS LIMITED
+
+## Report on the Audit of the Standalone Financial Statements
+
+## Opinion
+
+We have audited the accompanying standalone financial statements of INFOSYS LIMITED (the "Company"), which comprise the Balance Sheet as at March 31, 2026, the Statement of Profit and Loss (including Other Comprehensive Income), the Statement of Changes in Equity and the Statement of Cash Flows for the year ended on that date and notes to the financial statements, including a summary of material accounting policies and other explanatory information (hereinafter referred to as the "Standalone Financial Statements").
+
+In our opinion and to the best of our information and according to the explanations given to us, the aforesaid Standalone Financial Statements give the information required by the Companies Act, 2013 (the "Act") in the manner so required and give a true and fair view in conformity with the Indian Accounting Standards prescribed under section 133 of the Act ("Ind AS") and other accounting principles generally accepted in India, of the state of affairs of the Company as at March 31, 2026, its profit, and other comprehensive income, changes in equity and its cash flows for the year ended on that date.
+
+## Basis for Opinion
+
+We conducted our audit of the Standalone Financial Statements in accordance with the Standards on Auditing ("SA"s) specified under section 143(10) of the Act. Our responsibilities under those Standards are further described in the Auditor's Responsibilities for the Audit of the Standalone Financial Statements section of our report. We are independent of the Company in accordance with the Code of Ethics issued by the Institute of Chartered Accountants of India ("ICAI") together with the ethical requirements that are relevant to our audit of the Standalone Financial Statements under the provisions of the Act and the Rules made thereunder, and we have fulfilled our other ethical responsibilities in accordance with these requirements and the ICAI's Code of Ethics. We believe that the audit evidence obtained by us is sufficient and appropriate to provide a basis for our audit opinion on the Standalone Financial Statements.
+
+## Key Audit Matters
+
+Key audit matters are those matters that, in our professional judgment, were of most significance in our audit of the Standalone Financial Statements of the current period. These matters were addressed in the context of our audit of the Standalone Financial Statements as a whole, and in forming our opinion thereon, and we do not provide a separate opinion on these matters. We have determined the matters described below to be the key audit matters to be communicated in our report.
+
+| Sr. No. | Key Audit Matter | Auditor's Response |
+|---|---|---|
+| 1 | **Revenue recognition**<br><br>The Company's contracts with customers include contracts with multiple products and services. The Company derives revenues from IT services comprising software development and related services, maintenance, consulting and package implementation, licensing of software products and platforms across the Company's core and digital offerings and business process management services. The Company assesses the services promised in a contract and identifies distinct performance obligations in the contract. Identification of distinct performance obligations to determine the deliverables and the ability of the customer to benefit independently from such deliverables involves significant judgement.<br><br>In certain integrated services arrangements, contracts with customers include subcontractor services or third-party vendor equipment or software. In these types of arrangements, revenue from sales of third-party vendor products or services is recorded net of costs when the Company is acting as an agent between the customer and the vendor, and gross when the Company is the principal for the transaction. In doing so, the Company first evaluates whether it obtains control of the specified goods or service before it is transferred to the customer.<br><br>As certain contracts with customers involve management's judgment in (1) identifying distinct performance obligations, (2) determining whether the Company is acting as a principal or an agent and (3) whether fixed price maintenance revenue is recognized on a straight-line basis or using the percentage of completion method, revenue recognition from these judgments were identified as a key audit matter and required a higher extent of audit effort. Refer Notes 1.4 and 2.18 to the Standalone Financial Statements. | Principal Audit Procedures Performed included the following:<br><br>Our audit procedures related to the (1) identification of distinct performance obligations, (2) determination of whether the Company is acting as a principal or agent and (3) whether fixed price maintenance revenue is recognized on a straight-line basis or using the percentage of completion method included the following, among others:<br><br>- We tested the effectiveness of controls relating to the (a) identification of distinct performance obligations, (b) determination of whether the Company is acting as a principal or an agent and (c) determination of whether fixed price maintenance revenue for certain contracts is recognized on a straight-line basis or using the percentage of completion method.<br>- We selected a sample of contracts with customers and performed the following procedures:<br>- Obtained and read contract documents for each selection, including master service agreements, and other documents that were part of the agreement.<br>- Identified significant terms and deliverables in the contract to assess management's conclusions regarding the (i) identification of distinct performance obligations (ii) whether the Company is acting as a principal. |
+| 2 | **Revenue recognition - Fixed price contracts using the percentage of completion method**<br><br>Provisions for estimated losses, if any, on uncompleted contracts are recorded in the period in which such losses become probable based on the estimated efforts or costs to complete the contract. We identified the estimate of total efforts or costs to complete fixed price contracts measured using the percentage of completion method as a key audit matter as the estimation of total efforts or costs involves significant judgement and is assessed throughout the period of the contract to reflect any changes based on the latest available information. This estimate has a high inherent uncertainty and requires consideration of progress of the contract, efforts or costs incurred to-date and estimates of efforts or costs required to complete the remaining contract performance obligations over the term of the contracts. This required a high degree of auditor judgment in evaluating the audit evidence and a higher extent of audit effort to evaluate the reasonableness of the total estimated amount of revenue recognized on fixed-price contracts. Refer Notes 1.4 and 2.18 to the Standalone Financial Statements. | Principal Audit Procedures Performed included the following:<br><br>Compared costs incurred to date to identify significant variations and evaluate whether those variations have been considered appropriately in estimating the remaining costs or efforts to complete the contract. Tested the estimate for consistency with the status of delivery of milestones and customer acceptances and sign off from customers to identify possible delays in achieving milestones, which require changes in estimated costs or efforts to complete the remaining performance obligations. |

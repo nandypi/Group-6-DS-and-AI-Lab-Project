@@ -2,8 +2,6 @@
 document_name: "Infosys_10112025172147_SE_PublicAnnouncement_10112025.md"
 group_id: "Infosys_10112025172147_SE_PublicAnnouncement_10112025__group_009"
 source_section_count: 1
-page_start: 12
-page_end: 13
 estimated_tokens: 4136
 source_section_ids:
   - "Infosys_10112025172147_SE_PublicAnnouncement_10112025__015"

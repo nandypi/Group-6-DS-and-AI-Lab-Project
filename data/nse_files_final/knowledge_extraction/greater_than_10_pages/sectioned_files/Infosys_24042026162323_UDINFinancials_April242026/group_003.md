@@ -2,8 +2,6 @@
 document_name: "Infosys_24042026162323_UDINFinancials_April242026.md"
 group_id: "Infosys_24042026162323_UDINFinancials_April242026__group_003"
 source_section_count: 2
-page_start: 12
-page_end: 17
 estimated_tokens: 5008
 source_section_ids:
   - "Infosys_24042026162323_UDINFinancials_April242026__005"

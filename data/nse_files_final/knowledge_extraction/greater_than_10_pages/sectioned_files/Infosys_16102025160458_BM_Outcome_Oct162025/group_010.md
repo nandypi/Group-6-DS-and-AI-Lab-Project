@@ -2,8 +2,6 @@
 document_name: "Infosys_16102025160458_BM_Outcome_Oct162025.md"
 group_id: "Infosys_16102025160458_BM_Outcome_Oct162025__group_010"
 source_section_count: 2
-page_start: 46
-page_end: 51
 estimated_tokens: 4573
 source_section_ids:
   - "Infosys_16102025160458_BM_Outcome_Oct162025__018"

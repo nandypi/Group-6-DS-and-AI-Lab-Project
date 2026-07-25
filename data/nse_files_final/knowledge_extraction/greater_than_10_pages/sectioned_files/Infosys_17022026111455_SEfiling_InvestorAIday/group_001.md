@@ -2,8 +2,6 @@
 document_name: "Infosys_17022026111455_SEfiling_InvestorAIday.md"
 group_id: "Infosys_17022026111455_SEfiling_InvestorAIday__group_001"
 source_section_count: 2
-page_start: 1
-page_end: 59
 estimated_tokens: 5997
 source_section_ids:
   - "Infosys_17022026111455_SEfiling_InvestorAIday__001"

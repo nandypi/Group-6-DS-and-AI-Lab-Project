@@ -2,8 +2,6 @@
 document_name: "Infosys_01072025210240_Form20F_July012025_1__1_.md"
 group_id: "Infosys_01072025210240_Form20F_July012025_1__1___group_035"
 source_section_count: 3
-page_start: 206
-page_end: 219
 estimated_tokens: 4956
 source_section_ids:
   - "Infosys_01072025210240_Form20F_July012025_1__1___066__part_002"

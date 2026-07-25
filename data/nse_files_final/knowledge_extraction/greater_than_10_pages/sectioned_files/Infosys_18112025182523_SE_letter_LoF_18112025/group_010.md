@@ -2,8 +2,6 @@
 document_name: "Infosys_18112025182523_SE_letter_LoF_18112025.md"
 group_id: "Infosys_18112025182523_SE_letter_LoF_18112025__group_010"
 source_section_count: 3
-page_start: 50
-page_end: 55
 estimated_tokens: 6028
 source_section_ids:
   - "Infosys_18112025182523_SE_letter_LoF_18112025__012"

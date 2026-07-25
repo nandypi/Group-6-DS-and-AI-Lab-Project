@@ -1,0 +1,129 @@
+---
+document_name: "INFY_15062026210015_Form20F_June152026.md"
+group_id: "INFY_15062026210015_Form20F_June152026__group_023"
+source_section_count: 2
+estimated_tokens: 4048
+source_section_ids:
+  - "INFY_15062026210015_Form20F_June152026__044"
+  - "INFY_15062026210015_Form20F_June152026__045"
+---
+---
+section_title: Maintenance of Minimum Public Shareholding ('MPS') as a Condition for Continuous Listing
+section_description: This section describes Indian public shareholding, voting, insider trading, material contract, and currency exchange control rules relevant to Infosys. It also covers foreign direct investment, transfers of shares, and investment rules for non-resident Indians and overseas citizens of India.
+topics:
+  - Minimum public shareholding
+  - ADS voting rights
+  - Insider trading regulations
+  - Material contracts
+  - Currency exchange controls
+  - Foreign direct investment
+  - Share transfer restrictions
+  - NRI and OCI investments
+sample_queries:
+  - What methods can listed Indian companies use to meet minimum public shareholding requirements?
+  - What was Infosys' public shareholding as of March 31, 2026?
+  - How can ADS holders instruct the Depositary to vote shares underlying ADSs?
+  - What disclosures are required under India's Insider Trading Regulations?
+  - What material contracts does Infosys describe in this section?
+  - What foreign direct investment restrictions apply to Infosys under Indian law?
+  - What pricing rules apply to private transfers of shares between residents and non-residents?
+  - What limits apply to equity instrument purchases by NRIs and OCIs?
+---
+
+## Maintenance of Minimum Public Shareholding ('MPS') as a Condition for Continuous Listing
+
+The Securities Contracts (Regulation) Rules, 1957 were amended on June 4, 2010, to make it mandatory for all listed companies in India to have a minimum public shareholding of 25%. The term 'public shareholding' for these purposes means equity shares of the company held by the public and includes shares underlying depository receipts if (i) the holder of such depository receipts has the right to issue voting instruction and (ii) such depository receipts are listed on an international exchange in accordance with the Depository Receipt Scheme, 2014. Equity shares of a company held by a trust set up for implementing employee benefit schemes under the regulations framed by the SEBI is excluded from 'public shareholding'.
+
+Existing listed companies having a lower public shareholding are required to reach the prescribed threshold of 25% by:
+
+- a. Sale of shares held by promoter(s) / promoter group in the open market in any one of the following ways, subject to compliance with the conditions specified:
+  - i. Promoter(s) / Promoter group can sell up to 2% of the total paid-up equity share capital of the listed entity, subject to five times' average monthly trading volume of the shares of the listed entity, every financial year till the due date for MPS compliance as per the SCRR; or
+  - ii. Promoter(s) / Promoter group can sell up to a maximum of 5% of the paid-up capital of the listed entity during a financial year subject to the condition that the public holding in the listed entity shall become 25% after completion of such sale. The sale can be a single tranche or in multiple tranches not exceeding a period of 12 months and the amount of shares to be sold shall not exceed the trading volume of the shares of the listed entity during the preceding 12 months from the date of announcement; or
+- b. Allotment of eligible securities through qualified institutional placement in terms of Chapter VI of the SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018; or
+- c. Issuance of shares to the public through a prospectus; or
+- d. Offers for sale of shares held by promoters / promoter group to the public through a prospectus; or
+- e. Sale of shares held by promoters through the Stock Exchange mechanism i.e., the secondary market, in terms of circular reference no. SEBI/HO/MRD/MRD-PoD-3/P/CIR/2023/10 dated January 10, 2023; or
+- f. Rights issues to public shareholders, with promoter / promoter group shareholders forgoing their entitlement to equity shares, whether present or future, that may arise from such issue; or
+- g. Bonus issues to public shareholders, with promoter / promoter group shareholders forgoing their entitlement to equity shares, whether present or future, that may arise from such issue; or
+- h. Increase in public holding pursuant to exercise of options and allotment of shares under an employee stock option (ESOP) scheme, subject to a maximum of 2% of the paid-up equity share capital of the listed entity. Transfer of shares held by the promoter(s) / promoter group to an Exchange Traded Fund (ETF) managed by a SEBI-registered mutual fund, subject to a maximum of 5% of the paid-up equity share capital of the listed entity; or
+- i. Any other method as may be approved by SEBI on a case to case basis.
+
+As of March 31, 2026, our public shareholding was approximately at 85.38%.
+
+## Voting Rights of Deposited Equity Shares Represented by ADSs
+
+Under Indian law, voting in relation to the equity shares is by show of hands unless a poll is demanded by a member, or members present in person or by proxy holding at least 10% of the total shares entitled to vote on the resolution or by those holding shares on which an aggregate sum of not less than ₹5,00,000 or such higher amount as may be prescribed has been paid-up. However, every company whose equity shares are listed on a recognized stock exchange and every company having not less than one thousand members shall provide to its members a facility to exercise their right to vote on resolutions proposed to be considered at a general meeting by electronic means. The Listing Regulations now provide that an e-voting facility must be mandatorily provided to shareholders in respect of all shareholders' resolutions to in accordance with the procedure prescribed in the Indian Companies Act, 2013.
+
+As soon as practicable after receipt of notice of any general meetings or solicitation of consents or proxies of holders of shares or other deposited securities, our Depositary shall fix a record date for determining the holders entitled to give instructions for the exercise of voting rights. The Depositary shall then mail to the holders of ADSs a notice stating (i) such information as is contained in such notice of meeting and any solicitation materials, (ii) that each holder on the record date set by the Depositary will be entitled to instruct the Depositary as to the exercise of the voting rights, if any pertaining to the deposited securities represented by the ADSs evidenced by such holder's ADRs, (iii) the manner in which such instruction may be given, including instructions to give discretionary proxy to a person designated by us, and (iv) as per the agreement with the Depositary if the Depositary does not receive instructions from a holder, he would be deemed to have instructed the Depositary to give a discretionary proxy to a person designated by us to vote such deposited securities, subject to satisfaction of certain conditions.
+
+As per the agreement with the Depositary, on receipt of the aforesaid notice from the Depositary, our ADS holders may instruct the Depositary on how to exercise the voting rights for the shares that underlie their ADSs. For such instructions to be valid, the Depositary must receive them on or before a specified date.
+
+The Depositary will try, as far as is practical, and in accordance with the terms of the agreement and subject to the provisions of Indian law and our Memorandum of Association and our Articles of Association, to vote or to have its agents vote in relation to the shares or other deposited securities as per our ADS holders' instructions. The Depositary will only vote or attempt to vote as per an ADS holder's instructions. The Depositary will not itself exercise any voting discretion.
+
+As per the agreement with the Depositary, neither the Depositary nor its agents are responsible for any failure to carry out any voting instructions, for the manner in which any vote is cast, or for the effect of any vote. There is no guarantee that our ADS holders will receive voting materials in time to instruct the Depositary to vote and it is possible that ADS holders, or persons who hold their ADSs through brokers, dealers or other third parties, will not have the opportunity to exercise a right to vote.
+
+## Insider Trading Regulations
+
+The Securities and Exchange Board of India (Prohibition of Insider Trading) Regulations, 2015 ("Insider Trading Regulations") covers within its ambit both listed and proposed to be listed securities and in addition with trading, also specifies that communication or procuring unpublished price sensitive information in violation of the Insider Trading Regulations as an offence. In terms of the Insider Trading Regulations, the promoters, members of promoter group, key managerial personnel and directors of a company are required to disclose their respective holding of securities of the company within seven days of their appointment or becoming a promoter or members of promoter group.
+
+Further, every promoter, members of promoter group, designated person and director of a company is required to disclose to the company the number of securities acquired or disposed of by such individual within two trading days of a transaction, if the value of the securities traded, whether in one transaction or a series of transactions over any calendar quarter, aggregates to a traded value in excess of ₹1,000,000 or such other value as may be prescribed. The company is required to notify the stock exchanges where its securities are listed within two trading days of receipt of such disclosure or becoming aware of such information. Any company whose securities are listed on a stock exchange may, at its discretion, require any other connected person or class of connected persons to make disclosures of holdings and trading in securities of the company in such form and at such frequency as may be determined by the company in order to monitor compliance with Insider Trading Regulations.
+
+## MATERIAL CONTRACTS
+
+At the 2022 AGM, the Board and Shareholders approved the reappointment of Salil Parekh as Chief Executive Officer and Managing Director of the Company, with a term commencing on July 1, 2022, and ending on March 31, 2027, and approved the execution of his employment agreement.
+
+Salil Parekh's employment agreement provides for an annual salary, variable pay, stock compensation, employee benefits, vacation, expenses, minimum and maximum remuneration. The agreement also provides that Salil Parekh and the Company will provide each other with 90 days' notice prior to terminating the agreement for reasons other than Cause or Good Reason (each as defined in the agreement). Salil Parekh may be entitled to severance benefits depending on the circumstances of his termination of employment.
+
+The Company has not entered into any material contracts, other than contracts with its CEO during the two years immediately preceding publication of this Form 20-F. The employment agreement has been filed previously with our Annual Report on Form 20-F.
+
+We have also entered into agreements to indemnify our directors and officers for claims brought against them to the fullest extent permitted under applicable law. These agreements, among other things, indemnify our directors and officers for certain expenses, judgments, fines and settlement amounts incurred by any such person in any action or proceeding, including any action by or in the right of Infosys Limited, arising out of such persons' services as our director or officer, expenses in relation to public relation consultation if required. The form of indemnification agreements for directors and officers has been filed previously with our Annual Report on Form 20-F.
+
+## CURRENCY EXCHANGE CONTROLS
+
+## General
+
+The subscription, purchase and sale of shares of an Indian company are governed by various Indian laws restricting the issuance of shares by the Company to non-residents or subsequent transfer of shares by or to non-residents. These restrictions have been relaxed in recent years. Set forth below is a summary of various forms of investment, and the restrictions applicable to each, including the requirements under Indian law applicable to the issuance of ADSs.
+
+## Foreign Direct Investment Issuances by the Company
+
+The Government of India, pursuant to its liberalization policy, introduced the Foreign Exchange Management Act, 1999, which along with the rules, regulations and notifications issued thereunder, regulates all Foreign Direct Investment ("FDI") in India. FDI means investments through equity instruments by a person residing outside India in an unlisted Indian company; or in 10% or more of the post issue paid-up equity capital on a fully diluted basis of a listed Indian company. Regulatory approval is required for investment in some sectors, including defense and certain strategic industries. Also, the following investments would require prior regulatory permission:
+
+- Foreign investments, including a transfer of shares, in excess of foreign investment limits; and
+- All proposals relating to transfer of control and/or ownership pursuant to amalgamation, merger or acquisition of an Indian company currently owned or controlled by resident Indian citizens and Indian companies, which are owned or controlled by resident Indian citizens to a non-resident entity, the activities of which company are not under the 'automatic' route under existing Indian foreign investment policy.
+
+Subject to certain conditions, under the extant Consolidated FDI Policy (effective from October 15, 2020), FDI in most industry sectors does not require prior approval of Government of India or the RBI, if the percentage of equity holding by all foreign investors does not exceed specified industry-specific thresholds. These conditions include certain minimum pricing requirements, compliance with the Takeover Code (as described above), and ownership restrictions based on the nature of the foreign investor (as described below). Purchases by foreign investors of ADSs are treated as direct foreign investment in the equity issued by Indian companies for such offerings. Foreign investment of up to 100% of our share capital is currently permitted by Indian laws.
+
+With a view to safeguard domestic organizations from hostile or opportunistic acquisitions in the midst of the COVID-19 pandemic, by way of the Foreign Exchange Management (Non-debt Instruments) Amendment Rules, 2020 issued on April 22, 2020, the Ministry of Finance has made the prior approval of the Government mandatory for receiving foreign investments (including the subsequent transfer of ownership), on or after April 22, 2020, from countries that share land border with India, and also in cases where the beneficial owner of such foreign investment (both at the time of investment and any change thereafter due to transfer of ownership) is situated in or is a citizen of a country sharing land border with India.
+
+On March 10, 2026, the Government of India issued a press release in relation to approval of amendments to the Consolidated FDI Policy inter alia stating that investments from countries sharing land border with India which result in a non-controlling beneficial ownership of up to 10% being held by such investor(s) shall be permitted under the automatic route as per the applicable sectoral caps, entry routes and attendant conditions, subject to the reporting of relevant information/details by the investee entity to the Department for Promotion of Industry and Internal Trade, Ministry of Commerce & Industry, Government of India. The formal amendment to the Consolidated FDI Policy in this regard is awaited.
+
+## Subsequent Transfers
+
+Restrictions for subsequent transfers of shares of Indian companies between residents and non-residents were relaxed significantly as of October 2004. As a result, for a transfer by way of a private arrangement between a resident and a non-resident of securities of an Indian company in the IT sector, such as ours, no prior approval of either the RBI or the Government of India is required, as long as certain conditions are met. These conditions include compliance, as applicable, with pricing guidelines, the Takeover Code (as described above), and the ownership restrictions based on the nature of the foreign investor (as described below).
+
+In case of a sale of shares of a listed Indian company by a resident to a non-resident investor (investing under the FDI route), the minimum price per share payable by a non-resident to the resident to acquire the shares cannot be less than the higher of (such price, 'Preferential Allotment Floor Price'):
+
+- a. The 90 trading days' volume weighted average price of the related equity shares quoted on the recognized stock exchange prior to the relevant date; or
+- b. The 10 trading days' volume weighted average prices of the related equity shares quoted on the recognized stock exchange prior to the relevant date.
+
+Provided that if the Articles of Association of the issuer provide for a method of determination which results in a floor price higher than that determined as per the above, then the same shall be considered as the floor price for the aforesaid transfer of equity shares of a listed company.
+
+In case of a sale of shares of a listed Indian company by a non-resident (who had invested under the FDI route) to a resident, the price of shares transferred by a non-resident to a resident in India should not exceed the price worked out in accordance with the relevant SEBI guidelines, specifically the Preferential Allotment Floor Price. Transfer of equity shares by a non-resident (who had invested under the FDI route) on the floor of the Indian stock exchanges is permitted in the manner prescribed under the SEBI regulations.
+
+A non-resident cannot acquire shares of a listed company on the floor of a stock exchange unless such non-resident is (a) registered as FPI with the SEBI; or (b) NRI; or (c) an individual resident outside India who is registered as an overseas citizen of India cardholder under the Citizenship Act, 1955 ("OCIs") or (d) investing through FDI route and has already acquired control of such company in accordance with Takeover Code and continues to hold such control, and in each of the cases above, subject to the provisions of Foreign Exchange Management (Non-debt Instruments) Rules, 2019 (as amended from time to time) read with the Consolidated FDI Policy.
+
+The conditions prescribed for investment by a non-resident on the floor of the stock exchange under the FDI route, are as follows:
+
+- i. The non-resident investor should have already acquired and continues to hold control in accordance with the Takeover Code;
+- ii. The amount of consideration for transfer of shares to non-resident consequent to purchase on the stock exchange may be paid as per the mode of payment specified by the Reserve Bank or out of the dividend payable by Indian investee company, in which the said non-resident has acquired and continues to hold control in accordance with Takeover Code provided the right to receive dividend is established and the dividend amount has been credited to a specially designated non-interest bearing rupee account for acquisition of shares on the recognized stock exchange;
+- iii. The original and resultant investments are in line with the extant foreign direct investment policy and the regulations under the Foreign Exchange Management Act, 1999 in respect of sectoral cap, entry route, reporting requirement and documentation.
+
+Transfers of shares or fully and compulsorily convertible debentures of the company, by way of sale or gift, between two non-residents (other than NRI, OCI or erstwhile OCB) are not subject to RBI approvals or pricing restrictions. However, for sectors in which foreign direct investment requires prior Government approval (foreign direct investment in the information technology sector does not require prior Government approval), approval from the Government of India will be required for a transfer between two non-residents.
+
+## Investment by Non-Resident Indians and Overseas Citizens of India
+
+NRIs and OCIs are permitted to purchase or sell equity instruments[^1] of a listed Indian company on repatriation basis, on a recognized stock exchange in India through a branch designated by an authorized dealer for this purpose. An NRI or OCI can purchase up to 5% of the total paid-up equity capital on a fully diluted basis or should not exceed 5% of the paid-up value of each series of debentures or preference shares or share warrants issued by an Indian company, subject to the condition that the total holdings of all NRIs and OCIs together does not exceed 10% of the total paid-up equity capital on a fully diluted basis or should not exceed 10% of the paid-up value of each series of debentures or preference shares or share warrants. The 10% ceiling may be exceeded if a special resolution is passed in a general meeting of the shareholders of a company, subject to an overall ceiling of 24%. In addition, NRIs may also make FDI in Indian companies pursuant to the FDI route discussed above.
+
+Overseas corporate bodies controlled by NRIs ("OCBs"), were previously permitted to invest on favorable terms under the Portfolio Investment Scheme. The RBI no longer recognizes OCBs as an eligible class of investment vehicle under various routes and schemes under the foreign exchange regulations.
+
+[^1]: Rule 2(k) of the Foreign Exchange Management (Non-debt Instruments) Rules, 2019 (as amended from time to time), defines 'equity instruments' to mean equity shares, convertible debentures, preference shares and share warrants issued by an Indian company. Explanation: (i) Equity shares by an Indian company issued in accordance with the provisions of the Indian Companies Act, 2013 or any other applicable law shall include equity shares that have been partly paid. 'Convertible debentures' means fully and mandatorily convertible debentures which are fully paid. 'Preference shares' means fully and mandatorily convertible preference shares which are fully paid. Share Warrants are those issued by an Indian company in accordance with the regulations by the SEBI, the Indian Companies Act, 2013 or any other applicable law. Equity instruments can contain an optionality clause subject to a minimum lock-in period of one year or as prescribed for the specific sector, whichever is higher, but without any option or right to exit at an assured price. (ii) Partly paid shares that have been issued to a person resident outside India shall be fully called-up within twelve months of such issue or as may be specified by the RBI from time to time. Twenty-five per cent of the total consideration amount (including share premium, if any) shall be received upfront. (iii) In case of share warrants, at least twenty-five per cent of the consideration shall be received upfront and the balance amount within eighteen months of the issuance of share warrants.

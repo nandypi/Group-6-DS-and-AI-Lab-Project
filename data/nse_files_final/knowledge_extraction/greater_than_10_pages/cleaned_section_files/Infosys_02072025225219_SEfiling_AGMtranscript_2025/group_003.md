@@ -1,0 +1,265 @@
+---
+document_name: "Infosys_02072025225219_SEfiling_AGMtranscript_2025.md"
+group_id: "Infosys_02072025225219_SEfiling_AGMtranscript_2025__group_003"
+source_section_count: 2
+estimated_tokens: 4221
+source_section_ids:
+  - "Infosys_02072025225219_SEfiling_AGMtranscript_2025__005"
+  - "Infosys_02072025225219_SEfiling_AGMtranscript_2025__006"
+---
+---
+section_title: "A.G.S. Manikantha"
+section_description: "This section contains shareholder questions and comments from Infosys' 44th Annual General Meeting. Topics include FY 2025-26 growth expectations, AI adoption, employee policies, attrition, margins, subsidiary investments, India revenue, dividends, buybacks, bonuses, share split requests, and AGM format."
+topics:
+  - "Shareholder questions"
+  - "FY 2025-26 growth expectations"
+  - "AI adoption and workforce impact"
+  - "Employee policies and recruitment"
+  - "Segment margins and revenue mix"
+  - "Subsidiary investments and foundation accounts"
+  - "Dividend, buyback, bonus, and share split requests"
+  - "Hybrid AGM requests"
+sample_queries:
+  - "What questions did shareholders ask about Infosys' FY 2025-26 growth outlook?"
+  - "Which shareholders requested a buyback, bonus, or share split?"
+  - "What concerns were raised about AI adoption and possible manpower reduction?"
+  - "What questions were asked about Infosys' attrition rate and segment margins?"
+  - "What did shareholders ask about Infosys Singapore and foundation account disclosures?"
+  - "What comments were made about Infosys' India revenue contribution?"
+  - "Which shareholders requested hybrid or physical AGM arrangements?"
+  - "What employee-related questions were raised by shareholders?"
+---
+
+## A.G.S. Manikantha
+
+Thank you, Mr. Santosh. Now, I request the next shareholder, Mr. Uday K. Jagannathan. Mr. Uday, kindly go ahead and ask your question.
+
+We will move to the next shareholder, Mr. Anil Mehta. Mr. Anil Mehta, kindly go ahead and ask your question.
+
+## Anil Mehta
+
+Hello, am I audible?
+
+## A.G.S. Manikantha
+
+Yes, we are able to hear you, Sir. Kindly go ahead and ask.
+
+## Anil Mehta
+
+Thank you, Sir. Good afternoon. This is Anil Mehta. I attend this meeting from Bombay. I have only one question regarding what is the present (unclear audio), looking at the trade war and the present situation with our neighbor country and also the present repo rate, how much growth can we expect in the current FY 2025-26?
+
+With this, we are supporting all the resolutions and thanks for the secretarial department, led by Mr. Manikantha, for the cooperation and support. Thank you, all the best.
+
+## A.G.S. Manikantha
+
+Thank you, Mr. Anil Mehta. Now, I will request the next shareholder, Dilip Kumar Das. Mr. Dilip Kumar Das, kindly go ahead and ask your question.
+
+## Dilip Kumar Das
+
+Can you hear me, Sir?
+
+## A.G.S. Manikantha
+
+Yes Sir, we can hear you. Please go ahead.
+
+## Dilip Kumar Das
+
+Good evening, respected Chairman Sir and all other Board members of Infosys and my online fellow shareholders who are watching this meeting announced by our Company which is grand success. Sir, this is my first meeting with Infosys. I, Dilip Kumar Das, shareholder and executive member of Kolkata Welfare Association of Small Shareholders.
+
+Sir, very good investor service. I have received my beautiful annual report which is A1, there is no doubt. Thanks to entire secretarial team for this very good tagline: Infosys Navigate your Next. Sir, good dividend with good CSR activities also. Good recruitment, new employees 3,20,000 from choosing 15,000 college.
+
+May I question, Sir? Is there any provision or policy recruitment for qualified employees from shareholders quota? If no, think about it, Sir.
+
+My second question is Government of India introduced paternity leave. What is our thinking for introducing this in this matter for our male employees?
+
+Sir, I have supported all the resolutions through e-voting and full trust of our famous super management team under your leadership. Lastly, I wish you and your entire Infosys team for good health and prosperity. Myself, Dilip Kumar Das, over to you for further proceedings. Namaskar.
+
+## A.G.S. Manikantha
+
+Namaskara. Thank you, Mr. Dilip Kumar Das. Now, I will request the next shareholder, Mr. Dinesh G. Bhatia, to kindly go ahead and ask the question.
+
+## Dinesh G. Bhatia
+
+Hello, am I audible, Sir?
+
+## A.G.S. Manikantha
+
+Yes, Sir.
+
+## Dinesh G. Bhatia
+
+Mere awaaz sunai deta hai, Sir? (Can you hear me, Sir?)
+
+## A.G.S. Manikantha
+
+Yes Sir, we can hear you, Sir. Please go ahead with your question.
+
+## Dinesh G. Bhatia
+
+First, congrats, Chairman ji, you and your entire team that you are doing very excellent work. It shows in our current BSE price. Because of your achievement, our share price today closed on BSE ₹1,615. It is your achievement, you are doing excellent service, excellent work. Therefore, our shares are quoted at such a good price.
+
+You and your team, MD, also given presentation in this meeting. So we get many things from you, very excellent work we are doing in AI technology, we generate 400 projects. It is good, a good thing. It is proud for us that we are a good company's shareholder.
+
+But my one suggestion is that, Sir, if we got such a cash flow, lot of cash flow, why we are not putting the buyback scheme? Because of that, our share price, our capital is too much, ₹2,076 crore. So, if our capital reduced, then our price will reflect and our profit will be gone up on equity, Sir.
+
+Because we seen our peer group, all companies shares are ₹1 or ₹2. Our peer group, this HCL is ₹2 share quoted in market ₹1,716 and our share is ₹5, is quoted on ₹1,615. We think we are doing, you are doing a lot of work. You are doing a very good excellent work. Our revenue is also, our sales is also excellent. Our sales is ₹34,136 crore. It is good, Sir.
+
+In our BSE side, when we look that our peer group, we are No. 2 on sales and I would like to know, we are in India No. 2 for (missing audio). On price on BSE, we think our peer group person HCL Technologies ₹2 share quoted. So, if it is possible, I think you do buyback scheme. If our equity reduced, then our profit, EPS go more.
+
+And second thing, my suggestion is that we are ever watching that we get something more and more from you. You are given excellent dividend, total ₹43 per share, it is good, ₹21 and ₹22, it is good one. But we think if it is possible, Sir, you split our share or ₹5 share. If you split ₹1, then there is no reflex on Balance Sheet or P and L account. Only our share quantity will be increased, and if our share quantity will be increased, then our price will be going higher and higher, more and more trading going. So, if it is possible, your next meeting, you try to think about this split and buyback.
+
+Your service is excellent, your work is excellent and our secretarial department is also excellent, not only good or very good, but very excellent because they update us, they guide us. So, we are happy, your entire team, so also your secretary and secretarial team is very excellent. Thank you for giving me chance on this video meeting. I am speaking from Mumbai, Dinesh Bhatia. Thank you. All the best.
+
+## A.G.S. Manikantha
+
+Thank you, Mr. Dinesh. Now I will request the next shareholder, Tamal Kumar Majumder to kindly go ahead and ask the question.
+
+## Tamal Kumar Majumder
+
+Yes, Sir. Respected Mr. Nilekani, Mr. Parekh and other directors of the company. Myself, Tamal Kumar Majumder, an equity shareholder from Kolkata. I want to add to Mr. Salil Parekh's statement that 100 million, US $100 million number of clients, US $100 million actually decreased from 40 to 39 during the current year.
+
+Sir, I have following queries relating to auditor accounts and other matters.
+
+Sir, in your letter to us under the heading “An era of uncertainty”, you mentioned that the early learnings from Enterprise AI adoption gives us a glimpse of those potential challenges lie on the path ahead. Whether the potential challenges include huge reduction in manpower in the near future? And, further, our customers are showing more interest in AI model presented by our company. Would you share details in this aspect of foreseeable risk as mentioned in your letter to us?
+
+Sir, what is the reason for increase in attrition rate to 14.1% during Q4 of financial year 25 which is higher than TCS' 13.5%? What step the management has taken to decrease the rate?
+
+Sir, increase in revenue on consolidation basis was a mere 1.6%, 1.06% in comparison to financial year 24. How much of the said growth attributable to revenue growth and impact of exchange rate? What is your expectation from the current year? Do you expect any negative impact on our revenue during financial year 26 due to unprecedented levels of uncertainty noticed globally?
+
+Sir, it is noted from page 103 that margin from communication and life sciences decreased substantially from 20.5% to 17.5% and from 25.2% to 22.5%, respectively. Whereas in case of hi-tech, it decreased from 25.4% to 24.6%. Would you please share the reason for such decrease?
+
+Sir, if we compare our margin with market leader TCS, then we may notice that in manufacturing, TCS' margin was 32.7% against ours of 19.3%, life sciences TCS has 28% against ours of 22.5% and in communication, TCS has 20.9% against our 17.5% and so on. How do you look at these huge variations and our viewpoint in this respect (unclear audio)?
+
+Sir, it is noted from page 282-283 that the Company invested ₹4,317 crore in the equity of Infosys Singapore Private Limited. In addition to that, there lies an investment of 2,831 crore in redeemable preference shares of that company. What is the reason for such huge investment in the subsidiary?
+
+When I wanted to take a look at the subsidiary at our website, it was not available. Only audited accounts of four (audio unclear) subsidiaries were available there. Would you please share the reason for some huge investment in it? Why entire subsidiary accounts are not available in the company website?
+
+And Sir, the company is reluctant to share audited accounts of Infosys Foundation and Infosys Foundation USA for a long time with its shareholders. I strongly believe that we have every right to have a look at its audited accounts because our company used to contribute yearly to it. What was the total contribution to these 2 Foundations by our company during financial year 25? And I want to know the reason for non-disclosure of accounts of Infosys Foundation and Infosys Foundation USA to us?
+
+And lastly Sir, why we are not giving much stress to Indian sector? Its contribution is a mere 3% of total revenue during financial year 25. TCS' contribution from Indian segment is a whopping ₹22,660 crore during financial year 25, four times of our revenue from Indian operations. What steps the management is taking to increase its Indian footprint?
+
+And lastly, Sir, I have to thank our secretary, Mr. Manikantha, for sending me the hard copy of the annual report and keeping good relation with the shareholders. Thank you, Mr. Chairman, for allowing me to complete my question. Thank you.
+
+## A.G.S. Manikantha
+
+Thank you, Mr. Tamal Kumar Majumdaer. Now, I will request the next shareholder, Mr. Sunil Kumar Modak to kindly go ahead and ask the question.
+
+## Sunil Kumar Modak
+
+Hello…
+
+## A.G.S. Manikantha
+
+We can hear you, Sir, please go ahead.
+
+## Sunil Kumar Modak
+
+Good evening, Sir. Respected Chairman Nandan ji and other distinguished board of members and Company Secretary and my online fellow shareholders, myself Sunil Kumar Modak joining this VC meeting from city of Kolkata.
+
+Thank you, the entire secretarial department for rendering beautiful investor-friendly services. I am thankful to the management for registering me as a speaker to speak something on this platform.
+
+Employee strength 3,23,598 is a precious wealth of the Company. It is significant. Our country's contribution to revenue creation is merely 3.1%. Why it is so? Infosys a big name in the IT sector, having 292 offices in 59 countries. It is huge. It appears from the report revenue comes from North America and Europe are very insignificant?
+
+Strategy, strength and competitions are the main factors for companies' growth, which Infosys has. Thanks to the Company's excellent results for this financial year 2024-25 and I hope that our Company will do better in the coming years. I have already casted my vote and supporting all your resolutions and hope that our Company will do better in the coming years. With this, I conclude my speech and over to you for further proceedings. Thank you, Sir. Namaskar.
+
+## A.G.S. Manikantha
+
+Thank you, Mr. Sunil. Now I will request the next shareholder, Manjit Singh. Manjit Singh is joining us on audio. Mr. Manjit Singh, kindly go ahead and ask your question.
+
+Manjit Singh…
+
+We will move to the next shareholder, N. Prakash Chand Galada. Mr. N. Prakash Chand Galada, kindly go ahead and ask your question.
+
+## N. Prakash Chand Galada
+
+Good afternoon to everybody, to people on the Committees, Board and Chairman, my fellow shareholders and other background officers who helped me to join the meeting.
+
+First of all, our Company has been performing very well. It can be done through physical meeting or hybrid meeting. Probably that will be more better to go back if you are comfortable with this, the shareholders are not able to get the proper details of involvement.
+
+Then as per the SEBI guidelines, senior citizens who are the investors has been formed with RTA like KFIN, a toll-free number as well as register with them. Our register is also KFIN. Please try to have this thing so that round the year, senior citizens can talk to them over the phone rather than sending mails and waiting for the reply.
+
+Then one more point, 10 years' performance of our company is not traceable easily in the annual report which is exhaustive. I don't know whether I missed it or it is somewhere there.
+
+Last bonus by our Company was issued as late as 2019. It is long due now. If it is possible, you can think of that in your next Board meeting.
+
+This year's dividend is good, hope it is further improved and give a good returns in the coming years.
+
+The buyback has been probably possible, then please see that (unclear) for the coming year from the shareholders, not from the open market, but from the shareholders. Thank you. I close my discussion or presentation. Good day.
+
+## A.G.S. Manikantha
+
+Thank you, Mr. Prakash. Now I will request the next shareholder, Yusuf Yunus. Mr. Yusuf, kindly go ahead and ask your question.
+
+## Yusuf Yunus Rangwala
+
+Sir, very good afternoon, Sir, can you hear my voice? Good afternoon, Sir. Good afternoon, can you hear my voice?
+
+## A.G.S. Manikantha
+
+Good afternoon, please go ahead, Sir.
+
+## Yusuf Yunus Rangwala
+
+Sir, dividend as you mentioned. Dividend, you declared twice, Sir. One was the ₹21 interim dividend and final we declared ₹22, which make up for the ₹43. This is very excellent. Sir, I am very happy with our Company, secretarial department and specially all the people and all the staff.
+
+Sir, my humble request of ₹5 shares, why not split into? Today, our rate was solah sau pandrah (sixteen hundred fifteen), went down to, went down to very well. Why not split the share in ₹1, Sir? It is a humble request.
+
+Sir, many years have passed, you have not declared a bonus, Sir. What is your view regarding a bonus, Sir, because we are good company and we are having a very good reserve, Sir. This is my humble request, Sir. Why you not declare a bonus, Sir, when (unclear) history of the Infosys to declare many bonus and people are very happy with this company, Sir? And this is one of the excellent company, Sir?
+
+Why not arrange a small get-together for the people, Sir? Previously three years, we are keeping this meeting at (unclear) live conference. Now, please start that, now Corona is gone, Sir, so that we can meet. This is one…hamaare liye ek mauka hai, Sir. Next year se chaalu kare, Sir. (Unclear) Aap Leela mein rakhte the, aise aap rakhiye, Sir, hamaare liye ek mauka hai aapse milne ke liye.
+
+42nd annual general meeting and my best wishes for (disturbance). You are hearing my voice, Sir? Yes Sir. This is your 44th annual general meeting and my best wishes for (unclear). Sir, ho sake toh bonus de dijiye, Sir, and nothing more to add. Phoolon ki khushboo, kaliyon ki bahaar, aur Infosys ka saath.
+
+And I also wish our excellent Company Secretary, Manikantha Sir. He's a very excellent Company Secretary, aap unko sambhaalke rakhiye, Sir. Yeh Company ka asset hai, Sir. He's an asset for our Company, Infosys, Sir. Wishing you good luck. Vanakkam, Sir. And wishing from Mumbai, Sir, speaking from Mumbai, Sir. Vanakkam, Sir, vanakkam. Thank you, Sir. Jai Hind.
+
+## A.G.S. Manikantha
+
+Thank you, Mr. Yusuf. Now, I will request the next shareholder, Mr. Abhishek, kindly go ahead and ask your question. Mr. Abhishek.
+
+## Abhishek J.
+
+Hello, Sir. Can you hear me, Sir?
+
+## A.G.S. Manikantha
+
+Yes, I can hear you.
+
+## Abhishek J.
+
+First of all, I congratulate the management on the eve of 44th Annual General Body Meeting. Sir, trust all is well with you and your family in this challenging situation. Our Company deserves much more respect than the current market cap, after completing more than a decade of successful operations, profitability and becoming one of the strongest brand in the respective segment.
+
+Sir, first of all, I would like to know as of date, how many employees are there in the Company, I would like to know from you, Sir?
+
+And the Company is doing really good and we are really proud to be the shareholders of the Company and we really appreciate the management efforts, sincere efforts in bringing the Company to this particular extent and rewarding the minority shareholders in large numbers.
+
+Sir, I would request the management to kindly give some privilege to the investors or investors' children who are IT employee, who are IT employees, into the IT profession to get a job in Infosys, in case if they meet the criteria of our company. So, give privileges to the investor fraternity or the investors' children who are really capable to get employment in Infosys.
+
+Then, the Company has given an excellent performance and an excellent dividend. So, we really appreciate the management for their efforts and we hope that the Company will perform similarly in the years to come and reward the investor fraternity in good numbers.
+
+Sir, I would request, one humble request to the management, is to kindly consider hybrid AGMs in the years to come, because most of the shareholders are not able to join because of the digital challenges in the virtual platform. So, if you can see, even in today's AGM, there are certain shareholders who could not join because of the digital challenges. So, if you can kindly consider hybrid AGMs.
+
+Nowadays, most of the companies have started conducting hybrid. So, even if our company can take an initiative to conduct hybrid, it will be helpful for the management, for the investors to join physically as well as virtually from their place. So, that will be convenient and the management can also get the valuable points, suggestions and ideas that will be helpful for the management to empower in future.
+
+Sir, the company secretary and other team are very humble and always reachable. So, I really appreciate their sincere efforts and dedication towards the Company. I wish the Company and the Board of Directors a great success and prosperity in the coming future. And thank you for giving the opportunity, Sir. Hope to see you in the hybrid AGM next year. Thank you very much, Sir.
+
+## A.G.S. Manikantha
+
+Thank you, Mr. Abhishek. Now, I will request the next shareholder, Ashish… Ashish Shankar Bansal.
+
+## Ashish Shankar Bansal
+
+Respected Chairman and Board of Directors. First, I take phone to connecting to this AGM today. I request the Company Secretary team. Testing would not happen during the AGM time because today I cannot hear the Chairman speech. So, testing is going on. I already missed the Chairman's speech today.
+
+Also, one more request, please keep the speaker number on the screen, so other shareholder knows which number is going on? (Unclear audio) Please do not forget about the festival time to phone the shareholder. Thank you so much, Sir.
+
+## A.G.S. Manikantha
+
+Thank you, Mr. Ashish. The next shareholder, Reddeppa Gundluru. Mr. Reddeppa, kindly go ahead and ask your question.
+
+Mr. Reddeppa… Yeah, please go… Please go ahead Sir… Yes, we can hear you. Please go ahead.
+
+Mr. Reddeppa, can you hear us?
+
+## Reddeppa Gundluru
+
+Yes, Sir. Yes, Sir. Just a minute, Sir. Thank you. Am I visible now, Sir, clearly?

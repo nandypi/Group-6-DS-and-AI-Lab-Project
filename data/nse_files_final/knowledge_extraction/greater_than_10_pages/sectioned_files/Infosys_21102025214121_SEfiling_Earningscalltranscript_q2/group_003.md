@@ -2,8 +2,6 @@
 document_name: "Infosys_21102025214121_SEfiling_Earningscalltranscript_q2.md"
 group_id: "Infosys_21102025214121_SEfiling_Earningscalltranscript_q2__group_003"
 source_section_count: 4
-page_start: 22
-page_end: 38
 estimated_tokens: 7086
 source_section_ids:
   - "Infosys_21102025214121_SEfiling_Earningscalltranscript_q2__005"

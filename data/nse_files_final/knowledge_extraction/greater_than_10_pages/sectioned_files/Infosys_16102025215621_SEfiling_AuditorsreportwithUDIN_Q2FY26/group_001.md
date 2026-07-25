@@ -2,8 +2,6 @@
 document_name: "Infosys_16102025215621_SEfiling_AuditorsreportwithUDIN_Q2FY26.md"
 group_id: "Infosys_16102025215621_SEfiling_AuditorsreportwithUDIN_Q2FY26__group_001"
 source_section_count: 2
-page_start: 1
-page_end: 9
 estimated_tokens: 4438
 source_section_ids:
   - "Infosys_16102025215621_SEfiling_AuditorsreportwithUDIN_Q2FY26__001"

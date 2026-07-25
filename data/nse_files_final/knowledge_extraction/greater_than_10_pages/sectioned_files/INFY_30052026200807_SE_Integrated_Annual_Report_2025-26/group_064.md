@@ -2,8 +2,6 @@
 document_name: "INFY_30052026200807_SE_Integrated_Annual_Report_2025-26.md"
 group_id: "INFY_30052026200807_SE_Integrated_Annual_Report_2025-26__group_064"
 source_section_count: 1
-page_start: 290
-page_end: 298
 estimated_tokens: 7573
 source_section_ids:
   - "INFY_30052026200807_SE_Integrated_Annual_Report_2025-26__113"

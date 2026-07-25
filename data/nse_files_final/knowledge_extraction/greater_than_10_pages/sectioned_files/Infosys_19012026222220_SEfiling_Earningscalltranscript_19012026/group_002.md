@@ -2,8 +2,6 @@
 document_name: "Infosys_19012026222220_SEfiling_Earningscalltranscript_19012026.md"
 group_id: "Infosys_19012026222220_SEfiling_Earningscalltranscript_19012026__group_002"
 source_section_count: 2
-page_start: 11
-page_end: 22
 estimated_tokens: 4771
 source_section_ids:
   - "Infosys_19012026222220_SEfiling_Earningscalltranscript_19012026__003"

@@ -2,8 +2,6 @@
 document_name: "INFY_25032026221610_BM_Outcome_March252026.md"
 group_id: "INFY_25032026221610_BM_Outcome_March252026__group_002"
 source_section_count: 1
-page_start: 6
-page_end: 10
 estimated_tokens: 4002
 source_section_ids:
   - "INFY_25032026221610_BM_Outcome_March252026__002"

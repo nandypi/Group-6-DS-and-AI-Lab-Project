@@ -1,0 +1,207 @@
+---
+document_name: "Infosys_01072025210240_Form20F_July012025_1__1_.md"
+group_id: "Infosys_01072025210240_Form20F_July012025_1__1___group_018"
+source_section_count: 2
+estimated_tokens: 5266
+source_section_ids:
+  - "Infosys_01072025210240_Form20F_July012025_1__1___035"
+  - "Infosys_01072025210240_Form20F_July012025_1__1___036"
+---
+---
+section_title: Rewards & Recognition
+section_description: This section describes Infosys' employee recognition programs, workplace initiatives, recruitment, education and training, leadership development, visa status, share ownership, and stock incentive plans. It includes awards, workforce metrics, shareholding details, grants, and outstanding stock incentives.
+topics:
+  - Employee rewards and recognition
+  - Employee care and workplace culture
+  - Recruitment and workforce metrics
+  - Education and leadership development
+  - Awards and external recognition
+  - Share ownership
+  - Stock incentive plans
+sample_queries:
+  - What employee recognition programs does Infosys describe under the RISE model?
+  - How many employees did Infosys have as of March 31, 2025?
+  - What recruitment statistics did Infosys report for fiscal 2025?
+  - What learning platforms and training programs are described in the section?
+  - Which awards and recognitions did Infosys receive in 2024 and 2025?
+  - What share ownership was reported for Infosys directors and executive officers as of May 30, 2025?
+  - What were the grants made under the 2015 Plan and 2019 Plan during fiscal 2025, 2024, and 2023?
+---
+
+## REWARDS & RECOGNITION
+
+We have encouraged a performance-driven culture through our revamped R&R Program RISE, which stands for Real, Instant, Specific, and Excite. This model brings together different practices across units under a standardized umbrella and an integrated digital platform for an elevated experience.
+
+Some of the initiatives under the RISE model include Gracias, an appreciation portal for employees; Insta Awards, an initiative to enable managers to recognize their teams instantly; Unit & Integrated Account R&R, awards to promote and sustain high-performance work culture; Wow Awards, discretionary awards picked by leaders to acknowledge outstanding contributions; and PM Elite+, quarterly awards to recognize the best-managed projects and top project management talent.
+
+Over and above the Unit awards, we have the Infosys Awards For Excellence (AFE), which continued to garner overwhelming participation. The winners are picked after multiple levels of evaluations and audits. At all our DCs, we have the DC-level bi-annual/annual awards ceremonies held to recognize the best talent at the DC and their contributions to the DC and the organization.
+
+Sales Excellence Awards is the annual sales recognition program awarded during annual sales strategy meet - Connect. Stellar awards are given quarterly to sales employees, where winners are recognized at segment level. In addition, there are segment-level annual awards covering individuals and teams for outstanding performance announced during annual strategy meets for the segments.
+
+## EMPLOYEE CARE & CONNECT
+
+Infosys is an equal opportunity employer and is committed to creating a healthy working environment free of any form of harassment or discrimination. We believe in maintaining a positive work environment, thereby fostering a culture of mutual respect, wherein employees can look forward to coming to work every single day. Resolution Hubs at Infosys ensure that employee concerns, if any, are resolved in the most efficient manner. For any concerns raised by an employee, an investigation is conducted by a neutral panel to ensure fairness.
+
+- ASHI: Our assurance to our employees towards providing a harassment-free workplace is reflected in our flagship program - ASHI (Anti-Sexual Harassment Initiative). Our policy prohibits sexual harassment of any kind and / or on the basis protected by federal, state, or local law or ordinance or regulation. It applies to all people involved in the operation of the Group and prohibits unlawful harassment from / to any employee of the Company towards other employees including supervisors, vendors, and clients. The philosophy of the policy is to ensure Zero Occurrence and Zero Tolerance of sexual harassment. While the former strives towards awareness creation among employees, the latter achieves the Company's goal of taking responsible action against sexual harassment of any kind. There are periodic interventions to educate and enable employees and the contract staff.
+- HEAR: Our intent is to encourage and facilitate informal resolution of employee grievances. However, when matters cannot be resolved through discussions with the employee's immediate supervisor and supervisor's manager, we provide for a formal review procedure as part of the grievance resolution process, called HEAR (Hearing Employees and Resolving). HEAR covers concerns/matters under managerial issues, process / policy eligibility, discrimination at the workplace, performance management, interpersonal issues, etc.
+- HALE: Infosys' Health Assessment & Lifestyle Enrichment (HALE) program is a non-monetary employee benefit and has been recognized as the best internal brand with great recall and participation. Our wellness philosophy stands on four pillars, i.e. Physical, Emotional, Social well-being and Safety. All our interventions that we co-create with extended teams, business units, and external partners are to cater to the needs and asks of our employees. Our philosophy at HALE is a proactive approach to health and lifestyle enrichment aimed at increased awareness and overall well-being, resulting in reduced stress levels, a safe work environment, a happier workforce, and improved productivity levels. At Infosys, we believe thriving extends beyond professional success; it includes holistic growth - mentally, physically, socially, and emotionally.
+- Manager Code: Designed to enable and equip our managers with the capabilities to help their teams build technical, business and people skills along with a digital mindset to accelerate their development journeys. Managers have 7 Manager Codes that act as guiding behavioral principles that shape a good manager at Infosys. As part of this, we also have a one-stop microsite called Manager Hub, for all information, toolkits and resources for managers to be equipped to lead their teams.
+- Infosys Power of Wellness - Curated wellbeing services on a single platform for managers and their families.
+- MeetUp Campaign - Targeted communication and digital nudges to optimize and enhance meeting experience.
+- Infosys Great Manager Program: The Infosys Great Manager Program continues to guide managers through a structured learning path to build and strengthen four key competencies to build future readiness - business acumen, digital mindset, leading people and operational excellence. The program is self-paced and is entirely in the e-learning mode comprised of short management courses from eCornell.
+- Internal Recognition Programs: Our continuous effort has been to empower our managers and recognize their exceptional work. Our goal is to develop the best managers in the world, setting a benchmark in the industry. To acknowledge their excellence and remarkable contributions, we have introduced various recognition programs like People Champions & Best Managers and Managers with Great Teams.
+
+## CREATING A POSITIVE WORK ENVIRONMENT
+
+- Infosys Way of Life: The Infosys Way of Life is an embodiment of our enduring commitment to a strong, positive culture that is at the heart of our existence. As we navigate the shift towards a hybrid work environment and welcome new employees, this initiative is crucial in fostering collaboration, innovation, and inclusion. It is shaped by meaningful conversations and actions aimed at reinvigorating our culture, anchored in five core cultural markers: Care, Values (C-LIFE), Collaboration, Learning, and Inclusion, inviting every Infoscion to play an active role in nurturing a vibrant workplace.
+- C-LIFE: Defines and guides our approach each day and influences every change we make for ourselves, our company, and our clients. CLIFE, as outlined in our Code of Conduct, stands for Client value, Leadership by example, Integrity & Transparency, Fairness, and Excellence. These values form the foundation of our daily lives at the workplace and shape our company culture. They should be exemplified by each and every one of us at Infosys.
+- Behavior Matters: This campaign encourages employees to embody positive workplace behavior every day.
+- InfyTribes: Conceptualized as a sustainable community ecosystem, InfyTribes is an initiative aimed at fostering connections, shared passions, and common goals among employees. The community-driven clubs, like cricket, music, quiz, dance, toastmasters, etc., are spread across 12 countries, have over 20,000 members and over 100,000 followers.
+- INFYusion 2024: An initiative conceptualized to promote sports, culture and a spirit of camaraderie by bringing together finalists across all DCs and host a 3-day sports and cultural extravaganza. InFYusion 2024 had tremendous engagement and participation as we celebrated the sports and cultural icons across Infosys.
+- InfyCares: This initiative was introduced to bring employee volunteerism to the forefront and received resounding response from the teams across DCs. Seedball Making, Bookmarks creation, assembling solar lamps, Educational Jenga, etc. saw good response from employees volunteering. Through InfyCares we reached 1.30 lakh volunteering hours with 30,000 volunteers' participation in over 1,000 events held across DCs.
+- Alumni Meets: The first ever Infosys alumnus meet and connect at our DCs saw over 8,000 alumnus attending 10 alumni meets across different cities.
+- Petit Infoscion day: A special celebration dedicated to the children of Infoscions serving as a dynamic showcase for a variety of talents, deeply embedding the culture and essence of being an Infoscion. Each year it unfolds around a unique theme, ensuring our Petit Infoscions enjoy a memorable day filled with fun games, activities, delicious treats, rewards, recognition and more. This year we saw a 33% increase in participation, engaging over 100,000 employees across 20 DCs.
+- Orbit Next: Orbit Next is our flagship program designed to propel women into leadership roles within the technology and business sectors. This comprehensive initiative goes beyond just skill development. It fosters a supportive ecosystem where women can sharpen their technical and business acumen, develop leadership skills, and build valuable networks. Through mentorship opportunities, workshops, and networking events, participants connect with established leaders and build a strong support network within the organization. This fosters a sense of community and provides access to invaluable guidance and career development resources.
+- Restart With Infosys: This tailored initiative provides a supportive framework to ensure a seamless reintegration of women returning to workforce after a career break. The program offers personalized mentorship and a runway to integrate into mainstream work seamlessly. This program is one of the most successfully run program in the market with over 900 women professionals joining Infosys over 2 years.
+
+## AWARDS:
+
+- Infosys has been recognized among LinkedIn's Top Companies 2025 in India, USA and Canada.
+- Infosys has been recognized as one of the World's Most Ethical Companies in 2025, for the fifth consecutive year by Ethisphere.
+- Infosys was awarded the Global Top Employer 2025 certification in 20 countries, across Asia Pacific and Europe.
+- Infosys has been recognized as the 'Global Top Employer 2025' for the 5th consecutive year. Infosys has been recognized as a top 5 global employer across 4 regions and top ranked in 20 countries.
+- America - USA, Canada, and Mexico
+- Asia Pacific - India, Australia, New Zealand, Singapore, Japan, and China
+- Europe - UK, France, Belgium, Netherlands, Germany, Switzerland, Sweden, and Romania
+- Middle East - UAE, Qatar, and Saudi Arabia
+- Infosys has been recognized as the largest IT employer in Karnataka at the Invest Karnataka 2025 Summit.
+- Infosys has been ranked in the Top 3 IT services brands in the world for the fourth year in a row by Brand Finance; Fastest CAGR in brand value, in IT services industry, over 5 years, in its Global 500 2025 report.
+- Infosys has been honored with multiple awards at 'The Asset ESG Corporate Awards 2024'. Categories include the 'Platinum Award for Excellence', 'Best Investor Relations Team', 'Best Initiative in Environmental Responsibility' and 'Best Initiative in Diversity and Inclusion'.
+- Infosys has been recognized among India's Best Workplaces for Women 2024 for the 4th consecutive year.
+- Infosys has been recognized as one of India's Best Workplaces in Diversity, Equity, Inclusion & Belonging 2024.
+- Infosys has been recognized as one of the Best Companies for Women in 2024 by Avtar and Seramount, for the sixth consecutive time. We have also been featured in the Hall of Fame for featuring for 5+ years in Best Companies.
+- Infosys has been recognized as the Champion of Inclusion in the Most Inclusive Companies Index 2024 by Avtar and Seramount for the fifth year.
+- Infosys has been awarded the Sustainability Champion of the Year Award at the FICCI Young Leaders Awards 2024.
+- Infosys was recognized as one of the 'Most Honored' companies, receiving multiple awards at the 2024 All-Asia Executive Team Rankings from Institutional Investor, a leading provider of independent, qualitative feedback, for the investment community. The rankings were based on the opinions of 5,894 investment professionals.
+- Infosys has been awarded the Diversity and Inclusion Employer of the Year at the 2024 Digital Revolution Awards.
+- Infosys' Investor Relations (IR) function has been recognized one of the top two IR Functions amongst Indian companies in an annual survey conducted by FinanceAsia.
+- Infosys has been placed in the Leadership category in the Indian Corporate Governance Scorecard Assessment undertaken by Institutional Investor Advisory Services (IiAS) for the eighth year in a row.
+- External Rewards and Recognition for WELLNESS
+- Winners of NHRD Welcon 2024 for Holistic Wellness
+- Winners of Winners of Welcon 2024 for Holistic Wellness - The People Matters Total Rewards & Wellbeing Conference 2024 (TRWC) 2024
+- Infosys has been recognized by Association for Talent Development (ATD) Best of the Best list for 2025 - marking it the twelfth time we have received this esteemed award.
+- Infosys Wingspan was honored with the Gold Award for Best Advance in Learning Management Technology (LMT) and a Bronze in the "Best Corporate Learning University" category in the Brandon Hall Technology Excellence Awards 2024.
+- Infosys and three of our managers featured in 100 Great People Manager Studies 2024 conducted by Great Manager Institute in association with Economic Times.
+- Infosys won the Company with Great Managers Award 2024 by People Business for the 5th consecutive year. Three Infosys Managers won the Great Manager Awards 2024.
+
+## Recruitment
+
+As of March 31, 2025, the Group employed 323,578 employees, of which 306,599 were professionals involved in service delivery to the clients, including trainees.
+
+We attract and hire a multi-dimensional workforce across all IT specializations. We have built robust relationships with top institutions globally and recruit students who have consistently shown high levels of achievement. We also have been globally recognized for our HackWithInfy initiative, an online coding contest, which also helps us attract the best coders into our organization. We have continued upscaling our InfyTQ platform, which brings the best of our Mysuru training to the hands of the learners across the country.
+
+We evolved from a virtual-only mode to a hybrid model of virtual and in-person recruitment and have further strengthened our recruitment process by introducing AI.
+
+During fiscal 2025, we received 4,457,748 employment applications, interviewed 430,080 applicants and extended offers of employment to 83,207 applicants. These statistics do not include our subsidiaries.
+
+## Education, Training and Assessment (ETA)
+
+Infosys continues to invest in developing human potential for the organization, and the world at large. We are now experiencing the play of Human + AI in multiple fields, including learning. This technology wave gives us the ability to hyper-personalize learning, at scale, across all our learning offerings. These efforts have helped us garner external accolades from Brandon Hall and ATD Best.
+
+The Foundation Training Program, anchored across India and multiple other countries, enables newly onboarded entry-level hires to transform into corporate professionals. Comprising over 45 technology streams, the curriculum has kept pace with the dynamic business requirements and the preferred pedagogical approach of the current generation of talent. Generative AI and prompt engineering courses have been introduced to ensure fresh college graduates are adept in the new skills.
+
+Our Continuous Education Program is aimed at reskilling / upskilling our existing employees with the twin objectives of increasing fulfilment of skilled talents in client projects and enriching their expertise in next-generation digital technologies and methodologies, including Generative AI technologies. We provide online self-learning, instructor-led virtual training opportunities along with in-person classroom training opportunities to our employees. Bridge programs help employees with training and internship opportunities to switch to a new career field, while retaining them within the organization.
+
+Lex, our in-house learning platform, offers over 36,000 curated courses, which includes over 30,000 courses procured from vendor partners both for enterprise consumption and niche communities with specific knowledge requirements. Around 20,000 employees used Lex on weekdays and around 5,000 employees used it on weekends, with an average learning time of 40 minutes.
+
+Infosys Wingspan, our configurable talent transformation platform for clients, is used by several global organizations for their talent transformation programs.
+
+Infosys Springboard is a program led by a dedicated team of experts collaborating globally with curriculum partners, non-profits, and a global network of leading educational institutions. More than 20,000 courses are available and about 9.2 million learners across the world are actively consuming content on Infosys Springboard.
+
+## Leadership development
+
+With AI playing a pivotal role in the next phase of transformation of organizations, the Infosys Leadership Institute (ILI) partnered with Kellogg to bring their highly acclaimed program on AI Applications of Growth to all its leaders. In fiscal 2025, more than 1000 senior leaders of Infosys completed this certification program and most of them also participated in a live discussion with the author of this course, Prof. Mohanbir Sawhney. This includes about 250 women leaders, with many of them also working on AI related projects and initiatives.
+
+ILI strengthened the succession program by broadening its focus to key roles in business and enabling functions, in addition to creating highly personalized development programs for the incumbents and successors in organizational critical positions. The highly successful succession-enabling Constellation program was expanded to include more high potential emerging leaders. Together with a 10-month curated program with Oxford University, the Constellation leaders also commenced work in smaller cross-functional teams on strategic organizational projects, aimed to bolster their enterprise leadership thus preparing them for senior leadership positions.
+
+Broader leadership development and engagement continued, with signature programs like the 10-month Enterprise Leadership program in partnership with multiple universities including Kellogg, Tuck, School of Business, and National University of Singapore Business School and the 6-month long Executive Presence & Presentation program in partnership with The Economist. More than 2000 1x1 leadership advisory discussions were completed by ILI with leaders, focused on their leadership development plan. With more than 97% leaders completing a significant development intervention, Infosys leaders invested 10,500+ leadership learning days equivalent on their development.
+
+Leadership diversity continues to be important for Infosys and the acclaimed ILI IamtheFuture program saw more than 200 women leaders completing a development program addressing critical and differentiating competencies needed for success and growth. About 100 women leaders completed a program with Stanford on Executive Communication, along with 1x1 coaching with an external communication firm. Career conversations were completed for critical and high-potential women leaders across segments and delivery, and over 200 women leaders completed a development coaching conversation with internal leadership advisors.
+
+Our relentless focus on leadership development and engagement continues to set us up well for the future.
+
+## Visas
+
+As of March 31, 2025, less than 50% of our employees in the United States held either H-1B visas, which allow the employee to remain in the United States for up to six years as specialty occupation professionals, and L-1 visas, which allow the employee to stay in the United States for up to five years (for specialized knowledge experts) or seven years (for managers and executives).
+
+## SHARE OWNERSHIP
+
+The following table sets forth as of May 30, 2025, for each director and executive officer, the total number of equity shares, ADSs and options to purchase equity shares and ADSs exercisable within 60 days from May 30, 2025. Beneficial ownership is determined in accordance with rules of the SEC. All information with respect to the beneficial ownership of any principal shareholder has been furnished by such shareholder and, unless otherwise indicated below, we believe that persons named in the table have sole voting and sole investment power with respect to all the shares shown as beneficially owned, subject to community property laws, where applicable. The shares beneficially owned by the directors and executive officers include the equity shares owned by their family members to which such directors disclaim beneficial ownership.
+
+The share numbers and percentages listed below are based on 4,154,213,314 equity shares outstanding as of May 30, 2025. Percentage of shareholders representing less than 1% are indicated with '*'.
+
+| Name beneficially owned | Equity Shares beneficially owned | % of equity Shares |
+|---|---:|---:|
+| Nandan M. Nilekani (1) | 100,461,168 | 2.42 |
+| Salil Parekh | 1,379,460 | 0.03 |
+| Bobby Parikh (2) | 6,887 | '*' |
+| Inderpreet Sawhney (3) | 190,007 | '*' |
+| Shaji Mathew (4) | 265,114 | 0.01 |
+| Jayesh Sanghrajka (5) | 108,054 | '*' |
+| Total (all directors and executive officers) | 102,410,690 | 2.46 |
+
+Note: No other material changes subsequently till July 1, 2025.
+
+- (1) Shares beneficially owned by Nandan M. Nilekani include 59,678,006 Equity Shares owned by members of his immediate family. Nandan M. Nilekani disclaims beneficial ownership of such shares.
+- (2) Includes 2,754 equity shares jointly held by Bobby Parikh with his spouse as the first holder.
+- (3) Includes 5,185 PSUs vested on June 1, 2025 of Inderpreet Sawhney which are yet to be exercised.
+- (4) Includes 1,220 PSUs vested on June 1, 2025 of Shaji Mathew which are yet to be exercised.
+- (5) Includes 6,876 stock options vested on November 1, 2020 and 2,257 PSUs vested on June 1, 2025 of Jayesh Sanghrajka which are yet to be exercised.
+
+## Note:
+
+Among directors, D. Sundaram, Michael Gibbs, Chitra Nayak, Govind Iyer, Helene Auriol Potier and Nitin Paranjpe do not hold shares / ADRs of the Company.
+
+## Option plans
+
+## 2015 Plan
+
+On March 31, 2016, pursuant to the approval by the shareholders through postal ballot, the Board has been authorized to introduce, offer, issue and allot share-based incentives to eligible employees of the Company and its subsidiaries under the 2015 Plan. The maximum number of shares under the 2015 Plan shall not exceed 24,038,883 equity shares (this includes 11,223,576 equity shares which are held by the trust towards the 2011 Plan as of March 31, 2016). These instruments will generally vest over a period of four years. The plan numbers are further adjusted with the September 2018 bonus issue.
+
+Controlled trust holds 96,55,927 and 10,916,829 shares as of March 31, 2025, and March 31, 2024, respectively, under the 2015 Plan, out of which 200,000 equity shares each have been earmarked for welfare activities of the employees as of March 31, 2025, and March 31, 2024.
+
+## 2019 Plan
+
+In continuation of our philosophy of aligning employee interests with shareholder value creation and in line with global practices, the Board, at its meeting held on May 15, 2019, on the recommendations of the Nomination and Remuneration Committee and subject to the approval of shareholders, approved the 2019 Plan. This plan sets out challenging performance criteria aligned to shareholder value creation to deepen employee ownership of the Company. By inclusion of leading market benchmarked performance criteria like relative TSR in the 2019 Plan, we adopted best-in-class global corporate governance practices. Further the 2019 Plan intends to incentivize, retain, and attract key talent through this performance-based stock incentive plan amongst an expanded employee base.
+
+On June 22, 2019, pursuant to approval by the shareholders at our AGM, the Board has been authorized to introduce, offer, issue and provide share-based incentives to eligible employees of the Company and its subsidiaries under the 2019 Plan. The maximum number of shares under the 2019 Plan shall not exceed 50,000,000 equity shares. To implement the 2019 Plan, up to 45,000,000 equity shares may be issued by way of secondary acquisition of shares by Infosys Expanded Stock Ownership Trust. The RSUs granted under the 2019 Plan shall vest based on the achievement of defined annual performance parameters as determined by the administrator (Nomination and Remuneration Committee). The performance parameters will be based on a combination of relative TSR against selected industry peers and certain broader market domestic and global indices and operating performance metrics of the Company as decided by administrator. Each of the above performance parameters will be distinct for the purposes of calculation of quantity of shares to vest based on performance.
+
+The following is the summary of grants made during fiscal 2025, 2024 and 2023 under the 2015 Plan and 2019 Plan:
+
+| Particulars | Fiscal 2025 | Fiscal 2024 | Fiscal 2023 |
+|---|---:|---:|---:|
+| 2015 Plan |  |  |  |
+| RSU - Equity settled | 2,255,532 | 5,139,370 | 2,152,454 |
+| RSU - Incentive units (cash settled) | 94,050 | 176,990 | 92,400 |
+| 2019 Plan |  |  |  |
+| Equity settled Performance based RSU | 3,744,345 | 4,187,902 | 3,914,657 |
+| Total grants | 6,093,927 | 9,504,262 | 6,159,511 |
+
+Refer to the compensation table of this Annual Report on Form 20-F for details on grants to individual KMPs.
+
+The equity awards granted under the 2015 Plan would generally vest over a period of four years and shall be exercisable within the period as approved by the Nomination and Remuneration Committee.
+
+The RSUs granted under the 2019 Plan would generally vest over a period of three years and shall be exercisable within the period as approved by the Nomination and Remuneration Committee.
+
+During fiscal 2025, 2024 and 2023, we recorded an employee stock compensation expense of $95 million, $79 million and $64 million, respectively, in the statement of comprehensive income. This comprises of expense pertaining to employee stock compensation of the CEO, other executive officers, and other employees.
+
+The following table gives the details of outstanding RSUs and stock options under the 2019 Plan and 2015 Plan as of March 31, 2025:
+
+|  | 2019 Plan | 2015 Plan |
+|---|---:|---:|
+| RSUs | 8,072,635 | 7,259,464 |
+| ESOPs | - | 17,554 |
+
+Grants made under the 2015 Plan have been adjusted for the September 2018 bonus issue.
+
+For additional information on our stock incentive compensation plans, see Note 2.17 Employees' Stock Options Plans under Item 18 of this Annual Report on Form 20-F.

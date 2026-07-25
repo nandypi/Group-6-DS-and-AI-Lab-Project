@@ -1,0 +1,74 @@
+---
+document_name: "Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26.md"
+group_id: "Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26__group_029"
+source_section_count: 1
+estimated_tokens: 6436
+source_section_ids:
+  - "Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26__053"
+---
+---
+section_title: "V. Holding, Subsidiary and Associate Companies (including joint ventures)"
+section_description: "This section contains Infosys' disclosures on holding, subsidiary, associate and joint venture companies, CSR applicability, grievance redressal complaints, and material responsible business conduct issues for fiscal 2026 and fiscal 2025."
+topics:
+  - "Holding and subsidiary companies"
+  - "CSR applicability"
+  - "Turnover and net worth"
+  - "Stakeholder complaints and grievances"
+  - "Material responsible business conduct issues"
+  - "Climate change risks and opportunities"
+  - "Employee experience and digital talent"
+  - "Data privacy, information security, ethics and compliance"
+sample_queries:
+  - "Is CSR applicable to Infosys under Section 135 of the Companies Act, 2013?"
+  - "What were Infosys' turnover and net worth for the year ended March 31, 2025?"
+  - "How many shareholder complaints were filed and pending in fiscal 2026?"
+  - "What grievance complaint data is reported for employees and workers in fiscal 2026 and fiscal 2025?"
+  - "Which material responsible business conduct issues are identified as risks?"
+  - "What approach does Infosys describe for mitigating data privacy and information management risk?"
+  - "What financial implications are listed for climate change and ethics compliance risks?"
+  - "Which material issues are identified as opportunities related to climate action and digital talent?"
+---
+
+## V. Holding, Subsidiary and Associate Companies (including joint ventures)
+
+## 23. (a) Names of holding / subsidiary / associate companies / joint ventures (1)
+
+| S. No. | Name of the holding / subsidiary / associate companies / joint ventures (A) | Indicate whether holding / Subsidiary / Associate / Joint Venture | % of shares held by listed entity | Does the entity indicated at column A, participate in the Business Responsibility initiatives of the listed entity? (Yes/No) (2) |
+|---|---|---|---|---|
+
+## VI. CSR Details
+
+| CSR detail | Response |
+|---|---|
+| 24. (i) Whether CSR is applicable as per Section 135 of Companies Act, 2013: (Yes/No) | Yes |
+| (ii) Turnover (In ` crore) (1) | 1,36,592 |
+| (iii) Net worth (In ` crore) (1) | 87,332 |
+| (1) As per the standalone financial statements for year ended March 31, 2025 under Ind AS |  |
+
+## VII. Transparency and Disclosures Compliances
+
+25. Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible Business Conduct:
+
+| Stakeholder group from whom complaint is received | Grievance redressal mechanism in place (Yes/No) (If Yes, then provide web-link for grievance redress policy) (1) | Fiscal 2026: Number of complaints filed during the year | Fiscal 2026: Number of complaints pending resolution at close of the year | Fiscal 2026: Remarks | Fiscal 2025*: Number of complaints filed during the year | Fiscal 2025*: Number of complaints pending resolution at close of the year** | Fiscal 2025*: Remarks |
+|---|---|---:|---:|---|---:|---:|---|
+| Communities | Yes | - | - |  | - | - |  |
+| Investors (Other than shareholders) (2) | Yes | NA | NA |  | NA | NA |  |
+| Shareholders | Yes | 153 | 1 (3) |  | 228 | 1 |  |
+| Employees and workers | Yes | 336 | 73 (4) |  | 269 | 75 |  |
+| Customers | Yes | 28 | 8 |  | 30 | 9 |  |
+| Value chain partners | Yes | 9 | 2 |  | 4 | 2 |  |
+| Other |  | 163 | 31 |  | 52 | 19 |  |
+
+26. Overview of the entity's material responsible business conduct issues. Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social matters that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or mitigate the risk along-with its financial implications, as per the following format
+
+| S. No | Material issue identified* | Indicate whether risk or opportunity (R / O) | Rationale for identifying the risk / opportunity | In case of risk, approach to adapt or mitigate | Financial implications of the risk or opportunity (Indicate positive or negative implications) |
+|---:|---|---|---|---|---|
+| 1 | Environment : Climate change | Risk | Climate change risks are increasingly manifesting in our business as strategic, physical and transitional (market and compliance) risks, which if not managed adequately, can affect our operations, reputation and profitability | Refer to the Infosys ESG Databook 2026 for details on risk mitigation | Negative : Increased operating costs in meeting the environmental standards in line with evolving regulatory requirements |
+| 2 | Environment : Engaging clients on climate actions through our solutions | Opportunity | - Increased revenue through development and / or expansion of services to help our customers manage their climate change risks. - Savings from use of lower- emission sources of energy - Lead action globally on climate change through advocacy |  | Positive : Scope to improve Infosys' competitiveness and capitalize on evolving client preferences by leveraging our expertise in sustainability, low- carbon transition and digital/IT to support our clients on their sustainability and low-carbon journey |
+| 3 | Social : Facilitating best-in-class employee experience | Risk | Inability to facilitate best-in-class employee experience may impact our ability to attract, hire, train, engage and retain talent | - Employee engagement and support initiatives to improve employee connect with the organization - Holistic measures for employee retention and recognition of key and tenured employees - Focus on career and leadership development programs to develop next gen leaders - Bringing in AI and other technologies to enhance employee experience | Negative : Impact on employer reputation, increased cost of talent, etc. |
+| 4 | Social: Enabling digital talent at scale | Opportunity | Digital and AI technologies are unequivocally the new way forward and almost everyone will have to adapt to a new way of living and working in the not-too-distant future. A wave of new technologies and solutions is helping amplify human potential, reinvent the workplace, and enable performance beyond previous capabilities. |  | Positive : Given the shortage of digital and AI proficient workforce, there is a significant opportunity to bridge the talent gap by harnessing digital and AI technologies to upskill employees, clients, students, educators and community, while advancing technological inclusion and creating long term social and economic impact. |
+| 5 | Governance : Data privacy and information management | Risk | Cyber-attacks that breach our information network and / or failure to protect sensitive and confidential information of our stakeholders in accordance with applicable laws and contractual obligations may impact our operations, client satisfaction or result in significant regulatory penalties. | - Improve the cybersecurity strategy, framework, processes, policies and controls to enhance cyber resilience. - Improve the data privacy framework, policies, processes and controls - Multi-layered governance process with executive and Board oversight to review the cybersecurity and data privacy risks and our preparedness to mitigate and respond to such risks. - Continued investment in technologies to create defense in depth in order to address risks posed by evolving cyber threat landscape - Close collaboration with cyber intelligence and forensic consultants to identify and prepare for emerging cybersecurity threats, periodic table-top exercises and maintain the cybersecurity crisis plan up to date - Continuous monitoring of regulatory landscape - Regular awareness mailers and workshops along with strong consequence management process - Trainings and workshops for employees on security by design - Strong encryption, data backup and recovery mechanism to ensure business continuity during any crisis - The Cyber Risk Assessment Framework aligned to ISO | Negative : Increased operating cost to hire and train talents, and technology investments |
+| 6 | Governance: Ethics and compliance | Risk | Evolving regulatory compliance, corporate governance and public disclosure requirements add uncertainty to our compliance policies. If we are not able to comply with the complex regulatory landscape (e.g., immigration, wages, tax, sanctions), it could result in investigations, regulatory inquiries, litigation, fines, and negative client sentiments. | - Dedicated in-house compliance team working together with external partners to monitor changes to the regulatory landscape - Comprehensive compliance framework, policies, controls and programs to identify changes to regulatory landscape, assess their impact and implement appropriate actions - Regular connect with regulatory authorities and compliance experts to identify and assess changes to the regulatory landscape - Contract awareness programs and trainings for employees and vendors - Periodic compliance certification with clear accountability and responsibility defined - Comprehensive monitoring, reporting and governance including Board oversight | Negative: Impact on reputation and cost of compliance due to investigations, regulatory inquiries, litigation, fines, etc. |
+| 7 | Governance : Being recognized as industry leader in our information security practices and adoption of leading data privacy | Opportunity | - Increasing revenue from cybersecurity service offerings and solutions - Higher client confidence in our ability to service them |  | Positive : Minimize cybersecurity and data privacy breach threats to Infosys and our customers through advanced cybersecurity solutions and adoption of leading data privacy standards |
+
+\* For the complete list of material topics, refer to ESG Vision 2030 refresh. For Enterprise Risk Management framework refer to Risk Management Section of Integrated Annual Report.

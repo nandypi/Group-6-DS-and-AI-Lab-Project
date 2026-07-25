@@ -2,8 +2,6 @@
 document_name: "Infosys_23072025153626_Outcome23072025.md"
 group_id: "Infosys_23072025153626_Outcome23072025__group_020"
 source_section_count: 2
-page_start: 86
-page_end: 90
 estimated_tokens: 4837
 source_section_ids:
   - "Infosys_23072025153626_Outcome23072025__043"

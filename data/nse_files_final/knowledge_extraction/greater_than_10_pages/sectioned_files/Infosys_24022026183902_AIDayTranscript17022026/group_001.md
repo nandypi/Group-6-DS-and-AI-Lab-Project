@@ -2,8 +2,6 @@
 document_name: "Infosys_24022026183902_AIDayTranscript17022026.md"
 group_id: "Infosys_24022026183902_AIDayTranscript17022026__group_001"
 source_section_count: 1
-page_start: 1
-page_end: 8
 estimated_tokens: 4056
 source_section_ids:
   - "Infosys_24022026183902_AIDayTranscript17022026__001"

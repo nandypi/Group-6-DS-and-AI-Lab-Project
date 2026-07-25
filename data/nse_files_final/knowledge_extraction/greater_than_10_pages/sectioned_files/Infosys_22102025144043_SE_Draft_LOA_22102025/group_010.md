@@ -2,8 +2,6 @@
 document_name: "Infosys_22102025144043_SE_Draft_LOA_22102025.md"
 group_id: "Infosys_22102025144043_SE_Draft_LOA_22102025__group_010"
 source_section_count: 2
-page_start: 52
-page_end: 55
 estimated_tokens: 4532
 source_section_ids:
   - "Infosys_22102025144043_SE_Draft_LOA_22102025__015"

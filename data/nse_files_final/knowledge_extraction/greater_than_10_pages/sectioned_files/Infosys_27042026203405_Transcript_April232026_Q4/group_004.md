@@ -2,8 +2,6 @@
 document_name: "Infosys_27042026203405_Transcript_April232026_Q4.md"
 group_id: "Infosys_27042026203405_Transcript_April232026_Q4__group_004"
 source_section_count: 4
-page_start: 31
-page_end: 46
 estimated_tokens: 7006
 source_section_ids:
   - "Infosys_27042026203405_Transcript_April232026_Q4__007"
