@@ -1,0 +1,77 @@
+{
+  "document_name": "Infosys_14112025111307_SEfilingReg30disclosure_14112025.md",
+  "is_material": false,
+  "title": "Infosys internal transfer of 90% stake in Infosys Consulting S.R.L., Argentina",
+  "detailed_summary": "Infosys disclosed an internal reorganization involving transfer of 90% of Infosys Limited’s shareholding in Infosys Consulting S.R.L., Argentina to Infosys Nova Holdings LLC, a wholly owned subsidiary. The Argentina subsidiary contributed USD3.6 Mn revenue and USD -2.0 Mn net-worth as on March 31, 2025. Consideration is stated at ~ USD 0.5 Mn, with expected completion on January 29, 2026.",
+  "key_facts": [
+    {
+      "fact": "Infosys Nova Holdings LLC approved transfer of 90% of the shareholding held by Infosys Limited in Infosys Consulting S.R.L., Argentina.",
+      "section_heading": null
+    },
+    {
+      "fact": "Revenue and net-worth of Infosys Consulting S.R.L., Argentina as on March 31, 2025 were Revenue: USD3.6 Mn(0.02% of consolidated revenue of USD 19,277 Mn) and Net-worth: USD -2.0 Mn (-0.02% of consolidated net-worth of USD 11,255 Mn).",
+      "section_heading": "Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure) Regulations, 2015"
+    },
+    {
+      "fact": "The expected date of completion of the sale/disposal is January 29, 2026, and consideration is ~ USD 0.5 Mn.",
+      "section_heading": "Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure) Regulations, 2015"
+    }
+  ],
+  "financial_metrics": {
+    "currency": "USD",
+    "period": "as on March 31, 2025",
+    "revenue": "USD3.6 Mn(0.02% of consolidated revenue of USD 19,277 Mn)",
+    "revenue_growth_yoy": null,
+    "revenue_growth_qoq": null,
+    "operating_margin": null,
+    "net_profit": null,
+    "eps": null,
+    "free_cash_flow": null,
+    "large_deal_tcv": null,
+    "headcount": null,
+    "attrition": null,
+    "guidance": null,
+    "dividend": null
+  },
+  "corporate_actions": [
+    {
+      "action_type": "internal shareholding transfer",
+      "description": "Infosys approved transfer of 90% of the shareholding held by Infosys Limited in Infosys Consulting S.R.L., Argentina, a majority owned subsidiary, to Infosys Nova Holdings LLC, a wholly owned subsidiary of Infosys Limited.",
+      "amount_or_ratio": "90%; ~ USD 0.5 Mn",
+      "effective_date": "January 29, 2026",
+      "section_heading": "Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure) Regulations, 2015"
+    }
+  ],
+  "partnerships_or_deals": [],
+  "leadership_changes": [],
+  "litigation_or_regulatory_matters": [],
+  "risk_factors": [],
+  "esg_or_csr_items": [],
+  "products_or_platforms": [],
+  "important_text_spans": [
+    {
+      "text": "Revenue: USD3.6 Mn(0.02% of consolidated revenue of USD 19,277 Mn) Net-worth: USD -2.0 Mn (-0.02% of consolidated net-worth of USD 11,255 Mn)",
+      "section_heading": "Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure) Regulations, 2015",
+      "reason": "Supports the financial scale of the Argentina subsidiary within Infosys."
+    },
+    {
+      "text": "The Board of Infosys Nova Holdings LLC has approved the proposal on November 13, 2025, and the Agreement is yet to be executed.",
+      "section_heading": "Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure) Regulations, 2015",
+      "reason": "Supports the status of the internal reorganization transaction."
+    }
+  ],
+  "search_keywords": [
+    "Infosys Consulting S.R.L. Argentina",
+    "Infosys Nova Holdings LLC",
+    "internal reorganization",
+    "90% shareholding transfer",
+    "USD 0.5 Mn"
+  ],
+  "sample_questions": [
+    "What internal reorganization did Infosys announce involving Infosys Consulting S.R.L., Argentina?",
+    "What was the revenue and net worth of Infosys Consulting S.R.L., Argentina as on March 31, 2025?",
+    "What consideration did Infosys disclose for the transfer to Infosys Nova Holdings LLC?",
+    "When is the Infosys Consulting S.R.L., Argentina shareholding transfer expected to be completed?"
+  ],
+  "processing_notes": "Marked non-material because the transaction is an internal reorganization involving a very small subsidiary contribution, with no stated operational or strategic impact beyond the shareholding transfer."
+}

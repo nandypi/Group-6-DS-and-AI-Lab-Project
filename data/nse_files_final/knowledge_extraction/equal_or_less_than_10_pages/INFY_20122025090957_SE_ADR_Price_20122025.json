@@ -1,0 +1,69 @@
+{
+  "document_name": "INFY_20122025090957_SE_ADR_Price_20122025.md",
+  "is_material": false,
+  "title": "Infosys Clarifies ADR Price Volatility on December 19, 2025",
+  "detailed_summary": "Infosys stated that its ADR price on the NYSE was volatile on December 19, 2025, triggering two Volatility Trading Pauses. The company clarified that there were no material events requiring disclosure under SEBI Listing Regulations and issued the communication to avoid unwarranted speculation.",
+  "key_facts": [
+    {
+      "fact": "Infosys observed volatility in the price of its American Depositary Receipt on the NYSE on December 19, 2025.",
+      "section_heading": "Subject: Clarification on ADR Price Volatility - December 19, 2025"
+    },
+    {
+      "fact": "The ADR price volatility resulted in two Volatility Trading Pauses, described as Limit Up-Limit Down or LULD, being triggered by NYSE.",
+      "section_heading": "Subject: Clarification on ADR Price Volatility - December 19, 2025"
+    },
+    {
+      "fact": "Infosys clarified that there are no material events requiring disclosure under the SEBI Listing Obligations and Disclosure Requirements Regulations, 2015.",
+      "section_heading": "Subject: Clarification on ADR Price Volatility - December 19, 2025"
+    }
+  ],
+  "financial_metrics": {
+    "currency": null,
+    "period": null,
+    "revenue": null,
+    "revenue_growth_yoy": null,
+    "revenue_growth_qoq": null,
+    "operating_margin": null,
+    "net_profit": null,
+    "eps": null,
+    "free_cash_flow": null,
+    "large_deal_tcv": null,
+    "headcount": null,
+    "attrition": null,
+    "guidance": null,
+    "dividend": null
+  },
+  "corporate_actions": [],
+  "partnerships_or_deals": [],
+  "leadership_changes": [],
+  "litigation_or_regulatory_matters": [],
+  "risk_factors": [],
+  "esg_or_csr_items": [],
+  "products_or_platforms": [],
+  "important_text_spans": [
+    {
+      "text": "The Company has observed volatility in the price of its American Depositary Receipt ('ADR') on the New York Stock Exchange ('NYSE') on December 19, 2025, which resulted in two Volatility Trading Pauses ('Limit Up-Limit Down'/'LULD') being triggered by NYSE.",
+      "section_heading": "Subject: Clarification on ADR Price Volatility - December 19, 2025",
+      "reason": "Supports the fact that Infosys ADR volatility triggered two NYSE trading pauses."
+    },
+    {
+      "text": "the Company hereby clarifies that there are no material events that require disclosure under the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ('Regulations').",
+      "section_heading": "Subject: Clarification on ADR Price Volatility - December 19, 2025",
+      "reason": "Supports the company’s clarification that no material undisclosed event caused the volatility."
+    }
+  ],
+  "search_keywords": [
+    "ADR price volatility",
+    "NYSE",
+    "Volatility Trading Pauses",
+    "Limit Up-Limit Down",
+    "LULD",
+    "SEBI Listing Regulations"
+  ],
+  "sample_questions": [
+    "Why did Infosys issue a clarification about its ADR price volatility on December 19, 2025?",
+    "Did Infosys disclose any material event connected to the ADR volatility on the NYSE?",
+    "How many NYSE Volatility Trading Pauses were triggered for Infosys ADRs on December 19, 2025?"
+  ],
+  "processing_notes": "No category-specific investor event was populated because the document is a clarification of market volatility and explicitly states there were no material events requiring disclosure."
+}

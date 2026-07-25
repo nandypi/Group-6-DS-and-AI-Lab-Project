@@ -1,0 +1,172 @@
+---
+document_name: "Infosys_24022026183902_AIDayTranscript17022026.md"
+group_id: "Infosys_24022026183902_AIDayTranscript17022026__group_004"
+source_section_count: 2
+estimated_tokens: 5993
+source_section_ids:
+  - "Infosys_24022026183902_AIDayTranscript17022026__006"
+  - "Infosys_24022026183902_AIDayTranscript17022026__007"
+---
+---
+section_title: Dennis Gada
+section_description: This section contains transcript remarks from Infosys executives on AI adoption across financial services, energy, utilities, resources, services, consumer goods, retail, logistics, and partner ecosystems. It includes client examples, AI use cases, business outcomes, and references to Infosys partnerships and platforms.
+topics:
+  - AI in financial services
+  - Citizens Bank Reimagine the Bank program
+  - Energy, utilities, resources, and services
+  - Consumer goods, retail, and logistics
+  - Client AI case studies
+  - Agentic AI platforms
+  - AI partner ecosystem
+sample_queries:
+  - How is Infosys applying AI in financial services clients such as Citizens Bank?
+  - What outcomes did Infosys report from the Citizens Bank Reimagine the Bank program?
+  - How does Infosys describe AI's role in energy, utilities, resources, and services?
+  - What AI initiatives and outcomes were described for BP?
+  - How did Infosys support Ralph Lauren with AI-enabled personalization?
+  - What benefits did Posti achieve from Infosys's AI-first operating model?
+  - What role does Infosys assign to partnerships in its AI value framework?
+  - Which examples were given for AI strategy, data for AI, process AI, legacy modernization, and physical AI?
+---
+
+## Dennis Gada
+
+## Infosys
+
+Hello, everyone. First of all, I have to say, I really feel at home talking about the impact of AI in financial services to an audience which is largely full of people who come from the financial services industry and understand some of the nuances and challenges. What we see in the industry today is that financial services is really at the forefront in terms of adopting and scaling with AI. And this is different from some of the previous tech shifts, for example, cloud or even digitization, where there was a little bit of lag effect or catch-up for the financial services industry. But this is different.
+
+Financial services firms, whether it is banks, asset and wealth managers, custodians, card providers, are really leaning in and leading with AI. I think the reason for that is that this is one technology and business shift that firms see, which can simultaneously bend the cost curve as well as the growth curve and also help in managing risk and compliance, which is, of course, very important in this industry.
+
+So, this has a lot of conviction with the CXOs. As you can see, many of the quotes from the CEOs around using AI for augmented intelligence, using AI not just for efficiency, but really driving large-scale transformation within the bank and looking beyond productivity to growth. So the good news for us with all of this is what we see is a significant increase in spend towards AI initiatives. And we are well positioned to benefit from that, both in terms of the AI-first services as well as the AI-augmented services that we talked about.
+
+But it also does come with some of the constraints and challenges. It is not a technology or a use case challenge, but more around regulations, data privacy and most importantly, change management and adoption, which is where we see a huge opportunity to continue to expand. In fact, one of the CIOs of a large banking organization we spoke to talked a similar concept to the deployment gap that Nandan mentioned. Even if AI technology were to stop evolving today, there is still so much to be done for financial services firms to benefit from and leverage what is already there.
+
+We also see a diffusion of AI use cases across all the sub-verticals. We are working, for example, significantly on fraud prevention in the payment space, in the consumer banking space. And already, there was a lot of work done on machine learning models in the past, but AI provides a lot more capabilities to take it to the next level. Similarly, there is a lot of work on customer experience through contact centers, through UI/UX, but also beyond that. For many relationship managers in commercial banking or advisers in asset and wealth management or financial analysts like many of you in the room today, AI provides much more of data and insights and helps with the productivity, so that these relationship managers and advisers can spend more time with their end clients.
+
+We also think that agentic commerce and payments will take off significantly. It is still at the starting point, and that will result in a lot of unlock of new business opportunities for financial services clients.
+
+All of this is, of course, on the foundation of AI-based software engineering, AI-based process orchestration and data transformation that we spoke about earlier today.
+
+So, I will talk about one of our flagship client examples in financial services, Citizens Bank. It is a top 15 bank in the US and has grown significantly over the last several years, both organically and through acquisitions. And they have just embarked upon a program called 'Reimagine the Bank', where the main objective is to use the power of AI to significantly grow and expand the services that the bank provides as well as drive efficiency. Infosys has been selected as the strategic partner to help the bank in this 'Reimagine the Bank' initiative. In fact, just a couple of weeks back, we opened an AI innovation hub dedicated to support Citizens Bank in this initiative right here in Bangalore.
+
+And this has been an ongoing journey. We have helped Citizens Bank move 100% to the cloud, one of the few financial services institutions in the world that has achieved that. We have already built some industry-leading platforms on the cloud. And then with this foundation now, we are helping them accelerate the AI journey. Using our Topaz Fabric suite of agents, we are helping them build their own Agentic AI and GenAI platform, which will help across the bank to deploy several use cases.
+
+Some of them are already in production. For example, we see a 44% reduction in calls to the contact center generated from the mobile app. And more broadly, the bank has talked about a $450 mn cost run rate reduction target as part of this 'Reimagine the Bank' program. This is not just about cost efficiency, but this shows the power of AI to drive structural transformation in a leading bank like Citizens. So that is an example of a first-of-its-kind innovation hub right here Bangalore for Citizens Bank dedicated to support their 'Reimagine the Bank' program.
+
+Now beyond Citizens, if you look at the financial services industry, as you know, it is the largest segment for us at Infosys. And we work with organizations across the spectrum, from the large global banks to the regional banks, to card providers, asset and wealth management firms and so on. And we are seeing a huge amount of increase in work that we do with them on AI. In fact, 15 of the top 25 financial services clients have selected us as their strategic partner. We work with all of them, but for 15 of them, we have specifically been selected as a strategic partner for AI services.
+
+If I take a couple of other quick examples, for our top 3 card providers, we have been working with them on the modernization journey for their core cards platform. This is 40 million lines of code written over the last several decades, and we are using AI to do this modernization. With that, we are seeing a 50% reduction in the time taken to do the modernization and significant efficiency benefits. The beauty of this is, with the success of this program, this particular client now wants us to do 2, 3 more of these modernizations, which were almost impossible to do in the past. So it just shows how much velocity this creates based on success of delivery on some of these programs.
+
+Similarly, for one of the large global wealth management firms, we are helping them build the Agentic AI platform, support a lot of initiatives for the financial advisers to get better data insights, higher productivity, so they can focus on their end clients.
+
+In summary, financial services industry, as all of you know very well, is very complex. There is a lot of legacy, there is a lot of regulatory oversight, but has also always faced a bit of a growth and a cost challenge. And I think, AI is a catalyst that can really help accelerate some of those mitigations and drive the organizations forward. At Infosys, we have deep expertise in the industry vertical. It is our largest segment. We have strong capabilities that we talked about earlier today.
+
+And also, most importantly, we have the depth of the relationships. Many of these organizations, we have been working for more than a decade, and that gives us a lot of institutional knowledge and context, which we can use to help them on the AI journey. We really see this as a huge opportunity to bring the hybrid intelligence, human plus AI, and help these organizations become truly AI-powered and pivot to a completely new operating model for the future. There is a lot of work to be done. We are excited. We are just getting started, and we think we will be super successful. Thank you.
+
+## Ashiss Kumar Dash
+
+## Infosys
+
+Hello. Hello and good afternoon. I hope you had a good session in the Living Labs. And you could see some of the things in action.
+
+Now over the next 10 minutes, I am going to talk about an interesting segment called energy, utilities, resources and services, and I call this interesting because AI has created a circular economy in energy, utilities and resources sector. While these sectors are heavy users and consumers of AI, they are also critical enablers of AI. If you look at utilities today, particularly electric utilities, they power and decide where the next data center should be and how fast the AI data centers can grow. In fact, there are views that electricity is the only limiting factor in growth of AI. So they have a massive role to play. A data point here, the projection for data centers to consume about 10% to 12% global electricity by 2030 is almost four times the current level. So that is the amount of growth that we will see in the electricity sector. Oil and gas have always underwritten the global energy and stability of supply of energy. Now with data centers, natural gas and CNG are becoming the transient fuel so that we bring more reliability and load balancing to the grid, we can dispatch the load when the wind is not blowing and the sun is not shining. Resources, interestingly, are the providers for raw materials that AI runs on. So the new metals; copper, lithium, nickel, cobalt, rare earth materials and aluminum are very core to scaling AI anywhere in the world.
+
+Now with that kind of an interdependency, we are seeing circularity in action here. Energy decides the physical scalability of AI; utilities decide the reliability and sustainability of AI; resources decide the material availability of AI because of the materials they supply. And services continue to be the big consumers of AI when it comes to inferences because of primarily the B2C nature of their business.
+
+What we are seeing in the sectors across these different sectors in the segment is that demand has gone up, digital intensity is at an all-time high. There is not only growth, there is also margin expansion for these players because of what AI is creating for them. AI is also becoming the operating system for many of the industrial implementations, whether it is subsurface computing, whether it is digital mining or remote mining, whether it is grid reliability and prediction of the load on the grid, AI is sitting right at the heart of it.
+
+My colleagues, Dinesh and Satish spoke about this earlier. This is an asset heavy and ERP heavy industry. So ERP is all over the place. There are a lot of business rules, data, compliance, regulation that has been built in the ERP systems over decades. That, in a way, has created this opportunity where we can put AI to unlock value from the data and also create an orchestration layer for a better human experience. That creates a unique opportunity for SIs like ourselves to go in and look at the ERP landscape and see how we can get the best value out of it. Obviously, we are helping clients move their opex savings because of AI to do a lot more discretionary projects, a lot more transformational projects that AI has unlocked for them.
+
+What differentiates us is a triangulation of our deep understanding of the client's context, our extremely rich domain consulting skills and engineering AI at an enterprise scale. When we triangulate these three, it has put Infosys in a pole position when it comes to AI. And the proof of the pudding is we are the AI partners for 15 of our top 25 clients in this segment. We do work across the AI framework.
+
+We have created digital twins for a very large oil and gas major to take asset telemetry and make the assets more intelligent, more automated, reduce their downtime. We have worked in AI-grade data engineering for a very large electricity provider to predict the load on the grid and ensure they invest on the grid where there is congestion to provide electricity to the data centers. These are mathematical problems that could not have been solved at a granular level that we are doing today.
+
+We are working with helping 20 plus of our clients reimagine their business processes, F&A, customer service that Salil talked about. This is unlocking new opportunities for us to bring AI at an enterprise level and then commit to the outcomes that the client desires for growth in revenue, reduction of costs which is expansion of margins and customer satisfaction and innovation.
+
+Another example is the agentic AI platform, where we are building enterprise-level agentic AI platforms to drive significant change in the way client imagines their workflows and then make the agents more of a co-worker with our clients' employees. We have done 15 plus such implementations in this segment.
+
+Of course, also the full stack modernization of clients' legacy systems, which is a huge opportunity. You saw the example of Hertz. We are doing 15 plus different ways and different flavors of bringing in AI to modernize assets that have been sitting there for the last 15, 20, 30 years, where clients can immediately unlock value. A great example is a very large airline, where we deployed agentic AI to modernize their systems to give better customer experience and predict the delivery of baggage to the customers on time.
+
+Let me bring this to life with two examples. This is a mega deal that we signed with BP, a super major. The challenge was to enhance enterprise-wide adoption of AI. Here, we are talking about massive scale that cuts across all of the value chain elements, starting from production and optimization to dynamic pricing in their retail & convenience stores, contract automation for the thousands of contracts that they sign, IT operations and corporate functions. We picked 50 plus AI and agentic AI initiatives and then brought in our partnerships. The technology stack that we used here was on Azure Foundry, OpenAI stack. For the developer productivity, we used GitHub Copilots at a very, very large enterprise scale. The outcomes were measurable: 18% year one improvement in IT operations efficiency, 50% faster contract validation, which is something that we are very proud of, and 95% payment accuracy. The proof of the pudding is in a statement that the CEO made in their Investor Day, which said Infosys and Palantir are their top two partners who are making AI real for the entire company, and he calls it super cool. And the other quote is from the ex-CIO.
+
+Let me give you another example. And this example is about scale. This is an example about complexity. This is an example about also not having fragmented but unified implementation of AI. This is for the largest oil and gas upstream operator in Australia. Their challenge was to bring in and build an enterprise AI platform that cuts across different parts of their organization, starting from their production and operations, contracting, procurement, finance, HR and IT Ops. We identified 16 plus high-value AI use cases for implementation, and we used Amazon Bedrock as the agentic AI for upstream functions and then Azure OpenAI foundry for corporate functions.
+
+The way we approached this is on four value vectors. The bottom of this, the foundation layer is the enterprise-grade platform that we build for them. On top of it, we built agents for intelligence and insights to their operations, agents for employee experience improvement, agents for asset operations. The results are visible: 20% to 35% efficiency gains in upstream value chain and 15% to 20% productivity gains in just improving the employee experience on a day-to-day basis because when they deployed this and they picked the corporate functions for agentification, this was one of the goals that we picked with them. We are bringing an outcome focused Responsible AI framework that is working at scale, at speed. I am very very excited for doing this for so many clients across the sector.
+
+Thank you.
+
+## Ambeshwar Nath
+
+## Infosys
+
+Good afternoon. Let me start off by walking you through the market outlook and the role that AI has for our clients.
+
+If you look at the quotes from market leaders in our industry, there is a common trend that is emerging: AI is no longer just about pilots. Today AI is embedded deep into our clients' operations that is helping them improve their revenue, efficiency and driving better customer value.
+
+If you look at the sub-verticals that we operate in, within consumer goods, we are seeing a significant impact of AI in multiple business use cases. We are seeing precision revenue growth management being one of the key levers, where millions of data points regarding demand, price, promotion, channel is ingested near real-time to determine whether value is being created or lost. This is creating a potential of an improvement of 3% to 5% in the overall gross profit. There is a significant focus of applying AI for hyper-personalized marketing, driving deep individualized consumer campaigns as well as driving AI planogramming compliance.
+
+Within the retail sector, we are seeing evolution of large language models for loyalty programs. As of 2026, 70% of all loyalty programs we will engage in will have an AI component in them. We have seen the evolution of camera vision in stores to help store operations and we are seeing a strong evolution of agentic commerce.
+
+Within logistics, we are seeing AI evolve in terms of doing demand sensing, route optimization as well as leveraging it for waste reduction, that is resulting in benefits of 15% to 30% in terms of overall cost reduction.
+
+So all in all, we are seeing an extensive use of AI for business outcomes and business use cases for business relevant problems for our clients. As Infosys, we are uniquely positioned because we bring in deep domain expertise, a strong understanding of data, a strong understanding of AI technology capabilities and governance to bring it all together to deliver meaningful outcomes.
+
+Let me talk about two specific examples of how we are bringing some of these business relevant capabilities to bear.
+
+The first one, and I would believe that most of you have seen this in the Living Labs a short time back. Ralph Lauren is one of the leading high-end fashion and apparel companies across the world. They are also, as of today, one of the fastest growing companies. But one of the uniqueness about why they are growing this fast is because they are true innovators. They were one of the first companies to evolve into going online for digital sales when e-commerce was just evolving. Today they are looking at how they can bring fashion and technology at an intersection to drive more meaningful conversations and path to purchase with their consumers. Clearly, one of the key elements they are looking at is how can they replicate the whole concept of stylists which happen in stores and how can they bring that same culture online. In store, there are always challenges. You do a lot of manual merchandising, there is a lot of interaction with individual consumers. But the beauty is, if you do it online, even if there are millions of consumers engaging, each consumer is a separate segment in itself. You can do hyper-personalization at scale as if you have got a merchandiser working with you to style your exact outfit the way you want it.
+
+The third element, which is extremely important is to reduce the path to purchase, how do you ensure that you are able to connect to real-time inventory so that the actual order can get placed. That is also a significantly complex puzzle as part of these engagements.
+
+As part of what we did, and this was an engagement we did jointly with Ralph Lauren and Microsoft, first thing we did was we ingested 50 years of Ralph Lauren archives and lookbooks. So all that information was fed in, and then we created a whole natural language processing capability which allowed consumers to engage in a manner which is similar to the way you would engage with a human being. So you are engaging with an AI capability, but it felt very similar. So if you wanted to choose an outfit of the nature you want or you wanted for a specific occasion, it is happening as if you are talking in real life. It drove significant hyper-personalization. The path to purchase on an online setup was, if you can imagine, you search for an item, then you browse the item, then you click it in the shopping cart. It is a long-established process, but this was a seamless process because you were connecting to inventory, you could cut the path to purchase to something which is very immediate.
+
+This has resulted into significant benefits, and this is just the start of the journey because this is evolving. But today, this has led to a 50% increase in interactions of styling queries that are coming in. The overall results of Ralph Lauren showed a 12.2% increase in revenue. A lot of that, a significant amount was contributed through their online and digital capabilities. So this is one of our best examples in the industry where we are driving hyper-personalization at scale, leveraging the power of AI.
+
+Moving on, I would like to now talk about a second example. We talked about a global high-end fashion apparel retailer in my first example. I want to move gears and talk about a regional player because that is very important as a lot of our regional players are also leveraging the power of AI.
+
+Posti is Finland's logistics leader. It is a legacy organization, 400 years old. It has a legacy of over 40 years. Its primary business many years back was just the postal business, but they have evolved over a period of time to get into parcels, into supply chain, into warehousing. So now they are an end-to-end logistics player.
+
+As the postal volumes are declining which is true for the entire industry, they have been focused on how can they pivot to the new, how can they move from being a player that has legacy debt to a player that can drive new-age capabilities, who can focus on the run-to-growth element and pivot themselves into building differentiated capabilities.
+
+Infosys is an end-to-end partner for them. We are the single partner that is doing entire IT services for them. As part of that entire exercise, we have evolved an AI-first operating model, which is really across run and transform. So how do we bring in AI in every part of the Infosys set of engagements that we work on. Today, we are running with over 20 plus initiatives on AI across their postal business, across their parcel business and their freight business. So we are cutting the entire value chain and applying AI at all points of the ecosystem. The whole focus is around run-to-growth. So how do we reduce the run cost and then push them into growth initiatives that can allow them to be a leader within the Nordics market.
+
+Lastly, they have not gone with one solution. We are the single partner who are driving AI orchestration for them. They are working with a variety of AI toolsets, and we are ensuring that we are orchestrating it to deliver outcomes. Now what this has resulted in. It has resulted in a 50% software generation by AI tools, it has led to a 35% improvement in productivity and the mean time to recover considering that they had a large amount of legacy systems, has been improved by 70%. So this has created a massive impact.
+
+I would like to just summarize by highlighting two points. One is the fact that we are seeing AI evolve within our client landscape. It is critical, it is a true game changer for our industry. Second, together with our clients, we are working on a number of business-enabling capabilities all centered around having AI at the center and this is helping us create differentiated value and long-term association with our clients.
+
+Thank you.
+
+## Infosys
+
+At this time, I think you should have gotten a fair idea about, one, the opportunity in front of us, and it is more the execution risk that can hold any IT service company back. It is not the opportunity itself. Then if you looked at the AI value framework that Salil unveiled, one of the main components on that is the partnership ecosystem. It makes it even more important now that we have a very strong set of partners to be able to go to market.
+
+As the AI evolution was taking place, one of the things we did was to really rethink our partner strategy and construct a partner ecosystem that really got us thinking about the future and will help us to actually cross the chasm because the AI stack has to be reflected in how we are going to get the partnerships done.
+
+Today morning, we announced a big partnership with Anthropic as an example of how we are moving this forward. So we need model companies, we need infrastructure companies that actually are investing in terms of AI transformation. Similarly, a set of companies around the chips to application layer to infrastructure to cybersecurity, to model are all part of the AI stack.
+
+Normally, people are equating AI to one particular company or one particular category of company. It is not. It is a very complex set of components you need to make AI come to life. Enterprises want the stack to be governed which is very complex. It is not easy to manage the contracts or manage the performance obligations of these companies or to get the business outcomes they want unless they have somebody who is going to take ultimate accountability for it. So where we come in is we are at the center of this.
+
+Yes, AI is reshaping the IT services value chain. But we are in the middle of it. We are orchestrating outcomes for our clients and managing risks for them, not just emanating from us, but also from the ecosystem of partners we have. So all the partnerships that we have been announcing and we have announced are a very carefully curated set of partners who will actually make the needle move for our clients.
+
+These are partners that will help us with specific industry workloads rather than generally come with one specific set of capabilities. That is what differentiates Infosys as against other companies in terms of how we look at these partnerships.
+
+So if you see the AI value framework, across the framework, already, we have started executing some really solid programs in AI that is giving us referenceable templates to actually take it to more clients.
+
+So in the case of the first component, which is the AI strategy and engineering, with a leading investment management firm, we help them to actually work with an NVIDIA stack, where their onboarding of investors accelerated by about 30%. This is an investment firm that has more than 5,000 plus rules, regulations. I do not need to explain that to you this particular group of people as you might understand how it works in your world. We were able to bring in NVIDIA as a center point on the stack and be able to drive that change.
+
+In another case with a leading telco, we were able to create a digital sales assistant where 95% of their fiber sales was done by the digital set of agents instead of human-powered selling. Now that is the power of the partnerships that we have because in order to bring this to life, you need pre-established relationships, training between companies and contracts so that the friction to market is less. We also have that way a mutual understanding of how will we manage together the total risk that needs to be spread between us and the partners.
+
+Similarly, on the data for AI, a lot of examples have already been taken by my colleagues. They all talked about many of the examples, including the Polo Ralph Lauren example, which is an amazing one. But in addition to that, we have actually delivered a variety of work in terms of actually helping the clients to get the data ready for the AI world. That is about moving it into a place where it is easily retrievable and is curated and it actually can deliver insights.
+
+On the process AI, one of the areas where we see most of impact with the AI and the opportunity is really bringing AI into our BPM plus IT stack. When Rafee spoke, he announced one of the AI products from Infosys is AI Next. So if somebody wants a full platform, they can actually get AI Next from us. AI Next, in this particular case, with one of the leading restaurant chain has actually enabled them to faster processing of their vendor invoices. Similarly, there was an example you must have heard about one of our clients in which AI Next played a very crucial role in accelerating the supply chain.
+
+On the legacy modernization, one other area of this value framework, which is another area where we see a huge amount of opportunity. Bali spoke about a few opportunities there. Our partners together with us have created a set of accelerators that are enabling our clients to move from legacy architecture to the AI architecture faster. One example is a mainframe modernization program that we have done for Hertz. You saw the Hertz customer come and speak. Similarly, we have many other examples of where we have really taken this to our clients and getting them the benefits.
+
+On physical AI, Dinesh spoke about some of the examples on physical AI, which is around how do we really bring the AI in terms of the robotics and other physical products and make sure that they are actually getting ready for the AI world. Those examples are also building.
+
+What I would like to sort of sum up is to say that the opportunity is really in front of us. There is no question about that. We have the conviction on that. But at the same time, we also acknowledge that this requires complex execution across multiple components. One of the key components is the partnership ecosystem. As an organization, we have invested heavily and really brought in a set of partners that will help us to transcend this to a position where we can be a leading AI player.
+
+I would like to conclude this with an announcement we made with Anthropic today. And one of the Anthropic execs says the following about us. So can we please roll the video?
+
+So in summary, we think trust, scale and partnerships are going to be the three pillars in which this transformation needs to happen. And we have the trust with the clients and the partners. We have the scale, and we have also a fantastic partner ecosystem that will help us to actually carry our clients on this transformation journey.
+
+Thank you.

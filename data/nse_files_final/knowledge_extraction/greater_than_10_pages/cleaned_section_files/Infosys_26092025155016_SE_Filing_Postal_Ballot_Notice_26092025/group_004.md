@@ -1,0 +1,176 @@
+---
+document_name: "Infosys_26092025155016_SE_Filing_Postal_Ballot_Notice_26092025.md"
+group_id: "Infosys_26092025155016_SE_Filing_Postal_Ballot_Notice_26092025__group_004"
+source_section_count: 2
+estimated_tokens: 4732
+source_section_ids:
+  - "Infosys_26092025155016_SE_Filing_Postal_Ballot_Notice_26092025__006"
+  - "Infosys_26092025155016_SE_Filing_Postal_Ballot_Notice_26092025__007"
+---
+---
+section_title: "10. Intention of the Promoters, Promoter Group and persons in control of the Company to tender their Equity Shares in the Buyback"
+section_description: "This section describes the promoters' intention not to participate in the buyback, additional procedures and considerations for holders of American Depositary Shares, U.S. law disclosures, and taxation treatment for resident and non-resident shareholders."
+topics:
+  - "Promoter and Promoter Group participation"
+  - "American Depositary Shares"
+  - "Indian demat and brokerage accounts"
+  - "Re-deposit of withdrawn equity shares"
+  - "Foreign exchange considerations"
+  - "Tax and regulatory considerations"
+  - "TDS and withholding tax"
+sample_queries:
+  - "Can ADS holders tender ADSs directly in the buyback?"
+  - "What steps must ADS holders take to participate in the buyback?"
+  - "What is the expected timeline for establishing an Indian Demat account and Brokerage Account?"
+  - "How are withdrawn Equity Shares re-deposited against the creation of ADSs?"
+  - "What foreign exchange consideration applies to the Buyback Price?"
+  - "How will buyback consideration be treated under the Income-tax Act after October 1, 2024?"
+  - "What TDS rates apply to resident shareholders with and without a valid PAN?"
+  - "What documents must non-resident shareholders provide to claim DTAA benefits?"
+---
+
+## 10. Intention of the Promoters, Promoter Group and persons in control of the Company to tender their Equity Shares in the Buyback:
+
+In terms of the Buyback Regulations, under the tender offer route, the Promoter and Promoter Group have the option to participate in the Buyback. In this regard, the Promoter and Promoter Group of the Company have expressed their intention of not participating in the Buyback vide their letters dated September 14, 2025, September 16, 2025, September 17, 2025, September 18, 2025 and September 19, 2025. Accordingly, the disclosures as required as per paragraphs (viii) to the Schedule I of the SEBI Buyback Regulations are not applicable.
+
+11. The Company confirms that it has not accepted any deposits either before or after applicability of Companies Act, 2013. Further, the Company confirms that there are no defaults subsisting in the redemption of debentures or interest payment thereon or redemption of preference shares or payment of dividend due to any shareholder, or repayment of any term loans or interest payable thereon to any financial institution or banking companies.
+
+## 12. Additional Information for Holders of the Company's American Depositary Shares
+
+## i. Withdrawal of Equity Shares Underlying ADSs: Establishing an Indian Demat account (Subtype DR) and a Brokerage Account.
+
+ADS holders will not be eligible to tender ADSs in the Buyback. In order for such holders to participate in the Buyback, they must become holders of Equity Shares as of the Record Date. They, therefore, need to:
+
+1. apply for and obtain a PAN from the Indian Income Tax Department to allow them to directly hold Equity Shares;
+2. establish an account with a bank, broker or other nominee in India sufficiently in advance of the Record Date to receive Equity Shares in electronic dematerialized form and set up a broker account in India to effect the transactions in the Equity Shares (an "Indian Demat account (Subtype DR) and a Brokerage Account") prior to the Record Date;
+3. submit their desired number of ADSs to the Depositary for cancellation along with proper cancellation instructions in each case sufficiently in advance of the Record Date, which is expected to be on or around November 14, 2025, provided the Buyback is approved by the shareholders, and withdraw the underlying Equity Shares such that they are holding Equity Shares of the Company as of the Record Date; and
+4. tender into the Buyback any or all such withdrawn Equity Shares in accordance with the terms of the Buyback when the Tendering Period for the Buyback ("Tendering Period") commences.
+
+Each ADS holder who wishes to cancel their ADSs and receive the Equity Shares represented thereby will be responsible for setting up its own Indian Demat account (Subtype DR) and a Brokerage Account, including providing any necessary documentation and incurring any fees, charges and expenses in connection therewith. ADS holders may contact any BSE and NSE registered stock broker for this purpose.
+
+ADS holders can apply for a PAN with the Indian Income Tax Department through an online Form 49A and by following the instructions set forth therein. The process for obtaining a PAN includes, among other things, physical mailing of documentation to and from the Income Tax Department. Accordingly, ADS holders who may wish to participate in the Buyback are encouraged to apply for a PAN as soon as possible.
+
+The Company has been advised that the time for establishing an Indian Demat account (Subtype DR) and a Brokerage Account, including obtaining a PAN and completing necessary "know your customer" and other documentation, typically takes 21-35 calendar days but ultimately depends on various factors, including the time to complete the requisite documentation, verification of the documentation and governmental agency response time.
+
+The Company has been further advised that ADS holders who have established an Indian Demat account (Subtype DR) and a Brokerage Account, delivered their desired number of ADSs to the Depositary for cancellation and provided the Depositary with proper Equity Share delivery instructions would typically receive Equity Shares underlying their ADSs within 2 to 3 business days after their ADSs have been cancelled, but ADS holders are advised to allow additional time to ensure that such withdrawal and delivery is completed prior to the Record Date.
+
+Keeping in view the aforementioned timelines and that the Record Date is expected to be on or around November 14, 2025, provided the Buyback is approved by the shareholders, ADS holders have approximately 49 calendar days from the date of this Postal Ballot Notice being publicly available to take such steps, including establishing an Indian Demat account (Subtype DR) and a Brokerage Account, obtaining a PAN from the Indian authorities and withdrawing Equity Shares underlying their ADSs, as may be required to hold Equity Shares as on the Record Date. Accordingly, ADS holders who may wish to participate in the Buyback are encouraged to commence the process to obtain a PAN and establish an Indian Demat account (Subtype DR) and a Brokerage Account as soon as possible.
+
+A registered ADS holder ("Registered ADS Holder") may surrender such ADSs to the Depositary for cancellation along with a written order directing the Depositary to cause the Equity Shares represented by the ADSs to be withdrawn and delivered to an Indian Demat account (Subtype DR) and a Brokerage Account designated by such Registered ADS Holder (such order being the "Withdrawal Order").
+
+Persons holding their ADSs through a bank, broker or other nominee ("Street Name ADS Holders") must request such bank, broker or other nominee to surrender the ADSs to be cancelled and provide the Depositary with the Withdrawal Order including an authorized broker ADS cancellation instruction letter in a form to be provided by the Depositary.
+
+ADS Holders also must provide their email address to the Indian depositories as part of their process of establishing an Indian Demat account (Subtype DR) and Brokerage Account so that following the Record Date such ADS Holders who are determined to be Eligible Shareholders can receive electronic distributions of tender offer materials.
+
+The Depositary has agreed to waive the ADS cancellation fee that would otherwise be payable in connection with the Buyback. However, if any Equity Shares not tendered or tendered but not accepted in the Buyback are redeposited more than 30 days after expiration of the Tendering Period, the ADS cancellation fee would be applicable.
+
+Registered ADS Holders should contact the Depositary directly to effect a cancellation of their ADSs; Street Name ADS Holders should contact their bank, broker or other nominee for information on how to effect a cancellation of their ADSs.
+
+ADS holders who cancel any ADSs and withdraw the underlying Equity Shares, such that they become holders of Equity Shares as of the Record Date, will then be allocated an entitlement that is dependent on the number of Equity Shares held as of the Record Date.
+
+ADS holders are reminded that the Depositary will not assist ADS holders or other persons in establishing Indian Demat account (Subtype DR) and a Brokerage Accounts, applying for or obtaining a PAN or any other matter other than making delivery of the Equity Shares underlying cancelled ADSs to the account designated by the holder of the ADSs being cancelled.
+
+ADS holders who propose to open a new DR Subtype account should contact any local Indian bank/broker, and will need to ensure that they can complete the required steps in a timely manner to ensure shares are received prior to the Record Date in order to participate in the Buyback.
+
+## ii. Re-Deposit of Withdrawn Equity Shares.
+
+Equity Shares trade on the NSE and the BSE and cannot be traded on the NYSE. There is no guarantee that any ADS holder who submits ADSs for cancellation and withdrawal of the underlying Equity Shares will have any or all of such Equity Shares accepted in the Buyback.
+
+The Company had received an intimation from the SEBI in 2017 that the Depository Receipt Scheme, 2014 issued by the Government of India was presently in vogue. Since Depository Receipt Scheme, 2014 has not been amended with respect to conversion or reconversion of the depository receipts, the same advice holds true. In terms of the scheme, the conversion of ADSs into Equity Shares and vice versa is available to the Company. Accordingly, the re-deposit of the withdrawn Equity Shares against the creation of ADS will be in accordance with the provisions of the Depository Scheme, 2014 and the terms of the ADSs.
+
+If an ADS holder withdraws Equity Shares underlying his or her ADSs after the ADS postal ballot cut-off date and prior to the last date of the Tendering Period, such ADS holder will be able to re-deposit against the creation of ADSs any of such Equity Shares that are not tendered in the Buyback, or if tendered, are not accepted in the Buyback, and receive in return ADSs representing such re-deposited Equity Shares if such ADS holder has such Equity Shares delivered to the Custodian for the Depositary, along with ADS issuance instructions, on or prior to 30 days after expiration of the Tendering Period. The Depositary has agreed to waive the ADS issuance fee that would otherwise be payable in connection with the issuance of ADSs representing such re-deposited Equity Shares during such 30-day period.
+
+Withdrawn Equity Shares for which the aforementioned re-deposit does not occur and/or instruction is not given within such 30-day period, as well as Equity Shares withdrawn prior to the ADS postal ballot cut-off date or after the last day of the Tendering Period, may only be re-deposited against the creation of ADSs to the extent a specified maximum number of outstanding ADSs would not be exceeded. Accordingly, the Company cannot assure ADS holders that such Equity Shares will be able to be redeposited against the creation of ADSs. In addition, in these circumstances, the ADS issuance fee would not be waived with respect to the issuance of ADSs representing such Equity Shares.
+
+## iii. Buyback Price and Foreign Exchange Considerations.
+
+The Buyback Price will be paid in Indian rupees. Fluctuations in the exchange rate between the Indian rupee and the U.S. dollar will affect the U.S. dollar equivalent of the Buyback Price and Buyback amount. ADS holders are urged to obtain current exchange rate information before making any decision with respect to the Buyback.
+
+## iv. Tax and Regulatory Considerations.
+
+The withdrawal of Equity Shares underlying ADSs, the re-deposit of Equity Shares not tendered or not accepted in the Buyback against the creation of ADSs, and the sale in the Buyback of Equity Shares withdrawn may have various tax implications in India, the United States, and other jurisdictions that differ from, and may be substantially more onerous than, those that would be applicable to sales of ADSs on the NYSE. Such tax implications could vary depending on several factors, including the period of holding the securities, the residential status of the holder, the classification of the holder, the nature of the income earned, etc.
+
+## a. India
+
+Withdrawal and Re-Deposit of Equity Shares by ADS Holders: While there are arguments in favour that withdrawal of Equity Shares underlying ADSs should not be subject to Indian capital gains tax, this view is not free from doubt as the law is not very clear on this aspect. In addition, because of the very limited precedent, whether the re-deposit of Equity Shares against the creation of ADSs is subject to Indian taxation is particularly unclear. The Company cannot assure ADS holders that tax will not be imposed or whether the bank, broker or other nominee in India with whom individual ADS holders establish an Indian Demat account (Subtype DR) and a Brokerage Account will withhold taxes in connection with the re-deposit of such Equity Shares.
+
+In light of the foregoing, ADS holders are advised to consult their legal, financial and tax advisors and the bank, broker or other nominee in India with whom they intend to establish an Indian Demat account (Subtype DR) and a Brokerage Account to understand the potential implications of a withdrawal and re-deposit of Equity Shares prior to their making a request to the Depositary to effect the withdrawal of the Equity Shares underlying their respective ADSs.
+
+In addition to the foregoing Indian taxation considerations, ADS holders should consider potential taxation under the laws of their country of residency and other jurisdictions in which they may be subject to taxation arising out of the withdrawal and redeposit of Equity Shares.
+
+## b. United States
+
+## i. Withdrawal and Re-Deposit of Equity Shares by ADS Holders.
+
+For U.S. federal income tax purposes, ADS holders generally will be treated as the owners of Equity Shares underlying such ADSs. Accordingly, withdrawing Equity Shares underlying ADSs and re-depositing Equity Shares that are not tendered in the Buyback, or if tendered, re-depositing Equity Shares that are not accepted in the Buyback generally will not be subject to U.S. federal income tax. For further information on the U.S. federal income tax consequences relevant to U.S. holders, as defined therein, of ADSs and/or Equity Shares, please see the Company's Form 20-F.
+
+## ii. Tendering Equity Shares in the Buyback.
+
+Important information on the tax treatment relevant to tendering Equity Shares in the Buyback will be set forth in a Form 6-K to be furnished by the Company with the SEC on or about the date of this Postal Ballot Notice, as well as in the Letter of Offer to be distributed with respect to the Buyback. ADS holders are advised to review such tax considerations set forth in the above-referenced Form 6-K prior to their making a request to the Depositary to effect the withdrawal of the Equity Shares underlying their respective ADSs.
+
+Each ADS holder should consult their own tax advisor with respect to the federal, state and local tax consequences of withdrawing and re-depositing equity shares, as well as the tax consequences of participating in the buyback.
+
+## v. Further Information.
+
+ADS holders are advised to consult their own legal, financial and tax advisors prior to surrendering their ADSs for cancellation, requesting that the Depositary effect withdrawal of Equity Shares, and/or participating in the Buyback, including, without limitation, advice related to any related regulatory approvals and other tax considerations, including those in India, U.S. and other relevant jurisdictions.
+
+ADS holders who require additional information on participation of ADS holders in the Buyback should contact the bank, broker or other nominee utilized in setting up their Indian Demat account (Subtype DR) and a Brokerage Account. ADS holders who require additional information on surrendering their ADSs for cancellation and withdrawal of the Equity Shares represented thereby should contact the entity with whom they hold their ADSs.
+
+## 13. Additional Information Pursuant to U.S. Law
+
+The Buyback for the outstanding Equity Shares of the Company described herein has not yet been approved by the Company's shareholders and, accordingly, has not yet commenced. This communication is provided for informational purposes only and is neither an offer to purchase nor a solicitation of an offer to sell any securities of the Company pursuant to the Company's Buyback or otherwise.
+
+If the Buyback is approved by the Company's shareholders, any offers to purchase or solicitations of offers to sell will be made pursuant to a Tender Offer Statement on Schedule TO, including the Letter of Offer and other documents relating to the tender offer, which will be filed with the SEC by the Company. The Company's security holders are advised to carefully read these documents, any amendments to these documents and any other documents relating to the Buyback that are filed with the SEC in their entirety prior to making any decision with respect to the Company's Buyback because these documents contain important information, including the terms and conditions of the offer.
+
+The Company's security holders may obtain copies of these documents, when they become available, and other documents filed with the SEC for free from the SEC or from the Company's Investor Relations department.
+
+## 14. Note on Taxation
+
+Members may note that the Income-tax Act, 1961 ("the IT Act") as amended by the Finance (No. 2) Act, 2024, provides that the entire consideration paid by company to its shareholders on Buyback of shares shall be considered as dividend. In this regard, a new clause (f) has been inserted in section 2(22) of the IT Act, which provides that "Dividend" includes any payment by a company on purchase of its own shares from a shareholder in accordance with the provisions of section 68 of the Companies Act, 2013. As per the amendment provisions, any consideration paid to shareholders on account of a buy-back of shares on or after October 01, 2024 shall be dividend income and is taxable in the hands of the shareholders.
+
+Section 46A of the IT Act, which provides for capital gains taxation in the hands of the shareholders upon buy-back of shares by the company, is amended with effect from October 01, 2024. It states that in the case of buy-back of shares, the consideration received by the shareholder will be deemed to be Nil for the purpose of computing capital gains. Consequently, a capital loss will arise in the hands of the shareholder equivalent to the cost of acquisition of the shares bought back.
+
+The Company shall be required to deduct tax at source (TDS) or withholding of taxes (WHT) at the time of making the payment of total buyback consideration to shareholders which will be treated as dividend under the IT Act. To enable the Company to determine the appropriate TDS/WHT rate as applicable, members are requested to submit relevant documents, as specified in the below paragraphs, in accordance with the provisions of the IT Act.
+
+The residential status of the shareholders would be taken as per the information available with the depositories (NSDL/CDSL) or the Registrar and Share Transfer Agent (KFin Technologies Limited) as on Record Date for the Buyback 2025.
+
+For resident shareholders, taxes shall be deducted at source under Section 194 of the IT Act as follows:
+
+| Shareholder category | TDS rate |
+|---|---|
+| Members having valid Permanent Account Number (PAN) | 10%* or as notified by the Government of India (GOI) |
+| Members not having PAN / valid PAN | 20% or as notified by the GOI |
+
+\* As per Section 139AA of the IT Act, every individual person who has been allotted a PAN and who is eligible to obtain Aadhaar shall be required to link the PAN with Aadhaar. In case of failure to comply with this, the PAN allotted shall be deemed to be invalid/inoperative and he shall be liable to all consequences under the IT Act and tax shall be deducted at the higher rates as provided in section 206AA of the IT Act, 1961, i.e., 20% of tax deduction at source.
+
+However, no tax shall be deducted on the amount of buyback consideration as dividend payable to resident individual shareholders if the total of all dividend and buyback proceeds as dividend to be received by them during financial year 2025-2026 does not exceed in aggregate ` 10,000.
+
+Further, no tax shall be deducted in cases where individual shareholder provide Form 15G / Form 15H. Form 15G is applicable to resident individual shareholders and Form 15H is applicable to resident individual shareholders aged 60 years or more, subject to conditions specified in the IT Act. If during the financial year 2025-2026 the above-mentioned Forms become invalid, then tax would be deducted on total payments made during the financial year 2025-2026 from the buyback consideration.
+
+PAN is mandatory for members providing Form 15G / 15H or any other document as mentioned above. Resident shareholders may also submit any other document under any provisions of the IT Act to claim a lower/nil withholding of tax. Shareholders may also provide a Lower Tax Deduction Certificate (LTDC) certificate issued by the Income Tax Department under Section 197 or any other section of the IT Act, which authorizes company to deduct TDS at a lower rate instead of the standard prescribed rate under the IT Act.
+
+For non-resident shareholders, taxes are required to be withheld (WHT) in accordance with the provisions of Section 195 or 196D or any other applicable sections of the IT Act, at the rates in force on the buyback consideration as dividend. The withholding tax shall be at the rate of 20%, plus applicable surcharge and cess, or as notified by the GOI on the amount of buyback consideration payable as dividend.
+
+Shareholders may also provide a Lower Tax Deduction Certificate (LTDC) certificate issued by the Income Tax Department under Section 195 or any other section of the IT Act, which authorizes company to deduct TDS at a lower rate instead of the standard prescribed rate under the IT Act.
+
+However, as per Section 90 of the IT Act, non-resident shareholders can avail the provisions of the certain Double Tax Avoidance Agreement (DTAA) provided they satisfy conditions such as non-applicability of the General Anti-Avoidance Rule ("GAAR"), read with Multilateral Instrument (MLI), between India and the country of tax residence of the shareholders, if such DTAA has beneficial provisions with respect to buyback consideration which are considered payable as dividend and shareholders fulfilled all requirements of DTAA.
+
+For this purpose, i.e., to avail the benefits under the DTAA read with MLI, non-resident shareholders will have to provide all the following documents:
+
+- Copy of the PAN card allotted by the Indian income tax authorities duly attested by the shareholders or details as prescribed under rule 37BC of the Income-tax Rules, 1962 in absence of PAN Card.
+- Copy of the Tax Residency Certificate for financial year 2025-2026 obtained from the revenue or tax authorities of the country of tax residence, duly attested by shareholders/authorized signatory.
+- Electronic Form 10F as per notification no. 03/2022 dated July 16, 2022 issued by the Central Board of Direct Tax.
+- Self-declaration by the shareholders of having no permanent establishment in India in accordance with the applicable tax treaty.
+- Self-declaration of beneficial ownership by the non-resident shareholder.
+- Self-declaration of fulfilling all conditions of tax treaty for been eligible to claim benefit of the tax treaty (DTAA) read with Multilateral Instrument (MLI).
+- Any other documents as prescribed under the IT Act for lower withholding of taxes, if applicable, duly attested by the shareholders.
+
+Kindly note that extending the benefit of tax treaty would depend on the documents submitted.
+
+The aforementioned documents are required to be sent to the registered office of Infosys Limited.
+
+The Company will enable more options to facilitate shareholders to submit the aforementioned documents. The details of the same will be provided in the Letter of Offer.
+
+No communication and documents would be accepted from members after last date of tendering of the offer.
+
+Shareholders with PAN can check their tax credit in Form 26AS from the e-filing account or through "View Your Tax Credit".

@@ -1,0 +1,214 @@
+---
+document_name: "Infosys_16102025160458_BM_Outcome_Oct162025.md"
+group_id: "Infosys_16102025160458_BM_Outcome_Oct162025__group_023"
+source_section_count: 2
+estimated_tokens: 4999
+source_section_ids:
+  - "Infosys_16102025160458_BM_Outcome_Oct162025__044"
+  - "Infosys_16102025160458_BM_Outcome_Oct162025__045"
+---
+---
+section_title: "2.12 Income Taxes"
+section_description: "This section contains accounting policies and disclosures for income taxes, earnings per equity share, related party transactions, subsidiary changes, key management personnel compensation, and segment reporting. It includes tax expense tables and business segment revenue, expense, profit, and reconciliation information for the three and six months ended September 30, 2025 and September 30, 2024."
+topics:
+  - Income tax accounting policy
+  - Tax expense and deferred taxes
+  - Tax claims and disputes
+  - Earnings per equity share
+  - Related party transactions
+  - Subsidiary changes
+  - Key management personnel compensation
+  - Business segment reporting
+sample_queries:
+  - "What was Infosys' income tax expense for the three and six months ended September 30, 2025?"
+  - "What tax claims were not acknowledged as debts as at September 30, 2025 and March 31, 2025?"
+  - "What changes in subsidiaries occurred during the six months ended September 30, 2025?"
+  - "How much compensation was paid to key management personnel for the three months ended September 30, 2025?"
+  - "Which business segments are included in Infosys' segment reporting?"
+  - "What was the segment profit for Financial Services for the six months ended September 30, 2025?"
+  - "How are unallocable expenses treated in segment reporting?"
+---
+
+## 2.12 Income Taxes
+
+## Accounting policy
+
+Income tax expense comprises current and deferred income tax. Income tax expense is recognized in net profit in the interim condensed Consolidated Statement of Comprehensive income except to the extent that it relates to items recognized directly in equity, in which case it is recognized in equity or other comprehensive income. Current income tax for current and prior periods is recognized at the amount expected to be paid to or recovered from the tax authorities, using the tax rates and tax laws that have been enacted or substantively enacted by the Balance Sheet date. Deferred income tax assets and liabilities are recognized for all temporary differences arising between the tax bases of assets and liabilities and their carrying amounts in the financial statements except when the deferred income tax arises from the initial recognition of goodwill or an asset or liability in a transaction that is not a business combination and affects neither accounting nor taxable profit or loss at the time of the transaction. Deferred tax assets are reviewed at each reporting date and are reduced to the extent that it is no longer probable that the related tax benefit will be realized.
+
+Deferred income tax assets and liabilities are measured using tax rates and tax laws that have been enacted or substantively enacted by the Balance Sheet date and are expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled. The effect of changes in tax rates on deferred income tax assets and liabilities is recognized as income or expense in the period that includes the enactment or the substantive enactment date. A deferred income tax asset is recognized to the extent that it is probable that future taxable profit will be available against which the deductible temporary differences and tax losses can be utilized. Deferred income taxes are not provided on the undistributed earnings of subsidiaries and branches where it is expected that the earnings of the subsidiary or branch will not be distributed in the foreseeable future.
+
+The Group offsets current tax assets and current tax liabilities; deferred tax assets and deferred tax liabilities, where it has a legally enforceable right to set off the recognized amounts and where it intends either to settle on a net basis, or to realize the asset and settle the liability simultaneously. The income tax provision for the interim period is made based on the best estimate of the annual average tax rate expected to be applicable for the full financial year. Tax benefits of deductions earned on exercise of employee share options in excess of compensation charged to income are credited to equity.
+
+Income tax expense in the consolidated statement of comprehensive income comprises:
+
+| Particulars | Three months ended September 30, 2025 | Three months ended September 30, 2024 | Six months ended September 30, 2025 | Six months ended September 30, 2024 |
+|---|---:|---:|---:|---:|
+| Current taxes |  |  |  |  |
+| Domestic taxes | 2,458 | 2,336 | 4,777 | 4,643 |
+| Foreign taxes | 720 | 810 | 1,455 | 1,501 |
+| Total current taxes | 3,178 | 3,146 | 6,232 | 6,144 |
+| Deferred taxes |  |  |  |  |
+| Domestic taxes | (199) | (262) | (341) | (496) |
+| Foreign taxes | (125) | (147) | (221) | (264) |
+| Total deferred taxes | (324) | (409) | (562) | (760) |
+| Income tax expense | 2,854 | 2,737 | 5,670 | 5,384 |
+
+Amounts are in ₹ crore.
+
+Income tax expense for the three months ended September 30, 2025 and September 30, 2024 includes reversal (net of provisions) of ₹2 crore and provisions (net of reversal) of ₹83 crore, respectively. Income tax expense for the six months ended September 30, 2025 and September 30, 2024 includes provisions (net of reversal) of ₹114 crore and reversal (net of provisions) of ₹143 crore, respectively. These provisions and reversals pertaining to prior periods are primarily on account of adjudication of certain disputed matters, upon filing of tax return and completion of assessments, across various jurisdictions.
+
+Deferred income tax for the three months and six months ended September 30, 2025 and September 30, 2024 substantially relates to origination and reversal of temporary differences.
+
+The Company's Advanced Pricing Arrangement (APA) with the Internal Revenue Service (IRS) for US branch income tax expired in March 2021. The Company has applied for renewal of APA and currently the US taxable income is based on the Company's best estimate determined based on the expected value method.
+
+As at September 30, 2025, claims against the Group not acknowledged as debts from the Income tax authorities amounted to ₹2,003 crore.
+
+As at March 31, 2025, claims against the Group not acknowledged as debts from the Income tax authorities amounted to ₹1,933 crore.
+
+The amount paid to statutory authorities against the tax claims amounted to ₹1,213 crore and ₹4,199 crore as at September 30, 2025 and March 31, 2025, respectively.
+
+The claims against the Group primarily represent demands arising on completion of assessment proceedings under the Income Tax Act, 1961. These claims are on account of issues of disallowance of expenditure towards software being held as capital in nature, payments made to Associated Enterprises held as liable for withholding of taxes, among others. These matters are pending before various Income Tax Authorities and the Management including its tax advisors expect that its position will likely be upheld on ultimate resolution and will not have a material adverse effect on the Group's financial position and results of operations.
+
+## 2.13 Earnings per equity share
+
+## Accounting Policy
+
+Basic earnings per equity share is computed by dividing the net profit attributable to the equity holders of the Group by the weighted average number of equity shares outstanding during the period. Diluted earnings per equity share is computed by dividing the net profit attributable to the equity holders of the Group by the weighted average number of equity shares considered for deriving basic earnings per equity share and also the weighted average number of equity shares that could have been issued upon conversion of all dilutive potential equity shares. The dilutive potential equity shares are adjusted for the proceeds receivable had the equity shares been actually issued at fair value (i.e. the average market value of the outstanding equity shares). Dilutive potential equity shares are deemed converted as at the beginning of the period, unless issued at a later date. Dilutive potential equity shares are determined independently for each period presented.
+
+The number of equity shares and potentially dilutive equity shares are adjusted retrospectively for all periods presented for any share splits and bonus shares issues including for changes effected prior to the approval of the financial statements by the Board of Directors.
+
+## 2.14 Related party transactions
+
+Refer to note 2.14 "Related party transactions" in the Company's 2025 Consolidated financial statements under IFRS in Indian rupee for the full names and other details of the Company's subsidiaries and controlled trusts.
+
+## Changes in Subsidiaries
+
+During the six months ended September 30, 2025, the following are the changes in the subsidiaries:
+
+- Infosys Energy Consulting Services LLC, a wholly-owned subsidiary of Infosys Nova Holdings LLC was incorporated on April 16, 2025.
+- Infosys Saudi Arabia LLC, a wholly-owned subsidiary of Infosys Limited was incorporated on April 21, 2025.
+- Infosys Australia Technology Service Pty Ltd, a wholly-owned subsidiary of Infosys Singapore Pte. Limited was incorporated on April 23, 2025.
+- On April 30, 2025, Infosys Nova Holdings LLC, a wholly owned subsidiary of Infosys Limited, acquired 98.21% of partnership interests in MRE Consulting Ltd along with its subsidiary MRE Technology Services, LLC. The remaining 1.79% was acquired by Infosys Energy Consulting Services LLC, a Wholly-owned subsidiary of Infosys Nova Holdings LLC.
+- On April 30, 2025, Infosys Australia Technology Service Pty Ltd, a wholly owned subsidiary of Infosys Singapore Pte. Limited, acquired 100% of voting interests in The Missing Link Automation Pty Ltd, The Missing Link Network Integration Pty Ltd and The Missing Link Security Pty Ltd along with its subsidiary The Missing Link Security Ltd.
+- in-tech Automotive Engineering de. R L de. C V, a wholly-owned subsidiary of in-tech GmbH has been liquidated effective May 07, 2025.
+- On May 13, 2025, Infosys Singapore Pte Ltd diluted 2% stake of HIPUS Co., Ltd to Mitsubishi Heavy Industries, Ltd.
+- Infosys BPM Canada Inc, a Wholly-owned subsidiary of Infosys BPM UK Limited was incorporated on July 28, 2025.
+- Infosys Germany Gmbh, a Wholly-owned subsidiary of Infosys Singapore Pte Ltd merged into Infosys Germany SE (formerly known as Blitz 24-893 SE) effective September 24, 2025.
+
+## Transactions with key management personnel
+
+The table below describes the compensation to key management personnel which comprise directors and executive officers:
+
+| Particulars | Three months ended September 30, 2025 | Three months ended September 30, 2024 | Six months ended September 30, 2025 | Six months ended September 30, 2024 |
+|---|---:|---:|---:|---:|
+| Salaries and other short term employee benefits to whole-time directors and executive officers (1)(2) | 30 | 28 | 60 | 56 |
+| Commission and other benefits to non-executive/ independent directors | 5 | 5 | 9 | 9 |
+| Total | 35 | 33 | 69 | 65 |
+
+Amounts are in ₹ crore.
+
+(1) For the three months ended September 30, 2025 and September 30, 2024, includes a charge of ₹18 crore and ₹17 crore respectively, towards employee stock compensation expense. For the six months ended September 30, 2025 and September 30, 2024, includes a charge of ₹35 crore and ₹35 crore respectively, towards employee stock compensation expense. (Refer to note 2.11).
+
+(2) Does not include post-employment benefits and other long-term benefits based on actuarial valuation as these are done for the Company as a whole.
+
+## 2.15 Segment reporting
+
+IFRS 8 Operating Segments establishes standards for the way that public business enterprises report information about operating segments and related disclosures about products and services, geographic areas, and major customers. The Group's operations predominantly relate to providing end-to-end business solutions to enable clients to enhance business performance. The Chief Operating Decision Maker (CODM) evaluates the Group's performance and allocates resources based on an analysis of various performance indicators by business segments. Accordingly, information has been presented along business segments. The accounting principles used in the preparation of the financial statements are consistently applied to record revenue and expenditure in individual segments, and are as set out in the accounting policies.
+
+Business segments of the Group are primarily enterprises in Financial Services and Insurance, enterprises in Manufacturing, enterprises in Retail, Consumer Packaged Goods and Logistics, enterprises in the Energy, Utilities, Resources and Services, enterprises in Communication, Telecom OEM and Media, enterprises in Hi-Tech, enterprises in Life Sciences and Healthcare and all other segments. The Financial services reportable segments has been aggregated to include the Financial Services operating segment and Finacle operating segment because of the similarity of the economic characteristics. All other segments represents the operating segments of businesses in India, Japan, China, Infosys Public Services &amp; other enterprises in Public Services.
+
+Revenue and identifiable operating expenses in relation to segments are categorized based on items that are individually identifiable to that segment. Revenue for 'all other segments' represents revenue generated by Infosys Public Services and revenue generated from customers located in India, Japan and China and other enterprises in Public services. Allocated expenses of segments include expenses incurred for rendering services from the Group's offshore software development centers and on-site expenses, which are categorized in relation to the associated efforts of the segment. Certain expenses such as depreciation and amortization, which form a significant component of total expenses, are not specifically allocable to specific segments as the underlying assets are used interchangeably. The Management believes that it is not practical to provide segment disclosures relating to those costs and expenses, and accordingly these expenses are separately disclosed as "unallocated" and adjusted against the total income of the Group.
+
+Assets and liabilities used in the Group's business are not identified to any of the reportable segments, as these are used interchangeably between segments. The Management believes that it is currently not practicable to provide segment disclosures relating to total assets and liabilities since a meaningful segregation of the available data is onerous.
+
+Business segment revenue information is collated based on individual customers invoiced or in relation to which the revenue is otherwise recognized.
+
+Disclosure of revenue by geographic locations is given in note 2.16 Revenue from operations.
+
+## 2.15.1 Business segments
+
+## Three months ended September 30, 2025 and September 30, 2024
+
+| Particulars | Period | Financial Services (1) | Manufacturing | Energy, Utilities, Resources and Services | Retail (2) | Communication (3) | Hi-Tech | Life Sciences (4) | All other segments (5) | Total |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Revenue | Three months ended September 30, 2025 | 12,320 | 7,347 | 5,945 | 5,639 | 5,397 | 3,703 | 2,863 | 1,276 | 44,490 |
+| Revenue | Three months ended September 30, 2024 | 11,156 | 6,424 | 5,546 | 5,446 | 4,879 | 3,266 | 3,004 | 1,265 | 40,986 |
+| Identifiable operating expenses | Three months ended September 30, 2025 | 7,017 | 4,439 | 3,341 | 2,815 | 3,402 | 2,342 | 1,802 | 802 | 25,960 |
+| Identifiable operating expenses | Three months ended September 30, 2024 | 6,258 | 4,074 | 3,166 | 2,696 | 3,165 | 1,889 | 1,865 | 840 | 23,953 |
+| Allocated expenses | Three months ended September 30, 2025 | 2,244 | 1,156 | 1,098 | 1,104 | 978 | 598 | 527 | 290 | 7,995 |
+| Allocated expenses | Three months ended September 30, 2024 | 2,038 | 1,053 | 945 | 982 | 822 | 583 | 525 | 276 | 7,224 |
+| Segment Profit | Three months ended September 30, 2025 | 3,059 | 1,752 | 1,506 | 1,720 | 1,017 | 763 | 534 | 184 | 10,535 |
+| Segment Profit | Three months ended September 30, 2024 | 2,860 | 1,297 | 1,435 | 1,768 | 892 | 794 | 614 | 149 | 9,809 |
+| Unallocable expenses | Three months ended September 30, 2025 |  |  |  |  |  |  |  |  | 1,182 |
+| Unallocable expenses | Three months ended September 30, 2024 |  |  |  |  |  |  |  |  | 1,160 |
+| Operating profit | Three months ended September 30, 2025 |  |  |  |  |  |  |  |  | 9,353 |
+| Operating profit | Three months ended September 30, 2024 |  |  |  |  |  |  |  |  | 8,649 |
+| Other income, net | Three months ended September 30, 2025 |  |  |  |  |  |  |  |  | 982 |
+| Other income, net | Three months ended September 30, 2024 |  |  |  |  |  |  |  |  | 712 |
+| Finance cost | Three months ended September 30, 2025 |  |  |  |  |  |  |  |  | 106 |
+| Finance cost | Three months ended September 30, 2024 |  |  |  |  |  |  |  |  | 108 |
+| Profit before income taxes | Three months ended September 30, 2025 |  |  |  |  |  |  |  |  | 10,229 |
+| Profit before income taxes | Three months ended September 30, 2024 |  |  |  |  |  |  |  |  | 9,253 |
+| Income tax expense | Three months ended September 30, 2025 |  |  |  |  |  |  |  |  | 2,854 |
+| Income tax expense | Three months ended September 30, 2024 |  |  |  |  |  |  |  |  | 2,737 |
+| Net profit | Three months ended September 30, 2025 |  |  |  |  |  |  |  |  | 7,375 |
+| Net profit | Three months ended September 30, 2024 |  |  |  |  |  |  |  |  | 6,516 |
+| Depreciation and amortization | Three months ended September 30, 2025 |  |  |  |  |  |  |  |  | 1,182 |
+| Depreciation and amortization | Three months ended September 30, 2024 |  |  |  |  |  |  |  |  | 1,160 |
+| Non-cash expenses other than depreciation and amortization | Three months ended September 30, 2025 | Non-cash expenses other than depreciation and amortization | Non-cash expenses other than depreciation and amortization |  |  |  |  |  |  | - |
+| Non-cash expenses other than depreciation and amortization | Three months ended September 30, 2024 |  |  |  |  |  |  |  |  | - |
+
+Amounts are in ₹ crore.
+
+(1) Financial Services include enterprises in Financial Services and Insurance.
+
+(2) Retail includes enterprises in Retail, Consumer Packaged Goods and Logistics.
+
+(3) Communication includes enterprises in Communication, Telecom OEM and Media.
+
+(4) Life Sciences includes enterprises in Life sciences and Health care.
+
+(5) Others include operating segments of businesses in India, Japan, China, Infosys Public Services &amp; other enterprises in Public Services.
+
+## Six months ended September 30, 2025 and September 30, 2024
+
+| Particulars | Period | Financial Services (1) | Manufacturing | Energy, Utilities, Resources and Services | Retail (2) | Communication (3) | Hi-Tech | Life Sciences (4) | All other segments (5) | Total |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Revenue | Six months ended September 30, 2025 | 24,116 | 14,151 | 11,687 | 11,290 | 10,494 | 6,999 | 5,607 | 2,425 | 86,769 |
+| Revenue | Six months ended September 30, 2024 | 21,971 | 12,201 | 10,767 | 10,873 | 9,622 | 6,414 | 5,871 | 2,581 | 80,300 |
+| Identifiable operating expenses | Six months ended September 30, 2025 | 13,679 | 8,713 | 6,622 | 5,729 | 6,734 | 4,304 | 3,512 | 1,465 | 50,758 |
+| Identifiable operating expenses | Six months ended September 30, 2024 | 12,346 | 7,857 | 5,882 | 5,392 | 6,278 | 3,673 | 3,622 | 1,591 | 46,641 |
+| Allocated expenses | Six months ended September 30, 2025 | 4,405 | 2,269 | 2,122 | 2,150 | 1,863 | 1,163 | 1,008 | 551 | 15,531 |
+| Allocated expenses | Six months ended September 30, 2024 | 4,153 | 2,041 | 1,893 | 1,962 | 1,656 | 1,133 | 1,023 | 551 | 14,412 |
+| Segment Profit | Six months ended September 30, 2025 | 6,032 | 3,169 | 2,943 | 3,411 | 1,897 | 1,532 | 1,087 | 409 | 20,480 |
+| Segment Profit | Six months ended September 30, 2024 | 5,472 | 2,303 | 2,992 | 3,519 | 1,688 | 1,608 | 1,226 | 439 | 19,247 |
+| Unallocable expenses | Six months ended September 30, 2025 |  |  |  |  |  |  |  |  | 2,323 |
+| Unallocable expenses | Six months ended September 30, 2024 |  |  |  |  |  |  |  |  | 2,310 |
+| Operating profit | Six months ended September 30, 2025 |  |  |  |  |  |  |  |  | 18,157 |
+| Operating profit | Six months ended September 30, 2024 |  |  |  |  |  |  |  |  | 16,937 |
+| Other income, net | Six months ended September 30, 2025 |  |  |  |  |  |  |  |  | 2,024 |
+| Other income, net | Six months ended September 30, 2024 |  |  |  |  |  |  |  |  | 1,551 |
+| Finance cost | Six months ended September 30, 2025 |  |  |  |  |  |  |  |  | 211 |
+| Finance cost | Six months ended September 30, 2024 |  |  |  |  |  |  |  |  | 214 |
+| Profit before income taxes | Six months ended September 30, 2025 |  |  |  |  |  |  |  |  | 19,970 |
+| Profit before income taxes | Six months ended September 30, 2024 |  |  |  |  |  |  |  |  | 18,274 |
+| Income tax expense | Six months ended September 30, 2025 |  |  |  |  |  |  |  |  | 5,670 |
+| Income tax expense | Six months ended September 30, 2024 |  |  |  |  |  |  |  |  | 5,384 |
+| Net profit | Six months ended September 30, 2025 |  |  |  |  |  |  |  |  | 14,300 |
+| Net profit | Six months ended September 30, 2024 |  |  |  |  |  |  |  |  | 12,890 |
+| Depreciation and amortization | Six months ended September 30, 2025 |  |  |  |  |  |  |  |  | 2,323 |
+| Depreciation and amortization | Six months ended September 30, 2024 |  |  |  |  |  |  |  |  | 2,310 |
+| Non-cash expenses other than depreciation and amortization | Six months ended September 30, 2025 | Non-cash expenses other than depreciation and amortization | Non-cash expenses other than depreciation and amortization |  |  |  |  |  |  | - |
+| Non-cash expenses other than depreciation and amortization | Six months ended September 30, 2024 |  |  |  |  |  |  |  |  | - |
+
+Amounts are in ₹ crore.
+
+(1) Financial Services include enterprises in Financial Services and Insurance.
+
+(2) Retail includes enterprises in Retail, Consumer Packaged Goods and Logistics.
+
+(3) Communication includes enterprises in Communication, Telecom OEM and Media.
+
+(4) Life Sciences includes enterprises in Life sciences and Health care.
+
+(5) Others include operating segments of businesses in India, Japan, China, Infosys Public Services &amp; other enterprises in Public Services.

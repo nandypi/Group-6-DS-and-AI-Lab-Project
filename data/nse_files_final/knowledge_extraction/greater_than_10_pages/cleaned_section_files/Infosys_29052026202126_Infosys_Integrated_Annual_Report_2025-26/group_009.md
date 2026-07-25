@@ -1,0 +1,97 @@
+---
+document_name: "Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26.md"
+group_id: "Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26__group_009"
+source_section_count: 1
+estimated_tokens: 6540
+source_section_ids:
+  - "Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26__017__part_001"
+---
+---
+section_title: "Subsidiary Financial Information"
+section_description: "This section contains financial and ownership details for Infosys subsidiaries, including country, reporting period, acquisition date, exchange rate, share capital, reserves, assets, liabilities, investments, turnover, taxation, profit or loss, and shareholding percentage."
+topics:
+  - Subsidiary financial data
+  - Reporting currencies and exchange rates
+  - Share capital and reserves
+  - Assets and liabilities
+  - Turnover and profitability
+  - Taxation provisions
+  - Shareholding percentages
+sample_queries:
+  - "What were the total assets and liabilities of Infosys BPM Limited for the period ended March 31, 2026?"
+  - "Which subsidiaries reported a loss after taxation?"
+  - "What exchange rates were used for subsidiaries reporting in EUR, USD, GBP, and other currencies?"
+  - "What was the turnover of EdgeVerve Systems Limited?"
+  - "Which subsidiaries had less than 100% shareholding?"
+  - "What were the share capital and reserves of Infosys Singapore Pte. Ltd.?"
+  - "Which subsidiaries had financial periods ending on December 31, 2025?"
+---
+
+(In ₹ crore, except exchange rate)
+
+| Sl. No. | Name of the subsidiary | Country | Financial period ended | Date of acquisition | Exchange rate / Reporting currency | Share capital | Reserves and surplus | Total assets | Total liabilities (excluding share capital and reserves and surplus) | Investments | Turnover (1) (includes inter-company transactions) | Profit / (Loss) before taxation (1) | Provision for taxation (1) | Profit / (Loss) after taxation (1) | % of shareholding |
+|---:|---|---|---|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 1 | Infosys BPM Limited (2) | India | Mar 31, 2026 | NA | INR | 34 | 3,216 | 5,576 | 2,326 | 872 | 9,075 | 981 | 200 | 781 | 100 |
+| 2 | Infosys Automotive and Mobility GmbH & Co. KG (2) | Germany | Dec 31, 2025 | NA | 1 EUR = ₹105.47 | 15 | (1,397) | 5,931 | 7,313 | - | 3,582 | 12 | 42 | (30) | 100 |
+| 3 | Infosys McCamish Systems LLC (5) | United States | Dec 31, 2025 | Dec 4, 2009 | 1 USD = ₹89.88 | 175 | 1,268 | 6,181 | 4,738 | - | 3,699 | 395 | 94 | 301 | 100 |
+| 4 | EdgeVerve Systems Limited (EdgeVerve) (2) | India | Mar 31, 2026 | NA | INR | 1,312 | 155 | 2,429 | 962 | 52 | 4,512 | 1,709 | 451 | 1,258 | 100 |
+| 5 | Infosys Public Services, Inc. USA (Infosys Public Services) (2) | United States | Mar 31, 2026 | NA | 1 USD = ₹94.84 | 98 | 2,019 | 2,637 | 520 | - | 2,027 | 221 | 50 | 171 | 100 |
+| 6 | Infy Consulting Company Ltd (6) | United Kingdom | Mar 31, 2026 | NA | 1 GBP = ₹125.51 | 135 | 357 | 1,783 | 1,291 | - | 3,029 | 181 | 48 | 133 | 100 |
+| 7 | Infosys Poland Sp. Z.o.o (5) | Poland | Mar 31, 2026 | Oct 1, 2007 | 1 PLN = ₹25.34 | 4 | 1,581 | 2,055 | 470 | 198 | 1,352 | 206 | 39 | 167 | 100 |
+| 8 | Stater Nederland B.V. (7) | The Netherlands | Dec 31, 2025 | NA | 1 EUR = ₹105.47 | 8 | 182 | 1,659 | 1,469 | - | 1,539 | 44 | 11 | 33 | 75 |
+| 9 | Infosys Technologies (China) Co. Limited (Infosys China) (2) | China | Dec 31, 2025 | NA | 1 RMB = ₹12.87 | 368 | 511 | 1,333 | 454 | - | 1,076 | 154 | 20 | 134 | 100 |
+| 10 | Infosys Compaz PTE Ltd (Temasek) (10) | Singapore | Mar 31, 2026 | Nov 16, 2018 | 1 SGD = ₹73.53 | 13 | 403 | 653 | 237 | - | 690 | 78 | 15 | 63 | 60 |
+| 11 | Infosys Consulting AG (6) | Switzerland | Dec 31, 2025 | NA | 1 CHF = ₹113.27 | 1 | 156 | 330 | 173 | - | 570 | 61 | 12 | 49 | 100 |
+| 12 | Infosys Technologies S. de R. L. de C. V. (Infosys Mexico) (2) | Mexico | Dec 31, 2025 | NA | 1 MXN = ₹4.99 | 65 | 630 | 938 | 243 | - | 749 | 78 | 28 | 50 | 100 |
+| 13 | Infosys Consulting GmbH (6) | Germany | Dec 31, 2025 | NA | 1 EUR = ₹105.47 | 17 | 184 | 334 | 133 | - | 493 | 31 | 9 | 22 | 100 |
+| 14 | Infosys (Czech Republic) Limited s.r.o. (5) | Czech Republic | Mar 31, 2026 | NA | 1 CZK = ₹4.42 | 3 | 103 | 213 | 107 | - | 309 | (14) | 2 | (16) | 100 |
+| 15 | Infosys Technologies (Shanghai) Company Limited (Infosys Shanghai) (2) | China | Dec 31, 2025 | NA | 1 RMB = ₹12.87 | 1,004 | (640) | 829 | 465 | - | 419 | (72) | - | (72) | 100 |
+| 16 | Infosys Consulting Ltda. (2) | Brazil | Dec 31, 2025 | NA | 1 BRL = ₹16.4 | 421 | (218) | 428 | 225 | - | 405 | 31 | 5 | 26 | 100 |
+| 17 | Infosys Romania S.R.L. (formerly Infosys Consulting S.R.L. (Romania)) (2) | Romania | Dec 31, 2025 | NA | 1 RON = ₹20.71 | 17 | 144 | 286 | 125 | - | 428 | 23 | 3 | 20 | 100 |
+| 18 | HIPUS Co., Ltd (10)(40) | Japan | Mar 31, 2026 | April 1, 2019 | 1 JPY = ₹0.59 | 32 | 166 | 1,549 | 1,351 | - | 449 | 67 | 11 | 56 | 79 |
+| 19 | Portland Group Pty Ltd (5) | Australia | Mar 31, 2026 | Jan 4, 2012 | 1 AUD = ₹65.02 | 18 | 40 | 319 | 261 | - | 189 | (2) | 1 | (3) | 100 |
+| 20 | Panaya Ltd. (11) | Israel | Dec 31, 2025 | NA | 1 USD = ₹89.88 | 256 | (401) | 226 | 371 | - | 383 | 50 | (107) | 157 | 100 |
+| 21 | Fluido Oy (12) | Finland | Dec 31, 2025 | Oct 11, 2018 | 1 EUR = ₹105.47 | 5 | 158 | 264 | 101 | - | 329 | 5 | - | 5 | 100 |
+| 22 | Infosys Technologies (Sweden) AB. (Infosys Sweden) (2) | Sweden | Dec 31, 2025 | NA | 1 SEK = ₹9.75 | 2 | 173 | 384 | 209 | - | 425 | 44 | 10 | 34 | 100 |
+| 23 | Infosys Management Consulting Pty. Limited (6) | Australia | Dec 31, 2025 | NA | 1 AUD = ₹60.07 | 17 | 65 | 148 | 66 | - | 452 | 34 | 11 | 23 | 100 |
+| 24 | BASE life science A/S (12) | Denmark | Jun 30, 2025 | Sep 1, 2022 | 1 DKK = ₹13.47 | 1 | 67 | 239 | 171 | - | 260 | (42) | (1) | (41) | 100 |
+| 25 | Stater Belgium N.V./S.A. (7) | Belgium | Dec 31, 2025 | NA | 1 EUR = ₹105.47 | 54 | 72 | 191 | 65 | - | 240 | 31 | 10 | 21 | 75 |
+| 26 | GuideVision, s.r.o. (15) | Czech Republic | Dec 31, 2025 | Oct 1, 2020 | 1 CZK = ₹4.35 | - | 206 | 383 | 177 | - | 291 | 46 | 9 | 37 | 100 |
+| 27 | Infosys Luxembourg S.a.r.l (2) | Luxembourg | Mar 31, 2026 | NA | 1 EUR = ₹109 | 26 | 86 | 172 | 60 | - | 241 | 55 | 12 | 43 | 100 |
+| 28 | Stater N.V. (10) | The Netherlands | Dec 31, 2025 | May 23, 2019 | 1 EUR = ₹105.47 | 36 | 474 | 1,226 | 716 | - | 299 | 32 | 1 | 31 | 75 |
+| 29 | Infosys Singapore Pte. Ltd. (Infosys Singapore) (2)(40) | Singapore | Dec 31, 2025 | NA | 1 SGD = ₹69.88 | 7,718 | (322) | 9,739 | 2,343 | - | 316 | 144 | 20 | 124 | 100 |
+| 30 | Infosys (Malaysia) Sdn. Bhd. (12) | Malaysia | Mar 31, 2026 | Dec 14, 2021 | 1 MYR = ₹23.55 | 29 | 7 | 69 | 33 | - | 161 | 9 | 5 | 4 | 100 |
+| 31 | WongDoody GmbH (16)(26) | Germany | Dec 31, 2025 | Apr 20, 2022 | 1 EUR = ₹105.47 | - | 25 | 113 | 88 | - | 237 | (23) | - | (23) | 100 |
+| 32 | Simplus Australia Pty Ltd (13) | Australia | Dec 31, 2025 | NA | 1 AUD = ₹60.07 | 18 | 16 | 76 | 42 | - | 108 | 20 | 5 | 15 | 100 |
+| 33 | Infosys Public Services Canada Inc. (14) | Canada | Mar 31, 2026 | NA | 1 CAD = ₹68.15 | 13 | 19 | 42 | 10 | - | 82 | (4) | (1) | (3) | 100 |
+| 34 | Fluido Sweden AB (18) | Sweden | Dec 31, 2025 | NA | 1 SEK = ₹9.75 | - | 100 | 123 | 23 | - | 110 | 16 | 4 | 12 | 100 |
+| 35 | Infosys Fluido UK, Ltd. (formerly known as Simplus U.K, Ltd) (18) | United Kingdom | Dec 31, 2025 | NA | 1 GBP = ₹120.78 | 4 | - | 51 | 47 | - | 114 | 11 | - | 11 | 100 |
+| 36 | Infosys BPO Americas LLC (5) | United States | Mar 31, 2026 | NA | 1 USD = ₹94.84 | 130 | (10) | 147 | 27 | - | 56 | 17 | 5 | 12 | 100 |
+| 37 | Infy Consulting B.V. (6) | The Netherlands | Dec 31, 2025 | NA | 1 EUR = ₹105.47 | 1 | 79 | 112 | 32 | - | 114 | 8 | 1 | 7 | 100 |
+| 38 | Infosys Chile SpA (2) | Chile | Dec 31, 2025 | NA | 1 CLP = ₹0.1 | 7 | 64 | 83 | 12 | - | 120 | 28 | 17 | 11 | 100 |
+| 39 | Simplus Philippines, Inc. (9) | Philippines | Jan 31, 2026 | NA | 1 PHP = ₹1.56 | 8 | 13 | 29 | 8 | - | 64 | 3 | 1 | 2 | 100 |
+| 40 | HypoCasso B.V. (7) | The Netherlands | Dec 31, 2025 | NA | 1 EUR = ₹105.47 | 8 | 16 | 65 | 41 | - | 83 | 16 | 4 | 12 | 75 |
+| 41 | Infosys Consulting SAS (6) | France | Dec 31, 2025 | NA | 1 EUR = ₹105.47 | 29 | (15) | 45 | 31 | - | 109 | 14 | 3 | 11 | 100 |
+| 42 | Panaya Inc. (Panaya) (2) | United States | Dec 31, 2025 | Mar 5, 2015 | 1 USD = ₹89.88 | - | 182 | 322 | 140 | - | 104 | 6 | 11 | (5) | 100 |
+| 43 | Infosys Middle East FZ LLC (12) | United Arab Emirates | Dec 31, 2025 | Jan 1, 2018 | 1 AED = ₹24.47 | 1 | (13) | 45 | 57 | - | 84 | (2) | - | (2) | 100 |
+| 44 | BASE life science AG (19) | Switzerland | Jun 30, 2025 | Sep 1, 2022 | 1 CHF = ₹107.54 | 1 | (7) | 53 | 59 | - | 81 | (26) | - | (26) | 100 |
+| 45 | Fluido Norway A/S (18) | Norway | Dec 31, 2025 | NA | 1 NOK = ₹8.93 | - | 78 | 95 | 17 | - | 61 | 10 | 2 | 8 | 100 |
+| 46 | Infosys Limited Bulgaria EOOD (2) | Bulgaria | Dec 31, 2025 | NA | 1 BGN = ₹54.02 | 2 | 17 | 39 | 20 | - | 91 | 6 | - | 6 | 100 |
+| 47 | Infosys Consulting (Belgium) NV (6) | Belgium | Dec 31, 2025 | NA | 1 EUR = ₹105.47 | 3 | 1 | 44 | 40 | - | 61 | 7 | 1 | 6 | 100 |
+| 48 | Fluido Denmark A/S (18) | Denmark | Dec 31, 2025 | NA | 1 DKK = ₹14.12 | 3 | (170) | 106 | 273 | - | 66 | (155) | 4 | (159) | 100 |
+| 49 | Infosys Business Solutions LLC (2) | Qatar | Dec 31, 2025 | Feb 20, 2022 | 1 QAR = ₹24.59 | 8 | 58 | 83 | 17 | - | 64 | 22 | 3 | 19 | 100 |
+| 50 | Infosys Green Forum (2) | India | Mar 31, 2026 | NA | INR | 1 | 312 | 345 | 32 | 16 | 44 | 8 | - | 8 | 100 |
+| 51 | BASE life science GmbH (19) | Germany | Jun 30, 2025 | Sep 1, 2022 | 1 EUR = ₹100.51 | - | (3) | 20 | 23 | - | 26 | (2) | - | (2) | 100 |
+| 52 | BASE life science S.L. (19) | Spain | Jun 30, 2025 | NA | 1 EUR = ₹100.51 | - | 3 | 51 | 48 | - | 44 | (13) | (4) | (9) | 100 |
+| 53 | Infosys Consulting S.R.L. (2)(36) | Argentina | Dec 31, 2025 | NA | 1 ARS = ₹0.06 | 14 | (41) | 72 | 99 | - | 48 | (47) | 2 | (49) | 100 |
+| 54 | BASE life science Ltd. (19) | United Kingdom | Jun 30, 2025 | Sep 1, 2022 | 1 GBP = ₹117.45 | - | 8 | 20 | 12 | - | 35 | 1 | - | 1 | 100 |
+| 55 | GuideVision Magyarország Kft. (20) | Hungary | Dec 31, 2025 | NA | 1 HUF = ₹0.27 | - | 7 | 13 | 6 | - | 37 | 8 | - | 8 | 100 |
+| 56 | Infosys South Africa (Pty) Ltd (12) | South Africa | Dec 31, 2025 | NA | 1 ZAR = ₹5.41 | 8 | 9 | 144 | 127 | - | 133 | 7 | 2 | 5 | 100 |
+| 57 | GuideVision Polska Sp. z o.o (20) | Poland | Dec 31, 2025 | NA | 1 PLN = ₹24.96 | - | (1) | 9 | 10 | - | 27 | (1) | - | (1) | 100 |
+| 58 | WongDoody D.O.O (21) | Serbia | Dec 31, 2025 | Apr 20, 2022 | 1 RSD = ₹0.9 | - | 8 | 9 | 1 | - | 22 | 2 | - | 2 | 100 |
+| 59 | Idunn Information Technology Private | India | Mar 31, 2026 | Sept 1, 2023 | INR | - | 77 | 78 | 1 | - | - | (2) | 1 | (3) | 100 |
+| 60 | Infosys Austria GmbH (2) | Austria | Dec 31, 2025 | NA | 1 EUR = ₹105.47 | 1 | 3 | 64 | 60 | - | 33 | 3 | 1 | 2 | 100 |
+| 61 | WongDoody Limited (Taipei) (21) | Taiwan | Dec 31, 2025 | Apr 20, 2022 | 1 TWD = ₹2.87 | - | 2 | 2 | - | - | 4 | - | - | - | 100 |
+| 62 | WongDoody Shanghai Co. Ltd. (21) | China | Dec 31, 2025 | Apr 20, 2022 | 1 RMB = ₹12.87 | 1 | 5 | 12 | 6 | - | 3 | - | - | - | 100 |
+| 63 | Panaya Germany GmbH (11) | Germany | Dec 31, 2025 | NA | 1 EUR = ₹105.47 | - | (1) | 12 | 13 | - | 21 | 1 | - | 1 | 100 |
+| 64 | GuideVision Suomi Oy (20) | Finland | Dec 31, 2025 | NA | 1 EUR = ₹105.47 | - | (6) | 2 | 8 | - | 6 | (3) | - | (3) | 100 |

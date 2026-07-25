@@ -1,0 +1,212 @@
+---
+document_name: "Infosys_23072025153626_Outcome23072025.md"
+group_id: "Infosys_23072025153626_Outcome23072025__group_014"
+source_section_count: 3
+estimated_tokens: 6377
+source_section_ids:
+  - "Infosys_23072025153626_Outcome23072025__029"
+  - "Infosys_23072025153626_Outcome23072025__030"
+  - "Infosys_23072025153626_Outcome23072025__031"
+---
+---
+section_title: Infosys Limited and subsidiaries
+section_description: This section contains interim condensed consolidated financial statements of Infosys Limited and subsidiaries, including comprehensive income, changes in equity, cash flows, accounting policy, company overview, and basis of preparation for the quarter ended June 30, 2025 with comparative figures for June 30, 2024.
+topics:
+  - Consolidated comprehensive income
+  - Changes in equity
+  - Consolidated cash flows
+  - Accounting policy
+  - Company overview
+  - Basis of preparation
+sample_queries:
+  - What were Infosys' revenues, operating profit, and net profit for the three months ended June 30, 2025?
+  - How did total comprehensive income compare between June 30, 2025 and June 30, 2024?
+  - What changes occurred in Infosys' consolidated equity during the quarter ended June 30, 2025?
+  - What were the cash flows from operating, investing, and financing activities for the three months ended June 30, 2025?
+  - What accounting policy does Infosys use for reporting cash flows?
+  - What does Infosys state about its company overview and business strategy?
+  - On what basis were the interim condensed consolidated financial statements prepared?
+---
+
+## Infosys Limited and subsidiaries
+
+| Particulars | Note | Three months ended June 30, 2025 | Three months ended June 30, 2024 |
+|---|---:|---:|---:|
+| Revenues | 2.16 | 42,279 | 39,315 |
+| Cost of sales | 2.19 | 29,224 | 27,177 |
+| Gross profit |  | 13,055 | 12,138 |
+| Operating expenses |  |  |  |
+| Selling and marketing expenses | 2.19 | 2,208 | 1,937 |
+| Administrative expenses | 2.19 | 2,044 | 1,913 |
+| Total operating expenses |  | 4,252 | 3,850 |
+| Operating profit |  | 8,803 | 8,288 |
+| Other income, net | 2.19 | 1,042 | 838 |
+| Finance cost |  | 105 | 105 |
+| Profit before income taxes |  | 9,740 | 9,021 |
+| Income tax expense | 2.12 | 2,816 | 2,647 |
+| Net profit |  | 6,924 | 6,374 |
+| Other comprehensive income |  |  |  |
+| Items that will not be reclassified subsequently to profit or loss |  |  |  |
+| Remeasurement of the net defined benefit liability/asset, net |  | (70) | 20 |
+| Equity instruments through other comprehensive income, net | 2.2 | 35 | 14 |
+| Total items that will not be reclassified subsequently to profit or loss |  | (35) | 34 |
+| Items that will be reclassified subsequently to profit or loss |  |  |  |
+| Fair value changes on derivatives designated as cash flow hedge, net |  | 6 | (3) |
+| Exchange differences on translation of foreign operations |  | 1,019 | (104) |
+| Fair value changes on investments, net | 2.2 | 123 | 40 |
+| Total items that will be reclassified subsequently to profit or loss |  | 1,148 | (67) |
+| Total other comprehensive income/(loss), net of tax |  | 1,113 | (33) |
+| Total comprehensive income |  | 8,037 | 6,341 |
+| Profit attributable to: |  |  |  |
+| Owners of the Company |  | 6,921 | 6,368 |
+| Non-controlling interests |  | 3 | 6 |
+| Total profit attributable to owners and non-controlling interests |  | 6,924 | 6,374 |
+| Total comprehensive income attributable to: |  |  |  |
+| Owners of the Company |  | 8,024 | 6,337 |
+| Non-controlling interests |  | 13 | 4 |
+| Total comprehensive income attributable to owners and non-controlling interests |  | 8,037 | 6,341 |
+| Earnings per equity share |  |  |  |
+| Equity shares of par value ₹5/- each |  |  |  |
+| Basic (₹) |  | 16.70 | 15.38 |
+| Diluted (₹) |  | 16.68 | 15.35 |
+| Weighted average equity shares used in computing earnings per equity share |  |  |  |
+| Basic (in shares) | 2.13 | 4,143,971,592 | 4,140,272,627 |
+| Diluted (in shares) | 2.13 | 4,150,497,004 | 4,148,077,672 |
+
+The accompanying notes form an integral part of the interim condensed consolidated financial statements.
+
+## Infosys Limited and subsidiaries
+
+| Particulars | Number of Shares (1) | Share capital | Share premium | Retained earnings | Other reserves (2) | Capital redemption reserve | Other components of equity | Cash flow hedge reserve | Total equity attributable to equity holders of the Company | Non-controlling interest | Total equity |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Balance as at April 1, 2024 | 4,139,950,635 | 2,071 | 1,550 | 69,674 | 12,104 | 169 | 2,542 | 6 | 88,116 | 345 | 88,461 |
+| Changes in equity for three months ended June 30, 2024 |  |  |  |  |  |  |  |  |  |  |  |
+| Net profit | - | - | - | 6,368 | - | - | - | - | 6,368 | 6 | 6,374 |
+| Remeasurement of the net defined benefit liability/asset, net* | - | - | - | - | - | - | 20 | - | 20 | - | 20 |
+| Equity instruments through other comprehensive income, net* | - | - | - | - | - | - | 14 | - | 14 | - | 14 |
+| Fair value changes on derivatives designated as Cash flow hedge, net* | - | - | - | - | - | - | - | (3) | (3) | - | (3) |
+| Exchange differences on translation of foreign operations | - | - | - | - | - | - | (102) | - | (102) | (2) | (104) |
+| Fair value changes on investments, net* | - | - | - | - | - | - | 40 | - | 40 | - | 40 |
+| Total comprehensive income for the period | - | - | - | 6,368 | - | - | (28) | (3) | 6,337 | 4 | 6,341 |
+| Shares issued on exercise of employee stock options (Refer to note 2.11) | 1,831,328 | 1 | 2 | - | - | - | - | - | 3 | - | 3 |
+| Employee stock compensation expense (Refer to note 2.11) | - | - | 208 | - | - | - | - | - | 208 | - | 208 |
+| Income tax benefit arising on exercise of stock options (Refer to note 2.12) | - |  | 2 | - | - | - | - | - | 2 |  | 2 |
+| Transfer on account of options not exercised | - | - | (18) | 18 | - | - | - | - | - | - | - |
+| Transferred from other reserves to retained earnings | - | - | - | 247 | (247) | - | - | - | - | - | - |
+| Transferred from other reserves on utilization | - | - | - | 104 | (104) | - | - | - | - | - | - |
+| Dividends # | - | - | - | (11,597) | - | - | - | - | (11,597) | - | (11,597) |
+| Balance as at June 30, 2024 | 4,141,781,963 | 2,072 | 1,744 | 64,814 | 11,753 | 169 | 2,514 | 3 | 83,069 | 349 | 83,418 |
+
+## Infosys Limited and subsidiaries
+
+| Particulars | Number of Shares (1) | Share capital | Share premium | Retained earnings | Other reserves (2) | Capital redemption reserve | Other components of equity | Cash flow hedge reserve | Total equity attributable to equity holders of the Company | Non-controlling interest | Total equity |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Balance as at April 1, 2025 | 4,143,607,528 | 2,073 | 2,180 | 80,096 | 8,298 | 169 | 3,020 | (18) | 95,818 | 385 | 96,203 |
+| Changes in equity for three months ended June 30, 2025 |  |  |  |  |  |  |  |  |  |  |  |
+| Net profit | - | - | - | 6,921 | - | - | - | - | 6,921 | 3 | 6,924 |
+| Remeasurement of the net defined benefit liability/asset, net* | - | - | - | - | - | - | (70) | - | (70) | - | (70) |
+| Equity instruments through other comprehensive income, net* | - | - | - | - | - | - | 35 | - | 35 | - | 35 |
+| Fair value changes on derivatives designated as cash flow hedge, net* | - | - | - | - | - | - | - | 6 | 6 | - | 6 |
+| Exchange differences on translation of foreign operations | - | - | - | - | - | - | 1,009 | - | 1,009 | 10 | 1,019 |
+| Fair value changes on investments, net* | - | - | - | - | - | - | 123 | - | 123 | - | 123 |
+| Total comprehensive income for the period | - | - | - | 6,921 | - | - | 1,097 | 6 | 8,024 | 13 | 8,037 |
+| Shares issued on exercise of employee stock options (Refer to note 2.11) | 1,566,691 | 1 | - | - | - | - | - | - | 1 | - | 1 |
+| Employee stock compensation expense (Refer to note 2.11) | - | - | 231 | - | - | - | - | - | 231 | - | 231 |
+| Income tax benefit arising on exercise of stock options (Refer to note 2.12) | - | - | 2 | - | - | - | - | - | 2 | - | 2 |
+| Financial liability under option arrangements | - | - | - | (10) | - | - | - | - | (10) | - | (10) |
+| Changes in the controlling stake of a subsidiary | - | - | - | 7 | - | - | - | - | 7 | 2 | 9 |
+| Transferred on account of options not exercised | - | - | (53) | 53 | - | - | - | - | - | - | - |
+| Transferred from other reserves on utilization | - | - | - | 120 | (120) | - | - | - | - | - | - |
+| Transferred from other reserves to retained earnings | - | - | - | 1,957 | (1,957) | - | - | - | - | - | - |
+| Dividends # | - | - | - | (9,119) | - | - | - | - | (9,119) | - | (9,119) |
+| Balance as at June 30, 2025 | 4,145,174,219 | 2,074 | 2,360 | 80,025 | 6,221 | 169 | 4,117 | (12) | 94,954 | 400 | 95,354 |
+
+* net of tax
+
+# net of treasury shares
+
+(1) Excludes treasury shares of 9,098,409 as at June 30, 2025, 9,655,927 as at April 1, 2025, 10,246,512 as at June 30, 2024 and 10,916,829 as at April 1, 2024 held by consolidated trust.
+
+(2) Represents the Special Economic Zone Re-investment reserve created out of the profit of the eligible SEZ unit in terms of the provisions of Sec 10AA(1)(ii) of Income Tax Act, 1961. The reserve should be utilized by the Group for acquiring new plant and machinery for the purpose of its business in terms of the provisions of the Sec 10AA(2) of the Income Tax Act, 1961.
+
+The accompanying notes form an integral part of the interim condensed consolidated financial statements.
+
+## Accounting Policy
+
+Cash flows are reported using the indirect method, whereby profit for the period is adjusted for the effects of transactions of a non-cash nature, any deferrals or accruals of past or future operating cash receipts or payments and item of income or expenses associated with investing or financing cash flows. The cash flows from operating, investing and financing activities of the Group are segregated. The Group considers all highly liquid investments that are readily convertible to known amounts of cash to be cash equivalents.
+
+| Particulars | Note | Three months ended June 30, 2025 | Three months ended June 30, 2024 |
+|---|---:|---:|---:|
+| Operating activities |  |  |  |
+| Net Profit |  | 6,924 | 6,374 |
+| Adjustments to reconcile net profit to net cash provided by operating activities |  |  |  |
+| Depreciation and amortization |  | 1,140 | 1,149 |
+| Income tax expense | 2.12 | 2,816 | 2,647 |
+| Finance cost |  | 105 | 106 |
+| Interest and dividend income |  | (358) | (359) |
+| Exchange differences on translation of assets and liabilities, net |  | 285 | 23 |
+| Impairment loss recognized/(reversed) under expected credit loss model |  | 34 | (3) |
+| Stock compensation expense |  | 236 | 211 |
+| Provision for post sale client support |  | (177) | (108) |
+| Other adjustments |  | 332 | 55 |
+| Changes in working capital |  |  |  |
+| Trade receivables and unbilled revenue |  | (1,945) | (499) |
+| Prepayments and other assets |  | 714 | (167) |
+| Trade payables |  | (673) | (271) |
+| Unearned revenue |  | 20 | (385) |
+| Other liabilities and provisions |  | 819 | (4) |
+| Cash generated from operations |  | 10,272 | 8,769 |
+| Income taxes (paid) / received |  | (1,874) | 841 |
+| Net cash generated by operating activities |  | 8,398 | 9,610 |
+| Investing activities |  |  |  |
+| Expenditure on property, plant and equipment and intangibles |  | (865) | (455) |
+| Deposits placed with corporation |  | (395) | (335) |
+| Redemption of deposits placed with corporation |  | 127 | 120 |
+| Interest and dividend received |  | 311 | 299 |
+| Payment for acquisition of business, net of cash acquired | 2.10 | (632) | (124) |
+| Other receipts |  | 12 | 1 |
+| Payments to acquire Investments |  |  |  |
+| - Quoted debt securities |  | (1,652) | (1,051) |
+| - Liquid mutual fund units |  | (17,237) | (16,989) |
+| - Certificates of deposit |  | (2,734) | (1,440) |
+| - Commercial paper |  | (149) | (2,226) |
+| - Other investments |  | (12) | (6) |
+| Proceeds on sale of investments |  |  |  |
+| - Quoted debt securities |  | 2,998 | 690 |
+| - Liquid mutual fund units |  | 15,746 | 15,975 |
+| - Certificates of deposit |  | 4,831 | 2,820 |
+| - Commercial paper |  | 3,850 | 7,135 |
+| Net cash generated from investing activities |  | 4,199 | 4,414 |
+| Financing activities |  |  |  |
+| Payment of lease liabilities |  | (706) | (576) |
+| Payment of dividends |  | (9,120) | - |
+| Other payments |  | (52) | (118) |
+| Shares issued on exercise of employee stock options |  | 1 | 3 |
+| Net cash used in financing activities |  | (9,877) | (691) |
+| Net increase/(decrease) in cash and cash equivalents |  | 2,720 | 13,333 |
+| Effect of exchange rate changes on cash and cash equivalents |  | 284 | (62) |
+| Cash and cash equivalents at the beginning of the period | 2.1 | 24,455 | 14,786 |
+| Cash and cash equivalents at the end of the period | 2.1 | 27,459 | 28,057 |
+| Supplementary information: |  |  |  |
+| Restricted cash balance | 2.1 | 407 | 398 |
+| Closing cash and cash equivalents as per consolidated statement of cash flows |  | 27,459 | 28,057 |
+| Less: Earmarked bank balance for dividend |  | - | 11,625 |
+| Closing cash and cash equivalents as per Consolidated Balance Sheet |  | 27,459 | 16,432 |
+
+The accompanying notes form an integral part of the interim condensed consolidated financial statements.
+
+## 1.1 Company overview
+
+Infosys Limited ('the Company' or Infosys) provides consulting, technology, outsourcing and next-generation digital services, to enable clients to execute strategies for their digital transformation. Infosys strategic objective is to build a sustainable organization that remains relevant to the agenda of clients, while creating growth opportunities for employees and generating profitable returns for investors. Infosys strategy is to be a navigator for our clients as they ideate, plan and execute on their journey to a digital future.
+
+Infosys together with its subsidiaries and controlled trusts is herein after referred to as the "Group".
+
+The Company is a public limited company incorporated and domiciled in India. The Company has its primary listings on the BSE Ltd. and National Stock Exchange of India Limited. The Company's American Depositary Shares (ADS) representing equity shares are listed on the New York Stock Exchange (NYSE).
+
+The Group's interim condensed consolidated financial statements are approved for issue by the Company's Board of Directors on July 23, 2025.
+
+## 1.2 Basis of preparation of financial statements
+
+The interim condensed consolidated financial statements have been prepared in compliance with IAS 34, Interim Financial Reporting as issued by International Accounting Standards Board, under the historical cost convention on the accrual basis except for certain financial instruments which have been measured at fair values defined benefit liability/(asset) which is recognized at the present value of defined benefit obligation less fair value of plan assets. Accordingly, these interim condensed consolidated financial statements do not include all the information required for a complete set of financial statements. These interim condensed consolidated financial statements should be read in conjunction with the consolidated financial statements and related notes included in the company's Annual Report on Form 20-F for the year ended March 31, 2025. Accounting policies have been consistently applied except where a newly issued accounting standard is initially adopted or a revision to an existing accounting standard requires a change in the accounting policy hitherto in use.
+
+The material accounting policy information used in preparation of the audited interim condensed consolidated financial statements have been discussed in the respective notes.

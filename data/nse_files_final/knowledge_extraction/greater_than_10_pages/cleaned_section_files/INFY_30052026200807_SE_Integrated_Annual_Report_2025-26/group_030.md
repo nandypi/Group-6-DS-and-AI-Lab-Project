@@ -1,0 +1,101 @@
+---
+document_name: "INFY_30052026200807_SE_Integrated_Annual_Report_2025-26.md"
+group_id: "INFY_30052026200807_SE_Integrated_Annual_Report_2025-26__group_030"
+source_section_count: 2
+estimated_tokens: 5716
+source_section_ids:
+  - "INFY_30052026200807_SE_Integrated_Annual_Report_2025-26__054"
+  - "INFY_30052026200807_SE_Integrated_Annual_Report_2025-26__055"
+---
+---
+section_title: "Section B: Management and process disclosures"
+section_description: "This section describes Infosys' management processes, policies, governance oversight, ESG commitments, Board-level sustainability responsibility, NGRBC reviews, and policy assessments under the Business Responsibility and Sustainability Reporting framework."
+topics:
+  - NGRBC policy coverage
+  - ESG Vision 2030
+  - Business responsibility governance
+  - Board and committee oversight
+  - Sustainability-related decision making
+  - Policy implementation authority
+  - NGRBC review and assessment
+sample_queries:
+  - "Which Infosys policies are mapped to each NGRBC principle?"
+  - "What standards and certifications has Infosys adopted for each NGRBC principle?"
+  - "Who is responsible for implementing and overseeing Infosys' Business Responsibility policies?"
+  - "Which Board committee handles sustainability-related decision making at Infosys?"
+  - "Who are the members of the ESG Committee of the Board?"
+  - "How frequently does Infosys review performance against NGRBC policies?"
+  - "Has Infosys carried out independent assessment of its policies by an external agency?"
+---
+
+## Section B: Management and process disclosures
+
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards adopting the NGRBC Principles and Core Elements.
+
+| Disclosure Questions | P1 | P2 | P3 | P4 | P5 | P6 | P7 | P8 | P9 |
+|---|---|---|---|---|---|---|---|---|---|
+| 1a. Whether your entity's policy/policies cover each principle and its core elements of the NGRBCs. (Yes/No) | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
+| 1b. Has the policy been approved by the Board? (Yes/No) | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
+| 1c. Web Link of the Policies, if available | Refer to the Whistleblower Policy, Infosys Code of Conduct and Ethics, ABAC policy | Refer to the Responsible Supply Chain and Supplier Diversity Policy | Refer to Infosys Code of Conduct and Ethics, HSE Policy, Supplier Code of Conduct | Refer to our CSR Policy and ESG Vision 2030, Responsible Supply Chain and Supplier Diversity Policy | Refer to our Infosys Code of Conduct and Ethics, Responsible Supply Chain and Supplier Diversity Policy | Refer to our HSE Policy (1), ESG Vision 2030, Responsible Supply Chain and Supplier Diversity Policy | Refer to our ESG Vision 2030, Responsible Supply Chain and Supplier Diversity Policy | Refer to our CSR Policy (2), Responsible Supply Chain and Supplier Diversity Policy | Refer to our Infosys Code of Conduct and Ethics, ESG Vision 2030, Privacy statement (1), Responsible Supply Chain and Supplier Diversity Policy |
+| 2. Whether the entity has translated the policy into procedures. (Yes / No) | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
+| 3. Do the enlisted policies extend to your value chain partners? (Yes/No) | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
+| 4. Name of the national and international codes/certifications/labels/standards (e.g. Forest Stewardship Council, Fairtrade, Rainforest Alliance, Trustea) standards (e.g. SA 8000, OHSAS, ISO, BIS) adopted by your entity and mapped to each principle. | ISO 9001:2015; GRI Standard 2021, UNGC Principles, OECD-Principles of Corporate Governance, UNSDGs | ISO 9001:2015, GRI Standard 2021, ISO 14001:2015, ISO 45001:2018, ISO 50001:2018, CMMi 2.0 | ISO 9001:2015, GRI Standard 2021, ISO 45001:2018, Universal Declaration of Human Rights, ILO Declaration on Fundamental Principles and Rights at Work, UNGC Principles | ISO 9001:2015, GRI Standard 2021, ISO 14001:2015, ISO 45001:2018 | ISO 9001:2015, ISO 14001:2015, ISO 45001:2018, GRI Standard 2021, Universal Declaration of Human Rights, ILO Declaration on Fundamental Principles and Rights at Work, UNGC Principles | ISO 9001:2015, GRI Standard 2021, ISO 14001:2015, ISO 14068:1, ISO 22301:2019, ISO 50001:2018 SASB, TCFD, UN SDGs, Carbon Disclosure Project (CDP) | ISO 9001:2015, ISO 14001:2015, ISO 45001:2018, GRI Standard 2021, UNGC Principles | ISO 9001:2015, ISO 14001:2015, ISO 45001:2018, GRI Standard 2021, UNSDGs | ISO 9001:2015, GRI Standard 2021, ISO 27001:2022, ISO 27701:2019, ISO 42001:2023 |
+
+(1) Approved by the Executive Leadership  
+(2) Not extended to Suppliers
+
+In 2020, we became carbon neutral, 30 years ahead of the timeline set by the Paris Agreement. In October 2020, we launched our ESG Vision and ambitions for 2030. In 2025, we renewed our ESG Vision 2030 and committed to further progress on our ESG ambitions. [Read more](https://www.infosys.com/about/esg/esg-vision-2030/docs/infosys-esg-vision-2030-refresh.pdf)
+
+6. Performance of the entity against the specific commitments, goals and targets alongwith reasons in case the same are not met.
+
+The details of our performance on our ESG goals are available in the chapters Approaching value creation and Delivering value in this Integrated Annual Report and our ESG Report 2026. We are on track to meet our ESG goals and targets outlined in our ESG Vision 2030.
+
+## Governance, leadership and oversight
+
+## 7. Statement by director responsible for the business responsibility report, highlighting ESG-related challenges, targets and achievements
+
+"Infosys continues to advance its commitment to building a sustainable, resilient, and purpose-driven enterprise, guided by its ESG Vision 2030. This vision anchors our overall strategy to strengthen governance, drive environmental stewardship, foster an inclusive and diverse workplace, and leverage technology to create long-term value for all stakeholders.
+
+Our strategic priorities remain focused on accelerating our climate commitments, enabling large-scale skilling, and embedding responsible practices across our operations and value chain. These priorities are aligned to evolving stakeholder expectations and material ESG considerations. We operate in a dynamic global environment shaped by climate transition imperatives, rapid technological change, increasing regulatory requirements, and heightened expectations around transparency and accountability. In this context, we continued to enhance our ESG frameworks and disclosures during the year.
+
+In fiscal 2026, Infosys made steady progress across its ESG commitments, supported by robust governance mechanisms, defined performance metrics, and active stakeholder engagement. At the same time, we continued to navigate challenges relating to climate transition, talent transformation, and a complex macroeconomic environment. Overall, our performance reflects continued progress toward our stated ESG targets. We remain committed to strengthening our execution, improving transparency, and driving measurable outcomes across environmental, social, and governance dimensions.
+
+Looking ahead, we expect continued evolution in regulatory landscapes, stakeholder expectations, and climate-related risks. Infosys remains confident in its strategy and will continue to enhance its ESG practices to drive sustainable, inclusive, and responsible growth.
+
+Information on our ESG-related challenges, targets, performance, and key achievements are detailed in our ESG Report. You may also refer to 'Approaching Value Creation' and 'Delivering Value' chapters of this Integrated Annual Report."
+
+## 8. Details of the highest authority responsible for implementation and oversight of the Business Responsibility policy (ies).
+
+| Policy | Implementation - authority | Oversight - authority | Composition of highest authority responsible for oversight |
+|---|---|---|---|
+| Whistleblower Policy and Infosys Code of Conduct and Ethics | Chief Legal Officer and Chief Compliance Officer | Audit Committee | Refer to the Audit Committee section in the Corporate governance report of this Integrated Annual Report. |
+| Responsible Supply Chain and Supplier Diversity Policy and Supplier Code of Conduct | Global head - Procurement | ESG Committee | Refer to the ESG Committee section in the Corporate governance report of this Integrated Annual Report. |
+| CSR Policy | Global Head - Corporate Accounting & Taxation, Facilities, Infrastructure and Security | CSR Committee | Refer to the CSR Committee section in the Corporate governance report of this Integrated Annual Report. |
+| ESG Vision 2030 | Chief Financial Officer | ESG Committee | Refer to the ESG Committee section in the Corporate governance report of this Integrated Annual Report. |
+
+Refer to 1c above for mapping of Infosys policies to BRSR principles.
+
+9. Does the entity have a specified Committee of the Board/ Director responsible for decision making on sustainability related issues? (Yes / No). If yes, provide details.
+
+Yes, the ESG Committee of the Board.
+
+| Name of the director | Designation/category | DIN number |
+|---|---|---|
+| Chitra Nayak, Chairperson | Independent director | DIN: 09101763 |
+| Govind Iyer | Independent director | DIN: 00169343 |
+| Helene Auriol Potier | Independent director | DIN: 10166891 |
+
+Read more in the ESG Committee report in the Corporate governance report of this Integrated Annual Report.
+
+10. Details of Review of NGRBCs by the Company:
+
+| Subject for Review | P1 | P2 | P3 | P4 P5 | P7 | P8 | Frequency details |
+|---|---|---|---|---|---|---|---|
+| Performance against above policies and follow up action | Committee of the Board | Committee of the Board | Committee of the Board | Committee of the Board | Committee of the Board | Committee of the Board | Annually; Annually; Annually; Annually; Annually; Annually; Annually; Annually |
+| Compliance with statutory requirements of relevance to the principles, and, rectification of any non-compliances | Committee of the Board Quarterly | Committee of the Board Quarterly | Committee of the Board Quarterly | Committee of the Board Quarterly | Committee of the Board Quarterly | Committee of the Board Quarterly | Committee of the Board Quarterly; Committee of the Board Quarterly; Committee of the Board Quarterly; Committee of the Board Quarterly; Committee of the Board Quarterly; Committee of the Board Quarterly; Committee of the Board Quarterly; Committee of the Board Quarterly; Committee of the Board Quarterly |
+
+11. Has the entity carried out independent assessment/evaluation of the working of its policies by an external agency? (Yes/No). If yes, provide name of the agency.
+
+| Field | P1 | P2 | P3 | P4 | P4 | P5 P6 | P5 P6 | P7 | P7 | P8 | P8 | P9 | P9 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Answer | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes Yes | Yes Yes | Yes | Yes |

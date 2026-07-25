@@ -1,0 +1,76 @@
+{
+  "document_name": "Infosys_30072025174628_SEfiling_Reg_30disclosure_30072025.md",
+  "is_material": false,
+  "title": "Infosys Receives UAE VAT Penalty of AED 45,476.73",
+  "detailed_summary": "Infosys received communication from the Federal Tax Authority, United Arab Emirates, regarding a penalty of AED 45,476.73 for failure to pay VAT liability for Q1FY26. The company stated that there is no material impact on its financials, operations, or other activities.",
+  "key_facts": [
+    {
+      "fact": "The Federal Tax Authority, United Arab Emirates, imposed a total penalty of AED 45,476.73/- on Infosys.",
+      "section_heading": null
+    },
+    {
+      "fact": "The penalty was on account of failure to pay VAT liability for Q1FY26.",
+      "section_heading": null
+    },
+    {
+      "fact": "Infosys stated that there is no material impact on financials, operations or other activities of the Company.",
+      "section_heading": null
+    }
+  ],
+  "financial_metrics": {
+    "currency": null,
+    "period": null,
+    "revenue": null,
+    "revenue_growth_yoy": null,
+    "revenue_growth_qoq": null,
+    "operating_margin": null,
+    "net_profit": null,
+    "eps": null,
+    "free_cash_flow": null,
+    "large_deal_tcv": null,
+    "headcount": null,
+    "attrition": null,
+    "guidance": null,
+    "dividend": null
+  },
+  "corporate_actions": [],
+  "partnerships_or_deals": [],
+  "leadership_changes": [],
+  "litigation_or_regulatory_matters": [
+    {
+      "matter_type": "penalty",
+      "authority_or_counterparty": "Federal Tax Authority, United Arab Emirates",
+      "description": "Penalty on account of failure to pay VAT liability for Q1FY26.",
+      "amount": "AED 45,476.73/-",
+      "status": "Orders passed/ action taken.",
+      "section_heading": null
+    }
+  ],
+  "risk_factors": [],
+  "esg_or_csr_items": [],
+  "products_or_platforms": [],
+  "important_text_spans": [
+    {
+      "text": "Total Penalty - AED 45,476.73/-",
+      "section_heading": null,
+      "reason": "Supports the amount of the penalty."
+    },
+    {
+      "text": "None, there is no material impact on financials, operations or other activities of the Company.",
+      "section_heading": null,
+      "reason": "Supports the company's stated impact assessment."
+    }
+  ],
+  "search_keywords": [
+    "Federal Tax Authority United Arab Emirates",
+    "VAT liability",
+    "Q1FY26",
+    "AED 45,476.73",
+    "tax penalty"
+  ],
+  "sample_questions": [
+    "What UAE VAT penalty did Infosys disclose for Q1FY26?",
+    "Did Infosys say the UAE tax penalty had a material impact on its financials or operations?"
+  ],
+  "processing_notes": ""
+}

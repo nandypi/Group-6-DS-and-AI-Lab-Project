@@ -1,0 +1,129 @@
+---
+document_name: "INFY_15062026210015_Form20F_June152026.md"
+group_id: "INFY_15062026210015_Form20F_June152026__group_016"
+source_section_count: 1
+estimated_tokens: 4573
+source_section_ids:
+  - "INFY_15062026210015_Form20F_June152026__031"
+---
+---
+section_title: "Profiles of Directors and Executive Officers"
+section_description: "This section provides biographical profiles of Infosys directors and executive officers, including their roles, committee memberships, professional experience, education, awards, and board positions."
+topics:
+  - Infosys board of directors
+  - Executive officer profiles
+  - Committee memberships
+  - Professional experience
+  - Education and awards
+  - External board positions
+sample_queries:
+  - "Who is the Chairman of Infosys and what are his major achievements?"
+  - "Which committees does D. Sundaram serve on at Infosys?"
+  - "What prior roles did Salil Parekh hold before joining Infosys?"
+  - "What is Michael Gibbs' background in information technology leadership?"
+  - "Which Infosys directors have experience in ESG or corporate governance?"
+  - "What are Inderpreet Sawhney's responsibilities as Chief Legal Officer and Chief Compliance Officer?"
+  - "What finance-related responsibilities does Jayesh Sanghrajka oversee at Infosys?"
+---
+
+## Profiles of Directors and Executive Officers
+
+Nandan M. Nilekani (Nandan) is the Chairman of Infosys Limited, which he co-founded in 1981. He also co-founded and is the Chairman of EkStep Foundation, a not-for-profit effort to create a learner-centric, technology-based platform to improve basic literacy and numeracy for millions of children. In January 2023, he was appointed as the co-chair of the G20 Task Force on Digital Public Infrastructure for Economic Transformation, Financial Inclusion and Development.
+
+He was the Founding Chairman of the Unique Identification Authority of India (UIDAI) in the rank of a Cabinet Minister from 2009 to 2014. Born in Bengaluru, Nandan received his bachelor's degree from IIT, Bombay. Fortune Magazine conferred on him the title of Asia's Businessman of the Year - 2003. In 2005, he received the prestigious Joseph Schumpeter Prize for innovative services in economy, economic sciences and politics. In 2006, he was awarded the Padma Bhushan. The same year, he was named Businessman of the Year by Forbes Asia. Time magazine listed him as one of the 100 most influential people in the world in 2006 and 2009. Foreign Policy magazine listed him as one of the Top 100 Global Thinkers in 2010.
+
+In 2014, he won The Economist Social & Economic Innovation Award for his leadership of India's unique identification initiative (Aadhaar). In 2017, he received the Lifetime Achievement Award from E & Y. CNBC-TV18 conferred him the India Business Leader award for outstanding contribution to the Indian economy in 2017, and he also received the 22nd Nikkei Asia Prize for Economic & Business Innovation 2017. He was inducted as International Honorary Member of the American Academy of Arts and Sciences in 2019. Business Standard Annual awards 2022 conferred The Life Time Achievement Award. TIME Magazine has featured him among 100 Most Influential People in AI-2024.
+
+He is the author of *Imagining India* and co-authored with Viral Shah his second book, *Rebooting India: Realizing a Billion Aspirations*, and his third book with Tanuj Bhojwani, *The Art of Bitfulness: Keeping Calm in the Digital World*, released in January 2022.
+
+Salil Parekh (Salil), as Chief Executive Officer and Managing Director, sets and evolves the strategic direction for the company and its portfolio of offerings, while nurturing a strong leadership team to drive its execution. Salil has helped transform Infosys into a leading digital, cloud, and AI company. Salil has over three decades of global experience in the IT services industry, with a strong track record of driving digital transformation for enterprises, executing business turnarounds, and managing successful acquisitions.
+
+Salil topped the IT services ranking in Brand Finance's Brand Guardianship Index (BGI) 2024 for the role of CEO as brand custodian and steward of long-term shareholder value. Over the years, Salil has won several CEO leadership awards.
+
+Earlier, Salil was a member of the Management Board at Capgemini, and a partner at consulting practice Ernst & Young LLP. He had several leadership positions for 25 years across the US, UK, Europe and Asia. He was responsible for overseeing a business cluster comprising Application Services (North America, UK, Asia), Cloud Infrastructure Services, and Sogeti. He was responsible for the strategy and execution of these businesses, setting direction and enabling rapid client adoption. He was also the Chairman of Capgemini's North America Executive Council. He was the architect of North America's growth and turnaround strategy and was instrumental in setting up their offshoring capabilities.
+
+As a Partner at Ernst & Young, he is widely credited for bringing scale and value to the Indian operations of the consultancy firm. He holds Master of Engineering degrees in Computer Science and Mechanical Engineering from Cornell University, and a Bachelor of Technology degree in Aeronautical Engineering from the Indian Institute of Technology, Bombay. Salil is on the board of Advance CT, an organization that supports business and innovation in the state of Connecticut. Salil is also on the Board of the US-India Strategic Partnership Forum (USISPF), an organization that works towards strengthening the US-India relationship and promoting collaboration in various sectors, including technology.
+
+D. Sundaram (Sundaram) is the Lead Independent Director of Infosys. He is the Chairperson of the Nomination and Remuneration Committee and the Risk Management Committee, and a member of the Audit Committee, the Stakeholder Relationship Committee and the Cybersecurity risk sub-committee. His experience spans corporate finance, business performance, monitoring operations, governance, mergers & acquisitions, talent / people management and strategy.
+
+He joined Hindustan Unilever Limited (HUL), the Indian listed subsidiary of Unilever Plc, as a management trainee in June 1975 and served in various capacities, including six years in Unilever, London as Commercial Officer: Africa and Middle East (90-93) and as Senior Vice President for South Asia and Middle East (96-99). He was the Chief Finance Officer of HUL from April 1999 to March 2008 and the Vice Chairman and CFO from April 2008 to July 2009.
+
+He is a two-time winner of the prestigious CFO of the Year for FMCG Sector award by CNBC TV18 (2006 and 2008). Sundaram is a post-graduate in Management Studies (MMS), Fellow of the Institute of Cost Accountants, and has done Harvard Business School's Advanced Management Program (AMP).
+
+He currently serves as an independent director, in addition to Infosys, on the boards of Crompton Greaves Consumer and Schneider Electric Infrastructure. He also served as the Vice Chairman and MD of TVS Capital Funds, a growth capital Private Equity Fund (TVS Shriram Growth Fund). Sundaram has served as an independent director on the Board of State Bank of India, the largest commercial bank of the country, between January 2009 and June 2014; of SBI Capital Markets between 2002 and 2014; and has been a member of the board of governors of Institute of Financial Management and Research and KREA University, Andhra Pradesh.
+
+Michael Gibbs (Michael) is an Independent Director of Infosys. He is the Chairperson of the Stakeholders Relationship Committee and the Cybersecurity risk sub-committee and serves as a member of the Audit Committee, the Nomination and Remuneration Committee, the Risk Management Committee and the Corporate Social Responsibility Committee.
+
+He is the former Group CIO for BP, PLC, having responsibility for setting and implementing BP's IT strategy and providing computing and telecommunications technology services worldwide. As CIO, Michael led a transformation of the IT function at BP, reorganizing the function and operating model. He led improvements in cybersecurity and the application of emerging digital technologies, including plans for a migration of legacy data centers to the cloud.
+
+Michael served as CIO for various businesses including Conoco Refining & Marketing, Europe and Asia, based in London, and ConocoPhillips Supply and Trading, Corporate Functions and Global Downstream, based in Houston. In 2008, Michael returned to London, joining BP as VP/CIO, Refining & Marketing, before becoming Group CIO in 2013.
+
+Currently, Michael does occasional business consulting and speaking. He has chaired several church and missions boards and currently serves as Vice-Chair of A Child's Hope - Haiti, serving the orphans of Haiti. Michael graduated summa cum laude from Oklahoma State University with a degree in Management Science. He completed the Executive Management Program at Penn State University in 1997 and the Concours/Cash CIO Leadership Program in 2004. In 2015, he was named to CIO magazine's list of the most influential Global CIOs and ranked as I-CIO's 2nd most powerful IT executive in Europe.
+
+Bobby Parikh (Bobby) is an Independent Director of Infosys. He is the Chairperson of the Audit Committee and serves as a member of the Stakeholders Relationship Committee and the Risk Management Committee. He is the Managing Partner of Bobby Parikh Associates, a boutique firm focused on providing strategic tax and regulatory advisory services.
+
+Over the years, Bobby has had extensive experience in advising clients across a range of industries. An area of focus for Bobby has been to work with businesses, both Indian and multinational, in interpreting the changes to India's policy framework and help businesses better leverage opportunities arising from and address challenges resulting from such changes.
+
+Bobby has led teams that have advised clients in the areas of entry strategy (MNCs into India and Indian companies into overseas markets), business model identification, structuring a business presence, mergers, acquisitions and other business reorganizations. Bobby's particular area of focus is providing tax and regulatory advice in relation to transactions and other forms of business reorganizations, whether inbound, outbound or wholly domestic. In this regard, Bobby works extensively with private equity funds, other institutional investors and owners and managers of businesses to develop bespoke solutions that optimally address the commercial objectives underpinning a particular transaction or a business reorganization.
+
+Bobby also works closely with regulators and policy formulators in providing inputs to aid in the development of new regulations and policies, and in assessing the implications and efficacy of these and providing feedback for action. Bobby was co-founder of BMR Advisors, a highly regarded tax and transactions firm which he helped establish and run for over 12 years. Prior to forming BMR Advisors, Bobby was the Chief Executive Officer of Ernst & Young in India and held that responsibility until December 2003. Bobby worked with Arthur Andersen for over 17 years and was its Country Managing Partner until the Andersen practice combined with that of Ernst & Young in June 2002. Bobby led the Financial Services industry practice at Arthur Andersen and then also at Ernst & Young.
+
+Bobby is a graduate in Commerce from the University of Mumbai and qualified as a Chartered Accountant from the Indian Institute of Chartered Accountants of India in 1987.
+
+Chitra Nayak (Chitra) is an Independent Director of Infosys. She is the Chairperson of the Environment, Social and Governance Committee and serves as a member of the Risk Management Committee, the Stakeholder Relationship Committee, the Corporate Social Responsibility Committee and the Cybersecurity risk sub-committee. She has over 25 years of experience in go-to-market, general management, and operations leadership roles at various organizations.
+
+She currently serves as a Member of the Board at Vimo, a tech platform for healthcare services access, and was formerly on public boards at Invitae, a medical genetics company; at LifeWorks, a tech-enabled HR services company; and at Forward Air, a freight and logistics company. She also was on the board at a private company, Intercom, a messaging platform company. She advises startups on go-to-market strategies and is an Executive Advisor at BCG.
+
+Most recently, she was the Chief Operating Officer, overseeing the go-to-market strategy at Comfy, a real-estate tech startup, and prior to that she was COO at Funding Circle, an online SMB lending marketplace. Chitra has been in leadership roles at Salesforce for eight years as COO, Platform and Senior Vice President, Global Sales Development. She was earlier part of AAA, Charles Schwab, and the Boston Consulting Group.
+
+Chitra has a passion for empowering women in the workplace. She is the co-founder of Neythri.org, which supports South Asian professional women. She was also the co-founder of the Salesforce Women's Network initiative. She has co-created and taught an MBA class on Women in Leadership at California State University, East Bay. Chitra holds an MBA with Honors from Harvard Business School, an MS in Environmental Engineering from Cornell University, and a B.Tech in Engineering from the Indian Institute of Technology.
+
+Govind Iyer (Govind) is an Independent Director of Infosys. He is the Chairperson of the Corporate Social Responsibility Committee and serves as a member of the Nomination and Remuneration Committee, the Environment, Social and Governance Committee, the Risk Management Committee and Cybersecurity risk sub-committee.
+
+Govind retired as a Partner at Egon Zehnder, a global leadership advisory firm. Prior to joining Egon Zehnder, Govind worked at Procter & Gamble, Coca-Cola, and Heinz. Govind has served on the Wharton Executive Education Advisory Board and is an active University of Pennsylvania alumnus. He has served on the Advisory Board of Asian Venture Philanthropy Network (AVPN). He is a founding board member and Chairperson of Social Venture Partners in India, Board of Trustees of the Rockefeller Foundation, Governing Board member of the Ashoka University, board member at Karmayogi Bharat, a Special Purpose Vehicle of Department of Personnel and Training, and is a #LivingmyPromise signatory.
+
+Govind has a Bachelor of Engineering degree from Regional Engineering College, Trichy, and an MBA from The Wharton School, University of Pennsylvania.
+
+Helene Auriol Potier (Helene) is an Independent Director of Infosys. She is a member of the Environment, Social and Governance Committee, the Risk Management Committee and Cybersecurity sub-committee. She has built a truly global career in digital technologies and in the telecommunications industry that has spanned multiple geographies, including the United States, Europe, Africa, and Asia.
+
+She started her career in New York in telecommunications in 1986. In 1990, Helene joined the Canadian mobile technology company Nortel Networks Corporation, where she spent 15 years and held various senior leadership positions, among which were Vice President Sales Mobile Division Worldwide and Vice President Services & Operations EMEA.
+
+In 2005, Helene joined Dell Inc., where she served as CEO Africa, Mediterranean and CEE. She joined Microsoft Corporation in 2008. During her 10 years tenure at Microsoft, she served in various senior leadership capacities, including CEO Microsoft Singapore and Managing Director Artificial Intelligence Europe. From November 2018 to December 2020, she was Executive Vice-President in charge of International Business for Orange.
+
+Helene is often called to speak on the topics of digital transformation, corporate governance and ESG. She served as independent director on the boards of Safran SA until May 2025, Mimecast Limited until May 2022, Ispen S.A. until May 2018 and Faiveley Transport S.A. until November 2016. Helene currently serves as independent non-executive director on the boards of Accor S.A., Randstad N.V. and Oddo BHF S.C.A. She chairs the Accor board ESG committee, the Randstad Technology committee and the Oddo BHF board compensation committee.
+
+She is also a senior advisor at a leading global private equity firm, she is a member of the INSEAD Governance Council and a Managing Director in Alinerom S.C.I. Helene was ESG co-chair and board member at Institut Français des Administrateurs (IFA), the French association of corporate directors, until June 2024. Helene received a Master of Science in Engineering from Telecom Paris and an Executive MBA from INSEAD.
+
+Nitin Paranjpe (Nitin) is an Independent Director of Infosys and has been appointed as a Vice-Chairman of Infosys Limited w.e.f. 30 April 2026. He is a member of the Nomination and Remuneration Committee, the Risk Management Committee and the Audit Committee. He is currently the Non-Executive Chairman of Hindustan Unilever Limited (HUL) and a member of the Supervisory Board of Heineken NV.
+
+Prior to this, Nitin was a member of the Unilever Leadership Executive, performing various roles including Chief People and Transformation Officer, and Unilever's Chief Operating Officer (COO). Nitin joined HUL in 1987, where he held various roles in marketing and sales, before being appointed as the Chief Executive Officer, India, and Executive Vice President for Unilever, South Asia, in April 2008.
+
+He has been the recipient of many awards in recognition of his contribution to business and industry, including CEO of the year (Forbes India) and India business leader of the year (CNBC TV18). For his efforts in blazing a trail for diversity, he won the GG2 Hammer Award in 2019 in the United Kingdom. He is also a member of the Board of Indian School of Business. Nitin holds a bachelor's degree in mechanical engineering and an MBA in Marketing from Jamnalal Bajaj Institute of Management in Mumbai.
+
+Diane Jurgens (Diane) is an Independent Director of Infosys. She is also a strategic Board Member and Technologist with global C-suite experience, P&L leadership, and a proven track record leading transformation across multiple industries.
+
+She currently serves on the boards of Standard Chartered and World 50. At Standard Chartered, Diane serves as an Independent Non-Executive Director and is a member of the Risk and Culture & Sustainability Committees. Previously, as Chief Information Officer for The Walt Disney Company (2020-2023), she led enterprise technology. She also represented Disney on the US-India Strategic Partnership Forum (USISPF).
+
+As Chief Technology Officer at BHP (2015-2020), Diane spearheaded innovation across autonomous systems, cybersecurity, machine learning, and the Industrial Internet of Things (IIoT). During her decade in Shanghai, Diane was President & Managing Director of Shanghai OnStar Telematics (2012-2015). Prior to that, she served as CIO for GM International Operations (2008-2012) and GM China (2006-2008).
+
+She earned an MBA from Seattle University and a master's degree in electrical engineering from the University of Washington, where she currently serves on the College of Engineering Dean's Advisory Board. Diane was awarded the Shanghai government's prestigious Magnolia Award and has been recognized among the Top 10 Women in Technology.
+
+Inderpreet Sawhney (Inderpreet) is the Chief Legal Officer and Chief Compliance Officer of Infosys. In this role she leads the legal and compliance function for the Company. She is a strategic business partner ensuring success for Infosys in legal and regulatory matters, while spearheading its compliance and ethics program. Inderpreet also has additional responsibility for Privacy and Data Protection at Infosys.
+
+Inderpreet is also the Chairperson of Infosys Foundation USA and a trustee of the Infosys Foundation India. Inderpreet serves on the Global Board of Directors of the Association of Corporate Counsel. She has previously served on the Board of Directors of formerly NYSE listed Hillenbrand Inc. (2021-2026) and was the Co-Chair of the World Economic Forum Global Future Counsel for Good Governance (2023-2024).
+
+She was an honoree at the 2017 Transformative Leadership Awards, recognizing General Counsel who demonstrate commitment to advancing women in law. She is also a recipient of the Thought Leadership Award at the 2018 Global Transformative Leadership Awards and was featured among the top 25 Women Leaders in IT Services of 2020, published by The IT Services Report. She is a frequent speaker at global conferences.
+
+Shaji Mathew (Shaji) is the Chief Human Resource Officer at Infosys. In this role, he is responsible for envisioning the roadmap for HR, driving strategy, and implementing operational priorities aligned with the overall organizational mandate for Infosys and group companies. Shaji has over 33 years of experience in Infosys.
+
+Prior to his current role, he was Infosys' Global head of delivery for Financial Services, Insurance, Healthcare and Life Sciences. Over the years, he has played various leadership roles in delivery, as also in managing client relationships, commercials, solutioning, and people management across the US, Europe, and Asia Pacific.
+
+He has been actively steering the company's efforts to create a more inclusive and diverse workforce. He is also a trustee of Infosys Foundation, focusing on Corporate Social Responsibilities. Shaji is a rank holder from National Institute of Technology, Calicut. He has completed a Global Leadership Program from Stanford University Graduate School of Business and a Leadership program from Harvard Business School. He serves on the board of International Institute of Information Technology (IIIT), Bangalore. He is also a member of the Confederation of Indian Industry (CII) National Committee on Leadership and HR.
+
+Jayesh Sanghrajka (Jayesh) is the Executive Vice President & Group CFO of Infosys Ltd. With over 3 decades of experience in global finance and strategic leadership, Jayesh plays a pivotal role in long-term value creation, financial and operational excellence, and grooming the next set of leaders for Infosys.
+
+As the leader of the company's global finance organization, he oversees areas like facilitating growth at good margins, financial planning and analysis, investor relations, treasury, tax, and risk management, as well as oversees the facility and infrastructure functions. Over the years, he has driven the finance team's digital transformation journey towards functional excellence.
+
+Jayesh spearheads multiple cross-functional initiatives aimed at identifying new revenue growth opportunities or driving cost optimization. A key architect of the company's growth strategy, Jayesh is responsible for mergers and acquisitions (M&A), helping to create and sustain long-term competitive advantage for Infosys. Jayesh also champions the company's ESG agenda, ensuring that ESG is at the heart of Infosys' strategy to achieve profits with a purpose, while balancing sustainable growth, compliance with international standards, and stakeholder transparency.
+
+Prior to Infosys, he worked in companies like Tishman-Speyer, Rediff.com, Mu Sigma, and KPMG, wherein he played a key role in driving various digital and financial transformations to help them be future-ready. Jayesh earned his bachelor's degree in commerce from Mumbai University, India. He is a Chartered Accountant from the Institute of Chartered Accountants, India. He also has a degree in cost accounting. Over the years, he has attended various Executive Global Leadership Development Programs at global universities like Stanford University (USA) and Harvard University (USA).

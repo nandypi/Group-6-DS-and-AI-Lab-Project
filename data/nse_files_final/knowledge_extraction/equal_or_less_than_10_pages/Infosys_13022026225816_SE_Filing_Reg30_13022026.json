@@ -1,0 +1,76 @@
+{
+  "document_name": "Infosys_13022026225816_SE_Filing_Reg30_13022026.md",
+  "is_material": false,
+  "title": "Infosys Receives Property Tax Penalty From Indore Nagar Nigam",
+  "detailed_summary": "Infosys received communication from Indore Nagar Nigam for collection of a penalty of INR 11,21,293 due to alleged late payment of property tax for FY2025-2026. The company stated that there is no material impact on its financials, operations, or other activities.",
+  "key_facts": [
+    {
+      "fact": "Indore Nagar Nigam levied a total penalty of INR 11,21,293 on Infosys.",
+      "section_heading": null
+    },
+    {
+      "fact": "The penalty was due to alleged late payment of property tax for FY2025-2026.",
+      "section_heading": null
+    },
+    {
+      "fact": "Infosys stated that there is no material impact on financials, operations or other activities of the Company.",
+      "section_heading": null
+    }
+  ],
+  "financial_metrics": {
+    "currency": null,
+    "period": null,
+    "revenue": null,
+    "revenue_growth_yoy": null,
+    "revenue_growth_qoq": null,
+    "operating_margin": null,
+    "net_profit": null,
+    "eps": null,
+    "free_cash_flow": null,
+    "large_deal_tcv": null,
+    "headcount": null,
+    "attrition": null,
+    "guidance": null,
+    "dividend": null
+  },
+  "corporate_actions": [],
+  "partnerships_or_deals": [],
+  "leadership_changes": [],
+  "litigation_or_regulatory_matters": [
+    {
+      "matter_type": "penalty",
+      "authority_or_counterparty": "Indore Nagar Nigam",
+      "description": "Penalty levied due to alleged late payment of property tax for FY2025-2026.",
+      "amount": "INR 11,21,293",
+      "status": "Orders passed/ action taken.",
+      "section_heading": null
+    }
+  ],
+  "risk_factors": [],
+  "esg_or_csr_items": [],
+  "products_or_platforms": [],
+  "important_text_spans": [
+    {
+      "text": "Total Penalty - INR 11,21,293",
+      "section_heading": null,
+      "reason": "Supports the monetary scale of the penalty."
+    },
+    {
+      "text": "None, there is no material impact on financials, operations or other activities of the Company.",
+      "section_heading": null,
+      "reason": "Supports the company's stated impact assessment."
+    }
+  ],
+  "search_keywords": [
+    "Indore Nagar Nigam",
+    "property tax",
+    "FY2025-2026",
+    "INR 11,21,293",
+    "penalty"
+  ],
+  "sample_questions": [
+    "What penalty did Infosys receive from Indore Nagar Nigam?",
+    "Did the Indore Nagar Nigam property tax penalty have a material impact on Infosys?"
+  ],
+  "processing_notes": "Marked non-material because the disclosed penalty amount is small and the company explicitly stated there is no material impact on financials, operations or other activities."
+}

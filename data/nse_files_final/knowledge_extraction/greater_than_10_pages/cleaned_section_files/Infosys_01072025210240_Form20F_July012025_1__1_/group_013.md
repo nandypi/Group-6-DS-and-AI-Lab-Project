@@ -1,0 +1,196 @@
+---
+document_name: "Infosys_01072025210240_Form20F_July012025_1__1_.md"
+group_id: "Infosys_01072025210240_Form20F_July012025_1__1___group_013"
+source_section_count: 2
+estimated_tokens: 5109
+source_section_ids:
+  - "Infosys_01072025210240_Form20F_July012025_1__1___025"
+  - "Infosys_01072025210240_Form20F_July012025_1__1___026"
+---
+---
+section_title: Income tax expense
+section_description: This section discusses Infosys' income tax expense, effective tax rate, tax incentives, tax proceedings, net profit, defined benefit plans, liquidity, cash flows, contractual obligations, acquisitions, and capital allocation policy for fiscal 2025 and fiscal 2024.
+topics:
+  - Income tax expense and effective tax rate
+  - Tax incentives and tax proceedings
+  - Net profit
+  - Defined benefit plans
+  - Liquidity and cash flows
+  - Acquisitions and contractual obligations
+  - Capital allocation and dividends
+sample_queries:
+  - What were Infosys' income tax expense and effective tax rate in fiscal 2025 and fiscal 2024?
+  - How did SEZ tax incentives affect Infosys' income tax expense in fiscal 2024?
+  - What claims from income tax authorities were not acknowledged as debts as of March 31, 2025 and 2024?
+  - What were Infosys' net profit and net profit as a percentage of revenues in fiscal 2025 and fiscal 2024?
+  - What were the funded statuses of Infosys' gratuity, overseas pension, and provident fund plans?
+  - What were Infosys' operating, investing, and financing cash flows in fiscal 2025 and fiscal 2024?
+  - What acquisitions did Infosys complete or agree to in fiscal 2025 and April 2025?
+  - What dividend did the Board recommend for the financial year ended March 31, 2025?
+---
+
+## Income tax expense
+
+Our profits earned from providing software development and other services outside India are subject to tax in the country where we perform the work. Most of our taxes paid in countries other than India can be claimed as a credit against our tax liability in India.
+
+We, being a resident company in India as per the provisions of the Income Tax Act, 1961, are required to pay taxes in India on the global income in accordance with the provisions of Section 5 of the Indian Income Tax Act, 1961, which is reflected as domestic taxes. The geographical disclosures on revenue in Note 2.11 of Item 18 of this Annual Report on Form 20-F are based on the domicile of customers and do not reflect the geographies where the actual delivery or revenue-related efforts occur. The income on which domestic taxes are imposed are not restricted to the income generated from the 'India' geography. As such, amounts applicable to domestic income taxes and foreign income taxes will not necessarily correlate to the proportion of revenue generated from India and other geographical segments.
+
+The applicable Indian Corporate statutory tax rate for each of fiscal 2025 and fiscal 2024 was 25.17% and 34.94% respectively. Taxation Laws (Amendment) Act, 2019 has introduced section 115BAA wherein a domestic company can exercise option for a reduced rate of corporate tax without claim of certain deductions mentioned therein including deduction for SEZ units under section 10AA of the Income Tax Act. For fiscal 2025, the income tax expense of the Company has been recognized by applying the provision of section 115BAA of the Income Tax Act without claim of deduction for SEZ units under section 10AA of the Income Tax Act.
+
+In India, we had benefited from certain tax incentives that the Government of India had provided for the export of services from the SEZ units registered under the Special Economics Zones (SEZs) Act, 2005 in the prior years. SEZ units who began to provide services on or after April 1, 2005, were eligible for an income tax deduction of 100% of profits or gains derived from the export of services for the first five years beginning with the assessment year relevant to the previous year in which the SEZ unit begins to provide services and 50% of such profits or gains for the five years thereafter. Up to 50% of such profits or gains were also available for a further five years subject to creation of a Special Economic Zone Re-Investment Reserve out of the profit of the eligible SEZ units and utilization of such reserve by the Company for acquiring new plant and machinery for the purpose of its business as per the provisions of the Income Tax Act. In the event the Company is not able to utilize the SEZ reserve for investment in plant and machinery within the timeline specified under the Income Tax Act, Company will have to pay tax on the unutilized reserve following the expiry of year specified. This would result in an increase in effective tax cost.
+
+For fiscal 2025, the income tax expense of the Company has been recognized by applying the provision of section 115BAA of the Income Tax Act without claim of deduction for SEZ units under section 10AA of the Income Tax Act. For fiscal 2024, a portion of our pre-tax income was not subject to income tax due to above tax incentives. These tax incentives resulted in a decrease in our income tax expense of $363 million for fiscal 2024, compared to the tax amounts that we estimate we would have been required to pay if these incentives had not been available. The per share effect of these tax incentives computed based on both basic and diluted weighted average number of equity shares for fiscal 2024 was $0.09. See Note 2.18, Income Taxes, under Item 18 of this Annual Report on Form 20-F for reconciliation of the income tax provision to the amount computed by applying the statutory income tax rate to the income before income taxes.
+
+The following table sets forth our income tax expense and effective tax rate for fiscal 2025 and fiscal 2024:
+
+| | Fiscal 2025 | Fiscal 2024 | Change | Percentage Change |
+|---|---:|---:|---:|---:|
+| Income tax expense (Dollars in millions) | 1,285 | 1,177 | 108 | 9.2% |
+| Effective tax rate | 28.9% | 27.1% | | |
+
+Effective tax rate is generally influenced by various factors including differential tax rates, non-deductible expenses, exempt non-operating income, overseas taxes, tax reversals and provisions pertaining to prior periods, changes to tax regulations and other tax deductions.
+
+Our effective tax rate in fiscal 2024 was lower primarily on account of reversal of tax provision due to receipt of order giving effects in fiscal 2024 for prior assessment years. Income tax expense for fiscal 2025 and 2024 includes provision (net of reversals) of $16 million, and reversals (net of provisions) of $113 million respectively. For fiscal 2025, the tax provisions comprise additional provision of $86 million pertaining to prior periods which is offset by reversal of tax provision of $70 million made in earlier periods. For fiscal 2024, the tax provisions comprised reversal of provisions of $151 million made in earlier periods offset by additional tax provision of $38 million pertaining to prior periods.
+
+These reversals and provisions pertaining to prior periods are primarily on account of adjudication of certain disputed matters, upon filing of tax return and completion of assessments, across various jurisdictions.
+
+During fiscal 2025, the Company received orders under section 250 of the Income Tax Act, 1961, from the Income Tax Authorities in India for the assessment years, 2016-17 and 2019-20. These orders confirmed the Company's position with respect to tax treatment of certain contentious matters. As a result, interest income (pre-tax) of $38 million along with the corresponding tax impact was recognized. Further, a provision for income tax aggregating $21 million was reversed with a corresponding credit to the Statement of Profit and Loss. Also, an amount aggregating to $125 million has been reduced from contingent liabilities.
+
+During fiscal 2024, the Company received orders under sections 250 and 254 of the Income Tax Act, 1961, from the Income Tax Authorities in India for the assessment years, 2007-08 to 2015-16, 2017-18 and 2018-19. These orders confirmed the Company's position with respect to tax treatment of certain contentious matters. As a result, interest income (pre-tax) of $232 million along with the corresponding tax impact was recognized. Further, a provision for income tax aggregating $63 million was reversed with a corresponding credit to the Statement of Profit and Loss. Also, an amount aggregating to $196 million was reduced from contingent liabilities.
+
+As of March 31, 2025, claims against the Group not acknowledged as debts from the Income tax authorities amounted to $226 million (₹ 1,933 crore).
+
+As of March 31, 2024, claims against the Group not acknowledged as debts from the Income tax authorities amounted to $335 million (₹ 2,794 crore).
+
+The amount paid to statutory authorities against the tax claims amounted to $491 million (₹ 4,199 crore) and $1,048 million (₹ 8,743 crore) as of March 31, 2025, and March 31, 2024, respectively.
+
+The claims against the Group primarily represent demands arising on completion of assessment proceedings under the Income Tax Act, 1961. These claims are on account of issues of disallowance of expenditure towards software being held as capital in nature and payments made to Associated Enterprises held as liable for withholding of taxes, among other issues. These matters are pending before various Income Tax Authorities and the Group's management including its tax advisors expect that its position will likely be upheld on ultimate resolution and will not have a material adverse effect on the Group's financial position and results of operations.
+
+The Company's Advanced Pricing Arrangement (APA) with the Internal Revenue Service (IRS) for U.S. branch income tax expired in March 2021. The Company has applied for renewal of APA and currently the U.S. taxable income is based on the Company's best estimate determined based on the expected value method.
+
+## Net profit
+
+The following table sets forth our net profit for fiscal 2025 and fiscal 2024:
+
+| | Fiscal 2025 | Fiscal 2024 | Change |
+|---|---:|---:|---:|
+| Net profit (Dollars in millions) | 3,162 | 3,169 | (7) |
+| As a percentage of revenues | 16.4% | 17.1% | |
+
+The decrease in net profit as a percentage of revenues for fiscal 2025 as compared to fiscal 2024 was primarily attributable to a decrease in other income as a percentage of revenue by 0.8%, and an increase in tax expense as a percentage of revenue by 0.4% which is partially offset by an increase in operating profit by 0.4%.
+
+## Sensitivity analysis for defined benefit plans for Fiscal 2025 over Fiscal 2024
+
+We provide for gratuity, a defined benefit retirement plan (Gratuity Plan) covering eligible employees. The Gratuity Plan provides a lump-sum payment to vested employees at retirement, death, incapacitation, or termination of employment, of an amount based on the respective employee's salary and the tenure of employment.
+
+The following table sets forth the defined benefit obligation and fair value of plan assets as of March 31, 2025, and March 31, 2024 pertaining to our defined benefit gratuity plan:
+
+| | March 31, 2025 | March 31, 2024 |
+|---|---:|---:|
+| Benefit obligation at the end (Dollars in millions) | 294 | 253 |
+| Fair Value of plan assets at the end (Dollars in millions) | 319 | 249 |
+| Funded Status - Net defined benefit plan asset /(liability) (Dollars in millions) | 25 | (4) |
+
+We also operate defined benefit pension plans in certain overseas jurisdictions, in accordance with local laws. The plans provide for periodic payouts after retirement and/or a lump-sum payment as set out in rules of each fund and includes death and disability benefits. The defined benefit plans require contributions which are based on a percentage of salary that varies depending on the age of the respective employees.
+
+The following table sets forth the defined benefit obligation and fair value of plan assets as of March 31, 2025, and March 31, 2024, pertaining to our overseas pension plan:
+
+| | March 31, 2025 | March 31, 2024 |
+|---|---:|---:|
+| Benefit obligation at the end (Dollars in millions) | 138 | 122 |
+| Fair Value of plan assets at the end (Dollars in millions) | 133 | 119 |
+| Funded Status - (Accrued defined benefit plan liability) (Dollars in millions) | (5) | (3) |
+
+Further, we also provide for provident fund to eligible employees of Infosys, which is a defined benefit plan as the Company has an obligation to make good the shortfall, if any, between the return from the investments of the trust and the notified interest rate.
+
+The following table sets forth the defined benefit obligation and fair value of plan assets as of March 31, 2025, and March 31, 2024, pertaining to our defined benefit provident fund plan:
+
+| | March 31, 2025 | March 31, 2024 |
+|---|---:|---:|
+| Benefit obligation at the end (Dollars in millions) | 1,622 | 1,424 |
+| Fair Value of plan assets at the end (Dollars in millions) | 1,629 | 1,416 |
+| Funded Status - surplus /(deficit) (Dollars in millions) | 7 | (8) |
+| Irrecoverable surplus - effect of asset ceiling (Dollars in millions) | (7) | - |
+| Net defined benefit asset/ (liability) (Dollars in millions) | - | (8) |
+
+See Note 2.14.1, Gratuity and pensions, and 2.14.3 Provident Fund under Item 18 of this Annual Report on Form 20-F for disclosures on assumptions used, basis of determination of assumptions and sensitivity analysis for significant actuarial assumptions.
+
+## Liquidity and capital resources
+
+Our principal sources of liquidity are cash and cash equivalents, investments, and the cash flow that we generate from operations. We have no outstanding borrowings. We believe that our working capital is sufficient to meet our current requirements. As of March 31, 2025 and 2024, we had $6,347 million and $6,071 million, respectively, in working capital. The working capital as of March 31, 2025, includes $2,861 million in cash and cash equivalents and $1,460 million in current investments. The working capital as of March 31, 2024 includes $1,773 million in cash and cash equivalents and $1,548 million in current investments. We believe that a sustained reduction in IT spending by clients, a longer sales cycle, or a continued economic downturn in any of the various geographic locations or business segments in which we operate, could result in a decline in our revenue and negatively impact our liquidity and cash resources.
+
+Our cash and cash equivalents are comprised of deposits with banks and financial institutions with high credit ratings assigned by international and domestic credit-rating agencies which can be withdrawn at any point of time without prior notice or penalty on principal. Cash and cash equivalents are primarily held in Indian Rupees. These cash and cash equivalents included a restricted cash balance of $50 million and $42 million as of March 31, 2025 and 2024, respectively. These restrictions are primarily on account of bank balances held by irrevocable trusts controlled by us. Our investments comprise of liquid mutual fund units, Target maturity fund units and quoted debt securities (including investment in non-convertible debentures), certificates of deposit, commercial paper and government securities. Certificates of deposit and commercial papers represent marketable securities of banks, Non-Banking Financial Companies and eligible financial institutions for a specified time period with high credit rating by domestic credit rating agencies. Investments made in non-convertible debentures represent debt instruments issued by government aided institutions and financial institutions with high credit rating.
+
+A significant portion of our investments, along with our cash and cash equivalents, are fully liquid at any point in time. In addition, our investments are well-diversified in terms of their maturities as well as from a counter-party perspective. Thus, we do not perceive any liquidity risk from our investment portfolio perspective.
+
+The following table sets forth our cash flows for fiscal 2025 and 2024:
+
+| | Fiscal 2025 | Fiscal 2024 |
+|---|---:|---:|
+| Net cash provided by operating activities (Dollars in millions) | 4,351 | 3,148 |
+| Net cash (used) in investing activities (Dollars in millions) | (361) | (708) |
+| Net cash (used) in financing activities (Dollars in millions) | (2,875) | (2,116) |
+
+## Net cash provided by operating activities:
+
+Our cash flows are robust. Our operating cash flows have increased by $1,203 million in fiscal 2025 primarily on account of an increase in net profits adjusted for non-cash items, better working capital management and lower net income tax payments on account of higher tax refunds received during fiscal 2025.
+
+Trade receivables as a percentage of last 12 months' revenues were 18.9% and 19.6% as of March 31, 2025, and 2024, respectively. Days Sales Outstanding (DSO) based on last 12 months' revenues were 69 days and 71 days as of March 31, 2025, and 2024, respectively. Days Sales Outstanding has decreased in the current year due to robust collection.
+
+In fiscal 2025, income tax paid under protest, consequent to demand from tax authorities in major tax jurisdictions was $90 million, relating to fiscal 2018 to fiscal 2022. Further, in fiscal 2025, refunds received from tax authorities was $821 million relating primarily to fiscal 2007 to fiscal 2018, fiscal 2020 to fiscal 2024.
+
+In fiscal 2024, income tax paid under protest, consequent to demand from tax authorities in major tax jurisdictions was $161 million, relating to fiscal 2012 to fiscal 2013, fiscal 2016 to fiscal 2018 and fiscal 2020 to fiscal 2022. Further, in fiscal 2024, refunds received from tax authorities was $208 million relating primarily to fiscal 2008 to fiscal 2009, fiscal 2012 to fiscal 2014 and fiscal 2016 to fiscal 2023.
+
+## Net cash used in investing activities:
+
+Net cash used in investing activities relating to our business acquisitions for fiscal 2025 was $377 million. There were no acquisitions made during fiscal 2024.
+
+During fiscal 2025 we paid $377 million, net of cash acquired, towards the acquisitions of in-tech and Insemi. The aggregate purchase consideration of the two acquisitions includes contingent consideration with an estimated fair value of $4 million as on the date of acquisition. The contingent consideration is payable over the next two years subject to the achievement of certain financial targets. Additionally, these acquisitions have retention payouts and bonuses payable to the employees of the acquiree amounting to $33 million payable from two to five years from the acquisition date, subject to their continuous employment with the group along with achievement of certain financial targets.
+
+Net cash used in investing activities, relating to acquisition of additional property, plant, and equipment and intangibles for fiscal 2025 and 2024 was $263 million and $266 million, respectively, for our software development centers.
+
+During fiscal 2025 and 2024, we invested $10,601 million and $10,455 million, respectively, in marketable securities. Further, we redeemed marketable securities of $10,825 million and $9,914 million during fiscal 2025 and 2024, respectively. We redeem investments to fund our business operations, acquisitions, dividend payouts and share buybacks in line with the execution of our capital allocation policy. Marketable securities include liquid mutual funds, target maturity funds, quoted debt securities, certificates of deposit and commercial papers.
+
+## Net cash used in financing activities:
+
+Net cash used in financing activities for fiscal 2025 primarily includes $2,416 million towards dividend payments, $278 million towards payment of lease liabilities and $118 million towards loan repayment of in-tech Holding GmbH at the time of acquisition. Net cash used in financing activities for fiscal 2024 primarily includes $1,777 million towards dividend payments, and $245 million towards payment of lease liabilities.
+
+The details of Company's material contractual commitments and obligations are as below:
+
+## Leases
+
+As of March 31, 2025, the total lease liabilities on an undiscounted basis amounts to $1,050 million. For more details on the contractual maturities of lease liabilities refer to Note 2.8 Leases, under Item 18 of this Annual Report on Form 20-F.
+
+## Acquisitions
+
+On April 17, 2025, Infosys Singapore Pte Ltd., a wholly-owned step down subsidiary of Infosys Limited, entered into a definitive agreement to acquire 100% of the equity share capital of The Missing Link, a leading Cybersecurity service provider headquartered in Australia, for a consideration including earn-outs amounting up to AUD 98 million (approximately $62 million), excluding management incentives, and retention bonus, subject to customary closing adjustments. On April 30, 2025, the company completed its acquisition of The Missing Link.
+
+On April 17, 2025, Infosys Nova Holdings LLC, a wholly-owned step down subsidiary of Infosys Limited, entered into a definitive agreement to acquire 100% of the partnership interests of MRE Consulting Ltd, a leading Energy Consulting company, headquartered in USA, for a consideration including earn-outs amounting up to $36 million, excluding management incentives, and retention bonus, subject to customary closing adjustments. To consummate this transaction, Infosys Nova Holdings LLC has simultaneously incorporated an entity Infosys Energy Consulting Services LLC. On April 30, 2025, the company completed its acquisition of MRE Consulting Ltd.
+
+## Other obligations
+
+Refer to Note 2.3, Financial instruments, liquidity risk section under Item 18 of this Annual Report on Form 20-F for the contractual maturity of significant financial liabilities.
+
+Based on the assumptions as of March 31, 2025, we expect to contribute $43 million towards gratuity trusts and $5 million towards pension during fiscal 2026 (See Note 2.14.1, Gratuity and Pension, under Item 18 of this Annual Report on Form 20-F).
+
+Refer to Note 2.18 Income taxes for details about the claims against the Group not acknowledged as debts from Income tax authorities.
+
+The non-controlling shareholders of our acquisitions have a put option which, if exercised, would require the Group to purchase the remaining shares in those entities. The financial liability outstanding as of March 31, 2025, was $89 million on an undiscounted basis.
+
+## Contractual commitments
+
+As of March 31, 2025, we had contractual commitments for capital expenditure primarily comprising of commitments for infrastructure facilities and computer equipment aggregating to $109 million. These commitments include $96 million in commitments for domestic purchases as of March 31, 2025, and $13 million in overseas commitments as of March 31, 2025. All our capital commitments will be financed out of cash generated from operations. We expect our outstanding contractual commitments as of March 31, 2025, to be largely completed in a year.
+
+As of March 31, 2025, we had purchase obligations amounting to $2,173 million, out of which approximately 57% is expected to be completed within the next year and the remaining thereafter. Purchase obligation means an agreement to purchase goods or services that is enforceable and legally binding on the Company that specifies all significant terms, including fixed or minimum quantities to be purchased; fixed, minimum or variable price provisions; and the approximate timing of the transaction.
+
+## Capital allocation policy and related payouts
+
+As per our present capital allocation policy, 'effective fiscal 2025, the Company expects to continue its policy of returning approximately 85% of the free cash flow* cumulatively over a 5-year period through a combination of semi-annual dividends and/or share buyback / special dividends, subject to applicable laws and requisite approvals, if any.'
+
+Under this policy, the Company expects to progressively increase its annual dividend per share (excluding special dividend if any).
+
+The Board in its meeting held on April 17, 2025, recommended a final dividend of ₹ 22/- per equity share (approximately $0.26 per equity share) for the financial year ended March 31, 2025. The dividend was subject to the approval of shareholders in the AGM of the Company and was subsequently approved by the shareholders at the AGM of the Company held on June 25, 2025 and would result in a net cash outflow of approximately $1,066 million (excluding dividend on treasury shares).
+
+\* Free cash flow is defined as net cash provided by operating activities less capital expenditure as per the consolidated statement of cash flows prepared under IFRS.
+
+Dividend and buyback include applicable taxes.

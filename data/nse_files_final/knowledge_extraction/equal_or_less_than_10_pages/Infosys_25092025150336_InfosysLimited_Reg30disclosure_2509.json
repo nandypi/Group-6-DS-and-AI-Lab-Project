@@ -1,0 +1,75 @@
+{
+  "document_name": "Infosys_25092025150336_InfosysLimited_Reg30disclosure_2509.md",
+  "is_material": false,
+  "title": "Infosys completes merger of German step-down subsidiaries",
+  "detailed_summary": "Infosys disclosed that the merger between two wholly owned step-down subsidiaries, Infosys Germany GmbH and Blitz 24-893 SE, was completed on September 24, 2025. The resultant entity is named Infosys Germany SE. The document does not disclose any transaction value, financial impact, ownership change, or strategic business impact.",
+  "key_facts": [
+    {
+      "fact": "The merger between Infosys Germany GmbH and Blitz 24-893 SE was completed on September 24, 2025.",
+      "section_heading": null
+    },
+    {
+      "fact": "Infosys Germany GmbH and Blitz 24-893 SE were described as wholly owned step down subsidiaries.",
+      "section_heading": null
+    },
+    {
+      "fact": "The name of the resultant entity is Infosys Germany SE.",
+      "section_heading": null
+    }
+  ],
+  "financial_metrics": {
+    "currency": null,
+    "period": null,
+    "revenue": null,
+    "revenue_growth_yoy": null,
+    "revenue_growth_qoq": null,
+    "operating_margin": null,
+    "net_profit": null,
+    "eps": null,
+    "free_cash_flow": null,
+    "large_deal_tcv": null,
+    "headcount": null,
+    "attrition": null,
+    "guidance": null,
+    "dividend": null
+  },
+  "corporate_actions": [
+    {
+      "action_type": "merger",
+      "description": "Merger between two wholly owned step-down subsidiaries, Infosys Germany GmbH and Blitz 24-893 SE; the resultant entity is Infosys Germany SE.",
+      "amount_or_ratio": null,
+      "effective_date": "September 24, 2025",
+      "section_heading": null
+    }
+  ],
+  "partnerships_or_deals": [],
+  "leadership_changes": [],
+  "litigation_or_regulatory_matters": [],
+  "risk_factors": [],
+  "esg_or_csr_items": [],
+  "products_or_platforms": [],
+  "important_text_spans": [
+    {
+      "text": "the merger between two wholly owned step down subsidiaries viz, Infosys Germany GmbH, and Blitz 24-893 SE has been completed on September 24, 2025",
+      "section_heading": null,
+      "reason": "Supports the completion date and entities involved in the merger."
+    },
+    {
+      "text": "the name of the resultant entity is Infosys Germany SE.",
+      "section_heading": null,
+      "reason": "Supports the name of the entity after the merger."
+    }
+  ],
+  "search_keywords": [
+    "Infosys Germany GmbH",
+    "Blitz 24-893 SE",
+    "Infosys Germany SE",
+    "German subsidiaries merger"
+  ],
+  "sample_questions": [
+    "What merger involving Infosys Germany GmbH was completed on September 24, 2025?",
+    "What is the resultant entity after the merger of Infosys Germany GmbH and Blitz 24-893 SE?",
+    "Did Infosys disclose any financial impact from the German subsidiary merger?"
+  ],
+  "processing_notes": "Marked non-material because the disclosure concerns an internal merger of wholly owned step-down subsidiaries and does not state any financial impact, ownership change, or strategic business impact."
+}

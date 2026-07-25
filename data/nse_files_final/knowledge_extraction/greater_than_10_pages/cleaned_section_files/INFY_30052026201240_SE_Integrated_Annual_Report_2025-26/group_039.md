@@ -1,0 +1,63 @@
+---
+document_name: "INFY_30052026201240_SE_Integrated_Annual_Report_2025-26.md"
+group_id: "INFY_30052026201240_SE_Integrated_Annual_Report_2025-26__group_039"
+source_section_count: 1
+estimated_tokens: 7636
+source_section_ids:
+  - "INFY_30052026201240_SE_Integrated_Annual_Report_2025-26__071__part_001"
+---
+---
+section_title: Standalone Financial Statements Contents
+section_description: This section contains a table of contents for the standalone financial statements, including the independent auditor's report, primary standalone financial statements, and notes with page references.
+topics:
+  - Independent auditor's report
+  - Standalone financial statements
+  - Notes to standalone financial statements
+  - Financial instruments
+  - Equity and liabilities
+  - Revenue, expenses, and earnings per share
+sample_queries:
+  - On which page does the independent auditor's report begin?
+  - What are the main standalone financial statements listed in this section?
+  - Which note covers financial instruments and what page does it start on?
+  - Where can I find the standalone statement of cash flows?
+  - What notes are listed under the standalone financial statements?
+  - Which page contains the note on earnings per equity share?
+---
+
+| Section | Page |
+|---|---:|
+| A Independent Auditor's Report | 226 |
+| B Standalone Balance Sheet | 238 |
+| C Standalone Statement of Profit and Loss | 240 |
+| D Standalone Statement of Changes in Equity | 242 |
+| E Standalone Statement of Cash Flows | 247 |
+| F Overview and Notes to the Standalone Financial Statements | 249 |
+| 1. Overview | 249 |
+| 1.1 Company overview | 249 |
+| 1.2 Basis of preparation of financial statements | 249 |
+| 1.3 Use of estimates and judgments | 249 |
+| 1.4 Critical accounting estimates and judgments | 249 |
+| 2. Notes to the Standalone Financial Statements | 250 |
+| 2.1 Property, plant and equipment | 250 |
+| 2.2 Goodwill and other intangible assets | 253 |
+| 2.3 Leases | 254 |
+| 2.4 Capital work-in-progress | 255 |
+| 2.5 Investments | 256 |
+| 2.6 Loans | 261 |
+| 2.7 Other financial assets | 261 |
+| 2.8 Trade receivables | 262 |
+| 2.9 Cash and cash equivalents | 263 |
+| 2.10 Other assets | 263 |
+| 2.11 Financial instruments | 263 |
+| 2.12 Equity | 272 |
+| 2.13 Other financial liabilities | 278 |
+| 2.14 Trade payables | 279 |
+| 2.15 Other liabilities | 280 |
+| 2.16 Provisions | 280 |
+| 2.17 Income taxes | 280 |
+| 2.18 Revenue from operations | 283 |
+| 2.19 Other income, net | 286 |
+| 2.20 Expenses | 287 |
+| 2.21 Employee benefits | 287 |
+| 2.22 Earnings per equity share | 292 |

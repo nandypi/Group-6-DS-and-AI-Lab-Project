@@ -1,0 +1,155 @@
+---
+document_name: "Infosys_18112025182523_SE_letter_LoF_18112025.md"
+group_id: "Infosys_18112025182523_SE_letter_LoF_18112025__group_005"
+source_section_count: 1
+estimated_tokens: 5394
+source_section_ids:
+  - "Infosys_18112025182523_SE_letter_LoF_18112025__007"
+---
+---
+section_title: "RESOLVED FURTHER THAT the Board hereby confirms that:"
+section_description: "This section contains Board confirmations related to the Infosys Limited buyback, details of the public announcement, and key terms of the buyback. It also includes shareholding tables for promoters, promoter group, directors, and key managerial personnel as of November 7, 2025."
+topics:
+  - "Board confirmations for buyback"
+  - "Public announcement details"
+  - "Buyback terms and size"
+  - "ADS holder participation"
+  - "Promoter and promoter group shareholding"
+  - "Directors and key managerial personnel shareholding"
+sample_queries:
+  - "What confirmations did the Board make regarding the Infosys buyback?"
+  - "What newspapers carried the public announcement for the buyback?"
+  - "What is the maximum number of equity shares Infosys proposes to buy back?"
+  - "What is the buyback offer price per equity share?"
+  - "How can ADS holders participate in the buyback?"
+  - "What was the aggregate promoter and promoter group shareholding as of November 7, 2025?"
+  - "Which directors and key managerial personnel held Infosys equity shares as of the public announcement date?"
+---
+
+## RESOLVED FURTHER THAT the Board hereby confirms that:
+
+1. All the Equity Shares for Buyback are fully paid-up.
+2. Subject to applicable law, the Company shall not issue any shares or other specified securities, including by way of bonus issue, till the expiry of the Buyback Period, except in discharge of subsisting obligations through stock option schemes, or conversion of preference shares or debenture into Equity Shares. Relevant details and the potential impact of such subsisting obligations shall be disclosed in the public announcement.
+3. Subject to applicable law, the Company shall not raise further capital for a period of one year from the expiry of the Buyback Period, except in discharge of subsisting obligations.
+4. The Company, as per the provisions of Section 68(8) of the Act, will not make any further issue of the same kind of shares or other securities, including allotment of new shares under Section 62(1)(a) of the Act or other specified securities, within a period of six months after the completion of the Buyback, except by way of bonus shares or equity shares issued in order to discharge subsisting obligations such as conversion of warrants, stock option schemes, sweat equity or conversion of preference shares or debentures into Equity Shares.
+5. The Company shall not buyback locked-in Equity Shares and non-transferable equity shares till the pendency of the lock-in or till the Equity Shares become transferable.
+6. The Company shall not buyback its equity shares from any person through negotiated deal, whether on or off the stock exchanges, or through spot transactions or through any private arrangement in the implementation of the Buyback.
+7. There are no defaults subsisting in the repayment of deposits, interest payment thereon, redemption of debentures or interest thereon, redemption of preference shares or payment of dividend, or repayment of any term loans or interest payable thereon to any financial institution or banking company, as the case may be.
+8. The Company has been in compliance with Sections 92, 123, 127 and 129 of the Act.
+9. Funds borrowed from Banks and Financial Institutions will not be used for the Buyback.
+10. The aggregate amount of the Buyback, i.e. ₹ 18,000 crore (Rupees Eighteen Thousand crore only), does not exceed 25% of the total paid-up capital and free reserves of the Company as per the audited interim condensed standalone and consolidated financial statements of the Company as on June 30, 2025.
+11. The number of equity shares proposed to be purchased under the Buyback, i.e. 10,00,00,000 (Ten crore), does not exceed 25% of the total number of equity shares in the paid-up equity share capital as on June 30, 2025.
+12. The Company shall not make any offer of buyback within a period of one year reckoned from the date of expiry of the Buyback Period, subject to applicable laws.
+13. The Buyback will not be in contravention of Regulation 4(vii) of Buyback Regulations, i.e. the Company has not made the offer of Buyback within a period of one year reckoned from the date of expiry of buyback period of the preceding offer of buyback.
+14. There is no pendency of any scheme of amalgamation or compromise or arrangement pursuant to the provisions of the Act, as on date.
+15. The Company shall earmark and make arrangements for adequate sources of funds for the purpose of the Buyback in accordance with the Buyback Regulations.
+16. The Company will not directly or indirectly purchase its own Equity Shares or other specified securities:
+    - a. Through any subsidiary company including its own subsidiary companies; or
+    - b. Through any investment company or group of investment companies.
+17. Consideration of the Equity Shares bought back by the Company will be paid only by way of cash.
+18. The Buyback will not result in delisting of the Equity Shares from BSE Limited and National Stock Exchange of India Limited.
+19. As on date, the ratio of the aggregate of secured and unsecured debts owed by the Company is not and shall not be more than twice the paid-up share capital and free reserves based on lower of the audited interim condensed standalone or consolidated financial statements of the Company as on June 30, 2025.
+20. The buyback offer shall not be withdrawn once the public announcement is made.
+21. The Company shall transfer from its free reserves or securities premium account and/or such sources as may be permitted by law, a sum equal to the nominal value of the Equity Shares purchased through the Buyback to the capital redemption reserve account and the details of such transfer shall be disclosed in its subsequent audited financial statements.
+22. The Company shall ensure consequent reduction of its share capital post Buyback and the Equity Shares bought back by the Company will be extinguished and physically destroyed, if applicable, in the manner prescribed under the Buyback Regulations and the Act within the specified timelines.
+23. The Company does not have any outstanding debt from lenders. Accordingly, the Company is not required to obtain the prior consent of its lenders for breach of any covenant with such lenders.
+
+RESOLVED FURTHER THAT in terms of Buyback Regulations, in the event of non-fulfilment of the obligations under the Buyback Regulations by the Company, the escrow account in full or in part shall be forfeited and distributed pro rata amongst the security-holders who accepted the offer, and balance, if any, shall be utilized for investor protection in accordance with Buyback Regulations.
+
+## 5. DETAILS OF THE PUBLIC ANNOUNCEMENT
+
+5.1 In accordance with Regulation 7(i) of the Buyback Regulations, the Company has made the Public Announcement dated November 7, 2025, which was published in the following newspapers on November 10, 2025:
+
+5.2 The Public Announcement was issued within 2 (two) Working Days from the date of declaration of results of the postal ballot, i.e. November 6, 2025, for special resolution passed by the Equity Shareholders approving the Buyback.
+
+5.3 The Company will publish further notices or corrigenda, if any, in the above mentioned newspapers. A copy of the Public Announcement dated November 7, 2025, published on November 10, 2025 is available on the websites of SEBI, the Company, NSE, BSE, the Registrar to the Buyback and the Manager to the Buyback.
+
+5.4 On the date of the Public Announcement and within one business day of the date of the dispatch of the Postal Ballot Notice, the Company had placed advertisements and on the date of dispatch of this Letter of Offer it shall place an advertisement in the print edition of The New York Times to draw the attention of U.S. shareholders to enable their participation in the Buyback.
+
+5.5 After dispatch of this Letter of Offer, the Company will publish an advertisement in all English and Hindi editions of Business Standard (English and Hindi national daily), all English editions of The Economic Times (English national daily), and all Karnataka editions of Prajavani (Regional language Kannada daily) to inform the Eligible Shareholders about the completion of dispatch of Letter of Offer. The dispatch advertisement will also include the link for shareholders to check their entitlement under the Buyback.
+
+| Sr. No. | Name of the Newspaper | Language | Edition |
+|---|---|---|---|
+| 1. | Business Standard | English and Hindi | All editions |
+| 2. | Prajavani | Kannada | All Karnataka editions |
+| 3. | The Economic Times | English | All editions |
+
+## 6. DETAILS OF THE BUYBACK
+
+6.1 The Buyback has been authorized by a resolution of the Board of Directors on September 11, 2025. The Board had sought approval of the shareholders of the Company for Buyback, by a special resolution, through notice of postal ballot dated September 25, 2025 ("Postal Ballot Notice"), the results of which were announced on November 6, 2025. The shareholders of the Company have approved the Buyback by special resolution. The details of the Buyback are set out below:
+
+| Particulars | Details |
+|---|---|
+| Name of the Company | Infosys Limited |
+| Maximum number of Equity Shares proposed to be bought back pursuant to the Buyback | The Company proposes to buyback up to 10,00,00,000 (Ten crore) Equity Shares of face value of ₹ 5 (Rupees five only) each of the Company. |
+| Number of Equity Shares proposed to be bought back pursuant to the Buyback as a percentage of the existing paid-up equity share capital of the Company | Buyback of up to 10,00,00,000 (Ten crore) Equity Shares representing up to 2.41% of the total number of Equity shares in the existing total paid-up Equity share capital of the Company on a standalone basis. |
+| Buyback Offer Price | The Equity Shares of the Company are proposed to be bought back at a price of ₹ 1,800/- (Rupees One Thousand Eight Hundred only) per Equity Share. |
+| Applicable regulations of SEBI and provisions of the Act, in accordance with which the Buyback is made | The Buyback is being undertaken in terms of Chapter III of the Buyback Regulations through tender offer route and in accordance with other applicable provisions of the Buyback Regulations, the SEBI Circulars, LODR Regulations and Sections 68, 69, 70 and other applicable provisions, if any, of the Act, and the relevant rules framed thereunder, including the Share Capital Rules and the Management Rules, to the extent applicable. |
+| Methodology for the Buyback | The Equity Shares shall be bought back on a proportionate basis from all the Eligible Shareholders, including holders of ADS of the Company, who cancel any of their ADS and withdraw the underlying Equity Shares prior to the Record Date, such that they become equity shareholders of the Company as on the Record Date through the "Tender Offer" route, as prescribed under the Buyback Regulations, and subject to applicable laws, facilitated through the stock exchange mechanism as specified by SEBI in the SEBI Circulars. In this regard, the Company will request BSE and NSE to provide the acquisition window for facilitating tendering of Equity Shares under the Buyback. For the purposes of this Buyback, BSE will |
+| Buyback Offer Size and its percentage with respect to the total paid-up equity share capital and free reserves and percentage with respect to net worth of the Company | Aggregate consideration of up to ₹ 18,000 Crore (Rupees Eighteen Thousand Crore only) being up to 24.31% and 21.68% of the aggregate of fully paid-up Equity Share capital and free reserves based on the latest audited interim condensed financial statements of the Company as at June 30, 2025 on a standalone basis and consolidated basis, respectively, which is within the prescribed limit of 25% under the Act and Regulation 4(i) of the Buyback Regulations. The Buyback Offer Size does not include any expenses or transaction costs incurred or to be incurred for the Buyback, such as brokerage, filing fees, advisory fees, intermediaries' fees, public announcement, publication expenses, printing and dispatch expenses, applicable taxes such as securities transaction tax, goods and services tax, stamp duty etc. and other incidental and related expenses. |
+| Other Information | Under applicable Indian laws, holders of ADS will not be eligible to tender ADSs in the Buyback. As intimated in the Postal Ballot Notice dated September 25, 2025 (refer to section 12 of the explanatory statement attached to the Postal Ballot Notice - Additional Information for Holders of the Company's American Depositary Shares), in order for the ADS holders to participate in the Buyback, they must have previously taken certain actions in order to withdraw the Equity Shares underlying the ADSs held by them in advance of the Record Date and should have become holders of Equity Shares on the Record Date. In the Postal Ballot Notice, the Company had intimated that ADS holders had approximately 49 calendar days from the date of the Postal Ballot Notice to take such steps as may be required for ADS holders to hold Equity Shares as on the Record Date. ADS holders are advised to read paragraph 22.26 - 22.30 of this Letter of Offer, "Participation by ADS Holders" for additional details concerning participation in the Buyback by ADS holders. |
+
+6.2 The Equity Shares of the Company are listed on NSE and BSE. Further, the ADS of the Company are listed on the New York Stock Exchange.
+
+6.3 The Buyback from the Eligible Shareholders who are Non-Resident Shareholders shall be subject to such approvals, if any and to the extent necessary or required from the concerned authorities, including approvals from the RBI under the FEMA, and such approvals shall be required to be taken by such Non-Resident Shareholders.
+
+6.4 The Buyback would involve reservation for Small Shareholders which will be 15% of the number of Equity Shares that the Company proposes to Buyback, or their entitlement, whichever is higher.
+
+6.5 Aggregate shareholding of the promoters and promoter group as on the date of the Public Announcement, i.e. November 7, 2025:
+
+| Sr. No. | Name | Number of Equity Shares Held | Shareholding Percentage (%) |
+|---|---|---:|---:|
+| A. | Promoters |  |  |
+| 1. | Sudha Gopalakrishnan | 9,53,57,000 | 2.30 |
+| 2. | Rohan Murty | 6,08,12,892 | 1.46 |
+| 3. | Nandan M. Nilekani | 4,07,83,162 | 0.98 |
+| 4. | Akshata Murty | 3,89,57,096 | 0.94 |
+| 5. | Asha Dinesh | 3,85,79,304 | 0.93 |
+| 6. | Sudha N. Murty | 3,45,50,626 | 0.83 |
+| 7. | Rohini Nilekani | 3,43,35,092 | 0.83 |
+| 8. | Dinesh Krishnaswamy | 3,24,79,590 | 0.78 |
+| 9. | S. Gopalakrishnan | 3,18,53,808 | 0.77 |
+| 10. | Shreyas Shibulal | 1,99,29,860 | 0.48 |
+| 11. | Narayana Murthy | 1,51,45,638 | 0.36 |
+| 12. | Meghana Gopalakrishnan | 1,48,34,928 | 0.36 |
+| 13. | Nihar Nilekani | 1,26,77,752 | 0.31 |
+| 14. | Shruti Shibulal | 87,05,651 | 0.21 |
+| 15. | Janhavi Nilekani | 85,89,721 | 0.21 |
+| 16. | Deeksha Dinesh | 76,46,684 | 0.18 |
+| 17. | Divya Dinesh | 76,46,684 | 0.18 |
+| 18. | S. D. Shibulal | 52,08,673 | 0.13 |
+| 19. | Kumari Shibulal | 49,45,935 | 0.12 |
+| Total (A) |  | 51,30,40,096 | 12.35 |
+| B. | Promoter group |  |  |
+| 20. | Milan Shibulal Manchanda | 61,06,302 | 0.15 |
+| 21. | Nikita Shibulal Manchanda | 61,06,302 | 0.15 |
+| 22. | Gaurav Manchanda | 57,73,233 | 0.14 |
+| 23. | Bhairavi Madhusudhan Shibulal | 54,27,875 | 0.13 |
+| 24. | Tanush Nilekani Chandra | 33,56,017 | 0.08 |
+| 25. | Ekagrah Rohan Murty | 15,00,000 | 0.04 |
+| 26. | Shray Chandra | 7,19,424 | 0.02 |
+| Total (B) |  | 2,89,89,153 | 0.70 |
+| Total (A+B) |  | 54,20,29,249 | 13.05 |
+
+Aggregate shareholding of the directors and key managerial personnel as on the date of the Public Announcement, i.e. November 7, 2025:
+
+| Sr. No. | Name | Designation | Number of Equity Shares Held | Shareholding Percentage (%) |
+|---|---|---|---:|---:|
+| A. | Directors |  |  |  |
+| 1. | Nandan M. Nilekani | Chairman and Non-Executive and Non-Independent Director (Promoter) | 4,07,83,162 | 0.98 |
+| 2. | Salil Parekh | Chief Executive Officer and Managing Director | 13,79,460 | 0.03 |
+| 3. | D. Sundaram | Lead Independent Director | Nil | Nil |
+| 4. | Michael Gibbs | Independent Director | Nil | Nil |
+| 5. | Bobby Parikh | Independent Director | 7,747 | 0.00 |
+| 6. | Chitra Nayak | Independent Director | Nil | Nil |
+| 7. | Govind Iyer | Independent Director | Nil | Nil |
+| 8. | Helene Auriol Potier | Independent Director | Nil | Nil |
+| 9. | Nitin Paranjpe | Independent Director | Nil | Nil |
+| Total (A) |  |  | 4,21,70,369 | 1.02 |
+| B. | Key managerial personnel |  |  |  |
+| 1. | Jayesh Sanghrajka | Chief Financial Officer | 1,04,055 | 0.00 |
+| 2. | Inderpreet Sawhney | Chief Legal Officer and Chief Compliance Officer | Nil | Nil |
+| 3. | A.G.S. Manikantha | Company Secretary | 17,829 | 0.00 |
+| 4. | Shaji Mathew | Chief Human Resources Officer | 2,65,114 | 0.01 |
+| Total (B) |  |  | 3,86,998 | 0.01 |
+| Total (A+B) |  |  | 4,25,57,367 | 1.02 |

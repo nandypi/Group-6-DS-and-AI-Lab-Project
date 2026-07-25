@@ -1,0 +1,168 @@
+---
+document_name: "Infosys_01072025210240_Form20F_July012025_1__1_.md"
+group_id: "Infosys_01072025210240_Form20F_July012025_1__1___group_025"
+source_section_count: 2
+estimated_tokens: 4393
+source_section_ids:
+  - "Infosys_01072025210240_Form20F_July012025_1__1___048"
+  - "Infosys_01072025210240_Form20F_July012025_1__1___049"
+---
+---
+section_title: "Item 16H. Mine Safety Disclosure"
+section_description: "This section contains Infosys disclosures on mine safety, foreign jurisdictions that prevent inspections, insider trading policies, cybersecurity risk management and governance, and financial statement reporting. It also includes audit committee and management reports and the beginning of the independent registered public accounting firm report, including critical audit matters related to revenue recognition."
+topics:
+  - "Mine safety disclosure"
+  - "Foreign jurisdiction inspection disclosure"
+  - "Insider trading policies"
+  - "Cybersecurity risk management"
+  - "Cybersecurity governance"
+  - "Financial statement reports"
+  - "Independent auditor opinion"
+  - "Revenue recognition audit matters"
+sample_queries:
+  - "What does Infosys disclose under Item 16H and Item 16I?"
+  - "What insider trading policies and regulations are described in this section?"
+  - "How does Infosys describe its cybersecurity strategy and risk management framework?"
+  - "Which governance bodies oversee cybersecurity risk at Infosys?"
+  - "What certifications and attestations related to information security are mentioned?"
+  - "What did the Audit Committee review in connection with the March 31, 2025 consolidated financial statements?"
+  - "What opinion did the independent registered public accounting firm give on Infosys's consolidated financial statements?"
+  - "Why was revenue recognition identified as a critical audit matter?"
+---
+
+## Item 16H. Mine Safety Disclosure
+
+Not applicable.
+
+## Item 16I. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
+
+Not applicable.
+
+## Item 16J. Insider trading policies
+
+In May 2015, SEBI introduced the SEBI (Prohibition of Insider Trading) Regulations, 2015 ('PIT Regulations') replacing the earlier framework of the SEBI (Insider Trading) Regulations, 1992. It was introduced with an aim of bringing the basic framework governing the regime of insider trading practices in line with the dynamic global scenario and tightening the gaps of the existing norms.
+
+We have adopted insider trading policies and procedures to regulate, monitor and report trading by all Insiders (as defined in the Insider Trading Policy), including the Designated Persons and Immediate Relatives of Designated Persons as defined in the Code, to promote compliance with the SEBI (Prohibition of Insider Trading) Regulations, 2015 (as amended from time to time) and the applicable US securities laws.
+
+The Code of Conduct for Prohibition of Insider Trading is filed as exhibits to the Annual Report on Form 20-F.
+
+## Item 16K. Cybersecurity
+
+Infosys Cybersecurity integrates a robust strategy with a comprehensive framework and a strong governance program to ensure optimal protection. The primary objective of Infosys's cybersecurity strategy is to ensure business continuity by minimizing disruptions, besides ensuring continual improvement in the security compliance posture. This is achieved through an effective and continuous threat landscape monitoring system and management of cyber events leveraging advanced tools, technology, processes, and domain expertise. Infosys believes in nurturing a security-first mindset and upholding an effective security culture in the organization, thus complementing its cybersecurity objectives and mitigating enterprise risks. The cybersecurity program is designed to ensure that necessary controls and processes are consistently implemented, monitored, measured, and improved to address cyber risks across all cybersecurity domains. There is a focus on embracing technological innovation, secure by design principles, strengthening the cyber resilient core, and ensuring robust governance.
+
+## Risk management and strategy
+
+Infosys maintains an integrated Enterprise Risk Management (ERM) framework that is implemented across the organization by the risk management office. Our ERM framework is developed with reference to the Committee of Sponsoring Organizations (COSO) and the International Organization for Standardization (ISO) 31000 and is tailored to suit our unique business requirements. Our ERM framework is designed to encompass all of the Company's risks, such as strategic, operational, legal and compliance risks. The ERM function enables the achievement of the Company's strategic objectives by identifying, analyzing, assessing, mitigating, monitoring, and governing any risks, vulnerabilities, or potential threat to these objectives. While this is the key driver, our values, culture, and commitment to stakeholders - employees, customers, investors, regulatory bodies, partners, and the community around us - are the foundation for our ERM framework.
+
+Our efforts to ensure the systematic and proactive identification of risks, and mitigation thereof, enables our organization to boost performance with effective and timely decision-making. Risks to the strategic goals are identified through a mix of top-down and bottom-up approaches and are included in a multi-layer risk register. Infosys's ERM framework has defined organization-wide risk assessment guidelines and has set up an eight-layer governance structure, covering categories of risks. Risks identified in different functions including cybersecurity risks are presented at appropriate councils in the governance structure. Our ERM framework includes processes to escalate critical risks or cross-functional risks at each level to the next level in the ERM governance structure. ERM is also involved in defining the guidelines for incident management process at Infosys. Cybersecurity is one of the key enterprise risks monitored by the ERM and periodic updates on the risks and mitigations are provided as per the governance structure guidelines.
+
+Infosys Cyber Risk Management (CRM) is a comprehensive program designed to identify, analyze, prioritize, treat, and monitor cyber risks and vulnerabilities across the enterprise. Our cyber risk assessment framework aligns with ISO 31000, ISO 27001, and ISO 27005 standards, in a manner designed to ensure a robust and standardized approach. Our CRM processes are seamlessly integrated with Infosys's Enterprise Risk Management (ERM) framework, promoting consistency and thoroughness throughout the risk management lifecycle. This integration facilitates cross-functional risk analysis and streamlined reporting to the management.
+
+Infosys's CRM focuses on safeguarding information, information processing assets, and facilities of Infosys and all its subsidiaries, thereby ensuring the continuity of our business operations. Our vulnerability management program is built on a remediation strategy that emphasizes threat-based prioritization, vulnerability aging analysis, and continuous tracking. Additionally, Infosys's third-party security risk management program is designed to effectively manage potential security risks and vulnerabilities at every stage of supplier engagement. This program incorporates strong governance processes, continuous monitoring of security metrics, threat intelligence tracking, and periodic risk assessments.
+
+Multiple committees and sub-councils, ranging from the board level to the departmental functional level, have been established to ensure focused governance and continuous monitoring of cyber risks across all levels of the organization.
+
+Due to the constantly evolving and increasingly complex nature of cybersecurity risks, timely detection and defense are crucial to bolster our internal risk management processes. In this regard, Infosys collaborates periodically with third-party security consultants. These engagements include cybersecurity maturity assessments, gap analysis, evaluations of security controls and processes, and table-top exercises. These experts, who are well-versed in the latest cyber trends and threat landscapes, provide valuable recommendations and guidance to address and mitigate risks. Observations from these engagements are reviewed with the senior management to determine appropriate actions to address any identified findings.
+
+## Governance
+
+Infosys's cybersecurity program is managed by a dedicated team of seasoned professionals who constitute the Information Security Group (ISG). This program employs a multi-layered defense-in-depth approach, starting with a robust cybersecurity strategy, supported by comprehensive policies, processes, and controls (preventive, detective, and corrective).
+
+Infosys Management plays a vital role in managing material risks from cybersecurity threats. A full time Chief Information Security Officer (CISO) has the overall responsibility for the Infosys cybersecurity program. From driving thought leadership and security culture to enabling enterprise security and improving the security posture, our CISO and his team known as Information Security Group (ISG) are committed to fortifying the cyber security cause. CISO and ISG are responsible for identifying, detecting, assessing, and mitigating potential risks and threats related to information technology systems, network, and data and ensuring that necessary cybersecurity policies, processes and practices are established and implemented. CISO orchestrates close collaboration between multiple teams within the ISG such as the Cyber Defense Centre, Technical Operations, Business Security, and Risk Management, and reviews various areas including the cyber threat landscape, security incidents and risks, cybersecurity metrics, and technology implementations, and helps in making key decisions and strategic improvements.
+
+Infosys has established a Risk Management Committee (RMC) at the Board level, composed exclusively of independent directors. This committee assists the Board in fulfilling its corporate governance responsibilities, particularly in the identification, evaluation, and mitigation of strategic, operational, and external environment risks. The RMC holds overall responsibility for monitoring, evaluating, and approving the Enterprise Risk Management (ERM) framework and associated practices of the company. Under the RMC, the Board has constituted a Cybersecurity Risk Subcommittee (Subcommittee), which includes four independent directors. The Subcommittee's objective is to assess cybersecurity-related risks and evaluate the company's preparedness to mitigate and respond to such risks.
+
+A high-level working group, the Information Security Council (ISC), has been established to govern and oversee the Information Security Management System at Infosys. The ISC serves as the primary governing body for information security at Infosys, focusing on the establishment, direction, and monitoring of the information security governance framework. It reports to both the Operational Risk Council and the Legal & Compliance Risk Council.
+
+The ISC convenes periodically to discuss cybersecurity and other information security matters relevant to the company, ensuring adherence to the information security program. The Cybersecurity Risk Subcommittee receives updates from the company's management regarding cybersecurity matters, meets periodically, and recommends its findings, if any, to the RMC. In exercising its risk oversight, the Board receives periodic updates from the RMC concerning cybersecurity and other information security matters.
+
+At Infosys, our employees operate in a hybrid model. Hence, we continue to remain vigilant about the evolving cybersecurity threat landscape and stay abreast of the latest evolving cybersecurity threats across the global landscape. Infosys is certified against the Information Security Management System (ISMS) Standard ISO 27001:2022. Additionally, we have been attested for SSAE 18 and ISAE 3402 SOC 1 and SOC 2 by an independent audit firm.
+
+During fiscal 2025, we have strengthened our cybersecurity posture through embracing cutting-edge technology, tools and processes. We have also focused on training our cybersecurity personnel, and fostering a security culture of inclusive and collective ownership. We have empowered the developer community with dedicated courses and resource kits, aligning with our broader initiatives to enhance cybersecurity processes, technologies, and overall posture.
+
+As an organization, we continue to review and strengthen our cybersecurity processes and controls across our entire network.
+
+## Part III
+
+## Item 17. Financial statements
+
+See Item 18.
+
+## Item 18. Financial statements
+
+## CONSOLIDATED STATEMENTS AND OTHER FINANCIAL INFORMATION
+
+## Report of the Audit Committee
+
+## To the Board of Directors and Shareholders of Infosys Limited
+
+In connection with the March 31, 2025, consolidated financial statements prepared under International Financial Reporting Standards as issued by the International Accounting Standards Board, the Audit Committee:
+
+- reviewed and discussed the consolidated financial statements with management;
+- discussed with the auditors the matters required by Public Company Accounting Oversight Board (PCAOB) 1301, as adopted by the PCAOB in Rule 3200; and
+- received the written disclosures and the letter from the auditors required by applicable requirements of the Public Company Accounting Oversight Board regarding the auditor's communications with the audit Committee concerning independence and has discussed with the auditor the auditor's independence.
+
+Based upon these reviews and discussions, the Audit Committee recommended to the Board of Directors that the audited consolidated financial statements be included in the Annual Report on Form 20-F to be filed with the Securities and Exchange Commission of the United States of America.
+
+## Report of management
+
+The management is responsible for preparing the company's consolidated financial statements and related information that appears in this Annual Report. The management believes that the consolidated financial statements fairly reflect the form and substance of transactions, and reasonably present the financial condition and results of operations of Infosys Limited and subsidiaries in conformity with International Financial Reporting Standards as issued by the International Accounting Standards Board. The management has included, in the company's consolidated financial statements, amounts that are based on estimates and judgments, which it believes are reasonable under the circumstances.
+
+The company maintains a system of internal procedures and controls intended to provide reasonable assurance, at appropriate cost, that transactions are executed in accordance with company authorization and are properly recorded and reported in the consolidated financial statements, and that assets are adequately safeguarded.
+
+Deloitte Haskins & Sells LLP have conducted their audits in accordance with the standards of the Public Company Accounting Oversight Board (United States) of the Company's consolidated financial statements for the years ended March 31, 2025, March 31, 2024, and March 31, 2023.
+
+The Board of Directors has appointed an Audit Committee composed of outside directors. The Committee meets with the management, internal auditors, and the independent auditors to review internal accounting controls and accounting, auditing, and financial reporting matters.
+
+## REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+## To the Shareholders and the Board of Directors of Infosys Limited
+
+## Opinion on the Financial Statements
+
+We have audited the accompanying consolidated balance sheets of Infosys Limited (the 'Company') and subsidiaries (the "Group") as of March 31, 2025 and 2024, the related consolidated statements of comprehensive income, consolidated statements of changes in equity, and consolidated statements of cash flows, for each of the three years in the period ended March 31, 2025, and the related notes (collectively referred to as the "consolidated financial statements"). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Group as of March 31, 2025 and 2024, and the results of its operations and its cash flows for each of the three years in the period ended March 31, 2025, in conformity with the IFRS Accounting Standards as issued by the International Accounting Standards Board (IASB).
+
+We have also audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the Group's internal control over financial reporting as of March 31, 2025, based on criteria established in Internal Control - Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission and our report dated July 1, 2025, expressed an unqualified opinion on the Group's internal control over financial reporting.
+
+## Basis for Opinion
+
+These consolidated financial statements are the responsibility of the Group's management. Our responsibility is to express an opinion on the Group's consolidated financial statements based on our audits. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Group in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. Our audits included performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the consolidated financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the consolidated financial statements. We believe that our audits provide a reasonable basis for our opinion.
+
+## Critical Audit Matters
+
+The critical audit matters communicated below are matters arising from the current-period audit of the financial statements that were communicated or required to be communicated to the audit committee and that (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate.
+
+## Revenue Recognition - Refer to Notes 1.5(a) and 2.11 to the consolidated financial statements
+
+## Critical Audit Matter Description
+
+The Group's contracts with customers include contracts with multiple products and services. The Group derives revenues from IT services comprising software development and related services, maintenance, consulting and package implementation, licensing of software products and platforms across the Group's core and digital offerings and business process management services. The Group assesses the services promised in a contract and identifies distinct performance obligations in the contract. Identification of distinct performance obligations to determine the deliverables and the ability of the customer to benefit independently from such deliverables involves significant judgement.
+
+In certain integrated services arrangements, contracts with customers include subcontractor services or third-party vendor equipment or software. In these types of arrangements, revenue from sales of third-party vendor products or services is recorded net of costs when the Group is acting as an agent between the customer and the vendor, and gross when the Group is the principal for the transaction. In doing so, the Group first evaluates whether it obtains control of the specified goods or service before it is transferred to the customer. The Group considers whether it is primarily responsible for fulfilling the promise to provide the specified goods or services, inventory risk, pricing discretion and other factors to determine whether it controls the products or service and therefore, is acting as a principal or an agent.
+
+Fixed price maintenance revenue is recognized ratably either on (1) a straight-line basis when services are performed through an indefinite number of repetitive acts over a specified period or (2) using a percentage of completion method when the pattern of benefits from the services rendered to the customer and the Group's costs to fulfil the contract is not even through the period of contract because the services are generally discrete in nature and not repetitive. The use of method to recognize the maintenance revenues requires judgment and is based on the promises in the contract and nature of the deliverables.
+
+As certain contracts with customers involve management's judgment in (1) identifying distinct performance obligations, (2) determining whether the Group is acting as a principal or an agent and (3) whether fixed price maintenance revenue is recognized on a straight-line basis or using the percentage of completion method, revenue recognition from these judgments were identified as a critical audit matter and required a higher extent of audit effort.
+
+## How the Critical Audit Matter Was Addressed in the Audit
+
+Our audit procedures related to the (1) identification of distinct performance obligations, (2) determination of whether the Group is acting as a principal or agent and (3) whether fixed price maintenance revenue is recognized on a straight-line basis or using the percentage of completion method included the following, among others:
+
+- We tested the effectiveness of controls relating to the (a) identification of distinct performance obligations, (b) determination of whether the Group is acting as a principal or an agent and (c) determination of whether fixed price maintenance revenue for certain contracts is recognized on a straight-line basis or using the percentage of completion method.
+- We selected a sample of contracts with customers and performed the following procedures:
+  - Obtained and read contract documents for each selection, including master service agreements, and other documents that were part of the agreement.
+  - Identified significant terms and deliverables in the contract to assess management's conclusions regarding the (i) identification of distinct performance obligations, (ii) whether the Group is acting as a principal or an agent and (iii) whether fixed price maintenance revenue is recognized on a straight-line basis or using the percentage of completion method.
+
+## Revenue recognition - Fixed price contracts using the percentage of completion method - Refer to Notes 1.5(a) and 2.11 to the consolidated financial statements
+
+## Critical Audit Matter Description
+
+Fixed price maintenance revenue is recognized ratably either (1) on a straight-line basis when services are performed through an indefinite number of repetitive acts over a specified period or (2) using a percentage of completion method when the pattern of benefits from services rendered to the customer and the Group's costs to fulfil the contract is not even through the period of contract because the services are generally discrete in nature and not repetitive. Revenue from other fixed-price, fixed-timeframe contracts, where the performance obligations are satisfied over time is recognized using the percentage-of-completion method.
+
+Use of the percentage-of-completion method requires the Group to determine the actual efforts or costs expended to date as a proportion of the estimated total efforts or costs to be incurred. Efforts or costs expended have been used to measure progress towards completion as there is a direct relationship between input and productivity. The estimation of total efforts or costs involves significant judgement and is assessed throughout the period of the contract to reflect any changes based on the latest available information. Provisions for estimated losses, if any, on incomplete contracts are recorded in the period in which such losses become probable based on the estimated efforts or costs to complete the contract.
+
+We identified the estimate of total efforts or costs to complete fixed price contracts measured using the percentage of completion method as a critical audit matter as the estimation of total efforts or costs involves significant judgement and is assessed throughout the period of the contract to reflect any changes based on the latest available information. This estimate has a high inherent uncertainty and requires consideration of progress of the contract, efforts or costs incurred to-date and estimates of efforts or costs required to complete the remaining contract performance obligations over the term of the contracts.
+
+This required a high degree of auditor judgment in evaluating the audit evidence and a higher extent of audit effort to evaluate the reasonableness of the total estimated amount of revenue recognized on fixed-price contracts.

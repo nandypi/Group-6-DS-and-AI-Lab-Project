@@ -1,0 +1,141 @@
+---
+document_name: "Infosys_01072025210240_Form20F_July012025_1__1_.md"
+group_id: "Infosys_01072025210240_Form20F_July012025_1__1___group_003"
+source_section_count: 2
+estimated_tokens: 4232
+source_section_ids:
+  - "Infosys_01072025210240_Form20F_July012025_1__1___005"
+  - "Infosys_01072025210240_Form20F_July012025_1__1___006"
+---
+---
+section_title: "Our engagements with clients are typically singular in nature and do not necessarily provide for subsequent engagements."
+section_description: "This section describes risks related to Infosys' client engagement model, investments for growth, AI and technology services, acquisitions, goodwill impairment, cost structure, growth management, wage pressures, and infrastructure investments."
+topics:
+  - Client engagement risks
+  - Technology services and AI risks
+  - Acquisitions and strategic investments
+  - Goodwill and intangible impairment
+  - Cost structure and profitability
+  - Growth management
+  - Wage pressures and employee retention
+  - Infrastructure investment commitments
+sample_queries:
+  - "Why can short-term client engagements affect Infosys' business and results of operations?"
+  - "What risks does Infosys identify in developing new technology services and AI offerings?"
+  - "How may acquisitions, strategic investments, or alliances affect Infosys' financial condition?"
+  - "What could cause goodwill and acquired intangibles to result in impairment charges?"
+  - "Which factors can cause Infosys' expenses and profitability to fluctuate from period to period?"
+  - "How many employees did Infosys have on March 31, 2020 and March 31, 2025?"
+  - "What challenges does Infosys associate with operating across many locations and group companies?"
+  - "What capital expenditure commitments did Infosys have as of March 31, 2025?"
+---
+
+## Our engagements with clients are typically singular in nature and do not necessarily provide for subsequent engagements.
+
+Our clients generally retain us on a short-term, engagement-by-engagement basis in connection with specific projects, rather than on a recurring basis under long-term contracts. Although a substantial majority of our revenues are generated from repeat business, which we define as revenues from a client who also contributed to our revenues during the prior fiscal year, our engagements with our clients are typically for projects that are singular in nature. Therefore, we must seek out new engagements when our current engagements are successfully completed or terminated, and we are constantly seeking to expand our business with existing clients and secure new clients for our services.
+
+In addition, in order to continue expanding our business, we may need to significantly expand our sales and marketing group, which would increase our expenses and may not necessarily result in a substantial increase in business. If we are unable to generate a substantial number of new engagements for projects on a continual basis, our business and results of operations would likely be adversely affected. Additionally, macroeconomic uncertainties, changes in tariffs, trade restrictions or geopolitical conflicts may lead to clients re-evaluating their spending, which may lead them to decide not to extend or renew their business with us.
+
+## II.   Risks related to the investments we make for our growth
+
+## Our business will suffer if we fail to anticipate and develop new services and enhance existing services in order to keep pace with rapid changes in technology and in the industries on which we focus.
+
+The technology services market is characterized by rapid technological change, evolving industry standards, changing client preferences and new product and service introductions. Our future success will depend on our ability to anticipate these advances and develop new product and service offerings to meet client needs. We may fail to anticipate or respond to these advances on a timely basis, or, if we do respond, the services or technologies that we develop may not be successful in the marketplace. We continue to introduce several new solutions involving generative AI, agentic AI, cloud, AI-based automation, robotic process automation, blockchain, IoT, autonomous vehicles and other technologies. However, our inability to identify any future changes or disruptions in the technology space, inability to develop services around them, tailor our go to market strategy to take these services to our global customers ahead of competition and enhance our delivery capabilities to execute these services may impact our competitive positioning, market share and revenues. In addition, the development of some of these services and technologies may involve significant upfront investments and the failure of these services and technologies or our inability to leverage them for the intended purposes may result in our inability to recoup some or all of these investments. If we are not able to identify and timely retire any new services that are not succeeding as per expectations, we may incur additional losses. Further, more competitively priced or attractive products, services or technologies that are developed by our competitors may render our services noncompetitive or obsolete.
+
+Evolving regulatory frameworks in the technology sector may impact our new service offerings and may require us to make additional investments to align our service offerings with regulatory standards.
+
+Additionally, macroeconomic conditions, changes in tariffs, trade restrictions or geopolitical uncertainties and any economic downturn may cause us to reduce our expenditure on ideating, incubating, developing and marketing new service offerings, which may affect our long-term growth prospects.
+
+## Our use of AI technologies may not be successful and may present business, financial, legal, and reputational risks.
+
+The proliferation of AI continues to significantly impact our industry, and we believe our ability to compete in this space will be critical to our financial performance. Our use of AI, including generative AI and agentic AI, in our client offerings and our own internal operations is pervasive and continues to increase as we advance our research and development of the technology. We have incurred and will continue to incur significant costs to develop and operate our AI capabilities, including ensuring compliance with evolving AI and automation laws and regulations. Failure to develop and implement effective AI solutions or to compete in the AI market as efficiently as our competitors may prevent us from recouping our investments into AI and could negatively impact our financial performance, competitive standing, business, and reputation.
+
+AI technologies are complex and rapidly evolving, and we face significant competition, including from our own clients, who may develop their own AI-related capabilities, which in each case, can lead to reduced demand for our services. Additionally, as these technologies evolve, some professional services currently performed by our people may be replaced by automation, which could have a material adverse effect on our business, results of operations and financial condition.
+
+During the fiscal year, we built our first set of small language models for banking, IT operations, cybersecurity and to provide a robust foundation for implementing and scaling enterprise AI. As more of our services imbibe AI, we may need to plan for additional investment into initiatives like Responsible AI to create appropriate safeguards for handling the use of our data, including customer data processed by us. AI may create content that appears correct but is inaccurate or flawed, which may expose us to brand or reputational harm, competitive harm or legal liability if we, our customers or others rely on this flawed content to their detriment. Additionally, AI tools might utilize content subject to third-party restrictions, potentially hindering usage and causing liability, including through IP infringement, cybersecurity breaches and data protection violations. In addition, the development, adoption, and use of AI technologies are all still in their early stages and ineffective or inadequate AI development or deployment practices by us, our clients, or third parties with whom we do business could result in unintended consequences, including employees relying on inaccurate output, unauthorized disclosure of sensitive information, deliberate misuse, or infringement of third-party IP rights. In the event of such adverse circumstances, our reputation could be harmed, and we could be exposed to legal liability or regulatory risk.
+
+Evolving AI laws and regulations, such as the EU AI Act and the laws of various jurisdictions, which may conflict with one another, can impact our AI integration and business and create compliance challenges. Non-compliance, actual or perceived, may lead to fines, investigations, lawsuits, remediation costs, and reputational damage. Integrating AI into our products or their use in AI applications may also trigger increased regulatory scrutiny, litigation, IP, confidentiality, privacy, security, and ethical risks, harming our business.
+
+## We may be unable to recoup investment costs incurred in developing our software products and platforms.
+
+The development of our software products and platforms requires significant investments. The markets for our suite of software products and platforms are competitive. Our current software products and platforms or any new software products and platforms that we develop may not be commercially successful and the costs of developing such new software products and platforms may not be recouped. Since software product and platform revenues typically occur in periods subsequent to the periods in which the costs are incurred for the development of such software products and platforms, delayed revenues may cause periodic fluctuations in our results of operations.
+
+## We may engage in acquisitions, strategic investments, strategic partnerships or alliances or other ventures that may or may not be successful.
+
+We have in the past, and may in the future, seek to acquire or make strategic investments in complementary businesses, new and emerging technologies, services or products, or enter into strategic partnerships or alliances with third parties in order to enhance our business.
+
+It is possible that we may not be able to identify suitable acquisition targets, candidates for strategic investment or strategic partnerships, or if we do identify suitable targets, we may not complete those transactions on terms commercially acceptable to us. Our inability to identify suitable acquisition targets or investments or our inability to complete such transactions may affect our competitiveness and growth prospects.
+
+Even if we are able to identify an acquisition that we would like to consummate, we may not be able to complete the acquisition on commercially reasonable terms or the target may be acquired by another company. Furthermore, in the event that we are able to identify and consummate any future acquisitions, we could:
+
+- issue equity securities which would dilute current shareholders' percentage ownership;
+- incur substantial debt;
+- incur significant acquisition-related expenses;
+- assume contingent liabilities; or
+- expend significant cash.
+
+These financing activities or expenditures could harm our business, results of operations and financial condition or the price of our equity shares and ADSs. Alternatively, due to possible difficulties in the capital and credit markets, we may be unable to secure capital on acceptable terms, if at all, to complete acquisitions.
+
+The synergies that we expect from our acquisitions may not materialize as intended for many reasons, including due to inadequate business alignment or if assumptions made at the time of acquisition do not hold good due to internal or external factors. Moreover, even if we do obtain benefits from acquisitions in the form of increased sales and earnings, there may be a delay between the time when the expenses associated with an acquisition are incurred and the time when we recognize such benefits.
+
+Further, if we acquire a company, we could have difficulty in assimilating that company's personnel, operations, products, services, solutions, technology and software. In addition, the key personnel of the acquired company may decide not to work for us. These difficulties could disrupt our ongoing business, distract our management and employees and increase our expenses.
+
+We have made, and may in the future make, strategic investments in early-stage technology start-up companies to gain experience in or exploit niche technologies. However, our investments may not generate expected returns if the demand, supply and cash flow of these companies are adversely affected due to economic uncertainty, changes in tariffs, trade restrictions or geopolitical conflicts. The lack of profitability of any of our investments could adversely affect our results of operations.
+
+We have entered into alliances with many technology companies to enhance services offered to our clients. Most of the alliances are non-exclusive and alliance partners are not prevented from entering into agreements with our competition and/or compete against us. If we are not able to enter into alliances with new partners, it may impact our ability to enhance service offerings. We may not be able to obtain expected benefits if there is a reduced demand for services or products offered by the alliance partners which in turn may impact our revenue growth.
+
+## Goodwill and acquired intangible that we carry on our balance sheet could give rise to significant impairment charges in the future.
+
+Goodwill and acquired intangible is subject to impairment review. Impairment testing under International Financial Reporting Standards ('IFRS') as issued by International Accounting Standards Board ('IASB') may lead to impairment charges in the future. Any significant impairment charges could adversely affect our results of operations.
+
+## III.    Risks related to our cost structure
+
+## Our expenses are difficult to predict and can vary significantly from period to period, which could cause fluctuations to our profitability.
+
+A significant part of our total operating expenses, particularly expenses related to personnel and facilities, are fixed in advance for any particular period. As a result, unanticipated variations in the number and timing of our projects, employee utilization rates, location of employee deployment, or the accuracy of our estimates of the resources required to complete ongoing projects or uncertain economic situations arising out of various factors may cause significant variations in our results of operations in any particular period. There are also a number of factors that are not within our control that could cause fluctuations in our results of operations from period to period. Our profitability could be affected by pricing pressures on our services, competition for digital capabilities, volatility of the exchange rates between the Indian rupee, the U.S. dollar, and other currencies in which we generate revenues or incur expenses, increased wage pressures in India and at other locations where we maintain operations, any regulatory changes with respect to employee payouts such as overtime payments, increases in taxes or the expiration of tax benefits, the size and timing of facilities expansion and the resulting depreciation and amortization costs, economic downturns, or changes in immigration laws, policy, and enforcement in our key markets that would restrict offshore outsourcing or restrict the availability of certain visas thereby limiting our ability to staff the projects in a timely manner and generate revenues. Further, investments towards our localization strategy and any increase in wages due to market pressures and/or immigration regulations would increase our cost of doing business in certain geographies significantly and thus, impact our profitability.
+
+While we seek to manage costs efficiently, if the proportion of our services delivered at client sites increases, we may not be able to keep our operating costs as low in the future, which would also have an adverse impact on our profits. Additionally, we host technology and investment hubs in some of the countries in which we operate. Increased hiring of personnel within these hubs along with staff for enabler functions and management teams may increase our cost of doing business and thereby have an adverse impact on our profits. Our cost of operations is higher onsite compared to offshore and hence we maintain most of our bench offshore. Due to economic uncertainties and changes in tariffs or trade restrictions, our clients may decide to reduce their business with us. Our profitability may be negatively impacted if we are unable to eliminate fixed or committed costs in line with reduced demand. Additionally, any sudden change in demand may impact utilization in the short term thereby impacting profits.
+
+Our cost structure is high in initial periods of large deals due to higher onsite efforts, transition costs and other deal specific costs that we can incur, which can introduce volatility in our margin profile. In addition, we may acquire assets such as hardware, software, products, physical infrastructure, IP, etc., and/or rebadge employees as part of the large deals. Some of the large deals may require us to acquire such assets in the future while pricing assumptions for the same are decided upfront at the time of signing the deal. In addition, we may make various other assumptions related to the cost structure and/or to the execution of the deal. Any changes to these assumptions due to external or internal factors may impact profitability. Additionally, the competition for talent has impacted, and continues to impact, our wage costs. Wage increases may prevent us from sustaining our competitive advantage and may negatively affect our profits.
+
+In addition, due to competitive market conditions and pricing pressures, we are committing to higher productivity improvements in our contracts with our clients. Due to the attention created by the code generation capabilities of AI technologies, clients have started demanding higher commitments around productivity improvements. Any failure to realize such anticipated productivity improvements either due to our inability to identify areas to automate, optimize processes, leverage technology, effectively address service delivery risks or manage client requirements may impact our profitability. Any increase in operating expenses not offset by an increase in pricing or any acquisition with a lower profitability could impact our operating margins. Unplanned expenditures incurred to facilitate our hybrid working model, such as increased information security requirements, may adversely affect our profitability.
+
+## Any inability to manage our growth could disrupt our business, reduce our profitability and adversely impact our ability to implement our growth strategy.
+
+In the last few years we have undertaken and continue to undertake major expansions of our existing facilities, as well as the construction of new facilities globally. Between March 31, 2020, and March 31, 2025, our total employee count grew from 242,371 to 323,578. We expect our growth to place significant demands on our management team and other resources. Our growth will require us to continuously develop and improve our operational, financial and other internal controls globally.
+
+As on March 31, 2025, we operated in 292 locations across 59 countries and had more than 100 group companies. Our large size and scale of operations pose significant challenges to maintaining uniform strategies, standards, policies and procedures across the organization. While we have institutionalized our processes, standard operating procedures, enterprise risk management framework, internal control frameworks, information security policies, data privacy program, and compliance programs, some of the controls implemented have, in the past had, and may in the future have design or operating gaps or weakness due to the large size of the organization. This may lead to control failures such as fraud, cybersecurity attacks, and privacy breaches which in turn may negatively impact our reputation, financial condition, profitability, and stakeholder relationships.
+
+Inadequate financial controls may increase the possibility of fraud and/or negatively impact the accuracy of our financial reporting and shareholder relationships. In addition, continued growth increases the challenges involved in:
+
+- recruiting, training and retaining sufficient skilled technical, marketing and management personnel;
+- adhering to and further improving our high quality and process execution standards;
+- preserving our culture, values and entrepreneurial environment;
+- successfully expanding the range of services offered to our clients;
+- developing and improving our internal administrative infrastructure, particularly our financial, operational, communications and other internal systems;
+- maintaining high levels of client satisfaction; and
+- maintaining an effective internal control system and training our employees to mitigate the risk of individuals engaging in unlawful or fraudulent activity, breaching contractual obligations, or otherwise exposing us to unacceptable business risks.
+
+Our growth strategy relies on expanding our operations around the world. The costs involved in entering and establishing ourselves in new markets, and expanding such operations, may be higher than expected and we may face significant competition in these regions. Our inability to manage our expansion and related growth in these markets or regions may have an adverse effect on our business, results of operations and financial condition.
+
+We may face competition in other countries from companies that may have more experience with operations in such countries or with international operations generally. We may also face difficulties integrating new facilities in different countries into our existing operations.
+
+Our organizational structures, processes and culture may not be sufficiently agile and adaptive to embrace the changes required to execute our strategy.
+
+## Wage pressures and the hiring of employees and sub-contractors either outside or in India may prevent us from sustaining some of our competitive advantage and may reduce our profits.
+
+Wage costs in India have historically been significantly lower than wage costs in the United States and Europe for comparably skilled professionals, which has been one of our competitive strengths. However, wages in India have seen considerable increases over the years, due to a multitude of factors, such as inflation, intense competition for skilled resources between IT services companies and the overall economic growth leading to competition from traditional industrial sectors. Additionally, we have historically experienced significant competition for employees from large multinational companies that have established and continue to establish offshore operations in India, including GCCs. Increased demand for talent in India due to higher levels of offshoring across the industry could also cause wages to increase for certain management level employees and skilled professionals.
+
+Likewise, wages globally have increased due to a lack of skilled resources and inflation. Prolonged conflicts, changes in tariffs, trade restrictions or political and macroeconomic uncertainties may increase inflation in key geographies, thereby further increasing wage costs for us. Increased cost of visa processing and increased wages for visa dependent workers in certain geographies may further impact our cost structure.
+
+In addition, any changes to the employment laws in the countries in which we operate including India, that may increase the compensation or social security benefits we offer our employees may impact our profitability.
+
+We may need to increase our employee compensation more rapidly than in the past to be able to attract and retain employees skilled in newer technology areas or to remain competitive with other employers or seek to recruit in other low labor cost jurisdictions to keep our wage costs low. We may issue incentive compensation plans including stock-based compensation plans to our employees and management. Any compensation increases in the future may result in higher operating costs and lower profitability. In certain years, we may not give, or may delay, wage increases due to adverse market conditions while our competitors may still give wage increases. This may result in higher attrition rates and may impact our ability to hire highly skilled technology professionals. If we are unable to retain our employees, our employee compensation costs may be substantially higher as we may need to offer higher salaries to attract new employees. Higher salary offered to new joinees may negatively impact tenured employee satisfaction and sentiments if we fail to raise salary of tenured employees to eradicate disparity. In addition, employee productivity and delivery milestones may be adversely affected as new employees require additional time to scale up leading to higher fulfilment costs including potential penalties from clients.
+
+We are investing substantial cash in creating and maintaining physical and technological infrastructure, and our profitability could be reduced if our business does not grow proportionately.
+
+As of March 31, 2025, we had contractual commitments of $109 million for capital expenditures, including commitments related to the expansion or construction of facilities. We may encounter cost overruns or project delays in connection with expansion of existing facilities and construction of new facilities. We will continue to invest in the expansions of existing facilities and construction of new facilities to meet our growth requirements which may increase our fixed costs. We are also investing in the development of new facilities, including in Tier 2 cities across India, to enable our hybrid working model, which may also increase our facilities cost. If we are unable to grow our business and revenues proportionately, our profitability will be adversely impacted.
+
+Changing business and operating models with employees continuing to work in hybrid model may reduce the use of our physical infrastructure. Continued incurrence of operational cost to maintain these facilities may adversely affect our profitability.
+
+Conversely, due to business conditions, we may decide not to expand or invest in certain areas which may impact our ability to meet the commitments given to the federal or state governments, which in turn may impact our reputation and relationship with the governments.

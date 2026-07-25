@@ -1,0 +1,114 @@
+---
+document_name: "Infosys_22102025144043_SE_Draft_LOA_22102025.md"
+group_id: "Infosys_22102025144043_SE_Draft_LOA_22102025__group_018"
+source_section_count: 1
+estimated_tokens: 2480
+source_section_ids:
+  - "Infosys_22102025144043_SE_Draft_LOA_22102025__031"
+---
+---
+section_title: "FORM OF TRANSFER DEED"
+section_description: "This section contains Form No. SH-4, the securities transfer form for transfer of Infosys Limited equity shares. It includes company listing details, security descriptions, transferor and transferee particulars, declarations, enclosures, and office-use fields."
+topics:
+  - Securities transfer form
+  - Infosys Limited share transfer
+  - Transferor and transferee particulars
+  - Equity share details
+  - FEMA declaration
+  - Enclosures
+  - Office-use transfer records
+sample_queries:
+  - "What is the CIN listed for Infosys Limited in the transfer deed?"
+  - "Which stock exchanges are named as listing venues for Infosys Limited?"
+  - "What is the nominal value, called-up amount, and paid-up amount per equity security?"
+  - "What declarations are provided under the Foreign Exchange Management rules?"
+  - "What enclosures are required with the securities transfer form?"
+  - "What office-use fields are included for recording the transfer?"
+---
+
+## FORM OF TRANSFER DEED
+
+## Form No. SH-4 - Securities Transfer Form
+
+(Pursuant to section 56 of the Companies Act, 2013 and sub-rule (1) of rule 11 of the Companies (Share Capital and Debentures) Rules 2014)
+
+Date of execution: / /
+
+FOR THE CONSIDERATION stated below the 'Transferor(s)' named do hereby transfer to the 'Transferee(s)' named the securities specified below subject to the conditions on which the said securities are now held by the Transferor(s), and the Transferee(s) do hereby agree to accept and hold the said securities subject to the conditions aforesaid.
+
+## CIN: L85110KA1981PLC013115
+
+Name of the company (in full): INFOSYS LIMITED
+
+Name of the Stock Exchanges where the company is listed: BSE Limited and National Stock Exchange of India Limited
+
+## DESCRIPTION OF SECURITIES:
+
+| Kind/Class of securities (1) | Nominal value of each unit of security (2) | Amount called up per unit of security (3) | Amount paid up per unit of security (4) |
+|---|---:|---:|---:|
+| Equity | ₹ 5 | ₹ 5 | ₹ 5 |
+
+| No. of Securities being Transferred | Consideration received (Rs.) | Distinctive Number From | Distinctive Number To | Corresponding Certificate Nos. |
+|---|---|---|---|---|
+| In figures | In words |  |  |  |
+| In words | In figures |  |  |  |
+
+## Transferors' Particulars
+
+Registered Folio Number: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+| No. | Name(s) in full | PAN No. | Signature(s) |
+|---:|---|---|---|
+| 1. | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
+| 2. | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
+| 3. | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
+
+I hereby conform that the transferor has signed before me.
+
+| Transferees' Particulars | Transferees' Particulars | Transferees' Particulars |
+|---|---|---|
+| Name in full (1) | Father's/Mother's/Spouse Name (2) | Address (3) |
+| Infosys Limited | N.A. |  |
+| Occupation (4) | Existing Folio No., if any (5) | Signature (6) |
+| Business |  |  |
+
+## Folio No. of Transferee Transferee(s)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Value of Stamp affixed: Rs. \_\_\_\_\_\_\_\_\_\_
+
+## Declaration:
+
+- ( ) Transferee is not required to obtain Government approval under the Foreign Exchange Management (Non-debt Instruments) Rules, 2019 prior to transfer of shares; or
+- ( ) Transferee is required to obtain the Government approval under the Foreign Exchange Management (Non-debt Instruments) Rules, 2019 prior to transfer of shares and the same has been obtained and is enclosed herewith.
+
+## Enclosures:
+
+1. Certificate of shares or debentures or other securities
+2. If no certificate is issued, Letter of allotment
+3. Copy of PAN Card of all the Transferees (For all listed Cos.)
+4. Others, Specify, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+| Name of the Transferor | Name of the Transferee | No. of shares | Date of Transfer |
+|---|---|---|---|
+
+## For Office Use Only
+
+Checked by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Signature Tallied by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Entered in the Register of Transfer on \_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_ vide Transfer no. \_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Approval Date \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Power of attorney/Probate/Death certificate/Letter of Administration Registered on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ at No. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## On the reverse page of the certificate
+
+| Name of the Transferor | Name of the Transferee | No. of shares | Date of Transfer |
+|---|---|---|---|
+| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |  |  |  |

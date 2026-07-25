@@ -1,0 +1,126 @@
+---
+document_name: "Infosys_23042026170027_outcome.md"
+group_id: "Infosys_23042026170027_outcome__group_019"
+source_section_count: 2
+estimated_tokens: 6705
+source_section_ids:
+  - "Infosys_23042026170027_outcome__035"
+  - "Infosys_23042026170027_outcome__036"
+---
+---
+section_title: "Operating Profits"
+section_description: "This section presents Infosys Group's operating profit expense break-up, impact of Indian Labour Codes, other income, and part of the auditor's report on the interim consolidated financial statements for the period ended March 31, 2026."
+topics:
+  - "Cost of sales"
+  - "Selling and marketing expenses"
+  - "Administrative expenses"
+  - "Labour Codes impact"
+  - "Other income"
+  - "Auditor opinion"
+  - "Key audit matters"
+sample_queries:
+  - "What were Infosys Group's cost of sales components for the year ended March 31, 2026?"
+  - "How much did employee benefit costs contribute to selling and marketing expenses in 2026 and 2025?"
+  - "What was the impact of the Labour Codes on gratuity and leave liabilities?"
+  - "What items made up other income for the three months ended March 31, 2026?"
+  - "What opinion did the auditor provide on the interim consolidated financial statements?"
+  - "What revenue recognition issues were identified as a key audit matter?"
+---
+
+## Operating Profits
+
+Operating profit of the Group is computed considering the revenues, net of cost of sales, selling and marketing expenses and administrative expenses.
+
+The table below provides details of break-up of expenses:
+
+## 2.19.1 Cost of sales
+
+| Particulars | Three months ended March 31, 2026 | Three months ended March 31, 2025 | Year ended March 31, 2026 (Dollars in millions) | Year ended March 31, 2025 (Dollars in millions) |
+|---|---:|---:|---:|---:|
+| Employee benefit costs | 2,405 | 2,293 | 9,739 | 9,151 |
+| Depreciation and amortization* | 154 | 150 | 552 | 569 |
+| Travelling costs | 37 | 41 | 150 | 149 |
+| Cost of technical sub-contractors | 430 | 379 | 1,740 | 1,530 |
+| Cost of software packages for own use | 77 | 72 | 301 | 278 |
+| Third party items bought for service delivery to clients | 348 | 375 | 1,452 | 1,589 |
+| Consultancy and professional charges | 4 | (17) | 4 | 11 |
+| Communication costs | 8 | 7 | 35 | 34 |
+| Repairs and maintenance | 18 | 15 | 70 | 59 |
+| Provision for post-sales client support and other provisions | (12) | (26) | (19) | (13) |
+| Others | 16 | 13 | 55 | 48 |
+| Total | 3,485 | 3,302 | 14,079 | 13,405 |
+
+* During the three months ended March 31, 2026 and March 31, 2025, a decline in the revenue estimates led to the carrying value of the customer related intangibles assets recognized on business combination exceeding the estimated recoverable amount. Consequently, the Company has recognized $26 million and $22 million for the three months ended March 31, 2026 and March 31, 2025, respectively, as the excess of carrying value over the estimated recoverable value.
+
+## 2.19.2 Selling and marketing expenses
+
+| Particulars | Three months ended March 31, 2026 | Three months ended March 31, 2025 | Year ended March 31, 2026 (Dollars in millions) | Year ended March 31, 2025 (Dollars in millions) |
+|---|---:|---:|---:|---:|
+| Employee benefit costs | 191 | 165 | 766 | 677 |
+| Travelling costs | 13 | 12 | 56 | 48 |
+| Branding and marketing | 39 | 40 | 152 | 144 |
+| Consultancy and professional charges | 8 | 6 | 32 | 19 |
+| Communication costs | - | - | 2 | 1 |
+| Others | 5 | 3 | 17 | 9 |
+| Total | 256 | 226 | 1,025 | 898 |
+
+## 2.19.3 Administrative expenses
+
+| Particulars | Three months ended March 31, 2026 | Three months ended March 31, 2025 | Year ended March 31, 2026 (Dollars in millions) | Year ended March 31, 2025 (Dollars in millions) |
+|---|---:|---:|---:|---:|
+| Employee benefit costs | 90 | 85 | 377 | 337 |
+| Consultancy and professional charges | 59 | 46 | 200 | 167 |
+| Repairs and maintenance | 34 | 30 | 129 | 123 |
+| Power and fuel | 6 | 6 | 25 | 26 |
+| Communication costs | 7 | 9 | 32 | 38 |
+| Travelling costs | 8 | 7 | 31 | 27 |
+| Rates and taxes | 7 | 9 | 35 | 41 |
+| Insurance charges | 9 | 8 | 37 | 35 |
+| Commission to non-whole time directors | 1 | - | 2 | 2 |
+| Impairment loss recognized/(reversed) under expected credit loss model | (6) | (6) | 4 | 6 |
+| Contribution towards Corporate Social Responsibility | 19 | 11 | 70 | 69 |
+| Others (Refer Note 2.6.2)* | 10 | 5 | 27 | 32 |
+| Total | 244 | 210 | 969 | 903 |
+
+* Includes profit on sale of property, plant and equipment amounting $18 million for the year ended March 31, 2026.
+
+## 2.19.4 Impact of Labour Codes
+
+On November 21, 2025, the Government of India notified provisions of the Code on Wages, 2019, the Industrial Relations Code, 2020, the Code on Social Security, 2020 and the Occupational Safety, Health and Working Conditions Code, 2020, ('Labour Codes') which consolidate twenty-nine existing labour laws into a unified framework governing employee benefits during employment and post-employment. The Labour Codes, amongst other things introduces changes, including a uniform definition of wages and enhanced benefits relating to leave. The Group has assessed the financial implications of these changes which has resulted in increase in gratuity liability arising out of past service cost and increase in leave liability by $143 million which is recognized in the Consolidated Statement of Comprehensive Income for the year ended March 31, 2026. The Group continues to monitor the developments pertaining to Labour Codes and will evaluate impact if any on the measurement of the employee benefits liability.
+
+## 2.19.5 Other income, net:
+
+Other income for the three months and year ended March 31, 2026 and March 31, 2025 is as follows:
+
+| Particulars | Three months ended March 31, 2026 | Three months ended March 31, 2025 | Year ended March 31, 2026 (Dollars in millions) | Year ended March 31, 2025 (Dollars in millions) |
+|---|---:|---:|---:|---:|
+| Interest income on financial assets carried at amortized cost | 30 | 48 | 184 | 180 |
+| Interest income on financial assets carried at fair value through other comprehensive income | 29 | 35 | 121 | 124 |
+| Gain/(loss) on investments carried at fair value through other comprehensive income | - | - | 2 | - |
+| Gain/(loss) on investments carried at fair value through profit or loss | 9 | 6 | 33 | 34 |
+| Gain/(loss) on investments carried at amortized cost | - | - | 9 | - |
+| Interest income on income tax refund | 44 | 38 | 46 | 41 |
+| Exchange gains / (losses) on forward and options contracts | (103) | (8) | (274) | (24) |
+| Exchange gains / (losses) on translation of other assets and liabilities | 118 | 21 | 330 | 55 |
+| Others | (2) | (3) | 17 | 15 |
+| Total | 125 | 137 | 468 | 425 |
+
+## Report on the Audit of the Interim Consolidated Financial Statements
+
+## Opinion
+
+We have audited the accompanying interim consolidated financial statements of INFOSYS LIMITED (the "Company"), and its subsidiaries (the Company and its subsidiaries together referred to as the "Group"), which comprise the Consolidated Balance Sheet as at March 31, 2026, the Consolidated Statement of Comprehensive Income for the three months and year ended on that date, the Consolidated Statement of Changes in Equity and the Consolidated Statement of Cash Flows for the year ended on that date, and notes to the financial statements, including a summary of material accounting policies and other explanatory information (hereinafter referred to as the "Interim Consolidated Financial Statements").
+
+In our opinion and to the best of our information and according to the explanations given to us, the aforesaid Interim Consolidated Financial Statements give a true and fair view in conformity with International Accounting Standard 34 "Interim Financial Reporting" ("IAS 34") as issued by the International Accounting Standards Board ("IASB"), of the consolidated state of affairs of the Group as at March 31, 2026, its consolidated profit and its consolidated other comprehensive income for the three months and year ended on that date, its consolidated changes in equity and its consolidated cash flows for the year ended on that date.
+
+## Basis for Opinion
+
+We conducted our audit of the Interim Consolidated Financial Statements in accordance with the Standards on Auditing ("SAs") issued by the Institute of Chartered Accountants of India ("ICAI"). Our responsibilities under those Standards are further described in the Auditor's Responsibilities for the Audit of the Interim Consolidated Financial Statements section of our report. We are independent of the Group in accordance with the Code of Ethics issued by the ICAI, and we have fulfilled our other ethical responsibilities in accordance with the Code of Ethics. We believe that the audit evidence obtained by us is sufficient and appropriate to provide a basis for our audit opinion on the Interim Consolidated Financial Statements.
+
+## Key Audit Matters
+
+Key audit matters are those matters that, in our professional judgment, were of most significance in our audit of the consolidated financial statements of the current period. These matters were addressed in the context of our audit of the consolidated financial statements as a whole, and in forming our opinion thereon, and we do not provide a separate opinion on these matters. We have determined the matters described below to be the key audit matters to be communicated in our report.
+
+| Sr. No. | Key Audit Matter | Auditor's Response |
+|---:|---|---|
+| 1 | Revenue recognition. The Group's contracts with customers include contracts with multiple products and services. The Group derives revenues from IT services comprising software development and related services, maintenance, consulting and package implementation, licensing of software products and platforms across the Group's core and digital offerings and business process management services. The Group assesses the services promised in a contract and identifies distinct performance obligations in the contract. Identification of distinct performance obligations to determine the deliverables and the ability of the customer to benefit independently from such deliverables involves significant judgement. In certain integrated services arrangements, contracts with customers include subcontractor services or third-party vendor equipment or software. In these types of arrangements, revenue from sales of third-party vendor products or services is recorded net of costs when the Group is acting as an agent between the customer and the vendor, and gross when the Group is the principal for the transaction. In doing so, the Group first evaluates whether it obtains control of the specified goods or service before it is transferred to the customer. The Group considers whether it is primarily responsible for fulfilling the promise to provide the specified goods or services, inventory risk, pricing discretion and other factors to determine whether it controls the products or service and therefore, is acting as a principal or an agent. Fixed price maintenance revenue is recognized ratably either on (1) a straight-line basis when services are performed through an indefinite number of repetitive acts over a specified period or (2) using a percentage of completion method when the pattern of benefits from the services rendered to the customer and the Group's costs to fulfil the contract is not even through the period of contract because the services are generally | Principal Audit Procedures Performed included the following: Our audit procedures related to the (1) identification of distinct performance obligations, (2) determination of whether the Group is acting as a principal or agent and (3) whether fixed price maintenance revenue is recognized on a straight-line basis or using the percentage of completion method included the following, among others: We tested the effectiveness of controls relating to the (a) identification of distinct performance obligations, (b) determination of whether the Group is acting as a principal or an agent and (c) determination of whether fixed price maintenance revenue for certain contracts is recognized on a straight-line basis or using the percentage of completion method. We selected a sample of contracts with customers and performed the following procedures: Obtained and read contract documents for each selection, including master service agreements, and other documents that were part of the agreement. Identified significant terms and deliverables in the contract to assess management's conclusions regarding the (i) identification of distinct performance obligations (ii) whether the Group is acting as a principal or an agent and (iii) whether fixed price maintenance revenue is recognized on a straight-line basis or using the percentage of completion method |

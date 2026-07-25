@@ -1,0 +1,138 @@
+---
+document_name: "Infosys_23042026170027_outcome.md"
+group_id: "Infosys_23042026170027_outcome__group_010"
+source_section_count: 2
+estimated_tokens: 4138
+source_section_ids:
+  - "Infosys_23042026170027_outcome__019"
+  - "Infosys_23042026170027_outcome__020"
+---
+---
+section_title: Infosys Limited and subsidiaries
+section_description: This section contains Infosys Limited and subsidiaries' condensed consolidated statement of comprehensive income and statement of changes in equity. It presents quarterly and annual financial results, comprehensive income components, earnings per share, share counts, equity movements, buyback effects, stock compensation, reserves transfers, and dividends.
+topics:
+  - Condensed consolidated comprehensive income
+  - Revenue and profitability
+  - Other comprehensive income
+  - Earnings per equity share
+  - Changes in equity
+  - Share buyback and dividends
+  - Employee stock options
+sample_queries:
+  - What were Infosys' revenues and net profit for the three months ended March 31, 2026?
+  - How did total comprehensive income differ between the years ended March 31, 2026 and March 31, 2025?
+  - What were the basic and diluted earnings per equity share for the year ended March 31, 2026?
+  - What was the balance of total equity attributable to equity holders of the Company as at March 31, 2026?
+  - How many shares were bought back during the year ended March 31, 2026, and what was the total equity impact?
+  - What dividends were recorded in the statements of changes in equity for fiscal 2025 and fiscal 2026?
+---
+
+## Infosys Limited and subsidiaries
+
+### Condensed Consolidated Statement of Comprehensive Income
+
+(Dollars in millions except equity share and per equity share data)
+
+| Particulars | Note | Three months ended March 31, 2026 | Three months ended March 31, 2025 | Year ended March 31, 2026 | Year ended March 31, 2025 |
+|---|---:|---:|---:|---:|---:|
+| Revenues | 2.16 | 5,040 | 4,730 | 20,158 | 19,277 |
+| Cost of sales | 2.19 | 3,485 | 3,302 | 14,079 | 13,405 |
+| Gross profit |  | 1,555 | 1,428 | 6,079 | 5,872 |
+| Operating expenses |  |  |  |  |  |
+| Selling and marketing expenses | 2.19 | 256 | 226 | 1,025 | 898 |
+| Administrative expenses | 2.19 | 244 | 210 | 969 | 903 |
+| Total operating expenses |  | 500 | 436 | 1,994 | 1,801 |
+| Operating profit |  | 1,055 | 992 | 4,085 | 4,071 |
+| Other income, net | 2.19 | 125 | 137 | 468 | 425 |
+| Finance cost |  | 12 | 12 | 47 | 49 |
+| Profit before income taxes |  | 1,168 | 1,117 | 4,506 | 4,447 |
+| Income tax expense | 2.12 | 248 | 303 | 1,190 | 1,285 |
+| Net profit |  | 920 | 814 | 3,316 | 3,162 |
+| Other comprehensive income |  |  |  |  |  |
+| Items that will not be reclassified subsequently to profit or loss |  |  |  |  |  |
+| Remeasurement of the net defined benefit liability/asset, net |  | (25) | (17) | (31) | (11) |
+| Equity instruments through other comprehensive income, net |  | 39 | 3 | 42 | 2 |
+|  |  | 14 | (14) | 11 | (9) |
+| Items that will be reclassified subsequently to profit or loss |  |  |  |  |  |
+| Fair value changes on investments, net |  | (10) | 8 | (2) | 24 |
+| Fair value changes on derivatives designated as cash flow hedge, net |  | (1) | (7) | - | (3) |
+| Exchange differences on translation of foreign operations |  | (401) | 72 | (684) | (198) |
+|  |  | (412) | 73 | (686) | (177) |
+| Total other comprehensive income/(loss), net of tax |  | (398) | 59 | (675) | (186) |
+| Total comprehensive income |  | 522 | 873 | 2,641 | 2,976 |
+| Profit attributable to: |  |  |  |  |  |
+| Owners of the Company |  | 919 | 813 | 3,313 | 3,158 |
+| Non-controlling interests |  | 1 | 1 | 3 | 4 |
+|  |  | 920 | 814 | 3,316 | 3,162 |
+| Total comprehensive income attributable to: |  |  |  |  |  |
+| Owners of the Company |  | 521 | 872 | 2,637 | 2,972 |
+| Non-controlling interests |  | 1 | 1 | 4 | 4 |
+|  |  | 522 | 873 | 2,641 | 2,976 |
+| Earnings per equity share |  |  |  |  |  |
+| Basic ($) |  | 0.23 | 0.20 | 0.81 | 0.76 |
+| Diluted ($) |  | 0.23 | 0.20 | 0.80 | 0.76 |
+| Weighted average equity shares used in computing earnings per equity share |  |  |  |  |  |
+| Basic (in shares) | 2.13 | 4,046,019,309 | 4,142,429,577 | 4,112,814,745 | 4,141,611,738 |
+| Diluted (in shares) | 2.13 | 4,052,169,447 | 4,151,537,321 | 4,120,108,168 | 4,152,051,184 |
+
+The accompanying notes form an integral part of the interim condensed consolidated financial statements.
+
+## Infosys Limited and subsidiaries
+
+### Condensed Consolidated Statement of Changes in Equity
+
+(Dollars in millions except equity share data)
+
+| Particulars | Number of Shares (1) | Share capital | Share premium | Retained earnings | Other reserves (2) | Capital redemption reserve | Cash flow hedge reserve | Other components of equity | Total equity attributable to equity holders of the Company | Non-controlling interest | Total equity |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Balance as at April 1, 2024 | 4,139,950,635 | 325 | 425 | 12,557 | 1,623 | 24 | 1 | (4,396) | 10,559 | 46 | 10,605 |
+| Changes in equity for the year ended March 31, 2025 |  |  |  |  |  |  |  |  |  |  |  |
+| Net profit | - | - | - | 3,158 | - | - | - | - | 3,158 | 4 | 3,162 |
+| Remeasurement of the net defined benefit liability/asset, net* | - | - | - | - | - | - | - | (11) | (11) | - | (11) |
+| Equity instruments through other comprehensive income, net* | - | - | - | - | - | - | - | 2 | 2 | - | 2 |
+| Fair value changes on derivatives designated as Cash flow hedge, net* | - | - | - | - | - | - | (3) | - | (3) | - | (3) |
+| Exchange differences on translation of foreign operations | - | - | - | - | - | - | - | (198) | (198) | - | (198) |
+| Fair value changes on investments, net* | - | - | - | - | - | - | - | 24 | 24 | - | 24 |
+| Total comprehensive income for the year | - | - | - | 3,158 | - | - | (3) | (183) | 2,972 | 4 | 2,976 |
+| Shares issued on exercise of employee stock options (Refer to note 2.11) | 3,656,893 | - | 1 | - | - | - | - | - | 1 | - | 1 |
+| Employee stock compensation expense (Refer to note 2.11) | - | - | 93 | - | - | - | - | - | 93 | - | 93 |
+| Transfer on account of options not exercised | - | - | (23) | 23 | - | - | - | - | - | - | - |
+| Income tax benefit arising on exercise of stock options (Refer to note 2.12) | - | - | 4 | - | - | - | - | - | 4 | - | 4 |
+| Transferred to other reserves | - | - | - | (9) | 9 | - | - | - | - | - | - |
+| Transferred from other reserves on utilization | - | - | - | 104 | (104) | - | - | - | - | - | - |
+| Transferred from other reserves to retained earnings | - | - | - | 357 | (357) | - | - | - | - | - | - |
+| Dividends # | - | - | - | (2,424) | - | - | - | - | (2,424) | - | (2,424) |
+| Balance as at March 31, 2025 | 4,143,607,528 | 325 | 500 | 13,766 | 1,171 | 24 | (2) | (4,579) | 11,205 | 50 | 11,255 |
+
+## Infosys Limited and subsidiaries
+
+### Condensed Consolidated Statement of Changes in Equity
+
+(Dollars in millions except equity share data)
+
+| Particulars | Number of Shares (1) | Share capital | Share premium | Retained earnings | Other reserves (2) | Capital redemption reserve | Cash flow hedge reserve | Other components of equity | Total equity attributable to equity holders of the Company | Non-controlling interest | Total equity |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Balance as at April 1, 2025 | 4,143,607,528 | 325 | 500 | 13,766 | 1,171 | 24 | (2) | (4,579) | 11,205 | 50 | 11,255 |
+| Changes in equity for the year ended March 31, 2026 |  |  |  |  |  |  |  |  |  |  |  |
+| Net profit | - | - | - | 3,313 | - | - | - | - | 3,313 | 3 | 3,316 |
+| Remeasurement of the net defined benefit liability/asset, net* | - | - | - | - | - | - | - | (31) | (31) | - | (31) |
+| Equity instruments through other comprehensive income, net* | - | - | - | - | - | - | - | 42 | 42 | - | 42 |
+| Fair value changes on derivatives designated as Cash flow hedge, net* | - | - | - | - | - | - | - | - | - | - | - |
+| Exchange differences on translation of foreign operations | - | - | - | - | - | - | - | (685) | (685) | 1 | (684) |
+| Fair value changes on investments, net* | - | - | - | - | - | - | - | (2) | (2) | - | (2) |
+| Total comprehensive income for the year | - | - | - | 3,313 | - | - | - | (676) | 2,637 | 4 | 2,641 |
+| Shares issued on exercise of employee stock options (Refer to note 2.11) | 3,333,284 | - | - | - | - | - | - | - | - | - | - |
+| Buyback of equity shares (Refer to note 2.18) | (100,000,000) | (6) | (140) | (1,875) | - | - | - | - | (2,021) | - | (2,021) |
+| Transaction cost relating to buyback* | - | - | (2) | (3) | - | - | - | - | (5) | - | (5) |
+| Amount transferred to capital redemption reserve upon buyback (Refer to note 2.18) | - | - | - | (6) | - | 6 | - | - | - | - | - |
+| Financial liability under option arrangements | - | - | - | (1) | - | - | - | - | (1) | - | (1) |
+| Changes in the controlling stake of a subsidiary | - | - | - | 1 | - | - | - | - | 1 | - | 1 |
+| Employee stock compensation expense (Refer to note 2.11) | - | - | 106 | - | - | - | - | - | 106 | - | 106 |
+| Transferred on account of options not exercised | - | - | (7) | 7 | - | - | - | - | - | - | - |
+| Income tax benefit arising on exercise of stock options (Refer to note 2.12) | - | - | 5 | - | - | - | - | - | 5 | - | 5 |
+| Transferred from other reserves on utilization | - | - | - | 139 | (139) | - | - | - | - | - | - |
+| Transferred from other reserves to retained earnings | - | - | - | 259 | (259) | - | - | - | - | - | - |
+| Dividends # | - | - | - | (2,141) | - | - | - | - | (2,141) | - | (2,141) |
+| Balance as at March 31, 2026 | 4,046,940,812 | 319 | 462 | 13,459 | 773 | 30 | (2) | (5,255) | 9,786 | 54 | 9,840 |
+
+* net of tax

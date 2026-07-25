@@ -1,0 +1,143 @@
+---
+document_name: "Infosys_18112025182523_SE_letter_LoF_18112025.md"
+group_id: "Infosys_18112025182523_SE_letter_LoF_18112025__group_003"
+source_section_count: 1
+estimated_tokens: 4810
+source_section_ids:
+  - "Infosys_18112025182523_SE_letter_LoF_18112025__004"
+---
+
+---
+section_title: "1. SCHEDULE OF ACTIVITIES"
+section_description: "This section provides the schedule of activities for the Infosys buyback offer and defines key terms used in the Letter of Offer."
+topics:
+  - Buyback activity schedule
+  - Eligible shareholders
+  - Buyback entitlement
+  - Tender offer process
+  - Regulatory definitions
+  - Escrow and settlement terms
+sample_queries:
+  - "What are the opening and closing dates for the Infosys buyback window?"
+  - "What is the record date for determining eligible shareholders?"
+  - "What is the buyback price and maximum buyback offer size?"
+  - "How is a Small Shareholder defined for this buyback?"
+  - "Who is the Manager to the Buyback?"
+  - "What does Buyback Entitlement mean in the Letter of Offer?"
+  - "What is the Tendering Period for the buyback offer?"
+---
+
+## 1. SCHEDULE OF ACTIVITIES
+
+| Sr. No. | Activity | Date | Day |
+|---|---|---|---|
+| 1. | Date of Board Meeting approving the proposal of the Buyback | September 11, 2025 | Thursday |
+| 2. | Date of declaration of results of postal ballot for special resolution by the Equity Shareholders of the Company, approving the Buyback | November 6, 2025 | Thursday |
+| 3. | Date of Public Announcement for the Buyback | November 7, 2025 | Friday |
+| 4. | Date of publication of the Public Announcement for the Buyback | November 10, 2025 | Monday |
+| 5. | Record Date for determining the Buyback Entitlement and the names of Eligible Shareholders | November 14, 2025 | Friday |
+| 6. | Last date for dispatch of Letter of Offer | November 18, 2025 | Tuesday |
+| 7. | Buyback Window Opening Date | November 20, 2025 | Thursday |
+| 8. | Buyback Window Closing Date | November 26, 2025 | Wednesday |
+| 9. | Last date of receipt of completed Tender Forms and other specified documents including physical share certificates (if and as applicable) by the Registrar | November 26, 2025 | Wednesday |
+| 10. | Last date of completion of verification by the Registrar to the Buyback | December 1, 2025 | Monday |
+| 11. | Last date of providing Acceptance/Non-acceptance of tendered Equity Shares to the Stock Exchange by the Registrar | December 2, 2025 | Tuesday |
+| 12. | Last date of settlement of bids on the Stock Exchange | December 3, 2025 | Wednesday |
+| 13. | Last date of return of unaccepted Equity Shares to Stock Broker/Eligible Shareholders | December 3, 2025 | Wednesday |
+| 14. | Last date of payment of consideration to Eligible Shareholders who participated in the Buyback | December 3, 2025 | Wednesday |
+| 15. | Last date of extinguishment of Equity Shares | December 12, 2025 | Friday |
+
+Note: Where last dates are mentioned for certain activities, such activities may happen on or before the respective last dates.
+
+## 2. DEFINITIONS OF KEY TERMS
+
+This Letter of Offer uses certain definitions and abbreviations which, unless the context otherwise indicates or implies or specifies otherwise, shall have the meaning as provided below. References to any legislation, act, regulation, rule, guideline, policy, circular, notification or clarification shall be to such legislation, act, regulation, rule, guideline, policy, circular, notification or clarification as amended, supplemented, or re-enacted from time to time and any reference to a statutory provision shall include any subordinate legislation made from time to time under that provision.
+
+The words and expressions used in this Letter of Offer, but not defined herein shall have the meaning ascribed to such terms under the Buyback Regulations, the Companies Act, the SEBI Act, 1992, Depositories Act, 1996 and the rules and regulations made thereunder.
+
+| Term | Definition |
+|---|---|
+| Acceptance/Accepted/Accept | Acceptance of Equity Shares tendered by Eligible Shareholders in the Buyback Offer |
+| Acceptance Form | Tender Form |
+| Acquisition Window | The facility for acquisition of Equity Shares through the mechanism provided by the Indian Stock Exchanges in the form of separate windows in accordance with the SEBI Circulars |
+| Act | The Companies Act, 2013, as may be amended from time to time, along with all rules and regulations issued thereunder |
+| Additional Equity Shares | Additional Equity Shares tendered by an Eligible Shareholder over and above the Buyback Entitlement of such Eligible Shareholder up to the extent of Equity Shares held by such Eligible Shareholder on the Record Date |
+| ADSs or ADRs | American Depositary Shares or American Depositary Receipts |
+| Articles | Articles of Association of the Company |
+| Board or Board of Directors | Board of directors of the Company, which shall include any committee constituted by the Board to exercise its powers |
+| Board Meeting | Meeting of the Board of Directors of the Company held on September 11, 2025, wherein the proposal for the Buyback was approved |
+| BSE | BSE Limited |
+| Buyback Committee | Buyback committee, constituted and authorized on September 11, 2025 for the purposes of the Buyback and comprising of the Chief Financial Officer, the Chief Legal Officer & Chief Compliance Officer and the Company Secretary of the Company |
+| Buyback Entitlement or Entitlement | The number of Equity Shares that an Eligible Shareholder is entitled to tender in the Buyback, based on the number of Equity Shares held by such Eligible Shareholder on the Record Date and the ratio/percentage of Buyback applicable to such Eligible Shareholder. (Note: Since the promoters and the promoter group of the Company have declared their intention to not participate in the Buyback, Equity Shares held by them have not been considered for the purposes of computing the entitlement ratio) |
+| Buyback or Buyback Offer or Offer | Offer to buy back up to 10,00,00,000 (Ten crore) Equity Shares each of the Company at a price of ₹ 1,800/- (Rupees One Thousand Eight Hundred only) per Equity Share for an aggregate consideration of up to ₹ 18,000 crore (Rupees Eighteen Thousand Crore only) in accordance with the Buyback Regulations and relevant provisions of the Act via the Tender Offer route |
+| Buyback Offer Size | Number of Equity Shares proposed to be bought back multiplied by the Buyback Price, i.e., up to ₹ 18,000 Crore (Rupees Eighteen Thousand Crore only) |
+| Buyback Window Opening Date | November 20, 2025 |
+| Buyback Window Closing Date | November 26, 2025 |
+| Buyback Period | The period commencing from the date of declaration of results of the postal ballot for special resolution i.e. November 6, 2025, until the date on which the payment of consideration to the Eligible Shareholders who have accepted the Buyback will be made |
+| Buyback Price or Offer Price | Price at which Equity Shares will be bought back from the Eligible Shareholders, i.e., ₹ 1,800/- (Rupees One Thousand Eight Hundred only) per Equity Share |
+| Buyback Regulations | The Securities and Exchange Board of India (Buy-Back of Securities) Regulations, 2018, as amended. |
+| CDSL | Central Depository Services (India) Limited |
+| Clearing Corporation | Indian Clearing Corporation Limited or the NSE Clearing Limited (formerly National Securities Clearing Corporation Limited), as applicable |
+| Code | Internal Revenue Code of 1986, as amended in effect under U.S. Treasury Regulations |
+| 'Company' or 'We' or 'Us' or 'Our' | Infosys Limited |
+| Company Demat Account | A demat account of the Company designated for the Buyback to which demat shares bought back in the Buyback would be transferred |
+| Company's Broker | Kotak Securities Limited |
+| Depositories | The National Securities Depository Limited and the Central Depository Services Limited |
+| DP | Depository Participant |
+| Designated Stock Exchange | The designated stock exchange for the Buyback, being, BSE. |
+| Equity Share(s) or Share(s) | The Company's fully paid-up equity share(s) of face value of ₹5/- (Rupees Five only) each |
+| Equity Shareholder(s) or Shareholder(s) | Holders of the Equity Shares of the Company |
+| Eligible Person(s) or Eligible Shareholder(s) | Person(s) eligible to participate in the Buyback Offer, i.e., all equity shareholders/beneficial owner(s) of Equity Shares of the Company as on Record Date, i.e., November 14, 2025, as per the records made available to the Company by Depositories as on the Record Date. |
+| Escrow Account | Escrow account opened with the Escrow Agent in accordance with Buyback Regulations, in the name of 'Infosys Ltd Buyback 2025 - Escrow Account' bearing the account number 6052691234 |
+| Escrow Agent | Kotak Mahindra Bank Limited |
+| Escrow Agreement | The escrow agreement dated November 6, 2025, entered into between the Company, the Manager to the Buyback and the Escrow Agent, pursuant to which certain arrangement for Escrow Account is made in relation to the Buyback in accordance with the SEBI Buyback Regulations |
+| Exchange Act | United States Securities Exchange Act of 1934 |
+| ESOP | Employee stock option plan |
+| FEMA | Foreign Exchange and Management Act, 1999 |
+| FIIs | Foreign institutional investors |
+| FPIs | Foreign portfolio investors |
+| GAAR | General Anti-Avoidance Rule |
+| General Category | Eligible Shareholders other than the Small Shareholders |
+| IDT | Inter depository tender offer |
+| Indian Stock Exchanges or Recognized Stock Exchanges | BSE Limited and National Stock Exchange of India Limited |
+| IRS | Internal Revenue Service |
+| IT Act/Income Tax Act | Income-tax Act, 1961, as amended |
+| Letter of Offer | This Letter of Offer dated November 18, 2025, being sent to the Eligible Shareholders |
+| LOC | Letter of confirmation |
+| LODR Regulations | Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended |
+| Manager to the Buyback or Manager to the Offer | Kotak Mahindra Capital Company Limited |
+| Management Rules | Companies (Management and Administration) Rules, 2014 |
+| Non-Resident Shareholders | Includes foreign corporate bodies (including erstwhile overseas corporate bodies), foreign institutional investors/foreign portfolio investors, non-resident Indians, shareholders of foreign nationality and ADS holders with underlying Equity Shares upon withdrawal of such Equity Shares |
+| NSE | National Stock Exchange of India Limited |
+| NSDL | National Securities Depository Limited |
+| NYSE | New York Stock Exchange |
+| OCB | Overseas corporate bodies |
+| Options | Employee Stock Options |
+| Offer Period or Tendering Period | Period of five working days from the date of opening of the Buyback Offer, i.e., November 20, 2025 at 9:15 a.m. IST till its closure, i.e., November 26, 2025 at 3:30 p.m. IST (both days inclusive) |
+| PA or Public Announcement | The Public Announcement, made in accordance with the Buyback Regulations, dated November 7, 2025, published on November 10, 2025 in all editions of Business Standard (English national daily), Business Standard (Hindi national daily), The Economic Times (English national daily), and all Karnataka editions of Prajavani (Regional language daily - Kannada), each with wide circulation and in the U.S. national edition of The New York Times. |
+| PAN | Permanent Account Number |
+| Postal Ballot Notice | The postal ballot notice dated September 25, 2025 sent by the Company to its shareholders for the purpose of seeking their approval for the Buyback by way of a special resolution |
+| Promoters | Promoters as have been disclosed under the filings made by the Company under the LODR Regulations, and the Takeover Regulations |
+| RBI | Reserve Bank of India |
+| RoC | Registrar of Companies |
+| RSU | Restricted stock units |
+| Record Date | The date for the purpose of determining the entitlement and the names of the Eligible Shareholders, to whom this Letter of Offer will be sent and who are eligible to participate in the Buyback Offer in accordance with Buyback Regulations. This date shall be November 14, 2025 |
+| Registrar to the Buyback or Registrar to the Offer or Registrar and Share Transfer Agent | KFin Technologies Limited |
+| Reserved Category | The Small Shareholders eligible to tender Equity Shares in the Buyback |
+| SEBI | The Securities and Exchange Board of India |
+| SEBI Circulars | Tendering of Equity Shares by Shareholders and settlement of the same, through the stock exchange mechanism as specified by SEBI in the SEBI circular bearing number CIR/CFD/POLICYCELL/1/2015 dated April 13, 2015, read with SEBI circular CFD/DCR2/CIR/P/2016/131 dated December 9, 2016, SEBI circular SEBI/HO/CFD/DCR-III/CIR/P/2021/615 dated August 13, 2021 and SEBI circular no. SEBI/HO/CFD/PoD-2/P/CIR/2023/35 dated March 8, 2023 and such other circulars or notifications, as may be applicable, including any amendments thereof. |
+| SEC | US Securities and Exchange Commission |
+| Seller Member or Seller Broker | A stock broker (who is a member of the BSE and/or NSE) of an Eligible Shareholder, through whom the Eligible Shareholder wants to participate in the Buyback |
+| SH-4 | The share transfer form |
+| Share Capital Rules | Companies (Share Capital and Debenture) Rules, 2014 |
+| Small Shareholder | An Eligible Shareholder who holds Equity Shares of market value not more than ₹ 200,000/- (Rupees Two Lakhs only), on the basis of the closing price on the Recognized Stock Exchange registering the highest trading volume as on the Record Date, i.e., November 14, 2025, i.e. holding 133 Equity Shares or below as on November 14, 2025 |
+| Shareholders | Holders of Equity Shares and includes beneficial owners thereof |
+| Statutory Auditor | Deloitte Haskins & Sells LLP |
+| STT | Securities Transaction Tax |
+| Takeover Regulations | The Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011, as amended |
+| Tender Form | The Form of Acceptance-cum-Acknowledgement |
+| Tender Offer | Method of buyback as defined in Regulation 2(1)(q) read with Regulation 4(iv) of the Buyback Regulations |
+| Transaction Costs | Expenses or transaction costs incurred or to be incurred for the Buyback, such as, brokerage, filing fees, advisory fees, intermediaries' fees, public announcement publication expenses, printing and dispatch expenses, applicable taxes such as securities transaction tax, goods and services tax, stamp duty etc. and other incidental and related expenses |
+| TRS | Transaction Registration Slip |
+| U.S. or United States | The United States of America |
+| Working Day | Unless otherwise specified, working day shall have the meaning ascribed to it under the Buyback Regulations |

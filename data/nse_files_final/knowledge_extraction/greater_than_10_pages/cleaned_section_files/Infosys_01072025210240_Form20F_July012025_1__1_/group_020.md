@@ -1,0 +1,188 @@
+---
+document_name: "Infosys_01072025210240_Form20F_July012025_1__1_.md"
+group_id: "Infosys_01072025210240_Form20F_July012025_1__1___group_020"
+source_section_count: 2
+estimated_tokens: 5759
+source_section_ids:
+  - "Infosys_01072025210240_Form20F_July012025_1__1___039"
+  - "Infosys_01072025210240_Form20F_July012025_1__1___040"
+---
+---
+section_title: Bonus Shares
+section_description: This section describes provisions under Indian company and securities laws relating to bonus shares, shareholder meetings, voting rights, share transfers, ownership disclosures, reports, capital changes, buybacks, liquidation, and takeovers. It also explains how these rules apply to the Company, its equity shares, and ADS holders.
+topics:
+  - Bonus shares
+  - Shareholder meetings and voting rights
+  - Share transfer and dematerialization
+  - Ownership and beneficial ownership disclosures
+  - Share capital changes and buybacks
+  - Takeover Code
+sample_queries:
+  - What conditions must be met before the Company can issue bonus shares?
+  - What voting rights and proxy rules apply at general meetings?
+  - When must the Company hold its annual general meeting?
+  - What disclosure obligations apply to significant beneficial owners?
+  - How are transfers, transmissions, and transpositions of securities processed?
+  - What rules apply to ADS holders participating in a share buyback?
+  - What thresholds trigger disclosure or open offer requirements under the Takeover Code?
+  - What rights do equity shareholders have on liquidation?
+---
+
+## Bonus Shares
+
+In addition to permitting dividends to be paid out of current or retained earnings as described above, the Indian Companies Act, 2013 permits a company to distribute an amount transferred from its free reserves to its shareholders in the form of bonus shares (similar to a stock dividend). The Indian Companies Act, 2013 also permits the issuance of bonus shares from capitalization of the securities premium account and the capital redemption reserve account. However, no issuance of bonus shares can be made by capitalizing reserves created by the revaluation of assets. Bonus shares are distributed to shareholders in the proportion recommended by the Board, and such announcement of the decision of the Board recommending an issue of bonus shares cannot be subsequently withdrawn. Shareholders of the company on a fixed record date are entitled to receive such bonus shares.
+
+Any issue of bonus shares would be subject to the guidelines issued by SEBI in this regard. The relevant SEBI guidelines prescribe that no company shall announce its bonus issue and issue any equity shares by way of bonus unless it is authorized by its articles of association, has received approval from the stock exchanges for listing and trading of all the securities, excluding options granted to employees pursuant to an employee stock option scheme and convertibles securities, issued by the company prior to the issuance of bonus shares, and has made reservation of equity shares of the same class in favor of the holders of outstanding compulsorily convertible debt instruments, if any, in proportion to the convertible portion thereof, which may be issued at the time of conversion of the debt instruments on the same terms or same proportion at which the bonus shares were issued.
+
+The bonus issue must be made out of free reserves, securities premium account or capital redemption reserve account, and built out of the genuine profits or share premium collected in cash only. The bonus issue cannot be made unless the partly paid shares, if any existing, are made fully paid-up. Further, for the issuance of such bonus shares a company should not have defaulted in the payment of interest or principal in respect of fixed deposits and interest on existing debentures or principal on redemption of such debentures. A company is not allowed to declare bonus in lieu of dividend. The allotment of shares in a bonus issue can be made only in the dematerialized form.
+
+Further, a company should have sufficient reason to believe that it has not defaulted in respect of the payment of statutory dues of the employees such as contribution to provident fund, gratuity, bonus, etc. The issuance of bonus shares must be implemented within 15 days from the date of approval by the Board where shareholders' approval is not required, provided that where the company is required to seek shareholders' approval for capitalization of profits or reserves for making the bonus issue, it shall be implemented within two months from the date of approval by the Board. The bonus issue cannot be withdrawn after the decision to make a bonus issue has been announced.
+
+## Consolidation and Subdivision of Shares
+
+The Indian Companies Act, 2013 permits a company to split or combine the par value of its shares at a general meeting of the shareholders, if so authorized by its Articles of Association, with the approval of its shareholders. Shareholders on record on a fixed record date are entitled to receive the split or combination.
+
+## Pre-emptive Rights and Issue of Additional Shares
+
+The Indian Companies Act, 2013 gives shareholders the right to subscribe to new shares in proportion to their respective existing shareholdings in the event of a further issue of shares by a company, unless otherwise determined by a special resolution passed by a general meeting of the shareholders. Under the Indian Companies Act, 2013, in the event of a pre-emptive issuance of shares, subject to the limitations set forth above, a company must first offer the new shares to its shareholders on a fixed record date.
+
+The offer must include: (i) the right, exercisable by the shareholders on record, to renounce the shares offered in favor of any other person; and (ii) the number of shares offered and the period of offer, which may not be less than 15 days and not exceeding 30 days from the date of offer. If the offer is not accepted it is deemed to have been declined and thereafter the Board is authorized under the Indian Companies Act, 2013 to distribute any new shares not purchased by the pre-emptive rights holders in the manner which is not disadvantageous to the shareholders and the company.
+
+## Meetings of Shareholders
+
+In accordance with the Indian Companies Act, 2013, each company is required to hold an annual general meeting each year, within 15 months of the previous AGM or within six months of the end of the previous fiscal year, whichever is earlier. However, since our Company forms a part of the top 100 listed entities by market capitalization in India, pursuant to Regulation 44(5) of the SEBI Listing Regulations, the Company is required to hold our annual general meetings within a period of 5 months from the date of closing of each financial year.
+
+In certain circumstances a three-month extension may be granted by the Registrar of Companies to hold the AGM. The AGM is generally convened by our Company Secretary pursuant to a resolution of the Board. In addition, the Board may convene an Extraordinary General Meeting of shareholders ("EGM") when necessary or at the request of a shareholder or shareholders holding at least 10% of our paid-up capital carrying voting rights to transact any special business.
+
+Written notice setting out the agenda of any meeting must be given at least 21 days prior to the date of any general meeting to the shareholders on record, excluding the days of mailing and date of the meeting. The EGM must be held at a place within India. The AGM must be held at our registered office or at such other place within the city in which the registered office is located.
+
+## Voting Rights
+
+At any general meeting, to provide opportunity to the shareholders for exercising their votes towards the resolutions proposed at the AGM, the Company arranges for e-voting facility and voting through ballot will also be made available at the AGM and the members who have not already cast their vote by remote e-voting can exercise their vote at the AGM. The Chairperson has a casting vote in the case of tie.
+
+Any shareholder of the Company entitled to attend and vote at a meeting of the Company may appoint a proxy. The instrument appointing a proxy must be delivered to the company at least 48 hours prior to the meeting. Unless the articles of association otherwise provide, a proxy may not vote except on a poll. A corporate shareholder may appoint an authorized representative who can vote on behalf of the shareholder, upon remote e-voting or at the general meeting. An authorized representative is also entitled to appoint a proxy.
+
+Pursuant to the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 and any subsequent amendments thereto ("Listing Regulations"), it is mandatory for remote e-voting facilities to be provided to all shareholders in respect of all shareholders' resolutions in accordance with the procedure prescribed under the Indian Companies Act, 2013.
+
+As per the Indian Companies Act, 2013 ordinary resolutions may be passed by simple majority at any general meeting for which the required period of notice has been given. However, special resolutions for matters such as amendments to the articles of association, the waiver of pre-emptive rights for the issuance of any new shares and a reduction of share capital, require that votes cast in favor of the resolution, whether by show of hands or electronically or on a poll, are not less than three times the number of votes, if any, cast against the resolution by members so entitled and voting.
+
+Certain resolutions such as those listed below are to be voted on only by a postal ballot:
+
+- alteration of the objects clause of the memorandum;
+- change in place of registered office outside the local limits of any city, town or village;
+- alteration of the articles of association to constitute the Company into private company;
+- change in objects for which a company has raised money from public through prospectus and still has any unutilized amount out of the money so raised;
+- issue of shares with differential rights as to voting or dividend or otherwise under Section 43(a)(ii) of the Indian Companies Act, 2013;
+- variation in the rights attached to a class of shares or debentures or other securities as specified under Section 48 of the Indian Companies Act, 2013;
+- buyback of shares;
+- sale of the whole or substantially the whole of an undertaking of a company as specified under Section 180(1)(a) of the Indian Companies Act, 2013;
+- election of a director under Section 151 of the Indian Companies Act, 2013; and
+- giving loans or extending guarantee or providing security in excess of the limit specified under Section 186(3) of the Indian Companies Act, 2013.
+
+However, any company which is required to mandatorily provide its members a facility to exercise their right to vote on resolutions at a general meeting by electronic means, can pass the above-mentioned resolutions through electronic vote instead of postal ballot. Companies whose equity shares are listed on a recognized stock exchange and if it has not less than one thousand members are compulsorily required to provide their members facility to exercise their right to vote on resolutions at a general meeting by electronic means. The equity shares of the Company are listed on a recognized stock exchange and it has more than one thousand members. Hence, the Company is eligible to pass the above-mentioned resolutions by electronic vote.
+
+## Register of Shareholders, Record Dates, Transfer of Shares
+
+We maintain a register of shareholders held in electronic form through National Securities Depository Limited and the Central Depository Services (India) Limited. To determine which shareholders are entitled to specified shareholder rights such as a dividend or a rights issue, we may close the register of shareholders for a specified period not exceeding 30 days at one time. The date on which this period begins is the record date.
+
+The Listing Regulation requires us to give at least three working days' prior notice, excluding the date of the intimation and the record date, to the public in the prescribed manner before such closure. We may not close the register of shareholders for more than thirty consecutive days at any one time, and in no event for more than forty-five days in a year. The Listing Regulations also prescribe that there should be a time gap of at least five working days between two record dates.
+
+Following the introduction of the Depositories Act, 1996, and the repeal of Section 22A of the Securities Contracts (Regulation) Act, 1956, which enabled companies to refuse to register transfers of shares in some circumstances, the equity shares of a public company are freely transferable, subject only to the provisions of Section 58 of the Indian Companies Act, 2013 and Regulation 40 of the Listing Regulations. Since we are a public company, the provisions of Section 58 will apply to us.
+
+In accordance with the provisions of Section 58(2) of the Indian Companies Act, 2013, the securities or other interests of the member are freely transferable except where there is any contract or arrangement between two or more persons in respect of transfer of securities, which may be enforced as a contract. If our Board refuses to register a transfer of shares, the shareholder wishing to transfer his, her or its shares may file an appeal with the National Company Law Tribunal.
+
+Pursuant to Section 59(4) of the Indian Companies Act, 2013, if a transfer of shares contravenes any of the provisions of the Indian Companies Act, 2013, the Securities Contracts (Regulation) Act, 1956 and Securities and Exchange Board of India Act, 1992 or the regulations issued thereunder or any other Indian laws, the National Company Law Tribunal may, on application made by the relevant company, a depository, company, Depositary participant, the holder of securities or the SEBI, direct any company or a Depositary to set right the contravention and to rectify the registers, records of members and / or beneficial owners.
+
+Our Registrar and share Transfer Agent ("RTA") for our equity shares is KFin Technologies Limited.
+
+The SEBI vide its amendment notification dated June 8, 2018, and through additional clarification dated May 27, 2019, had clarified that effective April 1, 2019, except in case of transmission or transposition of securities, requests for effecting transfer of securities shall not be processed unless the securities are held in dematerialized form with a depository. Subsequently, the SEBI by way of a notification dated January 24, 2022, which amended certain provisions of the Listing Regulations, did away with the carve-out provided for transmission and transposition of securities. Pursuant to the said amendment, the transmission or transposition of securities held in physical or dematerialized form can be effected only in dematerialized form.
+
+Further, pursuant to the SEBI Master Circular for Registrars to an Issue and Share Transfer Agents dated May 7, 2024 which replaced and rescinded the SEBI circular dated January 25, 2022, all listed companies have been mandated to issue securities only in dematerialized form, while processing the following service requests: (a) issue of duplicate securities certificate; (b) claim from unclaimed suspense account; (c) renewal / exchange of securities certificate; (d) endorsement; (e) sub-division / splitting of securities certificate; (f) consolidation of securities certificates / folios; (g) transmission; and (h) transposition.
+
+## Disclosure of Ownership Interest
+
+Section 89 of the Indian Companies Act, 2013 requires holders of record who do not hold beneficial interests in shares of Indian companies to declare to the company certain details, including the nature of the holder's interest and details of the beneficial owner. Any person who fails to make the required declaration within 30 days may be liable for a fine of up to ₹ 50,000 and where the failure is a continuing one, further fine of ₹ 200 for each day that the declaration is not made subject to a maximum of ₹ 500,000.
+
+Beneficial interest in a share includes, directly or indirectly, through any contract, arrangement or otherwise, the right or entitlement of a person alone or together with any other person to: (i) exercise or cause to be exercised any or all of the rights attached to such share; or (ii) receive or participate in any dividend or other distribution in respect of such share. Failure to comply with Section 89 will not affect the obligation of the company to pay any dividends to the registered holder of any shares pursuant to which such declaration has not been made.
+
+While it is unclear under Indian law whether Section 89 applies to holders of ADSs of the company, investors who exchange ADSs for the underlying equity shares of the company will be subject to the restrictions of Section 89. Additionally, holders of ADSs may be required to comply with such notification and disclosure obligations pursuant to the provisions of the Deposit Agreement entered into by such holders, the company and the Depositary.
+
+## Declaration of Significant beneficial ownership in the Company
+
+Section 90 of the Indian Companies Act, 2013 requires individual shareholders who, acting alone or together, or through one or more persons or trust, including a trust and persons resident outside India, holding beneficial interest of not less than 10% in shares of a company or the right to exercise, or the actual exercising of significant influence or control over the company shall make a declaration to the company, specifying the nature of his interest.
+
+The Companies (Significant Beneficial Ownership) Rules, 2018, as amended from time to time, prescribe the thresholds and applicable rules for identifying a "significant beneficial owner" and provides for filings and disclosures to be made in the event of change in details. Any person failing to submit the required disclosures is punishable with a minimum fine of fifty thousand rupees which may extend to two lakh rupees. Where the failure is a continuing one, the individual will be levied a further fine which may extend to one thousand rupees for every day after the first during which the failure continues.
+
+Further, pursuant to the notification of the Companies (Management and Administration) Second Amendment Rules, 2023 a designated person within the company is now responsible for providing information to the Registrar of Companies with respect to beneficial interest in shares of the company.
+
+## Audit and Annual Report
+
+Under the Indian Companies Act, 2013 a company must file its financial statements with the Registrar of Companies within 30 days from the date of the AGM. Copies of the annual report along with the notice of the AGM are sent to the shareholders, are required to be submitted to the stock exchanges on which the company's shares are listed, and published on the company's website not later than the day of commencement of dispatch to its shareholders.
+
+At least 21 days before the AGM, a listed company must distribute soft copies of the full annual report to all those shareholders who have registered their email addresses for this purpose, physical copies of Annual Report to its shareholders who have not registered their email addresses for this purpose and to those shareholders who ask for the same. A company must also file an annual return containing a list of the company's shareholders and other company information, within 60 days of the conclusion of the AGM.
+
+## Reduction of Share Capital
+
+Under the Indian Companies Act, 2013 a company may by a special resolution and approval of the court or tribunal of the state in which the registered office of the company is situated reduce the share capital in the manner prescribed by the Indian Companies Act, 2013. However, such reduction shall be authorized by the articles of association of the company. These provisions shall not apply in the case of a buyback of shares by the company.
+
+## Company Acquisition of Equity Shares
+
+A company may acquire its own equity shares without seeking the approval of the court or National Company Law Tribunal in compliance with prescribed rules, regulations and conditions of the Indian Companies Act, 2013. In addition, public companies which are listed on a recognized stock exchange in India must comply with the provisions of the Securities and Exchange Board of India (Buy-back of Securities) Regulations, 2018 (Buy-back Regulations). Since we are a public company listed on two recognized stock exchanges in India, we would have to comply with the relevant provisions of the Indian Companies Act, 2013 and the provisions of the Buy-back Regulations.
+
+In order for the ADS holders to participate in a Company's purchase of its own shares, the ADS holders must have previously taken certain actions in order to withdraw the equity shares underlying the ADSs held by the ADS holders in advance of the record date fixed for the buyback so that they become holders of equity shares on such record date.
+
+There can be no assurance that shares offered by an ADS investor in any buyback of shares by us will be accepted by us. Any conversion of ADS into underlying equity shares and re-conversion of such equity shares into ADS is currently subject to limits of permissible foreign shareholding in the Company. Foreign investment of up to 100% of our share capital is currently permitted by Indian laws.
+
+Participation by ADS holders in a buyback is also subject to Foreign Exchange Management Act, 1999 and rules and regulations framed thereunder, if any, Income Tax Act and rules and regulations framed thereunder, the Depository Receipts Scheme, 2014, as applicable, Circular on framework for issue of Depositary Receipts dated October 10, 2019 read with circular SEBI/HO/MRD2/DCAP/CIR/P/2 dated November 28, 2019, SEBI/HO/MRD/DCAP/CIR/P/2020/190 dated October 01, 2020 and SEBI/HO/MRD2/DCAP/CIR/P/2020/243 dated December 18, 2020 which were subsequently rescinded and replaced by the SEBI master circular for Depositories dated October 6, 2023, read with the SEBI master circular dated December 3, 2023 ("SEBI Master Circulars"), also subject to such approvals, if and to the extent necessary or required from concerned authorities including, but not limited to, approvals from the RBI under Foreign Exchange Management Act, 1999 and rules and regulations framed thereunder, if any.
+
+ADS investors are advised to consult their legal advisors for advice prior to participating in any buyback by us, including advice related to any related regulatory approvals and tax issues.
+
+## Liquidation Rights
+
+As per the Indian Companies Act, 2013 and the Insolvency and Bankruptcy Code, 2016, certain payments have preference over payments to be made to equity shareholders. These payments having preference include payments to be made by the Company to its employees, taxes, payments to secured and unsecured lenders and payments to holders of any shares entitled by their terms to preferential repayment over the equity shares.
+
+In the event of our winding-up, the holders of the equity shares are entitled to be repaid the amounts of paid-up capital or credited as paid-upon those equity shares after payments have been made by the Company as set out above. Subject to such payments having been made by the Company, any surplus assets are paid to holders of equity shares in proportion to their shareholdings.
+
+## Redemption of Equity Shares
+
+Subject to the buyback of shares as set out in the section titled "Company Acquisition of Equity Shares", under the Indian Companies Act, 2013 equity shares are not redeemable.
+
+## Discriminatory Provisions in Articles
+
+There are no provisions in our Articles of Association discriminating against / in favor of any existing or prospective holder of such securities as a result of such shareholder owning a substantial number of shares. There are no restrictions on the securities of the Company by any other class of securities or contracts.
+
+## Alteration of Shareholder Rights
+
+Under the Indian Companies Act, 2013 and subject to the provisions of the memorandum or articles of association of a company, the rights of any class of shareholders can be altered or varied (i) with the consent in writing of the holders of not less than three-fourths of the issued shares of that class; or (ii) by special resolution passed at a separate meeting of the holders of the issued shares of that class.
+
+However, if the variation by one class of shareholders affects the rights of any other class of shareholders, the consent of three-fourths of such other class of shareholders shall also be required. In the absence of any such provision in the articles, such alteration or variation is permitted as long as it is not prohibited by the terms of the issue of shares of such a class.
+
+## Limitations on the Rights to Own Securities
+
+The limitations on the rights to own securities of Indian companies, including the rights of non-resident or foreign shareholders to hold securities, are discussed in the sections entitled "Currency Exchange Controls" and "Risk Factors" in Items 10 and 3 of this Annual Report.
+
+## Provisions on Changes in Capital
+
+Our authorized capital can be altered by an ordinary resolution of the shareholders in a general meeting. The additional issue of shares is subject to the pre-emptive rights of the shareholders. In addition, a company may increase its share capital, consolidate its share capital into shares of larger face value than that of its existing shares or sub-divide its shares by reducing their par value, subject to an ordinary resolution of the shareholders in a general meeting.
+
+## Takeover Code
+
+Under the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011 ("Takeover Code"), upon acquisition of shares or voting rights in a public listed Indian company such that the aggregate shares or voting rights of the acquirer, meaning a person who directly or indirectly, acquires or agrees to acquire shares or voting rights in a target company, or acquires or agrees to acquire control over the target company, either by himself or together with persons acting in concert with him, is 5% or more of the shares of the company, the acquirer together with such persons acting in concert are required to, within two working days of such acquisition of shares or voting rights or receipt of intimation of allotment of shares, disclose the aggregate shareholding and voting rights in the company to the company and to the stock exchanges in which the shares of the company are listed.
+
+Further, any person, together with persons acting in concert with him, who holds shares or voting rights entitling them to 5% or more of the shares or voting rights in a target company must disclose the number of shares or voting rights held and change in shareholding or voting rights from the last disclosure made if it exceeds 2% of the total shareholding or voting rights in the company to the company and to the stock exchanges on which the shares of the company are listed, within two working days of the receipt of intimation of allotment of shares, or the acquisition or the disposal of shares or voting rights. This disclosure is required, in case of a sale, even if such sale results in the shareholding of the acquirer and the persons acting in concert falling below 5%.
+
+The acquisition of shares or voting rights which entitles the acquirer and persons acting in concert with him to exercise 25% or more of the voting rights in or control over the target company triggers a requirement for the acquirer and the persons acting in concert with him to make an open offer to acquire at least 26% of the total shares of the target company for an offer price determined as per the provisions of the Takeover Code. The acquirer is required to make a public announcement for an open offer on the date on which it is agreed to acquire such shares or voting rights in, or control over the target company. However, acquisition beyond 5% but up to 10% of the voting rights in a target company was permitted for the financial year of 2020-2021, if the acquisition was by a promoter pursuant to preferential issue of equity shares by the target company.
+
+Where the public shareholding in the target company is reduced to a level below the limit specified in the Securities Contract (Regulation) Rules, 1957 ("SCRR") read with the Listing Regulations on account of shares being acquired pursuant to an open offer, the acquirer is required to take necessary steps as permitted under SEBI Master Circular SEBI/HO/CFD/PoD2/CIR/P/0155 dated November 11, 2024, which rescinded SEBI circular SEBI/HO/CFD/PoD2/P/CIR/2023/120 dated July 11, 2023 and the circular SEBI/HO/CFD/PoD2/P/CIR/2023/18 dated February 3, 2023, to facilitate compliance with the public shareholding threshold within the time prescribed in the SCRR.
+
+Pursuant to amendments to the Takeover Code dated December 6, 2021, an acquirer can make an offer for delisting the company if such acquirer declares his intention to do so at the time of making the public announcement of an open offer as well as at the time of making the detailed public statement in accordance with the provisions of the Takeover Code, provided that if the open offer is for an indirect acquisition that is not a deemed direct acquisition under sub-regulation (2) of regulation 5 of the Takeover Code, the declaration of the intent to so delist is required to be made initially only in the detailed public statement.
+
+Where the target company fails to get delisted pursuant to such delisting offer, but which results in the shareholding of the acquirer exceeding the maximum permissible non-public shareholding threshold, the acquirer can undertake a further attempt to delist the target company in accordance with the Securities and Exchange Board of India (Delisting of Equity Shares) Regulations, 2021 ("Delisting Regulations") during the period of 12 months from the date of completion of the open offer, subject to the acquirer continuing to exceed the maximum permissible non-public shareholding in the target company.
+
+Further, upon failure of the further delisting attempt, the acquirer shall ensure compliance of the minimum public shareholding requirement of the target company under the SCRR within a period of 12 months from the end of the aforesaid period. Subject to the above, if the shareholding of the acquirer exceeds the maximum permissible non-public shareholding in the company pursuant to an open offer, the acquirer will not be eligible to make a voluntary delisting offer under the Delisting Regulations, unless 12 months have elapsed from the date of the completion of offer period.
+
+Since we are a listed company in India, the provisions of the Takeover Code will apply to us and to any person acquiring our equity shares or voting rights in our Company including the ADSs.
+
+The ADSs entitle ADS holders to exercise voting rights in respect of the Deposited Equity Shares, as described in the section titled "Voting Rights of Deposited Equity Shares Represented by ADSs". Accordingly, acquisition of the ADSs is subject to the provisions of the Takeover Code, including the requirement to make an open offer of at least 26% of the shares of a company to the existing shareholders of the Company would be triggered by an ADS holder and any persons acting in concert with such ADS holder where the shares that underlie the holder's, and any persons acting in concert with him, ADSs represent 25% or more of the shares or voting rights of the Company.
+
+Pursuant to the Listing Regulations, we have entered into listing agreements with each of the Indian stock exchanges on which our equity shares are listed and must report to the stock exchanges any disclosures made to the Company pursuant to the Takeover Code. Our Articles of Association do not contain a provision that would have an effect of delaying, deferring or preventing a change in control of the Company and that would operate only with respect to a merger, acquisition or corporate restructuring involving the Company.

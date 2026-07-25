@@ -1,0 +1,76 @@
+{
+  "document_name": "Infosys_05122025224450_SEfiling_Reg30_05122025.md",
+  "is_material": false,
+  "title": "Infosys Romania to merge with ProIT as part of internal restructuring",
+  "detailed_summary": "Infosys disclosed that shareholders approved the merger of in-tech Engineering services S.R.L Romania with ProIT S.R.L.RO Romania, both step-down wholly owned subsidiaries of Infosys Limited. The merger is part of internal restructuring intended to enable operational synergies and rationalize the group structure. No cash consideration is involved and Infosys Limited’s shareholding pattern will not change.",
+  "key_facts": [
+    {
+      "fact": "The shareholders of in-tech Engineering services S.R.L Romania and ProIT S.R.L.RO Romania approved the merger of Infosys Romania with ProIT as part of internal restructuring.",
+      "section_heading": null
+    },
+    {
+      "fact": "Both the Transferor Company and the Transferee Company are step-down wholly owned subsidiaries of Infosys Limited.",
+      "section_heading": "Annexure - A"
+    },
+    {
+      "fact": "There is no cash consideration involved under the scheme of merger and no change in the shareholding pattern of Infosys Limited.",
+      "section_heading": "Annexure - A"
+    }
+  ],
+  "financial_metrics": {
+    "currency": null,
+    "period": null,
+    "revenue": null,
+    "revenue_growth_yoy": null,
+    "revenue_growth_qoq": null,
+    "operating_margin": null,
+    "net_profit": null,
+    "eps": null,
+    "free_cash_flow": null,
+    "large_deal_tcv": null,
+    "headcount": null,
+    "attrition": null,
+    "guidance": null,
+    "dividend": null
+  },
+  "corporate_actions": [
+    {
+      "action_type": "merger",
+      "description": "Merger of in-tech Engineering services S.R.L Romania, the Transferor Company, with ProIT S.R.L.RO Romania, the Transferee Company, both step-down wholly owned subsidiaries of Infosys Limited.",
+      "amount_or_ratio": "There is no cash consideration involved under the scheme of merger.",
+      "effective_date": null,
+      "section_heading": "Annexure - A"
+    }
+  ],
+  "partnerships_or_deals": [],
+  "leadership_changes": [],
+  "litigation_or_regulatory_matters": [],
+  "risk_factors": [],
+  "esg_or_csr_items": [],
+  "products_or_platforms": [],
+  "important_text_spans": [
+    {
+      "text": "as a part of internal restructuring, merger of in-tech Engineering services S.R.L Romania ('Infosys Romania') with ProIT S.R.L.RO  Romania  ('ProIT'),  wholly  owned  step-down  subsidiaries  of  the  Company  has  been approved by the shareholders of respective entities.",
+      "section_heading": null,
+      "reason": "Supports the main disclosure that the subsidiary merger was approved."
+    },
+    {
+      "text": "There is no cash consideration involved under the scheme of merger.",
+      "section_heading": "Annexure - A",
+      "reason": "Supports the absence of transaction consideration."
+    }
+  ],
+  "search_keywords": [
+    "Infosys Romania",
+    "ProIT",
+    "in-tech GmbH",
+    "internal restructuring",
+    "subsidiary merger"
+  ],
+  "sample_questions": [
+    "What internal restructuring did Infosys announce involving Infosys Romania and ProIT?",
+    "Was there any cash consideration in the merger of Infosys Romania with ProIT?",
+    "Will the merger of Infosys Romania and ProIT change Infosys Limited’s shareholding pattern?"
+  ],
+  "processing_notes": "Marked non-material because the document describes an internal merger between wholly owned step-down subsidiaries, with no cash consideration and no change in Infosys Limited’s shareholding pattern."
+}
