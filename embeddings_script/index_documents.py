@@ -13,6 +13,7 @@ load_dotenv()
 # -----------------------
 
 DATA_FOLDER = r"C:\Users\Hp\Desktop\DS-AI-LAB\Group-6-DS-and-AI-Lab-Project\data\demo-bot-output"
+# DATA_FOLDER = r"D:\IMP\IITM\DSAIL\Group-6-DS-and-AI-Lab-Project\data\demo-bot-output"
 
 COLLECTION_NAME = os.getenv(
     "COLLECTION_NAME",
