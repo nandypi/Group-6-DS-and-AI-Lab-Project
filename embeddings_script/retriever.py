@@ -1,3 +1,9 @@
+"""Run an interactive question-and-answer loop over stored Chroma documents.
+
+Flow: receive a question -> embed it -> retrieve related documents -> give the
+documents to the language model -> print a context-grounded answer.
+"""
+
 import os
 
 import chromadb
@@ -11,7 +17,7 @@ load_dotenv()
 # ---------------------------------------------------
 
 CHROMA_DB_PATH = "./chroma_db"
-COLLECTION_NAME = "finance_documents"
+COLLECTION_NAME = os.getenv("COLLECTION_NAME", "finance_file_embeddings")
 
 EMBEDDING_MODEL = "text-embedding-3-small"
 LLM_MODEL = "gpt-4o-mini"

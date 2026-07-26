@@ -1,3 +1,9 @@
+"""Search the persistent Chroma collection with one example question.
+
+Flow: create an embedding for the example question -> search Chroma -> print
+the closest stored documents. Example: an AI-risk question returns three files.
+"""
+
 import os
 
 import chromadb
@@ -15,7 +21,7 @@ chroma = chromadb.PersistentClient(
 )
 
 collection = chroma.get_collection(
-    "finance_documents"
+    os.getenv("COLLECTION_NAME", "finance_file_embeddings")
 )
 
 question = "What AI risks did Infosys mention?"
