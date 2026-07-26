@@ -1,0 +1,3536 @@
+{
+  "embedding_model": "text-embedding-3-small",
+  "token_limit": 8192,
+  "file_count": 882,
+  "over_limit_file_count": 9,
+  "files": [
+    {
+      "filepath": "data/infosys_earning_calls_press_conf_fact_sheets_results/infosys_ir_earning_calls_clean_markdowns/FY26-Q1-earningscall.md",
+      "token_count": 11296
+    },
+    {
+      "filepath": "data/infosys_earning_calls_press_conf_fact_sheets_results/infosys_ir_earning_calls_clean_markdowns/FY26-Q1-fact-sheet.md",
+      "token_count": 3467
+    },
+    {
+      "filepath": "data/infosys_earning_calls_press_conf_fact_sheets_results/infosys_ir_earning_calls_clean_markdowns/FY26-Q1-ifrs-inr-press-release.md",
+      "token_count": 4285
+    },
+    {
+      "filepath": "data/infosys_earning_calls_press_conf_fact_sheets_results/infosys_ir_earning_calls_clean_markdowns/FY26-Q1-press-conference.md",
+      "token_count": 6852
+    },
+    {
+      "filepath": "data/infosys_earning_calls_press_conf_fact_sheets_results/infosys_ir_earning_calls_clean_markdowns/FY26-Q2-fact-sheet.md",
+      "token_count": 4417
+    },
+    {
+      "filepath": "data/infosys_earning_calls_press_conf_fact_sheets_results/infosys_ir_earning_calls_clean_markdowns/FY26-Q2-ifrs-inr-press-release.md",
+      "token_count": 4846
+    },
+    {
+      "filepath": "data/infosys_earning_calls_press_conf_fact_sheets_results/infosys_ir_earning_calls_clean_markdowns/FY26-Q2-press-conference.md",
+      "token_count": 7323
+    },
+    {
+      "filepath": "data/infosys_earning_calls_press_conf_fact_sheets_results/infosys_ir_earning_calls_clean_markdowns/FY26-Q3-earningscall.md",
+      "token_count": 10262
+    },
+    {
+      "filepath": "data/infosys_earning_calls_press_conf_fact_sheets_results/infosys_ir_earning_calls_clean_markdowns/FY26-Q3-fact-sheet.md",
+      "token_count": 5613
+    },
+    {
+      "filepath": "data/infosys_earning_calls_press_conf_fact_sheets_results/infosys_ir_earning_calls_clean_markdowns/FY26-Q3-ifrs-inr-press-release.md",
+      "token_count": 5835
+    },
+    {
+      "filepath": "data/infosys_earning_calls_press_conf_fact_sheets_results/infosys_ir_earning_calls_clean_markdowns/FY26-Q3-press-conference.md",
+      "token_count": 7491
+    },
+    {
+      "filepath": "data/infosys_earning_calls_press_conf_fact_sheets_results/infosys_ir_earning_calls_clean_markdowns/FY26-Q32-earningscall.md",
+      "token_count": 10242
+    },
+    {
+      "filepath": "data/infosys_earning_calls_press_conf_fact_sheets_results/infosys_ir_earning_calls_clean_markdowns/FY26-Q4-earningscall.md",
+      "token_count": 11019
+    },
+    {
+      "filepath": "data/infosys_earning_calls_press_conf_fact_sheets_results/infosys_ir_earning_calls_clean_markdowns/FY26-Q4-fact-sheet.md",
+      "token_count": 6072
+    },
+    {
+      "filepath": "data/infosys_earning_calls_press_conf_fact_sheets_results/infosys_ir_earning_calls_clean_markdowns/FY26-Q4-ifrs-inr-press-release.md",
+      "token_count": 5137
+    },
+    {
+      "filepath": "data/infosys_earning_calls_press_conf_fact_sheets_results/infosys_ir_earning_calls_clean_markdowns/FY26-Q4-press-conference.md",
+      "token_count": 10703
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_002.md",
+      "token_count": 4875
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_003.md",
+      "token_count": 4720
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_004.md",
+      "token_count": 5308
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_005.md",
+      "token_count": 4849
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_006.md",
+      "token_count": 5069
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_007.md",
+      "token_count": 4990
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_008.md",
+      "token_count": 4696
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_009.md",
+      "token_count": 5202
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_010.md",
+      "token_count": 5363
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_011.md",
+      "token_count": 4817
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_012.md",
+      "token_count": 4059
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_013.md",
+      "token_count": 5419
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_014.md",
+      "token_count": 3667
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_015.md",
+      "token_count": 6874
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_016.md",
+      "token_count": 4428
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_017.md",
+      "token_count": 4570
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_018.md",
+      "token_count": 5968
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_019.md",
+      "token_count": 5661
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_020.md",
+      "token_count": 6509
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_021.md",
+      "token_count": 7257
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_022.md",
+      "token_count": 4530
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_023.md",
+      "token_count": 6086
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_024.md",
+      "token_count": 4937
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_025.md",
+      "token_count": 4576
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_026.md",
+      "token_count": 5228
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_027.md",
+      "token_count": 4604
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_028.md",
+      "token_count": 4796
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_029.md",
+      "token_count": 4304
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_030.md",
+      "token_count": 3809
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_031.md",
+      "token_count": 6118
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_032.md",
+      "token_count": 5444
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_033.md",
+      "token_count": 5003
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_034.md",
+      "token_count": 3170
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_035.md",
+      "token_count": 4673
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_036.md",
+      "token_count": 6138
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_037.md",
+      "token_count": 5038
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_038.md",
+      "token_count": 5044
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_039.md",
+      "token_count": 3554
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_040.md",
+      "token_count": 523
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_041.md",
+      "token_count": 267
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_042.md",
+      "token_count": 580
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_043.md",
+      "token_count": 502
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_044.md",
+      "token_count": 557
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_045.md",
+      "token_count": 419
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_046.md",
+      "token_count": 4863
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_047.md",
+      "token_count": 7180
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_048.md",
+      "token_count": 5744
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_049.md",
+      "token_count": 2786
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_050.md",
+      "token_count": 6277
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_051.md",
+      "token_count": 5613
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_052.md",
+      "token_count": 3316
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_053.md",
+      "token_count": 3246
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_054.md",
+      "token_count": 4173
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_055.md",
+      "token_count": 4316
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_056.md",
+      "token_count": 4453
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_01072025210240_Form20F_July012025_1__1_/group_057.md",
+      "token_count": 5132
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_02072025225219_SEfiling_AGMtranscript_2025/group_001.md",
+      "token_count": 6228
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_02072025225219_SEfiling_AGMtranscript_2025/group_002.md",
+      "token_count": 4783
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_02072025225219_SEfiling_AGMtranscript_2025/group_003.md",
+      "token_count": 4903
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_02072025225219_SEfiling_AGMtranscript_2025/group_004.md",
+      "token_count": 6437
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_02072025225219_SEfiling_AGMtranscript_2025/group_005.md",
+      "token_count": 6757
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_02072025225219_SEfiling_AGMtranscript_2025/group_006.md",
+      "token_count": 4459
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_10112025172147_SE_PublicAnnouncement_10112025/group_001.md",
+      "token_count": 7967
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_10112025172147_SE_PublicAnnouncement_10112025/group_002.md",
+      "token_count": 7998
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_10112025172147_SE_PublicAnnouncement_10112025/group_003.md",
+      "token_count": 10972
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_10112025172147_SE_PublicAnnouncement_10112025/group_004.md",
+      "token_count": 8936
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_10112025172147_SE_PublicAnnouncement_10112025/group_005.md",
+      "token_count": 5305
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_10112025172147_SE_PublicAnnouncement_10112025/group_006.md",
+      "token_count": 4714
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_10112025172147_SE_PublicAnnouncement_10112025/group_007.md",
+      "token_count": 6174
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_10112025172147_SE_PublicAnnouncement_10112025/group_008.md",
+      "token_count": 7768
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_10112025172147_SE_PublicAnnouncement_10112025/group_009.md",
+      "token_count": 3958
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_10112025172147_SE_PublicAnnouncement_10112025/group_010.md",
+      "token_count": 10676
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_14012026160405_BM_Outcome_January142026/group_001.md",
+      "token_count": 4468
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_14012026160405_BM_Outcome_January142026/group_002.md",
+      "token_count": 5293
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_14012026160405_BM_Outcome_January142026/group_003.md",
+      "token_count": 5203
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_14012026160405_BM_Outcome_January142026/group_004.md",
+      "token_count": 4224
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_14012026160405_BM_Outcome_January142026/group_005.md",
+      "token_count": 5650
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_14012026160405_BM_Outcome_January142026/group_006.md",
+      "token_count": 4706
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_14012026160405_BM_Outcome_January142026/group_007.md",
+      "token_count": 4033
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_14012026160405_BM_Outcome_January142026/group_008.md",
+      "token_count": 4366
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_14012026160405_BM_Outcome_January142026/group_009.md",
+      "token_count": 4471
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_14012026160405_BM_Outcome_January142026/group_010.md",
+      "token_count": 4108
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_14012026160405_BM_Outcome_January142026/group_011.md",
+      "token_count": 4125
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_14012026160405_BM_Outcome_January142026/group_012.md",
+      "token_count": 5594
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_14012026160405_BM_Outcome_January142026/group_013.md",
+      "token_count": 4582
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_14012026160405_BM_Outcome_January142026/group_014.md",
+      "token_count": 4582
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_14012026160405_BM_Outcome_January142026/group_015.md",
+      "token_count": 5659
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_14012026160405_BM_Outcome_January142026/group_016.md",
+      "token_count": 3891
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_14012026160405_BM_Outcome_January142026/group_017.md",
+      "token_count": 4149
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_14012026160405_BM_Outcome_January142026/group_018.md",
+      "token_count": 4165
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_14012026160405_BM_Outcome_January142026/group_019.md",
+      "token_count": 4575
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_14012026160405_BM_Outcome_January142026/group_020.md",
+      "token_count": 4868
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_14012026160405_BM_Outcome_January142026/group_021.md",
+      "token_count": 5356
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_14012026160405_BM_Outcome_January142026/group_022.md",
+      "token_count": 4029
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_14012026160405_BM_Outcome_January142026/group_023.md",
+      "token_count": 5593
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_14012026160405_BM_Outcome_January142026/group_024.md",
+      "token_count": 5174
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_14012026160405_BM_Outcome_January142026/group_025.md",
+      "token_count": 4566
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_14012026160405_BM_Outcome_January142026/group_026.md",
+      "token_count": 3300
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_14012026160405_BM_Outcome_January142026/group_027.md",
+      "token_count": 4725
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_14012026160405_BM_Outcome_January142026/group_028.md",
+      "token_count": 6538
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_14012026160405_BM_Outcome_January142026/group_029.md",
+      "token_count": 4808
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_14012026160405_BM_Outcome_January142026/group_030.md",
+      "token_count": 5198
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_14012026160405_BM_Outcome_January142026/group_031.md",
+      "token_count": 4292
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_14012026160405_BM_Outcome_January142026/group_032.md",
+      "token_count": 4652
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_14012026160405_BM_Outcome_January142026/group_033.md",
+      "token_count": 4850
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_14012026160405_BM_Outcome_January142026/group_034.md",
+      "token_count": 4148
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_14012026160405_BM_Outcome_January142026/group_035.md",
+      "token_count": 5690
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_14012026160405_BM_Outcome_January142026/group_036.md",
+      "token_count": 4602
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_14012026160405_BM_Outcome_January142026/group_037.md",
+      "token_count": 4542
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_14012026160405_BM_Outcome_January142026/group_038.md",
+      "token_count": 7024
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_14012026160405_BM_Outcome_January142026/group_039.md",
+      "token_count": 4190
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_14012026160405_BM_Outcome_January142026/group_040.md",
+      "token_count": 6043
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_14012026160405_BM_Outcome_January142026/group_041.md",
+      "token_count": 4548
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_14012026160405_BM_Outcome_January142026/group_042.md",
+      "token_count": 5662
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_14012026160405_BM_Outcome_January142026/group_043.md",
+      "token_count": 3277
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_14012026205614_SEfiling_AuditorsreportwithUDIN/group_001.md",
+      "token_count": 5408
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_14012026205614_SEfiling_AuditorsreportwithUDIN/group_002.md",
+      "token_count": 6230
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_16102025160458_BM_Outcome_Oct162025/group_001.md",
+      "token_count": 4203
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_16102025160458_BM_Outcome_Oct162025/group_002.md",
+      "token_count": 5619
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_16102025160458_BM_Outcome_Oct162025/group_003.md",
+      "token_count": 5761
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_16102025160458_BM_Outcome_Oct162025/group_004.md",
+      "token_count": 3831
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_16102025160458_BM_Outcome_Oct162025/group_005.md",
+      "token_count": 5197
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_16102025160458_BM_Outcome_Oct162025/group_006.md",
+      "token_count": 4835
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_16102025160458_BM_Outcome_Oct162025/group_007.md",
+      "token_count": 4171
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_16102025160458_BM_Outcome_Oct162025/group_008.md",
+      "token_count": 3970
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_16102025160458_BM_Outcome_Oct162025/group_009.md",
+      "token_count": 4372
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_16102025160458_BM_Outcome_Oct162025/group_010.md",
+      "token_count": 4206
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_16102025160458_BM_Outcome_Oct162025/group_011.md",
+      "token_count": 7548
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_16102025160458_BM_Outcome_Oct162025/group_012.md",
+      "token_count": 3973
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_16102025160458_BM_Outcome_Oct162025/group_013.md",
+      "token_count": 4770
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_16102025160458_BM_Outcome_Oct162025/group_014.md",
+      "token_count": 5541
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_16102025160458_BM_Outcome_Oct162025/group_015.md",
+      "token_count": 4517
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_16102025160458_BM_Outcome_Oct162025/group_016.md",
+      "token_count": 3032
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_16102025160458_BM_Outcome_Oct162025/group_017.md",
+      "token_count": 4576
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_16102025160458_BM_Outcome_Oct162025/group_018.md",
+      "token_count": 4514
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_16102025160458_BM_Outcome_Oct162025/group_019.md",
+      "token_count": 4309
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_16102025160458_BM_Outcome_Oct162025/group_020.md",
+      "token_count": 4287
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_16102025160458_BM_Outcome_Oct162025/group_021.md",
+      "token_count": 5895
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_16102025160458_BM_Outcome_Oct162025/group_022.md",
+      "token_count": 5011
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_16102025160458_BM_Outcome_Oct162025/group_023.md",
+      "token_count": 5829
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_16102025160458_BM_Outcome_Oct162025/group_024.md",
+      "token_count": 4860
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_16102025160458_BM_Outcome_Oct162025/group_025.md",
+      "token_count": 4433
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_16102025160458_BM_Outcome_Oct162025/group_026.md",
+      "token_count": 2262
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_16102025160458_BM_Outcome_Oct162025/group_027.md",
+      "token_count": 3966
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_16102025160458_BM_Outcome_Oct162025/group_028.md",
+      "token_count": 4598
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_16102025160458_BM_Outcome_Oct162025/group_029.md",
+      "token_count": 4684
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_16102025160458_BM_Outcome_Oct162025/group_030.md",
+      "token_count": 5316
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_16102025160458_BM_Outcome_Oct162025/group_031.md",
+      "token_count": 4033
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_16102025160458_BM_Outcome_Oct162025/group_032.md",
+      "token_count": 4616
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_16102025160458_BM_Outcome_Oct162025/group_033.md",
+      "token_count": 4949
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_16102025160458_BM_Outcome_Oct162025/group_034.md",
+      "token_count": 3794
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_16102025160458_BM_Outcome_Oct162025/group_035.md",
+      "token_count": 5404
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_16102025160458_BM_Outcome_Oct162025/group_036.md",
+      "token_count": 4367
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_16102025160458_BM_Outcome_Oct162025/group_037.md",
+      "token_count": 6859
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_16102025160458_BM_Outcome_Oct162025/group_038.md",
+      "token_count": 4674
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_16102025160458_BM_Outcome_Oct162025/group_039.md",
+      "token_count": 3984
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_16102025160458_BM_Outcome_Oct162025/group_040.md",
+      "token_count": 6984
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_16102025160458_BM_Outcome_Oct162025/group_041.md",
+      "token_count": 5812
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_16102025160458_BM_Outcome_Oct162025/group_042.md",
+      "token_count": 6476
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_16102025215621_SEfiling_AuditorsreportwithUDIN_Q2FY26/group_001.md",
+      "token_count": 5360
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_16102025215621_SEfiling_AuditorsreportwithUDIN_Q2FY26/group_002.md",
+      "token_count": 6333
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_17022026111455_SEfiling_InvestorAIday/group_001.md",
+      "token_count": 4575
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_17022026111455_SEfiling_InvestorAIday/group_002.md",
+      "token_count": 4398
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_18112025182523_SE_letter_LoF_18112025/group_001.md",
+      "token_count": 3606
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_18112025182523_SE_letter_LoF_18112025/group_002.md",
+      "token_count": 779
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_18112025182523_SE_letter_LoF_18112025/group_003.md",
+      "token_count": 3419
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_18112025182523_SE_letter_LoF_18112025/group_004.md",
+      "token_count": 7030
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_18112025182523_SE_letter_LoF_18112025/group_005.md",
+      "token_count": 4364
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_18112025182523_SE_letter_LoF_18112025/group_006.md",
+      "token_count": 1853
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_18112025182523_SE_letter_LoF_18112025/group_007.md",
+      "token_count": 7132
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_18112025182523_SE_letter_LoF_18112025/group_008.md",
+      "token_count": 5980
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_18112025182523_SE_letter_LoF_18112025/group_009.md",
+      "token_count": 2419
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_18112025182523_SE_letter_LoF_18112025/group_010.md",
+      "token_count": 5260
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_18112025182523_SE_letter_LoF_18112025/group_011.md",
+      "token_count": 5121
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_18112025182523_SE_letter_LoF_18112025/group_012.md",
+      "token_count": 6244
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_18112025182523_SE_letter_LoF_18112025/group_013.md",
+      "token_count": 5174
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_18112025182523_SE_letter_LoF_18112025/group_014.md",
+      "token_count": 5461
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_18112025182523_SE_letter_LoF_18112025/group_015.md",
+      "token_count": 4447
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_18112025182523_SE_letter_LoF_18112025/group_016.md",
+      "token_count": 5904
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_18112025182523_SE_letter_LoF_18112025/group_017.md",
+      "token_count": 5597
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_18112025182523_SE_letter_LoF_18112025/group_018.md",
+      "token_count": 1155
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_19012026222220_SEfiling_Earningscalltranscript_19012026/group_001.md",
+      "token_count": 4772
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_19012026222220_SEfiling_Earningscalltranscript_19012026/group_002.md",
+      "token_count": 5144
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_19012026222220_SEfiling_Earningscalltranscript_19012026/group_003.md",
+      "token_count": 8155
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_21102025214121_SEfiling_Earningscalltranscript_q2/group_001.md",
+      "token_count": 4790
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_21102025214121_SEfiling_Earningscalltranscript_q2/group_002.md",
+      "token_count": 5609
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_21102025214121_SEfiling_Earningscalltranscript_q2/group_003.md",
+      "token_count": 7341
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_22102025144043_SE_Draft_LOA_22102025/group_001.md",
+      "token_count": 4597
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_22102025144043_SE_Draft_LOA_22102025/group_002.md",
+      "token_count": 542
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_22102025144043_SE_Draft_LOA_22102025/group_003.md",
+      "token_count": 3315
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_22102025144043_SE_Draft_LOA_22102025/group_004.md",
+      "token_count": 7007
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_22102025144043_SE_Draft_LOA_22102025/group_005.md",
+      "token_count": 3819
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_22102025144043_SE_Draft_LOA_22102025/group_006.md",
+      "token_count": 5665
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_22102025144043_SE_Draft_LOA_22102025/group_007.md",
+      "token_count": 4383
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_22102025144043_SE_Draft_LOA_22102025/group_008.md",
+      "token_count": 5332
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_22102025144043_SE_Draft_LOA_22102025/group_009.md",
+      "token_count": 3157
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_22102025144043_SE_Draft_LOA_22102025/group_010.md",
+      "token_count": 3849
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_22102025144043_SE_Draft_LOA_22102025/group_011.md",
+      "token_count": 5065
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_22102025144043_SE_Draft_LOA_22102025/group_012.md",
+      "token_count": 6192
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_22102025144043_SE_Draft_LOA_22102025/group_013.md",
+      "token_count": 5155
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_22102025144043_SE_Draft_LOA_22102025/group_014.md",
+      "token_count": 5416
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_22102025144043_SE_Draft_LOA_22102025/group_015.md",
+      "token_count": 4465
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_22102025144043_SE_Draft_LOA_22102025/group_016.md",
+      "token_count": 4539
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_22102025144043_SE_Draft_LOA_22102025/group_017.md",
+      "token_count": 6777
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_22102025144043_SE_Draft_LOA_22102025/group_018.md",
+      "token_count": 1760
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_001.md",
+      "token_count": 5230
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_002.md",
+      "token_count": 4791
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_003.md",
+      "token_count": 5341
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_004.md",
+      "token_count": 6456
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_005.md",
+      "token_count": 4436
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_006.md",
+      "token_count": 4074
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_007.md",
+      "token_count": 4257
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_008.md",
+      "token_count": 4830
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_009.md",
+      "token_count": 3716
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_010.md",
+      "token_count": 3355
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_011.md",
+      "token_count": 4566
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_012.md",
+      "token_count": 4180
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_013.md",
+      "token_count": 4314
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_014.md",
+      "token_count": 2893
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_015.md",
+      "token_count": 4787
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_016.md",
+      "token_count": 5458
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_017.md",
+      "token_count": 6069
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_018.md",
+      "token_count": 4657
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_019.md",
+      "token_count": 3016
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_020.md",
+      "token_count": 1445
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_021.md",
+      "token_count": 3508
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_022.md",
+      "token_count": 4173
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_023.md",
+      "token_count": 4219
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_024.md",
+      "token_count": 4903
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_025.md",
+      "token_count": 4157
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_026.md",
+      "token_count": 6804
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_027.md",
+      "token_count": 6545
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_028.md",
+      "token_count": 5609
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_029.md",
+      "token_count": 3465
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_030.md",
+      "token_count": 5480
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_031.md",
+      "token_count": 5500
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_032.md",
+      "token_count": 5720
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_033.md",
+      "token_count": 4854
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_034.md",
+      "token_count": 4660
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_035.md",
+      "token_count": 4069
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_036.md",
+      "token_count": 1692
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_037.md",
+      "token_count": 4605
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_038.md",
+      "token_count": 3610
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_039.md",
+      "token_count": 3902
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_040.md",
+      "token_count": 5335
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_041.md",
+      "token_count": 3909
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_042.md",
+      "token_count": 5324
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_043.md",
+      "token_count": 4688
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_044.md",
+      "token_count": 4378
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_045.md",
+      "token_count": 4944
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_046.md",
+      "token_count": 4294
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_047.md",
+      "token_count": 5564
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_048.md",
+      "token_count": 4874
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_049.md",
+      "token_count": 5167
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_050.md",
+      "token_count": 5247
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_051.md",
+      "token_count": 7509
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_052.md",
+      "token_count": 3033
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_053.md",
+      "token_count": 4649
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_054.md",
+      "token_count": 6566
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_055.md",
+      "token_count": 6049
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_056.md",
+      "token_count": 4158
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_057.md",
+      "token_count": 5137
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_058.md",
+      "token_count": 4409
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_059.md",
+      "token_count": 4912
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_060.md",
+      "token_count": 3647
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_061.md",
+      "token_count": 952
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_062.md",
+      "token_count": 4671
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_063.md",
+      "token_count": 5281
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_064.md",
+      "token_count": 4821
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_065.md",
+      "token_count": 4091
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_066.md",
+      "token_count": 6827
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_067.md",
+      "token_count": 4870
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_068.md",
+      "token_count": 4567
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_069.md",
+      "token_count": 4374
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_070.md",
+      "token_count": 5142
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_071.md",
+      "token_count": 5834
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_072.md",
+      "token_count": 4660
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_073.md",
+      "token_count": 6315
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_074.md",
+      "token_count": 7761
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_075.md",
+      "token_count": 5616
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_076.md",
+      "token_count": 3537
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_077.md",
+      "token_count": 5325
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_078.md",
+      "token_count": 4627
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_079.md",
+      "token_count": 4608
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_080.md",
+      "token_count": 4298
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_081.md",
+      "token_count": 5098
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_082.md",
+      "token_count": 5908
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_083.md",
+      "token_count": 6549
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_084.md",
+      "token_count": 5595
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23042026170027_outcome/group_085.md",
+      "token_count": 4044
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23072025153626_Outcome23072025/group_001.md",
+      "token_count": 4217
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23072025153626_Outcome23072025/group_002.md",
+      "token_count": 6927
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23072025153626_Outcome23072025/group_003.md",
+      "token_count": 4085
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23072025153626_Outcome23072025/group_004.md",
+      "token_count": 4328
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23072025153626_Outcome23072025/group_005.md",
+      "token_count": 4391
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23072025153626_Outcome23072025/group_006.md",
+      "token_count": 3682
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23072025153626_Outcome23072025/group_007.md",
+      "token_count": 5274
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23072025153626_Outcome23072025/group_008.md",
+      "token_count": 4210
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23072025153626_Outcome23072025/group_009.md",
+      "token_count": 6277
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23072025153626_Outcome23072025/group_010.md",
+      "token_count": 6052
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23072025153626_Outcome23072025/group_011.md",
+      "token_count": 5633
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23072025153626_Outcome23072025/group_012.md",
+      "token_count": 4440
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23072025153626_Outcome23072025/group_013.md",
+      "token_count": 3844
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23072025153626_Outcome23072025/group_014.md",
+      "token_count": 4673
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23072025153626_Outcome23072025/group_015.md",
+      "token_count": 4566
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23072025153626_Outcome23072025/group_016.md",
+      "token_count": 4312
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23072025153626_Outcome23072025/group_017.md",
+      "token_count": 4743
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23072025153626_Outcome23072025/group_018.md",
+      "token_count": 6081
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23072025153626_Outcome23072025/group_019.md",
+      "token_count": 5872
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23072025153626_Outcome23072025/group_020.md",
+      "token_count": 4739
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23072025153626_Outcome23072025/group_021.md",
+      "token_count": 3397
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23072025153626_Outcome23072025/group_022.md",
+      "token_count": 3954
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23072025153626_Outcome23072025/group_023.md",
+      "token_count": 7381
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23072025153626_Outcome23072025/group_024.md",
+      "token_count": 5228
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23072025153626_Outcome23072025/group_025.md",
+      "token_count": 4316
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23072025153626_Outcome23072025/group_026.md",
+      "token_count": 5324
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23072025153626_Outcome23072025/group_027.md",
+      "token_count": 4406
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23072025153626_Outcome23072025/group_028.md",
+      "token_count": 3580
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23072025153626_Outcome23072025/group_029.md",
+      "token_count": 1472
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23072025153626_Outcome23072025/group_030.md",
+      "token_count": 893
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23072025153626_Outcome23072025/group_031.md",
+      "token_count": 1146
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23072025153626_Outcome23072025/group_032.md",
+      "token_count": 4283
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23072025153626_Outcome23072025/group_033.md",
+      "token_count": 5776
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23072025153626_Outcome23072025/group_034.md",
+      "token_count": 4325
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23072025153626_Outcome23072025/group_035.md",
+      "token_count": 3816
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23072025153626_Outcome23072025/group_036.md",
+      "token_count": 6167
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23072025153626_Outcome23072025/group_037.md",
+      "token_count": 4641
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23072025153626_Outcome23072025/group_038.md",
+      "token_count": 5101
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23072025210020_SEfiling_AuditorsreportwithUDIN/group_001.md",
+      "token_count": 5415
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_23072025210020_SEfiling_AuditorsreportwithUDIN/group_002.md",
+      "token_count": 5855
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_24022026183902_AIDayTranscript17022026/group_001.md",
+      "token_count": 4292
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_24022026183902_AIDayTranscript17022026/group_002.md",
+      "token_count": 6823
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_24022026183902_AIDayTranscript17022026/group_003.md",
+      "token_count": 6936
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_24022026183902_AIDayTranscript17022026/group_004.md",
+      "token_count": 6483
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_24022026183902_AIDayTranscript17022026/group_005.md",
+      "token_count": 5773
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_24022026183902_AIDayTranscript17022026/group_006.md",
+      "token_count": 4892
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_24042026162323_UDINFinancials_April242026/group_001.md",
+      "token_count": 5619
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_24042026162323_UDINFinancials_April242026/group_002.md",
+      "token_count": 2305
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_24042026162323_UDINFinancials_April242026/group_003.md",
+      "token_count": 1664
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_24042026162323_UDINFinancials_April242026/group_004.md",
+      "token_count": 4886
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_24042026162323_UDINFinancials_April242026/group_005.md",
+      "token_count": 4221
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_24042026162323_UDINFinancials_April242026/group_006.md",
+      "token_count": 1196
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_24042026162323_UDINFinancials_April242026/group_007.md",
+      "token_count": 6180
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_24042026162323_UDINFinancials_April242026/group_008.md",
+      "token_count": 1437
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_24042026162323_UDINFinancials_April242026/group_009.md",
+      "token_count": 3890
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_24042026180714_SE_Postal_ballot_Notice_24042026/group_001.md",
+      "token_count": 3443
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_24042026180714_SE_Postal_ballot_Notice_24042026/group_002.md",
+      "token_count": 4500
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_24042026180714_SE_Postal_ballot_Notice_24042026/group_003.md",
+      "token_count": 4174
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_26092025155016_SE_Filing_Postal_Ballot_Notice_26092025/group_001.md",
+      "token_count": 5070
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_26092025155016_SE_Filing_Postal_Ballot_Notice_26092025/group_002.md",
+      "token_count": 5217
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_26092025155016_SE_Filing_Postal_Ballot_Notice_26092025/group_003.md",
+      "token_count": 4661
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_26092025155016_SE_Filing_Postal_Ballot_Notice_26092025/group_004.md",
+      "token_count": 5173
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_26092025155016_SE_Filing_Postal_Ballot_Notice_26092025/group_005.md",
+      "token_count": 4905
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_26092025155016_SE_Filing_Postal_Ballot_Notice_26092025/group_006.md",
+      "token_count": 3104
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_27042026203405_Transcript_April232026_Q4/group_001.md",
+      "token_count": 4826
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_27042026203405_Transcript_April232026_Q4/group_002.md",
+      "token_count": 4975
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_27042026203405_Transcript_April232026_Q4/group_003.md",
+      "token_count": 5065
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_27042026203405_Transcript_April232026_Q4/group_004.md",
+      "token_count": 7609
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_28072025173504_SEfiling_Earningscalltranscript_28072025/group_001.md",
+      "token_count": 4950
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_28072025173504_SEfiling_Earningscalltranscript_28072025/group_002.md",
+      "token_count": 5008
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_28072025173504_SEfiling_Earningscalltranscript_28072025/group_003.md",
+      "token_count": 4952
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_28072025173504_SEfiling_Earningscalltranscript_28072025/group_004.md",
+      "token_count": 3998
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_001.md",
+      "token_count": 4233
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_002.md",
+      "token_count": 5289
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_003.md",
+      "token_count": 5101
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_004.md",
+      "token_count": 4552
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_005.md",
+      "token_count": 5092
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_006.md",
+      "token_count": 5208
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_007.md",
+      "token_count": 4919
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_008.md",
+      "token_count": 3443
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_009.md",
+      "token_count": 4967
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_010.md",
+      "token_count": 3633
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_011.md",
+      "token_count": 4246
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_012.md",
+      "token_count": 4739
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_013.md",
+      "token_count": 3459
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_014.md",
+      "token_count": 4847
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_015.md",
+      "token_count": 4666
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_016.md",
+      "token_count": 4561
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_017.md",
+      "token_count": 5053
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_018.md",
+      "token_count": 5084
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_019.md",
+      "token_count": 4065
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_020.md",
+      "token_count": 3618
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_021.md",
+      "token_count": 3041
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_022.md",
+      "token_count": 3742
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_023.md",
+      "token_count": 4061
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_024.md",
+      "token_count": 3197
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_025.md",
+      "token_count": 2389
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_026.md",
+      "token_count": 1840
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_027.md",
+      "token_count": 3327
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_028.md",
+      "token_count": 2293
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_029.md",
+      "token_count": 2073
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_030.md",
+      "token_count": 2594
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_031.md",
+      "token_count": 3229
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_032.md",
+      "token_count": 3499
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_033.md",
+      "token_count": 3684
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_034.md",
+      "token_count": 2841
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_035.md",
+      "token_count": 5117
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_036.md",
+      "token_count": 2460
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_037.md",
+      "token_count": 5048
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_038.md",
+      "token_count": 3868
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_039.md",
+      "token_count": 663
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_040.md",
+      "token_count": 2402
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_041.md",
+      "token_count": 5059
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_042.md",
+      "token_count": 4549
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_043.md",
+      "token_count": 2713
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_044.md",
+      "token_count": 5287
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_045.md",
+      "token_count": 7008
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_046.md",
+      "token_count": 3829
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_047.md",
+      "token_count": 4366
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_048.md",
+      "token_count": 4669
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_049.md",
+      "token_count": 3339
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_050.md",
+      "token_count": 4430
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_051.md",
+      "token_count": 5788
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_052.md",
+      "token_count": 4988
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_053.md",
+      "token_count": 4964
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_054.md",
+      "token_count": 5366
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_055.md",
+      "token_count": 6388
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_056.md",
+      "token_count": 1580
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_057.md",
+      "token_count": 664
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_058.md",
+      "token_count": 2338
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_059.md",
+      "token_count": 5672
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_060.md",
+      "token_count": 2766
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_061.md",
+      "token_count": 3673
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_062.md",
+      "token_count": 4775
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_063.md",
+      "token_count": 3051
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_064.md",
+      "token_count": 6685
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_065.md",
+      "token_count": 4839
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_066.md",
+      "token_count": 4582
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_067.md",
+      "token_count": 4493
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_068.md",
+      "token_count": 5290
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_069.md",
+      "token_count": 5951
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_070.md",
+      "token_count": 4760
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_071.md",
+      "token_count": 6308
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_072.md",
+      "token_count": 2546
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_073.md",
+      "token_count": 5425
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_074.md",
+      "token_count": 5731
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_075.md",
+      "token_count": 5752
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_076.md",
+      "token_count": 4096
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_077.md",
+      "token_count": 3118
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_078.md",
+      "token_count": 1389
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_079.md",
+      "token_count": 4777
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_080.md",
+      "token_count": 3456
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26/group_081.md",
+      "token_count": 2325
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_001.md",
+      "token_count": 4191
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_002.md",
+      "token_count": 5294
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_003.md",
+      "token_count": 5130
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_004.md",
+      "token_count": 4587
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_005.md",
+      "token_count": 5108
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_006.md",
+      "token_count": 5212
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_007.md",
+      "token_count": 4934
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_008.md",
+      "token_count": 3556
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_009.md",
+      "token_count": 4940
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_010.md",
+      "token_count": 3601
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_011.md",
+      "token_count": 4228
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_012.md",
+      "token_count": 4761
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_013.md",
+      "token_count": 3420
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_014.md",
+      "token_count": 4821
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_015.md",
+      "token_count": 4656
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_016.md",
+      "token_count": 4559
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_017.md",
+      "token_count": 5080
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_018.md",
+      "token_count": 5088
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_019.md",
+      "token_count": 4209
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_020.md",
+      "token_count": 3788
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_021.md",
+      "token_count": 3255
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_022.md",
+      "token_count": 3762
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_023.md",
+      "token_count": 4002
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_024.md",
+      "token_count": 3227
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_025.md",
+      "token_count": 2265
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_026.md",
+      "token_count": 1738
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_027.md",
+      "token_count": 3345
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_028.md",
+      "token_count": 2467
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_029.md",
+      "token_count": 2101
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_030.md",
+      "token_count": 2585
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_031.md",
+      "token_count": 3271
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_032.md",
+      "token_count": 3597
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_033.md",
+      "token_count": 3691
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_034.md",
+      "token_count": 2686
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_035.md",
+      "token_count": 5138
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_036.md",
+      "token_count": 2423
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_037.md",
+      "token_count": 5024
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_038.md",
+      "token_count": 3917
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_039.md",
+      "token_count": 705
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_040.md",
+      "token_count": 2361
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_041.md",
+      "token_count": 5099
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_042.md",
+      "token_count": 4514
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_043.md",
+      "token_count": 2742
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_044.md",
+      "token_count": 5289
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_045.md",
+      "token_count": 7175
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_046.md",
+      "token_count": 3593
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_047.md",
+      "token_count": 4313
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_048.md",
+      "token_count": 4655
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_049.md",
+      "token_count": 3350
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_050.md",
+      "token_count": 4428
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_051.md",
+      "token_count": 5761
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_052.md",
+      "token_count": 4996
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_053.md",
+      "token_count": 4787
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_054.md",
+      "token_count": 5424
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_055.md",
+      "token_count": 6467
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_056.md",
+      "token_count": 1593
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_058.md",
+      "token_count": 2394
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_059.md",
+      "token_count": 5734
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_060.md",
+      "token_count": 2683
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_061.md",
+      "token_count": 3581
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_062.md",
+      "token_count": 4714
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_063.md",
+      "token_count": 2976
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_064.md",
+      "token_count": 6633
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_065.md",
+      "token_count": 4789
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_066.md",
+      "token_count": 4581
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_067.md",
+      "token_count": 4442
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_068.md",
+      "token_count": 5296
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_069.md",
+      "token_count": 5975
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_070.md",
+      "token_count": 4727
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_071.md",
+      "token_count": 6239
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_072.md",
+      "token_count": 2580
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_073.md",
+      "token_count": 5406
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_074.md",
+      "token_count": 5713
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_075.md",
+      "token_count": 5545
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_076.md",
+      "token_count": 4060
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_077.md",
+      "token_count": 3116
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_078.md",
+      "token_count": 1413
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_079.md",
+      "token_count": 4756
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_080.md",
+      "token_count": 3419
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26/group_081.md",
+      "token_count": 2220
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_30062026163341_SE_Infosys_45th_AGM_transcript/group_001.md",
+      "token_count": 4214
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_30062026163341_SE_Infosys_45th_AGM_transcript/group_002.md",
+      "token_count": 4641
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_30062026163341_SE_Infosys_45th_AGM_transcript/group_003.md",
+      "token_count": 5886
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_30062026163341_SE_Infosys_45th_AGM_transcript/group_004.md",
+      "token_count": 5429
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_30062026163341_SE_Infosys_45th_AGM_transcript/group_005.md",
+      "token_count": 5058
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/Infosys_30062026163341_SE_Infosys_45th_AGM_transcript/group_006.md",
+      "token_count": 4449
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_001.md",
+      "token_count": 3236
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_002.md",
+      "token_count": 4915
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_003.md",
+      "token_count": 4963
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_004.md",
+      "token_count": 4709
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_005.md",
+      "token_count": 5752
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_006.md",
+      "token_count": 5372
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_007.md",
+      "token_count": 5027
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_008.md",
+      "token_count": 5030
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_009.md",
+      "token_count": 4691
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_010.md",
+      "token_count": 4928
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_011.md",
+      "token_count": 4655
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_012.md",
+      "token_count": 5597
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_013.md",
+      "token_count": 4875
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_014.md",
+      "token_count": 5169
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_015.md",
+      "token_count": 4330
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_016.md",
+      "token_count": 4869
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_017.md",
+      "token_count": 4420
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_018.md",
+      "token_count": 4415
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_019.md",
+      "token_count": 4614
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_020.md",
+      "token_count": 4765
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_021.md",
+      "token_count": 5549
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_022.md",
+      "token_count": 5936
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_023.md",
+      "token_count": 4664
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_024.md",
+      "token_count": 7514
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_025.md",
+      "token_count": 6554
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_026.md",
+      "token_count": 4745
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_027.md",
+      "token_count": 4784
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_028.md",
+      "token_count": 6244
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_029.md",
+      "token_count": 4777
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_030.md",
+      "token_count": 4770
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_031.md",
+      "token_count": 4627
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_032.md",
+      "token_count": 3318
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_033.md",
+      "token_count": 4267
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_034.md",
+      "token_count": 5069
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_035.md",
+      "token_count": 5834
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_036.md",
+      "token_count": 6236
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_037.md",
+      "token_count": 4607
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_038.md",
+      "token_count": 2280
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_039.md",
+      "token_count": 5172
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_040.md",
+      "token_count": 5136
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_041.md",
+      "token_count": 5159
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_042.md",
+      "token_count": 4765
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_043.md",
+      "token_count": 4923
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_044.md",
+      "token_count": 6640
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_045.md",
+      "token_count": 5728
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_046.md",
+      "token_count": 2774
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_047.md",
+      "token_count": 6460
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_048.md",
+      "token_count": 5602
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_049.md",
+      "token_count": 3298
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_050.md",
+      "token_count": 2198
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_051.md",
+      "token_count": 3282
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_052.md",
+      "token_count": 4156
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_053.md",
+      "token_count": 4671
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_15062026210015_Form20F_June152026/group_054.md",
+      "token_count": 4239
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_25032026221610_BM_Outcome_March252026/group_001.md",
+      "token_count": 1980
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_25032026221610_BM_Outcome_March252026/group_002.md",
+      "token_count": 2007
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_001.md",
+      "token_count": 4658
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_002.md",
+      "token_count": 4616
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_003.md",
+      "token_count": 5110
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_004.md",
+      "token_count": 4592
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_005.md",
+      "token_count": 5086
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_006.md",
+      "token_count": 5188
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_007.md",
+      "token_count": 4913
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_008.md",
+      "token_count": 3678
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_009.md",
+      "token_count": 4962
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_010.md",
+      "token_count": 3605
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_011.md",
+      "token_count": 4228
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_012.md",
+      "token_count": 4708
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_013.md",
+      "token_count": 3580
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_014.md",
+      "token_count": 4837
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_015.md",
+      "token_count": 4659
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_016.md",
+      "token_count": 4581
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_017.md",
+      "token_count": 5055
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_019.md",
+      "token_count": 4064
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_020.md",
+      "token_count": 3625
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_021.md",
+      "token_count": 3012
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_022.md",
+      "token_count": 3774
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_023.md",
+      "token_count": 3999
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_024.md",
+      "token_count": 3187
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_025.md",
+      "token_count": 2375
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_026.md",
+      "token_count": 1853
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_027.md",
+      "token_count": 3351
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_028.md",
+      "token_count": 2434
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_029.md",
+      "token_count": 2076
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_030.md",
+      "token_count": 2580
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_031.md",
+      "token_count": 3237
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_032.md",
+      "token_count": 3497
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_033.md",
+      "token_count": 3707
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_034.md",
+      "token_count": 2643
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_035.md",
+      "token_count": 5170
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_036.md",
+      "token_count": 2424
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_037.md",
+      "token_count": 5035
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_038.md",
+      "token_count": 3876
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_039.md",
+      "token_count": 612
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_040.md",
+      "token_count": 2351
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_041.md",
+      "token_count": 5054
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_042.md",
+      "token_count": 4546
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_043.md",
+      "token_count": 2702
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_044.md",
+      "token_count": 5277
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_045.md",
+      "token_count": 6967
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_046.md",
+      "token_count": 3897
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_047.md",
+      "token_count": 4337
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_048.md",
+      "token_count": 4736
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_049.md",
+      "token_count": 3311
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_050.md",
+      "token_count": 4378
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_051.md",
+      "token_count": 5724
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_052.md",
+      "token_count": 4962
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_053.md",
+      "token_count": 4862
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_054.md",
+      "token_count": 5375
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_055.md",
+      "token_count": 6456
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_056.md",
+      "token_count": 1581
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_057.md",
+      "token_count": 687
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_058.md",
+      "token_count": 2318
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_059.md",
+      "token_count": 5661
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_060.md",
+      "token_count": 2717
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_061.md",
+      "token_count": 3605
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_062.md",
+      "token_count": 4752
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_063.md",
+      "token_count": 3039
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_064.md",
+      "token_count": 6649
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_065.md",
+      "token_count": 4744
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_066.md",
+      "token_count": 4514
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_067.md",
+      "token_count": 4475
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_068.md",
+      "token_count": 5315
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_069.md",
+      "token_count": 5941
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_070.md",
+      "token_count": 4729
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_071.md",
+      "token_count": 6242
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_072.md",
+      "token_count": 2552
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_073.md",
+      "token_count": 5399
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_074.md",
+      "token_count": 5737
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_075.md",
+      "token_count": 5538
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_076.md",
+      "token_count": 4065
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_077.md",
+      "token_count": 3122
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_078.md",
+      "token_count": 1403
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_079.md",
+      "token_count": 4662
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_080.md",
+      "token_count": 3511
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026200807_SE_Integrated_Annual_Report_2025-26/group_081.md",
+      "token_count": 3625
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_001.md",
+      "token_count": 4379
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_002.md",
+      "token_count": 4531
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_003.md",
+      "token_count": 5092
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_004.md",
+      "token_count": 4552
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_005.md",
+      "token_count": 5094
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_006.md",
+      "token_count": 5197
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_007.md",
+      "token_count": 4883
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_008.md",
+      "token_count": 3433
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_009.md",
+      "token_count": 4988
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_010.md",
+      "token_count": 3587
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_011.md",
+      "token_count": 4257
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_012.md",
+      "token_count": 4743
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_013.md",
+      "token_count": 3570
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_014.md",
+      "token_count": 4808
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_015.md",
+      "token_count": 4688
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_016.md",
+      "token_count": 4539
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_017.md",
+      "token_count": 5072
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_018.md",
+      "token_count": 5140
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_019.md",
+      "token_count": 4192
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_020.md",
+      "token_count": 3630
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_021.md",
+      "token_count": 3276
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_022.md",
+      "token_count": 3754
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_023.md",
+      "token_count": 4020
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_024.md",
+      "token_count": 3248
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_025.md",
+      "token_count": 2372
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_026.md",
+      "token_count": 1770
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_027.md",
+      "token_count": 3273
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_028.md",
+      "token_count": 2300
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_029.md",
+      "token_count": 2016
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_030.md",
+      "token_count": 2702
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_031.md",
+      "token_count": 3221
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_032.md",
+      "token_count": 3678
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_033.md",
+      "token_count": 3789
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_034.md",
+      "token_count": 2880
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_035.md",
+      "token_count": 4964
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_036.md",
+      "token_count": 2393
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_037.md",
+      "token_count": 5027
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_038.md",
+      "token_count": 3874
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_039.md",
+      "token_count": 703
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_040.md",
+      "token_count": 2360
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_041.md",
+      "token_count": 4996
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_042.md",
+      "token_count": 4614
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_043.md",
+      "token_count": 2727
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_044.md",
+      "token_count": 5246
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_045.md",
+      "token_count": 6930
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_046.md",
+      "token_count": 3618
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_047.md",
+      "token_count": 4229
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_048.md",
+      "token_count": 4646
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_049.md",
+      "token_count": 3331
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_050.md",
+      "token_count": 4400
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_051.md",
+      "token_count": 5720
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_052.md",
+      "token_count": 4957
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_053.md",
+      "token_count": 4871
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_054.md",
+      "token_count": 5377
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_055.md",
+      "token_count": 6385
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_056.md",
+      "token_count": 1588
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_057.md",
+      "token_count": 737
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_058.md",
+      "token_count": 2379
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_059.md",
+      "token_count": 5723
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_060.md",
+      "token_count": 2735
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_061.md",
+      "token_count": 3717
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_062.md",
+      "token_count": 4714
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_063.md",
+      "token_count": 3020
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_064.md",
+      "token_count": 6710
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_065.md",
+      "token_count": 4798
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_066.md",
+      "token_count": 4508
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_067.md",
+      "token_count": 4442
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_068.md",
+      "token_count": 5334
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_069.md",
+      "token_count": 5975
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_070.md",
+      "token_count": 4732
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_071.md",
+      "token_count": 6291
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_072.md",
+      "token_count": 2555
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_073.md",
+      "token_count": 5457
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_074.md",
+      "token_count": 5729
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_075.md",
+      "token_count": 5845
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_076.md",
+      "token_count": 4140
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_077.md",
+      "token_count": 3105
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_078.md",
+      "token_count": 1368
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_079.md",
+      "token_count": 4767
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_080.md",
+      "token_count": 3535
+    },
+    {
+      "filepath": "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files/INFY_30052026201240_SE_Integrated_Annual_Report_2025-26/group_081.md",
+      "token_count": 3624
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_01122025170232_SEfiling_Reg30_01122025.md",
+      "token_count": 440
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_02012026090317_letter_January022026.md",
+      "token_count": 398
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_02022026183006_PR_02022026.md",
+      "token_count": 1507
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_02062026125653_PR_02062026.md",
+      "token_count": 1293
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_02062026152845_PR_02062026_2.md",
+      "token_count": 1424
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_02092025112840_PR_02092025_signed.md",
+      "token_count": 1402
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_03022026180152_PR_03022026.md",
+      "token_count": 1186
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_03032026152329_PR_03032026.md",
+      "token_count": 933
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_03062026152608_PR_03062026.md",
+      "token_count": 1484
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_03072025110400_PR_03072025.md",
+      "token_count": 1143
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_03102025154040_PR_03102025.md",
+      "token_count": 966
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_03112025145757_PR_03112025.md",
+      "token_count": 1007
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_03122025152626_PR_03122025.md",
+      "token_count": 1157
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_05052026084802_PR_05052026.md",
+      "token_count": 795
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_05082025214028_SEfiling_Reg30disclosure_05082025.md",
+      "token_count": 662
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_05122025154029_SE_Newspaper_Advt_05122025.md",
+      "token_count": 2997
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_05122025224450_SEfiling_Reg30_05122025.md",
+      "token_count": 651
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_06082025145458_PR_06082025.md",
+      "token_count": 1094
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_06112025152733_PR_06112025.md",
+      "token_count": 849
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_06122025165814_SEfiling_Reg30_06122025.md",
+      "token_count": 439
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_07012026105753_PR_07012026.md",
+      "token_count": 967
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_07012026155529_PR_07012026_2.md",
+      "token_count": 1164
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_07042026171157_PR_07042026.md",
+      "token_count": 1168
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_07102025163020_SEfiling_Reg30_07102025.md",
+      "token_count": 419
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_08082025160923_PR_08082025.md",
+      "token_count": 1217
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_08122025110831_PR_08122025.md",
+      "token_count": 1458
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_09092025102824_PR_09092025.md",
+      "token_count": 1369
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_09102025102009_SE_filing_Reg_30_09102025.md",
+      "token_count": 606
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_09102025105512_SE_filing_Reg_30_09102025.md",
+      "token_count": 610
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_09122025220401_SEfiling_Reg30_09122025.md",
+      "token_count": 279
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_10012026223344_PR_10012026.md",
+      "token_count": 2332
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_10032026130708_PR_10032026.md",
+      "token_count": 1054
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_10032026172849_PR_10032026_2.md",
+      "token_count": 965
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_10102025153819_PR_10102025.md",
+      "token_count": 1171
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_11052026204044_NOC_Disclosure_May112026_signed.md",
+      "token_count": 999
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_11062026115315_PR_11062026.md",
+      "token_count": 1177
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_11062026162328_PR_11062026_2.md",
+      "token_count": 1392
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_11072025182751_SEfiling_Reg30disclosure_11072025.md",
+      "token_count": 677
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_11082025152913_PR_11082025.md",
+      "token_count": 1128
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_11092025173002_PR_11092025.md",
+      "token_count": 1036
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_11112025110410_PR_11112025.md",
+      "token_count": 862
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_12012026153245_PR_12012026.md",
+      "token_count": 1215
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_12022026153113_PR_12022026.md",
+      "token_count": 1013
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_12032026114226_PR_12032026.md",
+      "token_count": 1064
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_12112025112042_PR_12112025.md",
+      "token_count": 2171
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_12122025210523_SE_Filing_Extinguishment_11122025.md",
+      "token_count": 1128
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_13022026225816_SE_Filing_Reg30_13022026.md",
+      "token_count": 430
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_13032026145859_PR_13032026.md",
+      "token_count": 216
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_13082025191426_BM_Outcome_July132025.md",
+      "token_count": 3032
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_13082025223713_SEfiling_Reg30disclosure_13082025.md",
+      "token_count": 397
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_14082025152800_PR_14082025.md",
+      "token_count": 1465
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_14102025142305_PR_14102025.md",
+      "token_count": 1117
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_14112025111307_SEfilingReg30disclosure_14112025.md",
+      "token_count": 917
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_15012026125035_Reg30disclosure_15012026.md",
+      "token_count": 285
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_15042026160716_PR_15042026.md",
+      "token_count": 1115
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_15072025105756_PR_15072025.md",
+      "token_count": 1161
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_16062026152949_PR_16062026.md",
+      "token_count": 1163
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_16072025092948_PR_16072025.md",
+      "token_count": 1287
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_16072025152918_PR_16072025_2.md",
+      "token_count": 1281
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_16122025201456_PR_16122025.md",
+      "token_count": 1409
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_17022026092732_PR_17022026.md",
+      "token_count": 1225
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_17022026175524_PR_17022026_2.md",
+      "token_count": 1217
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_17072025221306_SEfiling_Reg30_17072025.md",
+      "token_count": 280
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_17112025151923_PR_17112025.md",
+      "token_count": 1407
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_17122025163654_letter_17122025.md",
+      "token_count": 429
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_18032026182417_PR_18032026.md",
+      "token_count": 212
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_19032026223214_SEfiling_Reg30disclosure_19032026.md",
+      "token_count": 732
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_20012026132058_PR_20012026.md",
+      "token_count": 1465
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_20032026152722_PR_20032026.md",
+      "token_count": 1411
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_20082025093726_PR_20082025.md",
+      "token_count": 1114
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_21072025094039_PR_21072025.md",
+      "token_count": 937
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_21112025185749_PR_21112025.md",
+      "token_count": 1534
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_22042026160213_PR_April222026_signed.md",
+      "token_count": 949
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_22072025173236_PR_22072025.md",
+      "token_count": 1021
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_23012026173454_PR_23012026.md",
+      "token_count": 1217
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_23062026172706_PR_23062026.md",
+      "token_count": 777
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_23092025152852_PR_23092025.md",
+      "token_count": 904
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_23102025173100_PR_23102025.md",
+      "token_count": 1396
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_24022026183647_PR_Feb242026.md",
+      "token_count": 1041
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_24032026153246_PR_24032026.md",
+      "token_count": 1547
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_24062026152848_PR_24062026_2.md",
+      "token_count": 1680
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_24062026172502_PR_24062026.md",
+      "token_count": 1176
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_25032026105841_PR_25032026.md",
+      "token_count": 1019
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_25032026153613_PR_25032026_2.md",
+      "token_count": 1050
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_25062026100734_SE_25062026_re-classification.md",
+      "token_count": 430
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_25062026152354_PR_25062026.md",
+      "token_count": 916
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_25092025150336_InfosysLimited_Reg30disclosure_2509.md",
+      "token_count": 254
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_27012026174035_PR_27012026.md",
+      "token_count": 1064
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_28052026152425_PR_28052026.md",
+      "token_count": 1513
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_28072025152533_PR_28072025.md",
+      "token_count": 830
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_28082025152436_PR_28082025.md",
+      "token_count": 1280
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_29012026093554_PR_29012026.md",
+      "token_count": 1338
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_29072025172822_SEfiling_Reg30_29072025.md",
+      "token_count": 715
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_29102025152914_PR_29102025.md",
+      "token_count": 1026
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_30012026193927_SEfiling_Reg_30_30012026.md",
+      "token_count": 296
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_30042026152236_PR_30042026.md",
+      "token_count": 1431
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_30072025174628_SEfiling_Reg_30disclosure_30072025.md",
+      "token_count": 399
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_30122025151805_letter_December302025.md",
+      "token_count": 430
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/Infosys_31032026205830_SEfiling_Reg30_disclosure_31032026.md",
+      "token_count": 368
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/INFY_01052026115302_2_SubmissionofApplication_April302026_2.md",
+      "token_count": 315
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/INFY_11092025215149_Outcome11092025.md",
+      "token_count": 2220
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/INFY_12092025074008_Diamond_SEC_letter.md",
+      "token_count": 789
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/INFY_18042026093806_SE_Filing18042026.md",
+      "token_count": 2188
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/INFY_20122025090957_SE_ADR_Price_20122025.md",
+      "token_count": 356
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/INFY_20122025091628_SE_McCamish_Systems_20122025.md",
+      "token_count": 440
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/INFY_23012026223903_SEfiling_InvestorAIday_23012026.md",
+      "token_count": 235
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/INFY_23122025222726_SE_McCamish_Systems_23122025.md",
+      "token_count": 596
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/INFY_30042026200702_Outcome_Final.md",
+      "token_count": 3977
+    },
+    {
+      "filepath": "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages/INFY_31012026225349_SEfiling_Reg30_31012026.md",
+      "token_count": 376
+    },
+    {
+      "filepath": "data/trendlyne/clean-mds/04abf21d4c5f4cd19d29464f51dc527b-24042026.md",
+      "token_count": 5317
+    },
+    {
+      "filepath": "data/trendlyne/clean-mds/idirect_infosys_q4fy26.md",
+      "token_count": 6222
+    },
+    {
+      "filepath": "data/trendlyne/clean-mds/Info-RR-24042026-24-April-2026-1656297533.md",
+      "token_count": 7074
+    },
+    {
+      "filepath": "data/trendlyne/clean-mds/INFY-StockReport-20260709-2007.md",
+      "token_count": 10673
+    },
+    {
+      "filepath": "data/trendlyne/clean-mds/SP20263004173805143Infosys.md",
+      "token_count": 6003
+    },
+    {
+      "filepath": "data/yfinance/clean-mds/Can India Leverage Talent to Catch Up in the AI Race_.md",
+      "token_count": 373
+    },
+    {
+      "filepath": "data/yfinance/clean-mds/Goldman Warns AI Earnings Surprise Wave May Fade Despite 22_ Growth Forecast.md",
+      "token_count": 567
+    },
+    {
+      "filepath": "data/yfinance/clean-mds/Infosys (NSEI_INFY) Stock Sees Modest Fair Value Cut As AI Hopes Meet Choppy Demand.md",
+      "token_count": 777
+    },
+    {
+      "filepath": "data/yfinance/clean-mds/Infosys Limited (INFY) Partners with Sentara To Enable AI Integration and Use in Hospitals.md",
+      "token_count": 645
+    },
+    {
+      "filepath": "data/yfinance/clean-mds/Madison Square Garden Entertainment Corp. (MSGE) To Remain Fully Operational Amid New York Penn Station Redevelopment.md",
+      "token_count": 636
+    },
+    {
+      "filepath": "data/yfinance/clean-mds/Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund.md",
+      "token_count": 1251
+    }
+  ]
+}
