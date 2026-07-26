@@ -4,3 +4,4 @@ temp
 .codexignore
 review/
 AGENTS*
+chroma_db/
