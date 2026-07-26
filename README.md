@@ -32,7 +32,7 @@ Trendlyne and yfinance PDFs
   -> ChatGPT cleaning with source-specific prompts
   -> clean Markdown
 
-Clean demo Markdown
+Approved clean Markdown
   -> OpenAI embeddings
   -> persistent Chroma vector collection
   -> similarity retrieval
@@ -89,7 +89,8 @@ Group-6-DS-and-AI-Lab-Project/
 |   +-- KE-prompts/                              # Trendlyne and yfinance prompts
 |   +-- KE-prompts-for-nse-docs/                 # NSE cleaning prompts
 +-- embeddings_script/                           # Vector indexing, retrieval, and Q&A
-|   +-- index_documents.py                       # Creates embeddings for demo Markdown
+|   +-- index_documents.py                       # Creates embeddings for approved Markdown
+|   +-- token_counter.py                         # Counts tokens before embedding
 |   +-- search.py                                # Runs a similarity-search example
 |   +-- retriever.py                             # Interactive retrieval-augmented Q&A
 |   +-- chroma_db/                               # Persistent Chroma collection
@@ -120,11 +121,13 @@ commands.
 
 ## Embeddings and Retrieval
 
-`embeddings_script` provides the current prototype for searching the cleaned
-demo documents and answering questions from the retrieved context. It uses
-OpenAI's `text-embedding-3-small` model and a persistent Chroma collection
-named `finance_documents`. Each Markdown file is currently stored as one
-document vector; the prototype does not chunk files before embedding.
+`embeddings_script` indexes the five approved clean-Markdown folders, searches
+the resulting documents, and supports context-grounded Q&A. It uses OpenAI's
+`text-embedding-3-small` model and a persistent Chroma collection named
+`finance_file_embeddings`. Each Markdown file has one document vector; files
+above the model's 8,192-token input limit are automatically shortened to their
+first 8,191 tokens before embedding. Chroma metadata records the original token
+count, embedded token count, and whether the file was shortened.
 
 Create a `.env` file at the repository root with an OpenAI API key:
 
@@ -132,14 +135,17 @@ Create a `.env` file at the repository root with an OpenAI API key:
 OPENAI_API_KEY=your_api_key
 ```
 
-The scripts require the `openai`, `chromadb`, `python-dotenv`, and `tqdm`
-Python packages. Run them from `embeddings_script` so their relative
+The scripts require the packages in `requirements.txt`, including `tiktoken`
+for token counting and safe truncation. Run them from `embeddings_script` so their relative
 `./chroma_db` paths refer to the checked-in vector database:
 
 ```powershell
 Set-Location embeddings_script
 
-# Set DATA_FOLDER in index_documents.py to the Markdown folder you want to index.
+# Save exact token counts for all approved Markdown files.
+..\venv\Scripts\python.exe token_counter.py
+
+# Embed all approved Markdown files.
 ..\venv\Scripts\python.exe index_documents.py
 
 # Inspect the three closest stored documents for the example question.
@@ -149,8 +155,10 @@ Set-Location embeddings_script
 ..\venv\Scripts\python.exe retriever.py
 ```
 
-`index_documents.py` is presently configured to index the ten files in
-`data/demo-bot-output` after its `DATA_FOLDER` value is updated to the local
-repository path. It can also read `COLLECTION_NAME` and `CHROMA_DB_PATH` from
-the environment. `retriever.py` retrieves the three nearest documents and uses
-`gpt-4o-mini` to answer only from that retrieved context.
+`index_documents.py` is configured with these folders: `data/yfinance/clean-mds`,
+`data/trendlyne/clean-mds`, the Infosys investor-relations clean-Markdown
+folder, the cleaned NSE whole-document folder, and the recursively scanned
+cleaned NSE section folder. `token_counter.py` writes the exact counts to
+`embeddings_script/token_counts.json`. `retriever.py` retrieves the three
+nearest documents and uses `gpt-4o-mini` to answer only from that retrieved
+context.
