@@ -14,6 +14,7 @@ the reranker, and it is removed before final answering.
 """
 
 import os
+import time
 
 import chromadb
 from dotenv import load_dotenv
@@ -77,7 +78,7 @@ def get_embedding(text):
     return response.data[0].embedding
 
 
-def retrieve(question):
+def retrieve(question, timings=None):
     """Return candidates for the configured pipeline.
 
     Reranking retrieves ten candidates; the separate non-reranked pipeline
@@ -85,10 +86,18 @@ def retrieve(question):
     """
     _, chroma_collection = get_clients()
     candidate_count = RETRIEVAL_TOP_K if DO_RERANKING else FINAL_DOCUMENT_COUNT
+    embedding_start = time.perf_counter()
+    query_embedding = get_embedding(question)
+    if timings is not None:
+        timings["embedding"] = time.perf_counter() - embedding_start
+
+    retrieval_start = time.perf_counter()
     results = chroma_collection.query(
-        query_embeddings=[get_embedding(question)],
+        query_embeddings=[query_embedding],
         n_results=candidate_count,
     )
+    if timings is not None:
+        timings["chroma_retrieval"] = time.perf_counter() - retrieval_start
     return results
 
 
@@ -233,6 +242,28 @@ def print_selected_documents(selected_documents, context):
     print(f"Final context estimate: {count_tokens(context)} tokens")
 
 
+def print_latency(timings):
+    """Print the measured time for each pipeline stage and the full question.
+
+    Called after a question finishes, including when the final prompt is too
+    large. The measurements exclude time spent waiting for the next question.
+    """
+    print("\nPIPELINE LATENCY")
+    print("-" * 80)
+    labels = [
+        ("embedding", "Embedding"),
+        ("chroma_retrieval", "Chroma retrieval"),
+        ("reranking", "BGE reranking"),
+        ("selection", "Direct selection"),
+        ("context", "Context preparation"),
+        ("llm", "LLM request"),
+        ("total", "Total question latency"),
+    ]
+    for key, label in labels:
+        if key in timings:
+            print(f"{label}: {timings[key]:.3f} seconds")
+
+
 def main():
     """Start the selected pipeline and reuse BGE for all interactive questions."""
     reranker = None
@@ -248,27 +279,41 @@ def main():
         if question.lower() == "exit":
             break
 
+        pipeline_start = time.perf_counter()
+        timings = {}
         if DO_RERANKING:
             print("\nGenerating query embedding and reranking candidates...")
-            selected_documents = rerank_results(
-                retrieve(question),
-                question,
-                reranker,
-            )
+            results = retrieve(question, timings)
+            reranking_start = time.perf_counter()
+            selected_documents = rerank_results(results, question, reranker)
+            timings["reranking"] = time.perf_counter() - reranking_start
         else:
             print("\nGenerating query embedding and retrieving Chroma documents...")
-            selected_documents = select_without_reranking(retrieve(question))
+            results = retrieve(question, timings)
+            selection_start = time.perf_counter()
+            selected_documents = select_without_reranking(results)
+            timings["selection"] = time.perf_counter() - selection_start
         if not selected_documents:
             print("No documents were retrieved.")
+            timings["total"] = time.perf_counter() - pipeline_start
+            print_latency(timings)
             continue
 
+        context_start = time.perf_counter()
         context = build_context(selected_documents)
+        timings["context"] = time.perf_counter() - context_start
         print_selected_documents(selected_documents, context)
         print("\nGenerating answer...")
+        llm_start = time.perf_counter()
         try:
-            print("\n" + ask_llm(question, context))
+            answer = ask_llm(question, context)
+            print("\n" + answer)
         except ValueError as error:
             print(error)
+        finally:
+            timings["llm"] = time.perf_counter() - llm_start
+            timings["total"] = time.perf_counter() - pipeline_start
+            print_latency(timings)
 
 
 if __name__ == "__main__":

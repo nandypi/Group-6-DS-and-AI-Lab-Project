@@ -177,6 +177,11 @@ and body separately, and the three highest weighted results are sent to
 documents are sent directly. In both modes, YAML front matter is removed from
 the final answer context.
 
+Each question also prints latency for the embedding call, Chroma retrieval,
+the selected branch (BGE reranking or direct selection), context preparation,
+the LLM request, and total question latency. This makes it easy to compare
+the same questions with `DO_RERANKING=True` and `DO_RERANKING=False`.
+
 Install the dependencies and run the interactive retriever from the
 `embeddings_script` directory:
 
