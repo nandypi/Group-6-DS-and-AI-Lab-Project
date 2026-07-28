@@ -3,3 +3,7 @@ openai
 python-dotenv
 tqdm
 tiktoken
+PyYAML
+FlagEmbedding
+torch
+transformers==4.57.1
