@@ -159,6 +159,34 @@ Set-Location embeddings_script
 `data/trendlyne/clean-mds`, the Infosys investor-relations clean-Markdown
 folder, the cleaned NSE whole-document folder, and the recursively scanned
 cleaned NSE section folder. `token_counter.py` writes the exact counts to
-`embeddings_script/token_counts.json`. `retriever.py` retrieves the three
-nearest documents and uses `gpt-4o-mini` to answer only from that retrieved
-context.
+`embeddings_script/token_counts.json`.
+
+## Optional BGE Re-ranking
+
+`retriever.py` supports two selectable retrieval pipelines. Set
+`DO_RERANKING` in the repository-root `.env` file before starting the script:
+
+```text
+DO_RERANKING=True
+```
+
+With `True`, Chroma retrieves 10 candidates, the local
+`BAAI/bge-reranker-v2-m3` cross-encoder scores each document's YAML metadata
+and body separately, and the three highest weighted results are sent to
+`gpt-4o-mini`. With `False`, BGE is not loaded; the three closest Chroma
+documents are sent directly. In both modes, YAML front matter is removed from
+the final answer context.
+
+Install the dependencies and run the interactive retriever from the
+`embeddings_script` directory:
+
+```powershell
+Set-Location embeddings_script
+..\venv\Scripts\python.exe -m pip install -r ..\requirements.txt
+..\venv\Scripts\python.exe retriever.py
+```
+
+The first run with reranking downloads the BGE model, so it requires internet
+access and additional disk space. Change `DO_RERANKING` to `False` when a
+local run should use Chroma retrieval only. `OPENAI_API_KEY` is still required
+in both modes for query embeddings and the final answer.
