@@ -31,6 +31,7 @@ EVALUATION_COLUMNS = [
     "reranking_answer",
     "answer_correct",
     "retrieved_documents",
+    "retrieved_filepaths",
     "correct_document_fetched",
     "input_prompt_tokens",
     "embedding_latency_seconds",

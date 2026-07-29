@@ -35,6 +35,7 @@ EVALUATION_COLUMNS = [
     "reranking_answer",
     "answer_correct",
     "retrieved_documents",
+    "retrieved_filepaths",
     "correct_document_fetched",
     "input_prompt_tokens",
     "embedding_latency_seconds",
@@ -128,15 +129,18 @@ def process_question(row, reranker):
     timings["total"] = time.perf_counter() - question_start
 
     document_names = []
+    document_paths = []
     for document in selected_documents:
         document_names.append(
             f"{document['filename']} (score={document['final_score']:.4f})"
         )
+        document_paths.append(document["filepath"])
 
     return {
         "reranking_answer": answer,
         "answer_correct": answer_matches(row["Answer"], answer),
         "retrieved_documents": " | ".join(document_names),
+        "retrieved_filepaths": " | ".join(document_paths),
         "correct_document_fetched": document_was_fetched(
             row["Document"], selected_documents
         ),
