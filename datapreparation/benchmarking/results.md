@@ -127,3 +127,51 @@ Yes. From `data/infosys_rag_test_dataset_50_queries_without_reranking_results.cs
 That pipeline retrieves the top 10 Chroma candidates, calculates recall from those ranks, then sends Chroma’s top 3 directly to `gpt-4o-mini`.
 
 For reference, the top-25 reranking run reached Recall@3 **58%**, Recall@5 **64%**, and Recall@7 **64%**, but averaged **245.342 seconds/question**.
+
+# without reranking, with HyDE
+
+From `data/infosys_rag_test_dataset_50_queries_with_hyde_results.csv` (produced by `datapreparation/benchmarking/run_hyde_benchmark.py`, which imports retrieval and answering logic from `hyde_script/hyde_retriever.py`): 50/50 successful, no errors.
+
+| Metric | Without reranking + HyDE |
+|---|---:|
+| Successful questions | 50/50 |
+| Recall@3 | 20/50 — 40% |
+| Recall@5 | 21/50 — 42% |
+| Recall@7 | 23/50 — 46% |
+| Average total latency | 9.320 seconds/question |
+| Median total latency | 7.200 seconds |
+| Latency range | 4.095–29.591 seconds |
+| Total sequential runtime | ~7.77 minutes |
+
+This pipeline generates one hypothetical answer passage per question with `gpt-4o-mini`, embeds that passage instead of the raw question, retrieves the top 10 Chroma candidates with that embedding, calculates recall from those ranks, then sends the top 3 directly to `gpt-4o-mini` for the final answer — otherwise identical to the non-reranking pipeline above.
+
+Latency breakdown:
+
+```text
+Hypothetical document generation: 3.595 s average
+Embedding:                        0.835 s average
+Chroma retrieval:                 0.015 s average
+Context preparation:              0.024 s average
+LLM answer:                       4.848 s average
+```
+
+By source category, Recall@3 was:
+
+| Source | Recall@3 |
+|---|---:|
+| NSE ≤10 pages | 9/10 |
+| NSE >10 pages | 9/30 |
+| IR | 0/5 |
+| Trendlyne | 1/4 |
+| Yahoo Finance | 1/1 |
+
+Compared with the plain non-reranking baseline, single-pass HyDE **did not improve recall** on this test set: Recall@3 tied at **40% (20/50)**, Recall@5 fell from **50% (25/50)** to **42% (21/50)**, and Recall@7 fell from **54% (27/50)** to **46% (23/50)**.
+
+Two contributors, investigated directly:
+
+- **Query style mismatch.** This test set's questions are unusually entity-heavy — "Sentara partnership," "GlobalFoundries," "IHH Healthcare," "Everest Group's Adobe Services PEAK Matrix" — and the source documents are literal press releases and filings that repeat those same proper nouns. The raw question embedding already matches that vocabulary almost exactly. A generated hypothetical passage, even a well-written one, paraphrases and sometimes drops or genericizes those exact terms, which can move the query vector away from the literal match that would otherwise rank the correct document highly. HyDE was originally designed for underspecified queries with little vocabulary overlap with the answer; it has less to add when the question already contains the answer's key terms.
+- **Mislabeled source document.** `data/infosys_rag_test_dataset_50_queries.csv` has at least one row (id 2) where `source_document` repeats row 1's source file for an unrelated question ("Topaz Fabric" vs. "Sentara partnership") — a guaranteed recall miss for any retrieval method.
+
+During development, two alternative combination strategies were tested experimentally against a cached embedding sweep (not part of the shipped pipeline, since the goal here was to keep HyDE simple): averaging the HyDE and raw-question embeddings into one vector performed *worse* than the raw question alone at every blend weight tried (0.0 pure baseline scored highest at Recall@3 20/50, Recall@5 25/50; every weight above 0 was flat or lower). Reciprocal Rank Fusion of two independent Chroma queries (one on the raw question, one on the HyDE passage) scored the highest of everything tested — Recall@3 24/50 (48%), Recall@5 27/50 (54%), Recall@7 29/50 (58%) — because it lets the literal-question match stay intact when it's already strong, instead of diluting it with a single hallucinated passage. That fusion approach was not adopted here per project direction to keep this benchmark to simple, single-pass HyDE, but it's the concrete next step if HyDE recall needs to improve further without adding a reranker.
+
+The NSE >10 pages category remains the weakest for every pipeline tested (baseline 9/30, HyDE 9/30, reranking 15/30) — this looks like a chunking/indexing limitation (long reports split into many similarly-named `group_NNN.md` sections) rather than something a smarter query-side technique alone can fix.
