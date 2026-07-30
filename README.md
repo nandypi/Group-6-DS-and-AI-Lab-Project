@@ -1,3 +1,15 @@
+# Imp MD files for reference (keep adding when u create a new md file for documentation purpose)
+
+Markdown files outside `data/`:
+
+- `PIPELINE.md`
+- `README.md`
+- `datapreparation/benchmarking/reranking_knowledge.md`
+- `datapreparation/benchmarking/results.md`
+- `datapreparation/data_preparation_readme.md`
+- `embeddings_script/rag_pipeline_README.md`
+- `sample-input-output/reranking-tests.md`
+
 # Public Update Analyser
 
 Public Update Analyser (PUA) prepares public Infosys information for an
