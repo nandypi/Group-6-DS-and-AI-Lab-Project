@@ -60,7 +60,15 @@ We, the undersigned team members, confirm that:
 
 ## Milestone 4
 
-*To be updated.*
+| Team Member | Contribution |
+|-------------|--------------|
+| **Shubham Gattani** | I improved the RAG system by adding an optional BGE cross-encoder reranking feature with separate scoring for metadata and document content. Also made both retrieval modes work independently, with or without reranking. I also added detailed latency logging to measure the time taken by each pipeline stage. I created benchmark workflows to compare retrieval performance and saved the results in separate CSV files. In addition, we set up a RAGAS evaluation workspace, generated reference answers, prepared evaluation files, and completed RAGAS scoring for all 50 no-reranking questions to measure the system's answer quality and retrieval performance. |
+| **Gurram Sai Sri Ram Hruthik** | Prepared a benchmark dataset comprising 50 evaluation questions for assessing the RAG system. Explored and implemented HyDE (Hypothetical Document Embeddings) as an alternative retrieval strategy for the RAG system. Prepared the Milestone 4 presentation in accordance with the specified project requirements. |
+| **Shubhashish Biswas** |Made a version / alternative on the evaluation module (using RAGAS) with 30 eval questions.⁠Reviewed the overall application for code stability and structure alignment to usage of suggested parts (e.g. RAGAS, hyde, re-ranking) |
+| **NandanReddy Parnapalli** | Contributed to deployment planning by exploring application deployment strategies and preparing the project for deployment. Reviewed the project documentation and implementation, provided feedback during discussions, and verified the Milestone 4 deliverables before submission. |
+| **Akbar Ali** | Explored BM25 lexical retrieval and evaluated its performance against the existing vector retrieval approach in ChromaDB. Investigated exact vector search as an alternative to HNSW for our relatively small document corpus, prioritizing retrieval accuracy over approximate nearest-neighbor search.Implemented a hybrid retrieval pipeline (BM25 + exact vector search) to combine lexical and semantic retrieval, aiming to improve answer quality and retrieval accuracy for finance-related queries. |
+
+
 
 ---
 

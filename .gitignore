@@ -4,3 +4,6 @@ temp
 .codexignore
 review/
 AGENTS*
+chroma_db/
+RAGAS/python313/
+RAGAS/*.exe
