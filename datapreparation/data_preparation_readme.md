@@ -32,12 +32,9 @@ The final NSE source documents are split into these folders:
   and `review` groups.
 - `data-preprocessing/copy_review_decision_files.py` copies GPT-reviewed files
   into the final categorisation folders.
-- `run-whole-doc-prompt-on-demo-bot.py` cleans the demo Markdown documents.
-- `run-whole-doc-prompt-on-all-docs.py` cleans all final NSE documents with 10
-  pages or fewer.
-- `run-section-prompt-on-all-docs.py` cleans grouped sections from documents
-  longer than 10 pages.
 - `sectioner/` contains the sectioning and grouping modules.
+- `benchmarking/` contains the reproducible RAG benchmark runners and analysis
+  utility described below.
 
 ## Final NSE Source Set
 
@@ -71,23 +68,10 @@ Documents with 10 pages or fewer are cleaned with:
 - Input: `data/nse_files_final/categorisation_by_pages/equal_or_less_than_10_pages`
 - Output: `data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages`
 
-Run all eligible documents from the repository root:
-
-```powershell
-.\venv\Scripts\python.exe datapreparation\run-whole-doc-prompt-on-all-docs.py
-```
-
-Run one document only:
-
-```powershell
-.\venv\Scripts\python.exe datapreparation\run-whole-doc-prompt-on-all-docs.py --file example.md
-```
-
-The script uses the official Codex Python SDK with ChatGPT authentication. It
-uses medium reasoning effort, validates Markdown output, retries an invalid
-response once, and skips valid existing output files so a run can resume.
-
-Use `--overwrite` only when every existing output should be regenerated.
+The batch-cleaning runner used for this historical step is not currently stored
+under `datapreparation/`. The documented output folder is therefore the
+reproducible input to the current indexing and benchmark workflows. Restore the
+archived cleaning runner before attempting to regenerate this output.
 
 ## Infosys Investor-Relations Documents
 
@@ -182,23 +166,105 @@ Grouped sections are cleaned with:
 - Input: `data/nse_files_final/knowledge_extraction/greater_than_10_pages/sectioned_files`
 - Output: `data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files`
 
-Run all grouped sections:
+The batch section-cleaning runner used for this historical step is not currently
+stored under `datapreparation/`. The cleaned-section output is the reproducible
+input to the current indexing and benchmark workflows. Restore the archived
+cleaning runner before attempting to regenerate it.
+
+## RAG Benchmarking and Reproducibility
+
+The benchmark scripts are in `datapreparation/benchmarking/`. They use the
+indexed Chroma collection in `chroma_db/`, the OpenAI embedding model and answer
+model configured in `embeddings_script/retriever.py`, and the environment values
+loaded from the repository `.env` file. Do not commit the `.env` file.
+
+Before any benchmark run:
+
+1. Activate the project virtual environment.
+2. Ensure `chroma_db/` was built from the current cleaned source documents. A
+   benchmark is only comparable with another run that uses the same indexed
+   collection.
+3. Ensure the `.env` file contains a valid OpenAI API key and the intended
+   `COLLECTION_NAME`.
+4. Set `DO_RERANKING` to the mode required by the runner. Each runner refuses
+   to start if the setting is incorrect.
+
+### Chroma-Only 50-Question Benchmark
+
+Use this runner to measure the original Chroma order without BGE reranking:
 
 ```powershell
-.\venv\Scripts\python.exe datapreparation\run-section-prompt-on-all-docs.py
+.\venv\Scripts\python.exe datapreparation\benchmarking\run_without_reranking_benchmark.py
 ```
 
-Run one source-document folder only:
+Set `DO_RERANKING=False` before running it. The input file is
+`data/infosys_rag_test_dataset_50_queries.csv`. It must contain exactly 50 rows
+and these columns:
+
+```text
+id, query, source_category, source_document
+```
+
+The runner never changes that input. It writes all results to the separate file
+`data/infosys_rag_test_dataset_50_queries_without_reranking_results.csv` and
+saves it after every completed question. The output retains the four input
+columns and adds:
+
+- `llm_answer`
+- `retrieved_documents_top_10` and `retrieved_filepaths_top_10`
+- `llm_context_filepaths_top_3`
+- `recall@3`, `recall@5`, and `recall@7`
+- input-token count, per-stage latency, total latency, status, and error fields
+
+For every question, the runner embeds the query and retrieves ten Chroma
+candidates. Recall is a per-row `True` or `False` check that the expected
+`source_document` appears in ranks 1-3, 1-5, or 1-7, respectively. It sends
+only the original ranks 1-3 to `gpt-4o-mini`; it does not load or call the BGE
+reranker.
+
+The full filepath is logged for every top-10 candidate. This is important for
+long-document section files named `group_001.md`, `group_002.md`, and so on:
+their basenames can repeat under different source-document folders. For an
+unambiguous recall metric, the input `source_document` should be a unique
+filename. If the expected source is a repeated `group_xxx.md` filename, add an
+expected full filepath to the dataset and update the matching rule before using
+the resulting recall values.
+
+The runner supports small reproducibility trials and continuation runs:
 
 ```powershell
-.\venv\Scripts\python.exe datapreparation\run-section-prompt-on-all-docs.py `
-  --folder Infosys_02072025225219_SEfiling_AGMtranscript_2025
+# Process only questions 1 and 2.
+.\venv\Scripts\python.exe datapreparation\benchmarking\run_without_reranking_benchmark.py --limit 2
+
+# Preserve completed output rows and process questions 3 through 50.
+.\venv\Scripts\python.exe datapreparation\benchmarking\run_without_reranking_benchmark.py --start 3 --limit 48
 ```
 
-The section-cleaning script preserves each input section's original YAML block,
-adds a generated YAML block with section metadata, validates both blocks, uses
-medium reasoning effort, retries an invalid response once, and resumes by
-skipping valid existing outputs.
+The runner matches existing output rows by `id` before a continuation run. To
+repeat an experiment from scratch, use a new output filename or remove the old
+results CSV manually before starting.
+
+### Recall-Only BGE Reranking Benchmark
+
+Use `run_reranking_recall_benchmark.py` to compare BGE reranking without an
+answer-model call. It reads the current 50-question input CSV, retrieves and
+reranks 25 Chroma candidates per question, and records the reranked Recall@3,
+Recall@5, and Recall@7 values.
+
+```powershell
+.\venv\Scripts\python.exe datapreparation\benchmarking\run_reranking_recall_benchmark.py
+```
+
+Set `DO_RERANKING=True`. The runner does not call `gpt-4o-mini`, build an LLM
+context, or write an answer. Its independent output is
+`data/infosys_rag_test_dataset_50_queries_with_reranking_top_25_recall_results.csv`.
+For each row, it logs all 25 reranked filenames, full paths, combined BGE
+scores, Recall@3/5/7 flags, embedding latency, Chroma latency, reranking
+latency, total latency, and status/error fields.
+
+Because the candidate count changed from 10 to 25, do not compare or append to
+the earlier 10-candidate reranking-recall CSV. Use this new output file for the
+25-candidate experiment.
 
 ## Supplementary Market Sources
 

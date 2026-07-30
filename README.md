@@ -1,3 +1,15 @@
+# Imp MD files for reference (keep adding when u create a new md file for documentation purpose)
+
+Markdown files outside `data/`:
+
+- `PIPELINE.md`
+- `README.md`
+- `datapreparation/benchmarking/reranking_knowledge.md`
+- `datapreparation/benchmarking/results.md`
+- `datapreparation/data_preparation_readme.md`
+- `embeddings_script/rag_pipeline_README.md`
+- `sample-input-output/reranking-tests.md`
+
 # Public Update Analyser
 
 Public Update Analyser (PUA) prepares public Infosys information for an
@@ -81,8 +93,7 @@ Group-6-DS-and-AI-Lab-Project/
 |   +-- data-preprocessing/                      # NSE conversion and filtering
 |   +-- download_data/                           # NSE download notebooks
 |   +-- sectioner/                               # Long-document sectioning tools
-|   +-- run-whole-doc-prompt-on-all-docs.py
-|   +-- run-section-prompt-on-all-docs.py
+|   +-- benchmarking/                            # Chroma-only and BGE benchmark runners
 |   +-- data_preparation_readme.md
 +-- metadata/                                    # Review decisions and metadata
 +-- prompts/
@@ -105,19 +116,19 @@ Group-6-DS-and-AI-Lab-Project/
 - [Data preparation guide](datapreparation/data_preparation_readme.md) gives
   the detailed paths, scripts, prompts, and commands.
 
-## Key Scripts
+## Current Script Entry Points
 
 Run commands from the repository root with the project virtual environment.
 
 ```powershell
-.\venv\Scripts\python.exe datapreparation\run-whole-doc-prompt-on-all-docs.py
-.\venv\Scripts\python.exe datapreparation\run-section-prompt-on-all-docs.py
+Set-Location embeddings_script
+..\venv\Scripts\python.exe index_documents.py
+..\venv\Scripts\python.exe retriever.py
 ```
 
-The first command cleans eligible NSE documents with 10 pages or fewer. The
-second command cleans all grouped sections from longer NSE documents. See the
-data-preparation guide for sectioning, grouping, single-file, and single-folder
-commands.
+Run the benchmark runners from the repository root instead. The earlier batch
+cleaning runners are archived and are not current entry points. See the data
+preparation guide for the cleaned-data locations and benchmark commands.
 
 ## Embeddings and Retrieval
 
@@ -159,6 +170,68 @@ Set-Location embeddings_script
 `data/trendlyne/clean-mds`, the Infosys investor-relations clean-Markdown
 folder, the cleaned NSE whole-document folder, and the recursively scanned
 cleaned NSE section folder. `token_counter.py` writes the exact counts to
-`embeddings_script/token_counts.json`. `retriever.py` retrieves the three
-nearest documents and uses `gpt-4o-mini` to answer only from that retrieved
-context.
+`embeddings_script/token_counts.json`.
+
+## Optional BGE Re-ranking
+
+`retriever.py` supports two selectable retrieval pipelines. Set
+`DO_RERANKING` in the repository-root `.env` file before starting the script:
+
+```text
+DO_RERANKING=True
+```
+
+With `True`, Chroma retrieves 25 candidates by default, the local
+`BAAI/bge-reranker-v2-m3` cross-encoder scores each document's YAML metadata
+and body separately, and combines the scores as
+`0.8 * body_score + 0.2 * metadata_score`. The three highest weighted results
+are sent to `gpt-4o-mini`. With `False`, BGE is not loaded; the three closest Chroma
+documents are sent directly. In both modes, YAML front matter is removed from
+the final answer context.
+
+Set `RERANKING_RETRIEVAL_TOP_K=25` explicitly when recording an experiment;
+25 is the default. Chroma stores both a display filename and a complete
+filepath, so retrieved `group_xxx.md` section files can be traced back to their
+source-document folder.
+
+Each question also prints latency for the embedding call, Chroma retrieval,
+the selected branch (BGE reranking or direct selection), context preparation,
+the LLM request, and total question latency. This makes it easy to compare
+the same questions with `DO_RERANKING=True` and `DO_RERANKING=False`.
+
+Install the dependencies and run the interactive retriever from the
+`embeddings_script` directory:
+
+```powershell
+Set-Location embeddings_script
+..\venv\Scripts\python.exe -m pip install -r ..\requirements.txt
+..\venv\Scripts\python.exe retriever.py
+```
+
+The first run with reranking downloads the BGE model, so it requires internet
+access and additional disk space. Change `DO_RERANKING` to `False` when a
+local run should use Chroma retrieval only. `OPENAI_API_KEY` is still required
+in both modes for query embeddings and the final answer.
+
+## Benchmarking Retrieval
+
+The 50-question benchmark input is
+`data/infosys_rag_test_dataset_50_queries.csv`. It contains the question and
+expected source filename. Benchmark runners keep this file unchanged and write
+separate result CSVs after every question.
+
+- Chroma-only benchmark:
+  `datapreparation/benchmarking/run_without_reranking_benchmark.py`
+  retrieves 10 candidates, records Recall@3/5/7, sends the top 3 to
+  `gpt-4o-mini`, and writes
+  `data/infosys_rag_test_dataset_50_queries_without_reranking_results.csv`.
+- Recall-only BGE benchmark:
+  `datapreparation/benchmarking/run_reranking_recall_benchmark.py`
+  retrieves and reranks 25 candidates, records Recall@3/5/7 and full paths,
+  does not call `gpt-4o-mini`, and writes
+  `data/infosys_rag_test_dataset_50_queries_with_reranking_top_25_recall_results.csv`.
+
+Run either benchmark from the repository root. Set `DO_RERANKING=False` for
+the Chroma-only runner and `DO_RERANKING=True` for the BGE runner. See the
+[data preparation guide](datapreparation/data_preparation_readme.md) for the
+exact commands and resume options.
