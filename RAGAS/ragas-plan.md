@@ -79,3 +79,10 @@ It will also explain that RAGAS is an LLM-based judge, so scores are useful comp
 - Ran the grounded-answer generator with Codex using `gpt-5.5` and medium reasoning effort.
 - Created `RAGAS/grounded_source_answers.csv` with 50 successful rows, zero errors, full source paths, generated grounded answers, and per-question latency.
 - The generated answers are drafts for review before they are copied into `reference_answers_template.csv` and used for RAGAS scoring.
+- RAGAS 0.2.15 failed in the original Python 3.14 environment because its asynchronous runtime is not compatible with Python 3.14. The latest RAGAS version was also not usable because its `scikit-network` dependency required Microsoft C++ Build Tools on this Windows machine.
+- Solved this by installing Python 3.13.14 only under `RAGAS/python313` and creating `RAGAS/.venv` from it. All project packages, including RAGAS 0.2.15, are installed only in that isolated environment; `pip check` found no conflicts.
+- Updated `RAGAS/README.md` so all RAGAS commands use the isolated `RAGAS/.venv` environment.
+- Verified the RAGAS imports and ran the five local file-handling tests in the isolated environment; all tests passed.
+- Ran a two-question live RAGAS smoke test against the saved no-reranking answers. Both rows completed successfully and were saved in `RAGAS/no_reranking_ragas_results.csv` with no failed rows.
+- Completed the remaining 48 no-reranking evaluations. All 50 rows finished successfully; the final summary reports faithfulness `0.8101`, answer relevancy `0.6655`, context precision `0.9117`, and context recall `0.7769`.
+- Updated the evaluator to use UTF-8 output on Windows so questions with non-ASCII characters do not stop a background run. The summary also ignores unavailable (`nan`) metric values; one context-recall value was unavailable and is excluded from its average.

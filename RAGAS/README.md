@@ -25,12 +25,14 @@ for human review.
 
 ## Run locally
 
-From the project root, activate the existing environment and install all app
+From the project root, use the isolated RAGAS environment and install all app
 dependencies. `requirements.txt` is intentionally kept at the project root.
+The isolated environment uses Python 3.13; RAGAS 0.2.15 is not compatible
+with Python 3.14's asynchronous runtime.
 
 ```powershell
-.\venv\Scripts\Activate.ps1
-.\venv\Scripts\python.exe -m pip install -r requirements.txt
+.\RAGAS\.venv\Scripts\Activate.ps1
+.\RAGAS\.venv\Scripts\python.exe -m pip install -r requirements.txt
 ```
 
 ## Generate grounded reference-answer drafts
@@ -42,13 +44,20 @@ a draft answer. It uses the existing ChatGPT-authenticated Codex SDK with
 Check all source paths without calling Codex:
 
 ```powershell
-.\venv\Scripts\python.exe RAGAS\generate_grounded_source_answers.py --dry-run
+.\RAGAS\.venv\Scripts\python.exe RAGAS\generate_grounded_source_answers.py --dry-run
 ```
 
 Generate drafts for all 50 questions:
 
 ```powershell
-.\venv\Scripts\python.exe RAGAS\generate_grounded_source_answers.py
+.\RAGAS\.venv\Scripts\python.exe RAGAS\generate_grounded_source_answers.py
+```
+
+After reviewing the generated answers, copy them into currently blank template
+cells. This leaves any non-blank, manually revised reference answer unchanged:
+
+```powershell
+.\RAGAS\.venv\Scripts\python.exe RAGAS\copy_grounded_answers_to_reference_template.py
 ```
 
 The script saves `RAGAS/grounded_source_answers.csv` after every question. It
@@ -60,7 +69,7 @@ reviewed rather than copied automatically.
 Create the manual reference-answer sheet:
 
 ```powershell
-.\venv\Scripts\python.exe RAGAS\generate_reference_template.py
+.\RAGAS\.venv\Scripts\python.exe RAGAS\generate_reference_template.py
 ```
 
 Open `RAGAS/reference_answers_template.csv` and fill every
@@ -70,13 +79,13 @@ the `id` values.
 Run a two-question check first:
 
 ```powershell
-.\venv\Scripts\python.exe RAGAS\run_ragas_evaluation.py --limit 2
+.\RAGAS\.venv\Scripts\python.exe RAGAS\run_ragas_evaluation.py --limit 2
 ```
 
 Then continue until all unanswered rows are evaluated:
 
 ```powershell
-.\venv\Scripts\python.exe RAGAS\run_ragas_evaluation.py
+.\RAGAS\.venv\Scripts\python.exe RAGAS\run_ragas_evaluation.py
 ```
 
 The evaluator saves after every question. Re-running the same command skips
@@ -105,7 +114,7 @@ The evaluator accepts an alternate result CSV when a future reranking benchmark
 also stores `query`, `llm_answer`, and `llm_context_filepaths_top_3` columns:
 
 ```powershell
-.\venv\Scripts\python.exe RAGAS\run_ragas_evaluation.py `
+.\RAGAS\.venv\Scripts\python.exe RAGAS\run_ragas_evaluation.py `
   --answers-file path\to\future_results.csv `
   --output-file RAGAS\future_ragas_results.csv `
   --summary-file RAGAS\future_ragas_summary.md

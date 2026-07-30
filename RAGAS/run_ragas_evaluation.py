@@ -17,6 +17,7 @@ any future result CSV with the same answer and context-path columns.
 
 import argparse
 import csv
+import math
 import os
 import sys
 from pathlib import Path
@@ -232,13 +233,14 @@ def write_rows(rows, output_file):
 def number_or_none(value):
     """Convert one stored metric to a number, or return None for blanks.
 
-    Example: ``'0.82'`` becomes ``0.82`` and an empty cell becomes ``None``.
-    This lets the summary ignore rows that were not successfully evaluated.
+    Example: ``'0.82'`` becomes ``0.82`` and an empty or ``nan`` cell becomes
+    ``None``. This lets the summary ignore unavailable metric values.
     """
     try:
-        return float(value)
+        number = float(value)
     except (TypeError, ValueError):
         return None
+    return number if math.isfinite(number) else None
 
 
 def write_summary(rows, answers_file, references_file, summary_file):
@@ -320,6 +322,9 @@ def main():
     Example: ``python RAGAS/run_ragas_evaluation.py --limit 2`` evaluates two
     rows after the manual reference-answer sheet has been completed.
     """
+    # Windows log files must keep every question character, not just cp1252.
+    sys.stdout.reconfigure(encoding="utf-8")
+    sys.stderr.reconfigure(encoding="utf-8")
     arguments = read_arguments()
     load_dotenv(PROJECT_ROOT / ".env")
     if not os.getenv("OPENAI_API_KEY"):
