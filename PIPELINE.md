@@ -72,7 +72,7 @@ and figures while removing filing wrappers, conversion noise, and other
 non-substantive formatting.
 
 - Prompt: `prompts/KE-prompts-for-nse-docs/KE-whole-document-prompt-v6.md`
-- Script: `datapreparation/run-whole-doc-prompt-on-all-docs.py`
+- Historical runner: `datapreparation/run-whole-doc-prompt-on-all-docs.py`
 - Input:
   `data/nse_files_final/categorisation_by_pages/equal_or_less_than_10_pages`
 - Output:
@@ -102,7 +102,7 @@ estimated page-range metadata.
 The grouped sections are cleaned with the v1 section prompt.
 
 - Prompt: `prompts/KE-prompts-for-nse-docs/KE-section-prompt-v1.md`
-- Script: `datapreparation/run-section-prompt-on-all-docs.py`
+- Historical runner: `datapreparation/run-section-prompt-on-all-docs.py`
 - Cleaned-section output:
   `data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files`
 
@@ -206,3 +206,40 @@ Set-Location embeddings_script
 ..\venv\Scripts\python.exe search.py
 ..\venv\Scripts\python.exe retriever.py
 ```
+
+## Current Retrieval, Re-ranking, and Benchmark Flow
+
+The current retrieval flow indexes cleaned Markdown from five sources: NSE
+whole documents, NSE grouped sections, Infosys investor-relations documents,
+Trendlyne, and yfinance. Each Markdown file is one Chroma document with a
+filename and a complete relative filepath.
+
+For an interactive question, `embeddings_script/retriever.py` creates an
+OpenAI query embedding and then follows the mode set by `DO_RERANKING`:
+
+- `False`: retrieve the three closest Chroma documents and send their bodies
+  to `gpt-4o-mini`.
+- `True`: retrieve 25 Chroma candidates, score their YAML metadata and bodies
+  separately with `BAAI/bge-reranker-v2-m3`, calculate
+  `0.8 * body_score + 0.2 * metadata_score`, and send only the final top three
+  bodies to `gpt-4o-mini`.
+
+YAML metadata and scores are not included in the final answer context. The
+default reranking candidate count is 25. Record
+`RERANKING_RETRIEVAL_TOP_K=25` explicitly in `.env` when running an experiment.
+
+### Recall Evaluation
+
+`data/infosys_rag_test_dataset_50_queries.csv` is the 50-question benchmark
+input. It remains unchanged during runs.
+
+- `datapreparation/benchmarking/run_without_reranking_benchmark.py` retrieves
+  10 Chroma candidates, measures Recall@3/5/7, sends ranks 1-3 to the answer
+  model, and writes a separate Chroma-only results CSV.
+- `datapreparation/benchmarking/run_reranking_recall_benchmark.py` retrieves
+  and reranks 25 candidates, measures Recall@3/5/7 on the reranked order, and
+  writes a separate results CSV without calling `gpt-4o-mini`.
+
+Both runners save after every question and accept `--start` and `--limit` for
+resuming. They log complete filepaths because generic names such as
+`group_001.md` can occur in more than one source-document folder.

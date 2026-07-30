@@ -1,4 +1,36 @@
-# Can chromaDB have multiple docs by name group_xx.md but their source docs are completely different?
+# RAG Retrieval, Re-ranking, and Source Paths
+
+## Current pipeline
+
+The system indexes cleaned Markdown from five sources: NSE whole documents,
+NSE grouped sections, Infosys investor-relations documents, Trendlyne, and
+yfinance. Chroma stores one vector per Markdown file with both its filename and
+complete relative filepath.
+
+For each question, OpenAI creates a query embedding and Chroma retrieves
+candidates. The pipeline mode is controlled by `DO_RERANKING`:
+
+- `False`: use Chroma's closest three documents directly.
+- `True`: retrieve 25 candidates, use `BAAI/bge-reranker-v2-m3` to score YAML
+  metadata and body independently, combine them with
+  `0.8 * body_score + 0.2 * metadata_score`, and select the top three.
+
+Only document bodies are passed to `gpt-4o-mini`; YAML metadata and scores are
+not part of the answer prompt. The default reranking candidate count is 25 and
+can be recorded explicitly with `RERANKING_RETRIEVAL_TOP_K=25` in `.env`.
+
+For retrieval-quality evaluation, the recall-only benchmark retrieves and
+reranks 25 candidates, records Recall@3/5/7 and full paths, and does not call
+the answer model. Run it from the repository root with:
+
+```powershell
+.\venv\Scripts\python.exe datapreparation\benchmarking\run_reranking_recall_benchmark.py
+```
+
+Set `DO_RERANKING=True`. Its results are written to
+`data/infosys_rag_test_dataset_50_queries_with_reranking_top_25_recall_results.csv`.
+
+## Why can Chroma have multiple files named group_xx.md?
 
 Yes, Chroma supports this correctly.
 
@@ -79,16 +111,17 @@ into `retrieved_documents`, replacing only the ambiguous `group_xxx.md`
 basenames. The original scores and all answer and latency results were left
 unchanged.
 
-For future benchmark runs, `datapreparation/run_reranking_benchmark.py`
-records two separate fields from the start:
+For current recall-only benchmark runs,
+`datapreparation/benchmarking/run_reranking_recall_benchmark.py` records two
+separate fields from the start:
 
-- `retrieved_documents`: selected filename plus final reranking score.
-- `retrieved_filepaths`: complete indexed source path for each selected
-  document.
+- `reranked_documents_top_25`: reranked filename plus final score for each
+  candidate.
+- `reranked_filepaths_top_25`: complete indexed source path for each candidate.
 
-This means a future result can be traced to its source document directly,
-without any recovery retrieval or reranking step. The historic CSV is now
-also traceable for every row that contained a `group_xxx.md` filename.
+This means a current result can be traced to its source document directly. The
+historic CSV is also traceable for every row that contained a `group_xxx.md`
+filename.
 
 The detailed reports are:
 
