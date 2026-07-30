@@ -1,6 +1,6 @@
 """Run an interactive Chroma search with an optional BGE reranking branch.
 
-Flow when ``DO_RERANKING=True``: receive a question -> embed it -> retrieve 10
+Flow when ``DO_RERANKING=True``: receive a question -> embed it -> retrieve 25
 candidates -> score metadata and body separately -> select the three highest
 weighted scores -> ask ``gpt-4o-mini`` using their complete bodies.
 
@@ -30,7 +30,7 @@ CHROMA_DB_PATH = "./chroma_db"
 COLLECTION_NAME = os.getenv("COLLECTION_NAME", "finance_file_embeddings")
 EMBEDDING_MODEL = "text-embedding-3-small"
 LLM_MODEL = "gpt-4o-mini"
-RETRIEVAL_TOP_K = int(os.getenv("RETRIEVAL_TOP_K", "10"))
+RERANKING_RETRIEVAL_TOP_K = int(os.getenv("RERANKING_RETRIEVAL_TOP_K", "25"))
 FINAL_DOCUMENT_COUNT = int(os.getenv("FINAL_DOCUMENT_COUNT", "3"))
 METADATA_WEIGHT = float(os.getenv("METADATA_WEIGHT", "0.2"))
 BODY_WEIGHT = float(os.getenv("BODY_WEIGHT", "0.8"))
@@ -81,11 +81,13 @@ def get_embedding(text):
 def retrieve(question, timings=None):
     """Return candidates for the configured pipeline.
 
-    Reranking retrieves ten candidates; the separate non-reranked pipeline
+    Reranking retrieves 25 candidates; the separate non-reranked pipeline
     retrieves only the original three Chroma results.
     """
     _, chroma_collection = get_clients()
-    candidate_count = RETRIEVAL_TOP_K if DO_RERANKING else FINAL_DOCUMENT_COUNT
+    candidate_count = (
+        RERANKING_RETRIEVAL_TOP_K if DO_RERANKING else FINAL_DOCUMENT_COUNT
+    )
     embedding_start = time.perf_counter()
     query_embedding = get_embedding(question)
     if timings is not None:
@@ -101,12 +103,12 @@ def retrieve(question, timings=None):
     return results
 
 
-def rerank_results(results, question, reranker):
+def rerank_results(results, question, reranker, document_count=None):
     """Return distinct candidates sorted by weighted BGE relevance.
 
-    Called after Chroma retrieval. Example: ten candidates become at most three
-    records, each retaining its complete body for the final prompt and scores
-    for terminal logging.
+    Called after Chroma retrieval. Example: 25 candidates become at most three
+    records for the answer pipeline. A recall benchmark can pass
+    ``document_count=25`` to retain every reranked candidate for Recall@k.
     """
     documents = results.get("documents", [[]])[0]
     metadatas = results.get("metadatas", [[]])[0]
@@ -128,7 +130,9 @@ def rerank_results(results, question, reranker):
         ranked.append(scores)
 
     ranked.sort(key=lambda item: item["final_score"], reverse=True)
-    return ranked[:FINAL_DOCUMENT_COUNT]
+    if document_count is None:
+        document_count = FINAL_DOCUMENT_COUNT
+    return ranked[:document_count]
 
 
 def select_without_reranking(results):
