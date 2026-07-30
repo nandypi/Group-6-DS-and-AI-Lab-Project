@@ -45,6 +45,73 @@ By source category, Recall@3 was:
 
 Compared with the saved non-reranking benchmark, Recall@3 rose from **40% (20/50)** to **58% (29/50)**. This is directional rather than a perfectly controlled comparison, because non-reranking searched top 10 whereas this reranking run retrieved top 25 before ranking them.
 
+## meaning of last 2 lines:
+
+```text
+-Seven were retrieved by Chroma in the top 25 but not promoted into the top 7.
+- Eleven were not in Chroma’s top 25 at all, so reranking could not recover them
+```
+
+For each question, we know the expected source document from the test CSV.
+
+The flow is:
+
+```text
+Expected source document
+        ↓
+Chroma retrieves 25 candidates
+        ↓
+BGE reranks those same 25 candidates
+        ↓
+We check whether the expected source is in ranks 3, 5, or 7
+```
+
+So:
+
+- **7 questions: source was in Chroma’s initial top 25, but BGE placed it between ranks 8 and 25.**
+  The correct document was available to the reranker, but its body/metadata score was not high enough to enter the top 7.
+
+- **11 questions: source was absent from the 25 candidates Chroma returned.**
+  BGE never saw the expected document for those questions. A reranker only changes the order of retrieved candidates; it cannot introduce a document outside Chroma’s top-25 shortlist.
+
+For example:
+
+```text
+Expected source: FY26-Q1-earningscall.md
+
+Chroma top 25:
+1. annual-report.md
+2. q4-results.md
+...
+25. another-document.md
+
+→ Expected source absent
+→ BGE has nothing to score for FY26-Q1-earningscall.md
+→ It cannot be moved into the final top 3/5/7
+```
+
+Whereas, for the first case:
+
+```text
+Chroma top 25 includes:
+...
+12. expected-source.md
+...
+
+After BGE reranking:
+...
+10. expected-source.md
+
+→ Chroma found it
+→ BGE considered it
+→ But it still did not rank within the top 7
+```
+
+This distinction helps diagnose the next improvement:
+
+- **Absent from top 25** → improve initial retrieval/indexing/query representation.
+- **Present in top 25 but low after reranking** → investigate BGE scoring, body length/truncation, metadata weighting, or whether the CSV’s expected source is the only valid answer source.
+
 # without reranking
 
 Yes. From `data/infosys_rag_test_dataset_50_queries_without_reranking_results.csv`:
