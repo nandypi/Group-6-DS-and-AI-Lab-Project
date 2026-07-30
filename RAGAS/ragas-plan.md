@@ -62,3 +62,20 @@ It will also explain that RAGAS is an LLM-based judge, so scores are useful comp
 - Reference answers will be entered manually in the generated CSV template.
 - `gpt-4o-mini` is the RAGAS evaluator model; the existing OpenAI API key from `.env` is used but never printed.
 - Future reranking answer-quality comparison requires a separate reranking benchmark that generates answers and records its final context paths.
+
+# Actual implementation
+
+- Added RAGAS and its compatible LangChain dependencies to the root `requirements.txt` and installed them in the existing virtual environment.
+- Created `RAGAS/generate_reference_template.py` to create a separate 50-row reference-answer template without changing the original benchmark CSV.
+- Generated `RAGAS/reference_answers_template.csv` with the question, expected source document, and a blank `reference_answer` column for human-approved answers.
+- Created `RAGAS/run_ragas_evaluation.py` to evaluate saved no-reranking answers without running Chroma, BGE reranking, or answer generation again.
+- Configured the evaluator to reconstruct the saved top-three source contexts, remove YAML front matter, and score faithfulness, answer relevancy, context precision, and context recall with `gpt-4o-mini`.
+- Made the evaluator resumable: it saves results after every row, skips successful rows on a later run, and records row-level errors.
+- Added `RAGAS/README.md` with the installation, reference-answer, and evaluation workflow.
+- Added local tests for template creation, blank and duplicate reference answers, YAML removal, and summary generation; all five tests passed.
+- Saved the grounded-answer prompt in `RAGAS/prompt-to-generate-grounded-answers.md`.
+- Created `RAGAS/generate_grounded_source_answers.py` to resolve each expected source document, send its complete Markdown content with the saved prompt to Codex, and save a separate result CSV after every question.
+- Ran the new script's dry run across all 50 questions; every expected source path resolved uniquely, including the long-document `group_xxx.md` files.
+- Ran the grounded-answer generator with Codex using `gpt-5.5` and medium reasoning effort.
+- Created `RAGAS/grounded_source_answers.csv` with 50 successful rows, zero errors, full source paths, generated grounded answers, and per-question latency.
+- The generated answers are drafts for review before they are copied into `reference_answers_template.csv` and used for RAGAS scoring.

@@ -16,6 +16,8 @@ for human review.
 ## Files
 
 - `generate_reference_template.py`: creates the editable reference-answer CSV.
+- `generate_grounded_source_answers.py`: creates source-grounded answer drafts with Codex.
+- `prompt-to-generate-grounded-answers.md`: the prompt used for those drafts.
 - `reference_answers_template.csv`: the manually filled expected answers.
 - `run_ragas_evaluation.py`: evaluates saved answers and contexts with RAGAS.
 - `no_reranking_ragas_results.csv`: row-level RAGAS scores, created by the evaluator.
@@ -30,6 +32,30 @@ dependencies. `requirements.txt` is intentionally kept at the project root.
 .\venv\Scripts\Activate.ps1
 .\venv\Scripts\python.exe -m pip install -r requirements.txt
 ```
+
+## Generate grounded reference-answer drafts
+
+This optional step uses the expected source document for each question to make
+a draft answer. It uses the existing ChatGPT-authenticated Codex SDK with
+`gpt-5.5` and medium reasoning effort. It does not use the OpenAI API key.
+
+Check all source paths without calling Codex:
+
+```powershell
+.\venv\Scripts\python.exe RAGAS\generate_grounded_source_answers.py --dry-run
+```
+
+Generate drafts for all 50 questions:
+
+```powershell
+.\venv\Scripts\python.exe RAGAS\generate_grounded_source_answers.py
+```
+
+The script saves `RAGAS/grounded_source_answers.csv` after every question. It
+records the full source path, answer, latency, model settings, and any error.
+Review each generated answer before copying it into `reference_answer` in the
+reference-answer template. A generated `NOT_FOUND` value should also be
+reviewed rather than copied automatically.
 
 Create the manual reference-answer sheet:
 
