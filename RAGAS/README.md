@@ -3,7 +3,7 @@
 This folder evaluates answers already produced by the RAG pipeline. It does
 not run Chroma retrieval, BGE reranking, or answer generation again.
 
-RAGAS is an LLM-based evaluator. It uses `gpt-4o-mini` to score four things:
+RAGAS is an LLM-based evaluator. In our case, it uses `gpt-4o-mini` to score four things:
 
 - `faithfulness`: Is the saved answer supported by its retrieved context?
 - `answer_relevancy`: Does the saved answer address the question?
@@ -107,6 +107,48 @@ Reference answers are required for context precision and context recall. A
 blank or duplicate reference-answer row stops before RAGAS makes any OpenAI
 call. Missing source files and RAGAS failures are recorded per row, allowing
 the remaining questions to continue.
+
+## Results obtained for RAGAS
+
+The completed evaluation used the no-reranking pipeline results for 50 Infosys
+questions. It evaluated the saved answers against the saved top-3 retrieved
+contexts and manually prepared reference answers. The evaluator used
+`gpt-4o-mini`, and the pipeline used `text-embedding-3-small`.
+
+All 50 rows completed successfully, with 0 failed rows. RAGAS scores range
+from 0 to 1, where a higher score indicates better performance.
+
+| Metric | Average score | What it measures |
+| --- | ---: | --- |
+| Faithfulness | 0.8101 | Whether the answer is supported by the retrieved context |
+| Answer relevancy | 0.6655 | Whether the answer addresses the question |
+| Context precision | 0.9117 | Whether the retrieved context is useful and focused for the reference answer |
+| Context recall | 0.7769 | Whether the retrieved context contains the facts needed for the reference answer |
+
+The results indicate that the retrieved context was generally precise and that
+answers were mostly grounded in the available evidence. Answer relevancy was
+the weakest average metric, suggesting that some answers did not address the
+question as directly or completely as expected. The lower context recall also
+indicates that the top-three context limit can exclude information needed for
+some questions.
+
+The five lowest-scoring questions, ranked by their mean score across the four
+metrics, were:
+
+| Question ID | Mean score | Question |
+| ---: | ---: | --- |
+| 20 | 0.0000 | What are the four pillars of Infosys' long-term corporate strategy? |
+| 27 | 0.2500 | What percentage of Infosys' revenue comes from exports? |
+| 48 | 0.3750 | Which business segments and geographies were the key growth drivers for Infosys in Q4 FY26? |
+| 49 | 0.3750 | What are the key risks identified by analysts that could affect Infosys' future performance? |
+| 32 | 0.4583 | What acquisitions and strategic investments did Infosys complete during FY2026? |
+
+The complete row-level scores are available in
+`no_reranking_ragas_results.csv`. The aggregate values and lowest-scoring
+questions are also recorded in `no_reranking_ragas_summary.md`. These results
+are specific to the no-reranking benchmark and should not be treated as a
+comparison against the BGE-reranking pipeline, since a separate RAGAS run for
+that pipeline has not been completed.
 
 ## Evaluate a future answer-result CSV
 
