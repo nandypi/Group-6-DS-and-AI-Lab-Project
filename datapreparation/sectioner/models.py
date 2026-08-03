@@ -67,7 +67,7 @@ class ExtractionUnit:
         heading_path: Full heading path from top-level heading to leaf heading.
         page_start: First original PDF page represented by the text.
         page_end: Last original PDF page represented by the text.
-        estimated_tokens: Rough deterministic token estimate.
+        actual_tokens: Token count stored for the extraction unit.
         text: Exact Markdown text assembled from original blocks.
 
     Example:
@@ -78,5 +78,5 @@ class ExtractionUnit:
     heading_path: list[str]
     page_start: int
     page_end: int
-    estimated_tokens: int
+    actual_tokens: int
     text: str
