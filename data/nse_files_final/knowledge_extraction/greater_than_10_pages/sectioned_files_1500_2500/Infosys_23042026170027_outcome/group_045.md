@@ -1,0 +1,86 @@
+---
+document_name: "Infosys_23042026170027_outcome.md"
+group_id: "Infosys_23042026170027_outcome__group_045"
+source_section_count: 1
+actual_tokens: 2012
+source_section_ids:
+  - "Infosys_23042026170027_outcome__035"
+---
+
+## Operating Profits
+Operating profit of the Group is computed considering the revenues, net of cost of sales, selling and marketing expenses and administrative expenses.
+The table below provides details of break-up of expenses:
+## 2.19.1 Cost of sales
+|                                                              |              | March 31,    | (Dollars in millions)   | (Dollars in millions)   |
+|--------------------------------------------------------------|--------------|--------------|-------------------------|-------------------------|
+| Particulars                                                  | months ended | months ended | Year ended March 31,    | Year ended March 31,    |
+|                                                              | 2026         | 2025         | 2026                    | 2025                    |
+| Employee benefit costs                                       | 2,405        | 2,293        | 9,739                   | 9,151                   |
+| Depreciation and amortization*                               | 154          | 150          | 552                     | 569                     |
+| Travelling costs                                             | 37           | 41           | 150                     | 149                     |
+| Cost of technical sub-contractors                            | 430          | 379          | 1,740                   | 1,530                   |
+| Cost of software packages for own use                        | 77           | 72           | 301                     | 278                     |
+| Third party items bought for service delivery to clients     | 348          | 375          | 1,452                   | 1,589                   |
+| Consultancy and professional charges                         | 4            | (17)         | 4                       | 11                      |
+| Communication costs                                          | 8            | 7            | 35                      | 34                      |
+| Repairs and maintenance                                      | 18           | 15           | 70                      | 59                      |
+| Provision for post-sales client support and other provisions | (12)         | (26)         | (19)                    | (13)                    |
+| Others                                                       | 16           | 13           | 55                      | 48                      |
+| Total                                                        | 3,485        | 3,302        | 14,079                  | 13,405                  |
+
+* During the three months ended March 31, 2026 and March 31, 2025, a decline in the revenue estimates led to the carrying value of the customer related intangibles assets recognized on business combination exceeding the estimated recoverable amount. Consequently, the Company has recognized $26 million and $22 million for the three months ended March 31, 2026 and March 31, 2025, respectively, as the excess of carrying value over the estimated recoverable value.
+
+## 2.19.2 Selling and marketing expenses
+|                                      | Three months ended March   | 31,   | (Dollars in millions) Year ended March 31,   |   (Dollars in millions) Year ended March 31, |
+|--------------------------------------|----------------------------|-------|----------------------------------------------|----------------------------------------------|
+| Particulars                          | 2026                       | 2025  | 2026                                         |                                         2025 |
+| Employee benefit costs               | 191                        | 165   | 766                                          |                                          677 |
+| Travelling costs                     | 13                         | 12    | 56                                           |                                           48 |
+| Branding and marketing               | 39                         | 40    | 152                                          |                                          144 |
+| Consultancy and professional charges | 8                          | 6     | 32                                           |                                           19 |
+| Communication costs                  | -                          | -     | 2                                            |                                            1 |
+| Others                               | 5                          | 3     | 17                                           |                                            9 |
+| Total                                | 256                        | 226   | 1,025                                        |                                          898 |
+
+## 2.19.3 Administrative expenses
+|                                                                        | Three months ended   | Three months ended   | (Dollars in millions)   |   (Dollars in millions) |
+|------------------------------------------------------------------------|----------------------|----------------------|-------------------------|-------------------------|
+| Particulars                                                            | 2026                 | 2025 March 31,       | 2026 Year ended         |                    2025 |
+| Employee benefit costs                                                 | 90                   | 85                   | 377                     |                     337 |
+| Consultancy and professional charges                                   | 59                   | 46                   | 200                     |                     167 |
+| Repairs and maintenance                                                | 34                   | 30                   | 129                     |                     123 |
+| Power and fuel                                                         | 6                    | 6                    | 25                      |                      26 |
+| Communication costs                                                    | 7                    | 9                    | 32                      |                      38 |
+| Travelling costs                                                       | 8                    | 7                    | 31                      |                      27 |
+| Rates and taxes                                                        | 7                    | 9                    | 35                      |                      41 |
+| Insurance charges                                                      | 9                    | 8                    | 37                      |                      35 |
+| Commission to non-whole time directors                                 | 1                    | -                    | 2                       |                       2 |
+| Impairment loss recognized/(reversed) under expected credit loss model | (6)                  | (6)                  | 4                       |                       6 |
+| Contribution towards Corporate Social Responsibility                   | 19                   | 11                   | 70                      |                      69 |
+| Others (Refer Note 2.6.2)*                                             | 10                   | 5                    | 27                      |                      32 |
+| Total                                                                  | 244                  | 210                  | 969                     |                     903 |
+
+* Includes profit on sale of property, plant and equipment amounting $18 million for the year ended March 31, 2026.
+
+## 2.19.4 Impact of Labour Codes
+On November 21, 2025, the Government of India notified provisions of the Code on Wages, 2019, the Industrial Relations Code, 2020, the Code on Social Security, 2020 and the Occupational Safety, Health and Working Conditions Code, 2020, ('Labour Codes') which consolidate twenty-nine existing labour laws into a unified framework governing employee benefits during employment and post-employment. The Labour Codes, amongst other things introduces changes, including a uniform definition of wages and enhanced benefits relating to leave. The Group has assessed the financial implications of these changes which has resulted in increase in gratuity liability arising out of past service cost and increase in leave liability by $143 million which is recognized in the Consolidated Statement of Comprehensive Income for the year ended March 31, 2026. The Group continues to monitor the developments pertaining to Labour Codes and will evaluate impact if any on the measurement of the employee benefits liability.
+## 2.19.5 Other income, net:
+Other income for the three months and year ended March 31, 2026 and March 31, 2025 is as follows:
+|                                                                                              | Three months ended March 31,   | Three months ended March 31,   | (Dollars in millions) Year ended March 31,   | (Dollars in millions) Year ended March 31,   |
+|----------------------------------------------------------------------------------------------|--------------------------------|--------------------------------|----------------------------------------------|----------------------------------------------|
+| Particulars                                                                                  | 2026                           | 2025                           | 2026                                         | 2025                                         |
+| Interest income on financial assets carried at amortized cost                                | 30                             | 48                             | 184                                          | 180                                          |
+| Interest income on financial assets carried at fair value through other comprehensive income | 29                             | 35                             | 121                                          | 124                                          |
+| Gain/(loss) on investments carried at fair value through other comprehensive income          | -                              | -                              | 2                                            | -                                            |
+| Gain/(loss) on investments carried at fair value through profit or loss                      | 9                              | 6                              | 33                                           | 34                                           |
+| Gain/(loss) on investments carried at amortized cost                                         | -                              | -                              | 9                                            | -                                            |
+| Interest income on income tax refund                                                         | 44                             | 38                             | 46                                           | 41                                           |
+| Exchange gains / (losses) on forward and options contracts                                   | (103)                          | (8)                            | (274)                                        | (24)                                         |
+| Exchange gains / (losses) on translation of other assets and liabilities                     | 118                            | 21                             | 330                                          | 55                                           |
+| Others                                                                                       | (2)                            | (3)                            | 17                                           | 15                                           |
+| Total                                                                                        | 125                            | 137                            | 468                                          | 425                                          |
+
+for and on behalf of the Board of Directors of Infosys Limited
+| Nandan M. Nilekani Chairman   | Salil Parekh Chief Executive Officer and Managing Director   | Bobby Parikh Director               |
+|-------------------------------|--------------------------------------------------------------|-------------------------------------|
+| Bengaluru April 23, 2026      | Jayesh Sanghrajka Chief Financial Officer                    | A.G.S. Manikantha Company Secretary |

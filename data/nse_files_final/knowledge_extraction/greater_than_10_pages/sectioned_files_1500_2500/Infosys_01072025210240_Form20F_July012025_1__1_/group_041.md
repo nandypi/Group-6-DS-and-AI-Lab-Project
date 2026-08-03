@@ -1,0 +1,48 @@
+---
+document_name: "Infosys_01072025210240_Form20F_July012025_1__1_.md"
+group_id: "Infosys_01072025210240_Form20F_July012025_1__1___group_041"
+source_section_count: 1
+actual_tokens: 2054
+source_section_ids:
+  - "Infosys_01072025210240_Form20F_July012025_1__1___036__part_001"
+---
+
+## Recruitment
+As of March 31, 2025, the Group employed 323,578 employees, of which 306,599 were professionals involved in service delivery to the clients, including trainees.
+We  attract  and  hire  a  multi-dimensional  workforce  across  all  IT  specializations.  We  have  built  robust relationships  with  top  institutions  globally  and  recruit  students  who  have  consistently  shown  high  levels  of achievement. We also have been globally recognized for our HackWithInfy initiative, an online coding contest, which also helps us attract  the  best  coders  into  our  organization.  We  have  continued  upscaling  our  InfyTQ platform, which brings the best of our Mysuru training to the hands of the learners across the country.
+We evolved from a virtual-only mode to a hybrid model of virtual and in-person recruitment and have further strengthened our recruitment process by introducing AI.
+During  fiscal  2025,  we  received  4,457,748  employment  applications,  interviewed  430,080  applicants  and extended offers of employment to 83,207 applicants. These statistics do not include our subsidiaries.
+## Education, Training and Assessment (ETA)
+Infosys continues to invest in developing human potential for the organization, and the world at large. We are now experiencing the play of Human + AI in multiple fields, including learning. This technology wave gives us the ability to hyper-personalize learning, at scale, across all our learning offerings. These efforts have helped us garner external accolades from Brandon Hall and ATD Best.
+The Foundation Training Program, anchored across India and multiple other countries enables newly onboarded entry-level  hires  to  transform  into  corporate  professionals.  Comprising  over  45  technology  streams,  the curriculum has kept pace with the dynamic business requirements and the preferred pedagogical approach of the current generation of talent. Generative AI and prompt engineering courses have been introduced to ensure fresh college graduates are adept in the new skills.
+Our Continuous Education Program is aimed at reskilling / upskilling our existing employees with the twin objectives  of  increasing  fulfilment  of  skilled  talents  in  client  projects  and  enriching  their  expertise  in  nextgeneration digital technologies and methodologies, including Generative AI technologies. We provide online self- learning, instructor-led virtual training opportunities along with in-person classroom training opportunities to our employees. Bridge programs help employees with training and internship opportunities to switch to a new career field, while retaining them within the organization.
+Lex, our in-house learning platform, offers over 36,000 curated courses, which includes over 30,000 courses procured from vendor partners both for enterprise consumption and niche communities with specific knowledge requirements.  Around  20,000  employees  used  Lex  on  weekdays  and  around  5,000  employees  used  it  on weekends, with an average learning time of 40 minutes.
+Infosys  Wingspan,  our  configurable  talent  transformation  platform  for  clients,  is  used  by  several  global organizations for their talent transformation programs.
+Infosys Springboard, is a program led by a dedicated team of experts collaborating globally with curriculum partners, non-profits, and a global network of leading educational institutions. More than 20,000 courses are available and about 9.2 million learners across the world are actively consuming content on Infosys Springboard.
+## Leadership development
+With AI playing a pivotal role in the next phase of transformation of organizations, the Infosys Leadership Institute (ILI) partnered with Kellogg to bring their highly acclaimed program on AI Applications of Growth to all its leaders. In fiscal 2025, more than 1000 senior leaders of Infosys completed this certification program and most of them also participated in a live discussion with the author of this course, Prof. Mohanbir Sawhney. This includes about 250 women leaders, with many of them also working on AI related projects &amp; initiatives.
+ILI strengthened the succession program by broadening its focus to key roles in business and enabling functions, in  addition  to  creating  highly  personalized  development  programs  for  the  incumbents  and  successors  in organizational critical positions. The highly successful succession-enabling Constellation program was expanded to  include  more  high  potential  emerging  leaders.  Together  with  a  10-month  curated  program  with  Oxford University,  the  Constellation  leaders  also  commenced  work  in  smaller  cross-functional  teams  on  strategic organizational projects, aimed to bolster their enterprise leadership thus preparing them for senior leadership positions.
+Broader  leadership  development  and  engagement  continued,  with  signature  programs  like  the  10-month Enterprise Leadership program in partnership with multiple universities including Kellogg, Tuck, School of Business, and National University of Singapore Business School and the 6-month long Executive Presence &amp; Presentation program in partnership with The Economist. More than 2000 1x1 leadership advisory discussions were completed by ILI with leaders, focused on their leadership development plan. With more than 97% leaders completing a significant development intervention, Infosys leaders invested 10,500+ leadership learning days equivalent on their development.
+Leadership diversity continues to be important for Infosys and the acclaimed ILI IamtheFuture program saw more  than  200  women  leaders  completing  a  development  program  addressing  critical  and  differentiating competencies needed for success and growth. About 100 women leaders completed a program with Stanford on Executive Communication, along with 1x1 coaching with an external communication firm. Career conversations were completed for critical and high-potential women leaders across segments and delivery, and over 200 women leaders completed a development coaching conversation with internal leadership advisors.
+Our relentless focus on leadership development and engagement continues to set us up well for the future.
+## Visas
+As of March 31, 2025, less than 50% of our employees in the United States held either H-1B visas, which allow the employee to remain in the United States for up to six years as specialty occupation professionals, and L-1 visas, which allow the employee to stay in the United States for up to five years (for specialized knowledge experts) or seven years (for managers and executives).
+## SHARE OWNERSHIP
+The following table sets forth as of May 30, 2025, for each director and executive officer, the total number of equity shares, ADSs and options to purchase equity shares and ADSs exercisable within 60 days from May 30, 2025. Beneficial ownership is determined in accordance with rules of the SEC. All information with respect to the beneficial ownership of any principal shareholder has been furnished by such shareholder and, unless otherwise indicated below, we believe that persons named in the table have sole voting and sole investment power with respect to all the shares shown as beneficially owned, subject to community property laws, where applicable. The shares beneficially owned by the directors and executive officers include the equity shares owned by their family members to which such directors disclaim beneficial ownership.
+The share numbers and percentages listed below are based on 4,154,213,314 equity shares outstanding as of May 30, 2025. Percentage of shareholders representing less than 1% are indicated with '*':
+| Name beneficially owned                      | Equity Shares beneficially owned   | %of equity Shares   |
+|----------------------------------------------|------------------------------------|---------------------|
+| Nandan M. Nilekani (1)                       | 100,461,168                        | 2.42                |
+| Salil Parekh                                 | 1,379,460                          | 0.03                |
+| Bobby Parikh (2)                             | 6,887                              | '*'                 |
+| Inderpreet Sawhney (3)                       | 190,007                            | '*'                 |
+| Shaji Mathew (4)                             | 265,114                            | 0.01                |
+| Jayesh Sanghrajka (5)                        | 108,054                            | '*'                 |
+| Total (all directors and executive officers) | 102,410,690                        | 2.46                |
+
+Note: No other material changes subsequently till July 1, 2025.
+- (1) Shares beneficially owned by Nandan M. Nilekani include 59,678,006 Equity Shares owned by members of his immediate family. Nandan M. Nilekani disclaims beneficial ownership of such shares.
+- (2) Includes 2,754 equity shares jointly held by Bobby Parikh with his spouse as the first holder.
+- (3) Includes 5,185 PSUs vested on June 1, 2025 of Inderpreet Sawhney which are yet to be exercised.
+- (4) Includes 1,220 PSUs vested on June 1, 2025 of Shaji Mathew which are yet to be exercised.
+- (5) Includes 6,876 stock options vested on November 1, 2020  and 2,257 PSUs vested on June 1, 2025 of Jayesh Sanghrajka which are yet to be exercised.

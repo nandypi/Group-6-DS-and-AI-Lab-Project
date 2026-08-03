@@ -1,0 +1,16 @@
+---
+document_name: "Infosys_22102025144043_SE_Draft_LOA_22102025.md"
+group_id: "Infosys_22102025144043_SE_Draft_LOA_22102025__group_029"
+source_section_count: 1
+actual_tokens: 737
+source_section_ids:
+  - "Infosys_22102025144043_SE_Draft_LOA_22102025__020__part_002"
+---
+
+- 23.25.7 Eligible Shareholders shall also provide all relevant documents, which are necessary to ensure transferability of the Equity Shares in respect of the tender form to be sent. Such documents may include (but not be limited to):
+- (i) Duly attested power of attorney, if any person other than the Eligible Shareholder has signed the tender form;
+- (ii) Duly attested death certificate and succession certificate/ legal heirship certificate, in case any Eligible Shareholder has expired; and
+- (iii) In  case of  companies, the necessary certified corporate authorizations (including board and/ or general meeting resolutions).
+- 23.25.8 It is clarified that in case of demat Equity Shares, submission of tender form and TRS is not required . After the receipt of the demat Equity Shares by the Clearing Corporation and a valid bid in the exchange bidding system, the Buyback shall be deemed to have been accepted, for Eligible Shareholders holding Equity Shares in demat form.
+- 23.25.9 The Eligible Shareholders will have to ensure that they keep the DP account active and unblocked to receive credit in case of return of Equity Shares due to rejection or due to prorated Buyback decided by the Company. Further, Eligible Shareholders will have to ensure that they keep the bank account attached with the DP account active and updated to receive credit remittance due to acceptance of Buyback of shares by the Company. In the event if any Equity  Shares  are  tendered  to  Clearing  Corporation,  excess  dematerialized  Equity  Shares  or  unaccepted dematerialized Equity Shares, if any, tendered by the Eligible Shareholders would be returned to them by Clearing Corporation. If the security transfer instruction is rejected in the depository system, due to any  issue then such securities will be transferred to the shareholder broker's depository pool account for onward transfer to the Eligible Shareholder. In case of custodian participant orders, excess dematerialized shares or unaccepted dematerialized shares, if any, will be refunded to the respective custodian depository pool account.
+- 23.25.10 In  case  the  Equity  Shares  are  held  on  repatriation  basis,  the  Eligible  Shareholder,  being  a  Non-Resident Shareholder, should obtain and enclose a letter from its authorised dealer / bank confirming that at the time of acquiring such Equity Shares, payment for the same was made by such Eligible Shareholder, from the appropriate account as specified by RBI in its approval. In case the Eligible Shareholder, being a Non- Resident Shareholder, is not in a position to produce the said certificate, the Equity Shares would be deemed to have been acquired on non-repatriation basis, and in that case, the Eligible Shareholder shall submit a consent letter addressed to the Company, allowing the Company to make the payment on a non-repatriation basis in respect of the valid Equity Shares accepted under the Buyback.

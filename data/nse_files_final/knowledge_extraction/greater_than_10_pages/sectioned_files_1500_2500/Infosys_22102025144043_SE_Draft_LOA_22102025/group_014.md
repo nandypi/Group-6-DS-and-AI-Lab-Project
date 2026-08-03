@@ -1,0 +1,24 @@
+---
+document_name: "Infosys_22102025144043_SE_Draft_LOA_22102025.md"
+group_id: "Infosys_22102025144043_SE_Draft_LOA_22102025__group_014"
+source_section_count: 1
+actual_tokens: 1063
+source_section_ids:
+  - "Infosys_22102025144043_SE_Draft_LOA_22102025__009__part_002"
+---
+
+## 11. MANAGEMENT DISCUSSION AND ANALYSIS OF THE LIKELY IMPACT OF THE BUYBACK ON THE COMPANY
+- 11.1 The Company believes that the Buyback is not likely to cause any material impact on the profitability or earnings of the Company except to the extent of reduction in the amount available for investment, which the Company could have otherwise deployed towards generating investment income until eventual distribution to shareholders as per the Capital Allocation Policy. Assuming full response to the Buyback, the funds deployed by the Company towards the Buyback would be up to ₹ 18,000 Crore (Rupees Eighteen Thousand Crore only), excluding Transaction Costs. This  shall  impact  the  investment  income  earned  by  the Company,  on account of the reduced amount of funds available for investments.
+- 11.2 In terms of the SEBI Buyback Regulations, under the Tender Offer route, the Promoter and Promoter Group have an option to participate in the Buyback. In this regard, the Promoter and Promoter group have expressed their intention to not participate in the Buyback vide their letters dated September 14, 2025, September 16, 2025, September 17, 2025, September 18, 2025 and September 19, 2025. Assuming participation in the Buyback is to the extent of 100% (full acceptance) from all the other Eligible Shareholders up to their Buyback Entitlement, the aggregate shareholding of the Promoters and members of the Promoter Group after the completion of the Buyback shall increase to 13.37% of the post- Buyback total paid-up Equity Share capital of the Company from 13.05% of the pre-Buyback total paid-up Equity Share capital of the Company (as on the date of the Public Announcement), and the aggregate shareholding of the public in the Company shall change to 86.63% of the post- Buyback total paid-up Equity Share capital of the Company from 86.95% of the pre- Buyback total paid-up Equity Share capital of the Company.
+- 11.3 The Buyback is not expected to result in a change in control or otherwise affect the existing management structure of the Company.
+- 11.4 Consequent to the Buyback and based on the number of Equity Shares bought back from the Non-Resident Shareholders, Indian financial institutions, banks, mutual funds and the public including other bodies corporate, the shareholding of each such person shall undergo a change. The FIIs/FPIs are advised to ensure that their investment in the Company continues to be within the
+
+limit prescribed under applicable laws, post completion of the Buyback.
+- 11.5 The Company believes that the Buyback will not impact the growth opportunities of the Company.
+- 11.6 The Buyback is expected to improve return on equity through distribution of cash and improve earnings per share by reduction in the equity base in the long term, thereby leading to long term increase in members' value.
+- 11.7 As on the date of this Letter of Offer, the Company does not have any outstanding debt from lenders. Accordingly, the Company confirms that the ratio of the aggregate of secured and unsecured debts owed by the Company is not and shall not be more than twice the paid-up share capital and free reserves based on lower of the audited interim condensed standalone or consolidated financial statements of the Company as on June 30, 2025.
+- 11.8 The Company shall not raise further capital for a period of 1 (one) year from the expiry of the Buyback Period except in discharge of its subsisting obligations.
+- 11.9 Subject to applicable law, the Company shall not issue any Equity Shares or other specified securities including by way of bonus issue till the expiry of the Buyback Period, except in discharge of subsisting obligations through conversion of warrants, stock option schemes, sweat equity or conversion of preference shares or debentures into equity shares. Relevant details and the potential impact of such subsisting obligations have been disclosed in the Public Announcement.
+- 11.10 There are no defaults subsisting in the repayment of deposits or interest payment thereon, redemption of debentures or interest payment thereon or payment of dividend due to any shareholder, or repayment of any term loans or interest payable thereon to any financial institution or banking company, in the last three years.
+- 11.11 The Company is not undertaking the Buyback so as to delist its shares from the Indian Stock Exchanges.
+- 11.12 Salient financial parameters pursuant to the Buyback based on the audited standalone and consolidated financial statements of the Company are set out below:

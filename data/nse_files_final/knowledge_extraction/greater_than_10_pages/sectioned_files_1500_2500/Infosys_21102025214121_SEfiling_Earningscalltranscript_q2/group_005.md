@@ -1,0 +1,27 @@
+---
+document_name: "Infosys_21102025214121_SEfiling_Earningscalltranscript_q2.md"
+group_id: "Infosys_21102025214121_SEfiling_Earningscalltranscript_q2__group_005"
+source_section_count: 1
+actual_tokens: 1165
+source_section_ids:
+  - "Infosys_21102025214121_SEfiling_Earningscalltranscript_q2__004__part_002"
+---
+
+Consolidated cash and investments were at $6.2 bn at the end of quarter. Yield on cash balance was at 6.98% and ROE stood at 29.1%.
+We have taken several strategic steps in the past few years to reduce our dependence on work visa, especially H-1Bs in the U.S. This includes reduction in onsite mix, increased focus on near-shoring, increased local hiring, university partnerships, and creation of local hubs. We currently have several delivery centers across the U.S. to serve clients and leverage local talent. These hubs focus on emerging technologies, such as artificial intelligence, machine learning, cloud computing, big data, and user experience design.
+In line with our capital allocation policy, during the quarter, we announced Rs. 18,000 crores buyback through tender route at Rs. 1,800 per share. Buyback is expected to be completed in Q3, subject to shareholder approval.
+The Board approved Rs. 23 interim dividend, which is 9.5% higher than the FY '25 interim dividend.
+We signed 23 large deals during the  quarter,  6  in  Financial  Services,  4  each  in  Manufacturing, Communication and Retail, 3 in EURS and 1 each in Hi-tech and others. Region-wise, we signed 14 deals in America, 7 in Europe, 1 each in ROW and India.
+Coming to verticals:
+In Financial Services ,  clients are actively planning modernization and AI-driven initiatives with a clear focus on cost efficiency, enhanced customer experience, and strategic business transformation. We see strong momentum in mortgages, capital markets, commercial banking, and wealth management areas. While macro uncertainty and volatility is impacting spends, there is some acceleration in mortgage sector with recent reduction in interest rates. Overall pipeline and signing remains strong, which is visible in 6 large deals signing this quarter. Banks have spent significantly to build AI infrastructure. Many initiatives are progressing from proof of concepts to full-scale projects with notable traction in Agentic AI.
+<!-- image -->
+<!-- image -->
+Manufacturing segment continues to face trade and macro uncertainties, which is creating pressure on discretionary spend, specifically in automotive sector. We continue to help our clients in digital initiatives and rationalizing their applications and infrastructure footprints. We are at the forefront of leveraging AI and automation to increase productivity and offset pricing deflation. In Aero, we have seen opportunities to help clients navigate headwinds by helping them resolve bottlenecks in their supply chain, using technologies and products. Over 90% of large deal TCV for Q2 was net new, which should help drive growth going forward.
+Clients in EURS have strong focus on cost reduction, operational efficiency, and cash preservation, which helps open doors for vendor consolidation. In resources while large-scale Gen AI deployment are limited, agentic AI adoption is growing in tech operations to reduce cost. With rapid construction of data centers, utility companies are looking for partners to meet the accelerating electricity demand, creating opportunities in areas like renewable integration, grid modernization, AI-driven optimization, etc. Year-on-year growth was impacted due to significantly higher third-party revenues in Q2 '25.
+Retail clients continue to remain cautious on account of ongoing tariff-related uncertainties. Across geos, there is an increased focus on AI, cloud, estate modernization, derisking and cost takeout. There  is  a  growing  sense  of  urgency  to  improve  the  productivity  of  operating  models  to  offset inflationary  pressures.  Deal  pipelines  remain  strong,  but  decision  cycle  remains  elongated.  We continue  to  leverage  our  Topaz  and  AI  Next  platform  capabilities,  showcasing  our  enhanced customer  and  employee  experience  through  digital  marketing,  predictive  analytics  and  real-time insights.
+Communications continued  to  face  growth  headwinds  coupled  with  high  opex  pressures. Discretionary  spending  remains  subdued  with  investment  prioritization  in  AI,  automation,  and consumer experience. GCCs are becoming key buying centers and opportunities are emerging for IT  companies  to  support  their  transition.  While  lower  interest  rates  offer  cautious  optimism, geopolitical tensions and tariff risk add to uncertainty.
+In Hi-Tech , there has been significant focus on cost reduction leading to budget cuts and program closures. However, there are opportunities emerging in areas like semiconductors with a strong focus on leveraging Gen AI.
+Our H1 performance reflects resilience of our business model and agility of our execution capabilities. As we enter H2, we expect seasonal factors to impact growth - lower working days, furloughs, onset of new calendar year.
+<!-- image -->
+Hence, we have revised our revenue guidance to 2% to 3%. This does not include any revenues from the joint venture with Telstra, which we expect to close later this year. Our margin guidance remains at 20% to 22%.
+With that, let me hand over to Satish to talk about our AI capabilities.
