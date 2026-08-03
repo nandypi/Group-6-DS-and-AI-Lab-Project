@@ -12,12 +12,13 @@ Project terms:
 
 Code flow:
 1. Load the v1 section prompt.
-2. Find every Markdown section in every document folder, or one --folder.
-3. Read the complete section, including its original YAML metadata.
-4. Insert the section into the prompt and send it in a read-only Codex thread.
-5. Confirm the response preserves the original YAML and has a second YAML block.
-6. Save the cleaned section under the matching output document folder.
-7. Skip valid existing outputs so an interrupted run can resume.
+2. Choose input and output folders from defaults or CLI arguments.
+3. Find every Markdown section in every document folder, or one --folder.
+4. Read the complete section, including its original YAML metadata.
+5. Insert the section into the prompt and send it in a read-only Codex thread.
+6. Confirm the response preserves the original YAML and has a second YAML block.
+7. Save the cleaned section under the matching output document folder.
+8. Skip valid existing outputs so an interrupted run can resume.
 
 Example:
 sectioned_files/report/group_001.md -> v1 prompt -> Codex ->
@@ -34,7 +35,7 @@ from pathlib import Path
 
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
-INPUT_DIR = (
+DEFAULT_INPUT_DIR = (
     PROJECT_ROOT
     / "data"
     / "nse_files_final"
@@ -42,7 +43,7 @@ INPUT_DIR = (
     / "greater_than_10_pages"
     / "sectioned_files"
 )
-OUTPUT_DIR = (
+DEFAULT_OUTPUT_DIR = (
     PROJECT_ROOT
     / "data"
     / "nse_files_final"
@@ -54,7 +55,7 @@ PROMPT_PATH = (
     PROJECT_ROOT
     / "prompts"
     / "KE-prompts-for-nse-docs"
-    / "KE-section-prompt-v1.md"
+    / "KE-section-prompt-v2.md"
 )
 MODEL = "gpt-5.5"
 MAX_ATTEMPTS = 2
@@ -250,7 +251,7 @@ def load_codex_sdk():
     return Codex
 
 
-def select_document_folders(folder_name):
+def select_document_folders(folder_name, input_dir):
     """
     Return all document folders or one direct child selected with --folder.
 
@@ -258,29 +259,29 @@ def select_document_folders(folder_name):
     rejects paths that could point outside the sectioned-files folder.
     """
     if folder_name is None:
-        return sorted(path for path in INPUT_DIR.iterdir() if path.is_dir())
+        return sorted(path for path in input_dir.iterdir() if path.is_dir())
 
     if Path(folder_name).name != folder_name:
         raise ValueError("--folder must contain a folder name, not a path")
 
-    folder_path = INPUT_DIR / folder_name
+    folder_path = input_dir / folder_name
     if not folder_path.is_dir():
         raise ValueError(f"section folder not found: {folder_path}")
 
     return [folder_path]
 
 
-def find_section_files(document_folders):
+def find_section_files(document_folders, input_dir, output_dir):
     """
     Return each section file and its output path, preserving folder names.
 
-    Called after the folder selection. A file in sectioned_files/report is
-    mapped to cleaned_section_files/report with the same filename.
+    Called after the folder selection. A file in the input folder's `report`
+    child is mapped to the output folder's `report` child with the same filename.
     """
     selected_files = []
 
     for folder_path in document_folders:
-        output_folder = OUTPUT_DIR / folder_path.name
+        output_folder = output_dir / folder_path.name
         for input_path in sorted(folder_path.glob("*.md")):
             selected_files.append((input_path, output_folder / input_path.name))
 
@@ -312,23 +313,35 @@ def main():
         "--folder",
         help="Process one direct folder from sectioned_files instead of every folder.",
     )
+    parser.add_argument(
+        "--input-dir",
+        default=str(DEFAULT_INPUT_DIR),
+        help="Folder containing grouped Markdown section folders.",
+    )
+    parser.add_argument(
+        "--output-dir",
+        default=str(DEFAULT_OUTPUT_DIR),
+        help="Folder where cleaned Markdown section folders are written.",
+    )
     args = parser.parse_args()
+    input_dir = Path(args.input_dir)
+    output_dir = Path(args.output_dir)
 
     if not PROMPT_PATH.is_file():
         print(f"ERROR: prompt file not found: {PROMPT_PATH}", file=sys.stderr)
         return 1
 
-    if not INPUT_DIR.is_dir():
-        print(f"ERROR: input folder not found: {INPUT_DIR}", file=sys.stderr)
+    if not input_dir.is_dir():
+        print(f"ERROR: input folder not found: {input_dir}", file=sys.stderr)
         return 1
 
     try:
-        document_folders = select_document_folders(args.folder)
+        document_folders = select_document_folders(args.folder, input_dir)
     except ValueError as error:
         print(f"ERROR: {error}", file=sys.stderr)
         return 2
 
-    input_files = find_section_files(document_folders)
+    input_files = find_section_files(document_folders, input_dir, output_dir)
     if not input_files:
         print("ERROR: no Markdown section files found in the selected folders", file=sys.stderr)
         return 1
@@ -345,7 +358,7 @@ def main():
             ensure_chatgpt_login(codex)
 
             for number, (input_path, output_path) in enumerate(input_files, start=1):
-                print(f"[{number}/{len(input_files)}] {input_path.relative_to(INPUT_DIR)}")
+                print(f"[{number}/{len(input_files)}] {input_path.relative_to(input_dir)}")
 
                 try:
                     section_text, original_yaml = read_section(input_path)
@@ -362,7 +375,7 @@ def main():
                     processed += 1
                 except Exception as error:
                     print(f"  ERROR: {error}", file=sys.stderr)
-                    failures.append((str(input_path.relative_to(INPUT_DIR)), str(error)))
+                    failures.append((str(input_path.relative_to(input_dir)), str(error)))
     except Exception as error:
         print(f"ERROR: {error}", file=sys.stderr)
         return 1
