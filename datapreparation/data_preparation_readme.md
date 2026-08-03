@@ -68,10 +68,8 @@ Documents with 10 pages or fewer are cleaned with:
 - Input: `data/nse_files_final/categorisation_by_pages/equal_or_less_than_10_pages`
 - Output: `data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages`
 
-The batch-cleaning runner used for this historical step is not currently stored
-under `datapreparation/`. The documented output folder is therefore the
-reproducible input to the current indexing and benchmark workflows. Restore the
-archived cleaning runner before attempting to regenerate this output.
+The batch-cleaning runner is
+`datapreparation/run_prompts/run-whole-doc-prompt-on-all-docs.py`.
 
 ## Infosys Investor-Relations Documents
 
@@ -166,10 +164,8 @@ Grouped sections are cleaned with:
 - Input: `data/nse_files_final/knowledge_extraction/greater_than_10_pages/sectioned_files`
 - Output: `data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files`
 
-The batch section-cleaning runner used for this historical step is not currently
-stored under `datapreparation/`. The cleaned-section output is the reproducible
-input to the current indexing and benchmark workflows. Restore the archived
-cleaning runner before attempting to regenerate it.
+The batch section-cleaning runner is
+`datapreparation/run_prompts/run-section-prompt-on-all-docs.py`.
 
 ## RAG Benchmarking and Reproducibility
 

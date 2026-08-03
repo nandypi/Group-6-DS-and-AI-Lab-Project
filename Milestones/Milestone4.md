@@ -276,8 +276,8 @@ Important scripts include:
 | `datapreparation/benchmarking/run_without_reranking_benchmark.py` | Runs the Chroma-only benchmark |
 | `datapreparation/benchmarking/run_hyde_benchmark.py` | Runs the HyDE benchmark |
 | `datapreparation/benchmarking/run_reranking_recall_benchmark.py` | Runs BGE reranking recall evaluation |
-| `datapreparation/run-whole-doc-prompt-on-all-docs.py` | Cleans complete documents |
-| `datapreparation/run-section-prompt-on-all-docs.py` | Cleans long-document section groups |
+| `datapreparation/run_prompts/run-whole-doc-prompt-on-all-docs.py` | Cleans complete documents |
+| `datapreparation/run_prompts/run-section-prompt-on-all-docs.py` | Cleans long-document section groups |
 | `datapreparation/sectioner/` | Splits long NSE documents |
 | `prompts/KE-prompts-for-nse-docs/` | NSE knowledge-extraction prompts |
 | `prompts/KE-prompts/` | Yahoo Finance and brokerage cleaning prompts |

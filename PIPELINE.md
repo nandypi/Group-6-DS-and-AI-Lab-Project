@@ -72,7 +72,7 @@ and figures while removing filing wrappers, conversion noise, and other
 non-substantive formatting.
 
 - Prompt: `prompts/KE-prompts-for-nse-docs/KE-whole-document-prompt-v6.md`
-- Historical runner: `datapreparation/run-whole-doc-prompt-on-all-docs.py`
+- Runner: `datapreparation/run_prompts/run-whole-doc-prompt-on-all-docs.py`
 - Input:
   `data/nse_files_final/categorisation_by_pages/equal_or_less_than_10_pages`
 - Output:
@@ -102,7 +102,7 @@ estimated page-range metadata.
 The grouped sections are cleaned with the v1 section prompt.
 
 - Prompt: `prompts/KE-prompts-for-nse-docs/KE-section-prompt-v1.md`
-- Historical runner: `datapreparation/run-section-prompt-on-all-docs.py`
+- Runner: `datapreparation/run_prompts/run-section-prompt-on-all-docs.py`
 - Cleaned-section output:
   `data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files`
 
@@ -116,7 +116,7 @@ Ten representative NSE documents were selected for demo validation.
 
 - Input: `data/demo-bot-data`
 - Cleaned output: `data/demo-bot-output`
-- Script: `datapreparation/run-whole-doc-prompt-on-demo-bot.py`
+- Script: `datapreparation/run_prompts/run-whole-doc-prompt-on-demo-bot.py`
 - Prompt: `prompts/KE-prompts-for-nse-docs/KE-whole-document-prompt-v6.md`
 
 ## Infosys Investor-Relations Documents
