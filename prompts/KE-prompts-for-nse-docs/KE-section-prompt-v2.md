@@ -154,6 +154,33 @@ sample_queries:
   - ...
 ---
 
+Example output shape with placeholders only:
+
+---
+document_name: PLACEHOLDER_DOCUMENT_NAME
+group_id: PLACEHOLDER_GROUP_ID
+source_section_count: PLACEHOLDER_SOURCE_SECTION_COUNT
+actual_tokens: PLACEHOLDER_ACTUAL_TOKENS
+source_section_ids:
+  - PLACEHOLDER_SOURCE_SECTION_ID
+---
+---
+section_title: PLACEHOLDER_SECTION_TITLE
+section_description: PLACEHOLDER_SECTION_DESCRIPTION
+topics:
+  - PLACEHOLDER_TOPIC_ONE
+  - PLACEHOLDER_TOPIC_TWO
+sample_queries:
+  - PLACEHOLDER_SAMPLE_QUERY_ONE?
+  - PLACEHOLDER_SAMPLE_QUERY_TWO?
+---
+
+# PLACEHOLDER_HEADING
+
+PLACEHOLDER_CLEANED_MARKDOWN_CONTENT.
+
+The example above shows only the required shape. Do not copy placeholder text into the output.
+
 Do not add, remove, or modify any fields in the original metadata block.
 
 Do not wrap the output in a Markdown code fence.

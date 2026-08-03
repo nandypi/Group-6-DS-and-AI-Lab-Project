@@ -26,7 +26,7 @@ cleaned_section_files/report/group_001.md
 
 ASSUMPTION: every input section starts with one YAML front matter block.
 ASSUMPTION: document folders contain their section files directly, not in nested folders.
-ASSUMPTION: every Codex request uses gpt-5.5 with medium reasoning effort.
+ASSUMPTION: every Codex request uses gpt-5.6-luna with medium reasoning effort.
 """
 
 import argparse
@@ -57,7 +57,7 @@ PROMPT_PATH = (
     / "KE-prompts-for-nse-docs"
     / "KE-section-prompt-v2.md"
 )
-MODEL = "gpt-5.5"
+MODEL = "gpt-5.6-luna"
 MAX_ATTEMPTS = 2
 REQUIRED_GENERATED_METADATA_FIELDS = (
     "section_title",
@@ -324,8 +324,8 @@ def main():
         help="Folder where cleaned Markdown section folders are written.",
     )
     args = parser.parse_args()
-    input_dir = Path(args.input_dir)
-    output_dir = Path(args.output_dir)
+    input_dir = Path(args.input_dir).resolve()
+    output_dir = Path(args.output_dir).resolve()
 
     if not PROMPT_PATH.is_file():
         print(f"ERROR: prompt file not found: {PROMPT_PATH}", file=sys.stderr)
