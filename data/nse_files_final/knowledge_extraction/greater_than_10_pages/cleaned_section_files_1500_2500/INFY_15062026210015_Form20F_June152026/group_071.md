@@ -1,0 +1,149 @@
+---
+document_name: "INFY_15062026210015_Form20F_June152026.md"
+group_id: "INFY_15062026210015_Form20F_June152026__group_071"
+source_section_count: 2
+actual_tokens: 2569
+source_section_ids:
+  - "INFY_15062026210015_Form20F_June152026__054__part_002"
+  - "INFY_15062026210015_Form20F_June152026__055__part_001"
+---
+---
+section_title: Infosys Limited and subsidiaries — Consolidated Balance Sheet as of March 31,
+section_description: Consolidated balance sheet data for Infosys Limited and its subsidiaries as of March 31, 2026 and 2025, including assets, liabilities, equity, share capital, and contingent liabilities. The section also presents consolidated comprehensive income, profitability, other comprehensive income, and earnings per share for fiscal years 2026, 2025, and 2024.
+topics:
+  - Consolidated assets
+  - Current and non-current liabilities
+  - Share capital and equity
+  - Cash and investments
+  - Revenues and operating profit
+  - Net profit and income taxes
+  - Other comprehensive income
+  - Earnings per share
+  - Auditor tenure
+sample_queries:
+  - What were Infosys’s total assets as of March 31, 2026 and March 31, 2025?
+  - How did cash and cash equivalents change between March 31, 2025 and March 31, 2026?
+  - What were Infosys’s current and non-current liabilities in 2026 and 2025?
+  - What was total equity attributable to Infosys equity holders at March 31, 2026?
+  - How many equity shares were issued and outstanding as of March 31, 2026?
+  - What were Infosys’s revenues, gross profit, and operating profit in fiscal 2026?
+  - How did net profit change across fiscal years 2024, 2025, and 2026?
+  - What were selling and marketing expenses in fiscal years 2026, 2025, and 2024?
+  - What was Infosys’s income tax expense in fiscal 2026?
+  - What was total other comprehensive income or loss for each fiscal year?
+  - What were basic and diluted earnings per share in fiscal 2026?
+  - How many weighted average equity shares were used to calculate diluted earnings per share in fiscal 2026?
+---
+
+Deloitte Haskins & Sells LLP has served as the Company's auditor since fiscal 2018.
+
+## Infosys Limited and subsidiaries
+
+## Consolidated Balance Sheet as of March 31,
+
+*(Dollars in millions except equity share data)*
+
+| Balance sheet item | Note | 2026 | 2025 |
+|---|---:|---:|---:|
+| **ASSETS** | | | |
+| **Current assets** | | | |
+| Cash and cash equivalents | 2.1 | 2,341 | 2,861 |
+| Current investments | 2.2 | 1,365 | 1,460 |
+| Trade receivables | | 3,715 | 3,645 |
+| Unbilled revenues | 2.12 | 1,633 | 1,503 |
+| Prepayments and other current assets | 2.4 | 1,656 | 1,519 |
+| Income tax assets | 2.18 | 193 | 348 |
+| Derivative financial instruments | 2.3 | 9 | 23 |
+| **Total current assets** | | **10,912** | **11,359** |
+| **Non-current assets** | | | |
+| Property, plant and equipment | 2.7 | 1,406 | 1,497 |
+| Right-of-use assets | 2.8 | 651 | 738 |
+| Goodwill | 2.9 | 1,278 | 1,182 |
+| Intangible assets | 2.9 | 298 | 323 |
+| Non-current investments | 2.2 | 942 | 1,294 |
+| Unbilled revenues | 2.12 | 183 | 261 |
+| Deferred income tax assets | 2.18 | 239 | 130 |
+| Income tax assets | 2.18 | 70 | 190 |
+| Other non-current assets | 2.4 | 467 | 445 |
+| **Total non-current assets** | | **5,534** | **6,060** |
+| **Total assets** | | **16,446** | **17,419** |
+| **LIABILITIES AND EQUITY** | | | |
+| **Current liabilities** | | | |
+| Trade payables | | 500 | 487 |
+| Lease liabilities | 2.8 | 333 | 287 |
+| Derivative financial instruments | 2.3 | 63 | 7 |
+| Current income tax liabilities | 2.18 | 594 | 567 |
+| Unearned revenues | | 1,248 | 994 |
+| Employee benefit obligations | | 372 | 340 |
+| Provisions | 2.6 | 159 | 173 |
+| Other current liabilities | 2.5 | 2,247 | 2,157 |
+| **Total current liabilities** | | **5,516** | **5,012** |
+| **Non-current liabilities** | | | |
+| Lease liabilities | 2.8 | 634 | 675 |
+| Deferred income tax liabilities | 2.18 | 177 | 202 |
+| Employee benefit obligations | | 12 | 11 |
+| Other non-current liabilities | 2.5 | 267 | 264 |
+| **Total liabilities** | | **6,606** | **6,164** |
+| **Equity** | | | |
+| Share capital — ₹5 ($0.16) par value; 4,800,000,000 authorized equity shares; 4,046,940,812 and 4,143,607,528 issued and outstanding equity shares, net of 8,650,911 and 9,655,927 treasury shares as of March 31, 2026 and March 31, 2025, respectively | | 319 | 325 |
+| Share premium | | 462 | 500 |
+| Retained earnings | | 13,459 | 13,766 |
+| Cash flow hedge reserves | | (2) | (2) |
+| Other reserves | | 773 | 1,171 |
+| Capital redemption reserve | | 30 | 24 |
+| Other components of equity | | (5,255) | (4,579) |
+| **Total equity attributable to equity holders of the Company** | | **9,786** | **11,205** |
+| Non-controlling interests | | 54 | 50 |
+| **Total equity** | | **9,840** | **11,255** |
+| **Total liabilities and equity** | | **16,446** | **17,419** |
+| Commitments and contingent liabilities | 2.6, 2.7, 2.18 | | |
+
+The accompanying notes form an integral part of the consolidated financial statements.
+
+## Infosys Limited and subsidiaries
+
+## Consolidated Statements of Comprehensive Income for the years ended March 31,
+
+*(Dollars in millions except equity share and per equity share data)*
+
+| Income statement item | Note | 2026 | 2025 | 2024 |
+|---|---:|---:|---:|---:|
+| Revenues | 2.11 | 20,158 | 19,277 | 18,562 |
+| Cost of sales | | 14,079 | 13,405 | 12,975 |
+| **Gross profit** | | **6,079** | **5,872** | **5,587** |
+| **Operating expenses** | | | | |
+| Selling and marketing expenses | | 1,025 | 898 | 842 |
+| Administrative expenses | | 969 | 903 | 911 |
+| **Total operating expenses** | | **1,994** | **1,801** | **1,753** |
+| **Operating profit** | | **4,085** | **4,071** | **3,834** |
+| Other income, net | 2.16 | 468 | 425 | 568 |
+| Finance cost | | 47 | 49 | 56 |
+| **Profit before income taxes** | | **4,506** | **4,447** | **4,346** |
+| Income tax expense | 2.18 | 1,190 | 1,285 | 1,177 |
+| **Net profit** | | **3,316** | **3,162** | **3,169** |
+| **Other comprehensive income** | | | | |
+| **Items that will not be reclassified subsequently to profit or loss** | | | | |
+| Remeasurements of the net defined benefit liability / asset, net | | (31) | (11) | 15 |
+| Equity instruments through other comprehensive income, net | 2.2 and 2.18 | 42 | 2 | 2 |
+| Subtotal | | 11 | (9) | 17 |
+| **Items that will be reclassified subsequently to profit or loss** | | | | |
+| Fair valuation of investments, net | 2.2 and 2.18 | (2) | 24 | 17 |
+| Fair value changes on derivatives designated as cash flow hedge, net | 2.3 and 2.18 | - | (3) | 1 |
+| Exchange differences on translation of foreign operations | | (684) | (198) | (117) |
+| Subtotal | | (686) | (177) | (99) |
+| **Total other comprehensive income/(loss), net of tax** | | **(675)** | **(186)** | **(82)** |
+| **Total comprehensive income** | | **2,641** | **2,976** | **3,087** |
+| **Profit attributable to** | | | | |
+| Owners of the Company | | 3,313 | 3,158 | 3,167 |
+| Non-controlling interests | | 3 | 4 | 2 |
+| **Total profit** | | **3,316** | **3,162** | **3,169** |
+| **Total comprehensive income attributable to** | | | | |
+| Owners of the Company | | 2,637 | 2,972 | 3,086 |
+| Non-controlling interests | | 4 | 4 | 1 |
+| **Total comprehensive income** | | **2,641** | **2,976** | **3,087** |
+| **Earnings per equity share** | 2.19 | | | |
+| Basic (in $ per share) | | 0.81 | 0.76 | 0.77 |
+| Diluted (in $ per share) | | 0.80 | 0.76 | 0.76 |
+| **Weighted average equity shares used in computing earnings per equity share** | 2.19 | | | |
+| Basic (in shares) | | 4,112,814,745 | 4,141,611,738 | 4,138,568,090 |
+| Diluted (in shares) | | 4,120,108,168 | 4,152,051,184 | 4,144,680,425 |
