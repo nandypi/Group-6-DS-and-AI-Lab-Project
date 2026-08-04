@@ -1,0 +1,81 @@
+---
+document_name: "Infosys_23042026170027_outcome.md"
+group_id: "Infosys_23042026170027_outcome__group_155"
+source_section_count: 1
+actual_tokens: 2113
+source_section_ids:
+  - "Infosys_23042026170027_outcome__116"
+---
+---
+section_title: Impairment
+section_description: This section describes impairment testing for property, plant and equipment and presents changes in gross carrying value, accumulated depreciation, and carrying value for the years ended March 31, 2026 and March 31, 2025.
+topics:
+  - Impairment testing
+  - Property, plant and equipment
+  - Cash-generating units
+  - Gross carrying value
+  - Accumulated depreciation
+  - Capital additions
+  - Asset deletions and retirements
+  - Translation differences
+  - Carrying value
+sample_queries:
+  - How is impairment assessed for property, plant and equipment?
+  - When is the recoverable amount determined for a cash-generating unit?
+  - What was the gross carrying value of property, plant and equipment at March 31, 2026?
+  - What additions to property, plant and equipment were recorded during the year ended March 31, 2026?
+  - What was the total depreciation expense for the year ended March 31, 2026?
+  - What was the carrying value of property, plant and equipment at March 31, 2026?
+  - What assets were retired during the year ended March 31, 2026?
+  - What was the gross carrying value of property, plant and equipment at March 31, 2025?
+  - What was the total depreciation expense for the year ended March 31, 2025?
+  - What assets were retired during the year ended March 31, 2025?
+---
+
+## Impairment
+
+Property, plant and equipment are evaluated for recoverability whenever events or changes in circumstances indicate that their carrying amounts may not be recoverable. The recoverable amount is the higher of fair value less costs to sell and value in use.
+
+Recoverable amounts are determined on an individual asset basis unless an asset does not generate cash flows that are largely independent of those from other assets. In such cases, the recoverable amount is determined for the cash-generating unit (CGU) to which the asset belongs.
+
+If an asset is impaired, the impairment recognized in the Consolidated Statement of Profit and Loss equals the excess of its carrying value over its estimated recoverable amount. An impairment loss is reversed in the Consolidated Statement of Profit and Loss when there is a change in the estimates used to determine the recoverable amount. The revised carrying amount cannot exceed the carrying amount that would have been determined, net of accumulated depreciation, had no impairment loss been recognized in prior years.
+
+### Changes in the carrying value of property, plant and equipment for the year ended March 31, 2026
+
+| Particulars | Land - Freehold | Buildings (1) | Plant and machinery | Office Equipment | Computer equipment | Furniture and fixtures | Leasehold Improvements | Vehicles | Total (₹ crore) |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Gross carrying value as at April 1, 2025 | 1,479 | 11,721 | 3,461 | 1,628 | 9,306 | 2,340 | 1,307 | 48 | 31,290 |
+| Additions | 27 | 713 | 270 | 137 | 1,524 | 195 | 64 | 1 | 2,931 |
+| Additions on Business Combinations (Refer to note 2.1) | - | - | - | - | 3 | - | - | - | 3 |
+| Deletions** # | (66) | (13) | (31) | (50) | (1,325) | (121) | (55) | (5) | (1,666) |
+| Translation difference | - | 153 | 14 | 17 | 99 | 24 | 53 | - | 360 |
+| Gross carrying value as at March 31, 2026 | 1,440 | 12,574 | 3,714 | 1,732 | 9,607 | 2,438 | 1,369 | 44 | 32,918 |
+| Accumulated depreciation as at April 1, 2025 | - | (5,358) | (2,813) | (1,337) | (7,013) | (1,929) | (1,019) | (43) | (19,512) |
+| Depreciation | - | (449) | (188) | (118) | (1,079) | (167) | (111) | (1) | (2,113) |
+| Accumulated depreciation on deletions** # | - | 2 | 30 | 50 | 1,302 | 119 | 55 | 5 | 1,563 |
+| Translation difference | - | (51) | (14) | (12) | (60) | (18) | (50) | - | (205) |
+| Accumulated depreciation as at March 31, 2026 | - | (5,856) | (2,985) | (1,417) | (6,850) | (1,995) | (1,125) | (39) | (20,267) |
+| Carrying value as at April 1, 2025 | 1,479 | 6,363 | 648 | 291 | 2,293 | 411 | 288 | 5 | 11,778 |
+| Carrying value as at March 31, 2026 | 1,440 | 6,718 | 729 | 315 | 2,757 | 443 | 244 | 5 | 12,651 |
+
+**During the year ended March 31, 2026, certain assets that were not in use, with a gross book value of ₹1,165 crore and net book value of nil, were retired.**
+
+### Changes in the carrying value of property, plant and equipment for the year ended March 31, 2025
+
+| Particulars | Land - Freehold | Buildings (1) | Plant and machinery | Office Equipment | Computer equipment | Furniture and fixtures | Leasehold Improvements | Vehicles | Total (₹ crore) |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Gross carrying value as at April 1, 2024 | 1,432 | 11,770 | 3,428 | 1,528 | 8,611 | 2,326 | 1,447 | 45 | 30,587 |
+| Additions | 47 | 43 | 63 | 139 | 1,317 | 93 | 139 | 2 | 1,843 |
+| Additions on Business Combinations (Refer to note 2.1) | - | 1 | - | 11 | 6 | 23 | - | 2 | 43 |
+| Deletions* # | - | (113) | (31) | (52) | (633) | (101) | (290) | (1) | (1,221) |
+| Translation difference | - | 20 | 1 | 2 | 5 | (1) | 11 | - | 38 |
+| Gross carrying value as at March 31, 2025 | 1,479 | 11,721 | 3,461 | 1,628 | 9,306 | 2,340 | 1,307 | 48 | 31,290 |
+| Accumulated depreciation as at April 1, 2024 | - | (4,921) | (2,630) | (1,269) | (6,380) | (1,837) | (1,138) | (42) | (18,217) |
+| Depreciation | - | (444) | (203) | (118) | (1,249) | (187) | (157) | (2) | (2,360) |
+| Accumulated depreciation on deletions* # | - | 13 | 21 | 51 | 616 | 94 | 286 | 1 | 1,082 |
+| Translation difference | - | (6) | (1) | (1) | - | 1 | (10) | - | (17) |
+| Accumulated depreciation as at March 31, 2025 | - | (5,358) | (2,813) | (1,337) | (7,013) | (1,929) | (1,019) | (43) | (19,512) |
+| Carrying value as at April 1, 2024 | 1,432 | 6,849 | 798 | 259 | 2,231 | 489 | 309 | 3 | 12,370 |
+| Carrying value as at March 31, 2025 | 1,479 | 6,363 | 648 | 291 | 2,293 | 411 | 288 | 5 | 11,778 |
+
+*During the year ended March 31, 2025, certain assets that were not in use, with a gross book value of ₹513 crore and net book value of nil, were retired.*
