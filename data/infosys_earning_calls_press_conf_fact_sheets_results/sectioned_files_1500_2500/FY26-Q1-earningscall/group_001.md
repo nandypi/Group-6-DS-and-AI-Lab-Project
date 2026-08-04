@@ -1,0 +1,102 @@
+---
+document_name: "FY26-Q1-earningscall.md"
+group_id: "FY26-Q1-earningscall__group_001"
+source_section_count: 1
+actual_tokens: 2096
+source_section_ids:
+  - "FY26-Q1-earningscall__001__part_001"
+---
+
+## Infosys Limited Q1 FY26 Earnings Conference Call
+July 23, 2025
+## CORPORATE PARTICIPANTS:
+## Salil Parekh
+Chief Executive Officer and Managing Director
+## Jayesh Sanghrajka
+Chief Financial Officer
+## Sandeep Mahindroo
+Financial Controller &amp; Head of Investor Relations
+## ANALYSTS
+## Ankur Rudra
+JP Morgan
+## Kumar Rakesh
+BNP Paribas
+## Abhishek Kumar
+JM Financial
+## Bryan Bergin
+TD Cowen
+## Jonathan Lee
+Guggenheim Partners
+## Surendra Goyal
+Citigroup
+## Rishi Jhunjhunwala
+IIFL
+## Sandeep Shah
+Equirus Securities
+## Vibhor Singhal
+Nuvama Institutional Equities
+1
+<!-- image -->
+<!-- image -->
+## Apurva Prasad
+Franklin Templeton
+## Ashwin Mehta
+Ambit Capital
+## Abhishek Pathak
+Motilal Oswal
+## Keith Bachman
+BMO Capital
+2
+<!-- image -->
+## Moderator
+<!-- image -->
+Ladies and gentlemen, good day, and welcome to Infosys Limited Q1 FY26 Earnings Conference Call. As a reminder, all participant lines will be in the listen-only mode, and there will be an opportunity for you to ask questions after the presentation concludes. Should you need assistance during the conference call,  please signal  an  operator  by  pressing  star  then  zero  on  your  touchtone phone. Please note that this conference is being recorded.
+I  now  hand  the  conference  over  to  Mr.  Sandeep  Mahindroo.  Thank  you  and  over  to  you,  Mr. Mahindroo.
+## Sandeep Mahindroo
+Hello, everyone. Welcome to Infosys earnings call for the first quarter of FY26. Joining us on this call is CEO and MD, Mr. Salil Parekh; CFO, Mr. Jayesh Sanghrajka, and other members of the leadership team. We will start the call with some remarks on the performance of the company, subsequent to which we will open up the call for questions.
+Please  note  that  anything  we  say  that  refers  to  our  outlook  for  the  future  is  a  forward-looking statement, which must be read in conjunction with the risk that the company faces. A complete statement explanation of these risks is available in our filings with the SEC, which can be found on www.sec.gov.
+I would now like to pass on the call to Salil.
+## Salil Parekh
+Thanks, Sandeep. Good evening, and good morning to all of you. Thank you for joining us. We had a strong start to our financial year. Our revenues grew 2.6% sequentially and 3.8% year-on-year in constant currency terms.
+Growth was broad-based with our large five industry groups and our large geographies growing yearon-year in constant currency. Our large deals were at $3.8 bn. Our operating margin was 20.8% and our free cash flow was at $884 mn.
+The main drivers of our growth were our leadership in enterprise AI and our continued success in clients selecting us for consolidation. We are seeing good demand for AI agents. We built 300 agents across business operations and IT areas. Our horizontal and vertical agents are helping our clients drive faster decisions, improve customer experience and improve operational efficiency.
+<!-- image -->
+Let me share with you some examples of where we are doing project work on enterprise AI for our clients.
+An  oil  and  gas  major  is  using  Infosys  AI  agents  to  enhance  production  quality  in  their  refinery, orchestrate dynamic pricing in their retail stores and automate their contract management system for efficient trading.
+A leading global manufacturing company is using Infosys AI agents across their supply chain to unlock productivity and cost benefits and using Infosys AI agents to efficiently resolve issues related to malfunctioning equipment.
+A logistic company is using Infosys AI agents to transform customer care, operations and logistics and finance and accounting to become more efficient.
+For a leading North American retailer, we are transforming in-store shopping into a frictionless datadriven experience, boosting customer satisfaction, loyalty and operational efficiency. This is being done by integrating physical AI, through intelligent automation and edge-based computing vision.
+A global financial services company is using Infosys Enterprise AI Solution with a fine-tuned large language model. This system translates code and automates documentation. The solution increased developer productivity by 25% and automated 50% of business requirement creation and support of the modernization plan.
+Building  on  19  leadership  ratings  we  received  in  financial  year  2025,  we  are  now  positioned additionally  as  leaders  in  Gartner's  first  Generative  AI  Consulting  and  implementation  services quadrant. We are the only large India-based technology services company to be positioned as a leader.
+Based on our performance in Q1 and our current outlook, our guidance for growth for financial year 2026 is revised. From the earlier guidance of 0% to 3%, now it is 1% to 3% growth in constant currency terms. Our margin guidance remains unchanged at 20% to 22%.
+With that, I would like to invite Jayesh to share his comments.
+## Jayesh Sanghrajka
+Thank you, Salil. Good morning, good evening, everyone, and thank you for joining the call today.
+We have been able to successfully navigate a quarter of global uncertainty, which is reflected in our holistic  business  performance. We delivered market-leading sequential growth, robust large deal wins with strong net new, resilient operating margins, high single-digit EPS growth, and another quarter of free cash flow to net profit of over 100%.
+<!-- image -->
+Let me cover the key aspects of the results.
+1. Growth  was  strong  and  broad-based,  revenue  up  2.6%  sequentially  (including  0.4%  from acquisitions) and 3.8% on a year-on-year in constant currency terms. Sequential revenue growth was achieved despite a significant reduction in third-party costs by 60 basis points to 7.3% of revenue.
+2. Sequential growth was once again driven by increase in realization, thanks to progress under Project Maximus. Volume growth, while muted was positive.
+3. Manufacturing grew in double digits and FS and EURS grew about 5% year-on-year in constant currency terms.
+4. Amongst geographies, North America grew ahead of the company at 2.9% sequentially in CC. On a year-on-year basis, Europe grew 12.3%, which is over 3x the company average.
+5. Operating margins were at 20.8%, down 20 basis points QoQ and 30 basis points year-on-year. Sequential margin resilience was despite absorbing balance compensation hike, higher variable pay and investment in sales and marketing.
+6. Utilization, excluding trainees, went up 30 basis points QoQ at 85.2% and including trainees, up 80 basis points to 82.7%.
+7. EPS in rupee terms grew by 8.6% and in dollar terms grew by 5.8% YoY.
+8. Our relentless focus on cash continues and is reflected in free cash flows of $884 mn, which is 109% of net profit. This is the fifth consecutive quarter of free cash flow being over 100% of net profit. We expect FY26 free cash flows to be above 100% of net profit.
+9. Consolidated cash and cash equivalents stood at $5.27 bn at the end of the quarter after paying out final dividend for FY25. Yield on cash balance was 7.2% in Q1.
+10. ROE improved by 140 basis points to 30.4% due to dividend payouts.
+11. Large deal wins were robust, comprising of 28 deals with a TCV of $3.8 bn, including 55% net new. This includes multiple vendor consolidation deals with a combined TCV of over $1  bn, including a mega deal with one of the largest global banks. This reflects our deep-rooted client relationships and differentiated delivery capabilities.
+12. Vertical-wise,  we  signed  9  deals  in  Communications,  6  in  EURS,  5  in  Manufacturing,  4  in Financial Services, 2 each in Hi-Tech and Retail. Region-wise, we signed 20 deals in America, 6 in Europe and 2 in ROW.
+13. Headcount at the end of the quarter was 323,788. Attrition increased marginally to 14.4%.
+
+Operating  margin  for  Q1  was  at  20.8%,  decline  of  20  basis  points  sequentially.  The  major components of sequential margin change for the quarter are as follows:
+## Headwinds of
+<!-- image -->
+- -100  basis  points  from  compensation  increase,  higher  variable  pay,  partly  offset  by  other salary-related items
+- -30 basis points from currency movement
+- -20 basis points from sales investments
+
+## Partly offset by tailwinds of
+- -70 basis points from increase in realization due to Maximus and seasonality
+- -40 basis points on account of lower amortization cost on intangibles
+- -20 basis points from lower third-party costs
