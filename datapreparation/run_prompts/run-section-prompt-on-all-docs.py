@@ -1,7 +1,7 @@
 """
 Reason this file exists:
-Clean every grouped section from the NSE documents longer than 10 pages with
-the v1 section prompt and the official Codex Python SDK.
+Clean every grouped section from supported investor-document folders with the
+matching section prompt and the official Codex Python SDK.
 
 Project terms:
 - Section folder: one document's folder of grouped Markdown sections.
@@ -11,8 +11,8 @@ Project terms:
   and adds generated section metadata immediately after it.
 
 Code flow:
-1. Load the v1 section prompt.
-2. Choose input and output folders from defaults or CLI arguments.
+1. Choose input and output folders from defaults or CLI arguments.
+2. Pick the section prompt from the input folder path.
 3. Find every Markdown section in every document folder, or one --folder.
 4. Read the complete section, including its original YAML metadata.
 5. Insert the section into the prompt and send it in a read-only Codex thread.
@@ -21,11 +21,13 @@ Code flow:
 8. Skip valid existing outputs so an interrupted run can resume.
 
 Example:
-sectioned_files/report/group_001.md -> v1 prompt -> Codex ->
+sectioned_files/report/group_001.md -> matching prompt -> Codex ->
 cleaned_section_files/report/group_001.md
 
 ASSUMPTION: every input section starts with one YAML front matter block.
 ASSUMPTION: document folders contain their section files directly, not in nested folders.
+ASSUMPTION: input paths containing `nse_files_final` use the NSE section prompt.
+ASSUMPTION: input paths containing `infosys_earning_calls` use the Infosys section prompt.
 ASSUMPTION: every Codex request uses gpt-5.6-luna with medium reasoning effort.
 """
 
@@ -51,11 +53,17 @@ DEFAULT_OUTPUT_DIR = (
     / "greater_than_10_pages"
     / "cleaned_section_files"
 )
-PROMPT_PATH = (
+NSE_PROMPT_PATH = (
     PROJECT_ROOT
     / "prompts"
     / "KE-prompts-for-nse-docs"
     / "KE-section-prompt-v2.md"
+)
+INFOSYS_PROMPT_PATH = (
+    PROJECT_ROOT
+    / "prompts"
+    / "KE-prompts-for-infosys-docs"
+    / "KE-section-prompt-v1.md"
 )
 MODEL = "gpt-5.6-luna"
 MAX_ATTEMPTS = 2
@@ -93,12 +101,38 @@ def read_section(path):
 
 def render_prompt(prompt_template, section_text):
     """
-    Insert one complete section into the v1 prompt.
+    Insert one complete section into the selected prompt.
 
     Called after read_section. The original YAML stays in the supplied text so
     Codex can preserve it exactly in the cleaned result.
     """
     return prompt_template.replace("{DOCUMENT_TEXT}", section_text)
+
+
+def choose_prompt_path(input_dir):
+    """
+    Return the prompt path that matches the selected input folder.
+
+    Called after resolving --input-dir and before reading the prompt template.
+    A path under `nse_files_final` uses the NSE prompt, while a path under
+    `infosys_earning_calls` uses the Infosys investor-relations prompt.
+
+    Example:
+        `choose_prompt_path(Path("data/infosys_earning_calls/..."))` returns
+        the Infosys section prompt path.
+    """
+    normalized_path = str(input_dir).replace("\\", "/").lower()
+
+    if "nse_files_final" in normalized_path:
+        return NSE_PROMPT_PATH
+
+    if "infosys_earning_calls" in normalized_path:
+        return INFOSYS_PROMPT_PATH
+
+    raise ValueError(
+        "cannot choose prompt from --input-dir. Expected path containing "
+        "'nse_files_final' or 'infosys_earning_calls'."
+    )
 
 
 def validate_markdown(response_text, original_yaml):
@@ -307,7 +341,7 @@ def main():
     processing failures, and 2 for invalid command-line input.
     """
     parser = argparse.ArgumentParser(
-        description="Clean grouped NSE document sections with the v1 section prompt."
+        description="Clean grouped document sections with the matching section prompt."
     )
     parser.add_argument(
         "--folder",
@@ -327,8 +361,14 @@ def main():
     input_dir = Path(args.input_dir).resolve()
     output_dir = Path(args.output_dir).resolve()
 
-    if not PROMPT_PATH.is_file():
-        print(f"ERROR: prompt file not found: {PROMPT_PATH}", file=sys.stderr)
+    try:
+        prompt_path = choose_prompt_path(input_dir)
+    except ValueError as error:
+        print(f"ERROR: {error}", file=sys.stderr)
+        return 2
+
+    if not prompt_path.is_file():
+        print(f"ERROR: prompt file not found: {prompt_path}", file=sys.stderr)
         return 1
 
     if not input_dir.is_dir():
@@ -346,7 +386,7 @@ def main():
         print("ERROR: no Markdown section files found in the selected folders", file=sys.stderr)
         return 1
 
-    prompt_template = PROMPT_PATH.read_text(encoding="utf-8")
+    prompt_template = prompt_path.read_text(encoding="utf-8")
     processed = 0
     skipped = 0
     failures = []
@@ -383,6 +423,7 @@ def main():
     print()
     print(f"Document folders selected: {len(document_folders)}")
     print(f"Markdown sections found: {len(input_files)}")
+    print(f"Prompt: {prompt_path.relative_to(PROJECT_ROOT)}")
     print(f"Model: {MODEL}")
     print("Reasoning effort: medium")
     print(f"Newly processed: {processed}")
