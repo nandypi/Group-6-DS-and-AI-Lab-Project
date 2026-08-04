@@ -179,3 +179,115 @@ Next step:
 
 - Run section KE with prompt v2 on the smaller grouped files:
   `python datapreparation/run_prompts/run-section-prompt-on-all-docs.py --input-dir data\nse_files_final\knowledge_extraction\greater_than_10_pages\sectioned_files_1500_2500 --output-dir data\nse_files_final\knowledge_extraction\greater_than_10_pages\cleaned_section_files_1500_2500`
+
+## 2026-08-04 - NSE Long-Document Section KE Run State
+
+Task: document the current state of sectioning and cleaning for NSE documents
+longer than 10 pages.
+
+What is complete:
+
+- Section-aware chunking for NSE `docs > 10 pages` is complete.
+- Grouped pre-KE input folder:
+  `data/nse_files_final/knowledge_extraction/greater_than_10_pages/sectioned_files_1500_2500`.
+- Grouped pre-KE Markdown files present: 1,706
+- Document folders present under grouped pre-KE input: 28
+- Cleaned output folder:
+  `data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files_1500_2500`.
+- Cleaned document folders present: 28
+- Cleaned Markdown files present: 1,699
+
+Cleaning status:
+
+- Current cleaned coverage: 1,699 of 1,706 grouped NSE section files.
+- Remaining grouped files without matching cleaned output:
+  - `Infosys_18112025182523_SE_letter_LoF_18112025\group_003.md`
+  - `Infosys_22102025144043_SE_Draft_LOA_22102025\group_031.md`
+  - `Infosys_29052026202126_Infosys_Integrated_Annual_Report_2025-26\group_115.md`
+  - `Infosys_30062026163341_SE_Infosys_45th_AGM_transcript\group_009.md`
+  - `INFY_30052026200807_SE_Integrated_Annual_Report_2025-26\group_096.md`
+  - `INFY_30052026200807_SE_Integrated_Annual_Report_2025-26\group_113.md`
+  - `INFY_30052026200807_SE_Integrated_Annual_Report_2025-26\group_117.md`
+
+ASSUMPTION: because the runner is resumable, rerunning the same NSE command will
+skip valid cleaned outputs and process only missing or invalid cleaned files.
+
+Resume command:
+
+- `python datapreparation\run_prompts\run-section-prompt-on-all-docs.py --input-dir data\nse_files_final\knowledge_extraction\greater_than_10_pages\sectioned_files_1500_2500 --output-dir data\nse_files_final\knowledge_extraction\greater_than_10_pages\cleaned_section_files_1500_2500`
+
+## 2026-08-04 - Sectioned and Prepared Infosys IR Docs for Section KE
+
+Task: run a similar section-aware chunking and cleaning flow for the direct
+Markdown files in `data/infosys_earning_calls_press_conf_fact_sheets_results`.
+
+What changed:
+
+- Added `--direct-only` to `datapreparation/sectioner/cli.py` so the sectioner
+  can process only Markdown files directly inside a selected input folder.
+- Used `--direct-only` for the Infosys IR folder to avoid reprocessing the
+  nested `infosys_ir_earning_calls_clean_markdowns` folder.
+- Generated section manifests, reports, raw section files, and grouped pre-KE
+  files for the Infosys IR documents.
+- Wrote the final grouped pre-KE files to:
+  `data/infosys_earning_calls_press_conf_fact_sheets_results/sectioned_files_1500_2500`.
+- Added `prompts/KE-prompts-for-infosys-docs/KE-section-prompt-v1.md`.
+- Based the Infosys prompt on the NSE section prompt v2 output contract:
+  original YAML block, generated YAML block, then cleaned Markdown.
+- Customized the Infosys prompt for earnings calls, press conferences, fact
+  sheets, quarterly results, press releases, participant/speaker artifacts,
+  safe-harbor blocks, awards and recognitions, and financial tables.
+- Tightened the Infosys prompt to preserve investor-useful tables and add
+  substantive table summaries describing periods, units, row groups, and
+  comparison dimensions.
+- Tightened `sample_queries` guidance so sections with tables include
+  table-oriented queries for retrieval, such as period comparisons, segment mix,
+  geography mix, margins, cash flow, balance sheet lines, client metrics,
+  headcount, utilization, attrition, deal TCV, and guidance ranges.
+- Added prompt guidance to repair obvious text-encoding artifacts when the
+  intended character is clear.
+- Updated `datapreparation/run_prompts/run-section-prompt-on-all-docs.py` to
+  choose the prompt from `--input-dir`:
+  - paths containing `nse_files_final` use the NSE section prompt v2
+  - paths containing `infosys_earning_calls` use the Infosys section prompt v1
+
+Sectioning run summary:
+
+- Direct source Markdown files processed: 16
+- Section manifest files written: 16
+- Grouped Markdown files written: 58
+- Document folders written under `sectioned_files_1500_2500`: 16
+- Largest grouped file: 2,966 actual tokens
+- Files above 3,000 actual tokens: 0
+- Files missing required grouped-file metadata: 0
+- Below-1,500 chunks mergeable with a neighbor under 3,000 tokens: 0
+
+Cleaning run state:
+
+- Cleaned output folder:
+  `data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500`.
+- Current cleaned Markdown files present: 6
+- Current cleaned document folders present: 1
+- The runner remains resumable, so reruns skip valid cleaned Markdown outputs
+  and continue processing the remaining Infosys grouped sections.
+
+Verification:
+
+- `python -m py_compile datapreparation\sectioner\cli.py datapreparation\sectioner\concatenate_sections.py`
+  passed after the sectioning CLI change.
+- Infosys sectioning completed successfully with `--direct-only`.
+- Infosys grouping completed successfully and wrote 58 grouped files.
+- Token and metadata validation over `sectioned_files_1500_2500` found no
+  chunk above 3,000 actual tokens and no missing required metadata fields.
+- One-file smoke test on
+  `data\infosys_earning_calls_press_conf_fact_sheets_results\sectioned_files_1500_2500\FY26-Q1-ifrs-inr-press-release\group_002.md`
+  succeeded with `gpt-5.6-luna` and `medium` reasoning.
+- The smoke-test output preserved the original YAML block, added generated YAML
+  metadata, removed low-value press-release/contact noise, preserved financial
+  tables, and added table summaries plus table-aware sample queries.
+- `python -m py_compile datapreparation\run_prompts\run-section-prompt-on-all-docs.py`
+  passed after prompt selection was added.
+
+Command for Infosys section KE:
+
+- `python datapreparation\run_prompts\run-section-prompt-on-all-docs.py --input-dir data\infosys_earning_calls_press_conf_fact_sheets_results\sectioned_files_1500_2500 --output-dir data\infosys_earning_calls_press_conf_fact_sheets_results\cleaned_section_files_1500_2500`
