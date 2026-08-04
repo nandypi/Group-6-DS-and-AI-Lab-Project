@@ -3,10 +3,16 @@
 Flow: run this file -> find .md files in the five approved folders -> read one
 file -> truncate only over-limit files -> create one OpenAI embedding -> upsert
 it into Chroma.
+
 For example, data/yfinance/clean-mds/example.md becomes one Chroma document.
 
-An approved folder is one of the five user-provided data folders. Files over
-the model limit retain their first 8,191 tokens so every file has one vector.
+Approved folder means one cleaned corpus folder used by retrieval today:
+yfinance, Trendlyne, cleaned Infosys IR section chunks, cleaned NSE small whole
+documents, and cleaned NSE long-document section chunks.
+
+ASSUMPTION: the cleaned section chunk folders are the current source of truth
+for long NSE documents and Infosys IR documents. Files over the embedding model
+limit retain their first 8,191 tokens so every file has one vector.
 """
 
 import argparse
@@ -31,9 +37,9 @@ BATCH_SIZE = 20
 DATA_SOURCES = [
     PROJECT_ROOT / "data/yfinance/clean-mds",
     PROJECT_ROOT / "data/trendlyne/clean-mds",
-    PROJECT_ROOT / "data/infosys_earning_calls_press_conf_fact_sheets_results/infosys_ir_earning_calls_clean_markdowns",
+    PROJECT_ROOT / "data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500",
     PROJECT_ROOT / "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages",
-    PROJECT_ROOT / "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files",
+    PROJECT_ROOT / "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files_1500_2500",
 ]
 
 
