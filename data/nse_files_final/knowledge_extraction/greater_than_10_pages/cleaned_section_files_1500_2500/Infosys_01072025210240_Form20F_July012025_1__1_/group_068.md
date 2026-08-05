@@ -1,0 +1,76 @@
+---
+document_name: "Infosys_01072025210240_Form20F_July012025_1__1_.md"
+group_id: "Infosys_01072025210240_Form20F_July012025_1__1___group_068"
+source_section_count: 1
+actual_tokens: 1215
+source_section_ids:
+  - "Infosys_01072025210240_Form20F_July012025_1__1___054__part_002"
+---
+---
+section_title: The carrying value and fair value of financial instruments by categories as of March 31, 2024
+section_description: Financial assets and liabilities are presented by measurement category, with total carrying value and fair value as of March 31, 2024. The section includes cash, investments, receivables, derivatives, payables, lease liabilities, option arrangements, and other liabilities.
+topics:
+  - Financial instruments
+  - Fair value measurement
+  - Financial assets
+  - Financial liabilities
+  - Investments
+  - Trade receivables
+  - Derivative instruments
+  - Lease liabilities
+  - Contingent consideration
+  - Amortized cost
+  - Fair value through profit or loss
+  - Fair value through OCI
+sample_queries:
+  - What was the carrying value and fair value of financial assets as of March 31, 2024?
+  - What were Infosys’s cash and cash equivalents as of March 31, 2024?
+  - What types of investments were measured at fair value through profit or loss?
+  - What was the carrying value and fair value of quoted debt securities?
+  - What were the total financial assets by measurement category?
+  - What was the value of trade receivables and unbilled revenues?
+  - What was the carrying value of derivative financial instruments?
+  - What were the total financial liabilities by measurement category?
+  - What was the value of lease liabilities?
+  - What were the financial liability under option arrangements and other liabilities including contingent consideration?
+  - Which financial instruments had carrying amounts that approximated fair value because of short maturity?
+  - What exclusions apply to quoted debt securities and unbilled revenues?
+---
+
+(1) On account of fair value changes including interest accrued  
+(2) Excludes interest accrued on quoted debt securities carried at amortized cost of $9 million  
+(3) Excludes unbilled revenue on contracts where the right to consideration is dependent on completion of contractual milestones
+
+The carrying value and fair value of financial instruments by categories as of March 31, 2024, were as follows:
+
+| Category | Amortised cost | Financial assets/liabilities at fair value through profit or loss — designated upon initial recognition | Financial assets/liabilities at fair value through profit or loss — mandatory | Financial assets/liabilities at fair value through OCI — equity instruments designated upon initial recognition | Financial assets/liabilities at fair value through OCI — mandatory | Total carrying value | Total fair value |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| **Assets:** |  |  |  |  |  |  |  |
+| Cash and cash equivalents (Refer to Note 2.1) | 1,773 | - | - | - | - | 1,773 | 1,773 |
+| **Investments (Refer to Note 2.2)** |  |  |  |  |  |  |  |
+| Liquid mutual funds | - | - | 313 | - | - | 313 | 313 |
+| Target maturity fund units | - | - | 51 | - | - | 51 | 51 |
+| Quoted debt securities | 211 | - | - | - | 1,384 | 1,595 | 1,620 (1) |
+| Certificate of deposit | - | - | - | - | 365 | 365 | 365 |
+| Commercial Papers | - | - | - | - | 579 | 579 | 579 |
+| Quoted equity securities | - | - | - | 14 | - | 14 | 14 |
+| Unquoted equity and preference securities | - | - | - | 11 | - | 11 | 11 |
+| Unquoted investments others | - | - | 24 | - | - | 24 | 24 |
+| Trade receivables | 3,620 | - | - | - | - | 3,620 | 3,620 |
+| Unbilled revenues (Refer to Note 2.12) (3) | 1,151 | - | - | - | - | 1,151 | 1,151 |
+| Prepayments and other assets (Refer to Note 2.4) | 694 | - | - | - | - | 694 | 684 (2) |
+| Derivative financial instruments | - | - | 7 | - | 3 | 10 | 10 |
+| **Total assets** | **7,449** | **-** | **395** | **25** | **2,331** | **10,200** | **10,215** |
+| **Liabilities:** |  |  |  |  |  |  |  |
+| Trade payables | 474 | - | - | - | - | 474 | 474 |
+| Lease liabilities | 1,002 | - | - | - | - | 1,002 | 1,002 |
+| Derivative financial instruments | - | - | 4 | - | - | 4 | 4 |
+| Financial liability under option arrangements (Refer to Note 2.5) | - | - | 72 | - | - | 72 | 72 |
+| Other liabilities including contingent consideration (Refer to Note 2.5) | 1,887 | - | - | - | - | 1,887 | 1,887 |
+| **Total liabilities** | **3,363** | **-** | **76** | **-** | **-** | **3,439** | **3,439** |
+
+(1) On account of fair value changes including interest accrued  
+(2) Excludes interest accrued on quoted debt securities carried at amortized cost of $10 million  
+(3) Excludes unbilled revenue on contracts where the right to consideration is dependent on completion of contractual milestones
+
+For trade receivables, trade payables, other assets and payables maturing within one year from the balance sheet date, the carrying amounts approximate fair value due to the short maturity of these instruments.

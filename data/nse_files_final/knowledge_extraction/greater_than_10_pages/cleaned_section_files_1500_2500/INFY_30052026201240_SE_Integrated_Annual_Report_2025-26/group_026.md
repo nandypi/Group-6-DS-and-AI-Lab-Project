@@ -1,0 +1,87 @@
+---
+document_name: "INFY_30052026201240_SE_Integrated_Annual_Report_2025-26.md"
+group_id: "INFY_30052026201240_SE_Integrated_Annual_Report_2025-26__group_026"
+source_section_count: 1
+actual_tokens: 1971
+source_section_ids:
+  - "INFY_30052026201240_SE_Integrated_Annual_Report_2025-26__023"
+---
+---
+section_title: Corporate Social Responsibility Details
+section_description: CSR expenditure, unspent CSR balances, excess amounts available for set-off, and capital assets created or acquired during fiscal 2026. The section also lists CSR-funded assets, beneficiary entities, expenditure amounts, and prior fiscal-year contributions.
+topics:
+  - CSR expenditure
+  - Excess CSR amount for set-off
+  - Unspent CSR balances
+  - CSR capital assets
+  - Medical equipment and software
+  - Cybercrime investigation center
+  - Bengaluru Metro station
+  - Environmental sustainability
+  - Farmer livelihoods
+  - Prior fiscal-year CSR spending
+sample_queries:
+  - What was the company’s average net profit-based CSR obligation?
+  - How much was spent on CSR during the financial year?
+  - What excess CSR amount was available for set-off in succeeding financial years?
+  - What were the unspent CSR balances for the preceding financial years 2023, 2024, and 2025?
+  - How much remained to be spent from the 2025 unspent CSR balance?
+  - How many capital assets were created or acquired through CSR spending during the financial year?
+  - What CSR-funded medical equipment and software system was provided to the Hyderabad Eye Institute?
+  - How much was spent on the cybercrime investigation, training, and research center in Karnataka?
+  - Which organization received the CSR-funded cybercrime investigation center?
+  - How much was spent on the interiors and maintenance of Konappana Agrahara Metro station?
+  - What environmental sustainability and farmer livelihood project was funded through CSR?
+  - What amounts were spent in previous fiscal years on the listed CSR capital assets?
+---
+
+## Note:
+
+1. Includes surplus of ` 0.40 crore generated and spent during the year.
+2. The unspent amount will be transferred to the unspent CSR account within 30 days from the end of the financial year, in accordance with the Companies Act, 2013, read with the Companies (Corporate Social Responsibility Policy) Rules, 2014, as amended.
+
+## (f) Excess amount for set-off:
+
+| Sl. No. | Particulars | Amount (In ` crore) |
+|---|---|---:|
+| (i) | Two percent of average net profit of the company as per sub-section (5) of Section 135 | 576.96 |
+| (ii) | Total amount spent for the financial year (1) | 558.04 |
+| (iii) | Excess amount spent for the financial year [(ii)-(i)] (2) | 0.08 |
+| (iv) | Surplus arising out of CSR projects, programmes, or activities of previous financial years, if any (3) | 0.40 |
+| (v) | Amount available for set-off in succeeding financial years [(iii)-(iv)] | Nil |
+
+## 7. Details of unspent Corporate Social Responsibility amount for the preceding three financial years:
+
+| Sl. No. | Preceding financial year(s) | Amount transferred to Unspent CSR account under sub-section (6) of Section 135 | Balance amount in unspent CSR account under sub-section (6) of Section 135 (1) | Amount spent in the financial year | Amount transferred to a fund as specified under Schedule VII as per second proviso to sub-section (5) of Section 135, if any | Date of transfer | Amount remaining to be spent in succeeding financial years | Deficiency, if any (In ` crore) |
+|---:|---:|---:|---:|---:|---:|---|---:|---|
+| 1 | 2023 | 45.33 | 0.08 | 0.08 | NIL | NA | NIL | NA |
+| 2 | 2024 | 39.54 | 0.03 | 0.03 | NIL | NA | NIL | NA |
+| 3 | 2025 | 16.15 | 16.15 | 9.10 | NIL | NA | 7.05 | NA |
+
+### Note
+
+1. Unspent balance as on April 1, 2025.
+
+## 8. Details of capital assets created or acquired through Corporate Social Responsibility amount spent during the financial year:
+
+Number of capital assets created or acquired: 24.
+
+| Sl. No. | Short particulars of the property or asset(s), including complete address and location | Pin code | Date of creation | Amount of CSR amount spent (1) (in ` crore) | CSR Registration Number, if applicable | Name of registered owner | Registered address |
+|---:|---|---:|---|---:|---|---|---|
+| 1 | Medical equipment and software system for Universal Cornea Care Mission. Address: Hyderabad Eye Institute, Road No. 2, Banjara Hills, L.V. Prasad Marg, Hyderabad – 500034 | 500034 | Feb 26, 2026 | 21.08 (2)(i) | CSR00001698 | Hyderabad Eye Institute | Hyderabad Eye Institute, Road No. 2, Banjara Hills, L.V. Prasad Marg, Hyderabad – 500034 |
+| 2 | Setting up a center for cybercrime investigation, training, and research to accelerate and strengthen Karnataka’s cybercrime investigation momentum through capacity-building, research, and development. Address: Carlton House, No. 1, Dr. A. Krishna Rao Road, Ambedkar Veedhi, Sampangi Rama Nagar, Bangalore – 560001 | 560001 | Mar 23, 2026 | 5.38 (2)(ii) | CSR00011848 | Data Security Council of India | Data Security Council of India, 4th Floor, NASSCOM Campus, Plot No. 7–10, Sector 126, Noida – 201303 |
+| 3 | Interiors and maintenance of Konappana Agrahara Metro station, Bengaluru. Address: Konappana Agrahara Metro station, Bengaluru – 560100 | 560100 | Mar 31, 2026 | 1.57 | Not Applicable | Bangalore Metro Rail Corporation Ltd (BMRCL) | Bangalore Metro Rail Corporation Ltd (BMRCL), 3rd Floor, BMTC Complex, Kengal Hanumanthaiah Road, Bengaluru – 560027 |
+| 4 | Promote environmental sustainability and ecological balance while enhancing farmer livelihoods through tree plantation initiatives and the provision of advanced farming equipment and essential infrastructure. Address: Kalinga Kusum Foundation (KKF), Plot No. 152, 2nd Floor, Near TCS AUM Building, Infocity Road, Patia, Bhubaneswar, Odisha – 751024 | 751024 | Jul 31, 2025 to Mar 13, 2026 | 1.05 | CSR00004313 | Kalinga Kusum Foundation (KKF) | Plot No. 152, 2nd Floor, Near TCS AUM Building, Infocity Road, Patia, Bhubaneswar, Odisha – 751024 |
+
+### Notes
+
+1. The table includes assets completed in fiscal 2026.
+2. Amounts spent in fiscal 2026 do not indicate the complete value of the assets.
+3. Details of CSR projects involving less than ` 1 crore are available at [CSR capital assets 2025–26](https://www.infosys.com/investors/reports-filings/documents/csr-capital-assets2025-26.pdf).
+4. Amounts spent in previous fiscal years:
+   - Medical equipment and software system for Universal Cornea Care: ` 18.60 crore.
+   - Setting up the center for cybercrime investigation, training, and research: ` 4.37 crore.
+   - Construction of Konappana Agrahara Metro station, Bengaluru: ` 182.39 crore.
+   - Providing medical equipment to Post Graduate Institute of Medical Education & Research (PGIMER): ` 51.45 crore.
+   - Construction of a skill development training center and other facilities, including hostel rooms, classrooms, laboratories, workshop rooms, and a large dining area: ` 10.31 crore.
+   - Construction of a girls’ hostel in Pune at Shrimad Rajchandra Aatma Tatva Research Center: ` 9 crore.

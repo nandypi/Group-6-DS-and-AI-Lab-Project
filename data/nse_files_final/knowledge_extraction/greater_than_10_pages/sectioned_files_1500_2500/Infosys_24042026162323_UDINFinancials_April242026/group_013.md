@@ -1,0 +1,66 @@
+---
+document_name: "Infosys_24042026162323_UDINFinancials_April242026.md"
+group_id: "Infosys_24042026162323_UDINFinancials_April242026__group_013"
+source_section_count: 1
+actual_tokens: 2667
+source_section_ids:
+  - "Infosys_24042026162323_UDINFinancials_April242026__014__part_002"
+---
+
+ForDELOITTEHASKINS&amp;SELLSLLP Chartered Accountants (Firm's Registration No. 117366W/W-100018)
+<!-- image -->
+kasBagaria Partner (Membership No. 060408) UDIN:26060408HXRWWF7979
+Place:Bengaluru
+Date: April 23, 2026
+<!-- image -->
+## Deloitte Haskins &amp; Sells LLP
+(Referred to in paragraph 1(f) under 'Report on Other Legal and Regulatory Requirements' section of our report to the Members of Infosys Limited of even date)
+ReportontheInternalFinancialControlswithreferencetoConsolidatedFinancialStatementsunderClause (i) of sub-section 3 of Section 143 of the Companies Act, 2013 (the "Act")
+In conjunction with our audit of the Consolidated Financial Statements of the Company as of and for the year ended March 31,2026,we have audited the internalfinancialcontrols withreference to Consolidated Financial Statements ofINFOsYS LIMITED(hereinafter referred toas the"Company")and its subsidiary companies, which are companies incorporated in India, as of that date.
+## Management's and Board of Directors' Responsibilities for Internal Financial Controls
+The respective Company's management and Boards of Directors of the Company and its subsidiary internal financial controlsbased on the internalcontrolover financialreporting criteria establishedby the respectiveCompaniesconsidering theessentialcomponentsofinternalcontrolstated in the GuidanceNote Accountants of India (the "ICAI"). These responsibilities include the design, implementation and and efficient conduct of its business, including adherence to the respective company's policies, the safeguarding of its assets, the prevention and detection of frauds and errors, the accuracy and completeness of the accounting records, and the timely preparation of reliable financial information, as required under the Act.
+## Auditor's Responsibility
+India,based onouraudit.Weconducted ourauditinaccordancewiththeGuidanceNoteonAuditofInternal Financial Controls Over Financial Reporting (the "Guidance Note") issued by the Institute of Chartered Accountants of India ("ICAI") and the Standards on Auditing, prescribed under Section 143(10) of the Act, planandperform the auditto obtainreasonable assurance aboutwhether adequate internalfinancial controls withreferencetoConsolidatedFinancialStatementswasestablishedandmaintainedand ifsuchcontrols operated effectively in all material respects.
+Our audit involves performing procedures to obtain audit evidence about the adequacy of the internal auditof internalfinancial controlswithreferencetoConsolidatedFinancial Statementsincludedobtaining an understanding ofinternalfinancial controls withreference to Consolidated Financial Statements,assessing therisk that a material weakness exists,and testing and evaluating the design and operating effectiveness of internal control based on the assessed risk.Theprocedures selected depend onthe auditor's judgement, including the assessment of the risks of material misstatement of the financial statements, whether due to fraudorerror.
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our audit opinion on the internal financial controls with reference to Consolidated Financial Statements of the Company and its subsidiary companies, which are companies incorporated in India.
+## Meaning of Internal Financial Controls with reference to Consolidated Financial Statements
+A company's internal financial control with reference to Consolidated Financial Statements is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company's internal financial control with reference to Consolidated Financial Statements includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorisations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorised acquisition, use, or disposition of the company's assets that could have a material effect on the financial statements.
+## InherentLimitationsofInternalFinancialControlswithreferencetoConsolidatedFinancialStatements
+Becauseof theinherentlimitationsofinternalfinancialcontrolswithreferencetoConsolidatedFinancial misstatements due to error or fraud may occur and not be detected. Also, projections of any evaluation of subject to the risk that the internal financial control with reference to Consolidated Financial Statements orproceduresmaydeteriorate.
+## Opinion
+In our opinion and to the best of our information and according to the explanations given to us, the Company and its subsidiary companies, which are companies incorporated in India, have, in all material respects, an adequate internal financial controls systemwithreferencetoConsolidated FinancialStatements and such internalfinancialcontrolswithreferencetoConsolidatedFinancialStatementswereoperatingeffectivelyas at March31,2026,based onthe criteriaforinternal financial control withreferencetoConsolidated Financial stated inthe GuidanceNoteonAuditofInternal Financial ControlsOverFinancialReportingissuedby the ICAI.
+<!-- image -->
+## ForDELOITTEHASKINS&amp;SELLSLLP
+CharteredAccountants
+(Firm's RegistrationNo.117366W/W-100018)
+D
+Vikas Bagaria Partner (Membership No.060408) UDIN:26060408HXRWWF7979
+Place:Bengaluru
+Date: April 23,2026
+<!-- image -->
+## Report on the Audit of theInterim Condensed Consolidated Financial Statements
+## Opinion
+We have audited the accompanying interim condensed consolidated financial statements of INFosYS LIMITED (the "Company"), and its subsidiaries (the Company and its subsidiaries together referred to as the "Group"), which comprise the Condensed Consolidated Balance Sheet as at March 31, 2026, the Condensed Consolidated Statement of Profit and Loss (including Other Comprehensive Income) for the three months s CondensedConsolidatedStatementofCashFlowsfortheyearendedonthatdate,andnotestothefinancial statements including a summary of the material accounting policies and other explanatory information (hereinafter referred to as the "interim condensed consolidated financial statements").
+In our opinion and to the best of our information and according to the explanations given to us, the aforesaid interimcondensedconsolidatedfinancialstatementsgiveatrueandfairviewinconformitywiththeIndian Accounting Standard 34"Interim Financial Reporting"（"Ind AS 34")prescribedunder section 133 of the Companies Act, 2013 (the "Act"), read with relevant rules issued thereunder and other accounting principles generally accepted in India, of the consolidated state of affairs of the Group as at March 31, 2026, its consolidated profit, its consolidated other comprehensive income for the three months and year ended on
+## Basis for Opinion
+Weconductedourauditoftheinterimcondensedconsolidatedfinancialstatementsinaccordancewiththe Standards on Auditing ("SAs") specified under section 143 (10) of the Act. Our responsibilities under those StandardsarefurtherdescribedintheAuditor'sResponsibilitiesfor theAuditoftheInterimCondensed Consolidated FinancialStatements section ofourreport.We are independentof the Group in accordance with the Code of Ethics issued by the Institute of Chartered Accountants of India（"ICAI")together with the ethicalrequirementsthatarerelevanttoourauditoftheinterimcondensedconsolidatedfinancial statementsundertheprovisionsoftheActand theRulesmadethereunder,andwehavefulfilledourother ethicalresponsibilitiesinaccordancewiththeserequirements and theICAl's CodeofEthics.Webelieve that theinterimcondensedconsolidatedfinancialstatements.
+## Statements
+condensedconsolidatedfinancialstatements thatgive atrue andfairviewof the consolidatedfinancial position, consolidated financial performance, consolidated other comprehensive income, consolidated changesinequityandconsolidatedcashflowsoftheGroupinaccordancewithIndAS34 andother accountingprinciplesgenerally accepted inIndia.TherespectiveBoardsofDirectorsof the entitiesincluded in the Group are responsible for maintenance of the adequate accounting records for safeguarding the assets of the Group and for preventing and detecting frauds and other irregularities; selection and application of appropriate accounting policies;making judgments and estimates that are reasonable and prudent;and design, implementation and maintenance of adequate internal financial controls, that were operating effectively for ensuring the accuracy and completeness of the accounting records, relevant to the preparation andpresentationof therespective interimfinancialstatementsthatgive a true andfairviewandarefree from material misstatement, whether due to fraud or error which have been used for the purpose of
+## Chartered Accountants
+Prestige Trade Tower,Level 19 46,Paiace Road,High Grounds Bengaluru-560 001 Karnataka, India
+Tel:+91 80 6188 6000
+Fax: +91 80 6188 6011
+<!-- image -->
+## Deloitte Haskins &amp; Sells LLP
+aforesaid.
+In preparing the interim condensed consolidated financial statements, the respective Boards of Directors of the entities included in the Group are responsible for assessing the ability of the respective entities to continue as a going concern, disclosing, as applicable,matters related to going concern and using the going concern basis of accounting unless the respective Boards of Directors either intend to liquidate their own respective entities or to cease operations, or have no realistic alternative but to do so.
+The respective Boards of Directors of the entities included in the Group are also responsible for overseeing the financial reportingprocess of the Group.
+## Auditor'sResponsibilitiesfortheAuditoftheInterimCondensedConsolidatedFinancialStatements
+Ourobjectives aretoobtainreasonableassuranceaboutwhether theinterimcondensedconsolidated financial statements as awhole arefree from material misstatement,whether due tofraud or error,and to issue an auditor'sreport that includes our opinion.Reasonable assurance is ahigh level of assurance butis whenitexists.Misstatementscanarise fromfraud or error and are considered material if,individually orin theaggregate,theycouldreasonablybeexpectedtoinfluencetheeconomicdecisionsofuserstakenonthe basisof these interimcondensed consolidatedfinancial statements.
+As part of an audit in accordance with SAs, we exercise professional judgment and maintain professional scepticism throughout the audit.We also:
+- ·Identify and assess the risks ofmaterial misstatement of the interimcondensed consolidated financial statements, whether due to fraud or error, design and perform audit procedures responsive to those risks, and obtain audit evidence that is sufficient and appropriate to provide a basis for our opinion.The risk of not detecting a material misstatementresulting fromfraud is higher than for one resulting from of internal control.
+- ·Obtainanunderstandingofinternalfinancialcontrolsrelevanttotheauditinorder todesignaudit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion oneffectivenessofsuchcontrols.
+- ·Evaluate the appropriateness of accounting policies used and the reasonableness of accounting estimates andrelateddisclosuresmadebymanagement.
+- ·Conclude on the appropriateness of management's use of the going concern basis of accounting and, basedonthe auditevidenceobtained，whetheramaterialuncertaintyexistsrelatedtoeventsor conditions that may cast significant doubt on the ability of the Group to continue as a going concern. If we conclude that a material uncertainty exists, we are required to draw attention in our auditor's report disclosures are inadequate, to modify our opinion. Our conclusions are based on the audit evidence obtained up to the date of our auditor's report. However, future events or conditions may cause the Grouptoceasetocontinueasagoingconcern.
+- ·Evaluate the overall presentation, structure and content of the interim condensed consolidated financial statements,including the disclosures,，and whether the interim condensed consolidated financial statements represent the underlying transactions and events in a manner that achieves fair presentation.
+- ·Obtain sufficient appropriate audit evidence regarding the financial information of the entities within the Group to express an opinion on the interim condensed consolidated financial statements. We are responsible for the direction, supervision and performance of the audit of financial statements of such entities included in theinterim condensed consolidated financial statements of whichwe areindependent auditors.

@@ -1,0 +1,101 @@
+---
+document_name: "Infosys_18112025182523_SE_letter_LoF_18112025.md"
+group_id: "Infosys_18112025182523_SE_letter_LoF_18112025__group_002"
+source_section_count: 2
+actual_tokens: 2739
+source_section_ids:
+  - "Infosys_18112025182523_SE_letter_LoF_18112025__001__part_002"
+  - "Infosys_18112025182523_SE_letter_LoF_18112025__002"
+---
+---
+section_title: Buyback Programme and Process for Eligible Shareholders
+section_description: This section sets out the Infosys Buyback 2025 window, indicative and actual entitlement ratios, the tendering process, tax-document requirements, payment arrangements, and conditions applicable to ADS holders.
+topics:
+  - Infosys Buyback 2025
+  - Buyback window
+  - Shareholder entitlement ratios
+  - Small shareholder reserved category
+  - Tendering process
+  - Stock broker requirements
+  - Physical and dematerialized shares
+  - Buyback consideration
+  - Tax-related documents
+  - ADS holder participation
+  - Rounding conventions
+sample_queries:
+  - What were the opening and closing dates of the Infosys Buyback 2025?
+  - What was the buyback entitlement for small shareholders?
+  - What was the buyback entitlement ratio for shareholders in the general category?
+  - What were the actual buyback entitlement factors for small shareholders and other shareholders?
+  - How could eligible shareholders tender shares in the Infosys Buyback?
+  - What confirmation did the stock broker provide after shares were tendered?
+  - Were shareholders holding dematerialized shares required to submit a tender form and TRS to the registrar?
+  - How were accepted shares paid for and unaccepted shares released?
+  - What tax-related documents could shareholders submit through the shareholder portal?
+  - What actions were required for ADS holders to participate in the Buyback?
+  - What rounding conventions applied to figures in the Letter of Offer?
+---
+
+## BUYBACK PROGRAMME
+
+| Item | Details |
+|---|---|
+| Buyback Window Opening Date | November 20, 2025 |
+| Buyback Window Closing Date | November 26, 2025 |
+
+## BUYBACK ENTITLEMENT
+
+| Category of eligible shareholders | Ratio of buyback |
+|---|---|
+| Reserved category for small shareholders | 2 equity shares for every 11 equity shares held on the Record Date |
+| General category for all other eligible shareholders | 17 equity shares for every 706 equity shares held on the Record Date |
+
+The above ratios are approximate and provide indicative buyback entitlements. Computation using these ratios may differ slightly from the actual entitlement because of rounding.
+
+The actual buyback entitlement factor was:
+
+- Small Shareholders under the Reserved Category: **18.17213782892960%**
+- Other shareholders under the General Category: **2.40804924035293%**
+
+The numbers calculated using the actual entitlement factor may not conform exactly to the entitlement printed in the Tender Form because of rounding. For further information, refer to “Process and Methodology for the Buyback - Record Date and Ratio of Buyback as per the Buyback Entitlement in each Category” on page 49 of the Letter of Offer.
+
+## ELIGIBLE SHAREHOLDERS CAN ALSO CHECK THEIR ENTITLEMENT ON THE WEBSITE OF THE REGISTRAR TO THE BUYBACK BY FOLLOWING THE STEPS GIVEN BELOW:
+
+1. Visit the [KFin Technologies buyback entitlement portal](https://kosmic.kfintech.com/karisma/buybackofferv2.aspx).
+2. Select **Infosys Limited - Buyback 2025** as the company.
+3. Select the holding type: **Physical**, **NSDL**, or **CDSL**.
+4. Enter the applicable Folio Number, NSDL DPID/Client ID, or CDSL Client ID.
+5. Enter the security code and select **Submit**.
+6. The entitlement will be provided in the pre-filled **FORM OF ACCEPTANCE-CUM ACKNOWLEDGEMENT**.
+
+For a detailed summary of the terms of the Buyback Offer, refer to the Summary Term Sheet in Annexure I.
+
+## Summary of the Buyback Process for Eligible Shareholders
+
+| Process stage | Requirements and information |
+|---|---|
+| Receipt of Tender Form | The Letter of Offer and Tender Form will be sent electronically to eligible shareholders who have registered their email IDs with the depositories. Shareholders without registered email IDs may request physical copies, which will be sent by registered post, speed post, or courier. |
+| Tendering Period | Eligible shareholders may tender equity shares only during the five-working-day tendering period, which commences within two working days of dispatch of the Letter of Offer. |
+| Tendering Equity Shares in the Buyback | Shares must be tendered through a stock broker registered with the BSE or NSE. Shareholders must instruct their stock broker regarding the shares to be tendered. Instructions may be provided through a delivery instruction slip, telephone, or online facility, depending on the broker. A lien will be marked by the stock broker in the shareholder’s demat account for shares tendered in the Tender Offer. |
+| Confirmation by Stock Broker | The stock broker will provide a Transaction Registration Slip (TRS) generated by the stock exchange bidding system. Shareholders using an online broker platform may receive an acknowledgement instead of a TRS. |
+| Submission of Tender Form | Shareholders holding physical equity shares must submit the completed and signed Tender Form, TRS, and required documents to the Registrar before 5:00 p.m. on the last day of the Tendering Period. Shareholders tendering dematerialized shares are not required to submit the Tender Form or TRS to the Registrar. |
+| Receipt of Buyback Consideration and Return of Unaccepted Shares | Acceptance is subject to the Buyback Regulations and the terms and conditions of the Letter of Offer. Shareholders must ensure that their demat account is active and unblocked for release of unaccepted shares and that their bank account is linked to the demat account for credit of accepted-share consideration. After completion of the Buyback, the Company will inform shareholders about payment of consideration and release of unaccepted shares through the public advertisement. |
+| Payment and shareholder-borne costs | The Company will pay the gross amount, net of applicable tax deducted at source, for accepted equity shares to the Clearing Corporation of the stock exchanges. Shareholders whose shares are accepted will receive consideration directly from the Clearing Corporation or stock broker. Brokerage, securities transaction tax, stamp duty, other applicable taxes, charges, and expenses are to be borne by the shareholder. |
+| Submission of tax-related documents | The Company enabled a shareholder portal for electronic submission of documents and tax-related information. No communication or documents would be accepted after the last date of the Tendering Period, November 26, 2025. |
+
+The above is a high-level summary and is not an exhaustive description of the Buyback process or its terms and conditions. The detailed terms and conditions are contained in the Letter of Offer.
+
+## Participation by ADS Holders
+
+As stated in the Postal Ballot Notice dated September 25, 2025, ADS holders seeking to participate in the Buyback were required to withdraw the equity shares underlying their ADSs before the Record Date and become holders of equity shares on the Record Date.
+
+The Postal Ballot Notice stated that ADS holders had approximately 49 calendar days from the date of the notice to take the required steps to hold equity shares on the Record Date. Additional details are provided in paragraphs 22.26–22.30 of the Letter of Offer.
+
+## Rounding Conventions
+
+Certain figures in the Letter of Offer, including financial information, were subject to rounding adjustments. Decimals were rounded to two decimal points. Consequently:
+
+1. The sum or percentage change of numbers may not conform exactly to the total figure shown.
+2. The sum of numbers in a table column or row may not conform exactly to the total shown for that column or row.
+
+One crore equals ten million.

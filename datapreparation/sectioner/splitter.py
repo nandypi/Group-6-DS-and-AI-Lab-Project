@@ -24,7 +24,7 @@ from dataclasses import dataclass
 import re
 
 from datapreparation.sectioner.models import ExtractionUnit, MarkdownBlock, SectionNode
-from datapreparation.sectioner.tokens import estimate_tokens
+from datapreparation.sectioner.tokens import count_actual_tokens, estimate_tokens
 from datapreparation.sectioner.tree import (
     heading_path_for,
     page_range_for_blocks,
@@ -96,7 +96,7 @@ def create_extraction_units(root: SectionNode, document_stem: str) -> list[Extra
             heading_path=heading_path,
             page_start=page_start,
             page_end=page_end,
-            estimated_tokens=estimate_tokens(text),
+            actual_tokens=count_actual_tokens(text),
             text=text,
         )
         units.append(unit)

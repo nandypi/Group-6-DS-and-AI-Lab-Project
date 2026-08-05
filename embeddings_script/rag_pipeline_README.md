@@ -7,6 +7,16 @@ NSE grouped sections, Infosys investor-relations documents, Trendlyne, and
 yfinance. Chroma stores one vector per Markdown file with both its filename and
 complete relative filepath.
 
+Current embedding source folders:
+
+```text
+data/yfinance/clean-mds
+data/trendlyne/clean-mds
+data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500
+data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages
+data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files_1500_2500
+```
+
 For each question, OpenAI creates a query embedding and Chroma retrieves
 candidates. The pipeline mode is controlled by `DO_RERANKING`:
 
@@ -133,3 +143,36 @@ The reusable scripts are:
 - `datapreparation/analyze_group_filepath_recovery.py`
 - `datapreparation/apply_resolved_group_filepaths.py`
 - `datapreparation/recover_ambiguous_group_filepaths_with_reranking.py`
+
+## Recreate embeddings from scratch
+
+Use this when the source corpus changes enough that old Chroma IDs should not
+remain in the retrieval collection. This rebuild uses the source folders listed
+above.
+
+1. Optional preflight: count files and embedding tokens.
+
+```powershell
+.\venv\Scripts\python.exe embeddings_script\token_counter.py
+```
+
+2. Delete the old local Chroma database.
+
+```powershell
+Remove-Item -Recurse -Force embeddings_script\chroma_db
+```
+
+3. Rebuild all embeddings.
+
+```powershell
+.\venv\Scripts\python.exe embeddings_script\index_documents.py
+```
+
+4. Quick retrieval smoke test.
+
+```powershell
+.\venv\Scripts\python.exe embeddings_script\search.py
+```
+
+Do not use `--skip-existing` for a from-scratch rebuild. That flag is only for
+resuming an interrupted run against an existing Chroma database.
