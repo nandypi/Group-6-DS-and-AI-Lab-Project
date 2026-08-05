@@ -8,4 +8,5 @@ chroma_db/
 RAGAS/python313/
 RAGAS/*.exe
 tmp/
+old_chroma_db/
 data/infosys_rag_test_dataset_50_queries_validation_report.csv

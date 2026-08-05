@@ -5,6 +5,8 @@ tqdm
 tiktoken
 PyYAML
 FlagEmbedding
+sentence-transformers
+rank-bm25
 torch
 transformers==4.57.1
 ragas==0.2.15
