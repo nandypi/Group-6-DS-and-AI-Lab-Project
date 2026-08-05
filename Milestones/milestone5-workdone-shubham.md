@@ -291,3 +291,47 @@ Verification:
 Command for Infosys section KE:
 
 - `python datapreparation\run_prompts\run-section-prompt-on-all-docs.py --input-dir data\infosys_earning_calls_press_conf_fact_sheets_results\sectioned_files_1500_2500 --output-dir data\infosys_earning_calls_press_conf_fact_sheets_results\cleaned_section_files_1500_2500`
+
+## 2026-08-04 - Regenerated Embeddings for Updated Corpus
+
+Task: recreate embeddings from scratch after switching to the new cleaned
+section chunk sources for NSE long documents and Infosys IR documents.
+
+What changed:
+
+- Updated `embeddings_script/index_documents.py` to embed from the current
+  cleaned section folders:
+  - `data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500`
+  - `data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files_1500_2500`
+- Updated `embeddings_script/token_counter.py` to use the same source folders
+  as the indexer.
+- Added a from-scratch embedding rebuild flow to
+  `embeddings_script/rag_pipeline_README.md`.
+- Regenerated `embeddings_script/token_counts.json` for the updated corpus.
+
+Embedding rebuild summary:
+
+- Deleted the old local Chroma database at `embeddings_script/chroma_db`.
+- Rebuilt the `finance_file_embeddings` collection from scratch.
+- Total Markdown files embedded: 1,877
+- Final Chroma collection count: 1,877
+- Embedding model: `text-embedding-3-small`
+- One source file exceeded the embedding token limit and was truncated by the
+  existing indexer logic:
+  `data/trendlyne/clean-mds/INFY-StockReport-20260709-2007.md`
+  at 10,673 tokens.
+
+Verification:
+
+- `python -m py_compile embeddings_script\index_documents.py embeddings_script\token_counter.py`
+  passed.
+- `python embeddings_script\token_counter.py` completed and reported 1,877
+  source Markdown files.
+- `.\venv\Scripts\python.exe embeddings_script\index_documents.py` completed
+  successfully after network access was allowed.
+- A retrieval smoke test with `embeddings_script/search.py` succeeded and
+  returned relevant AI-risk sections from the rebuilt Chroma collection.
+
+Commit:
+
+- `19d0602 Update embeddings for sectioned corpus`
