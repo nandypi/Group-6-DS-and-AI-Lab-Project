@@ -1,14 +1,17 @@
-"""Create larger sectioned Markdown files from section JSON manifests.
+"""Create smaller sectioned Markdown files from section JSON manifests.
 
 Flow:
 1. User runs this script with a manifest directory and an output directory.
 2. The script reads each JSON manifest in sorted order.
 3. For each document, it walks the manifest sections in their existing order.
-4. Any source section above 8000 estimated tokens is split by Markdown block
+4. Any source section above 3000 actual tokens is split by Markdown block
    boundaries so no final file is above the hard cap.
-5. Consecutive sections are packed toward 6000 tokens without crossing 8000.
-6. The completed group is written as `group_001.md`, then the next group starts.
-7. A summary is printed for every processed document.
+5. Consecutive sections are packed toward 2500 tokens.
+6. If a group is still below 1500 tokens, the next section can be added up to
+   3000 tokens to preserve section boundaries.
+7. Small leftover groups are merged into a neighbor when that stays under 3000.
+8. The completed group is written as `group_001.md`, then the next group starts.
+9. A summary is printed for every processed document.
 
 Project terms:
 - A manifest is the JSON file produced by `datapreparation.sectioner.cli`.
@@ -19,9 +22,9 @@ ASSUMPTION: grouping measures the final serialized Markdown, including its
 front matter and section separators. This enforces the hard cap on the files
 that downstream extraction actually reads.
 
-ASSUMPTION: if a single manifest section is already above 8000 tokens, it may be
+ASSUMPTION: if a single manifest section is already above 3000 tokens, it may be
 split for final files because the user requested that no sectioned file exceed
-8000 tokens under any case.
+3000 tokens under any case.
 """
 
 from __future__ import annotations
@@ -32,11 +35,11 @@ from pathlib import Path
 import shutil
 import sys
 
-from datapreparation.sectioner.tokens import estimate_tokens
+from datapreparation.sectioner.tokens import count_actual_tokens
 
-TOKEN_TARGET = 6000
-SOFT_MIN = 4000
-HARD_MAX = 8000
+TOKEN_TARGET = 2500
+SOFT_MIN = 1500
+HARD_MAX = 3000
 FILE_METADATA_TOKEN_BUFFER = 300
 
 
@@ -60,6 +63,7 @@ def main() -> int:
     manifests_dir = Path(args.manifests)
     output_dir = Path(args.output)
     token_target = args.token_target
+    soft_min = args.soft_min
     hard_max = args.hard_max
 
     if not manifests_dir.exists() or not manifests_dir.is_dir():
@@ -68,8 +72,14 @@ def main() -> int:
     if token_target < 1:
         print("ERROR: --token-target must be >= 1", file=sys.stderr)
         return 2
+    if soft_min < 1:
+        print("ERROR: --soft-min must be >= 1", file=sys.stderr)
+        return 2
     if hard_max < token_target:
         print("ERROR: --hard-max must be >= --token-target", file=sys.stderr)
+        return 2
+    if soft_min > token_target:
+        print("ERROR: --soft-min must be <= --token-target", file=sys.stderr)
         return 2
 
     manifest_paths = sorted(manifests_dir.glob("*.json"), key=lambda path: path.name.lower())
@@ -81,7 +91,7 @@ def main() -> int:
         output_dir.mkdir(parents=True, exist_ok=True)
         total_groups = 0
         for manifest_path in manifest_paths:
-            result = process_manifest(manifest_path, output_dir, token_target, hard_max)
+            result = process_manifest(manifest_path, output_dir, token_target, soft_min, hard_max)
             total_groups += int(result["groups"])
             print_summary(result)
     except OSError as error:
@@ -103,8 +113,8 @@ def build_argument_parser() -> argparse.ArgumentParser:
         Configured `argparse.ArgumentParser`.
 
     Example:
-        The parser accepts `--manifests`, `--output`, optional `--token-target`,
-        and optional `--hard-max`.
+        The parser accepts `--manifests`, `--output`, `--soft-min`,
+        `--token-target`, and `--hard-max`.
     """
 
     parser = argparse.ArgumentParser(
@@ -116,13 +126,19 @@ def build_argument_parser() -> argparse.ArgumentParser:
         "--token-target",
         type=int,
         default=TOKEN_TARGET,
-        help="Preferred maximum for most grouped files. Defaults to 6000.",
+        help="Preferred maximum for most grouped files. Defaults to 2500.",
+    )
+    parser.add_argument(
+        "--soft-min",
+        type=int,
+        default=SOFT_MIN,
+        help="Preferred minimum for most grouped files. Defaults to 1500.",
     )
     parser.add_argument(
         "--hard-max",
         type=int,
         default=HARD_MAX,
-        help="Hard maximum allowed for any grouped file. Defaults to 8000.",
+        help="Hard maximum allowed for any grouped file. Defaults to 3000.",
     )
     return parser
 
@@ -131,6 +147,7 @@ def process_manifest(
     manifest_path: Path,
     output_dir: Path,
     token_target: int,
+    soft_min: int,
     hard_max: int,
 ) -> dict[str, object]:
     """Create grouped Markdown files for one manifest.
@@ -139,14 +156,15 @@ def process_manifest(
         manifest_path: JSON manifest path.
         output_dir: Base output directory for grouped Markdown files.
         token_target: Preferred token maximum for most groups.
+        soft_min: Preferred token minimum for most groups.
         hard_max: Absolute maximum for all output files.
 
     Returns:
         Summary values for CLI logging.
 
     Example:
-        Sections with token counts `3000, 3200, 2500` become groups
-        `3000` and `5700` under the 6000-token target.
+        Sections with token counts `900, 1200, 1800` become groups
+        around the 1500-2500 target range.
     """
 
     manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
@@ -158,7 +176,7 @@ def process_manifest(
     document_dir = output_dir / document_stem
     replace_document_output_dir(document_dir)
 
-    groups = make_groups(document_name, sections, token_target, hard_max)
+    groups = make_groups(document_name, sections, token_target, soft_min, hard_max)
     written_paths = []
     for index, group in enumerate(groups, start=1):
         output_path = document_dir / f"group_{index:03d}.md"
@@ -210,7 +228,7 @@ def split_oversized_sections(
         Sections and section parts in document order.
 
     Example:
-        An 8600-token source section becomes two part records.
+        A 4000-token source section becomes two part records.
     """
 
     split_sections = []
@@ -242,14 +260,14 @@ def split_one_oversized_section(section: dict[str, object], hard_max: int) -> li
     current_tokens = 0
 
     for block_text in text_blocks:
-        block_tokens = estimate_tokens(block_text)
+        block_tokens = count_actual_tokens(block_text)
         if block_tokens > hard_max:
             small_blocks = split_large_text_block(block_text, hard_max)
         else:
             small_blocks = [block_text]
 
         for small_block in small_blocks:
-            small_tokens = estimate_tokens(small_block)
+            small_tokens = count_actual_tokens(small_block)
             if current_blocks and current_tokens + small_tokens > hard_max:
                 parts.append(build_section_part(section, len(parts) + 1, current_blocks))
                 current_blocks = []
@@ -301,13 +319,13 @@ def split_large_text_block(text: str, hard_max: int) -> list[str]:
         Smaller text blocks.
 
     Example:
-        A large table-like block can be split by rows without exceeding 8000 tokens.
+        A large table-like block can be split by rows without exceeding 3000 tokens.
     """
 
     line_parts = pack_text_parts(text.splitlines(), "\n", hard_max)
     final_parts = []
     for part in line_parts:
-        if estimate_tokens(part) <= hard_max:
+        if count_actual_tokens(part) <= hard_max:
             final_parts.append(part)
             continue
         final_parts.extend(pack_text_parts(part.split(), " ", hard_max))
@@ -333,7 +351,7 @@ def pack_text_parts(parts: list[str], separator: str, hard_max: int) -> list[str
     current = []
     for part in parts:
         candidate = separator.join(current + [part]) if current else part
-        if current and estimate_tokens(candidate) > hard_max:
+        if current and count_actual_tokens(candidate) > hard_max:
             packed.append(separator.join(current))
             current = [part]
             continue
@@ -365,7 +383,7 @@ def build_section_part(
     text = "\n\n".join(text_blocks).strip()
     part = dict(section)
     part["section_id"] = f"{section['section_id']}__part_{part_number:03d}"
-    part["estimated_tokens"] = estimate_tokens(text)
+    part["actual_tokens"] = count_actual_tokens(text)
     part["text"] = text
     return part
 
@@ -374,6 +392,7 @@ def make_groups(
     document_name: str,
     sections: list[dict[str, object]],
     token_target: int,
+    soft_min: int,
     hard_max: int,
 ) -> list[list[dict[str, object]]]:
     """Group consecutive manifest sections by the token threshold.
@@ -382,13 +401,14 @@ def make_groups(
         document_name: Source Markdown document name.
         sections: Manifest sections in document order.
         token_target: Preferred maximum for most groups.
+        soft_min: Preferred minimum for most groups.
         hard_max: Absolute maximum for every output group.
 
     Returns:
         List of grouped sections in the same order.
 
     Example:
-        With target 6000, `3000, 3200, 2500` becomes `[3000]` and `[3200, 2500]`.
+        With target 2500, `900, 1200, 1800` becomes `[900, 1200]` and `[1800]`.
     """
 
     groups = []
@@ -401,7 +421,7 @@ def make_groups(
         current_tokens = group_file_token_total(document_name, group_number, current_group) if current_group else 0
         crosses_target = candidate_tokens > token_target
         crosses_hard_max = candidate_tokens > hard_max
-        current_is_too_small = current_tokens < SOFT_MIN
+        current_is_too_small = current_tokens < soft_min
 
         if current_group and crosses_hard_max:
             groups.append(current_group)
@@ -416,49 +436,66 @@ def make_groups(
     if current_group:
         groups.append(current_group)
 
-    merge_small_final_group(document_name, groups, hard_max)
+    merge_small_groups_with_neighbors(document_name, groups, soft_min, hard_max)
     return groups
 
 
-def merge_small_final_group(
+def merge_small_groups_with_neighbors(
     document_name: str,
     groups: list[list[dict[str, object]]],
+    soft_min: int,
     hard_max: int,
 ) -> None:
-    """Merge a small final leftover into the previous group when it is safe.
+    """Merge small leftover groups into neighbors when it is safe.
 
     Args:
         document_name: Source Markdown document name.
         groups: Grouped sections, updated in place.
+        soft_min: Preferred minimum for most groups.
         hard_max: Absolute maximum for every output group.
 
     Returns:
         None.
 
     Example:
-        A final 500-token group merges into a 6500-token previous group.
+        A 500-token group merges into a 2200-token previous group.
     """
 
-    if len(groups) < 2:
-        return
+    index = 0
+    while index < len(groups):
+        group_number = index + 1
+        current_tokens = group_file_token_total(document_name, group_number, groups[index])
+        if current_tokens >= soft_min:
+            index += 1
+            continue
 
-    final_group = groups[-1]
-    previous_group = groups[-2]
-    previous_group_number = len(groups) - 1
-    final_tokens = group_file_token_total(document_name, len(groups), final_group)
-    previous_tokens = group_file_token_total(document_name, previous_group_number, previous_group)
-    if final_tokens >= SOFT_MIN:
-        return
-    merged_tokens = group_file_token_total(
-        document_name,
-        previous_group_number,
-        previous_group + final_group,
-    )
-    if merged_tokens > hard_max:
-        return
+        if index > 0:
+            previous_group_number = index
+            previous_merge = groups[index - 1] + groups[index]
+            previous_merge_tokens = group_file_token_total(
+                document_name,
+                previous_group_number,
+                previous_merge,
+            )
+            if previous_merge_tokens <= hard_max:
+                groups[index - 1] = previous_merge
+                groups.pop(index)
+                index = max(index - 1, 0)
+                continue
 
-    groups[-2] = previous_group + final_group
-    groups.pop()
+        if index + 1 < len(groups):
+            next_merge = groups[index] + groups[index + 1]
+            next_merge_tokens = group_file_token_total(
+                document_name,
+                group_number,
+                next_merge,
+            )
+            if next_merge_tokens <= hard_max:
+                groups[index] = next_merge
+                groups.pop(index + 1)
+                continue
+
+        index += 1
 
 
 def build_group_file_text(document_name: str, group_number: int, group: list[dict[str, object]]) -> str:
@@ -476,6 +513,61 @@ def build_group_file_text(document_name: str, group_number: int, group: list[dic
         A group with two sections writes one metadata header and both section texts.
     """
 
+    actual_tokens = stable_group_file_token_total(document_name, group_number, group)
+    return build_group_file_text_with_tokens(document_name, group_number, group, actual_tokens)
+
+
+def stable_group_file_token_total(
+    document_name: str,
+    group_number: int,
+    group: list[dict[str, object]],
+) -> int:
+    """Return the actual token count for the final grouped Markdown text.
+
+    Args:
+        document_name: Source Markdown document name.
+        group_number: One-based output file number.
+        group: Consecutive manifest sections.
+
+    Returns:
+        Token count for the exact final Markdown, including metadata.
+
+    Example:
+        A group starts with the section-token sum, then re-counts after the
+        `actual_tokens` metadata value is inserted.
+    """
+
+    actual_tokens = group_token_total(group)
+    for _ in range(5):
+        text = build_group_file_text_with_tokens(document_name, group_number, group, actual_tokens)
+        new_actual_tokens = count_actual_tokens(text)
+        if new_actual_tokens == actual_tokens:
+            return actual_tokens
+        actual_tokens = new_actual_tokens
+    return actual_tokens
+
+
+def build_group_file_text_with_tokens(
+    document_name: str,
+    group_number: int,
+    group: list[dict[str, object]],
+    actual_tokens: int,
+) -> str:
+    """Build grouped Markdown using an already calculated metadata token count.
+
+    Args:
+        document_name: Source Markdown document name.
+        group_number: One-based group number.
+        group: Consecutive manifest sections to concatenate.
+        actual_tokens: Token count to write into the metadata header.
+
+    Returns:
+        Markdown text with metadata followed by concatenated section text.
+
+    Example:
+        Passing `actual_tokens=1800` writes `actual_tokens: 1800`.
+    """
+
     source_ids = [str(section["section_id"]) for section in group]
 
     lines = [
@@ -483,7 +575,7 @@ def build_group_file_text(document_name: str, group_number: int, group: list[dic
         f'document_name: "{document_name}"',
         f"group_id: \"{Path(document_name).stem}__group_{group_number:03d}\"",
         f"source_section_count: {len(group)}",
-        f"estimated_tokens: {group_token_total(group)}",
+        f"actual_tokens: {actual_tokens}",
         "source_section_ids:",
     ]
     for section_id in source_ids:
@@ -507,13 +599,13 @@ def read_section_tokens(section: dict[str, object]) -> int:
         section: One section entry from a JSON manifest.
 
     Returns:
-        Integer estimated token count.
+        Integer actual token count.
 
     Example:
-        `{"estimated_tokens": 3000}` returns `3000`.
+        `{"actual_tokens": 3000}` returns `3000`.
     """
 
-    return int(section["estimated_tokens"])
+    return int(section["actual_tokens"])
 
 
 def group_token_total(group: list[dict[str, object]]) -> int:
@@ -523,10 +615,10 @@ def group_token_total(group: list[dict[str, object]]) -> int:
         group: Consecutive manifest sections.
 
     Returns:
-        Sum of `estimated_tokens`.
+        Sum of `actual_tokens`.
 
     Example:
-        Token counts `3000` and `5100` return `8100`.
+        Token counts `300` and `510` return `810`.
     """
 
     return sum(read_section_tokens(section) for section in group)
@@ -551,7 +643,7 @@ def group_file_token_total(
         A group of two sections includes both section text and generated front matter.
     """
 
-    return estimate_tokens(build_group_file_text(document_name, group_number, group))
+    return stable_group_file_token_total(document_name, group_number, group)
 
 
 def print_summary(result: dict[str, object]) -> None:

@@ -120,7 +120,7 @@ def rerank_results(results, question, reranker, document_count=None):
         if filepath in seen_files:
             continue
         seen_files.add(filepath)
-        scores = score_document(reranker, question, document)
+        scores = score_document(reranker, question, document, filepath)
         scores["filename"] = metadata.get("filename", filepath or "unknown")
         scores["filepath"] = filepath
         scores["final_score"] = (
@@ -151,7 +151,7 @@ def select_without_reranking(results):
         if filepath in seen_files:
             continue
         seen_files.add(filepath)
-        _, body, _ = split_front_matter(document)
+        _, body, _ = split_front_matter(document, filepath)
         selected.append({
             "filename": metadata.get("filename", filepath or "unknown"),
             "filepath": filepath,

@@ -1,0 +1,62 @@
+---
+section_title: Subsidiary Financial Information
+section_description: Financial information for Infosys subsidiaries numbered 78 to 100, including reporting periods, acquisition dates, exchange rates, capital, reserves, assets, liabilities, turnover, taxation, profits or losses, and shareholding.
+topics:
+  - Subsidiary financial performance
+  - Subsidiary reporting periods
+  - Acquisition dates
+  - Exchange rates
+  - Share capital and reserves
+  - Total assets and liabilities
+  - Turnover
+  - Profit and taxation
+  - Subsidiary shareholding
+  - Automotive engineering subsidiaries
+  - Technology and security services subsidiaries
+sample_queries:
+  - What was the turnover and profit or loss after taxation of Infosys Turkey Bilgi Teknolojileri Limited Sirketi for December 2025?
+  - Which in-tech subsidiaries reported a profit after taxation for December 31, 2025?
+  - What were the total assets and liabilities of in-tech GmbH at December 31, 2025?
+  - What exchange rates were used for the German, Romanian, Spanish, Czech, Austrian, and UK subsidiaries?
+  - What were the financial results of Infosys Services (Thailand) Limited for March 31, 2026?
+  - What were the turnover and profit after taxation of Insemi Technology Services Private Limited?
+  - Which subsidiaries acquired on April 30, 2025 are listed in the table?
+  - What were the financial results of The Missing Link Security Pty Ltd?
+  - What were the assets, liabilities, turnover, and profit after taxation of MRE Consulting Ltd?
+  - What percentage of each listed subsidiary was held by Infosys?
+  - Which subsidiaries reported no turnover or profit information?
+  - What were the reserves and surplus of the listed Indian subsidiaries?
+---
+
+# Subsidiary Financial Information
+
+All amounts are in ₹ crore, except exchange rates and percentages of shareholding.
+
+| Sl. No. | Name of subsidiary | Country | Financial period ended | Date of acquisition | Exchange rate / reporting currency | Share capital | Reserves and surplus | Total assets | Total liabilities (excluding share capital and reserves and surplus) | Investments | Turnover (1) (includes inter-company transactions) | Profit / (Loss) before taxation (1) | Provision for taxation (1) | Profit / (Loss) after taxation (1) | % of shareholding |
+|---:|---|---|---|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 78 | Infosys Turkey Bilgi Teknolojileri Limited Sirketi (2) | Turkey | Dec 31, 2025 | NA | 1 TRY = ₹2.09 | 103 | (98) | 190 | 185 | - | 72 | (19) | - | (19) | 100 |
+| 79 | in-tech GmbH (26) | Germany | Dec 31, 2025 | July 17, 2024 | 1 EUR = ₹105.47 | 1 | 353 | 763 | 409 | - | 1,232 | (203) | (12) | (191) | 100 |
+| 80 | drivetech Fahrversuch GmbH (26) | Germany | Dec 31, 2025 | July 17, 2024 | 1 EUR = ₹105.47 | - | 4 | 6 | 2 | - | 16 | 1 | - | 1 | 100 |
+| 81 | in-tech Engineering S.R.L. (formerly known as ProIT) (26)(41) | Romania | Dec 31, 2025 | July 17, 2024 | 1 RON = ₹20.71 | - | 17 | 22 | 5 | - | 32 | (14) | (2) | (12) | 100 |
+| 82 | in-tech Automotive Engineering SL (26) | Spain | Dec 31, 2025 | July 17, 2024 | 1 EUR = ₹105.47 | - | (6) | 11 | 17 | - | 27 | (1) | - | (1) | 100 |
+| 83 | in-tech Engineering s.r.o (26) | Czech Republic | Dec 31, 2025 | July 17, 2024 | 1 CZK = ₹4.35 | 1 | 16 | 20 | 3 | - | 29 | 5 | 1 | 4 | 100 |
+| 84 | in-tech Engineering GmbH (26) | Austria | Dec 31, 2025 | July 17, 2024 | 1 EUR = ₹105.47 | 1 | 6 | 11 | 4 | - | 36 | 2 | 1 | 1 | 100 |
+| 85 | in-tech Group Ltd (26) | United Kingdom | Dec 31, 2025 | July 17, 2024 | 1 GBP = ₹120.78 | - | 11 | 15 | 4 | - | 40 | 3 | - | 3 | 100 |
+| 86 | In-tech Automotive Engineering Shenyang Co. Ltd (26) | China | Dec 31, 2025 | July 17, 2024 | 1 RMB = ₹12.87 | 2 | 25 | 42 | 15 | - | 67 | 16 | 2 | 14 | 100 |
+| 87 | In-tech Automotive Engineering Bejing Co., Ltd (26) | China | Dec 31, 2025 | July 17, 2024 | 1 RMB = ₹12.87 | - | 1 | 3 | 2 | - | 14 | (1) | - | (1) | 100 |
+| 88 | Infy tech SAS (12)(17) | France | Dec 31, 2025 | July 17, 2024 | 1 EUR = ₹105.47 | 19 | 9 | 85 | 57 | - | 53 | 10 | 2 | 7 | 100 |
+
+| Sl. No. | Name of subsidiary | Country | Financial period ended | Date of acquisition | Exchange rate / reporting currency | Share capital | Reserves and surplus | Total assets | Total liabilities (excluding share capital and reserves and surplus) | Investments | Turnover (1) (includes inter-company transactions) | Profit / (Loss) before taxation (1) | Provision for taxation (1) | Profit / (Loss) after taxation (1) | % of shareholding |
+|---:|---|---|---|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 89 | Insemi Technology Services Private Limited (28) | India | Mar 31, 2026 | May 10, 2024 | INR | 1 | 29 | 130 | 100 | - | 298 | (11) | - | (11) | 100 |
+| 90 | Elbrus Labs Private Limited (28)(37) | India | Mar 31, 2026 | May 10, 2024 | INR | - | 2 | 8 | 6 | - | 11 | (2) | - | (2) | 100 |
+| 91 | Infosys Services (Thailand) Limited (2)(29) | Thailand | Mar 31, 2026 | July 2024 | 1 THB = ₹2.89 | 12 | (5) | 13 | 6 | - | 11 | (5) | - | (5) | 100 |
+| 92 | in-tech Group India Private Ltd (26) | India | Mar 31, 2026 | July 17, 2024 | INR | - | 3 | 10 | 7 | - | 21 | 3 | 1 | 2 | 100 |
+| 93 | Infosys BPM UK Limited (5) | United Kingdom | Mar 31, 2026 | NA | 1 GBP = ₹125.51 | 23 | 2 | 25 | - | - | - | - | - | - | 100 |
+| 94 | Infosys BPM Netherlands B.V. (8)(31) | The Netherlands | Mar 31, 2026 | NA | 1 EUR = ₹109 | 6 | - | 6 | - | - | - | - | - | - | 100 |
+| 95 | Infosys Australia Technology Services Pty Ltd (12)(34) | Australia | Jun 30, 2025 | NA | 1 AUD = ₹55.96 | 466 | - | 523 | 57 | - | - | - | - | - | 100 |
+| 96 | The Missing Link Automation Pty Ltd (39) | Australia | Jun 30, 2025 | Apr 30, 2025 | 1 AUD = ₹55.96 | - | (22) | 1 | 23 | - | 1 | - | - | - | 100 |
+| 97 | The Missing Link Network Integration Pty Ltd (39) | Australia | Jun 30, 2025 | Apr 30, 2025 | 1 AUD = ₹55.96 | - | 24 | 67 | 43 | - | 16 | (2) | (1) | (1) | 100 |
+| 98 | The Missing Link Security Pty Ltd (39) | Australia | Jun 30, 2025 | Apr 30, 2025 | 1 AUD = ₹55.96 | - | 51 | 169 | 118 | - | 39 | 11 | 3 | 8 | 100 |
+| 99 | The Missing Link Security Ltd (39) | United Kingdom | Jun 30, 2025 | Apr 30, 2025 | 1 GBP = ₹117.45 | - | (13) | 4 | 17 | - | - | - | - | - | 100 |
+| 100 | MRE Consulting Ltd (38) | United States | Mar 31, 2026 | Apr 30, 2025 | 1 USD = ₹94.84 | - | 100 | 241 | 141 | - | 583 | 35 | 7 | 28 | 100 |

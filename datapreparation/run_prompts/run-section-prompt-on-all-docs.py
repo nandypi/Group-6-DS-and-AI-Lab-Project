@@ -1,7 +1,7 @@
 """
 Reason this file exists:
-Clean every grouped section from the NSE documents longer than 10 pages with
-the v1 section prompt and the official Codex Python SDK.
+Clean every grouped section from supported investor-document folders with the
+matching section prompt and the official Codex Python SDK.
 
 Project terms:
 - Section folder: one document's folder of grouped Markdown sections.
@@ -11,21 +11,24 @@ Project terms:
   and adds generated section metadata immediately after it.
 
 Code flow:
-1. Load the v1 section prompt.
-2. Find every Markdown section in every document folder, or one --folder.
-3. Read the complete section, including its original YAML metadata.
-4. Insert the section into the prompt and send it in a read-only Codex thread.
-5. Confirm the response preserves the original YAML and has a second YAML block.
-6. Save the cleaned section under the matching output document folder.
-7. Skip valid existing outputs so an interrupted run can resume.
+1. Choose input and output folders from defaults or CLI arguments.
+2. Pick the section prompt from the input folder path.
+3. Find every Markdown section in every document folder, or one --folder.
+4. Read the complete section, including its original YAML metadata.
+5. Insert the section into the prompt and send it in a read-only Codex thread.
+6. Confirm the response preserves the original YAML and has a second YAML block.
+7. Save the cleaned section under the matching output document folder.
+8. Skip valid existing outputs so an interrupted run can resume.
 
 Example:
-sectioned_files/report/group_001.md -> v1 prompt -> Codex ->
+sectioned_files/report/group_001.md -> matching prompt -> Codex ->
 cleaned_section_files/report/group_001.md
 
 ASSUMPTION: every input section starts with one YAML front matter block.
 ASSUMPTION: document folders contain their section files directly, not in nested folders.
-ASSUMPTION: every Codex request uses gpt-5.5 with medium reasoning effort.
+ASSUMPTION: input paths containing `nse_files_final` use the NSE section prompt.
+ASSUMPTION: input paths containing `infosys_earning_calls` use the Infosys section prompt.
+ASSUMPTION: every Codex request uses gpt-5.6-luna with medium reasoning effort.
 """
 
 import argparse
@@ -34,7 +37,7 @@ from pathlib import Path
 
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
-INPUT_DIR = (
+DEFAULT_INPUT_DIR = (
     PROJECT_ROOT
     / "data"
     / "nse_files_final"
@@ -42,7 +45,7 @@ INPUT_DIR = (
     / "greater_than_10_pages"
     / "sectioned_files"
 )
-OUTPUT_DIR = (
+DEFAULT_OUTPUT_DIR = (
     PROJECT_ROOT
     / "data"
     / "nse_files_final"
@@ -50,13 +53,19 @@ OUTPUT_DIR = (
     / "greater_than_10_pages"
     / "cleaned_section_files"
 )
-PROMPT_PATH = (
+NSE_PROMPT_PATH = (
     PROJECT_ROOT
     / "prompts"
     / "KE-prompts-for-nse-docs"
+    / "KE-section-prompt-v2.md"
+)
+INFOSYS_PROMPT_PATH = (
+    PROJECT_ROOT
+    / "prompts"
+    / "KE-prompts-for-infosys-docs"
     / "KE-section-prompt-v1.md"
 )
-MODEL = "gpt-5.5"
+MODEL = "gpt-5.6-luna"
 MAX_ATTEMPTS = 2
 REQUIRED_GENERATED_METADATA_FIELDS = (
     "section_title",
@@ -92,12 +101,38 @@ def read_section(path):
 
 def render_prompt(prompt_template, section_text):
     """
-    Insert one complete section into the v1 prompt.
+    Insert one complete section into the selected prompt.
 
     Called after read_section. The original YAML stays in the supplied text so
     Codex can preserve it exactly in the cleaned result.
     """
     return prompt_template.replace("{DOCUMENT_TEXT}", section_text)
+
+
+def choose_prompt_path(input_dir):
+    """
+    Return the prompt path that matches the selected input folder.
+
+    Called after resolving --input-dir and before reading the prompt template.
+    A path under `nse_files_final` uses the NSE prompt, while a path under
+    `infosys_earning_calls` uses the Infosys investor-relations prompt.
+
+    Example:
+        `choose_prompt_path(Path("data/infosys_earning_calls/..."))` returns
+        the Infosys section prompt path.
+    """
+    normalized_path = str(input_dir).replace("\\", "/").lower()
+
+    if "nse_files_final" in normalized_path:
+        return NSE_PROMPT_PATH
+
+    if "infosys_earning_calls" in normalized_path:
+        return INFOSYS_PROMPT_PATH
+
+    raise ValueError(
+        "cannot choose prompt from --input-dir. Expected path containing "
+        "'nse_files_final' or 'infosys_earning_calls'."
+    )
 
 
 def validate_markdown(response_text, original_yaml):
@@ -250,7 +285,7 @@ def load_codex_sdk():
     return Codex
 
 
-def select_document_folders(folder_name):
+def select_document_folders(folder_name, input_dir):
     """
     Return all document folders or one direct child selected with --folder.
 
@@ -258,29 +293,29 @@ def select_document_folders(folder_name):
     rejects paths that could point outside the sectioned-files folder.
     """
     if folder_name is None:
-        return sorted(path for path in INPUT_DIR.iterdir() if path.is_dir())
+        return sorted(path for path in input_dir.iterdir() if path.is_dir())
 
     if Path(folder_name).name != folder_name:
         raise ValueError("--folder must contain a folder name, not a path")
 
-    folder_path = INPUT_DIR / folder_name
+    folder_path = input_dir / folder_name
     if not folder_path.is_dir():
         raise ValueError(f"section folder not found: {folder_path}")
 
     return [folder_path]
 
 
-def find_section_files(document_folders):
+def find_section_files(document_folders, input_dir, output_dir):
     """
     Return each section file and its output path, preserving folder names.
 
-    Called after the folder selection. A file in sectioned_files/report is
-    mapped to cleaned_section_files/report with the same filename.
+    Called after the folder selection. A file in the input folder's `report`
+    child is mapped to the output folder's `report` child with the same filename.
     """
     selected_files = []
 
     for folder_path in document_folders:
-        output_folder = OUTPUT_DIR / folder_path.name
+        output_folder = output_dir / folder_path.name
         for input_path in sorted(folder_path.glob("*.md")):
             selected_files.append((input_path, output_folder / input_path.name))
 
@@ -306,34 +341,52 @@ def main():
     processing failures, and 2 for invalid command-line input.
     """
     parser = argparse.ArgumentParser(
-        description="Clean grouped NSE document sections with the v1 section prompt."
+        description="Clean grouped document sections with the matching section prompt."
     )
     parser.add_argument(
         "--folder",
         help="Process one direct folder from sectioned_files instead of every folder.",
     )
+    parser.add_argument(
+        "--input-dir",
+        default=str(DEFAULT_INPUT_DIR),
+        help="Folder containing grouped Markdown section folders.",
+    )
+    parser.add_argument(
+        "--output-dir",
+        default=str(DEFAULT_OUTPUT_DIR),
+        help="Folder where cleaned Markdown section folders are written.",
+    )
     args = parser.parse_args()
-
-    if not PROMPT_PATH.is_file():
-        print(f"ERROR: prompt file not found: {PROMPT_PATH}", file=sys.stderr)
-        return 1
-
-    if not INPUT_DIR.is_dir():
-        print(f"ERROR: input folder not found: {INPUT_DIR}", file=sys.stderr)
-        return 1
+    input_dir = Path(args.input_dir).resolve()
+    output_dir = Path(args.output_dir).resolve()
 
     try:
-        document_folders = select_document_folders(args.folder)
+        prompt_path = choose_prompt_path(input_dir)
     except ValueError as error:
         print(f"ERROR: {error}", file=sys.stderr)
         return 2
 
-    input_files = find_section_files(document_folders)
+    if not prompt_path.is_file():
+        print(f"ERROR: prompt file not found: {prompt_path}", file=sys.stderr)
+        return 1
+
+    if not input_dir.is_dir():
+        print(f"ERROR: input folder not found: {input_dir}", file=sys.stderr)
+        return 1
+
+    try:
+        document_folders = select_document_folders(args.folder, input_dir)
+    except ValueError as error:
+        print(f"ERROR: {error}", file=sys.stderr)
+        return 2
+
+    input_files = find_section_files(document_folders, input_dir, output_dir)
     if not input_files:
         print("ERROR: no Markdown section files found in the selected folders", file=sys.stderr)
         return 1
 
-    prompt_template = PROMPT_PATH.read_text(encoding="utf-8")
+    prompt_template = prompt_path.read_text(encoding="utf-8")
     processed = 0
     skipped = 0
     failures = []
@@ -345,7 +398,7 @@ def main():
             ensure_chatgpt_login(codex)
 
             for number, (input_path, output_path) in enumerate(input_files, start=1):
-                print(f"[{number}/{len(input_files)}] {input_path.relative_to(INPUT_DIR)}")
+                print(f"[{number}/{len(input_files)}] {input_path.relative_to(input_dir)}")
 
                 try:
                     section_text, original_yaml = read_section(input_path)
@@ -362,7 +415,7 @@ def main():
                     processed += 1
                 except Exception as error:
                     print(f"  ERROR: {error}", file=sys.stderr)
-                    failures.append((str(input_path.relative_to(INPUT_DIR)), str(error)))
+                    failures.append((str(input_path.relative_to(input_dir)), str(error)))
     except Exception as error:
         print(f"ERROR: {error}", file=sys.stderr)
         return 1
@@ -370,6 +423,7 @@ def main():
     print()
     print(f"Document folders selected: {len(document_folders)}")
     print(f"Markdown sections found: {len(input_files)}")
+    print(f"Prompt: {prompt_path.relative_to(PROJECT_ROOT)}")
     print(f"Model: {MODEL}")
     print("Reasoning effort: medium")
     print(f"Newly processed: {processed}")

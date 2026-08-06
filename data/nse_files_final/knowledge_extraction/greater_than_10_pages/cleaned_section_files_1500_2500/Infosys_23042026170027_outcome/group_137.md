@@ -1,0 +1,106 @@
+---
+document_name: "Infosys_23042026170027_outcome.md"
+group_id: "Infosys_23042026170027_outcome__group_137"
+source_section_count: 1
+actual_tokens: 2162
+source_section_ids:
+  - "Infosys_23042026170027_outcome__100"
+---
+---
+section_title: 2.10.5 Impairment and Financial instruments by category
+section_description: This section describes the expected credit loss model used for financial assets and unbilled revenues and presents the carrying and fair values of financial instruments by category as of March 31, 2026 and March 31, 2025.
+topics:
+  - Expected credit losses
+  - Impairment losses and reversals
+  - Financial instrument classification
+  - Fair value measurement
+  - Cash and cash equivalents
+  - Investments
+  - Trade receivables
+  - Loans and other financial assets
+  - Trade payables
+  - Lease liabilities
+  - Other financial liabilities
+sample_queries:
+  - How does the Company measure expected credit losses?
+  - When are financial assets measured using lifetime expected credit losses?
+  - How does the Company determine allowances for credit losses?
+  - How are impairment losses or gains recognized?
+  - What was the carrying value and fair value of financial instruments as of March 31, 2026?
+  - What was the carrying value and fair value of financial instruments as of March 31, 2025?
+  - What was the value of cash and cash equivalents at March 31, 2026 and March 31, 2025?
+  - What were the Company’s trade receivables at March 31, 2026 and March 31, 2025?
+  - What investment categories were reported at fair value through profit or loss or OCI in 2026?
+  - What were the total financial assets and liabilities by category at March 31, 2026?
+  - What were the trade payables and lease liabilities at March 31, 2025?
+  - Which financial instruments had carrying values that approximated fair values because of short maturities?
+---
+
+## 2.10.5 Impairment
+
+The Company recognizes loss allowances using the expected credit loss (ECL) model for financial assets and unbilled revenues that are not fair valued through profit or loss.
+
+Loss allowances for trade receivables and unbilled revenues with no significant financing component are measured at an amount equal to lifetime ECL. For all other financial assets, expected credit losses are measured at 12-month ECL unless there has been a significant increase in credit risk since initial recognition; in that case, lifetime ECL is used.
+
+The Company determines allowances for credit losses based on historical loss experience, adjusted for current and estimated future economic conditions. It considers current and anticipated future economic conditions in the industries it serves and the countries where it operates.
+
+The ECL adjustment required at the reporting date is recognized as an impairment loss or gain in the statement of profit and loss.
+
+## Financial instruments by category
+
+The carrying value and fair value of financial instruments by category as at March 31, 2026 were as follows:
+
+| Particulars | Amortized cost | Fair value through profit or loss: designated upon initial recognition | Fair value through profit or loss: mandatory | Fair value through OCI: equity instruments designated upon initial recognition | Fair value through OCI: mandatory | Total carrying value | Fair value (₹ crore) |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| **Assets:** |  |  |  |  |  |  |  |
+| Cash and cash equivalents (Refer to note 2.8) | 8,727 | - | - | - | - | 8,727 | 8,727 |
+| **Investments (Refer to note 2.4):** |  |  |  |  |  |  |  |
+| Preference securities, equity securities and others | - | 52 | 59 | 691 | - | 802 | 802 |
+| Tax-free bonds and government bonds | 508 | - | - | - | - | 508 | 529 |
+| Mutual fund units | - | - | 2,191 | - | - | 2,191 | 2,191 |
+| Commercial papers | - | - | - | - | 1,180 | 1,180 | 1,180 |
+| Certificates of deposit | - | - | - | - | 7,546 | 7,546 | 7,546 |
+| Non-convertible debentures | - | - | - | - | 4,060 | 4,060 | 4,060 |
+| Government securities | - | - | - | - | 4,450 | 4,450 | 4,450 |
+| Trade receivables (Refer to note 2.7) | 30,337 | - | - | - | - | 30,337 | 30,337 |
+| Loans (Refer to note 2.5) | 194 | - | - | - | - | 194 | 194 |
+| Other financial assets (Refer to note 2.6) | 16,525 | - | 24 | - | 56 | 16,605 | 16,585 |
+| **Total assets** | **56,291** | **52** | **2,274** | **691** | **17,292** | **76,600** | **76,601** |
+| **Liabilities:** |  |  |  |  |  |  |  |
+| Trade payables (Refer to note 2.13) | 3,539 | - | - | - | - | 3,539 | 3,539 |
+| Lease liabilities (Refer to note 2.3) | 3,749 | - | - | - | - | 3,749 | 3,749 |
+| Other financial liabilities (Refer to note 2.12) | 15,306 | - | 512 | - | 55 | 15,873 | 15,873 |
+| **Total liabilities** | **22,594** | **-** | **512** | **-** | **55** | **23,161** | **23,161** |
+
+(1) On account of fair value changes, including interest accrued.  
+(2) Excludes interest accrued on tax-free bonds and government bonds carried at amortized cost of ₹20 crore.
+
+The carrying value and fair value of financial instruments by category as at March 31, 2025 were as follows:
+
+| Particulars | Amortized cost | Fair value through profit or loss: designated upon initial recognition | Fair value through profit or loss: mandatory | Fair value through OCI: equity instruments designated upon initial recognition | Fair value through OCI: mandatory | Total carrying value | Fair value (₹ crore) |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| **Assets:** |  |  |  |  |  |  |  |
+| Cash and cash equivalents (Refer to note 2.8) | 14,265 | - | - | - | - | 14,265 | 14,265 |
+| **Investments (Refer to note 2.4):** |  |  |  |  |  |  |  |
+| Preference securities, equity securities and others | - | 25 | 61 | 226 | - | 312 | 312 |
+| Tax-free bonds and government bonds | 1,633 | - | - | - | - | 1,633 | 1,796 |
+| Target maturity fund units | - | - | 465 | - | - | 465 | 465 |
+| Mutual fund units | - | - | 1,185 | - | - | 1,185 | 1,185 |
+| Commercial papers | - | - | - | - | 3,442 | 3,442 | 3,442 |
+| Certificates of deposit | - | - | - | - | 3,257 | 3,257 | 3,257 |
+| Non-convertible debentures | - | - | - | - | 4,869 | 4,869 | 4,869 |
+| Government securities | - | - | - | - | 6,800 | 6,800 | 6,800 |
+| Trade receivables (Refer to note 2.7) | 26,413 | - | - | - | - | 26,413 | 26,413 |
+| Loans (Refer to note 2.5) | 233 | - | - | - | - | 233 | 233 |
+| Other financial assets (Refer to note 2.6) | 14,748 | - | 143 | - | 28 | 14,919 | 14,839 |
+| **Total assets** | **57,292** | **25** | **1,854** | **226** | **18,396** | **77,793** | **77,876** |
+| **Liabilities:** |  |  |  |  |  |  |  |
+| Trade payables (Refer to note 2.13) | 2,728 | - | - | - | - | 2,728 | 2,728 |
+| Lease liabilities (Refer to note 2.3) | 3,459 | - | - | - | - | 3,459 | 3,459 |
+| Other financial liabilities (Refer to note 2.12) | 13,593 | - | 54 | - | 33 | 13,680 | 13,680 |
+| **Total liabilities** | **19,780** | **-** | **54** | **-** | **33** | **19,867** | **19,867** |
+
+(1) On account of fair value changes, including interest accrued.  
+(2) Excludes interest accrued on tax-free bonds and government bonds carried at amortized cost of ₹80 crore.
+
+For trade receivables, trade payables, other assets and payables maturing within one year from the balance sheet date, the carrying amounts approximate fair value because of the short maturity of these instruments.

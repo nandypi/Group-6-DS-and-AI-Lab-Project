@@ -1,0 +1,50 @@
+---
+document_name: "INFY_30052026200807_SE_Integrated_Annual_Report_2025-26.md"
+group_id: "INFY_30052026200807_SE_Integrated_Annual_Report_2025-26__group_119"
+source_section_count: 1
+actual_tokens: 1289
+source_section_ids:
+  - "INFY_30052026200807_SE_Integrated_Annual_Report_2025-26__106__part_002"
+---
+---
+section_title: Changes in Equity
+section_description: Reconciliation of equity attributable to equity holders of the Company and non-controlling interests, including stock-option accounting, reserves, dividends, and the balance as at March 31, 2025.
+topics:
+  - Equity share capital
+  - Reserves and surplus
+  - Retained earnings
+  - Employee stock compensation
+  - Stock-option exercise and forfeiture
+  - Special Economic Zone reinvestment reserve
+  - Dividends
+  - Other comprehensive income
+  - Non-controlling interests
+  - March 31, 2025 equity balance
+sample_queries:
+  - What was total equity as at March 31, 2025?
+  - What was total equity attributable to equity holders of the Company as at March 31, 2025?
+  - What was the balance of retained earnings as at March 31, 2025?
+  - How much dividend was declared or paid to equity holders of the Company?
+  - How much dividend was paid to non-controlling interests?
+  - What was the employee stock compensation expense?
+  - What amounts were transferred on exercise of stock options?
+  - What was the income tax benefit arising on exercise of stock options?
+  - How did the Special Economic Zone reinvestment reserve change?
+  - What was the balance of the share options outstanding account as at March 31, 2025?
+---
+
+# Changes in Equity
+
+| Particulars | Equity share capital | Capital reserve | Capital redemption reserve | Securities Premium | Retained earnings | General reserve | Share Options Outstanding Account | Special Economic Zone Re-investment reserve (2) | Other reserves (3) | Equity instruments through other comprehensive income | Exchange differences on translating the financial statements | Effective portion of Cash Flow Hedges | Other items of other comprehensive income / (loss) | Total equity attributable to equity holders of the Company | Non-controlling interest | Total equity |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Employee stock compensation expense (Refer to Note 2.12) | - | - | - | - | - | - | 785 | - | - | - | - | - | - | 785 | - | 785 |
+| Transferred on account of exercise of stock options (Refer to note 2.12) | - | - | - | 471 | - | - | (471) | - | - | - | - | - | - | - | - | - |
+| Transferred on account of options not exercised | - | - | - | - | - | 198 | (198) | - | - | - | - | - | - | - | - | - |
+| Income tax benefit arising on exercise of stock options | - | - | - | - | - | - | 39 | - | - | - | - | - | - | 39 | - | 39 |
+| Transfer to legal reserve | - | - | - | - | (2) | - | - | - | 2 | - | - | - | - | - | - | - |
+| Dividends (1) | - | - | - | - | (20,295) | - | - | - | - | - | - | - | - | (20,295) | - | (20,295) |
+| Dividends paid to non-controlling interest of subsidiary | - | - | - | - | - | - | - | - | - | - | - | - | - | - | (2) | (2) |
+| Transferred to Special Economic Zone Re-investment reserve | - | - | - | - | (74) | - | - | 74 | - | - | - | - | - | - | - | - |
+| Transferred from Special Economic Zone Re-investment reserve to retained earnings | - | - | - | - | 2,999 | - | - | (2,999) | - | - | - | - | - | - | - | - |
+| Transferred from Special Economic Zone reserve on utilization | - | - | - | - | 881 | - | - | (881) | - | - | - | - | - | - | - | - |
+| Balance as at March 31, 2025 | 2,073 | 54 | 169 | 1,091 | 78,627 | 1,412 | 1,068 | 8,298 | 24 | 285 | 2,904 | (18) | (169) | 95,818 | 385 | 96,203 |

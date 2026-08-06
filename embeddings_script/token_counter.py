@@ -5,7 +5,15 @@ file -> count tokens with the text-embedding-3-small tokenizer -> save all
 results to token_counts.json -> print files above the API token limit.
 
 For example, a report.md file produces one JSON entry with its path and token
-count. ASSUMPTION: Markdown files use UTF-8 text encoding.
+count.
+
+Approved folder means one cleaned corpus folder used by retrieval today:
+yfinance, Trendlyne, cleaned Infosys IR section chunks, cleaned NSE small whole
+documents, and cleaned NSE long-document section chunks.
+
+ASSUMPTION: Markdown files use UTF-8 text encoding. ASSUMPTION: the cleaned
+section chunk folders are the current source of truth for long NSE documents
+and Infosys IR documents.
 """
 
 import json
@@ -22,9 +30,9 @@ TOKEN_LIMIT = 8192
 DATA_SOURCES = [
     PROJECT_ROOT / "data/yfinance/clean-mds",
     PROJECT_ROOT / "data/trendlyne/clean-mds",
-    PROJECT_ROOT / "data/infosys_earning_calls_press_conf_fact_sheets_results/infosys_ir_earning_calls_clean_markdowns",
+    PROJECT_ROOT / "data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500",
     PROJECT_ROOT / "data/nse_files_final/whole_document_cleaning/equal_or_less_than_10_pages",
-    PROJECT_ROOT / "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files",
+    PROJECT_ROOT / "data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files_1500_2500",
 ]
 
 

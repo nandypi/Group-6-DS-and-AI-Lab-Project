@@ -141,7 +141,7 @@ def build_section_file_text(document_name: str, section: dict[str, object]) -> s
         "---",
         f'document_name: "{document_name}"',
         f'section_id: "{section["section_id"]}"',
-        f"estimated_tokens: {section['estimated_tokens']}",
+        f"actual_tokens: {section['actual_tokens']}",
         "heading_path:",
     ]
     for heading in heading_path:
@@ -176,7 +176,7 @@ def save_report(document_name: str, units: list[ExtractionUnit], reports_dir: Pa
         lines.append("")
         lines.append(f"Pages {unit.page_start}-{unit.page_end}")
         lines.append("")
-        lines.append(f"{unit.estimated_tokens} tokens")
+        lines.append(f"{unit.actual_tokens} tokens")
         lines.append("")
         if unit.heading_path:
             for path_index, heading in enumerate(unit.heading_path):
@@ -214,7 +214,7 @@ def unit_to_dict(unit: ExtractionUnit) -> dict[str, object]:
         "heading_path": unit.heading_path,
         "page_start": unit.page_start,
         "page_end": unit.page_end,
-        "estimated_tokens": unit.estimated_tokens,
+        "actual_tokens": unit.actual_tokens,
         "text": unit.text,
     }
 
@@ -234,7 +234,7 @@ def summarize_units(units: list[ExtractionUnit]) -> dict[str, int]:
 
     if not units:
         return {"sections": 0, "average": 0, "largest": 0, "smallest": 0}
-    token_counts = [unit.estimated_tokens for unit in units]
+    token_counts = [unit.actual_tokens for unit in units]
     return {
         "sections": len(units),
         "average": round(sum(token_counts) / len(token_counts)),

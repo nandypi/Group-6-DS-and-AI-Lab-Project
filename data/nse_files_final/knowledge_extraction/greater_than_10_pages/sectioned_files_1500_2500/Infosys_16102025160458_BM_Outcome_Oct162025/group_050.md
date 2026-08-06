@@ -1,0 +1,69 @@
+---
+document_name: "Infosys_16102025160458_BM_Outcome_Oct162025.md"
+group_id: "Infosys_16102025160458_BM_Outcome_Oct162025__group_050"
+source_section_count: 1
+actual_tokens: 2199
+source_section_ids:
+  - "Infosys_16102025160458_BM_Outcome_Oct162025__040__part_001"
+---
+
+## Others
+Apart from the foregoing, the Group is subject to legal proceedings and claims which have arisen in the ordinary course of business. The Group's management reasonably expects that such ordinary course legal actions, when ultimately concluded and determined, may not have a material and adverse effect on the Group's results of operations or financial condition.
+X
+1
+0
+A
+O
+## 2.7 Property, plant and equipment
+## Accounting Policy
+Property, plant and equipment are stated at cost, less accumulated depreciation and impairment, if any. Costs directly attributable to acquisition are capitalized until the property, plant and equipment are ready for use, as intended by the Management. The charge in respect of periodic depreciation is derived at after determining an estimate of an asset's expected useful life and the expected residual value at the end of its life. The Group depreciates property, plant and equipment over their estimated useful lives using the straight-line method. The estimated useful lives of assets are as follows:
+| Building                | 22-25 years                                     |
+|-------------------------|-------------------------------------------------|
+| Plant and machinery (1) | 5 years                                         |
+| Computer equipment      | 3-5 years                                       |
+| Furniture and fixtures  | 5 years                                         |
+| Vehicles                | 5 years                                         |
+| Leasehold improvements  | Lower of useful life of the asset or lease term |
+
+(1) Includes solar plant with a useful life of 25 years
+Depreciation methods, useful lives and residual values are reviewed periodically, including at each financial year end. The useful lives are based on historical experience with similar assets as well as anticipation of future events, which may impact their life, such as changes in technology.
+Advances paid towards the acquisition of property, plant and equipment outstanding at each balance sheet date and the cost of assets not ready to use before such date are disclosed under 'Capital work-in-progress'. Subsequent expenditures relating to property, plant and equipment is capitalized only when it is probable that future economic benefits associated with these will flow to the Group and the cost of the item can be measured reliably. The cost and related accumulated depreciation are eliminated from the financial statements upon sale or retirement of the asset.
+## Impairment
+Property, plant and equipment are evaluated for recoverability whenever events or changes in circumstances indicate that their carrying amounts may not be recoverable. For the purpose of impairment testing, the recoverable amount (i.e. the higher of the fair value less cost to sell and the value-in-use) is determined on an individual asset basis unless the asset does not generate cash flows that are largely independent of those from other assets. In such cases, the recoverable amount is determined for the Cash Generating Unit (CGU) to which the asset belongs.
+If such assets are considered to be impaired, the impairment to be recognized in net profit in the interim condensed consolidated statement of comprehensive income is measured by the amount by which the carrying value of the assets exceeds the estimated recoverable amount of the asset. An impairment loss is reversed in net profit in the consolidated statement of comprehensive income if there has been a change in the estimates used to determine the recoverable amount. The carrying amount of the asset is increased to its revised recoverable amount, provided that this amount does not exceed the carrying amount that would have been determined (net of any accumulated depreciation) had no impairment loss been recognized for the asset in prior years.
+The changes in the carrying value of property, plant and equipment for the three months ended September 30, 2025 are as follows:
+| Particulars                                       | Land   | Buildings   | Plant and machinery   | Computer equipment   | Furniture and fixtures   | Vehicles   | (In ₹ crore) Total   |
+|---------------------------------------------------|--------|-------------|-----------------------|----------------------|--------------------------|------------|----------------------|
+| Gross carrying value as at July 1, 2025           | 1,487  | 11,737      | 5,506                 | 9,278                | 3,359                    | 48         | 31,415               |
+| Additions                                         | 10     | 6           | 29                    | 412                  | 8                        | -          | 465                  |
+| Deletions*                                        | -      | -           | (14)                  | (165)                | (67)                     | (3)        | (249)                |
+| Translation difference                            | -      | 38          | 9                     | 29                   | 18                       | -          | 94                   |
+| Gross carrying value as at September 30, 2025     | 1,497  | 11,781      | 5,530                 | 9,554                | 3,318                    | 45         | 31,725               |
+| Accumulated depreciation as at July 1, 2025       | -      | (5,473)     | (4,480)               | (7,040)              | (2,768)                  | (43)       | (19,804)             |
+| Depreciation                                      | -      | (112)       | (87)                  | (263)                | (57)                     | -          | (519)                |
+| Accumulated depreciation on deletions*            | -      | -           | 14                    | 165                  | 67                       | 3          | 249                  |
+| Translation difference                            | -      | (13)        | (8)                   | (18)                 | (16)                     | -          | (55)                 |
+| Accumulated depreciation as at September 30, 2025 | -      | (5,598)     | (4,561)               | (7,156)              | (2,774)                  | (40)       | (20,129)             |
+| Capital work-in progress as at July 1, 2025       |        |             |                       |                      |                          |            | 1,114                |
+| Carrying value as at July 1, 2025                 | 1,487  | 6,264       | 1,026                 | 2,238                | 591                      | 5          | 12,725               |
+| Capital work-in progress as at September 30, 2025 |        |             |                       |                      |                          |            | 1,296                |
+| Carrying value as at September 30, 2025           | 1,497  | 6,183       | 969                   | 2,398                | 544                      | 5          | 12,892               |
+
+The changes in the carrying value of property, plant and equipment for the three months ended September 30, 2024 are as follows:
+| Particulars                                       | Land   | Buildings   | Plant and machinery   | Computer equipment   | Furniture and fixtures   | Vehicles   | (In ₹ crore) Total   |
+|---------------------------------------------------|--------|-------------|-----------------------|----------------------|--------------------------|------------|----------------------|
+| Gross carrying value as at July 1, 2024           | 1,430  | 11,743      | 5,361                 | 8,617                | 3,346                    | 45         | 30,542               |
+| Additions                                         | -      | 17          | 84                    | 176                  | 73                       | -          | 350                  |
+| Additions on Business Combinations                | -      | 1           | 11                    | 5                    | 23                       | 2          | 42                   |
+| Deletions*                                        | -      | (4)         | (33)                  | (101)                | (29)                     | -          | (167)                |
+| Translation difference                            | -      | 43          | 6                     | 17                   | 19                       | -          | 85                   |
+| Gross carrying value as at September 30, 2024     | 1,430  | 11,800      | 5,429                 | 8,714                | 3,432                    | 47         | 30,852               |
+| Accumulated depreciation as at July 1, 2024       | -      | (5,026)     | (4,259)               | (6,538)              | (2,710)                  | (42)       | (18,575)             |
+| Depreciation                                      | -      | (113)       | (99)                  | (321)                | (79)                     | -          | (612)                |
+| Accumulated depreciation on deletions*            | -      | 1           | 33                    | 96                   | 29                       | -          | 159                  |
+| Translation difference                            | -      | (13)        | (6)                   | (8)                  | (17)                     | -          | (44)                 |
+| Accumulated depreciation as at September 30, 2024 | -      | (5,151)     | (4,331)               | (6,771)              | (2,777)                  | (42)       | (19,072)             |
+| Capital work-in progress as at July 1, 2024       |        |             |                       |                      |                          |            | 573                  |
+| Carrying value as at July 1, 2024                 | 1,430  | 6,717       | 1,102                 | 2,079                | 636                      | 3          | 12,540               |
+| Capital work-in progress as at September 30, 2024 |        |             |                       |                      |                          |            | 676                  |
+| Carrying value as at September 30, 2024           | 1,430  | 6,649       | 1,098                 | 1,943                | 655                      | 5          | 12,456               |

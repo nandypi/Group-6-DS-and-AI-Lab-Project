@@ -3,7 +3,8 @@
 Flow:
 1. User runs `python -m datapreparation.sectioner.cli --input data/nse_files_final/categorisation_by_pages/more_than_10_pages --output data/nse_files_final/knowledge_extraction/greater_than_10_pages/sections`.
 2. The CLI validates paths and creates output directories.
-3. It finds every Markdown file in the input directory in sorted order.
+3. It finds Markdown files in sorted order. By default this is recursive; with
+   `--direct-only`, it only reads files directly inside the input directory.
 4. Each file is processed by `pipeline.process_markdown_file`.
 5. The pipeline writes JSON manifests, final section Markdown files, and reports.
 6. A short deterministic summary is printed for every document.
@@ -53,7 +54,7 @@ def main() -> int:
         print(f"ERROR: --input must be an existing directory: {input_dir}", file=sys.stderr)
         return 2
 
-    markdown_files = find_markdown_files(input_dir)
+    markdown_files = find_markdown_files(input_dir, args.direct_only)
     if not markdown_files:
         print(f"ERROR: no Markdown files found in {input_dir}", file=sys.stderr)
         return 2
@@ -82,8 +83,8 @@ def build_argument_parser() -> argparse.ArgumentParser:
         Configured `argparse.ArgumentParser`.
 
     Example:
-        The parser accepts `--input`, `--output`, optional `--reports`, and
-        optional `--section-files`.
+        The parser accepts `--input`, `--output`, optional `--reports`,
+        optional `--section-files`, and optional `--direct-only`.
     """
 
     parser = argparse.ArgumentParser(
@@ -96,24 +97,32 @@ def build_argument_parser() -> argparse.ArgumentParser:
         "--section-files",
         help="Directory for final sectioned Markdown files. Defaults to output sibling sectioned_files.",
     )
+    parser.add_argument(
+        "--direct-only",
+        action="store_true",
+        help="Only process Markdown files directly inside --input, without scanning subfolders.",
+    )
     return parser
 
 
-def find_markdown_files(input_dir: Path) -> list[Path]:
+def find_markdown_files(input_dir: Path, direct_only: bool = False) -> list[Path]:
     """Find Markdown files in deterministic order.
 
     Args:
         input_dir: Directory to scan recursively.
+        direct_only: When true, scan only the direct children of `input_dir`.
 
     Returns:
         Sorted list of `.md` and `.markdown` files.
 
     Example:
-        `find_markdown_files(Path("data"))` returns Markdown paths sorted by name.
+        `find_markdown_files(Path("data"), True)` returns only direct Markdown
+        paths sorted by name.
     """
 
     files = []
-    for path in input_dir.rglob("*"):
+    paths = input_dir.iterdir() if direct_only else input_dir.rglob("*")
+    for path in paths:
         if not path.is_file():
             continue
         if path.suffix.lower() in {".md", ".markdown"}:

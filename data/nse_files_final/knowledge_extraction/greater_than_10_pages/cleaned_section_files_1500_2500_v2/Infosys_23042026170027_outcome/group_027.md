@@ -1,0 +1,55 @@
+---
+section_title: "Infosys Limited and subsidiaries"
+section_description: "Condensed consolidated statement of changes in equity for the year ended March 31, 2026, including comprehensive income, share issuances, share buyback, employee stock compensation, dividends, reserves, and closing equity balances."
+topics:
+  - "Consolidated equity balances"
+  - "Comprehensive income"
+  - "Share buyback"
+  - "Employee stock options"
+  - "Dividends"
+  - "Capital redemption reserve"
+  - "Other reserves"
+  - "Non-controlling interest"
+sample_queries:
+  - "What was Infosys's total equity balance as of March 31, 2026?"
+  - "How did total equity change during the year ended March 31, 2026?"
+  - "What was the net profit attributable to equity holders of the company?"
+  - "What were the exchange differences on translation of foreign operations?"
+  - "How many shares were issued on exercise of employee stock options?"
+  - "How many shares were bought back during the year?"
+  - "What was the total impact of the equity share buyback on equity?"
+  - "What dividends were recognized during the year?"
+  - "What was the balance in the capital redemption reserve at March 31, 2026?"
+  - "What was the closing number of equity shares outstanding?"
+---
+
+## Infosys Limited and subsidiaries
+
+### Condensed Consolidated Statement of Changes in Equity
+
+|  | Number of Shares (1) | Share capital | Share premium | Retained earnings | Other reserves (2) | Capital redemption reserve | Cash flow hedge reserve | Other components of equity | Total equity attributable to equity holders of the Company | Non-controlling interest | Total equity |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Balance as at April 1, 2025 | 4,143,607,528 | 325 | 500 | 13,766 | 1,171 | 24 | (2) | (4,579) | 11,205 | 50 | 11,255 |
+| Changes in equity for the year ended March 31, 2026 |  |  |  |  |  |  |  |  |  |  |  |
+| Net profit | - | - | - | 3,313 | - | - | - | - | 3,313 | 3 | 3,316 |
+| Remeasurement of the net defined benefit liability/asset, net* | - | - | - | - | - | - | - | (31) | (31) | - | (31) |
+| Equity instruments through other comprehensive income, net* | - | - | - | - | - | - | - | 42 | 42 | - | 42 |
+| Fair value changes on derivatives designated as Cash flow hedge, net* | - | - | - | - | - | - | - | - | - | - | - |
+| Exchange differences on translation of foreign operations | - | - | - | - | - | - | - | (685) | (685) | 1 | (684) |
+| Fair value changes on investments, net* | - | - | - | - | - | - | - | (2) | (2) | - | (2) |
+| Total comprehensive income for the year | - | - | - | 3,313 | - | - | - | (676) | 2,637 | 4 | 2,641 |
+| Shares issued on exercise of employee stock options (Refer to note 2.11) | 3,333,284 | - | - | - | - | - | - | - | - | - | - |
+| Buyback of equity shares (Refer to note 2.18) | (100,000,000) | (6) | (140) | (1,875) | - | - | - | - | (2,021) | - | (2,021) |
+| Transaction cost relating to buyback* | - | - | (2) | (3) | - | - | - | - | (5) | - | (5) |
+| Amount transferred to capital redemption reserve upon buyback (Refer to note 2.18) | - | - | - | (6) | - | 6 | - | - | - | - | - |
+| Financial liability under option arrangements | - | - | - | (1) | - | - | - | - | (1) | - | (1) |
+| Changes in the controlling stake of a subsidiary | - | - | - | 1 | - | - | - | - | 1 | - | 1 |
+| Employee stock compensation expense (Refer to note 2.11) | - | - | 106 | - | - | - | - | - | 106 | - | 106 |
+| Transferred on account of options not exercised | - | - | (7) | 7 | - | - | - | - | - | - | - |
+| Income tax benefit arising on exercise of stock options (Refer to note 2.12) | - | - | 5 | - | - | - | - | - | 5 | - | 5 |
+| Transferred from other reserves on utilization | - | - | - | 139 | (139) | - | - | - | - | - | - |
+| Transferred from other reserves to retained earnings | - | - | - | 259 | (259) | - | - | - | - | - | - |
+| Dividends # | - | - | - | (2,141) | - | - | - | - | (2,141) | - | (2,141) |
+| Balance as at March 31, 2026 | 4,046,940,812 | 319 | 462 | 13,459 | 773 | 30 | (2) | (5,255) | 9,786 | 54 | 9,840 |
+
+\* Net of tax.
