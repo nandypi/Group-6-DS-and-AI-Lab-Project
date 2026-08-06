@@ -7,7 +7,7 @@ source_section_ids:
   - "Infosys_23042026170027_outcome__060__part_002"
 ---
 ---
-section_title: Defined Benefit Plans: Actuarial Assumptions, Costs and Risks
+section_title: "Defined Benefit Plans: Actuarial Assumptions, Costs and Risks"
 section_description: This section presents actuarial gains and losses, gratuity and pension costs, weighted-average assumptions, plan asset allocation, asset returns, funding arrangements, and actuarial risks for the years and quarters ended March 31, 2026 and March 31, 2025.
 topics:
   - Actuarial gains and losses

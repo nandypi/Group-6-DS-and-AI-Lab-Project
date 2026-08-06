@@ -7,7 +7,7 @@ source_section_ids:
   - "Infosys_14012026160405_BM_Outcome_January142026__076__part_002"
 ---
 ---
-section_title: Financial Instruments: Carrying and Fair Value as at March 31, 2025
+section_title: "Financial Instruments: Carrying and Fair Value as at March 31, 2025"
 section_description: The section presents the carrying value and fair value of Infosys financial assets and liabilities by measurement category as at March 31, 2025. It includes cash, investments, receivables, loans, financial liabilities, and related fair-value notes.
 topics:
   - Financial instruments

@@ -7,7 +7,7 @@ source_section_ids:
   - "INFY_30052026201240_SE_Integrated_Annual_Report_2025-26__127__part_002"
 ---
 ---
-section_title: Defined Benefit Plans: Assumptions, Assets, Risks and Maturity Profile
+section_title: "Defined Benefit Plans: Assumptions, Assets, Risks and Maturity Profile"
 section_description: This section describes the actuarial assumptions, funding arrangements, investment allocation, risks, sensitivity measures, expected contributions, and maturity profile of the Group’s gratuity and pension defined benefit plans.
 topics:
   - Defined benefit plan assumptions

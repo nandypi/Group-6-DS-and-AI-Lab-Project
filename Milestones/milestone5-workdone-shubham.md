@@ -335,3 +335,356 @@ Verification:
 Commit:
 
 - `19d0602 Update embeddings for sectioned corpus`
+
+## 2026-08-05 - Compared Milestone 4 and Milestone 5 Retrieval Recall
+
+Task: compare the earlier Chroma-only benchmark with the new recall-only
+benchmark after replacing long NSE and Infosys IR source documents with
+sectioned and cleaned chunks.
+
+Compared files:
+
+- Earlier results:
+  `data/csv_files_from_milestone4/infosys_rag_test_dataset_50_queries_without_reranking_results.csv`
+- New results:
+  `data/csv_files_from_milestone5/infosys_rag_test_dataset_50_queries_recall_results.csv`
+
+Both files contain the same 50 test questions and use top-10 Chroma retrieval
+without answer-generation evaluation. The new run also did not use the BGE
+reranker or an answer LLM. The new benchmark adds Recall@9.
+
+Overall comparison:
+
+| Metric | Milestone 4 | Milestone 5 | Change |
+|---|---:|---:|---:|
+| Recall@3 | 20/50 (40%) | 17/50 (34%) | -3 questions, -6 percentage points |
+| Recall@5 | 25/50 (50%) | 19/50 (38%) | -6 questions, -12 percentage points |
+| Recall@7 | 27/50 (54%) | 20/50 (40%) | -7 questions, -14 percentage points |
+| Recall@9 | Not available | 20/50 (40%) | New metric |
+
+Category-level comparison:
+
+| Source category | Questions | Recall@3 | Recall@5 | Recall@7 |
+|---|---:|---:|---:|---:|
+| NSE <=10 | 10 | 9 -> 9 | 9 -> 9 | 9 -> 9 |
+| NSE >10 | 30 | 9 -> 5 | 12 -> 6 | 14 -> 7 |
+| IR | 5 | 0 -> 1 | 1 -> 2 | 1 -> 2 |
+| Trendlyne | 4 | 1 -> 1 | 2 -> 1 | 2 -> 1 |
+| Yahoo Finance | 1 | 1 -> 1 | 1 -> 1 | 1 -> 1 |
+
+The largest decrease is in the NSE >10 category, which is the category whose
+retrieval representation changed most substantially: one large source file
+was replaced by multiple cleaned section chunks. The IR category improved at
+all three comparable cutoffs, although it contains only five questions.
+
+Interpretation and assumptions:
+
+- This is an observed retrieval comparison, not proof that the new cleaning
+  pipeline is intrinsically worse. The indexed corpus, document boundaries,
+  metadata, and expected source paths changed between runs.
+- The earlier CSV stored source basenames. The new CSV uses exact full paths
+  for re-sectioned NSE and IR chunks and basenames for unchanged categories.
+- For re-sectioned documents, a question is counted as recalled only when the
+  exact expected current chunk appears in the requested top-k results.
+- Recall measures whether the expected source was retrieved; it does not judge
+  whether the retrieved content can fully answer the question.
+
+Verification:
+
+- Both CSV files contained 50 rows.
+- All 50 new benchmark rows completed successfully.
+- New Recall@3, @5, @7, and @9 values were populated for every row.
+- No answer-model calls or reranker calls were made during the new run.
+
+## 2026-08-05 - 35-Candidate BGE Reranking Recall Benchmark
+
+Task: measure whether BGE reranking improves retrieval recall when Chroma first
+returns 35 candidates for each of the 50 test questions.
+
+What changed:
+
+- Added `datapreparation/benchmarking/run_reranking_35_candidates_recall_benchmark.py`.
+- The benchmark uses the same `BAAI/bge-reranker-v2-m3` model as the interactive
+  RAG pipeline.
+- Each question is embedded with `text-embedding-3-small`, followed by retrieval
+  of exactly 35 Chroma candidates.
+- All 35 candidates are reranked in batches for the document body and YAML
+  metadata separately.
+- The final score uses 80% body relevance and 20% metadata relevance.
+- Document bodies are truncated to the existing 8,190-token reranker limit when
+  necessary.
+- Duplicate filepaths are removed before final ranking.
+- Recall is calculated at k = 3, 5, 7, and 9 without calling an answer LLM.
+- Exact filepath matching is used for re-sectioned NSE and Infosys IR chunks;
+  basename matching remains used for unchanged source categories.
+- The runner saves its CSV after every question and supports resumable
+  `--start` and `--limit` ranges.
+
+Run and recovery:
+
+- The initial long-running execution was interrupted after terminal output
+  handling caused invalid-argument errors for unfinished rows.
+- The run was resumed in a detached process with stdout and stderr redirected
+  to log files, allowing it to continue without the interactive terminal.
+- The resumed run completed all 50 questions successfully with zero final
+  pipeline errors.
+
+Final results:
+
+| Metric | Chroma-only Milestone 5 | 35-candidate BGE reranking | Change |
+|---|---:|---:|---:|
+| Recall@3 | 17/50 (34%) | 20/50 (40%) | +3 questions, +6 percentage points |
+| Recall@5 | 19/50 (38%) | 23/50 (46%) | +4 questions, +8 percentage points |
+| Recall@7 | 20/50 (40%) | 25/50 (50%) | +5 questions, +10 percentage points |
+| Recall@9 | 20/50 (40%) | 28/50 (56%) | +8 questions, +16 percentage points |
+
+Latency summary on the local CPU run:
+
+- Mean BGE reranking latency: 484.472 seconds per question.
+- Median BGE reranking latency: 426.035 seconds per question.
+- Mean overall latency, including embedding and Chroma retrieval: 486.439
+  seconds per question.
+- Median overall latency: 427.160 seconds per question.
+- The high latency motivated a separate Google Colab notebook to compare the
+  same 35-candidate workload on CPU and GPU:
+  `datapreparation/benchmarking/colab_gpu_reranking_latency_benchmark.ipynb`.
+
+Output files:
+
+- Results:
+  `data/csv_files_from_milestone5/infosys_rag_test_dataset_50_queries_reranking_35_candidates_recall_results.csv`
+- Progress log:
+  `data/csv_files_from_milestone5/reranking_35_candidates.stdout.log`
+
+Interpretation and assumptions:
+
+- Reranking improved recall at every measured cutoff in this benchmark.
+- The comparison is directional because the Chroma-only baseline uses Chroma's
+  original ordering, while the reranking run retrieves a larger top-35 pool and
+  then changes its ordering with BGE.
+- Reranking cannot recover a source that is absent from Chroma's initial 35
+  candidates.
+
+Verification:
+
+- `python -m py_compile datapreparation\\benchmarking\\run_reranking_35_candidates_recall_benchmark.py`
+  passed.
+- The final result CSV contains 50 rows with `pipeline_status=Success`.
+- No answer-generation calls were made.
+- Recall@3, @5, @7, and @9 are populated for every completed row.
+
+## 2026-08-05 - Compared Current Results with Milestone 4
+
+Task: compare the current Milestone 5 retrieval results with the earlier
+benchmarks documented in `Milestones/Milestone4.md`.
+
+Recall comparison:
+
+| Method | Recall@3 | Recall@5 | Recall@7 | Recall@9 |
+|---|---:|---:|---:|---:|
+| Milestone 4 Chroma-only, top 10 | 40% | 50% | 54% | Not available |
+| Milestone 5 Chroma-only, top 10 | 34% | 38% | 40% | 40% |
+| Milestone 4 BGE reranking, top 25 | 58% | 64% | 64% | Not available |
+| Milestone 5 BGE reranking, top 35 | 40% | 46% | 50% | 56% |
+
+Effect of current reranking:
+
+- Recall@3 increased from 34% to 40%.
+- Recall@5 increased from 38% to 46%.
+- Recall@7 increased from 40% to 50%.
+- Recall@9 increased from 40% to 56%.
+
+Comparison with the earlier Milestone 4 reranking run:
+
+- Recall@3 decreased from 58% to 40%.
+- Recall@5 decreased from 64% to 46%.
+- Recall@7 decreased from 64% to 50%.
+- The current run adds Recall@9 at 56%; Milestone 4 did not record Recall@9.
+
+Latency comparison:
+
+| Reranking run | Candidate pool | Average latency per question |
+|---|---:|---:|
+| Milestone 4 BGE reranking | Top 25 | 245.342 seconds |
+| Milestone 5 BGE reranking | Top 35 | 486.439 seconds |
+
+The current 35-candidate run took approximately 1.98 times longer than the
+Milestone 4 reranking run. Its average BGE reranking component alone was
+484.472 seconds per question.
+
+Interpretation and comparison limits:
+
+- The current reranker still improves the current sectioned corpus at every
+  measured recall cutoff.
+- The Milestone 5 corpus contains newly sectioned and cleaned NSE >10-page and
+  Infosys IR documents, while Milestone 4 used the earlier corpus and document
+  boundaries.
+- Milestone 5 retrieves 35 candidates before reranking, compared with 25 in
+  Milestone 4, which increases reranking work and latency.
+- Milestone 5 uses exact current filepath matching for re-sectioned chunks;
+  this is stricter than matching the earlier source-document representation.
+- The current recall-only runs do not call the answer LLM, so Chroma-only
+  latency is not directly comparable to any Milestone 4 timing that included
+  answer generation.
+- Therefore, the results show a directional quality and latency change rather
+  than a perfectly controlled model comparison.
+
+## 2026-08-06 - YAML Front Matter and Reranking Decision
+
+During a review of the reranking inputs, we found that the cleaned files for
+the following two categories contain two YAML front matter blocks:
+
+- NSE documents greater than 10 pages:
+  `data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files_1500_2500`
+- Infosys earnings-call and investor-relations documents:
+  `data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500`
+
+The first block contains structural and provenance fields such as
+`document_name`, `group_id`, `source_section_count`, `actual_tokens`, and
+`source_section_ids`. The second block contains knowledge-extraction metadata:
+`section_title`, `section_description`, `topics`, and `sample_queries`.
+
+The current reranker extracts only the first YAML block as metadata. Therefore,
+the existing 20% metadata score can unintentionally score the structural block,
+which is not useful for semantic relevance. The second block currently remains
+inside the body used for the 80% body score.
+
+Decision not to remove the first YAML block:
+
+- It preserves group and source-section provenance for auditing and debugging.
+- The current section-cleaning script expects the original YAML block and
+  validates that it is preserved.
+- Removing or relocating it would require changing the cleaning and parsing
+  contracts and regenerating the Chroma embeddings.
+- Chroma separately stores the indexed file path and filename, but the YAML
+  still provides useful data-lineage information in the Markdown artifacts.
+- The block is small, and the current pipeline retrieves 35 candidates before
+  reranking, so its embedding effect is considered acceptable for now.
+
+Preferred reranking behavior:
+
+- Use the filepath to identify the two affected categories.
+- For paths containing `infosys_earning_calls` or `greater_than_10_pages`,
+  attempt to use the second YAML block as semantic metadata.
+- For all other paths, keep the existing first-block behavior.
+- If the expected second block is absent or malformed, fall back safely to the
+  first block or body-only scoring rather than failing the whole query.
+- The same parsing decision should be used when removing YAML before body
+  scoring and before building the final answer context.
+
+Embedding decision:
+
+The first YAML block is included in the text sent to the embedding model
+because the indexing script embeds the complete Markdown file. Initially, the
+embeddings were left unchanged because the block is small and the reranker was
+the more important source of metadata bias. After the YAML quoting repairs, the
+full approved corpus was subsequently re-embedded so Chroma contains the
+current Markdown text. The structural block remains in the embedding input;
+only its reranking treatment was changed.
+
+## 2026-08-06 - Colab GPU Metadata and Body Weight Sweep
+
+Task: evaluate how the BGE reranking recall changes when the body and semantic
+metadata weights are varied on the GPU.
+
+Colab experiment setup:
+
+- Processed all 50 questions from
+  `data/infosys_rag_test_dataset_50_queries.csv`.
+- Retrieved 35 Chroma candidates for every question.
+- Used the rebuilt Chroma collection containing 1,877 embeddings.
+- Used the updated filepath-aware YAML parser.
+- Used `BAAI/bge-reranker-v2-m3` on a Colab GPU with FP16.
+- Used the same candidate body and metadata scores for every weight pair.
+- Did not call the answer-generation LLM.
+- Calculated Recall@3, Recall@5, Recall@7, and Recall@9.
+
+The requested range from body weight 0.0 through 1.0 at a step of 0.1
+produces 11 pairs, including both endpoints. Metadata weight was calculated as
+`1 - body_weight`.
+
+Weight-sweep results:
+
+| Body weight | Metadata weight | Recall@3 | Recall@5 | Recall@7 | Recall@9 | Mean recall across cutoffs |
+|---:|---:|---:|---:|---:|---:|---:|
+| 0.0 | 1.0 | 42% | 44% | 50% | 54% | 47.5% |
+| 0.1 | 0.9 | 36% | 48% | 48% | 54% | 46.5% |
+| 0.2 | 0.8 | 36% | 42% | 50% | 54% | 45.5% |
+| 0.3 | 0.7 | 38% | 42% | 48% | 50% | 44.5% |
+| 0.4 | 0.6 | 36% | 40% | 42% | 48% | 41.5% |
+| 0.5 | 0.5 | 36% | 42% | 42% | 44% | 41.0% |
+| 0.6 | 0.4 | 36% | 40% | 42% | 42% | 40.0% |
+| 0.7 | 0.3 | 38% | 40% | 40% | 42% | 40.0% |
+| 0.8 | 0.2 | 38% | 40% | 40% | 42% | 40.0% |
+| 0.9 | 0.1 | 36% | 40% | 40% | 42% | 39.5% |
+| 1.0 | 0.0 | 32% | 38% | 40% | 42% | 38.0% |
+
+Best weight by cutoff:
+
+- Recall@3: body `0.0`, metadata `1.0`, at 42% or 21/50 questions.
+- Recall@5: body `0.1`, metadata `0.9`, at 48% or 24/50 questions.
+- Recall@7: body `0.0` or `0.2`, metadata `1.0` or `0.8`, at 50% or 25/50
+  questions.
+- Recall@9: body `0.0`, `0.1`, or `0.2`, metadata `1.0`, `0.9`, or `0.8`, at
+  54% or 27/50 questions.
+
+Latency behavior:
+
+- Model loading took 29.429 seconds.
+- Mean reranking latency was 3.278 seconds per question for every weight pair.
+- Median reranking latency was 3.321 seconds per question for every weight
+  pair.
+- Mean end-to-end latency was 3.695 seconds per question for every weight pair.
+- Median end-to-end latency was 3.547 seconds per question for every weight
+  pair.
+
+The identical latency values are expected. The notebook computes each body and
+metadata BGE score once per question, then reuses those scores while changing
+only the lightweight weighted sorting step.
+
+Comparison with the earlier noisy first-YAML benchmark:
+
+| Setup | Recall@3 | Recall@5 | Recall@7 | Recall@9 | Mean recall across cutoffs |
+|---|---:|---:|---:|---:|---:|
+| Earlier 35-candidate run with noisy first-block metadata and 0.8/0.2 weights | 40% | 46% | 50% | 56% | 48.0% |
+| New semantic-metadata run with 0.0/1.0 weights | 42% | 44% | 50% | 54% | 47.5% |
+| New semantic-metadata run with 0.1/0.9 weights | 36% | 48% | 48% | 54% | 46.5% |
+| New semantic-metadata run with 0.2/0.8 weights | 36% | 42% | 50% | 54% | 45.5% |
+| New run with the old 0.8/0.2 weights | 38% | 40% | 40% | 42% | 40.0% |
+
+Interpretation:
+
+- Within the new GPU experiment, metadata-heavy ranking consistently performs
+  better than body-heavy ranking.
+- Metadata-only ranking is the strongest overall new configuration by average
+  recall, although it does not win every individual cutoff.
+- The old noisy-metadata benchmark had a slightly higher average recall than
+  the best new weight configuration, so the experiment does not prove that
+  switching to semantic metadata improves absolute recall.
+- The new 0.8/0.2 configuration performed substantially worse than the earlier
+  0.8/0.2 run, especially at Recall@7 and Recall@9.
+- The first YAML block should not be considered beneficial merely because the
+  earlier run had higher recall. It was structural metadata and was not a
+  semantically meaningful relevance signal.
+
+Comparison limitations:
+
+- The earlier run used the old Chroma embeddings and the old first-block
+  metadata behavior.
+- The new run used rebuilt embeddings, the filepath-aware parser, and GPU
+  FP16 inference.
+- GPU and CPU BGE scores can produce slightly different rankings because of
+  numerical precision.
+- Source document boundaries and current exact filepath matching differ from
+  earlier benchmark representations.
+- Recall only checks whether the expected source appears in the requested
+  rank. It does not measure answer completeness or answer correctness.
+- The generated `sample_queries` metadata may resemble user questions and can
+  make metadata-only retrieval especially strong.
+
+Conclusion and next step:
+
+The current `0.8 body / 0.2 metadata` configuration should not be selected from
+this sweep. The most promising configurations for further evaluation are
+`0.0/1.0`, `0.1/0.9`, and `0.2/0.8`. Before selecting a production weighting,
+compare these settings using answer quality and precision in addition to recall.

@@ -7,7 +7,7 @@ source_section_ids:
   - "Infosys_23042026170027_outcome__049__part_002"
 ---
 ---
-section_title: Property, plant and equipment: impairment and carrying value
+section_title: "Property, plant and equipment: impairment and carrying value"
 section_description: This section describes accounting policies for property, plant and equipment, including useful lives, capitalization, disposals, impairment testing, and reversals. It presents changes in gross carrying value, accumulated depreciation, capital work-in-progress, and carrying value for the three months ended March 31, 2026 and 2025, and the year ended March 31, 2026.
 topics:
   - Property, plant and equipment

@@ -7,7 +7,7 @@ source_section_ids:
   - "Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26__054"
 ---
 ---
-section_title: Section B: Management and process disclosures
+section_title: "Section B: Management and process disclosures"
 section_description: Infosys reports policy coverage, Board approval, procedures, value-chain applicability, and standards mapped to the nine NGRBC Principles. The section also describes carbon neutrality, the ESG Vision 2030, and progress against ESG commitments and targets.
 topics:
   - NGRBC policy coverage

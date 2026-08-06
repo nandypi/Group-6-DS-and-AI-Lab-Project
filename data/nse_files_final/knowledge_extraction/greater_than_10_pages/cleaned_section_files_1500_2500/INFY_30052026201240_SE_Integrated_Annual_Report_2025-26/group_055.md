@@ -7,7 +7,7 @@ source_section_ids:
   - "INFY_30052026201240_SE_Integrated_Annual_Report_2025-26__054"
 ---
 ---
-section_title: Section B: Management and process disclosures
+section_title: "Section B: Management and process disclosures"
 section_description: This section describes Infosys’ policies, management processes, value-chain coverage, certifications, standards, and performance against ESG commitments under the NGRBC Principles. It also reports the company’s carbon-neutrality milestone and progress toward its ESG Vision 2030.
 topics:
   - NGRBC policy coverage

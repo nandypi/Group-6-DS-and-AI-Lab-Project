@@ -7,7 +7,7 @@ source_section_ids:
   - "INFY_15062026210015_Form20F_June152026__070__part_002"
 ---
 ---
-section_title: Defined Benefit Plans: Gratuity and Pension
+section_title: "Defined Benefit Plans: Gratuity and Pension"
 section_description: This section describes gratuity and pension costs, actuarial assumptions, plan assets, funding arrangements, and risks for the Group’s defined benefit plans for fiscal 2024–2026.
 topics:
   - Gratuity costs

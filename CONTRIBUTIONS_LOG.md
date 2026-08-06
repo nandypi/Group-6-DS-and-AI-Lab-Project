@@ -74,7 +74,13 @@ We, the undersigned team members, confirm that:
 
 ## Milestone 5
 
-*To be updated.*
+| Team Member | Contribution |
+|-------------|--------------|
+| **Shubham Gattani** | I led the Milestone 5 work on improving the RAG pipeline for long NSE and Infosys IR documents. I replaced estimated token counts with actual `text-embedding-3-small` tokenizer counts, created section-aware 1,500-2,500 token chunks with a 3,000-token hard cap, and built prompt v2 for cleaner investor-focused knowledge extraction. I also customized the Infosys IR prompt for table-heavy financial documents, regenerated embeddings for 1,877 updated Markdown files, and benchmarked retrieval using Chroma, BGE reranking, and GPU-based weight sweeps. This work made the corpus cleaner, retrieval units smaller, and evaluation more rigorous. |
+| **Gurram Sai Sri Ram Hruthik** | Built a pipeline that retrieves relevant documents using only their metadata, and extended it with a re-ranking step to improve retrieval quality. Set up the RAGAS evaluation framework to measure how accurately and faithfully the system answers questions. Performed qualitative analysis to identify successful cases and failure patterns in the pipeline's outputs. Also created the Milestone 5 presentation. |
+| **Shubhashish Biswas** | Provided an evaluation set of questions with expected answers, and drove actual evaluation of the obtained answers in comparison with them. ⁠Drove a part of the qualitative evaluation from the business user perspective. |
+| **NandanReddy Parnapalli** | Supported deployment readiness by evaluating different deployment approaches and helping prepare the application for release. Examined the project's documentation and implementation, shared constructive input during team discussions, and validated the Milestone 5 deliverables to ensure they met requirements prior to submission. |
+| **Akbar Ali** | Assisted in preparing the project for production by assessing suitable deployment methods and ensuring deployment readiness. Performed a thorough review of the application's implementation and supporting documentation, contributed recommendations during technical discussions, and completed a final quality check of the Milestone 5 deliverables before they were submitted. |
 
 ---
 
