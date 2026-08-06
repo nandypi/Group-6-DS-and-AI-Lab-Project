@@ -188,7 +188,8 @@ def score_many_documents(results, question, reranker):
     bodies = []
 
     for index, (document, metadata) in enumerate(zip(documents, metadatas)):
-        metadata_text, body, _ = retriever.split_front_matter(document)
+        filepath = metadata.get("filepath", metadata.get("filename", ""))
+        metadata_text, body, _ = retriever.split_front_matter(document, filepath)
         scoring_body = truncate_body_for_reranker(
             reranker.tokenizer,
             question,
@@ -196,7 +197,7 @@ def score_many_documents(results, question, reranker):
             reranker.max_tokens,
         )
         body_pairs.append([question, scoring_body])
-        bodies.append((metadata_text, body, metadata))
+        bodies.append((metadata_text, body, metadata, filepath))
         if metadata_text:
             metadata_pairs.append([question, metadata_text])
             metadata_indexes.append(index)
@@ -222,10 +223,9 @@ def score_many_documents(results, question, reranker):
 
     ranked = []
     seen_files = set()
-    for index, ((metadata_text, body, metadata), body_score) in enumerate(
+    for index, ((metadata_text, body, metadata, filepath), body_score) in enumerate(
         zip(bodies, body_scores)
     ):
-        filepath = metadata.get("filepath", metadata.get("filename", ""))
         if filepath in seen_files:
             continue
         seen_files.add(filepath)

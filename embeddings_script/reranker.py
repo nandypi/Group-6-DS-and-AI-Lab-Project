@@ -1,7 +1,8 @@
 """Score question-document pairs with the local BGE cross-encoder.
 
-Flow: create ``BGEReranker`` -> count tokens -> truncate only an oversized
-document body -> score metadata and body separately -> return normalized scores.
+Flow: create ``BGEReranker`` -> choose the relevant YAML block from the
+filepath -> truncate only an oversized document body -> score metadata and
+body separately -> return normalized scores.
 Metadata means the YAML front matter at the start of a Markdown document.
 
 ASSUMPTION: BGE's normalized score is already suitable for combining the two
@@ -15,45 +16,101 @@ import yaml
 
 MODEL_NAME = "BAAI/bge-reranker-v2-m3"
 MAX_TOKENS = 8190
+TARGETED_PATH_MARKERS = (
+    "greater_than_10_pages",
+    "infosys_earning_calls",
+)
+SEMANTIC_METADATA_FIELDS = {
+    "section_title",
+    "section_description",
+    "topics",
+    "sample_queries",
+}
 
 
-def split_front_matter(document):
-    """Return ``(metadata_text, body, metadata)`` for one Markdown document.
+def _read_yaml_block(lines, start_index):
+    """Read one YAML block starting at ``start_index``.
+
+    Returns the block end index, its inner text, and a parsed mapping. A
+    malformed block still returns its location so it can be removed from the
+    body without making the whole candidate fail.
+    """
+    if start_index >= len(lines) or lines[start_index].strip() != "---":
+        return None
+
+    for index in range(start_index + 1, len(lines)):
+        if lines[index].strip() != "---":
+            continue
+
+        metadata_text = "".join(lines[start_index + 1 : index]).strip()
+        try:
+            metadata = yaml.safe_load(metadata_text) or {}
+            if not isinstance(metadata, dict):
+                raise ValueError("front matter must contain a mapping")
+        except (yaml.YAMLError, ValueError) as error:
+            warnings.warn(f"Could not parse YAML front matter: {error}")
+            metadata = None
+        return index, metadata_text, metadata
+
+    warnings.warn("YAML front matter is missing its closing delimiter.")
+    return None
+
+
+def _path_uses_two_yaml_blocks(filepath):
+    """Return whether ``filepath`` belongs to a two-block document category.
+
+    Example: a path containing ``greater_than_10_pages`` returns ``True``;
+    an unrelated one-block document returns ``False``.
+    """
+    normalized_path = filepath.replace("\\", "/").lower()
+    return any(marker in normalized_path for marker in TARGETED_PATH_MARKERS)
+
+
+def split_front_matter(document, filepath=""):
+    """Return ``(metadata_text, body, metadata)`` using the relevant YAML block.
 
     Called before reranking and final context creation. For example, a document
     beginning with ``---\\ntitle: Report\\n---\\nBody`` returns ``("title: Report",
     "Body", {"title": "Report"})``. Missing or malformed YAML returns an empty
-    metadata value and preserves the document as the body.
+    metadata value and preserves the remaining document as the body.
+
+    Documents in the two re-sectioned categories have structural YAML followed
+    by semantic YAML. Their filepath selects the second block. Other documents
+    retain the original first-block behavior.
     """
-    if not document.startswith("---"):
-        return "", document, {}
-
     lines = document.splitlines(keepends=True)
-    if not lines or lines[0].strip() != "---":
+    first_block = _read_yaml_block(lines, 0)
+    if first_block is None:
         return "", document, {}
 
-    closing_index = None
-    for index in range(1, len(lines)):
-        if lines[index].strip() == "---":
-            closing_index = index
-            break
+    first_close, first_text, first_metadata = first_block
+    body_start = first_close + 1
+    second_block = _read_yaml_block(lines, body_start)
 
-    if closing_index is None:
-        warnings.warn("YAML front matter is missing its closing delimiter.")
-        return "", document, {}
+    if second_block is not None:
+        second_close, second_text, second_metadata = second_block
+        body_start = second_close + 1
+    else:
+        second_text = ""
+        second_metadata = None
 
-    metadata_text = "".join(lines[1:closing_index]).strip()
-    body = "".join(lines[closing_index + 1:]).lstrip("\r\n")
+    body = "".join(lines[body_start:]).lstrip("\r\n")
 
-    try:
-        metadata = yaml.safe_load(metadata_text) or {}
-        if not isinstance(metadata, dict):
-            raise ValueError("front matter must contain a mapping")
-    except (yaml.YAMLError, ValueError) as error:
-        warnings.warn(f"Could not parse YAML front matter: {error}")
+    if _path_uses_two_yaml_blocks(filepath):
+        if isinstance(second_metadata, dict):
+            return second_text, body, second_metadata
+
+        if isinstance(first_metadata, dict) and SEMANTIC_METADATA_FIELDS.intersection(
+            first_metadata
+        ):
+            return first_text, body, first_metadata
+
         return "", body, {}
 
-    return metadata_text, body, metadata
+    if isinstance(first_metadata, dict):
+        return first_text, body, first_metadata
+
+    return "", body, {}
 
 
 def truncate_body_for_reranker(tokenizer, question, body, max_tokens=MAX_TOKENS):
@@ -98,13 +155,13 @@ class BGEReranker:
         return float(score)
 
 
-def score_document(reranker, question, document):
+def score_document(reranker, question, document, filepath=""):
     """Score YAML metadata and body independently and return both scores.
 
     Called once for every Chroma candidate. Metadata is never appended to the
     body, so a matching title cannot replace the body's relevance signal.
     """
-    metadata_text, body, metadata = split_front_matter(document)
+    metadata_text, body, metadata = split_front_matter(document, filepath)
     metadata_score = reranker.score(question, metadata_text) if metadata_text else 0.0
     scoring_body = truncate_body_for_reranker(
         reranker.tokenizer,
