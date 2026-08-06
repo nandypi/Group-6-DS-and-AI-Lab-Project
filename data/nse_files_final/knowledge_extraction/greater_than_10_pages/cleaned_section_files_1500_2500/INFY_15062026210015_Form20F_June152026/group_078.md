@@ -7,7 +7,7 @@ source_section_ids:
   - "INFY_15062026210015_Form20F_June152026__059__part_002"
 ---
 ---
-section_title: Financial Instruments: Carrying Value and Fair Value
+section_title: "Financial Instruments: Carrying Value and Fair Value"
 section_description: Financial assets and liabilities are presented by measurement category as of March 31, 2025, including carrying values and fair values in millions of dollars. The section also provides qualifications for selected balances and explains when carrying amounts approximate fair value.
 topics:
   - Financial instrument measurement categories

@@ -7,7 +7,7 @@ source_section_ids:
   - "Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26__115__part_002"
 ---
 ---
-section_title: Financial Instruments: Carrying Value and Fair Value
+section_title: "Financial Instruments: Carrying Value and Fair Value"
 section_description: The section describes the Group’s expected credit loss methodology and presents the carrying value and fair value of financial assets and liabilities as at March 31, 2025.
 topics:
   - Expected credit losses

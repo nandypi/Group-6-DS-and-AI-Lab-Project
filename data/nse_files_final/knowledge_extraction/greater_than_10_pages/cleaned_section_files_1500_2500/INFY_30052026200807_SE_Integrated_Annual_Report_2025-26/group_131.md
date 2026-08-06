@@ -7,7 +7,7 @@ source_section_ids:
   - "INFY_30052026200807_SE_Integrated_Annual_Report_2025-26__115__part_002"
 ---
 ---
-section_title: Financial instruments: carrying value and fair value
+section_title: "Financial instruments: carrying value and fair value"
 section_description: This section describes the Group’s expected credit loss methodology and presents the carrying value and fair value of financial assets and liabilities as at March 31, 2025.
 topics:
   - Expected credit losses
