@@ -234,3 +234,69 @@ Verification:
   completed successfully with 0 pipeline errors across all 50 questions.
 - Results CSV written and verified at
   `data/infosys_rag_test_dataset_50_queries_v2_metadata_reranker_results.csv`.
+
+## Built RAGAS V2 Evaluation Pipeline
+
+Task: implement end-to-end RAGAS evaluation for the v2 benchmark dataset,
+covering both the metadata-only retrieval pipeline (Pipeline A) and the
+metadata + re-ranking pipeline (Pipeline B).
+
+What changed:
+
+- Added `datapreparation/benchmarking/ragas_v2/generate_grounded_source_answers_v2.py`.
+  Reads each question's source document directly using the full relative filepath
+  in the v2 CSV (no directory-search step needed), calls `gpt-4o-mini` via the
+  OpenAI Chat Completions API, and writes `grounded_source_answers_v2.csv` plus
+  `reference_answers_v2_template.csv` (a human-reviewable reference-answer sheet).
+
+- Added `datapreparation/benchmarking/ragas_v2/generate_pipeline_answers_v2.py`.
+  Accepts `--pipeline a` or `--pipeline b`:
+  - Pipeline A: top-10 metadata retrieval → top-3 context → `gpt-4o-mini` answer.
+  - Pipeline B: top-20 metadata retrieval → cross-encoder re-ranking →
+    top-3 context → `gpt-4o-mini` answer.
+  Outputs `pipeline_a_answers_v2.csv` or `pipeline_b_answers_v2.csv` with columns
+  compatible with the RAGAS evaluation script (`query`, `llm_answer`,
+  `llm_context_filepaths_top_3`).
+
+- Added `datapreparation/benchmarking/ragas_v2/run_ragas_evaluation_v2.py`.
+  Mirrors `RAGAS/run_ragas_evaluation.py`.  Accepts `--pipeline a|b` to select
+  input/output files.  Reads context bodies from disk (YAML front matter stripped),
+  evaluates with RAGAS (faithfulness, answer_relevancy, context_precision,
+  context_recall), writes per-question scores and a Markdown summary.
+
+- Updated `requirements.txt` to add `datasets` (HuggingFace; required by RAGAS
+  but was missing from the project dependency list).
+
+- Updated `datapreparation/benchmarking/results_dataset_v2.md` with a new
+  RAGAS Evaluation section covering evaluation setup, workflow, and results.
+
+Pipeline A benchmark run summary:
+
+- Questions processed: 50 of 50.
+- Pipeline errors: 0.
+- Reference answers: `datapreparation/benchmarking/ragas_v2/reference_answers_v2_template.csv`.
+- RAGAS evaluator: `gpt-4o-mini` + `text-embedding-3-small`.
+
+Results (Pipeline A — metadata-only top-10 retrieval):
+
+| Metric | Score |
+|---|---:|
+| faithfulness | 0.8929 |
+| answer_relevancy | 0.8439 |
+| context_precision | 0.9683 |
+| context_recall | 0.8725 |
+
+Verification:
+
+- `python3 -m py_compile datapreparation/benchmarking/ragas_v2/generate_grounded_source_answers_v2.py`
+  passed.
+- `python3 -m py_compile datapreparation/benchmarking/ragas_v2/generate_pipeline_answers_v2.py`
+  passed.
+- `python3 -m py_compile datapreparation/benchmarking/ragas_v2/run_ragas_evaluation_v2.py`
+  passed.
+- `python3 datapreparation/benchmarking/ragas_v2/run_ragas_evaluation_v2.py --pipeline a`
+  completed successfully with 0 errors across all 50 questions.
+- Results CSV written at
+  `datapreparation/benchmarking/ragas_v2/pipeline_a_ragas_results_v2.csv`.
+- Summary written at
+  `datapreparation/benchmarking/ragas_v2/pipeline_a_ragas_summary_v2.md`.

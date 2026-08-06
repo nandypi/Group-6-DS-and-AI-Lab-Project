@@ -181,11 +181,23 @@ Step 3 — Run RAGAS evaluation:
 
 ### Results
 
-*To be filled after evaluation runs complete.*
+**Pipeline A** — `datapreparation/benchmarking/ragas_v2/pipeline_a_ragas_results_v2.csv` (50/50 successful):
 
 | Metric | Pipeline A (no reranking) | Pipeline B (with reranking) |
 |---|---:|---:|
-| faithfulness | — | — |
-| answer_relevancy | — | — |
-| context_precision | — | — |
-| context_recall | — | — |
+| faithfulness | 0.8929 | — |
+| answer_relevancy | 0.8439 | — |
+| context_precision | 0.9683 | — |
+| context_recall | 0.8725 | — |
+
+Pipeline A lowest-scoring questions (by mean metric score):
+
+| ID | Mean score | Question |
+|---|---:|---|
+| 46 | 0.3638 | What was the total value of large deals Infosys won during fiscal year 2024–25 as reported at the 44th Annual General Meeting? |
+| 15 | 0.6474 | What third-party rankings and industry recognitions has Infosys received for its AI and cloud service capabilities as listed in the Q2 FY26 press release? |
+| 8 | 0.6667 | What reasons does Infosys management give for expecting H1 FY26 to outperform H2, and what assumptions underpin the upper and lower ends of the guidance range? |
+| 34 | 0.6721 | What financial losses and reputational damage from AI-related incidents does the Infosys research report document? |
+| 44 | 0.7333 | What factors have driven Infosys's stronger growth in Europe, and how sustainable does management consider that momentum to be? |
+
+**Pipeline B** results to be added after the evaluation run completes.
