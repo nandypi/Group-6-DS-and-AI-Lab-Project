@@ -1,0 +1,90 @@
+---
+section_title: Property, Plant and Equipment
+section_description: Changes in the gross carrying value, accumulated depreciation, and carrying value of property, plant and equipment for the three months and six months ended September 30, 2024, and the six months ended September 30, 2025. The section includes additions, business combinations, deletions, translation differences, depreciation, and asset retirements.
+topics:
+  - Property, plant and equipment
+  - Gross carrying value
+  - Accumulated depreciation
+  - Carrying value
+  - Capital additions
+  - Business combinations
+  - Asset deletions and retirements
+  - Translation differences
+  - Depreciation
+  - Computer equipment
+  - Leasehold improvements
+  - Property asset categories
+sample_queries:
+  - What was the total carrying value of property, plant and equipment as of September 30, 2025?
+  - What was the total carrying value of property, plant and equipment as of September 30, 2024?
+  - What were the additions to property, plant and equipment during the six months ended September 30, 2025?
+  - What were the additions to property, plant and equipment during the six months ended September 30, 2024?
+  - How much depreciation was recorded during the six months ended September 30, 2025?
+  - How much depreciation was recorded during the six months ended September 30, 2024?
+  - Which property, plant and equipment category had the highest additions during the six months ended September 30, 2025?
+  - What was the gross carrying value of computer equipment as of September 30, 2025?
+  - What was the carrying value of computer equipment as of September 30, 2024?
+  - What were the translation differences in gross carrying value during the six months ended September 30, 2025?
+  - What value of assets not in use was retired during the six months ended September 30, 2025?
+  - What value of assets not in use was retired during the six months ended September 30, 2024?
+---
+
+# Property, Plant and Equipment
+
+The changes in the carrying value of property, plant and equipment for the three months ended September 30, 2024 are as follows. Amounts are in ₹ crore.
+
+| Particulars | Land—Freehold | Buildings | Plant and machinery | Office equipment | Computer equipment | Furniture and fixtures | Leasehold improvements | Vehicles | Total |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Gross carrying value as at July 1, 2024 | 1,432 | 11,743 | 3,445 | 1,538 | 8,617 | 2,309 | 1,413 | 45 | 30,542 |
+| Additions | - | 17 | 23 | 41 | 176 | 45 | 48 | - | 350 |
+| Additions on business combinations (refer to note 2.1) | - | 1 | - | 11 | 5 | 23 | - | 2 | 42 |
+| Deletions* | - | (4) | (6) | (15) | (101) | (14) | (27) | - | (167) |
+| Translation difference | - | 43 | 3 | 3 | 17 | 4 | 15 | - | 85 |
+| Gross carrying value as at September 30, 2024 | 1,432 | 11,800 | 3,465 | 1,578 | 8,714 | 2,367 | 1,449 | 47 | 30,852 |
+| Accumulated depreciation as at July 1, 2024 | - | (5,026) | (2,683) | (1,291) | (6,538) | (1,861) | (1,134) | (42) | (18,575) |
+| Depreciation | - | (113) | (55) | (30) | (321) | (50) | (43) | - | (612) |
+| Accumulated depreciation on deletions* | - | 1 | 6 | 15 | 96 | 14 | 27 | - | 159 |
+| Translation difference | - | (13) | (3) | (3) | (8) | (2) | (15) | - | (44) |
+| Accumulated depreciation as at September 30, 2024 | - | (5,151) | (2,735) | (1,309) | (6,771) | (1,899) | (1,165) | (42) | (19,072) |
+| Carrying value as at July 1, 2024 | 1,432 | 6,717 | 762 | 247 | 2,079 | 448 | 279 | 3 | 11,967 |
+| Carrying value as at September 30, 2024 | 1,432 | 6,649 | 730 | 269 | 1,943 | 468 | 284 | 5 | 11,780 |
+
+The changes in the carrying value of property, plant and equipment for the six months ended September 30, 2025 are as follows. Amounts are in ₹ crore.
+
+| Particulars | Land—Freehold | Buildings | Plant and machinery | Office equipment | Computer equipment | Furniture and fixtures | Leasehold improvements | Vehicles | Total |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Gross carrying value as at April 1, 2025 | 1,479 | 11,721 | 3,461 | 1,628 | 9,306 | 2,340 | 1,307 | 48 | 31,290 |
+| Additions | 20 | 9 | 35 | 51 | 619 | 34 | 32 | 1 | 801 |
+| Additions on business combinations (refer to note 2.1) | - | - | - | - | 3 | - | - | - | 3 |
+| Deletions** | - | (5) | (8) | (16) | (435) | (72) | (2) | (4) | (542) |
+| Translation difference | - | 56 | 5 | 9 | 61 | 15 | 27 | - | 173 |
+| Gross carrying value as at September 30, 2025 | 1,499 | 11,781 | 3,493 | 1,672 | 9,554 | 2,317 | 1,364 | 45 | 31,725 |
+| Accumulated depreciation as at April 1, 2025 | - | (5,358) | (2,813) | (1,337) | (7,013) | (1,929) | (1,019) | (43) | (19,512) |
+| Depreciation | - | (223) | (89) | (60) | (530) | (81) | (58) | (1) | (1,042) |
+| Accumulated depreciation on deletions** | - | 1 | 8 | 16 | 424 | 71 | 2 | 4 | 526 |
+| Translation difference | - | (18) | (5) | (6) | (37) | (10) | (25) | - | (101) |
+| Accumulated depreciation as at September 30, 2025 | - | (5,598) | (2,899) | (1,387) | (7,156) | (1,949) | (1,100) | (40) | (20,129) |
+| Carrying value as at April 1, 2025 | 1,479 | 6,363 | 648 | 291 | 2,293 | 411 | 288 | 5 | 11,778 |
+| Carrying value as at September 30, 2025 | 1,499 | 6,183 | 594 | 285 | 2,398 | 368 | 264 | 5 | 11,596 |
+
+** During the three months and six months ended September 30, 2025, certain assets that were not in use, with gross book values of ₹226 crore and ₹473 crore, respectively, were retired. The net book value was nil in both cases.
+
+The changes in the carrying value of property, plant and equipment for the six months ended September 30, 2024 are as follows. Amounts are in ₹ crore.
+
+| Particulars | Land—Freehold | Buildings | Plant and machinery | Office equipment | Computer equipment | Furniture and fixtures | Leasehold improvements | Vehicles | Total |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Gross carrying value as at April 1, 2024 | 1,432 | 11,770 | 3,428 | 1,528 | 8,611 | 2,326 | 1,447 | 45 | 30,587 |
+| Additions | - | 32 | 44 | 57 | 354 | 57 | 63 | 1 | 608 |
+| Additions on business combinations (refer to note 2.1) | - | 1 | - | 11 | 6 | 23 | - | 2 | 43 |
+| Deletions* | - | (42) | (9) | (21) | (265) | (40) | (75) | (1) | (453) |
+| Translation difference | - | 39 | 2 | 3 | 8 | 1 | 14 | - | 67 |
+| Gross carrying value as at September 30, 2024 | 1,432 | 11,800 | 3,465 | 1,578 | 8,714 | 2,367 | 1,449 | 47 | 30,852 |
+| Accumulated depreciation as at April 1, 2024 | - | (4,921) | (2,630) | (1,269) | (6,380) | (1,837) | (1,138) | (42) | (18,217) |
+| Depreciation | - | (224) | (112) | (58) | (648) | (102) | (88) | (1) | (1,233) |
+| Accumulated depreciation on deletions* | - | 6 | 9 | 20 | 259 | 40 | 75 | 1 | 410 |
+| Translation difference | - | (12) | (2) | (2) | (2) | - | (14) | - | (32) |
+| Accumulated depreciation as at September 30, 2024 | - | (5,151) | (2,735) | (1,309) | (6,771) | (1,899) | (1,165) | (42) | (19,072) |
+| Carrying value as at April 1, 2024 | 1,432 | 6,849 | 798 | 259 | 2,231 | 489 | 309 | 3 | 12,370 |
+| Carrying value as at September 30, 2024 | 1,432 | 6,649 | 730 | 269 | 1,943 | 468 | 284 | 5 | 11,780 |
+
+* During the three months and six months ended September 30, 2024, certain assets that were not in use, with gross book values of ₹103 crore and ₹229 crore, respectively, were retired. The net book value was nil in both cases.
