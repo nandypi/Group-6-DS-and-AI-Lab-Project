@@ -7,7 +7,7 @@ source_section_ids:
   - "INFY_30052026200807_SE_Integrated_Annual_Report_2025-26__062"
 ---
 ---
-section_title: Leadership indicators and Principle 5: Businesses should respect and promote human rights
+section_title: "Leadership indicators and Principle 5: Businesses should respect and promote human rights"
 section_description: This section describes stakeholder consultation on economic, environmental, and social topics, support for vulnerable and marginalized communities through Infosys Foundation, human rights training coverage, and minimum-wage compliance for employees and workers.
 topics:
   - Stakeholder consultation

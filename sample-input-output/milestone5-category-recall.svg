@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="560" viewBox="0 0 980 560">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="490.0" y="36" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#111827">Metadata + Rerank Category Recall</text>
+<line x1="90" y1="450.0" x2="950" y2="450.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="78" y="454.0" text-anchor="end" font-family="Arial" font-size="12" fill="#4b5563">0%</text>
+<line x1="90" y1="376.0" x2="950" y2="376.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="78" y="380.0" text-anchor="end" font-family="Arial" font-size="12" fill="#4b5563">20%</text>
+<line x1="90" y1="302.0" x2="950" y2="302.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="78" y="306.0" text-anchor="end" font-family="Arial" font-size="12" fill="#4b5563">40%</text>
+<line x1="90" y1="228.0" x2="950" y2="228.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="78" y="232.0" text-anchor="end" font-family="Arial" font-size="12" fill="#4b5563">60%</text>
+<line x1="90" y1="154.0" x2="950" y2="154.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="78" y="158.0" text-anchor="end" font-family="Arial" font-size="12" fill="#4b5563">80%</text>
+<line x1="90" y1="80.0" x2="950" y2="80.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="78" y="84.0" text-anchor="end" font-family="Arial" font-size="12" fill="#4b5563">100%</text>
+<line x1="90" y1="80" x2="90" y2="450" stroke="#9ca3af"/>
+<line x1="90" y1="450" x2="950" y2="450" stroke="#9ca3af"/>
+<rect x="111.0" y="80.0" width="38.0" height="370.0" fill="#2563eb" rx="3"/>
+<text x="130.0" y="74.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">100</text>
+<rect x="157.0" y="80.0" width="38.0" height="370.0" fill="#16a34a" rx="3"/>
+<text x="176.0" y="74.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">100</text>
+<rect x="203.0" y="80.0" width="38.0" height="370.0" fill="#f97316" rx="3"/>
+<text x="222.0" y="74.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">100</text>
+<text x="176.0" y="478" text-anchor="middle" font-family="Arial" font-size="12" fill="#111827">NSE &lt;=10</text>
+<rect x="283.0" y="191.0" width="38.0" height="259.0" fill="#2563eb" rx="3"/>
+<text x="302.0" y="185.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">70</text>
+<rect x="329.0" y="154.0" width="38.0" height="296.0" fill="#16a34a" rx="3"/>
+<text x="348.0" y="148.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">80</text>
+<rect x="375.0" y="80.0" width="38.0" height="370.0" fill="#f97316" rx="3"/>
+<text x="394.0" y="74.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">100</text>
+<text x="348.0" y="478" text-anchor="middle" font-family="Arial" font-size="12" fill="#111827">NSE &gt;10</text>
+<rect x="455.0" y="413.0" width="38.0" height="37.0" fill="#2563eb" rx="3"/>
+<text x="474.0" y="407.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">10</text>
+<rect x="501.0" y="302.0" width="38.0" height="148.0" fill="#16a34a" rx="3"/>
+<text x="520.0" y="296.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">40</text>
+<rect x="547.0" y="265.0" width="38.0" height="185.0" fill="#f97316" rx="3"/>
+<text x="566.0" y="259.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">50</text>
+<text x="520.0" y="478" text-anchor="middle" font-family="Arial" font-size="12" fill="#111827">IR</text>
+<rect x="627.0" y="202.1" width="38.0" height="247.9" fill="#2563eb" rx="3"/>
+<text x="646.0" y="196.1" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">67</text>
+<rect x="673.0" y="202.1" width="38.0" height="247.9" fill="#16a34a" rx="3"/>
+<text x="692.0" y="196.1" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">67</text>
+<rect x="719.0" y="202.1" width="38.0" height="247.9" fill="#f97316" rx="3"/>
+<text x="738.0" y="196.1" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">67</text>
+<text x="692.0" y="478" text-anchor="middle" font-family="Arial" font-size="12" fill="#111827">Trendlyne</text>
+<rect x="799.0" y="80.0" width="38.0" height="370.0" fill="#2563eb" rx="3"/>
+<text x="818.0" y="74.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">100</text>
+<rect x="845.0" y="80.0" width="38.0" height="370.0" fill="#16a34a" rx="3"/>
+<text x="864.0" y="74.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">100</text>
+<rect x="891.0" y="80.0" width="38.0" height="370.0" fill="#f97316" rx="3"/>
+<text x="910.0" y="74.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">100</text>
+<text x="864.0" y="478" text-anchor="middle" font-family="Arial" font-size="12" fill="#111827">Yahoo</text>
+<rect x="90" y="514" width="14" height="14" fill="#2563eb" rx="2"/>
+<text x="112" y="526" font-family="Arial" font-size="13" fill="#111827">Recall@3</text>
+<rect x="320" y="514" width="14" height="14" fill="#16a34a" rx="2"/>
+<text x="342" y="526" font-family="Arial" font-size="13" fill="#111827">Recall@5</text>
+<rect x="550" y="514" width="14" height="14" fill="#f97316" rx="2"/>
+<text x="572" y="526" font-family="Arial" font-size="13" fill="#111827">Recall@7</text>
+</svg>

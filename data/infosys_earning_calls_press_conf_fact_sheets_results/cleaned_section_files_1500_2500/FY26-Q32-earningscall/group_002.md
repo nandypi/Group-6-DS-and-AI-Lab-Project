@@ -7,7 +7,7 @@ source_section_ids:
   - "FY26-Q32-earningscall__002"
 ---
 ---
-section_title: The first one is making Infosys AI-first:
+section_title: "The first one is making Infosys AI-first:"
 section_description: Infosys management describes its AI-first strategy, workforce capabilities, internal AI deployments, enterprise AI offerings, partnerships, responsible AI initiatives, and client outcomes. The section also includes a Q&A on Infosys's role in AI infrastructure modernization and enterprise implementation.
 topics:
   - AI-first strategy

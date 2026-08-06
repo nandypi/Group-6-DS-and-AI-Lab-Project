@@ -7,7 +7,7 @@ source_section_ids:
   - "Infosys_29052026201312_Infosys_Integrated_Annual_Report_2025-26__096__part_002"
 ---
 ---
-section_title: Defined Benefit Plans: Assumptions, Assets, Risks and Maturity Profile
+section_title: "Defined Benefit Plans: Assumptions, Assets, Risks and Maturity Profile"
 section_description: This section describes the actuarial assumptions, funding arrangements, plan asset allocation, risks, sensitivity analysis, expected contributions, and maturity profile of Infosys’s gratuity and pension defined benefit plans.
 topics:
   - Defined benefit plan assumptions
