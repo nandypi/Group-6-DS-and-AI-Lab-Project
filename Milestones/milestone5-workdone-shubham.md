@@ -574,9 +574,117 @@ Preferred reranking behavior:
 
 Embedding decision:
 
-The first YAML block is currently included in the text sent to the embedding
-model because the indexing script embeds the complete Markdown file. We are
-leaving the existing embeddings unchanged for now because the block is small,
-the reranker is the more important source of metadata bias, and changing the
-indexed text would require a full embedding rebuild. A later controlled
-experiment can compare Chroma retrieval with and without the structural block.
+The first YAML block is included in the text sent to the embedding model
+because the indexing script embeds the complete Markdown file. Initially, the
+embeddings were left unchanged because the block is small and the reranker was
+the more important source of metadata bias. After the YAML quoting repairs, the
+full approved corpus was subsequently re-embedded so Chroma contains the
+current Markdown text. The structural block remains in the embedding input;
+only its reranking treatment was changed.
+
+## 2026-08-06 - Colab GPU Metadata and Body Weight Sweep
+
+Task: evaluate how the BGE reranking recall changes when the body and semantic
+metadata weights are varied on the GPU.
+
+Colab experiment setup:
+
+- Processed all 50 questions from
+  `data/infosys_rag_test_dataset_50_queries.csv`.
+- Retrieved 35 Chroma candidates for every question.
+- Used the rebuilt Chroma collection containing 1,877 embeddings.
+- Used the updated filepath-aware YAML parser.
+- Used `BAAI/bge-reranker-v2-m3` on a Colab GPU with FP16.
+- Used the same candidate body and metadata scores for every weight pair.
+- Did not call the answer-generation LLM.
+- Calculated Recall@3, Recall@5, Recall@7, and Recall@9.
+
+The requested range from body weight 0.0 through 1.0 at a step of 0.1
+produces 11 pairs, including both endpoints. Metadata weight was calculated as
+`1 - body_weight`.
+
+Weight-sweep results:
+
+| Body weight | Metadata weight | Recall@3 | Recall@5 | Recall@7 | Recall@9 | Mean recall across cutoffs |
+|---:|---:|---:|---:|---:|---:|---:|
+| 0.0 | 1.0 | 42% | 44% | 50% | 54% | 47.5% |
+| 0.1 | 0.9 | 36% | 48% | 48% | 54% | 46.5% |
+| 0.2 | 0.8 | 36% | 42% | 50% | 54% | 45.5% |
+| 0.3 | 0.7 | 38% | 42% | 48% | 50% | 44.5% |
+| 0.4 | 0.6 | 36% | 40% | 42% | 48% | 41.5% |
+| 0.5 | 0.5 | 36% | 42% | 42% | 44% | 41.0% |
+| 0.6 | 0.4 | 36% | 40% | 42% | 42% | 40.0% |
+| 0.7 | 0.3 | 38% | 40% | 40% | 42% | 40.0% |
+| 0.8 | 0.2 | 38% | 40% | 40% | 42% | 40.0% |
+| 0.9 | 0.1 | 36% | 40% | 40% | 42% | 39.5% |
+| 1.0 | 0.0 | 32% | 38% | 40% | 42% | 38.0% |
+
+Best weight by cutoff:
+
+- Recall@3: body `0.0`, metadata `1.0`, at 42% or 21/50 questions.
+- Recall@5: body `0.1`, metadata `0.9`, at 48% or 24/50 questions.
+- Recall@7: body `0.0` or `0.2`, metadata `1.0` or `0.8`, at 50% or 25/50
+  questions.
+- Recall@9: body `0.0`, `0.1`, or `0.2`, metadata `1.0`, `0.9`, or `0.8`, at
+  54% or 27/50 questions.
+
+Latency behavior:
+
+- Model loading took 29.429 seconds.
+- Mean reranking latency was 3.278 seconds per question for every weight pair.
+- Median reranking latency was 3.321 seconds per question for every weight
+  pair.
+- Mean end-to-end latency was 3.695 seconds per question for every weight pair.
+- Median end-to-end latency was 3.547 seconds per question for every weight
+  pair.
+
+The identical latency values are expected. The notebook computes each body and
+metadata BGE score once per question, then reuses those scores while changing
+only the lightweight weighted sorting step.
+
+Comparison with the earlier noisy first-YAML benchmark:
+
+| Setup | Recall@3 | Recall@5 | Recall@7 | Recall@9 | Mean recall across cutoffs |
+|---|---:|---:|---:|---:|---:|
+| Earlier 35-candidate run with noisy first-block metadata and 0.8/0.2 weights | 40% | 46% | 50% | 56% | 48.0% |
+| New semantic-metadata run with 0.0/1.0 weights | 42% | 44% | 50% | 54% | 47.5% |
+| New semantic-metadata run with 0.1/0.9 weights | 36% | 48% | 48% | 54% | 46.5% |
+| New semantic-metadata run with 0.2/0.8 weights | 36% | 42% | 50% | 54% | 45.5% |
+| New run with the old 0.8/0.2 weights | 38% | 40% | 40% | 42% | 40.0% |
+
+Interpretation:
+
+- Within the new GPU experiment, metadata-heavy ranking consistently performs
+  better than body-heavy ranking.
+- Metadata-only ranking is the strongest overall new configuration by average
+  recall, although it does not win every individual cutoff.
+- The old noisy-metadata benchmark had a slightly higher average recall than
+  the best new weight configuration, so the experiment does not prove that
+  switching to semantic metadata improves absolute recall.
+- The new 0.8/0.2 configuration performed substantially worse than the earlier
+  0.8/0.2 run, especially at Recall@7 and Recall@9.
+- The first YAML block should not be considered beneficial merely because the
+  earlier run had higher recall. It was structural metadata and was not a
+  semantically meaningful relevance signal.
+
+Comparison limitations:
+
+- The earlier run used the old Chroma embeddings and the old first-block
+  metadata behavior.
+- The new run used rebuilt embeddings, the filepath-aware parser, and GPU
+  FP16 inference.
+- GPU and CPU BGE scores can produce slightly different rankings because of
+  numerical precision.
+- Source document boundaries and current exact filepath matching differ from
+  earlier benchmark representations.
+- Recall only checks whether the expected source appears in the requested
+  rank. It does not measure answer completeness or answer correctness.
+- The generated `sample_queries` metadata may resemble user questions and can
+  make metadata-only retrieval especially strong.
+
+Conclusion and next step:
+
+The current `0.8 body / 0.2 metadata` configuration should not be selected from
+this sweep. The most promising configurations for further evaluation are
+`0.0/1.0`, `0.1/0.9`, and `0.2/0.8`. Before selecting a production weighting,
+compare these settings using answer quality and precision in addition to recall.
