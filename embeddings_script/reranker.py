@@ -47,8 +47,9 @@ def _read_yaml_block(lines, start_index):
             metadata = yaml.safe_load(metadata_text) or {}
             if not isinstance(metadata, dict):
                 raise ValueError("front matter must contain a mapping")
-        except (yaml.YAMLError, ValueError) as error:
-            warnings.warn(f"Could not parse YAML front matter: {error}")
+        except (yaml.YAMLError, ValueError):
+            # Keep the raw block usable for reranking even if an older Chroma
+            # document was indexed before its YAML quoting was repaired.
             metadata = None
         return index, metadata_text, metadata
 
@@ -105,12 +106,15 @@ def split_front_matter(document, filepath=""):
         ):
             return first_text, body, first_metadata
 
-        return "", body, {}
+        if second_text:
+            return second_text, body, {}
+
+        return first_text, body, {}
 
     if isinstance(first_metadata, dict):
         return first_text, body, first_metadata
 
-    return "", body, {}
+    return first_text, body, {}
 
 
 def truncate_body_for_reranker(tokenizer, question, body, max_tokens=MAX_TOKENS):
