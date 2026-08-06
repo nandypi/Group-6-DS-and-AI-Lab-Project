@@ -528,3 +528,55 @@ Interpretation and comparison limits:
   answer generation.
 - Therefore, the results show a directional quality and latency change rather
   than a perfectly controlled model comparison.
+
+## 2026-08-06 - YAML Front Matter and Reranking Decision
+
+During a review of the reranking inputs, we found that the cleaned files for
+the following two categories contain two YAML front matter blocks:
+
+- NSE documents greater than 10 pages:
+  `data/nse_files_final/knowledge_extraction/greater_than_10_pages/cleaned_section_files_1500_2500`
+- Infosys earnings-call and investor-relations documents:
+  `data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500`
+
+The first block contains structural and provenance fields such as
+`document_name`, `group_id`, `source_section_count`, `actual_tokens`, and
+`source_section_ids`. The second block contains knowledge-extraction metadata:
+`section_title`, `section_description`, `topics`, and `sample_queries`.
+
+The current reranker extracts only the first YAML block as metadata. Therefore,
+the existing 20% metadata score can unintentionally score the structural block,
+which is not useful for semantic relevance. The second block currently remains
+inside the body used for the 80% body score.
+
+Decision not to remove the first YAML block:
+
+- It preserves group and source-section provenance for auditing and debugging.
+- The current section-cleaning script expects the original YAML block and
+  validates that it is preserved.
+- Removing or relocating it would require changing the cleaning and parsing
+  contracts and regenerating the Chroma embeddings.
+- Chroma separately stores the indexed file path and filename, but the YAML
+  still provides useful data-lineage information in the Markdown artifacts.
+- The block is small, and the current pipeline retrieves 35 candidates before
+  reranking, so its embedding effect is considered acceptable for now.
+
+Preferred reranking behavior:
+
+- Use the filepath to identify the two affected categories.
+- For paths containing `infosys_earning_calls` or `greater_than_10_pages`,
+  attempt to use the second YAML block as semantic metadata.
+- For all other paths, keep the existing first-block behavior.
+- If the expected second block is absent or malformed, fall back safely to the
+  first block or body-only scoring rather than failing the whole query.
+- The same parsing decision should be used when removing YAML before body
+  scoring and before building the final answer context.
+
+Embedding decision:
+
+The first YAML block is currently included in the text sent to the embedding
+model because the indexing script embeds the complete Markdown file. We are
+leaving the existing embeddings unchanged for now because the block is small,
+the reranker is the more important source of metadata bias, and changing the
+indexed text would require a full embedding rebuild. A later controlled
+experiment can compare Chroma retrieval with and without the structural block.
