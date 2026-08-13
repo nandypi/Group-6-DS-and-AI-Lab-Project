@@ -1,0 +1,43 @@
+# Shared build config reused by both services.
+x-common: &common
+  build: .
+  image: finquery:latest
+  env_file: .env
+  restart: unless-stopped
+
+services:
+  api:
+    <<: *common
+    command: uvicorn api:app --host 0.0.0.0 --port 8000
+    ports:
+      - "8000:8000"
+    volumes:
+      # Pre-built SQLite fact database (writable — SQLite WAL mode needs write access)
+      - ./metadata_embedding_pipeline/facts.db:/app/metadata_embedding_pipeline/facts.db
+      # Pre-built ChromaDB vector store (writable — ChromaDB writes internal state even on reads)
+      - ./metadata_embedding_pipeline/chroma_db:/app/metadata_embedding_pipeline/chroma_db
+      # Source markdown files — required by the VECTOR pipeline to read document bodies
+      - ./data:/app/data:ro
+    healthcheck:
+      test: ["CMD-SHELL", "python -c 'import urllib.request; urllib.request.urlopen(\"http://localhost:8000/health\")'"]
+      interval: 20s
+      timeout: 10s
+      retries: 5
+      start_period: 10s
+
+  streamlit:
+    <<: *common
+    # API_BASE_URL uses the Docker service name so Streamlit's server-side
+    # requests.post() calls reach the api container over the internal network.
+    command: >
+      streamlit run streamlit_app.py
+      --server.port 8501
+      --server.address 0.0.0.0
+      --server.headless true
+    environment:
+      - API_BASE_URL=http://api:8000
+    ports:
+      - "8501:8501"
+    depends_on:
+      api:
+        condition: service_healthy
