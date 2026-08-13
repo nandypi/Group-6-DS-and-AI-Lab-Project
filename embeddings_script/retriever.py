@@ -15,18 +15,23 @@ the reranker, and it is removed before final answering.
 
 import os
 import time
+from pathlib import Path
 
 import chromadb
 from dotenv import load_dotenv
 from openai import OpenAI
 import tiktoken
 
-from reranker import BGEReranker, score_document, split_front_matter
+if __package__ in (None, ""):
+    from reranker import BGEReranker, score_document, split_front_matter
+else:
+    from embeddings_script.reranker import BGEReranker, score_document, split_front_matter
 
 
-load_dotenv()
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+load_dotenv(PROJECT_ROOT / ".env")
 
-CHROMA_DB_PATH = "./chroma_db"
+CHROMA_DB_PATH = str(PROJECT_ROOT / "chroma_db")
 COLLECTION_NAME = os.getenv("COLLECTION_NAME", "finance_file_embeddings")
 EMBEDDING_MODEL = "text-embedding-3-small"
 LLM_MODEL = "gpt-4o-mini"
@@ -54,10 +59,11 @@ def read_bool_setting(name, default=True):
     raise ValueError(f"ERROR: {name} must be True or False.")
 
 
-DO_RERANKING = read_bool_setting("DO_RERANKING", default=True)
+DO_RERANKING = read_bool_setting("DO_RERANKING", default=False)
 
 client = None
 collection = None
+_reranker = None
 
 
 def get_clients():
@@ -69,6 +75,31 @@ def get_clients():
         chroma_client = chromadb.PersistentClient(path=CHROMA_DB_PATH)
         collection = chroma_client.get_collection(COLLECTION_NAME)
     return client, collection
+
+
+def get_reranker():
+    """Load and cache the local reranker for repeated API calls.
+
+    The default local setup intentionally avoids reranking unless the user
+    explicitly opts in. If the model cannot initialize in a constrained local
+    environment, we fall back to the simpler Chroma retrieval pipeline instead of
+    crashing the backend process.
+    """
+    global _reranker
+    if _reranker is not None:
+        return _reranker
+
+    try:
+        _reranker = BGEReranker(
+            model_name=os.getenv("RERANKER_MODEL", "BAAI/bge-reranker-v2-m3"),
+            max_tokens=int(os.getenv("RERANKER_MAX_TOKENS", "8190")),
+        )
+    except Exception as exc:  # pragma: no cover - runtime environment issue
+        raise RuntimeError(
+            "BGE reranker could not be initialized. Set DO_RERANKING=False or install the required dependencies."
+        ) from exc
+
+    return _reranker
 
 
 def get_embedding(text):
@@ -266,6 +297,66 @@ def print_latency(timings):
     for key, label in labels:
         if key in timings:
             print(f"{label}: {timings[key]:.3f} seconds")
+
+
+def answer_question(question):
+    """Run the existing RAG pipeline and return the answer plus citations."""
+    pipeline_start = time.perf_counter()
+    timings = {}
+
+    try:
+        if DO_RERANKING:
+            results = retrieve(question, timings)
+            reranking_start = time.perf_counter()
+            selected_documents = rerank_results(results, question, get_reranker())
+            timings["reranking"] = time.perf_counter() - reranking_start
+        else:
+            results = retrieve(question, timings)
+            selection_start = time.perf_counter()
+            selected_documents = select_without_reranking(results)
+            timings["selection"] = time.perf_counter() - selection_start
+    except RuntimeError:
+        # Fallback to the safe no-rerank branch when the BGE model cannot load.
+        results = retrieve(question, timings)
+        selection_start = time.perf_counter()
+        selected_documents = select_without_reranking(results)
+        timings["selection"] = time.perf_counter() - selection_start
+
+    if not selected_documents:
+        timings["total"] = time.perf_counter() - pipeline_start
+        return {
+            "answer": "I could not find this information in the provided documents.",
+            "citations": [],
+            "context": "",
+            "timings": timings,
+        }
+
+    context_start = time.perf_counter()
+    context = build_context(selected_documents)
+    timings["context"] = time.perf_counter() - context_start
+
+    llm_start = time.perf_counter()
+    answer = ask_llm(question, context)
+    timings["llm"] = time.perf_counter() - llm_start
+    timings["total"] = time.perf_counter() - pipeline_start
+
+    citations = []
+    for document in selected_documents:
+        filepath = document.get("filepath") or document.get("filename") or "unknown"
+        citations.append(
+            {
+                "filename": document.get("filename", filepath),
+                "filepath": filepath,
+                "score": document.get("final_score") or document.get("body_score") or 0.0,
+            }
+        )
+
+    return {
+        "answer": answer,
+        "citations": citations,
+        "context": context,
+        "timings": timings,
+    }
 
 
 def main():

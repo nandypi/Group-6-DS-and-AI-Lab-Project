@@ -4,6 +4,7 @@ python-dotenv
 tqdm
 tiktoken
 PyYAML
+rank_bm25
 FlagEmbedding
 torch
 transformers==4.57.1
@@ -12,3 +13,6 @@ datasets
 langchain==0.3.27
 langchain-community==0.3.27
 langchain-openai==0.2.14
+fastapi
+uvicorn
+streamlit
