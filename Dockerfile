@@ -29,13 +29,8 @@ RUN pip install --no-cache-dir \
     tqdm==4.67.1 \
     PyYAML==6.0.3 \
     tiktoken==0.9.0 \
-    python-dotenv==1.1.0
-
-# Pre-download the cross-encoder model so the first VECTOR request is not delayed
-RUN python -c "\
-from transformers import AutoTokenizer, AutoModelForSequenceClassification; \
-AutoTokenizer.from_pretrained('cross-encoder/ms-marco-MiniLM-L-6-v2'); \
-AutoModelForSequenceClassification.from_pretrained('cross-encoder/ms-marco-MiniLM-L-6-v2')"
+    python-dotenv==1.1.0 \
+    rank-bm25==0.2.2
 
 # Copy application source (data files are provided via volume mounts)
 COPY api.py streamlit_app.py ./

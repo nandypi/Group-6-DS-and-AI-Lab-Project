@@ -1,0 +1,149 @@
+﻿id,question,expected_answer,expected_answer_numeric,expected_route,relevant_metric,relevant_periods,notes,actual_route,route_correct,sql_generated,sql_error,row_count,llm_answer,numeric_match,citations,routing_latency_seconds,query_latency_seconds,overall_latency_seconds,pipeline_status,pipeline_error
+1,What was the average operating margin of Infosys over Q1 to Q4 FY26?,20.275%,20.275,FACT_DB,operating_margin,"Q1_FY26,Q2_FY26,Q3_FY26,Q4_FY26",Q1=20.8 Q2=21.0 Q3=18.4 Q4=20.9 avg=20.275,FACT_DB,True,"SELECT AVG(value_numeric) AS average_operating_margin, file_path 
+FROM facts 
+WHERE row_label LIKE '%Operating Margin%' 
+AND column_label != 'prose' 
+AND column_label NOT LIKE '%Growth%' 
+AND column_label NOT LIKE '%YoY%' 
+AND column_label NOT LIKE '%QoQ%' 
+AND column_label NOT LIKE '%Adjusted%' 
+AND column_label NOT LIKE '%non-IFRS%' 
+AND unit = '%' 
+AND value_numeric BETWEEN 15 AND 25 
+AND period IN ('Q1_FY26', 'Q2_FY26', 'Q3_FY26', 'Q4_FY26') 
+AND value_numeric IS NOT NULL;",,1,The average operating margin of Infosys over Q1 to Q4 FY26 was approximately 20.01%.,True,data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q1-fact-sheet/group_001.md,3.006,3.492,6.498,Success,
+2,Which quarter in FY26 had the lowest operating margin for Infosys?,Q3 FY26 with 18.4%,18.4,FACT_DB,operating_margin,"Q1_FY26,Q2_FY26,Q3_FY26,Q4_FY26",Q3 FY26 (Dec 31 2025) was 18.4%,FACT_DB,True,"SELECT file_path, period, value_numeric 
+FROM facts 
+WHERE row_label LIKE '%Operating Margin%' 
+AND column_label != 'prose' 
+AND column_label NOT LIKE '%Growth%' 
+AND column_label NOT LIKE '%YoY%' 
+AND column_label NOT LIKE '%QoQ%' 
+AND column_label NOT LIKE '%Adjusted%' 
+AND column_label NOT LIKE '%non-IFRS%' 
+AND unit = '%' 
+AND value_numeric BETWEEN 15 AND 25 
+AND period IN ('Q1_FY26','Q2_FY26','Q3_FY26','Q4_FY26') 
+AND value_numeric IS NOT NULL;",,26,"The quarter in FY26 with the lowest operating margin for Infosys was Q3_FY26, which had an operating margin of 18.4%.",True,data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q1-fact-sheet/group_001.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q1-fact-sheet/group_002.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q2-fact-sheet/group_001.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q2-fact-sheet/group_002.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q3-fact-sheet/group_001.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q3-fact-sheet/group_002.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q3-fact-sheet/group_003.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q3-ifrs-inr-press-release/group_003.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q3-ifrs-inr-press-release/group_004.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q4-fact-sheet/group_001.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q4-fact-sheet/group_002.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q4-fact-sheet/group_003.md,0.843,3.357,4.200,Success,
+3,Which quarter in FY26 had the highest operating margin for Infosys?,Q2 FY26 with 21.0%,21.0,FACT_DB,operating_margin,"Q1_FY26,Q2_FY26,Q3_FY26,Q4_FY26",Q2 FY26 (Sep 30 2025) was 21.0%,FACT_DB,True,"SELECT file_path, period, value_numeric 
+FROM facts 
+WHERE row_label LIKE '%Operating Margin%' 
+AND column_label != 'prose' 
+AND column_label NOT LIKE '%Growth%' 
+AND column_label NOT LIKE '%YoY%' 
+AND column_label NOT LIKE '%QoQ%' 
+AND column_label NOT LIKE '%Adjusted%' 
+AND column_label NOT LIKE '%non-IFRS%' 
+AND unit = '%' 
+AND value_numeric BETWEEN 15 AND 25 
+AND period IN ('Q1_FY26','Q2_FY26','Q3_FY26','Q4_FY26') 
+AND value_numeric IS NOT NULL;",,26,"The quarter in FY26 with the highest operating margin for Infosys was Q2_FY26, which recorded an operating margin of 21.0%.",True,data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q1-fact-sheet/group_001.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q1-fact-sheet/group_002.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q2-fact-sheet/group_001.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q2-fact-sheet/group_002.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q3-fact-sheet/group_001.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q3-fact-sheet/group_002.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q3-fact-sheet/group_003.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q3-ifrs-inr-press-release/group_003.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q3-ifrs-inr-press-release/group_004.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q4-fact-sheet/group_001.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q4-fact-sheet/group_002.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q4-fact-sheet/group_003.md,0.754,5.079,5.833,Success,
+4,By how many percentage points did Infosys operating margin drop from Q2 FY26 to Q3 FY26?,2.6 percentage points,2.6,FACT_DB,operating_margin,"Q2_FY26,Q3_FY26",21.0 minus 18.4 = 2.6 pp drop,FACT_DB,True,"SELECT (Q2.value_numeric - Q3.value_numeric) AS margin_drop_percentage_points, Q2.file_path
+FROM facts AS Q2
+JOIN facts AS Q3 ON Q2.row_label = Q3.row_label
+WHERE Q2.period = 'Q2_FY26' 
+AND Q3.period = 'Q3_FY26' 
+AND Q2.row_label LIKE '%Operating Margin%' 
+AND Q2.column_label != 'prose' 
+AND Q2.column_label NOT LIKE '%Growth%' 
+AND Q2.column_label NOT LIKE '%YoY%' 
+AND Q2.column_label NOT LIKE '%QoQ%' 
+AND Q2.column_label NOT LIKE '%Adjusted%' 
+AND Q2.column_label NOT LIKE '%non-IFRS%' 
+AND Q2.unit = '%' 
+AND Q2.value_numeric BETWEEN 15 AND 25 
+AND Q3.row_label LIKE '%Operating Margin%' 
+AND Q3.column_label != 'prose' 
+AND Q3.column_label NOT LIKE '%Growth%' 
+AND Q3.column_label NOT LIKE '%YoY%' 
+AND Q3.column_label NOT LIKE '%QoQ%' 
+AND Q3.column_label NOT LIKE '%Adjusted%' 
+AND Q3.column_label NOT LIKE '%non-IFRS%' 
+AND Q3.unit = '%' 
+AND Q3.value_numeric BETWEEN 15 AND 25;",,42,Infosys' operating margin dropped by 2.6 percentage points from Q2 FY26 to Q3 FY26.,True,data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q2-fact-sheet/group_001.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q2-fact-sheet/group_002.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q3-fact-sheet/group_001.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q3-fact-sheet/group_002.md,2.458,4.711,7.169,Success,
+5,What was Infosys operating margin in Q3 FY26?,18.4%,18.4,FACT_DB,operating_margin,Q3_FY26,From Q3 FY26 fact sheet (quarter ended Dec 31 2025),FACT_DB,True,"SELECT file_path, value_numeric 
+FROM facts 
+WHERE row_label LIKE '%Operating Margin%' 
+AND column_label != 'prose' 
+AND column_label NOT LIKE '%Growth%' 
+AND column_label NOT LIKE '%YoY%' 
+AND column_label NOT LIKE '%QoQ%' 
+AND column_label NOT LIKE '%Adjusted%' 
+AND column_label NOT LIKE '%non-IFRS%' 
+AND unit = '%' 
+AND value_numeric BETWEEN 15 AND 25 
+AND period = 'Q3_FY26' 
+AND value_numeric IS NOT NULL;",,12,Infosys' operating margin in Q3 FY26 was reported as 18.4% and 20.0% across multiple sources.,True,data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q3-fact-sheet/group_001.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q3-fact-sheet/group_002.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q3-fact-sheet/group_003.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q3-ifrs-inr-press-release/group_003.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q3-ifrs-inr-press-release/group_004.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q4-fact-sheet/group_001.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q4-fact-sheet/group_002.md,1.023,3.176,4.199,Success,
+6,What was Infosys large deal TCV in Q3 FY26?,$4.8 billion,4.8,FACT_DB,large_deal_tcv,Q3_FY26,Fact sheet states $4.8 Bn Large Deal TCV,FACT_DB,True,"SELECT file_path, value_numeric 
+FROM facts 
+WHERE unit = 'USD_bn' 
+AND column_label = 'prose' 
+AND (LOWER(row_label) LIKE '%large deal%' OR LOWER(row_label) LIKE '%tcv%' OR LOWER(row_label) LIKE '%total contract%') 
+AND value_numeric < 6 
+AND period = 'Q3_FY26' 
+AND value_numeric IS NOT NULL;",,12,"In Q3 FY26, Infosys reported a large deal Total Contract Value (TCV) of 4.8 billion USD.",True,data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q3-earningscall/group_001.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q3-earningscall/group_004.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q3-fact-sheet/group_001.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q3-ifrs-inr-press-release/group_001.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q3-press-conference/group_001.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q3-press-conference/group_002.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q32-earningscall/group_001.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q32-earningscall/group_003.md,0.721,2.690,3.411,Success,
+7,Which quarter of FY26 had the highest large deal TCV for Infosys?,Q3 FY26 with $4.8 billion,4.8,FACT_DB,large_deal_tcv,"Q1_FY26,Q2_FY26,Q3_FY26,Q4_FY26",Q1=$3.8Bn Q2=$3.1Bn Q3=$4.8Bn,FACT_DB,True,"SELECT file_path, value_numeric 
+FROM facts 
+WHERE unit = 'USD_bn' 
+AND column_label = 'prose' 
+AND (LOWER(row_label) LIKE '%large deal%' OR LOWER(row_label) LIKE '%tcv%' OR LOWER(row_label) LIKE '%total contract%') 
+AND value_numeric < 6 
+AND value_numeric IS NOT NULL 
+AND period IN ('Q1_FY26','Q2_FY26','Q3_FY26','Q4_FY26');",,26,"The quarter of FY26 with the highest large deal TCV for Infosys was Q3_FY26, which recorded a total contract value (TCV) of 4.8 billion USD.",True,data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q1-earningscall/group_001.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q1-earningscall/group_004.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q1-fact-sheet/group_001.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q1-ifrs-inr-press-release/group_001.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q1-press-conference/group_001.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q1-press-conference/group_002.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q2-fact-sheet/group_001.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q3-earningscall/group_001.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q3-earningscall/group_004.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q3-fact-sheet/group_001.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q3-ifrs-inr-press-release/group_001.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q3-press-conference/group_001.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q3-press-conference/group_002.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q32-earningscall/group_001.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q32-earningscall/group_003.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q4-earningscall/group_001.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q4-earningscall/group_002.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q4-earningscall/group_004.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q4-press-conference/group_001.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q4-press-conference/group_003.md,0.787,3.378,4.165,Success,
+8,Which FY26 quarter had the highest percentage of net-new deals in Infosys large deal TCV?,Q2 FY26 with 67% net new,67.0,FACT_DB,net_new_deal_mix,"Q1_FY26,Q2_FY26,Q3_FY26",Q1=55% Q2=67% Q3=57%,FACT_DB,True,"SELECT file_path, value_numeric 
+FROM facts 
+WHERE unit = '%' 
+AND column_label = 'prose' 
+AND (LOWER(row_label) LIKE '%net new%' OR LOWER(row_label) LIKE '%net-new%') 
+AND value_numeric BETWEEN 45 AND 70 
+AND period IN ('Q1_FY26','Q2_FY26','Q3_FY26','Q4_FY26') 
+AND value_numeric IS NOT NULL;",,15,"The FY26 quarter with the highest percentage of net-new deals in Infosys large deal TCV was Q2_FY26, with a percentage of 67.0%.",True,data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q1-earningscall/group_001.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q1-earningscall/group_004.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q1-fact-sheet/group_001.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q1-ifrs-inr-press-release/group_001.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q2-fact-sheet/group_001.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q2-ifrs-inr-press-release/group_001.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q3-earningscall/group_001.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q3-fact-sheet/group_001.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q32-earningscall/group_001.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q4-earningscall/group_002.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q4-earningscall/group_004.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q4-press-conference/group_003.md,0.817,2.766,3.582,Success,
+9,What was Infosys voluntary attrition rate for IT Services in Q1 FY26?,14.4%,14.4,FACT_DB,attrition,Q1_FY26,From Q1 FY26 fact sheet (quarter ended Jun 30 2025),FACT_DB,True,"SELECT file_path, value_numeric 
+FROM facts 
+WHERE row_label LIKE '%Voluntary Attrition%' 
+AND column_label != 'prose' 
+AND unit = '%' 
+AND value_numeric IS NOT NULL 
+AND period = 'Q1_FY26';",,2,The voluntary attrition rate for Infosys IT Services in Q1 FY26 was 14.4%.,True,data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q1-fact-sheet/group_001.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q2-fact-sheet/group_001.md,0.715,2.879,3.595,Success,
+10,What was Infosys voluntary attrition rate for IT Services in Q3 FY26?,12.3%,12.3,FACT_DB,attrition,Q3_FY26,From Q3 FY26 fact sheet (quarter ended Dec 31 2025),FACT_DB,True,"SELECT file_path, value_numeric 
+FROM facts 
+WHERE row_label LIKE '%Voluntary Attrition%' 
+AND column_label != 'prose' 
+AND unit = '%' 
+AND value_numeric IS NOT NULL 
+AND period = 'Q3_FY26';",,2,The voluntary attrition rate for Infosys IT Services in Q3 FY26 was 12.3%.,True,data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q3-fact-sheet/group_001.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q4-fact-sheet/group_001.md,0.703,2.323,3.027,Success,
+11,What was the average voluntary attrition of Infosys IT Services over Q1 to Q4 FY26?,13.4%,13.4,FACT_DB,attrition,"Q1_FY26,Q2_FY26,Q3_FY26,Q4_FY26",Q1=14.4 Q2=14.3 Q3=12.3 Q4=12.6 avg=13.4,FACT_DB,True,"SELECT AVG(value_numeric) AS average_voluntary_attrition, file_path 
+FROM facts 
+WHERE row_label LIKE '%Voluntary Attrition%' 
+AND column_label != 'prose' 
+AND unit = '%' 
+AND value_numeric IS NOT NULL 
+AND period IN ('Q1_FY26', 'Q2_FY26', 'Q3_FY26', 'Q4_FY26');",,1,The average voluntary attrition of Infosys IT Services over Q1 to Q4 FY26 was approximately 13.51%.,True,data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q1-fact-sheet/group_001.md,0.644,2.561,3.206,Success,
+12,What was Infosys net profit for Q4 FY26?,$919 million,919.0,FACT_DB,net_profit,Q4_FY26,From Q4 FY26 income statement (quarter ended Mar 31 2026),FACT_DB,True,"SELECT file_path, value_numeric 
+FROM facts 
+WHERE row_label LIKE '%Net Profit%' 
+AND unit = 'USD_mn' 
+AND document_name LIKE '%fact-sheet%' 
+AND value_numeric > 0 
+AND period = 'Q4_FY26';",,1,Infosys net profit for Q4 FY26 was USD 919 million.,True,data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q4-fact-sheet/group_001.md,0.612,2.355,2.967,Success,
+13,What was Infosys revenue for Q3 FY26?,$5099 million,5099.0,FACT_DB,revenue,Q3_FY26,From Q3 FY26 income statement (quarter ended Dec 31 2025),FACT_DB,True,"SELECT file_path, value_numeric 
+FROM facts 
+WHERE row_label = 'Revenues' 
+AND unit = 'USD_mn' 
+AND document_name LIKE '%fact-sheet%' 
+AND value_numeric IS NOT NULL 
+AND period = 'Q3_FY26';",,2,"Infosys revenue for Q3 FY26 was $5,099 million.",True,data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q3-fact-sheet/group_001.md | data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q4-fact-sheet/group_001.md,0.614,2.253,2.868,Success,
+14,What was Infosys revenue for Q4 FY26?,$5040 million,5040.0,FACT_DB,revenue,Q4_FY26,From Q4 FY26 income statement (quarter ended Mar 31 2026),FACT_DB,True,"SELECT file_path, value_numeric 
+FROM facts 
+WHERE row_label = 'Revenues' 
+AND unit = 'USD_mn' 
+AND document_name LIKE '%fact-sheet%' 
+AND value_numeric IS NOT NULL 
+AND period = 'Q4_FY26';",,1,"Infosys revenue for Q4 FY26 was $5,040 million.",True,data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q4-fact-sheet/group_001.md,0.715,3.178,3.893,Success,
+15,What was Infosys diluted EPS for Q4 FY26?,$0.23,0.23,FACT_DB,eps,Q4_FY26,From Q4 FY26 income statement (quarter ended Mar 31 2026),FACT_DB,True,"SELECT file_path, value_numeric 
+FROM facts 
+WHERE row_label = 'Basic EPS ($)' 
+AND unit = 'USD_mn' 
+AND document_name LIKE '%fact-sheet%' 
+AND value_numeric IS NOT NULL 
+AND period = 'Q4_FY26';",,1,Infosys diluted EPS for Q4 FY26 was $0.23.,True,data/infosys_earning_calls_press_conf_fact_sheets_results/cleaned_section_files_1500_2500_v2/FY26-Q4-fact-sheet/group_001.md,0.635,2.535,3.170,Success,

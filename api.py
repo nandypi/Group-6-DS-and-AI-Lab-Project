@@ -22,7 +22,7 @@ Query pipeline
 1. Embed the question with text-embedding-3-small.
 2. Route the question (LLM → FACT_DB or VECTOR).
 3a. FACT_DB  → generate + execute SQL → generate natural-language answer.
-3b. VECTOR   → top-20 metadata retrieval → cross-encoder rerank → top-3 context → gpt-4o-mini.
+3b. VECTOR   → top-20 vector + top-20 BM25 → Reciprocal Rank Fusion (k=60) → top-3 context → gpt-4o-mini.
 4. Return workflow steps, answer, citations, and route metadata.
 
 Run
@@ -61,16 +61,16 @@ from metadata_embedding_utils import (  # noqa: E402
 )
 from router import route_question  # noqa: E402
 
-# Pipeline B reranker (lazy-loaded on first VECTOR request).
-_reranker = None
+# Pipeline B: BM25 index for hybrid RRF retrieval (lazy-loaded on first VECTOR request).
+_bm25_index = None
 
 
-def _get_reranker():
-    global _reranker
-    if _reranker is None:
-        from metadata_embedding_reranker_benchmark import CrossEncoderReranker  # noqa: E402
-        _reranker = CrossEncoderReranker()
-    return _reranker
+def _get_bm25_index():
+    global _bm25_index
+    if _bm25_index is None:
+        from hybrid_bm25_benchmark import BM25Index  # noqa: E402
+        _bm25_index = BM25Index(_get_chroma())
+    return _bm25_index
 
 
 # ---------------------------------------------------------------------------
@@ -184,10 +184,16 @@ def _get_context_body(filepath: str, char_limit: int = 4000) -> str:
 
 
 def _run_vector_pipeline(question: str) -> dict[str, Any]:
-    """Run Pipeline B: embed → top-20 Chroma → cross-encoder rerank → top-3 → LLM.
+    """Run Pipeline B: embed → top-20 Chroma + top-20 BM25 → RRF → top-3 → LLM.
 
-    Returns a dict with keys: answer, citations, retrieval_detail, llm_detail.
+    Reciprocal Rank Fusion (k=60) merges the vector and BM25 ranked lists so
+    that documents appearing highly in both are promoted above those appearing
+    in only one list.  No cross-encoder reranker is applied.
+
+    Returns a dict with keys: answer, citations, retrieval_detail.
     """
+    from hybrid_bm25_benchmark import rrf_fuse  # cached after first import
+
     client     = _get_openai()
     collection = _get_chroma()
 
@@ -196,35 +202,36 @@ def _run_vector_pipeline(question: str) -> dict[str, Any]:
         model=EMBEDDING_MODEL, input=[question]
     ).data[0].embedding
 
-    # Retrieve top-20 candidates.
+    # Vector search: top-20 candidates from Chroma.
     results = collection.query(
         query_embeddings=[embedding],
         n_results=20,
         include=["metadatas"],
     )
-    candidates: list[dict] = []
+    vector_docs: list[dict] = []
     for rank, meta in enumerate(results.get("metadatas", [[]])[0], start=1):
         fp = meta.get("filepath", meta.get("filename", ""))
-        candidates.append(
+        vector_docs.append(
             {"rank": rank, "filename": meta.get("filename", fp), "filepath": fp}
         )
 
-    retrieval_detail = f"Retrieved {len(candidates)} candidates from Chroma (metadata_embeddings)"
+    # BM25 keyword search: top-20 candidates from pre-built index.
+    bm25_docs = _get_bm25_index().search(question, top_k=20)
 
-    # Cross-encoder rerank.
-    reranker = _get_reranker()
-    reranked = reranker.rerank(question, candidates)
-    top3 = reranked[:3]
-    reranked_detail = (
-        f"Reranked with cross-encoder/ms-marco-MiniLM-L-6-v2; "
+    # Reciprocal Rank Fusion: merge both ranked lists.
+    hybrid_docs = rrf_fuse(vector_docs, bm25_docs)
+    top3 = hybrid_docs[:3]
+
+    retrieval_detail = (
+        f"Vector top-20 + BM25 top-20 fused with RRF (k=60); "
         f"top-3: {', '.join(d['filename'] for d in top3)}"
     )
 
-    # Read context bodies.
+    # Read context bodies for the top-3 documents.
     citations = [d["filepath"] for d in top3]
     bodies    = [_get_context_body(fp) for fp in citations]
 
-    # Generate answer.
+    # Generate answer with gpt-4o-mini.
     context_section = "\n\n---\n\n".join(
         f"[Document {i+1}]\n{body}" for i, body in enumerate(bodies)
     )
@@ -252,7 +259,6 @@ def _run_vector_pipeline(question: str) -> dict[str, Any]:
         "answer":           answer,
         "citations":        citations,
         "retrieval_detail": retrieval_detail,
-        "reranked_detail":  reranked_detail,
     }
 
 
@@ -387,13 +393,13 @@ async def query(
 
         steps.append(WorkflowStep(
             step=3,
-            name="Vector Pipeline Executed",
-            detail=f"{vec_result['retrieval_detail']}. {vec_result['reranked_detail']} in {vec_ms} ms.",
+            name="Hybrid Retrieval Executed",
+            detail=f"{vec_result['retrieval_detail']} in {vec_ms} ms.",
         ))
         steps.append(WorkflowStep(
             step=4,
             name="Answer Generated",
-            detail="gpt-4o-mini answered using top-3 reranked document bodies.",
+            detail="gpt-4o-mini answered using top-3 hybrid-ranked document bodies.",
         ))
         answer    = vec_result.get("answer", "No answer generated.")
         citations = vec_result.get("citations", [])
