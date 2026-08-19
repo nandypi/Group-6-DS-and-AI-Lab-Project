@@ -1,0 +1,16 @@
+id,question,expected_answer,expected_answer_numeric,expected_route,relevant_metric,relevant_periods,notes
+1,What was the average operating margin of Infosys over Q1 to Q4 FY26?,20.275%,20.275,FACT_DB,operating_margin,"Q1_FY26,Q2_FY26,Q3_FY26,Q4_FY26","Q1=20.8 Q2=21.0 Q3=18.4 Q4=20.9 avg=20.275"
+2,Which quarter in FY26 had the lowest operating margin for Infosys?,Q3 FY26 with 18.4%,18.4,FACT_DB,operating_margin,"Q1_FY26,Q2_FY26,Q3_FY26,Q4_FY26",Q3 FY26 (Dec 31 2025) was 18.4%
+3,Which quarter in FY26 had the highest operating margin for Infosys?,Q2 FY26 with 21.0%,21.0,FACT_DB,operating_margin,"Q1_FY26,Q2_FY26,Q3_FY26,Q4_FY26",Q2 FY26 (Sep 30 2025) was 21.0%
+4,By how many percentage points did Infosys operating margin drop from Q2 FY26 to Q3 FY26?,2.6 percentage points,2.6,FACT_DB,operating_margin,"Q2_FY26,Q3_FY26",21.0 minus 18.4 = 2.6 pp drop
+5,What was Infosys operating margin in Q3 FY26?,18.4%,18.4,FACT_DB,operating_margin,Q3_FY26,From Q3 FY26 fact sheet (quarter ended Dec 31 2025)
+6,What was Infosys large deal TCV in Q3 FY26?,$4.8 billion,4.8,FACT_DB,large_deal_tcv,Q3_FY26,Fact sheet states $4.8 Bn Large Deal TCV
+7,Which quarter of FY26 had the highest large deal TCV for Infosys?,Q3 FY26 with $4.8 billion,4.8,FACT_DB,large_deal_tcv,"Q1_FY26,Q2_FY26,Q3_FY26,Q4_FY26","Q1=$3.8Bn Q2=$3.1Bn Q3=$4.8Bn"
+8,Which FY26 quarter had the highest percentage of net-new deals in Infosys large deal TCV?,Q2 FY26 with 67% net new,67.0,FACT_DB,net_new_deal_mix,"Q1_FY26,Q2_FY26,Q3_FY26","Q1=55% Q2=67% Q3=57%"
+9,What was Infosys voluntary attrition rate for IT Services in Q1 FY26?,14.4%,14.4,FACT_DB,attrition,Q1_FY26,From Q1 FY26 fact sheet (quarter ended Jun 30 2025)
+10,What was Infosys voluntary attrition rate for IT Services in Q3 FY26?,12.3%,12.3,FACT_DB,attrition,Q3_FY26,From Q3 FY26 fact sheet (quarter ended Dec 31 2025)
+11,What was the average voluntary attrition of Infosys IT Services over Q1 to Q4 FY26?,13.4%,13.4,FACT_DB,attrition,"Q1_FY26,Q2_FY26,Q3_FY26,Q4_FY26","Q1=14.4 Q2=14.3 Q3=12.3 Q4=12.6 avg=13.4"
+12,What was Infosys net profit for Q4 FY26?,$919 million,919.0,FACT_DB,net_profit,Q4_FY26,From Q4 FY26 income statement (quarter ended Mar 31 2026)
+13,What was Infosys revenue for Q3 FY26?,$5099 million,5099.0,FACT_DB,revenue,Q3_FY26,From Q3 FY26 income statement (quarter ended Dec 31 2025)
+14,What was Infosys revenue for Q4 FY26?,$5040 million,5040.0,FACT_DB,revenue,Q4_FY26,From Q4 FY26 income statement (quarter ended Mar 31 2026)
+15,What was Infosys diluted EPS for Q4 FY26?,$0.23,0.23,FACT_DB,eps,Q4_FY26,From Q4 FY26 income statement (quarter ended Mar 31 2026)

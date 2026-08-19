@@ -1,0 +1,36 @@
+# ── Python cache ──────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+
+# ── Virtual environments ───────────────────────────────────────────────────────
+.venv/
+venv/
+env/
+
+# ── Data & pre-built indexes (provided as volume mounts at runtime) ────────────
+data/
+metadata_embedding_pipeline/facts.db
+metadata_embedding_pipeline/facts.db-shm
+metadata_embedding_pipeline/facts.db-wal
+metadata_embedding_pipeline/chroma_db/
+
+# ── Benchmark results & CSVs (not needed at runtime) ──────────────────────────
+metadata_embedding_pipeline/*.csv
+metadata_embedding_pipeline/*.md
+datapreparation/
+
+# ── HuggingFace / model caches ────────────────────────────────────────────────
+.cache/
+metadata_embedding_pipeline/__pycache__/
+
+# ── Git ────────────────────────────────────────────────────────────────────────
+.git/
+.gitignore
+
+# ── Misc ───────────────────────────────────────────────────────────────────────
+*.log
+.DS_Store
+sample-input-output/
+presentations/
